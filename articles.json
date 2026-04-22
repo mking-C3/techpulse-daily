@@ -1,5 +1,675 @@
 [
   {
+    "title": "Tesla Q1 revenue rises, driven by EV sales and FSD subscriptions",
+    "url": "https://techcrunch.com/2026/04/22/tesla-q1-revenue-rises-driven-by-ev-sales-and-fsd-subscriptions/",
+    "summary": "Sales rebounded a bit from the first quarter of 2025, as Tesla throws a ton of money at massive bets like robotics, AI, and its own chip fab.",
+    "source": "TechCrunch",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T20:57:21+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Rivian R2 production has started despite tornado damage to factory",
+    "url": "https://techcrunch.com/2026/04/22/rivian-r2-production-has-started-despite-tornado-damage-to-factory/",
+    "summary": "The company's all-important mass-market EV is just about ready to start heading to customers.",
+    "source": "TechCrunch",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T15:47:53+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Cosmetics giant Rituals confirms data breach of customer membership records",
+    "url": "https://techcrunch.com/2026/04/22/cosmetics-giant-rituals-confirms-data-breach-of-customer-membership-records/",
+    "summary": "The cosmetics retailer, which counts 41 million customers in its membership data, declined to provide an accurate total number of customers affected.",
+    "source": "TechCrunch",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T15:38:37+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Cathie Wood’s ARK makes its first lead investment in startup Lucra — and it isn’t AI",
+    "url": "https://techcrunch.com/2026/04/22/cathie-woods-ark-makes-its-first-lead-investment-in-startup-lucra-and-it-isnt-ai/",
+    "summary": "Lucra offers corporate loyalty programs reimagined as interactive esports. But winning ARK as a lead wasn't easy.",
+    "source": "TechCrunch",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T15:00:00+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
+    "url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
+    "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps.",
+    "source": "TechCrunch",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T14:22:10+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "UK government says 100 countries have spyware that can hack people’s phones",
+    "url": "https://techcrunch.com/2026/04/22/uk-government-says-100-countries-have-spyware-that-can-hack-peoples-phones/",
+    "summary": "The U.K.'s cybersecurity chief warned that U.K. businesses and critical infrastructure are underestimating the threat from spyware attacks and other cyberthreats, with more governments having access to the powerful surveillance technology than ever.",
+    "source": "TechCrunch",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T14:06:47+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Esther and Anne Wojcicki back new healthcare accelerator, fund",
+    "url": "https://techcrunch.com/2026/04/22/esther-and-anne-wojcicki-back-new-healthcare-accelerator-fund/",
+    "summary": "Mary Minno launches early-stage startup accelerator program, Treehub, and an early-stage firm, AI Health Fund, aimed at backing startups working at the intersection of healthcare and AI.",
+    "source": "TechCrunch",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T14:00:00+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "X makes it more expensive to post links through its API",
+    "url": "https://techcrunch.com/2026/04/22/x-makes-it-more-expensive-to-post-links-through-its-api/",
+    "summary": "Posting links on X through its API is now 1,900% more costly.",
+    "source": "TechCrunch",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T13:42:51+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Amazon Music partners with Bandsintown for concert listings",
+    "url": "https://techcrunch.com/2026/04/22/amazon-music-partners-with-bandsintowns-for-concert-listings/",
+    "summary": "Users will be able to see live events of an artist on their Amazon Music profile.",
+    "source": "TechCrunch",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T13:00:00+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "AI is spitting out more potential drugs than ever. This startup wants to figure out which ones matter.",
+    "url": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
+    "summary": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
+    "source": "TechCrunch",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T13:00:00+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Our newsroom AI policy",
+    "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+    "summary": "How Ars Technica uses, and doesn't use, generative AI.",
+    "source": "Ars Technica - All content",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T20:40:59+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Lawsuit: Nintendo is getting tariff refunds—its customers should get them instead",
+    "url": "https://arstechnica.com/tech-policy/2026/04/lawsuit-nintendo-is-getting-tariff-refunds-its-customers-should-get-them-instead/",
+    "summary": "Lawsuit demands Nintendo pass Trump tariff refunds on to its customers.",
+    "source": "Ars Technica - All content",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T20:27:24+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "RFK Jr. won't back CDC director on vaccines as agency scraps positive data",
+    "url": "https://arstechnica.com/health/2026/04/rfk-jr-doubles-down-on-vaccine-meddling-as-cdc-junks-scientific-study/",
+    "summary": "Kennedy's tesimony sets up another clash over vaccines with next CDC director.",
+    "source": "Ars Technica - All content",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T20:06:49+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Our favorite gear at Sea Otter Classic wasn't the bikes—it was the accessories",
+    "url": "https://arstechnica.com/cars/2026/04/our-favorite-gear-at-sea-otter-classic-wasnt-the-bikes-it-was-the-accessories/",
+    "summary": "A Bluetooth suction-cup rack and a palm-sized tow rope were among our most practical finds.",
+    "source": "Ars Technica - All content",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T11:15:49+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Investors lost billions on Trump’s memecoin. Another gala won’t fix that.",
+    "url": "https://arstechnica.com/tech-policy/2026/04/investors-lost-billions-on-trumps-memecoin-another-gala-wont-fix-that/",
+    "summary": "If Dems take Congress, Trump may face reckoning for “pay-to-play” memecoin galas.",
+    "source": "Ars Technica - All content",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T11:00:02+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Pentagon wants $54B for drones, more than most nations’ military budgets",
+    "url": "https://arstechnica.com/ai/2026/04/pentagon-wants-54b-for-drones-more-than-most-nations-military-budgets/",
+    "summary": "The proposed Pentagon drone investment rivals Ukraine’s entire military budget.",
+    "source": "Ars Technica - All content",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-21T21:57:54+00:00",
+    "date_str": "Apr 21, 2026"
+  },
+  {
+    "title": "Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150",
+    "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
+    "summary": "CTO says new AI model is \"every bit as capable\" as world's best security researchers.",
+    "source": "Ars Technica - All content",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-21T21:40:41+00:00",
+    "date_str": "Apr 21, 2026"
+  },
+  {
+    "title": "Supreme Court arguments make it clear that FCC fines are \"nonbinding\"",
+    "url": "https://arstechnica.com/tech-policy/2026/04/supreme-court-arguments-make-it-clear-that-fcc-fines-are-nonbinding/",
+    "summary": "FCC tells Supreme Court its fines are nonbinding unless a jury upholds penalty.",
+    "source": "Ars Technica - All content",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-21T21:28:27+00:00",
+    "date_str": "Apr 21, 2026"
+  },
+  {
+    "title": "Silo S3 teaser hints at the wasteland's origins",
+    "url": "https://arstechnica.com/culture/2026/04/silo-s3-teaser-turns-back-the-clock-to-a-greener-past/",
+    "summary": "\"Before we can know how it will all end, we need to understand how it all began.\"",
+    "source": "Ars Technica - All content",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-21T20:53:06+00:00",
+    "date_str": "Apr 21, 2026"
+  },
+  {
+    "title": "Framework's CEO on the RAM crisis and creating a \"MacBook Pro for Linux users\"",
+    "url": "https://arstechnica.com/gadgets/2026/04/frameworks-ceo-on-the-ram-crisis-and-creating-a-macbook-pro-for-linux-users/",
+    "summary": "\"We actually have slightly more Linux users than Windows users.\"",
+    "source": "Ars Technica - All content",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-21T20:22:20+00:00",
+    "date_str": "Apr 21, 2026"
+  },
+  {
+    "title": "X is going to let Grok curate your timeline",
+    "url": "https://www.theverge.com/tech/917113/x-ai-grok-timeline-curation",
+    "summary": "X is putting its AI chatbot, Grok, in charge of your timeline. In an announcement on Wednesday, X product head Nikita Bier says Premium subscribers on iOS can get early access to a feature that allows users to pin specific topics to their home tab, which Grok will then use to curate the posts you […]",
+    "source": "The Verge",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T20:49:38+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "OpenAI launches Privacy Filter, an open source, on-device data sanitization model that removes personal information from enterprise datasets",
+    "url": "https://venturebeat.com/data/openai-launches-privacy-filter-an-open-source-on-device-data-sanitization-model-that-removes-personal-information-from-enterprise-datasets",
+    "summary": "In a significant shift toward local-first privacy infrastructure, OpenAI has released Privacy Filter , a specialized open-source model designed to detect and redact personally identifiable information (PII) before it ever reaches a cloud-based server. Launched today on AI code sharing community Hugging Face under a permissive Apache 2.0 license , the tool addresses a growing industry bottleneck: the risk of sensitive data \"leaking\" into training sets or being exposed during high-throughput inference. By providing a 1.5-billion-parameter model that can run on a standard laptop or directly in a web browser, the company is effectively handing developers a \"privacy-by-design\" toolkit that functions as a sophisticated, context-aware digital shredder. Though OpenAI was founded with a focus on open source models such as…",
+    "source": "VentureBeat",
+    "category": "AI & Machine Learning",
+    "category_slug": "ai-machine-learning",
+    "date": "2026-04-22T18:01:00+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Google doesn't pay the Nvidia tax. Its new TPUs explain why.",
+    "url": "https://venturebeat.com/orchestration/google-doesnt-pay-the-nvidia-tax-its-new-tpus-explain-why",
+    "summary": "Every frontier AI lab right now is rationing two things: electricity and compute. Most of them buy their compute for model training from the same supplier, at the steep gross margins that have turned Nvidia into one of the most valuable companies in the world. Google does not. On Tuesday night, inside a private gathering at F1 Plaza in Las Vegas, Google previewed its eighth-generation Tensor Processing Units. The pitch: two custom silicon designs shipping later this year, each purpose-built for a different half of the modern AI workload. TPU 8t targets training for frontier models, and TPU 8i targets the low-latency, memory-hungry world of agentic inference and real-time sampling. Amin Vahdat, Google's SVP and chief technologist for AI and…",
+    "source": "VentureBeat",
+    "category": "AI & Machine Learning",
+    "category_slug": "ai-machine-learning",
+    "date": "2026-04-22T17:04:17+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Salesforce’s Agentforce Vibes 2.0 targets a hidden failure: context overload in AI agents",
+    "url": "https://venturebeat.com/orchestration/salesforces-agentforce-vibes-2-0-targets-a-hidden-failure-context-overload-in-ai-agents",
+    "summary": "When startup fundraising platform VentureCrowd began deploying AI coding agents, they saw the same gains as other enterprises: they cut the front-end development cycle by 90% in some projects. However, it didn’t come easy or without a lot of trial and error. VentureCrowd’s first challenge revolved around data and context quality, since Diego Mogollon, chief product officer at VentureCrowd, told VentureBeat that “agents reason against whatever data they can access at runtime” and would then be confidently “wrong” because they’re only basing their knowledge on the context given to them. Their other roadblock, like many others, was messy data and unclear processes. Similar to context, Mogollon said coding agents would amplify bad data, so the company had to build a…",
+    "source": "VentureBeat",
+    "category": "AI & Machine Learning",
+    "category_slug": "ai-machine-learning",
+    "date": "2026-04-22T15:54:00+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "The modern data stack was built for humans asking questions. Google just rebuilt its for agents taking action.",
+    "url": "https://venturebeat.com/data/the-modern-data-stack-was-built-for-humans-asking-questions-google-just-rebuilt-its-for-agents-taking-action",
+    "summary": "Enterprise data stacks were built for humans running scheduled queries. As AI agents increasingly act autonomously on behalf of businesses around the clock, that architecture is breaking down — and vendors are racing to rebuild it. Google's answer, announced at Cloud Next on Wednesday, is the Agentic Data Cloud. The architecture has three pillars: Knowledge Catalog. Automates semantic metadata curation, inferring business logic from query logs without manual data steward intervention Cross-cloud lakehouse. Lets BigQuery query Iceberg tables on AWS S3 via private network with no egress fees Data Agent Kit . Drops MCP tools into VS Code, Claude Code and Gemini CLI so data engineers describe outcomes rather than write pipelines \"The data architecture has to change now,\" Andi…",
+    "source": "VentureBeat",
+    "category": "AI & Machine Learning",
+    "category_slug": "ai-machine-learning",
+    "date": "2026-04-22T12:00:00+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Google’s Gemini can now run on a single air-gapped server — and vanish when you pull the plug",
+    "url": "https://venturebeat.com/technology/googles-gemini-can-now-run-on-a-single-air-gapped-server-and-vanish-when-you-pull-the-plug",
+    "summary": "Cirrascale Cloud Services today announced it has expanded its partnership with Google Cloud to deliver the Gemini model on-premises through Google Distributed Cloud , making it the first neocloud provider to offer Google's most advanced AI model as a fully private, disconnected appliance. The announcement, timed to coincide with Google Cloud Next 2026 in Las Vegas, addresses a stubborn problem that has plagued regulated industries since the generative AI boom began: how to access frontier-class AI models without surrendering control of your data. The offering packages Gemini into a Dell-manufactured, Google-certified hardware appliance equipped with eight Nvidia GPUs and wrapped in confidential computing protections. Enterprises and government agencies can deploy the system inside Cirrascale's data centers or their own facilities,…",
+    "source": "VentureBeat",
+    "category": "AI & Machine Learning",
+    "category_slug": "ai-machine-learning",
+    "date": "2026-04-22T12:00:00+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Google’s new Deep Research and Deep Research Max agents can search the web and your private data",
+    "url": "https://venturebeat.com/technology/googles-new-deep-research-and-deep-research-max-agents-can-search-the-web-and-your-private-data",
+    "summary": "Google on Monday unveiled the most significant upgrade to its autonomous research agent capabilities since the product's debut, launching two new agents — Deep Research and Deep Research Max — that for the first time allow developers to fuse open web data with proprietary enterprise information through a single API call , produce native charts and infographics inside research reports, and connect to arbitrary third-party data sources through the Model Context Protocol (MCP). The release, built on Google's Gemini 3.1 Pro model , marks an inflection point in the rapidly intensifying race to build AI systems that can autonomously conduct the kind of exhaustive, multi-source research that has traditionally consumed hours or days of human analyst time. It also represents…",
+    "source": "VentureBeat",
+    "category": "AI & Machine Learning",
+    "category_slug": "ai-machine-learning",
+    "date": "2026-04-21T20:43:18+00:00",
+    "date_str": "Apr 21, 2026"
+  },
+  {
+    "title": "Vercel breach exposes the OAuth gap most security teams cannot detect, scope or contain",
+    "url": "https://venturebeat.com/security/vercel-breach-exposes-the-oauth-gap-most-security-teams-cannot-detect-scope-or-contain",
+    "summary": "One employee at Vercel adopted an AI tool. One employee at that AI vendor got hit with an infostealer. That combination created a walk-in path to Vercel’s production environments through an OAuth grant that nobody had reviewed. Vercel, the cloud platform behind Next.js and its millions of weekly npm downloads, confirmed on Sunday that attackers gained unauthorized access to internal systems. Mandiant was brought in. Law enforcement was notified. Investigations remain active. An update on Monday confirmed that Vercel collaborated with GitHub, Microsoft, npm, and Socket to verify that no Vercel npm packages were compromised. Vercel also announced it is now defaulting environment variable creation to “sensitive.” Next.js, Turbopack, AI SDK, and all Vercel-published npm packages remain uncompromised after a…",
+    "source": "VentureBeat",
+    "category": "AI & Machine Learning",
+    "category_slug": "ai-machine-learning",
+    "date": "2026-04-21T20:07:26+00:00",
+    "date_str": "Apr 21, 2026"
+  },
+  {
+    "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
+    "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting harder to tell amid the constant launches, hype, and warnings. To cut through…",
+    "source": "MIT Technology Review",
+    "category": "AI & Machine Learning",
+    "category_slug": "ai-machine-learning",
+    "date": "2026-04-22T12:10:00+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "AI needs a strong data fabric to deliver business value",
+    "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+    "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes…",
+    "source": "MIT Technology Review",
+    "category": "AI & Machine Learning",
+    "category_slug": "ai-machine-learning",
+    "date": "2026-04-22T10:05:06+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "3 things Michelle Kim is into right now",
+    "url": "https://www.technologyreview.com/2026/04/22/1135423/3-things-michelle-kim/",
+    "summary": "Isegye Idol If you thought K-pop was weird, virtual idols—humans who perform as anime-style digital characters via motion capture—will blow your mind. My favorite is a girl group called Isegye Idol, created by Woowakgood, a Korean VTuber (a streamer who likewise performs as a digital persona). Isegye Idol’s six members are anonymous, which seems to…",
+    "source": "MIT Technology Review",
+    "category": "AI & Machine Learning",
+    "category_slug": "ai-machine-learning",
+    "date": "2026-04-22T10:00:00+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "One town’s scheme to get rid of its geese",
+    "url": "https://www.technologyreview.com/2026/04/22/1135430/california-town-scheme-get-rid-geese/",
+    "summary": "“Pull over!” I order my brother one sunny February afternoon. Our target is in sight: a gaggle of Canada geese, pecking at grass near the dog park. As I approach, tiptoeing over their grayish-white poop, I notice that one bird wears a white cuff around its slender black neck. It’s a GPS tracker—part of a…",
+    "source": "MIT Technology Review",
+    "category": "AI & Machine Learning",
+    "category_slug": "ai-machine-learning",
+    "date": "2026-04-22T10:00:00+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "There is no nature anymore",
+    "url": "https://www.technologyreview.com/2026/04/22/1135440/editors-letter-may-2026/",
+    "summary": "When people talk about “nature,” they’re generally talking about things that aren’t made by human beings. Rocks. Reefs. Red wolves. But while there is plenty of God’s creation to go around, it is hard to think of anything on Earth that human hands haven’t affected. In the Brazilian rainforest, scientists have found microplastics in the…",
+    "source": "MIT Technology Review",
+    "category": "AI & Machine Learning",
+    "category_slug": "ai-machine-learning",
+    "date": "2026-04-22T10:00:00+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Los Angeles is finally going underground",
+    "url": "https://www.technologyreview.com/2026/04/22/1135449/los-angeles-subway-going-underground/",
+    "summary": "Los Angeles deserves its reputation as the quintessential car city—the rhythms of its 2,200 square miles are dictated by wide boulevards and concrete arcs of freeways. But it once had a world-class rail transit system, and for the last three decades, the city has been rebuilding a network of trolleys and subways. In May, a…",
+    "source": "MIT Technology Review",
+    "category": "AI & Machine Learning",
+    "category_slug": "ai-machine-learning",
+    "date": "2026-04-22T10:00:00+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now",
+    "url": "https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/",
+    "summary": "Listen to the session or watch below Subscribers saw a special edition of Roundtables simulcast live from EmTech AI, MIT Technology Review’s signature conference for AI leadership. Subscribers got an exclusive first look at a new list capturing 10 key technologies, emerging trends, bold ideas, and powerful movements in AI that you need to know…",
+    "source": "MIT Technology Review",
+    "category": "AI & Machine Learning",
+    "category_slug": "ai-machine-learning",
+    "date": "2026-04-21T22:09:25+00:00",
+    "date_str": "Apr 21, 2026"
+  },
+  {
+    "title": "The new word in home construction could be “plastics”",
+    "url": "https://www.technologyreview.com/2026/04/21/1134856/the-new-word-in-home-construction-could-be-plastics/",
+    "summary": "Single-use plastics are a persistent source of environmental pollution, and the need to house a growing global population puts increasing pressure on resources such as timber. MIT engineers have an idea that could make a dent in both problems at once. In a recent study, a team led by mechanical engineering professor David Hardt, SM…",
+    "source": "MIT Technology Review",
+    "category": "AI & Machine Learning",
+    "category_slug": "ai-machine-learning",
+    "date": "2026-04-21T21:00:00+00:00",
+    "date_str": "Apr 21, 2026"
+  },
+  {
+    "title": "A natural protein may protect the GI tract from infection",
+    "url": "https://www.technologyreview.com/2026/04/21/1134858/a-natural-protein-may-protect-the-gi-tract-from-infection/",
+    "summary": "Embedded in the body’s mucosal surfaces, proteins called lectins bind to sugars found on cell surfaces. A team led by MIT chemistry professor Laura Kiessling has found that one such protein, intelectin-2, both helps fortify the mucosal barrier and offers broad-spectrum protection against harmful bacteria found in the GI tract. Intelectin-2 binds to a sugar…",
+    "source": "MIT Technology Review",
+    "category": "AI & Machine Learning",
+    "category_slug": "ai-machine-learning",
+    "date": "2026-04-21T21:00:00+00:00",
+    "date_str": "Apr 21, 2026"
+  },
+  {
+    "title": "This tool could show how consciousness works",
+    "url": "https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/",
+    "summary": "How does the physical matter in our brains translate into thoughts, sensations, and emotions? It’s hard to explore that question without neurosurgery. But in a recent paper, MIT philosopher Matthias Michel, Lincoln Lab researcher Daniel Freeman, and colleagues outline a strategy for doing so with an emerging tool called transcranial focused ultrasound. This noninvasive technology…",
+    "source": "MIT Technology Review",
+    "category": "AI & Machine Learning",
+    "category_slug": "ai-machine-learning",
+    "date": "2026-04-21T21:00:00+00:00",
+    "date_str": "Apr 21, 2026"
+  },
+  {
+    "title": "Scientists develop dirt-powered fuel cell that could replace batteries",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260419054821.htm",
+    "summary": "Scientists have developed a fuel cell that uses microbes in soil to produce electricity. The device can power underground sensors for tasks like monitoring moisture or detecting touch, without needing batteries or solar panels. It works in both dry and wet conditions and even lasts longer than similar technologies. This could pave the way for sustainable, low-maintenance sensors in farming and environmental monitoring.",
+    "source": "Top Technology News -- ScienceDaily",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-19T12:57:46+00:00",
+    "date_str": "Apr 19, 2026"
+  },
+  {
+    "title": "Artificial neurons successfully communicate with living brain cells",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+    "summary": "Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain by printing artificial neurons that can actually communicate with real ones. These flexible, low-cost devices generate lifelike electrical signals capable of activating living brain cells, a breakthrough demonstrated in mouse brain tissue.",
+    "source": "Top Technology News -- ScienceDaily",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-18T07:32:36+00:00",
+    "date_str": "Apr 18, 2026"
+  },
+  {
+    "title": "Scientists just found a way to control electrons without magnets",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260417224509.htm",
+    "summary": "A surprising breakthrough in physics could reshape the future of computing by tapping into a strange, previously untapped property of matter. Scientists have shown that tiny atomic vibrations—called chiral phonons—can directly transfer motion to electrons, allowing them to carry information without magnets, batteries, or even electricity. This opens the door to a new field known as orbitronics, where data is processed using the orbital motion of electrons instead of traditional charge or spin.",
+    "source": "Top Technology News -- ScienceDaily",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-19T12:31:29+00:00",
+    "date_str": "Apr 19, 2026"
+  },
+  {
+    "title": "Why two-sun planets keep disappearing scientists blame Einstein",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260417224507.htm",
+    "summary": "Astronomers have long been puzzled by a cosmic mystery: planets orbiting two stars—like Star Wars’ Tatooine—are surprisingly rare, even though they should be common. New research suggests the culprit is none other than Einstein’s theory of general relativity.",
+    "source": "Top Technology News -- ScienceDaily",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-19T10:17:19+00:00",
+    "date_str": "Apr 19, 2026"
+  },
+  {
+    "title": "Think AI \"knows\" what it’s doing? Scientists say think again",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260417224505.htm",
+    "summary": "Calling AI things like “smart” or saying it “knows” something might sound harmless, but it can quietly mislead people about what AI actually does. A new study shows that news writers are more careful than expected, rarely using strongly human-like language. When they do, it often falls on a spectrum—sometimes describing simple requirements, other times hinting at human traits.",
+    "source": "Top Technology News -- ScienceDaily",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-19T08:02:23+00:00",
+    "date_str": "Apr 19, 2026"
+  },
+  {
+    "title": "Total solar eclipse led to seismic quiet for cities within its path",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260417224457.htm",
+    "summary": "As the Moon swallowed the Sun during the April 8, 2024, total solar eclipse, something remarkable happened on the ground—cities went eerily quiet. Scientists analyzing seismic data found that human-generated vibrations, usually caused by traffic, construction, and daily activity, dropped sharply during totality. The effect was so pronounced that it created a clear “seismic hush” across urban areas directly in the eclipse’s path, before quickly rebounding afterward.",
+    "source": "Top Technology News -- ScienceDaily",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-18T04:18:52+00:00",
+    "date_str": "Apr 18, 2026"
+  },
+  {
+    "title": "Quantum AI just got shockingly good at predicting chaos",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260417224455.htm",
+    "summary": "Researchers have shown that blending quantum computing with AI can dramatically improve predictions of complex, chaotic systems. By letting a quantum computer identify hidden patterns in data, the AI becomes more accurate and stable over time. The method outperformed standard models while using far less memory. This could have big implications for fields like climate science, energy, and medicine.",
+    "source": "Top Technology News -- ScienceDaily",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-18T03:51:09+00:00",
+    "date_str": "Apr 18, 2026"
+  },
+  {
+    "title": "This chain of atoms can detect electric fields with stunning precision",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260416071956.htm",
+    "summary": "A new quantum sensing approach could dramatically improve how scientists measure low-frequency electric fields, a task that has long been limited by bulky setups and blurry resolution. Instead of relying on traditional vapor-cell methods, researchers developed a system using chains of highly sensitive Rydberg atoms that respond collectively to electric fields. As the field shifts, it subtly changes how these atoms interact, allowing both the strength and direction of the field to be decoded with remarkable precision.",
+    "source": "Top Technology News -- ScienceDaily",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-17T11:56:32+00:00",
+    "date_str": "Apr 17, 2026"
+  },
+  {
+    "title": "Black hole jets measured for first time and rival the power of 10,000 suns",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260416071949.htm",
+    "summary": "Scientists have captured stunning new insights into one of the universe’s most powerful phenomena—black hole jets—by using a planet-sized network of radio telescopes. Focusing on Cygnus X-1, one of the first known black holes, they measured jets blasting out with the energy of 10,000 Suns and moving at half the speed of light. By watching these jets get pushed and bent by the fierce stellar winds of a nearby supergiant star, researchers could calculate their true power for the first time.",
+    "source": "Top Technology News -- ScienceDaily",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-18T15:40:07+00:00",
+    "date_str": "Apr 18, 2026"
+  },
+  {
+    "title": "Fool’s gold isn’t so foolish: Scientists find hidden treasure in pyrite",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260416032604.htm",
+    "summary": "Researchers have discovered lithium hidden in pyrite within ancient shale rocks—an unexpected find that could reshape how we source this critical battery material. It raises the possibility of extracting lithium from existing waste, reducing the need for new mining.",
+    "source": "Top Technology News -- ScienceDaily",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-16T11:32:19+00:00",
+    "date_str": "Apr 16, 2026"
+  },
+  {
+    "title": "98 per cent of meat and dairy sustainability pledges are greenwashing",
+    "url": "https://www.newscientist.com/article/2523798-98-per-cent-of-meat-and-dairy-sustainability-pledges-are-greenwashing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "summary": "The food industry has made big promises to reduce emissions and become more sustainable, but a review concludes that many of the pledges are not backed up by evidence",
+    "source": "New Scientist - Home",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-22T18:00:42+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "We need more radioactive drugs. Can we make them from nuclear waste?",
+    "url": "https://www.newscientist.com/article/2521854-we-need-more-radioactive-drugs-can-we-make-them-from-nuclear-waste/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "summary": "The rise of a new generation of radiotherapies means we will soon need much greater quantities of radioactive atoms. That's why companies are scrambling to refine them from all manner of radioactive waste",
+    "source": "New Scientist - Home",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-22T16:00:58+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Table tennis-playing robot on track to becoming world champion",
+    "url": "https://www.newscientist.com/article/2523918-table-tennis-playing-robot-on-track-to-becoming-world-champion/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "summary": "A robot built by Sony AI is rapidly learning how to beat the world's very best table tennis players",
+    "source": "New Scientist - Home",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-22T16:00:19+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Exercise advice for long covid may be doing more harm than good",
+    "url": "https://www.newscientist.com/article/2523882-exercise-advice-for-long-covid-may-be-doing-more-harm-than-good/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "summary": "Exercise has been touted as a tool for managing and treating long covid, but much of the evidence has neglected one of its most debilitating symptoms: post-exertional malaise",
+    "source": "New Scientist - Home",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-22T14:23:29+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Fermat's Last Theorem: still a must-read about a 350-year maths secret",
+    "url": "https://www.newscientist.com/article/2523771-fermats-last-theorem-still-a-must-read-about-a-350-year-maths-secret/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "summary": "Simon Singh's exploration of mathematical proof – in particular Pierre de Fermat's last theorem – remains an absolute treasure, almost three decades after it was first published",
+    "source": "New Scientist - Home",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-22T12:00:36+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "If a bird flu pandemic starts, we may have an mRNA vaccine ready",
+    "url": "https://www.newscientist.com/article/2523838-if-a-bird-flu-pandemic-starts-we-may-have-an-mrna-vaccine-ready/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "summary": "A final-stage trial has started of an mRNA vaccine against the bird flu strain infecting many animals – and occasionally people – worldwide",
+    "source": "New Scientist - Home",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-22T00:01:21+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Titan’s strange plains may be explained by unusual weather",
+    "url": "https://www.newscientist.com/article/2523722-titans-strange-plains-may-be-explained-by-unusual-weather/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "summary": "Most of Titan’s surface is oddly flat and smooth, and it may be because it is coated by as much as a metre of fluffy organic material that snowed down from the icy moon’s thick atmosphere",
+    "source": "New Scientist - Home",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-21T17:00:44+00:00",
+    "date_str": "Apr 21, 2026"
+  },
+  {
+    "title": "The monstrous number sequences that break the rules of mathematics",
+    "url": "https://www.newscientist.com/article/2521354-the-monstrous-number-sequences-that-break-the-rules-of-mathematics/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "summary": "Some seemingly simple sequences of multiplication and addition grow so quickly that they question the very foundations of mathematics. In doing so, they demand a whole new level of logic",
+    "source": "New Scientist - Home",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-21T16:00:07+00:00",
+    "date_str": "Apr 21, 2026"
+  },
+  {
+    "title": "Game theory explains why the US's goals in Iran keep changing",
+    "url": "https://www.newscientist.com/article/2523786-game-theory-explains-why-the-uss-goals-in-iran-keep-changing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "summary": "The ongoing conflict around the Strait of Hormuz has become a situation in game theory known as a war of attrition. The maths behind it can help explain what's going on, says Petros Sekeris",
+    "source": "New Scientist - Home",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-21T14:57:39+00:00",
+    "date_str": "Apr 21, 2026"
+  },
+  {
+    "title": "We might finally know how to use quantum computers to boost AI",
+    "url": "https://www.newscientist.com/article/2523443-we-might-finally-know-how-to-use-quantum-computers-to-boost-ai/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "summary": "Pushing against years of scepticism, an analysis suggests quantum computers may offer real advantages for running machine learning and similar algorithms in the near future",
+    "source": "New Scientist - Home",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-20T12:00:52+00:00",
+    "date_str": "Apr 20, 2026"
+  },
+  {
+    "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
+    "url": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+    "summary": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.",
+    "source": "Business Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-17T19:56:42+00:00",
+    "date_str": "Apr 17, 2026"
+  },
+  {
+    "title": "Gazing Into Sam Altman’s Orb Now Proves You’re Human on Tinder",
+    "url": "https://www.wired.com/story/gazing-into-sam-altmans-orb-now-proves-youre-human-on-tinder/",
+    "summary": "Honestly, what’s hotter than a real person?",
+    "source": "Business Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-17T17:14:51+00:00",
+    "date_str": "Apr 17, 2026"
+  },
+  {
+    "title": "AI Drafting My Stories? Over My Dead Body",
+    "url": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/",
+    "summary": "AI-assisted writing is creeping into newsrooms under the guise of efficiency. But the trade-off may be more profound than publishers are willing to admit.",
+    "source": "Business Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-17T15:46:06+00:00",
+    "date_str": "Apr 17, 2026"
+  },
+  {
+    "title": "Europe’s Online Age Verification App Is Here",
+    "url": "https://www.wired.com/story/europes-online-age-verification-app-is-here/",
+    "summary": "Available for free to any company that wants to use it, the “completely anonymous” app puts the pressure on porn sites and social media platforms to start blocking access by minors.",
+    "source": "Business Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-16T18:54:20+00:00",
+    "date_str": "Apr 16, 2026"
+  },
+  {
+    "title": "The Online Fiction Boom Reimagining China’s History",
+    "url": "https://www.wired.com/story/made-in-china-what-chinas-sci-fi-boom-is-really-selling/",
+    "summary": "Chinese fantasy novels reimagine the past with modern tech and ideology. A new book argues they also help reinforce authoritarian politics.",
+    "source": "Business Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-16T18:17:18+00:00",
+    "date_str": "Apr 16, 2026"
+  },
+  {
+    "title": "Musk v. Altman Is a Battle for OpenAI’s Soul",
+    "url": "https://www.wired.com/story/musk-v-altman-trial-openai-xai/",
+    "summary": "In Musk v. Altman, a jury will soon determine whether OpenAI has strayed from its founding mission to ensure AGI benefits humanity. Here’s what to know.",
+    "source": "Business Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-16T18:00:00+00:00",
+    "date_str": "Apr 16, 2026"
+  },
+  {
+    "title": "The UK Launches Its $675 Million Sovereign AI Fund",
+    "url": "https://www.wired.com/story/the-uk-launches-its-dollar675-million-sovereign-ai-fund/",
+    "summary": "In a bid to minimize dependence on technology from other countries, the UK government is plowing resources into homegrown AI startups.",
+    "source": "Business Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-16T17:30:00+00:00",
+    "date_str": "Apr 16, 2026"
+  },
+  {
+    "title": "Anthropic Plots Major London Expansion",
+    "url": "https://www.wired.com/story/anthropic-plots-major-london-expansion/",
+    "summary": "As tensions with the US government mount, Anthropic has leased a new office with enough space to quadruple its 200-person head count in London.",
+    "source": "Business Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-16T13:49:35+00:00",
+    "date_str": "Apr 16, 2026"
+  },
+  {
+    "title": "Congress Turns Up Pressure on DHS Over Palantir’s Role in Immigration Crackdown",
+    "url": "https://www.wired.com/story/congress-turns-up-pressure-on-dhs-over-palantirs-role-in-immigration-crackdown/",
+    "summary": "Democrats are demanding answers about Palantir and other surveillance firms powering Trump’s hard-line immigration enforcement agenda.",
+    "source": "Business Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-16T13:00:00+00:00",
+    "date_str": "Apr 16, 2026"
+  },
+  {
     "title": "NASA’s Artemis II Moon mission shows space-to-Earth laser comms can scale",
     "url": "https://techcrunch.com/2026/04/22/nasas-artemis-ii-moon-mission-shows-space-to-earth-laser-comms-can-scale/",
     "summary": "Observable Space and Quantum Wave teamed up to capture data beamed back from space.",
