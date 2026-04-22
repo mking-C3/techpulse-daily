@@ -1,7 +1,7 @@
 site:
   name: "TechPulse Daily"
   tagline: "The freshest tech headlines, aggregated hourly."
-  base_url: "https://techpulse-daily.pages.dev"
+  base_url: "https://www.MedicareMonitor.co"
   adsense_publisher_id: "ca-pub-XXXXXXXXXXXXXXXX"  # ← fill in after AdSense approval
 
 feeds:
