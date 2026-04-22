@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://techpulse-daily.pages.dev/sitemap.xml
+Sitemap: https://www.MedicareMonitor.co/sitemap.xml
