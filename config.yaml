@@ -1,0 +1,39 @@
+site:
+  name: "TechPulse Daily"
+  tagline: "The freshest tech headlines, aggregated hourly."
+  base_url: "https://your-site.pages.dev"          # ← change to your Cloudflare Pages URL
+  adsense_publisher_id: "ca-pub-XXXXXXXXXXXXXXXX"  # ← fill in after AdSense approval
+
+feeds:
+  - category: "Technology"
+    url: "https://techcrunch.com/feed/"
+
+  - category: "Technology"
+    url: "https://feeds.arstechnica.com/arstechnica/index"
+
+  - category: "Technology"
+    url: "https://www.theverge.com/rss/index.xml"
+
+  - category: "AI & Machine Learning"
+    url: "https://hnrss.org/frontpage"
+
+  - category: "AI & Machine Learning"
+    url: "https://www.wired.com/feed/tag/artificial-intelligence/latest/rss"
+
+  - category: "Science"
+    url: "https://www.sciencedaily.com/rss/top/technology.xml"
+
+  - category: "Science"
+    url: "https://feeds.feedburner.com/NautilusLive"
+
+  - category: "Business"
+    url: "https://feeds.feedburner.com/entrepreneur/latest"
+
+  - category: "Business"
+    url: "https://www.wired.com/feed/category/business/latest/rss"
+
+settings:
+  max_posts_per_feed: 10      # articles pulled per feed per run
+  summary_word_limit: 120     # words shown in the card excerpt
+  posts_per_page: 12          # cards per paginated page
+  max_total_articles: 1000    # hard cap on articles.json (oldest trimmed first)

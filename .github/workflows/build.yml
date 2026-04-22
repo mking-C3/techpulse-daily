@@ -1,0 +1,62 @@
+name: Fetch Feeds & Build Site
+
+on:
+  schedule:
+    # Run every 6 hours: 00:00, 06:00, 12:00, 18:00 UTC
+    - cron: "0 */6 * * *"
+  push:
+    branches:
+      - main
+  # Allow manual runs from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Fetch & Build
+    runs-on: ubuntu-latest
+
+    # Required so the bot can commit back to the repo
+    permissions:
+      contents: write
+
+    steps:
+      # ── 1. Checkout ────────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Use the built-in token (pushes with this token do NOT
+          # re-trigger the workflow, preventing infinite loops)
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ── 2. Python ──────────────────────────────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      # ── 3. Dependencies ────────────────────────────────────────────────────
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ── 4. Build ───────────────────────────────────────────────────────────
+      - name: Fetch feeds and build site
+        run: python fetch_and_build.py
+
+      # ── 5. Commit & push (only if anything changed) ────────────────────────
+      - name: Commit and push changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Stage only the files the script touches
+          git add output/ seen_urls.json articles.json
+
+          if git diff --staged --quiet; then
+            echo "Nothing changed — skipping commit."
+          else
+            TIMESTAMP=$(date -u +'%Y-%m-%d %H:%M UTC')
+            git commit -m "Auto-update: ${TIMESTAMP}"
+            git push
+            echo "Pushed new build at ${TIMESTAMP}."
+          fi
