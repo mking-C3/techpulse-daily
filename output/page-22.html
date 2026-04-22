@@ -115,11 +115,33 @@ footer{
 }
 footer a{color:#94a3b8}
 
+/* ── Affiliate Banner ── */
+.affiliate-banner{
+  background:linear-gradient(135deg,#0c4a6e 0%,#0369a1 100%);
+  color:#fff;padding:.9rem 1rem;text-align:center;
+}
+.affiliate-banner-inner{
+  max-width:1200px;margin:0 auto;
+  display:flex;align-items:center;justify-content:center;
+  flex-wrap:wrap;gap:.6rem 1.2rem;
+}
+.affiliate-banner p{font-size:.93rem;font-weight:500}
+.affiliate-banner strong{color:#7dd3fc}
+.affiliate-cta{
+  background:#f97316;color:#fff!important;
+  font-size:.83rem;font-weight:700;
+  padding:.42rem 1.1rem;border-radius:999px;
+  white-space:nowrap;transition:background .15s;
+  text-decoration:none!important;
+}
+.affiliate-cta:hover{background:#ea580c}
+
 /* ── Responsive ── */
 @media(max-width:640px){
   .nav-brand{font-size:.97rem}
   .grid{grid-template-columns:1fr}
   .page-header h1{font-size:1.3rem}
+  .affiliate-banner p{font-size:.83rem}
 }
 </style>
 </head>
@@ -151,6 +173,13 @@ footer a{color:#94a3b8}
   </div>
 </nav>
 
+<div class="affiliate-banner">
+  <div class="affiliate-banner-inner">
+    <p>Find the right Medicare plan for <strong>2025</strong> &mdash; compare coverage and costs in minutes.</p>
+    <a class="affiliate-cta" href="https://www.ehealthinsurance.com/medicare" target="_blank" rel="noopener sponsored">Compare Medicare Plans &rarr;</a>
+  </div>
+</div>
+
 <main class="container">
   <div class="page-header">
     <h1>Medicare Monitor</h1>
@@ -163,79 +192,134 @@ footer a{color:#94a3b8}
 
   <article class="card">
     <div class="card-meta">
-      <span class="badge">Drug Coverage</span>
-      <span class="card-source">Fierce Healthcare</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
+      <span class="badge">Senior Health</span>
+      <span class="card-source">MedPageToday.com - medical news for physicians</span>
+      <time class="card-date" datetime="2026-04-21">Apr 21, 2026</time>
     </div>
-    <h2><a href="https://www.fiercehealthcare.com/providers/community-health-systems-reports-low-volumes-earnings-dip-q1-2026" target="_blank" rel="noopener noreferrer nofollow">Community Health Systems attributes Q1 volumes stumble to consumers&#39; macroeconomic fears, payers&#39; prior auth denials</a></h2>
-    <p class="card-summary">Same-store admissions and adjusted admissions respectively declined 1.3% and 0.5% year over year. Executives pointed to cross-market dropoffs among patients with high-deductible and managed care plans.</p>
-    <a class="read-more" href="https://www.fiercehealthcare.com/providers/community-health-systems-reports-low-volumes-earnings-dip-q1-2026" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://www.medpagetoday.com/publichealthpolicy/medicaid/120890" target="_blank" rel="noopener noreferrer nofollow">Dr. Oz Announces 50-State Audit of Medicaid Program Oversight</a></h2>
+    <p class="card-summary">(MedPage Today) -- The Trump administration will require all 50 states to explain their plans to revalidate some of their Medicaid providers in a national escalation of anti-fraud efforts that have so far largely focused on specific states, Mehmet...</p>
+    <a class="read-more" href="https://www.medpagetoday.com/publichealthpolicy/medicaid/120890" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
   <article class="card">
     <div class="card-meta">
-      <span class="badge">Drug Coverage</span>
-      <span class="card-source">Fierce Healthcare</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
+      <span class="badge">Senior Health</span>
+      <span class="card-source">MedPageToday.com - medical news for physicians</span>
+      <time class="card-date" datetime="2026-04-21">Apr 21, 2026</time>
     </div>
-    <h2><a href="https://www.fiercehealthcare.com/payers/why-unitedhealth-group-betting-big-doulas" target="_blank" rel="noopener noreferrer nofollow">Why UnitedHealth Group is betting big on doulas</a></h2>
-    <p class="card-summary">Fierce Senior Writer Paige Minemyer speaks with Catherine Anderson of UnitedHealth Group about why the insurer is expanding doula support nationwide and what that could mean for maternal and infant health outcomes across the U.S.</p>
-    <a class="read-more" href="https://www.fiercehealthcare.com/payers/why-unitedhealth-group-betting-big-doulas" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://www.medpagetoday.com/endocrinology/generalendocrinology/120889" target="_blank" rel="noopener noreferrer nofollow">GLP-1s and Muscle Loss; &#39;Ozempic Personality&#39;; Acromegaly and Cancer Risk</a></h2>
+    <p class="card-summary">(MedPage Today) -- Real-world data suggested the dual GLP-1/GIP receptor agonist tirzepatide (Mounjaro, Zepbound) was associated with greater weight loss, but also muscle loss, compared with semaglutide (Ozempic, Wegovy), according to a medical...</p>
+    <a class="read-more" href="https://www.medpagetoday.com/endocrinology/generalendocrinology/120889" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
   <article class="card">
     <div class="card-meta">
-      <span class="badge">Drug Coverage</span>
-      <span class="card-source">Fierce Healthcare</span>
+      <span class="badge">Senior Health</span>
+      <span class="card-source">Healthcare Dive - Latest News</span>
       <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
     </div>
-    <h2><a href="https://www.fiercehealthcare.com/payers/cms-delays-part-d-glp-1-model-amid-skepticism-insurers" target="_blank" rel="noopener noreferrer nofollow">CMS delays Part D GLP-1 model amid skepticism from insurers</a></h2>
-    <p class="card-summary">The Trump administration is delaying a voluntary model that aimed to expand access to GLP-1s in Part D after pushback from insurers.</p>
-    <a class="read-more" href="https://www.fiercehealthcare.com/payers/cms-delays-part-d-glp-1-model-amid-skepticism-insurers" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://www.healthcaredive.com/news/some-prices-after-no-surprises-arbitration-were-higher-brookings/818118/" target="_blank" rel="noopener noreferrer nofollow">Prices rose after No Surprises arbitration for some care: analysis</a></h2>
+    <p class="card-summary">The data, compiled by the Brookings Center on Health Policy, shows that average prices for some services like imaging were seven-times higher than Medicare prices.</p>
+    <a class="read-more" href="https://www.healthcaredive.com/news/some-prices-after-no-surprises-arbitration-were-higher-brookings/818118/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
   <article class="card">
     <div class="card-meta">
-      <span class="badge">Drug Coverage</span>
-      <span class="card-source">Fierce Healthcare</span>
+      <span class="badge">Senior Health</span>
+      <span class="card-source">Healthcare Dive - Latest News</span>
       <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
     </div>
-    <h2><a href="https://www.fiercehealthcare.com/health-tech/oak-hcft-backs-courier-healths-50m-series-b-build-out-ai-biopharma-patient-experience" target="_blank" rel="noopener noreferrer nofollow">Oak HC/FT backs Courier Health&#39;s $50M series B to build out AI for the biopharma patient experience</a></h2>
-    <p class="card-summary">Courier Health raised $50 million in series B funding to scale its AI-powered platform purpose-built for biopharma that manages the end-to-end patient journey.</p>
-    <a class="read-more" href="https://www.fiercehealthcare.com/health-tech/oak-hcft-backs-courier-healths-50m-series-b-build-out-ai-biopharma-patient-experience" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://www.healthcaredive.com/news/elevance-raise-2026-profit-outlook-cms-medicare-advantage-payout/818122/" target="_blank" rel="noopener noreferrer nofollow">Elevance perks up in 2026 though Medicare Advantage payout could ding profits</a></h2>
+    <p class="card-summary">The Indianapolis-based insurer raised its 2026 earnings guidance after posting a better first quarter than Wall Street expected. Still, Elevance lodged a $935 million expense to cover what it might owe the CMS over faulty data reporting.</p>
+    <a class="read-more" href="https://www.healthcaredive.com/news/elevance-raise-2026-profit-outlook-cms-medicare-advantage-payout/818122/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
   <article class="card">
     <div class="card-meta">
-      <span class="badge">Drug Coverage</span>
-      <span class="card-source">Fierce Healthcare</span>
+      <span class="badge">Senior Health</span>
+      <span class="card-source">Healthcare Dive - Latest News</span>
       <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
     </div>
-    <h2><a href="https://www.fiercehealthcare.com/ai-and-machine-learning/amperos-health-secures-16m-series-funding-announces-industrys-new-first-ai" target="_blank" rel="noopener noreferrer nofollow">Amperos Health secures $16M in series A funding, unveils AI-native denial management solution</a></h2>
-    <p class="card-summary">Amperos Health CEO and co-founder Michal Miernowski told Fierce Healthcare the newly announced funding will support scaling the organization and its platform.</p>
-    <a class="read-more" href="https://www.fiercehealthcare.com/ai-and-machine-learning/amperos-health-secures-16m-series-funding-announces-industrys-new-first-ai" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://www.healthcaredive.com/news/moderna-mrna-bird-flu-vaccine-trial-cepi-hhs/818195/" target="_blank" rel="noopener noreferrer nofollow">Moderna, after losing US funding, rebounds to start mRNA bird flu vaccine trial</a></h2>
+    <p class="card-summary">A program that got caught up in HHS’ decision to abandon mRNA research was revived by a public-private coalition and is now beginning a large, late-stage test that could support a future approval.</p>
+    <a class="read-more" href="https://www.healthcaredive.com/news/moderna-mrna-bird-flu-vaccine-trial-cepi-hhs/818195/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
   <article class="card">
     <div class="card-meta">
-      <span class="badge">Drug Coverage</span>
-      <span class="card-source">Fierce Healthcare</span>
+      <span class="badge">Senior Health</span>
+      <span class="card-source">Healthcare Dive - Latest News</span>
       <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
     </div>
-    <h2><a href="https://www.fiercehealthcare.com/payers/dont-be-wimp-mark-cuban-tells-lawmakers-hesitant-break-pbms" target="_blank" rel="noopener noreferrer nofollow">&#39;Don&#39;t be a wimp,&#39; Mark Cuban tells lawmakers hesitant to break up PBMs</a></h2>
-    <p class="card-summary">The entrepreneur outlines his belief that pressure from vertically integrated insurers and pharmacy benefit managers is preventing an efficient healthcare market. He also called on the Trump administration to &#34;do your job&#34; and ramp up enforcement, noting that drug manufacturers today are much more scared of a formulary exclusion than the president himself.</p>
-    <a class="read-more" href="https://www.fiercehealthcare.com/payers/dont-be-wimp-mark-cuban-tells-lawmakers-hesitant-break-pbms" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://www.healthcaredive.com/news/amazon-one-medical-glp-1-management-program/818184/" target="_blank" rel="noopener noreferrer nofollow">Amazon One Medical launches weight management program including GLP-1 drugs</a></h2>
+    <p class="card-summary">The company argues the offering is a more comprehensive approach to weight management, allowing patients to receive ongoing support care and transparent pricing on prescriptions.</p>
+    <a class="read-more" href="https://www.healthcaredive.com/news/amazon-one-medical-glp-1-management-program/818184/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
   <article class="card">
     <div class="card-meta">
-      <span class="badge">Drug Coverage</span>
-      <span class="card-source">Fierce Healthcare</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
+      <span class="badge">Senior Health</span>
+      <span class="card-source">Healthcare Dive - Latest News</span>
+      <time class="card-date" datetime="2026-04-21">Apr 21, 2026</time>
     </div>
-    <h2><a href="https://www.fiercehealthcare.com/payers/unitedhealth-group-boosts-2026-outlook-it-posts-q1-earnings-revenue-beat" target="_blank" rel="noopener noreferrer nofollow">UnitedHealth Group spotlights AI investments as part of operational turnaround</a></h2>
-    <p class="card-summary">Artificial intelligence is one of the tentpoles of UnitedHealth&#39;s turnaround effort, and the company&#39;s top brass offered a look at where it&#39;s making key investments.</p>
-    <a class="read-more" href="https://www.fiercehealthcare.com/payers/unitedhealth-group-boosts-2026-outlook-it-posts-q1-earnings-revenue-beat" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://www.healthcaredive.com/news/unitedhealth-hikes-2026-profit-outlook-q1-results/817993/" target="_blank" rel="noopener noreferrer nofollow">UnitedHealth hikes profit outlook after better-than-expected first quarter</a></h2>
+    <p class="card-summary">Premium hikes, plan redesigns and other efforts from the Minnesota-based company to wrangle medical spending bore fruit in the first quarter. UnitedHealth’s stock jumped accordingly.</p>
+    <a class="read-more" href="https://www.healthcaredive.com/news/unitedhealth-hikes-2026-profit-outlook-q1-results/817993/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Senior Health</span>
+      <span class="card-source">Healthcare Dive - Latest News</span>
+      <time class="card-date" datetime="2026-04-21">Apr 21, 2026</time>
+    </div>
+    <h2><a href="https://www.healthcaredive.com/news/blue-shield-california-chief-pharmacy-officer-hayley-park/818058/" target="_blank" rel="noopener noreferrer nofollow">Blue Shield of California taps chief pharmacy officer</a></h2>
+    <p class="card-summary">Hayley Park will oversee BSCA’s prescription drug programs. The insurer has worked to overhaul its pharmacy management model in a bid to lower drug costs.</p>
+    <a class="read-more" href="https://www.healthcaredive.com/news/blue-shield-california-chief-pharmacy-officer-hayley-park/818058/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Senior Health</span>
+      <span class="card-source">Healthcare Dive - Latest News</span>
+      <time class="card-date" datetime="2026-04-21">Apr 21, 2026</time>
+    </div>
+    <h2><a href="https://www.healthcaredive.com/news/providers-push-back-340b-rebate-model-comments/818043/" target="_blank" rel="noopener noreferrer nofollow">Providers push back on 340B rebate model</a></h2>
+    <p class="card-summary">Hospitals and clinics told regulators that switching to rebates in the 340B drug discount program would impose costs that would outweigh the program’s benefits.</p>
+    <a class="read-more" href="https://www.healthcaredive.com/news/providers-push-back-340b-rebate-model-comments/818043/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Senior Health</span>
+      <span class="card-source">Healthcare Dive - Latest News</span>
+      <time class="card-date" datetime="2026-04-21">Apr 21, 2026</time>
+    </div>
+    <h2><a href="https://www.healthcaredive.com/news/quiktrip-to-sell-urgent-care-clinics-after-6-years-in-business/818068/" target="_blank" rel="noopener noreferrer nofollow">QuikTrip to sell urgent care clinics after 6 years in business</a></h2>
+    <p class="card-summary">The retailer, which at one point had 14 MedWise sites, is divesting its nine-location network to Saint Francis Health System.</p>
+    <a class="read-more" href="https://www.healthcaredive.com/news/quiktrip-to-sell-urgent-care-clinics-after-6-years-in-business/818068/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Senior Health</span>
+      <span class="card-source">Healthcare Dive - Latest News</span>
+      <time class="card-date" datetime="2026-04-20">Apr 20, 2026</time>
+    </div>
+    <h2><a href="https://www.healthcaredive.com/news/judge-dismisses-aetna-lawsuit-radiology-partners-no-surprises-act-fraud/817951/" target="_blank" rel="noopener noreferrer nofollow">Judge dismisses Aetna’s No Surprises fraud suit against Radiology Partners</a></h2>
+    <p class="card-summary">The insurer accused the radiology group of gaming the No Surprises Act to reap higher reimbursement. A judge tossed the case last week, saying Aetna needed to raise its complaints during the dispute resolution process.</p>
+    <a class="read-more" href="https://www.healthcaredive.com/news/judge-dismisses-aetna-lawsuit-radiology-partners-no-surprises-act-fraud/817951/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Senior Health</span>
+      <span class="card-source">Healthcare Dive - Latest News</span>
+      <time class="card-date" datetime="2026-04-20">Apr 20, 2026</time>
+    </div>
+    <h2><a href="https://www.healthcaredive.com/news/robert-f-kennedy-jr-rfk-jr-defends-hhs-tenure-proposed-budget-cut/817867/" target="_blank" rel="noopener noreferrer nofollow">RFK Jr. defends HHS tenure, 12% proposed budget cut</a></h2>
+    <p class="card-summary">Republicans largely praised the HHS secretary’s track record during a marathon of House hearings last week, but some GOP lawmakers raised concerns about proposed budget cuts to the National Institutes of Health.</p>
+    <a class="read-more" href="https://www.healthcaredive.com/news/robert-f-kennedy-jr-rfk-jr-defends-hhs-tenure-proposed-budget-cut/817867/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
 </div>
@@ -263,6 +347,12 @@ footer a{color:#94a3b8}
 <a href="/page-20.html">20</a>
 <a href="/page-21.html">21</a>
 <span class="cur" aria-current="page">22</span>
+<a href="/page-23.html">23</a>
+<a href="/page-24.html">24</a>
+<a href="/page-25.html">25</a>
+<a href="/page-26.html">26</a>
+<a href="/page-27.html">27</a>
+<a href="/page-23.html">Next &rsaquo;</a>
 </nav>
 </main>
 

@@ -115,11 +115,33 @@ footer{
 }
 footer a{color:#94a3b8}
 
+/* ── Affiliate Banner ── */
+.affiliate-banner{
+  background:linear-gradient(135deg,#0c4a6e 0%,#0369a1 100%);
+  color:#fff;padding:.9rem 1rem;text-align:center;
+}
+.affiliate-banner-inner{
+  max-width:1200px;margin:0 auto;
+  display:flex;align-items:center;justify-content:center;
+  flex-wrap:wrap;gap:.6rem 1.2rem;
+}
+.affiliate-banner p{font-size:.93rem;font-weight:500}
+.affiliate-banner strong{color:#7dd3fc}
+.affiliate-cta{
+  background:#f97316;color:#fff!important;
+  font-size:.83rem;font-weight:700;
+  padding:.42rem 1.1rem;border-radius:999px;
+  white-space:nowrap;transition:background .15s;
+  text-decoration:none!important;
+}
+.affiliate-cta:hover{background:#ea580c}
+
 /* ── Responsive ── */
 @media(max-width:640px){
   .nav-brand{font-size:.97rem}
   .grid{grid-template-columns:1fr}
   .page-header h1{font-size:1.3rem}
+  .affiliate-banner p{font-size:.83rem}
 }
 </style>
 </head>
@@ -151,6 +173,13 @@ footer a{color:#94a3b8}
   </div>
 </nav>
 
+<div class="affiliate-banner">
+  <div class="affiliate-banner-inner">
+    <p>Find the right Medicare plan for <strong>2025</strong> &mdash; compare coverage and costs in minutes.</p>
+    <a class="affiliate-cta" href="https://www.ehealthinsurance.com/medicare" target="_blank" rel="noopener sponsored">Compare Medicare Plans &rarr;</a>
+  </div>
+</div>
+
 <main class="container">
   <div class="page-header">
     <h1>Medicare Monitor</h1>
@@ -163,13 +192,46 @@ footer a{color:#94a3b8}
 
   <article class="card">
     <div class="card-meta">
-      <span class="badge">Senior Health</span>
-      <span class="card-source">MedPageToday.com - medical news for physicians</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
+      <span class="badge">Healthcare Policy</span>
+      <span class="card-source">NPR Topics: Health</span>
+      <time class="card-date" datetime="2026-04-21">Apr 21, 2026</time>
     </div>
-    <h2><a href="https://www.medpagetoday.com/psychiatry/schizophrenia/120912" target="_blank" rel="noopener noreferrer nofollow">Novel Antipsychotic Shows Promise in Acute Schizophrenia</a></h2>
-    <p class="card-summary">(MedPage Today) -- The investigational benzamide antipsychotic N-methyl amisulpride (LB-102) led to significant symptom improvement among hospitalized adults with acute schizophrenia, a randomized trial showed. In this phase II study, the mean...</p>
-    <a class="read-more" href="https://www.medpagetoday.com/psychiatry/schizophrenia/120912" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://www.npr.org/2026/04/21/nx-s1-5776665/surprising-origin-features-superglue-kids-adults-to-screens" target="_blank" rel="noopener noreferrer nofollow">The surprising origin of 4 features that superglue kids — and adults — to screens</a></h2>
+    <p class="card-summary">Taken together, these four features can create a trancelike state that can keep us stuck on social media apps or video games for hours. Children are particularly vulnerable.</p>
+    <a class="read-more" href="https://www.npr.org/2026/04/21/nx-s1-5776665/surprising-origin-features-superglue-kids-adults-to-screens" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Healthcare Policy</span>
+      <span class="card-source">NPR Topics: Health</span>
+      <time class="card-date" datetime="2026-04-21">Apr 21, 2026</time>
+    </div>
+    <h2><a href="https://www.npr.org/2026/04/21/nx-s1-5783798/trump-administrations-rollback-of-regulations-frustrates-some-in-maha-movement" target="_blank" rel="noopener noreferrer nofollow">Trump administration&#39;s rollback of regulations frustrates some in MAHA movement</a></h2>
+    <p class="card-summary">A major concern for the Make America Healthy Again movement is the harmful effects of chemicals and toxins, but the coalition is growing increasingly frustrated by the Trump administration&#39;s actions.</p>
+    <a class="read-more" href="https://www.npr.org/2026/04/21/nx-s1-5783798/trump-administrations-rollback-of-regulations-frustrates-some-in-maha-movement" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Healthcare Policy</span>
+      <span class="card-source">NPR Topics: Health</span>
+      <time class="card-date" datetime="2026-04-20">Apr 20, 2026</time>
+    </div>
+    <h2><a href="https://www.npr.org/2026/04/20/nx-s1-5788967/vaccine-for-expectant-mothers-means-fewer-rsv-hospitalizations-for-babies-study-show" target="_blank" rel="noopener noreferrer nofollow">Vaccine for expectant mothers means fewer RSV hospitalizations for babies, study shows</a></h2>
+    <p class="card-summary">RSV is the most common reason why babies end up in the hospital in their first year. A new study finds a vaccine for expectant mothers is more effective at protecting babies than previously shown.</p>
+    <a class="read-more" href="https://www.npr.org/2026/04/20/nx-s1-5788967/vaccine-for-expectant-mothers-means-fewer-rsv-hospitalizations-for-babies-study-show" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Healthcare Policy</span>
+      <span class="card-source">NPR Topics: Health</span>
+      <time class="card-date" datetime="2026-04-20">Apr 20, 2026</time>
+    </div>
+    <h2><a href="https://www.npr.org/2026/04/20/nx-s1-5746639-e1/got-wearable-data-your-doctor-can-help-you-connect-the-dots" target="_blank" rel="noopener noreferrer nofollow">Got wearable data? Your doctor can help you connect the dots</a></h2>
+    <p class="card-summary">The American Academy of Neurology issued guidance on using wearable data devices, like smartwatches or an Oura Ring, to track key health metrics that can help flag serious conditions.</p>
+    <a class="read-more" href="https://www.npr.org/2026/04/20/nx-s1-5746639-e1/got-wearable-data-your-doctor-can-help-you-connect-the-dots" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
   <article class="card">
@@ -178,9 +240,9 @@ footer a{color:#94a3b8}
       <span class="card-source">MedPageToday.com - medical news for physicians</span>
       <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
     </div>
-    <h2><a href="https://www.medpagetoday.com/washington-watch/washington-watch/120911" target="_blank" rel="noopener noreferrer nofollow">Costco Has Cheaper Drugs Than TrumpRx, Senator Says</a></h2>
-    <p class="card-summary">(MedPage Today) -- While brand-name pantoprazole (Protonix) costs $200 for a 30-day supply on TrumpRx, the same generic prescription costs just $16.99 at Costco, Sen. Elizabeth Warren (D-Mass.) said during a hearing on the proposed HHS budget...</p>
-    <a class="read-more" href="https://www.medpagetoday.com/washington-watch/washington-watch/120911" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://www.medpagetoday.com/popmedicine/popmedicine/120901" target="_blank" rel="noopener noreferrer nofollow">&#39;The Pitt&#39; Got a Diagnosis Right. It Got the Response Wrong.</a></h2>
+    <p class="card-summary">(MedPage Today) -- Last week&#39;s season finale of &#34;The Pitt&#34; generated significant discussion, particularly around one of its most emotionally charged scenes: Dr. Al-Hashimi&#39;s disclosure to Dr. Robby that she has a seizure disorder causing brief...</p>
+    <a class="read-more" href="https://www.medpagetoday.com/popmedicine/popmedicine/120901" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
   <article class="card">
@@ -189,9 +251,9 @@ footer a{color:#94a3b8}
       <span class="card-source">MedPageToday.com - medical news for physicians</span>
       <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
     </div>
-    <h2><a href="https://www.medpagetoday.com/psychiatry/generalpsychiatry/120909" target="_blank" rel="noopener noreferrer nofollow">Suicide With Food Preservative; Xanax Recall; 19% of America Depressed</a></h2>
-    <p class="card-summary">(MedPage Today) -- Suicide by poisoning with the common food preservative sodium nitrite and its oxidised metabolite, nitrate, is disproportionately high among young men, U.K. researchers warned. (BMJ Public Health) Meanwhile, a Canadian man facing...</p>
-    <a class="read-more" href="https://www.medpagetoday.com/psychiatry/generalpsychiatry/120909" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://www.medpagetoday.com/washington-watch/washington-watch/120900" target="_blank" rel="noopener noreferrer nofollow">Congresswoman Tied to COVID Fraud Resigns; DOD Ends Flu Vax Mandate; USPSTF Overhaul</a></h2>
+    <p class="card-summary">(MedPage Today) -- Note that some links may require registration or subscription. Rep. Sheila Cherfilus-McCormick (D-Fla.) resigned from Congress; she and her brother are alleged to have stolen $5 million from COVID disaster relief funding given...</p>
+    <a class="read-more" href="https://www.medpagetoday.com/washington-watch/washington-watch/120900" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
   <article class="card">
@@ -200,97 +262,64 @@ footer a{color:#94a3b8}
       <span class="card-source">MedPageToday.com - medical news for physicians</span>
       <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
     </div>
-    <h2><a href="https://www.medpagetoday.com/meetingcoverage/aacr/120908" target="_blank" rel="noopener noreferrer nofollow">Injecting PD-1 Drug Directly Into Oral Precancers Shrinks Lesions</a></h2>
-    <p class="card-summary">(MedPage Today) -- SAN DIEGO -- Injecting the PD-1 inhibitor nivolumab (Opdivo) directly into high-risk oral precancers proved safe and reduced lesion size in the vast majority of patients enrolled in a small phase I study, allowing some to avoid...</p>
-    <a class="read-more" href="https://www.medpagetoday.com/meetingcoverage/aacr/120908" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://www.medpagetoday.com/special-reports/features/120897" target="_blank" rel="noopener noreferrer nofollow">Inside CDC Director Nomination; Rogan&#39;s Psychedelic Influence; Researchers Fooled AI</a></h2>
+    <p class="card-summary">(MedPage Today) -- The Trump administration&#39;s nomination of Erica Schwartz, MD, MPH, JD, a former deputy surgeon general, to lead the CDC follows a review of the agency launched in January. HHS chief counselor Chris Klomp led the effort to identify...</p>
+    <a class="read-more" href="https://www.medpagetoday.com/special-reports/features/120897" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
   <article class="card">
     <div class="card-meta">
       <span class="badge">Senior Health</span>
       <span class="card-source">MedPageToday.com - medical news for physicians</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
+      <time class="card-date" datetime="2026-04-21">Apr 21, 2026</time>
     </div>
-    <h2><a href="https://www.medpagetoday.com/psychiatry/generalpsychiatry/120907" target="_blank" rel="noopener noreferrer nofollow">988 Launch Tied to Drop in Youth Suicides</a></h2>
-    <p class="card-summary">(MedPage Today) -- Suicide deaths among adolescents and young adults declined across the U.S. after the launch of the 988 Suicide and Crisis Lifeline in 2022, according to an observational study. From July 2022 through December 2024, 35,529 suicides...</p>
-    <a class="read-more" href="https://www.medpagetoday.com/psychiatry/generalpsychiatry/120907" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://www.medpagetoday.com/infectiousdisease/hivaids/120895" target="_blank" rel="noopener noreferrer nofollow">FDA Approves New Standalone Combo Pill for HIV</a></h2>
+    <p class="card-summary">(MedPage Today) -- The FDA approved islatravir-doravirine (Idvynso) as a standalone, single-tablet regimen for treating HIV in virologically suppressed adults, Merck announced on Tuesday. Approval stipulates use of the oral combination in patients...</p>
+    <a class="read-more" href="https://www.medpagetoday.com/infectiousdisease/hivaids/120895" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
   <article class="card">
     <div class="card-meta">
       <span class="badge">Senior Health</span>
       <span class="card-source">MedPageToday.com - medical news for physicians</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
+      <time class="card-date" datetime="2026-04-21">Apr 21, 2026</time>
     </div>
-    <h2><a href="https://www.medpagetoday.com/opinion/patientcenteredmedicalhome/120906" target="_blank" rel="noopener noreferrer nofollow">Patients Are Bringing Us More of Their Own Data -- Can We Handle It?</a></h2>
-    <p class="card-summary">(MedPage Today) -- These days, we&#39;re overwhelmed with data. Every chart on every patient is packed full of data -- some of it incredibly useful and important, some of it just a lot of noise, some of it just copy-and-pasted and brought forward...</p>
-    <a class="read-more" href="https://www.medpagetoday.com/opinion/patientcenteredmedicalhome/120906" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://www.medpagetoday.com/special-reports/features/120894" target="_blank" rel="noopener noreferrer nofollow">As &#39;The Pitt&#39; Spotlights Physician Mental Health, Advocates Push Breen Act Funding</a></h2>
+    <p class="card-summary">(MedPage Today) -- As medical organizations, lawmakers, advocates -- and even the lead actor from &#34;The Pitt&#34; -- laud the reauthorization of the Lorna Breen Act through fiscal year 2030, they&#39;re also urging millions of dollars to boost funding...</p>
+    <a class="read-more" href="https://www.medpagetoday.com/special-reports/features/120894" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
   <article class="card">
     <div class="card-meta">
       <span class="badge">Senior Health</span>
       <span class="card-source">MedPageToday.com - medical news for physicians</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
+      <time class="card-date" datetime="2026-04-21">Apr 21, 2026</time>
     </div>
-    <h2><a href="https://www.medpagetoday.com/meetingcoverage/aan/120905" target="_blank" rel="noopener noreferrer nofollow">Cemdisiran siRNA Therapy Demonstrates Efficacy in Myasthenia Gravis</a></h2>
-    <p class="card-summary">(MedPage Today) -- Cemdisiran, an investigational small interfering RNA (siRNA) therapy targeting complement component 5 (C5), met both its primary and a key secondary endpoint in the phase III NIMBLE trial of generalized myasthenia gravis, whether...</p>
-    <a class="read-more" href="https://www.medpagetoday.com/meetingcoverage/aan/120905" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://www.medpagetoday.com/publichealthpolicy/healthpolicy/120893" target="_blank" rel="noopener noreferrer nofollow">Kennedy Tangles With Lawmakers Over Vitamin K Shots, Vaccines for Newborns</a></h2>
+    <p class="card-summary">(MedPage Today) -- Rep. Lori Trahan (D-Mass.) during a House hearing on Tuesday expressed her frustration with HHS Secretary Robert F. Kennedy Jr., noting that he &#34;managed to give a &#39;Go Gators&#39; from the witness table, but not a &#39;Go [vitamin] K...</p>
+    <a class="read-more" href="https://www.medpagetoday.com/publichealthpolicy/healthpolicy/120893" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
   <article class="card">
     <div class="card-meta">
       <span class="badge">Senior Health</span>
       <span class="card-source">MedPageToday.com - medical news for physicians</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
+      <time class="card-date" datetime="2026-04-21">Apr 21, 2026</time>
     </div>
-    <h2><a href="https://www.medpagetoday.com/meetingcoverage/aacr/120903" target="_blank" rel="noopener noreferrer nofollow">Tumor DNA Clearance Before Breast Cancer Surgery Predicts Response, Metastasis Risk</a></h2>
-    <p class="card-summary">(MedPage Today) -- SAN DIEGO -- Clearance of circulating tumor (ct)DNA after neoadjuvant therapy correlated significantly with pathologic complete response (pCR) and distant metastasis in triple-negative breast cancer (TNBC), according to a study...</p>
-    <a class="read-more" href="https://www.medpagetoday.com/meetingcoverage/aacr/120903" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://www.medpagetoday.com/gastroenterology/inflammatoryboweldisease/120892" target="_blank" rel="noopener noreferrer nofollow">Are NSAIDs Genuinely Too Dangerous in Inflammatory Bowel Disease?</a></h2>
+    <p class="card-summary">(MedPage Today) -- At least some patients with inflammatory bowel disease (IBD) can safely use common drugs for musculoskeletal aches and pains, a large study of insurance claims data suggested, contradicting a widespread concern that these products...</p>
+    <a class="read-more" href="https://www.medpagetoday.com/gastroenterology/inflammatoryboweldisease/120892" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
   <article class="card">
     <div class="card-meta">
       <span class="badge">Senior Health</span>
       <span class="card-source">MedPageToday.com - medical news for physicians</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
+      <time class="card-date" datetime="2026-04-21">Apr 21, 2026</time>
     </div>
-    <h2><a href="https://www.medpagetoday.com/primarycare/alternativemedicine/120902" target="_blank" rel="noopener noreferrer nofollow">Psychedelic Retreats, a Booming Business With Few Safety Guardrails</a></h2>
-    <p class="card-summary">(MedPage Today) -- Surging interest in the purported benefits of psychedelic drugs has given rise to books, documentaries, and conferences dedicated to the mind-altering substances. Now add one more business to the list: psychedelic retreats....</p>
-    <a class="read-more" href="https://www.medpagetoday.com/primarycare/alternativemedicine/120902" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
-  </article>
-
-  <article class="card">
-    <div class="card-meta">
-      <span class="badge">Drug Coverage</span>
-      <span class="card-source">Fierce Healthcare</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
-    </div>
-    <h2><a href="https://www.fiercehealthcare.com/digital-health/amazon-one-medical-launches-glp-1-program-integrated-primary-care" target="_blank" rel="noopener noreferrer nofollow">Amazon One Medical launches GLP-1 program integrated with primary care</a></h2>
-    <p class="card-summary">Patients can take advantage of the GLP-1 management program through their One Medical primary care clinician. Medications are available for quick delivery to all 50 states, with nearly 3,000 cities having same-day delivery available.</p>
-    <a class="read-more" href="https://www.fiercehealthcare.com/digital-health/amazon-one-medical-launches-glp-1-program-integrated-primary-care" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
-  </article>
-
-  <article class="card">
-    <div class="card-meta">
-      <span class="badge">Drug Coverage</span>
-      <span class="card-source">Fierce Healthcare</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
-    </div>
-    <h2><a href="https://www.fiercehealthcare.com/regulatory/rfk-jr-continues-congressional-hearing-appearances-talk-white-house-budget-plan" target="_blank" rel="noopener noreferrer nofollow">RFK Jr. continues congressional hearing appearances to talk White House budget plan</a></h2>
-    <p class="card-summary">HHS Secretary Robert F. Kennedy Jr. went in front of the Senate Committee on Health, Education Labor and Pensions, his latest in a string of congressional hearings.</p>
-    <a class="read-more" href="https://www.fiercehealthcare.com/regulatory/rfk-jr-continues-congressional-hearing-appearances-talk-white-house-budget-plan" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
-  </article>
-
-  <article class="card">
-    <div class="card-meta">
-      <span class="badge">Drug Coverage</span>
-      <span class="card-source">Fierce Healthcare</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
-    </div>
-    <h2><a href="https://www.fiercehealthcare.com/payers/elevance-health-raises-2026-outlook-it-posts-18b-q1-profit" target="_blank" rel="noopener noreferrer nofollow">Elevance Health seeing shift to bronze tier in ACA plans</a></h2>
-    <p class="card-summary">Elevance Health is raising its guidance for 2026 even as its Q1 profits declined year-over-year.</p>
-    <a class="read-more" href="https://www.fiercehealthcare.com/payers/elevance-health-raises-2026-outlook-it-posts-18b-q1-profit" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://www.medpagetoday.com/meetingcoverage/aacr/120891" target="_blank" rel="noopener noreferrer nofollow">Next-Generation KRAS G12C Inhibitor Shows &#39;Robust&#39; Efficacy in Advanced Lung Cancer</a></h2>
+    <p class="card-summary">(MedPage Today) -- SAN DIEGO -- Treatment with investigational elisrasib, a next-generation KRAS G12C inhibitor, showed efficacy in patients with advanced non-small cell lung cancer (NSCLC) with and without previous exposure to other KRAS G12C...</p>
+    <a class="read-more" href="https://www.medpagetoday.com/meetingcoverage/aacr/120891" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
 </div>
@@ -318,6 +347,11 @@ footer a{color:#94a3b8}
 <a href="/page-20.html">20</a>
 <span class="cur" aria-current="page">21</span>
 <a href="/page-22.html">22</a>
+<a href="/page-23.html">23</a>
+<a href="/page-24.html">24</a>
+<a href="/page-25.html">25</a>
+<a href="/page-26.html">26</a>
+<a href="/page-27.html">27</a>
 <a href="/page-22.html">Next &rsaquo;</a>
 </nav>
 </main>

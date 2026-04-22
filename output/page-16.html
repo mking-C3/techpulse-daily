@@ -115,11 +115,33 @@ footer{
 }
 footer a{color:#94a3b8}
 
+/* ── Affiliate Banner ── */
+.affiliate-banner{
+  background:linear-gradient(135deg,#0c4a6e 0%,#0369a1 100%);
+  color:#fff;padding:.9rem 1rem;text-align:center;
+}
+.affiliate-banner-inner{
+  max-width:1200px;margin:0 auto;
+  display:flex;align-items:center;justify-content:center;
+  flex-wrap:wrap;gap:.6rem 1.2rem;
+}
+.affiliate-banner p{font-size:.93rem;font-weight:500}
+.affiliate-banner strong{color:#7dd3fc}
+.affiliate-cta{
+  background:#f97316;color:#fff!important;
+  font-size:.83rem;font-weight:700;
+  padding:.42rem 1.1rem;border-radius:999px;
+  white-space:nowrap;transition:background .15s;
+  text-decoration:none!important;
+}
+.affiliate-cta:hover{background:#ea580c}
+
 /* ── Responsive ── */
 @media(max-width:640px){
   .nav-brand{font-size:.97rem}
   .grid{grid-template-columns:1fr}
   .page-header h1{font-size:1.3rem}
+  .affiliate-banner p{font-size:.83rem}
 }
 </style>
 </head>
@@ -151,6 +173,13 @@ footer a{color:#94a3b8}
   </div>
 </nav>
 
+<div class="affiliate-banner">
+  <div class="affiliate-banner-inner">
+    <p>Find the right Medicare plan for <strong>2025</strong> &mdash; compare coverage and costs in minutes.</p>
+    <a class="affiliate-cta" href="https://www.ehealthinsurance.com/medicare" target="_blank" rel="noopener sponsored">Compare Medicare Plans &rarr;</a>
+  </div>
+</div>
+
 <main class="container">
   <div class="page-header">
     <h1>Medicare Monitor</h1>
@@ -163,134 +192,134 @@ footer a{color:#94a3b8}
 
   <article class="card">
     <div class="card-meta">
-      <span class="badge">Healthcare Policy</span>
-      <span class="card-source">NPR Topics: Health</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
-    </div>
-    <h2><a href="https://www.npr.org/2026/04/22/nx-s1-5794613/health-insurance-wegovy-zepbound" target="_blank" rel="noopener noreferrer nofollow">Restrictions on obesity drug coverage force patients to pivot</a></h2>
-    <p class="card-summary">Twelve million people lost coverage for Zepbound over the last year. The same number of people lost coverage for Wegovy, according to an analysis by GoodRx, a drug discount website.</p>
-    <a class="read-more" href="https://www.npr.org/2026/04/22/nx-s1-5794613/health-insurance-wegovy-zepbound" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
-  </article>
-
-  <article class="card">
-    <div class="card-meta">
-      <span class="badge">Healthcare Policy</span>
-      <span class="card-source">NPR Topics: Health</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
-    </div>
-    <h2><a href="https://www.npr.org/2026/04/22/nx-s1-5791680/doj-disability-web-access-delay-schools" target="_blank" rel="noopener noreferrer nofollow">Trump administration delays rule aimed at improving disability access in schools</a></h2>
-    <p class="card-summary">Schools, colleges and other public institutions originally had until this week to make online content accessible to people with disabilities. Now, the Justice Department has delayed that deadline.</p>
-    <a class="read-more" href="https://www.npr.org/2026/04/22/nx-s1-5791680/doj-disability-web-access-delay-schools" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
-  </article>
-
-  <article class="card">
-    <div class="card-meta">
-      <span class="badge">Healthcare Policy</span>
-      <span class="card-source">NPR Topics: Health</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
-    </div>
-    <h2><a href="https://www.npr.org/2026/04/22/nx-s1-5792840/rfk-jr-senate-house-budget-hearings-vaccines-cdc-medicaid" target="_blank" rel="noopener noreferrer nofollow">Senators grill RFK Jr. on vaccines, drug prices and more at hearing</a></h2>
-    <p class="card-summary">Health Secretary Robert F. Kennedy Jr. faced tough questioning as he caps off seven hearings on the Hill in as many days. It&#39;s the first time he has testified before Congress since September.</p>
-    <a class="read-more" href="https://www.npr.org/2026/04/22/nx-s1-5792840/rfk-jr-senate-house-budget-hearings-vaccines-cdc-medicaid" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
-  </article>
-
-  <article class="card">
-    <div class="card-meta">
-      <span class="badge">Healthcare Policy</span>
-      <span class="card-source">NPR Topics: Health</span>
-      <time class="card-date" datetime="2026-04-21">Apr 21, 2026</time>
-    </div>
-    <h2><a href="https://www.npr.org/2026/04/21/nx-s1-5791755/trumps-order-is-a-milestone-for-proponents-of-using-psychedelics-as-medicine" target="_blank" rel="noopener noreferrer nofollow">Trump&#39;s order is a milestone for proponents of using psychedelics as medicine</a></h2>
-    <p class="card-summary">President Trump has signed an executive order aimed at accelerating research and approval of psychedelics for treating mental health conditions, like depression, PTSD and addiction.</p>
-    <a class="read-more" href="https://www.npr.org/2026/04/21/nx-s1-5791755/trumps-order-is-a-milestone-for-proponents-of-using-psychedelics-as-medicine" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
-  </article>
-
-  <article class="card">
-    <div class="card-meta">
-      <span class="badge">Healthcare Policy</span>
-      <span class="card-source">NPR Topics: Health</span>
-      <time class="card-date" datetime="2026-04-21">Apr 21, 2026</time>
-    </div>
-    <h2><a href="https://www.npr.org/2026/04/21/nx-s1-5736111/want-to-lighten-your-mental-load-first-let-go-of-these-gender-myths" target="_blank" rel="noopener noreferrer nofollow">Want to lighten your mental load? First, let go of these gender myths</a></h2>
-    <p class="card-summary">&#34;Men can&#39;t see the mess.&#34; &#34;Women are better at chores.&#34; These myths position women to take on more emotional thinking, says researcher Leah Ruppanner. She shares what works to reclaim your headspace.</p>
-    <a class="read-more" href="https://www.npr.org/2026/04/21/nx-s1-5736111/want-to-lighten-your-mental-load-first-let-go-of-these-gender-myths" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
-  </article>
-
-  <article class="card">
-    <div class="card-meta">
-      <span class="badge">Healthcare Policy</span>
-      <span class="card-source">NPR Topics: Health</span>
-      <time class="card-date" datetime="2026-04-21">Apr 21, 2026</time>
-    </div>
-    <h2><a href="https://www.npr.org/2026/04/21/nx-s1-5776665/surprising-origin-features-superglue-kids-adults-to-screens" target="_blank" rel="noopener noreferrer nofollow">The surprising origin of 4 features that superglue kids — and adults — to screens</a></h2>
-    <p class="card-summary">Taken together, these four features can create a trancelike state that can keep us stuck on social media apps or video games for hours. Children are particularly vulnerable.</p>
-    <a class="read-more" href="https://www.npr.org/2026/04/21/nx-s1-5776665/surprising-origin-features-superglue-kids-adults-to-screens" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
-  </article>
-
-  <article class="card">
-    <div class="card-meta">
-      <span class="badge">Healthcare Policy</span>
-      <span class="card-source">NPR Topics: Health</span>
-      <time class="card-date" datetime="2026-04-21">Apr 21, 2026</time>
-    </div>
-    <h2><a href="https://www.npr.org/2026/04/21/nx-s1-5783798/trump-administrations-rollback-of-regulations-frustrates-some-in-maha-movement" target="_blank" rel="noopener noreferrer nofollow">Trump administration&#39;s rollback of regulations frustrates some in MAHA movement</a></h2>
-    <p class="card-summary">A major concern for the Make America Healthy Again movement is the harmful effects of chemicals and toxins, but the coalition is growing increasingly frustrated by the Trump administration&#39;s actions.</p>
-    <a class="read-more" href="https://www.npr.org/2026/04/21/nx-s1-5783798/trump-administrations-rollback-of-regulations-frustrates-some-in-maha-movement" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
-  </article>
-
-  <article class="card">
-    <div class="card-meta">
-      <span class="badge">Healthcare Policy</span>
-      <span class="card-source">NPR Topics: Health</span>
+      <span class="badge">Medicare News</span>
+      <span class="card-source">MedCity News</span>
       <time class="card-date" datetime="2026-04-20">Apr 20, 2026</time>
     </div>
-    <h2><a href="https://www.npr.org/2026/04/20/nx-s1-5788967/vaccine-for-expectant-mothers-means-fewer-rsv-hospitalizations-for-babies-study-show" target="_blank" rel="noopener noreferrer nofollow">Vaccine for expectant mothers means fewer RSV hospitalizations for babies, study shows</a></h2>
-    <p class="card-summary">RSV is the most common reason why babies end up in the hospital in their first year. A new study finds a vaccine for expectant mothers is more effective at protecting babies than previously shown.</p>
-    <a class="read-more" href="https://www.npr.org/2026/04/20/nx-s1-5788967/vaccine-for-expectant-mothers-means-fewer-rsv-hospitalizations-for-babies-study-show" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://medcitynews.com/2026/04/oshas-evolving-approach-to-workplace-violence-prevention-in-healthcare/" target="_blank" rel="noopener noreferrer nofollow">OSHA’s Evolving Approach to Workplace Violence Prevention in Healthcare</a></h2>
+    <p class="card-summary">OSHA and NIOSH recommend that all hospitals develop comprehensive violence prevention programs. Here are some action items that provide a framework for building a legally defensible program. The post OSHA’s Evolving Approach to Workplace Violence Prevention in Healthcare appeared first on MedCity News .</p>
+    <a class="read-more" href="https://medcitynews.com/2026/04/oshas-evolving-approach-to-workplace-violence-prevention-in-healthcare/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
   <article class="card">
     <div class="card-meta">
-      <span class="badge">Healthcare Policy</span>
-      <span class="card-source">NPR Topics: Health</span>
+      <span class="badge">Medicare News</span>
+      <span class="card-source">MedCity News</span>
       <time class="card-date" datetime="2026-04-20">Apr 20, 2026</time>
     </div>
-    <h2><a href="https://www.npr.org/2026/04/20/nx-s1-5746639-e1/got-wearable-data-your-doctor-can-help-you-connect-the-dots" target="_blank" rel="noopener noreferrer nofollow">Got wearable data? Your doctor can help you connect the dots</a></h2>
-    <p class="card-summary">The American Academy of Neurology issued guidance on using wearable data devices, like smartwatches or an Oura Ring, to track key health metrics that can help flag serious conditions.</p>
-    <a class="read-more" href="https://www.npr.org/2026/04/20/nx-s1-5746639-e1/got-wearable-data-your-doctor-can-help-you-connect-the-dots" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://medcitynews.com/2026/04/stopping-patient-attrition-before-it-starts-a-proactive-approach-to-healthcare-marketing/" target="_blank" rel="noopener noreferrer nofollow">Stopping Patient Attrition Before it Starts: A Proactive Approach to Healthcare Marketing</a></h2>
+    <p class="card-summary">When patients disengage, preventive care is missed, chronic conditions worsen, care shifts to higher-cost settings such as the emergency department and urgent care, and patients fragment across systems, reducing continuity. The post Stopping Patient Attrition Before it Starts: A Proactive Approach to Healthcare Marketing appeared first on MedCity News .</p>
+    <a class="read-more" href="https://medcitynews.com/2026/04/stopping-patient-attrition-before-it-starts-a-proactive-approach-to-healthcare-marketing/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
   <article class="card">
     <div class="card-meta">
-      <span class="badge">Senior Health</span>
-      <span class="card-source">MedPageToday.com - medical news for physicians</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
+      <span class="badge">Medicare News</span>
+      <span class="card-source">MedCity News</span>
+      <time class="card-date" datetime="2026-04-19">Apr 19, 2026</time>
     </div>
-    <h2><a href="https://www.medpagetoday.com/popmedicine/popmedicine/120901" target="_blank" rel="noopener noreferrer nofollow">&#39;The Pitt&#39; Got a Diagnosis Right. It Got the Response Wrong.</a></h2>
-    <p class="card-summary">(MedPage Today) -- Last week&#39;s season finale of &#34;The Pitt&#34; generated significant discussion, particularly around one of its most emotionally charged scenes: Dr. Al-Hashimi&#39;s disclosure to Dr. Robby that she has a seizure disorder causing brief...</p>
-    <a class="read-more" href="https://www.medpagetoday.com/popmedicine/popmedicine/120901" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://medcitynews.com/2026/04/is-shah-capitals-criticism-of-novavax-fair-a-wall-street-analyst-weighs-in/" target="_blank" rel="noopener noreferrer nofollow">Is Shah Capital’s Criticism of Novavax Fair? A Wall Street Analyst Weighs In</a></h2>
+    <p class="card-summary">Himanshu Shah, an activist investor and large shareholder of Novavax, whose stock has plummeted over the years, believes the company should cut costs more aggressively, reduce the size of its board, and do more to prop up its financial performance. But are the criticisms valid? The post Is Shah Capital’s Criticism of Novavax Fair? A Wall Street Analyst Weighs In appeared first on MedCity News .</p>
+    <a class="read-more" href="https://medcitynews.com/2026/04/is-shah-capitals-criticism-of-novavax-fair-a-wall-street-analyst-weighs-in/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
   <article class="card">
     <div class="card-meta">
-      <span class="badge">Senior Health</span>
-      <span class="card-source">MedPageToday.com - medical news for physicians</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
+      <span class="badge">Medicare News</span>
+      <span class="card-source">MedCity News</span>
+      <time class="card-date" datetime="2026-04-19">Apr 19, 2026</time>
     </div>
-    <h2><a href="https://www.medpagetoday.com/washington-watch/washington-watch/120900" target="_blank" rel="noopener noreferrer nofollow">Congresswoman Tied to COVID Fraud Resigns; DOD Ends Flu Vax Mandate; USPSTF Overhaul</a></h2>
-    <p class="card-summary">(MedPage Today) -- Note that some links may require registration or subscription. Rep. Sheila Cherfilus-McCormick (D-Fla.) resigned from Congress; she and her brother are alleged to have stolen $5 million from COVID disaster relief funding given...</p>
-    <a class="read-more" href="https://www.medpagetoday.com/washington-watch/washington-watch/120900" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://medcitynews.com/2026/04/obsidian-galera-merger-til-cell-therapy-cancer-melanoma-grtx-obx/" target="_blank" rel="noopener noreferrer nofollow">Obsidian, Galera Merger Comes With $350M Infusion for Cancer Drug Trials</a></h2>
+    <p class="card-summary">Obsidian Therapeutics aims to show its TIL cell therapy has advantages over an Iovance Biotherapeutics TIL therapy marketed for treating melanoma. Obsidian’s merger with Galera Therapeutics will give it a public listing and a private placement to support clinical development of the combined company’s cancer drug pipeline. The post Obsidian, Galera Merger Comes With $350M Infusion for Cancer Drug Trials appeared first on MedCity News .</p>
+    <a class="read-more" href="https://medcitynews.com/2026/04/obsidian-galera-merger-til-cell-therapy-cancer-melanoma-grtx-obx/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
   <article class="card">
     <div class="card-meta">
-      <span class="badge">Senior Health</span>
-      <span class="card-source">MedPageToday.com - medical news for physicians</span>
+      <span class="badge">Medicare News</span>
+      <span class="card-source">MedCity News</span>
+      <time class="card-date" datetime="2026-04-19">Apr 19, 2026</time>
+    </div>
+    <h2><a href="https://medcitynews.com/2026/04/cjr-model-value-based-care/" target="_blank" rel="noopener noreferrer nofollow">Expanding the CJR Model Is a Logical Step in VBC, but Implementation Challenges Remain</a></h2>
+    <p class="card-summary">CMS is proposing to make its joint replacement bundled payment model mandatory nationwide. Experts say it is a logical step, but warn that mandatory participation could be challenging for hospitals to implement. The post Expanding the CJR Model Is a Logical Step in VBC, but Implementation Challenges Remain appeared first on MedCity News .</p>
+    <a class="read-more" href="https://medcitynews.com/2026/04/cjr-model-value-based-care/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Medicare News</span>
+      <span class="card-source">MedCity News</span>
+      <time class="card-date" datetime="2026-04-19">Apr 19, 2026</time>
+    </div>
+    <h2><a href="https://medcitynews.com/2026/04/how-team-based-and-virtual-nursing-models-are-redefining-care-delivery/" target="_blank" rel="noopener noreferrer nofollow">How Team-Based and Virtual Nursing Models Are Redefining Care Delivery</a></h2>
+    <p class="card-summary">Care delivery doesn’t have to be binary — in-person or virtual, old model or new. It can be adaptive, team-based, and deeply human. The post How Team-Based and Virtual Nursing Models Are Redefining Care Delivery appeared first on MedCity News .</p>
+    <a class="read-more" href="https://medcitynews.com/2026/04/how-team-based-and-virtual-nursing-models-are-redefining-care-delivery/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Medicare News</span>
+      <span class="card-source">MedCity News</span>
+      <time class="card-date" datetime="2026-04-19">Apr 19, 2026</time>
+    </div>
+    <h2><a href="https://medcitynews.com/2026/04/trust-and-ai-adoption-in-medicine/" target="_blank" rel="noopener noreferrer nofollow">Trust and AI Adoption in Medicine</a></h2>
+    <p class="card-summary">The challenge isn’t whether AI can be used (it already is). It’s whether it can be trusted. And trust in medicine is not something healthcare professionals can afford to get wrong. The post Trust and AI Adoption in Medicine appeared first on MedCity News .</p>
+    <a class="read-more" href="https://medcitynews.com/2026/04/trust-and-ai-adoption-in-medicine/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Medicare News</span>
+      <span class="card-source">MedCity News</span>
+      <time class="card-date" datetime="2026-04-17">Apr 17, 2026</time>
+    </div>
+    <h2><a href="https://medcitynews.com/2026/04/behavioral-health-demand-trilliant/" target="_blank" rel="noopener noreferrer nofollow">Behavioral Health Demand Has Increased by 62% Since 2018. What the Industry Needs to Know</a></h2>
+    <p class="card-summary">A new report from Trilliant Health finds behavioral health demand has surged since 2018, but workforce shortages and access barriers continue to limit care. The post Behavioral Health Demand Has Increased by 62% Since 2018. What the Industry Needs to Know appeared first on MedCity News .</p>
+    <a class="read-more" href="https://medcitynews.com/2026/04/behavioral-health-demand-trilliant/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Medicare News</span>
+      <span class="card-source">MedCity News</span>
+      <time class="card-date" datetime="2026-04-17">Apr 17, 2026</time>
+    </div>
+    <h2><a href="https://medcitynews.com/2026/04/kailera-ipo-glp1-gip-ribupatide-obesity-drug-injectable-oral-weight-loss-klra/" target="_blank" rel="noopener noreferrer nofollow">Kailera’s Upsized IPO Brings In $625M for Pipeline of Injectable &amp; Oral Obesity Drugs</a></h2>
+    <p class="card-summary">Kailera Therapeutics’ IPO proceeds will support global clinical trials for its obesity drug candidates. Meanwhile, proteomics company Alamar Biosciences upsized its own IPO while clinical-stage biotechs Seaport Therapeutics and Hemab Therapeutics joined the IPO queue. The post Kailera’s Upsized IPO Brings In $625M for Pipeline of Injectable &amp; Oral Obesity Drugs appeared first on MedCity News .</p>
+    <a class="read-more" href="https://medcitynews.com/2026/04/kailera-ipo-glp1-gip-ribupatide-obesity-drug-injectable-oral-weight-loss-klra/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Drug Coverage</span>
+      <span class="card-source">Fierce Healthcare</span>
       <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
     </div>
-    <h2><a href="https://www.medpagetoday.com/special-reports/features/120897" target="_blank" rel="noopener noreferrer nofollow">Inside CDC Director Nomination; Rogan&#39;s Psychedelic Influence; Researchers Fooled AI</a></h2>
-    <p class="card-summary">(MedPage Today) -- The Trump administration&#39;s nomination of Erica Schwartz, MD, MPH, JD, a former deputy surgeon general, to lead the CDC follows a review of the agency launched in January. HHS chief counselor Chris Klomp led the effort to identify...</p>
-    <a class="read-more" href="https://www.medpagetoday.com/special-reports/features/120897" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://www.fiercehealthcare.com/ai-and-machine-learning/hippocratic-ai-rolls-out-2-new-tools-aimed-expanding-clinical-access" target="_blank" rel="noopener noreferrer nofollow">Hippocratic AI rolls out 2 new tools aimed at expanding clinical access, improving nurse workflow</a></h2>
+    <p class="card-summary">The startup developed the tools, dubbed AI Front Door and Nurse Co-Pilot, as voice AI tools for patients and inpatient nurses.</p>
+    <a class="read-more" href="https://www.fiercehealthcare.com/ai-and-machine-learning/hippocratic-ai-rolls-out-2-new-tools-aimed-expanding-clinical-access" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Drug Coverage</span>
+      <span class="card-source">Fierce Healthcare</span>
+      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
+    </div>
+    <h2><a href="https://www.fiercehealthcare.com/providers/connecticut-doctors-now-sue-patients-most-over-medical-bills-surpassing-hospitals" target="_blank" rel="noopener noreferrer nofollow">In Connecticut, doctors now sue patients most over medical bills, surpassing hospitals</a></h2>
+    <p class="card-summary">Records show lawsuits by doctors and other nonhospital providers now account for more than 80% of healthcare collections cases filed against patients and their families in 2024.</p>
+    <a class="read-more" href="https://www.fiercehealthcare.com/providers/connecticut-doctors-now-sue-patients-most-over-medical-bills-surpassing-hospitals" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Drug Coverage</span>
+      <span class="card-source">Fierce Healthcare</span>
+      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
+    </div>
+    <h2><a href="https://www.fiercehealthcare.com/practices/breast-cancers-next-precision-medicine-revolution-may-lie-molecular-residual-disease" target="_blank" rel="noopener noreferrer nofollow">Breast cancer’s next precision medicine revolution may lie in molecular residual disease</a></h2>
+    <p class="card-summary">New data shows potential for ctDNA to guide treatment decisions for patients with triple-negative breast cancer</p>
+    <a class="read-more" href="https://www.fiercehealthcare.com/practices/breast-cancers-next-precision-medicine-revolution-may-lie-molecular-residual-disease" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
 </div>
@@ -318,6 +347,11 @@ footer a{color:#94a3b8}
 <a href="/page-20.html">20</a>
 <a href="/page-21.html">21</a>
 <a href="/page-22.html">22</a>
+<a href="/page-23.html">23</a>
+<a href="/page-24.html">24</a>
+<a href="/page-25.html">25</a>
+<a href="/page-26.html">26</a>
+<a href="/page-27.html">27</a>
 <a href="/page-17.html">Next &rsaquo;</a>
 </nav>
 </main>

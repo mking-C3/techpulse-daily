@@ -115,11 +115,33 @@ footer{
 }
 footer a{color:#94a3b8}
 
+/* ── Affiliate Banner ── */
+.affiliate-banner{
+  background:linear-gradient(135deg,#0c4a6e 0%,#0369a1 100%);
+  color:#fff;padding:.9rem 1rem;text-align:center;
+}
+.affiliate-banner-inner{
+  max-width:1200px;margin:0 auto;
+  display:flex;align-items:center;justify-content:center;
+  flex-wrap:wrap;gap:.6rem 1.2rem;
+}
+.affiliate-banner p{font-size:.93rem;font-weight:500}
+.affiliate-banner strong{color:#7dd3fc}
+.affiliate-cta{
+  background:#f97316;color:#fff!important;
+  font-size:.83rem;font-weight:700;
+  padding:.42rem 1.1rem;border-radius:999px;
+  white-space:nowrap;transition:background .15s;
+  text-decoration:none!important;
+}
+.affiliate-cta:hover{background:#ea580c}
+
 /* ── Responsive ── */
 @media(max-width:640px){
   .nav-brand{font-size:.97rem}
   .grid{grid-template-columns:1fr}
   .page-header h1{font-size:1.3rem}
+  .affiliate-banner p{font-size:.83rem}
 }
 </style>
 </head>
@@ -151,6 +173,13 @@ footer a{color:#94a3b8}
   </div>
 </nav>
 
+<div class="affiliate-banner">
+  <div class="affiliate-banner-inner">
+    <p>Find the right Medicare plan for <strong>2025</strong> &mdash; compare coverage and costs in minutes.</p>
+    <a class="affiliate-cta" href="https://www.ehealthinsurance.com/medicare" target="_blank" rel="noopener sponsored">Compare Medicare Plans &rarr;</a>
+  </div>
+</div>
+
 <main class="container">
   <div class="page-header">
     <h1>Medicare Monitor</h1>
@@ -163,134 +192,134 @@ footer a{color:#94a3b8}
 
   <article class="card">
     <div class="card-meta">
-      <span class="badge">Drug Coverage</span>
-      <span class="card-source">Fierce Healthcare</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
-    </div>
-    <h2><a href="https://www.fiercehealthcare.com/digital-health/amazon-one-medical-launches-glp-1-program-integrated-primary-care" target="_blank" rel="noopener noreferrer nofollow">Amazon One Medical launches GLP-1 program integrated with primary care</a></h2>
-    <p class="card-summary">Patients can take advantage of the GLP-1 management program through their One Medical primary care clinician. Medications are available for quick delivery to all 50 states, with nearly 3,000 cities having same-day delivery available.</p>
-    <a class="read-more" href="https://www.fiercehealthcare.com/digital-health/amazon-one-medical-launches-glp-1-program-integrated-primary-care" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
-  </article>
-
-  <article class="card">
-    <div class="card-meta">
-      <span class="badge">Drug Coverage</span>
-      <span class="card-source">Fierce Healthcare</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
-    </div>
-    <h2><a href="https://www.fiercehealthcare.com/regulatory/rfk-jr-continues-congressional-hearing-appearances-talk-white-house-budget-plan" target="_blank" rel="noopener noreferrer nofollow">RFK Jr. continues congressional hearing appearances to talk White House budget plan</a></h2>
-    <p class="card-summary">HHS Secretary Robert F. Kennedy Jr. went in front of the Senate Committee on Health, Education Labor and Pensions, his latest in a string of congressional hearings.</p>
-    <a class="read-more" href="https://www.fiercehealthcare.com/regulatory/rfk-jr-continues-congressional-hearing-appearances-talk-white-house-budget-plan" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
-  </article>
-
-  <article class="card">
-    <div class="card-meta">
-      <span class="badge">Drug Coverage</span>
-      <span class="card-source">Fierce Healthcare</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
-    </div>
-    <h2><a href="https://www.fiercehealthcare.com/payers/elevance-health-raises-2026-outlook-it-posts-18b-q1-profit" target="_blank" rel="noopener noreferrer nofollow">Elevance Health seeing shift to bronze tier in ACA plans</a></h2>
-    <p class="card-summary">Elevance Health is raising its guidance for 2026 even as its Q1 profits declined year-over-year.</p>
-    <a class="read-more" href="https://www.fiercehealthcare.com/payers/elevance-health-raises-2026-outlook-it-posts-18b-q1-profit" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
-  </article>
-
-  <article class="card">
-    <div class="card-meta">
-      <span class="badge">Drug Coverage</span>
-      <span class="card-source">Fierce Healthcare</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
-    </div>
-    <h2><a href="https://www.fiercehealthcare.com/providers/community-health-systems-reports-low-volumes-earnings-dip-q1-2026" target="_blank" rel="noopener noreferrer nofollow">Community Health Systems attributes Q1 volumes stumble to consumers&#39; macroeconomic fears, payers&#39; prior auth denials</a></h2>
-    <p class="card-summary">Same-store admissions and adjusted admissions respectively declined 1.3% and 0.5% year over year. Executives pointed to cross-market dropoffs among patients with high-deductible and managed care plans.</p>
-    <a class="read-more" href="https://www.fiercehealthcare.com/providers/community-health-systems-reports-low-volumes-earnings-dip-q1-2026" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
-  </article>
-
-  <article class="card">
-    <div class="card-meta">
-      <span class="badge">Drug Coverage</span>
-      <span class="card-source">Fierce Healthcare</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
-    </div>
-    <h2><a href="https://www.fiercehealthcare.com/payers/why-unitedhealth-group-betting-big-doulas" target="_blank" rel="noopener noreferrer nofollow">Why UnitedHealth Group is betting big on doulas</a></h2>
-    <p class="card-summary">Fierce Senior Writer Paige Minemyer speaks with Catherine Anderson of UnitedHealth Group about why the insurer is expanding doula support nationwide and what that could mean for maternal and infant health outcomes across the U.S.</p>
-    <a class="read-more" href="https://www.fiercehealthcare.com/payers/why-unitedhealth-group-betting-big-doulas" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
-  </article>
-
-  <article class="card">
-    <div class="card-meta">
-      <span class="badge">Drug Coverage</span>
-      <span class="card-source">Fierce Healthcare</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
-    </div>
-    <h2><a href="https://www.fiercehealthcare.com/payers/cms-delays-part-d-glp-1-model-amid-skepticism-insurers" target="_blank" rel="noopener noreferrer nofollow">CMS delays Part D GLP-1 model amid skepticism from insurers</a></h2>
-    <p class="card-summary">The Trump administration is delaying a voluntary model that aimed to expand access to GLP-1s in Part D after pushback from insurers.</p>
-    <a class="read-more" href="https://www.fiercehealthcare.com/payers/cms-delays-part-d-glp-1-model-amid-skepticism-insurers" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
-  </article>
-
-  <article class="card">
-    <div class="card-meta">
-      <span class="badge">Drug Coverage</span>
-      <span class="card-source">Fierce Healthcare</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
-    </div>
-    <h2><a href="https://www.fiercehealthcare.com/health-tech/oak-hcft-backs-courier-healths-50m-series-b-build-out-ai-biopharma-patient-experience" target="_blank" rel="noopener noreferrer nofollow">Oak HC/FT backs Courier Health&#39;s $50M series B to build out AI for the biopharma patient experience</a></h2>
-    <p class="card-summary">Courier Health raised $50 million in series B funding to scale its AI-powered platform purpose-built for biopharma that manages the end-to-end patient journey.</p>
-    <a class="read-more" href="https://www.fiercehealthcare.com/health-tech/oak-hcft-backs-courier-healths-50m-series-b-build-out-ai-biopharma-patient-experience" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
-  </article>
-
-  <article class="card">
-    <div class="card-meta">
-      <span class="badge">Drug Coverage</span>
-      <span class="card-source">Fierce Healthcare</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
-    </div>
-    <h2><a href="https://www.fiercehealthcare.com/ai-and-machine-learning/amperos-health-secures-16m-series-funding-announces-industrys-new-first-ai" target="_blank" rel="noopener noreferrer nofollow">Amperos Health secures $16M in series A funding, unveils AI-native denial management solution</a></h2>
-    <p class="card-summary">Amperos Health CEO and co-founder Michal Miernowski told Fierce Healthcare the newly announced funding will support scaling the organization and its platform.</p>
-    <a class="read-more" href="https://www.fiercehealthcare.com/ai-and-machine-learning/amperos-health-secures-16m-series-funding-announces-industrys-new-first-ai" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
-  </article>
-
-  <article class="card">
-    <div class="card-meta">
-      <span class="badge">Drug Coverage</span>
-      <span class="card-source">Fierce Healthcare</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
-    </div>
-    <h2><a href="https://www.fiercehealthcare.com/payers/dont-be-wimp-mark-cuban-tells-lawmakers-hesitant-break-pbms" target="_blank" rel="noopener noreferrer nofollow">&#39;Don&#39;t be a wimp,&#39; Mark Cuban tells lawmakers hesitant to break up PBMs</a></h2>
-    <p class="card-summary">The entrepreneur outlines his belief that pressure from vertically integrated insurers and pharmacy benefit managers is preventing an efficient healthcare market. He also called on the Trump administration to &#34;do your job&#34; and ramp up enforcement, noting that drug manufacturers today are much more scared of a formulary exclusion than the president himself.</p>
-    <a class="read-more" href="https://www.fiercehealthcare.com/payers/dont-be-wimp-mark-cuban-tells-lawmakers-hesitant-break-pbms" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
-  </article>
-
-  <article class="card">
-    <div class="card-meta">
-      <span class="badge">Drug Coverage</span>
-      <span class="card-source">Fierce Healthcare</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
-    </div>
-    <h2><a href="https://www.fiercehealthcare.com/payers/unitedhealth-group-boosts-2026-outlook-it-posts-q1-earnings-revenue-beat" target="_blank" rel="noopener noreferrer nofollow">UnitedHealth Group spotlights AI investments as part of operational turnaround</a></h2>
-    <p class="card-summary">Artificial intelligence is one of the tentpoles of UnitedHealth&#39;s turnaround effort, and the company&#39;s top brass offered a look at where it&#39;s making key investments.</p>
-    <a class="read-more" href="https://www.fiercehealthcare.com/payers/unitedhealth-group-boosts-2026-outlook-it-posts-q1-earnings-revenue-beat" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
-  </article>
-
-  <article class="card">
-    <div class="card-meta">
-      <span class="badge">Drug Coverage</span>
-      <span class="card-source">Health Care</span>
+      <span class="badge">Medicare News</span>
+      <span class="card-source">KFF Health News</span>
       <time class="card-date" datetime="2026-04-21">Apr 21, 2026</time>
     </div>
-    <h2><a href="https://www.politico.com/news/2026/04/21/trump-surgeon-general-casey-means-abortion-psychedelics-00881954" target="_blank" rel="noopener noreferrer nofollow">Trump’s surgeon general pick faces mounting GOP opposition</a></h2>
-    <p class="card-summary">Add abortion and psychedelics to the list of reasons many Republicans oppose Casey Means.</p>
-    <a class="read-more" href="https://www.politico.com/news/2026/04/21/trump-surgeon-general-casey-means-abortion-psychedelics-00881954" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://kffhealthnews.org/insurance/listen-health-care-helpline-life-kit-high-deductible-plans-out-of-pocket-costs/" target="_blank" rel="noopener noreferrer nofollow">Listen: Cheap Health Insurance Isn’t Always Cheap</a></h2>
+    <p class="card-summary">Across the country, people are choosing lower monthly premiums in exchange for higher out-of-pocket risk. Reporter Jackie Fortiér explains what the shift means for Americans’ health and wallets.</p>
+    <a class="read-more" href="https://kffhealthnews.org/insurance/listen-health-care-helpline-life-kit-high-deductible-plans-out-of-pocket-costs/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
   <article class="card">
     <div class="card-meta">
-      <span class="badge">Drug Coverage</span>
-      <span class="card-source">Health Care</span>
+      <span class="badge">Medicare News</span>
+      <span class="card-source">KFF Health News</span>
       <time class="card-date" datetime="2026-04-21">Apr 21, 2026</time>
     </div>
-    <h2><a href="https://www.politico.com/news/2026/04/21/rfk-maha-calley-means-midterms-00884885" target="_blank" rel="noopener noreferrer nofollow">RFK Jr.’s followers will help the GOP in midterms, Kennedy adviser tells POLITICO’s Health Summit</a></h2>
-    <p class="card-summary">Calley Means said the health secretary and Trump are working in “lockstep.”</p>
-    <a class="read-more" href="https://www.politico.com/news/2026/04/21/rfk-maha-calley-means-midterms-00884885" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://kffhealthnews.org/health-industry/opm-federal-workers-health-records-hipaa-democratic-letters/" target="_blank" rel="noopener noreferrer nofollow">Democrats Demand Trump Administration Halt Plan To Collect Federal Workers’ Health Data</a></h2>
+    <p class="card-summary">After KFF Health News reported that the Trump administration is seeking federal workers’ medical records, Democratic lawmakers are insisting that the Office of Personnel Management drop its request.</p>
+    <a class="read-more" href="https://kffhealthnews.org/health-industry/opm-federal-workers-health-records-hipaa-democratic-letters/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Medicare News</span>
+      <span class="card-source">KFF Health News</span>
+      <time class="card-date" datetime="2026-04-20">Apr 20, 2026</time>
+    </div>
+    <h2><a href="https://kffhealthnews.org/news/medical-debt-connecticut-doctors-sue-patients/" target="_blank" rel="noopener noreferrer nofollow">In Connecticut, Doctors Now Sue Patients Most Over Medical Bills, Surpassing Hospitals</a></h2>
+    <p class="card-summary">Physicians, dentists, and other nonhospital providers account for more than 80% of health care debt collection cases in Connecticut courts, a CT Mirror-KFF Health News investigation finds.</p>
+    <a class="read-more" href="https://kffhealthnews.org/news/medical-debt-connecticut-doctors-sue-patients/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Medicare News</span>
+      <span class="card-source">KFF Health News</span>
+      <time class="card-date" datetime="2026-04-18">Apr 18, 2026</time>
+    </div>
+    <h2><a href="https://kffhealthnews.org/on-air/on-air-april-18-2026-urgent-care-abortion-doulas-farm-bureau-health-plans/" target="_blank" rel="noopener noreferrer nofollow">Journalists Talk Hot Health Topics: Urgent Care Clinics Performing Abortions and Doulas’ Pay</a></h2>
+    <p class="card-summary">KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here’s a collection of their appearances.</p>
+    <a class="read-more" href="https://kffhealthnews.org/on-air/on-air-april-18-2026-urgent-care-abortion-doulas-farm-bureau-health-plans/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Medicare News</span>
+      <span class="card-source">KFF Health News</span>
+      <time class="card-date" datetime="2026-04-17">Apr 17, 2026</time>
+    </div>
+    <h2><a href="https://kffhealthnews.org/mental-health/the-week-in-brief-immigrant-children-guardianship-laws/" target="_blank" rel="noopener noreferrer nofollow">States Update Guardianship Laws To Keep Children of Immigrants Out of Foster Care</a></h2>
+    <p class="card-summary">Get our weekly newsletter, The Week in Brief, featuring a roundup of our original coverage, Fridays at 2 p.m. ET.</p>
+    <a class="read-more" href="https://kffhealthnews.org/mental-health/the-week-in-brief-immigrant-children-guardianship-laws/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Medicare News</span>
+      <span class="card-source">MedCity News</span>
+      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
+    </div>
+    <h2><a href="https://medcitynews.com/2026/04/merck-hiv-drug-fda-approval-idvynso-combination-drug-antiretroviral-virology-mrk/" target="_blank" rel="noopener noreferrer nofollow">FDA Nod for Merck HIV Drug Brings Competition to a Gilead Sciences Antiretroviral</a></h2>
+    <p class="card-summary">Merck’s HIV drug Idvynso could become a drug choice for patients who need to switch from Gilead Sciences’ Biktarvy for safety or tolerability reasons. The Merck combination drug pairs two molecules that bring different mechanisms of action to suppressing HIV. The post FDA Nod for Merck HIV Drug Brings Competition to a Gilead Sciences Antiretroviral appeared first on MedCity News .</p>
+    <a class="read-more" href="https://medcitynews.com/2026/04/merck-hiv-drug-fda-approval-idvynso-combination-drug-antiretroviral-virology-mrk/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Medicare News</span>
+      <span class="card-source">MedCity News</span>
+      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
+    </div>
+    <h2><a href="https://medcitynews.com/2026/04/wearable-noise-is-exploding-trust-is-the-filter/" target="_blank" rel="noopener noreferrer nofollow">Wearable Noise Is Exploding — Trust Is the Filter</a></h2>
+    <p class="card-summary">The challenge is determining whether wearable data is reliable enough to relieve the review burden, guide care, support reimbursement, or reassure a patient who is worried about their heart rhythm at two o’clock in the morning. The post Wearable Noise Is Exploding — Trust Is the Filter appeared first on MedCity News .</p>
+    <a class="read-more" href="https://medcitynews.com/2026/04/wearable-noise-is-exploding-trust-is-the-filter/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Medicare News</span>
+      <span class="card-source">MedCity News</span>
+      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
+    </div>
+    <h2><a href="https://medcitynews.com/2026/04/trust-technology-and-the-future-of-interoperability-solving-problems-that-impact-real-lives/" target="_blank" rel="noopener noreferrer nofollow">Trust, Technology and the Future of Interoperability: Solving Problems That Impact Real Lives</a></h2>
+    <p class="card-summary">Healthcare interoperability isn’t an abstract concept; it’s about human connection, building trust and easing burden on patients and their care providers. The post Trust, Technology and the Future of Interoperability: Solving Problems That Impact Real Lives appeared first on MedCity News .</p>
+    <a class="read-more" href="https://medcitynews.com/2026/04/trust-technology-and-the-future-of-interoperability-solving-problems-that-impact-real-lives/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Medicare News</span>
+      <span class="card-source">MedCity News</span>
+      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
+    </div>
+    <h2><a href="https://medcitynews.com/2026/04/alignment-health-plan-ceo-sometimes-when-ma-plan-is-pulling-out-the-provider-is-to-blame/" target="_blank" rel="noopener noreferrer nofollow">Alignment Health Plan CEO: Sometimes When MA Plan is Pulling Out, the Provider is to Blame</a></h2>
+    <p class="card-summary">At the annual Medicarians conference in Las Vegas that draws brokers, agents, agency owners and field marketing organizations, among others, Dawn Maroney suggested that payers are not always the “bad guys.” The post Alignment Health Plan CEO: Sometimes When MA Plan is Pulling Out, the Provider is to Blame appeared first on MedCity News .</p>
+    <a class="read-more" href="https://medcitynews.com/2026/04/alignment-health-plan-ceo-sometimes-when-ma-plan-is-pulling-out-the-provider-is-to-blame/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Medicare News</span>
+      <span class="card-source">MedCity News</span>
+      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
+    </div>
+    <h2><a href="https://medcitynews.com/2026/04/oscar-health-marketplace-airbnb/" target="_blank" rel="noopener noreferrer nofollow">Oscar Health Seeks to Build ‘Airbnb for Healthcare’ with New Marketplace, CEO Says</a></h2>
+    <p class="card-summary">Oscar Health launched Lucie, a marketplace aimed at making healthcare more shoppable. The post Oscar Health Seeks to Build ‘Airbnb for Healthcare’ with New Marketplace, CEO Says appeared first on MedCity News .</p>
+    <a class="read-more" href="https://medcitynews.com/2026/04/oscar-health-marketplace-airbnb/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Medicare News</span>
+      <span class="card-source">MedCity News</span>
+      <time class="card-date" datetime="2026-04-21">Apr 21, 2026</time>
+    </div>
+    <h2><a href="https://medcitynews.com/2026/04/tortugas-neuroscience-startup-cure-ventures-schizophrenia-tinnitus-hansoh-eisai/" target="_blank" rel="noopener noreferrer nofollow">Neuro Startup Tortugas Unveils $106M and a Pipeline of Drugs for the Brain</a></h2>
+    <p class="card-summary">Tortugas Neurosciences’ two lead programs are in-licensed oral small molecules in development for schizophrenia and tinnitus. The startup is led by veterans of Sage Therapeutics, a neuroscience biotech that was acquired last year. The post Neuro Startup Tortugas Unveils $106M and a Pipeline of Drugs for the Brain appeared first on MedCity News .</p>
+    <a class="read-more" href="https://medcitynews.com/2026/04/tortugas-neuroscience-startup-cure-ventures-schizophrenia-tinnitus-hansoh-eisai/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Medicare News</span>
+      <span class="card-source">MedCity News</span>
+      <time class="card-date" datetime="2026-04-21">Apr 21, 2026</time>
+    </div>
+    <h2><a href="https://medcitynews.com/2026/04/the-next-era-of-payment-integrity-earlier-clinical-validation-true-transparency/" target="_blank" rel="noopener noreferrer nofollow">The Next Era of Payment Integrity: Earlier Clinical Validation, True Transparency</a></h2>
+    <p class="card-summary">By using AI-powered intelligence to shift clinical and coding validation earlier in the healthcare continuum, and unlocking upstream clinical data to inform downstream payment workflows, organizations can proactively prevent errors, reduce downstream churn and friction, and support more predictable, accurate, and timely payments. The post The Next Era of Payment Integrity: Earlier Clinical Validation, True Transparency appeared first on MedCity News .</p>
+    <a class="read-more" href="https://medcitynews.com/2026/04/the-next-era-of-payment-integrity-earlier-clinical-validation-true-transparency/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
 </div>
@@ -318,6 +347,11 @@ footer a{color:#94a3b8}
 <a href="/page-20.html">20</a>
 <a href="/page-21.html">21</a>
 <a href="/page-22.html">22</a>
+<a href="/page-23.html">23</a>
+<a href="/page-24.html">24</a>
+<a href="/page-25.html">25</a>
+<a href="/page-26.html">26</a>
+<a href="/page-27.html">27</a>
 <a href="/page-7.html">Next &rsaquo;</a>
 </nav>
 </main>

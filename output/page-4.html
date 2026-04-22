@@ -115,11 +115,33 @@ footer{
 }
 footer a{color:#94a3b8}
 
+/* ── Affiliate Banner ── */
+.affiliate-banner{
+  background:linear-gradient(135deg,#0c4a6e 0%,#0369a1 100%);
+  color:#fff;padding:.9rem 1rem;text-align:center;
+}
+.affiliate-banner-inner{
+  max-width:1200px;margin:0 auto;
+  display:flex;align-items:center;justify-content:center;
+  flex-wrap:wrap;gap:.6rem 1.2rem;
+}
+.affiliate-banner p{font-size:.93rem;font-weight:500}
+.affiliate-banner strong{color:#7dd3fc}
+.affiliate-cta{
+  background:#f97316;color:#fff!important;
+  font-size:.83rem;font-weight:700;
+  padding:.42rem 1.1rem;border-radius:999px;
+  white-space:nowrap;transition:background .15s;
+  text-decoration:none!important;
+}
+.affiliate-cta:hover{background:#ea580c}
+
 /* ── Responsive ── */
 @media(max-width:640px){
   .nav-brand{font-size:.97rem}
   .grid{grid-template-columns:1fr}
   .page-header h1{font-size:1.3rem}
+  .affiliate-banner p{font-size:.83rem}
 }
 </style>
 </head>
@@ -151,6 +173,13 @@ footer a{color:#94a3b8}
   </div>
 </nav>
 
+<div class="affiliate-banner">
+  <div class="affiliate-banner-inner">
+    <p>Find the right Medicare plan for <strong>2025</strong> &mdash; compare coverage and costs in minutes.</p>
+    <a class="affiliate-cta" href="https://www.ehealthinsurance.com/medicare" target="_blank" rel="noopener sponsored">Compare Medicare Plans &rarr;</a>
+  </div>
+</div>
+
 <main class="container">
   <div class="page-header">
     <h1>Medicare Monitor</h1>
@@ -163,134 +192,134 @@ footer a{color:#94a3b8}
 
   <article class="card">
     <div class="card-meta">
-      <span class="badge">Healthcare Policy</span>
-      <span class="card-source">NPR Topics: Health</span>
-      <time class="card-date" datetime="2026-04-21">Apr 21, 2026</time>
-    </div>
-    <h2><a href="https://www.npr.org/2026/04/21/nx-s1-5776665/surprising-origin-features-superglue-kids-adults-to-screens" target="_blank" rel="noopener noreferrer nofollow">The surprising origin of 4 features that superglue kids — and adults — to screens</a></h2>
-    <p class="card-summary">Taken together, these four features can create a trancelike state that can keep us stuck on social media apps or video games for hours. Children are particularly vulnerable.</p>
-    <a class="read-more" href="https://www.npr.org/2026/04/21/nx-s1-5776665/surprising-origin-features-superglue-kids-adults-to-screens" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
-  </article>
-
-  <article class="card">
-    <div class="card-meta">
-      <span class="badge">Healthcare Policy</span>
-      <span class="card-source">NPR Topics: Health</span>
-      <time class="card-date" datetime="2026-04-21">Apr 21, 2026</time>
-    </div>
-    <h2><a href="https://www.npr.org/2026/04/21/nx-s1-5783798/trump-administrations-rollback-of-regulations-frustrates-some-in-maha-movement" target="_blank" rel="noopener noreferrer nofollow">Trump administration&#39;s rollback of regulations frustrates some in MAHA movement</a></h2>
-    <p class="card-summary">A major concern for the Make America Healthy Again movement is the harmful effects of chemicals and toxins, but the coalition is growing increasingly frustrated by the Trump administration&#39;s actions.</p>
-    <a class="read-more" href="https://www.npr.org/2026/04/21/nx-s1-5783798/trump-administrations-rollback-of-regulations-frustrates-some-in-maha-movement" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
-  </article>
-
-  <article class="card">
-    <div class="card-meta">
-      <span class="badge">Healthcare Policy</span>
-      <span class="card-source">NPR Topics: Health</span>
-      <time class="card-date" datetime="2026-04-20">Apr 20, 2026</time>
-    </div>
-    <h2><a href="https://www.npr.org/2026/04/20/nx-s1-5788967/vaccine-for-expectant-mothers-means-fewer-rsv-hospitalizations-for-babies-study-show" target="_blank" rel="noopener noreferrer nofollow">Vaccine for expectant mothers means fewer RSV hospitalizations for babies, study shows</a></h2>
-    <p class="card-summary">RSV is the most common reason why babies end up in the hospital in their first year. A new study finds a vaccine for expectant mothers is more effective at protecting babies than previously shown.</p>
-    <a class="read-more" href="https://www.npr.org/2026/04/20/nx-s1-5788967/vaccine-for-expectant-mothers-means-fewer-rsv-hospitalizations-for-babies-study-show" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
-  </article>
-
-  <article class="card">
-    <div class="card-meta">
-      <span class="badge">Healthcare Policy</span>
-      <span class="card-source">NPR Topics: Health</span>
-      <time class="card-date" datetime="2026-04-20">Apr 20, 2026</time>
-    </div>
-    <h2><a href="https://www.npr.org/2026/04/20/nx-s1-5746639-e1/got-wearable-data-your-doctor-can-help-you-connect-the-dots" target="_blank" rel="noopener noreferrer nofollow">Got wearable data? Your doctor can help you connect the dots</a></h2>
-    <p class="card-summary">The American Academy of Neurology issued guidance on using wearable data devices, like smartwatches or an Oura Ring, to track key health metrics that can help flag serious conditions.</p>
-    <a class="read-more" href="https://www.npr.org/2026/04/20/nx-s1-5746639-e1/got-wearable-data-your-doctor-can-help-you-connect-the-dots" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
-  </article>
-
-  <article class="card">
-    <div class="card-meta">
-      <span class="badge">Senior Health</span>
-      <span class="card-source">MedPageToday.com - medical news for physicians</span>
+      <span class="badge">Drug Coverage</span>
+      <span class="card-source">Fierce Healthcare</span>
       <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
     </div>
-    <h2><a href="https://www.medpagetoday.com/cardiology/hypertension/120910" target="_blank" rel="noopener noreferrer nofollow">Triple Pill Gets Intracerebral Hemorrhage Survivors Closer to BP Goals</a></h2>
-    <p class="card-summary">(MedPage Today) -- Additional antihypertensive treatment with a three-drug polypill benefitted patients after intracerebral hemorrhage (ICH), the placebo-controlled TRIDENT trial found. Among ICH survivors already on good background therapy randomized...</p>
-    <a class="read-more" href="https://www.medpagetoday.com/cardiology/hypertension/120910" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://www.fiercehealthcare.com/providers/cvs-mass-general-brigham-primary-care-deal-would-increase-annual-care-spending-40m-report" target="_blank" rel="noopener noreferrer nofollow">CVS, Mass General Brigham primary care deal would increase annual care spending by $40M, report predicts</a></h2>
+    <p class="card-summary">A &#34;conservative&#34; preliminary estimate from a Massachusetts watchdog agency acknowledged likely access gains from a pending MinuteClinic affiliation deal, but said the major health system&#39;s higher prices would substantially boost commercial healthcare spending.</p>
+    <a class="read-more" href="https://www.fiercehealthcare.com/providers/cvs-mass-general-brigham-primary-care-deal-would-increase-annual-care-spending-40m-report" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
   <article class="card">
     <div class="card-meta">
-      <span class="badge">Senior Health</span>
-      <span class="card-source">MedPageToday.com - medical news for physicians</span>
+      <span class="badge">Drug Coverage</span>
+      <span class="card-source">Fierce Healthcare</span>
       <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
     </div>
-    <h2><a href="https://www.medpagetoday.com/psychiatry/schizophrenia/120912" target="_blank" rel="noopener noreferrer nofollow">Novel Antipsychotic Shows Promise in Acute Schizophrenia</a></h2>
-    <p class="card-summary">(MedPage Today) -- The investigational benzamide antipsychotic N-methyl amisulpride (LB-102) led to significant symptom improvement among hospitalized adults with acute schizophrenia, a randomized trial showed. In this phase II study, the mean...</p>
-    <a class="read-more" href="https://www.medpagetoday.com/psychiatry/schizophrenia/120912" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare" target="_blank" rel="noopener noreferrer nofollow">Chutes &amp; Ladders—Blue Shield of California names chief pharmacy officer; ChristianaCare CEO to retire</a></h2>
+    <p class="card-summary">Welcome to this week&#39;s Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.</p>
+    <a class="read-more" href="https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
   <article class="card">
     <div class="card-meta">
-      <span class="badge">Senior Health</span>
-      <span class="card-source">MedPageToday.com - medical news for physicians</span>
+      <span class="badge">Drug Coverage</span>
+      <span class="card-source">Fierce Healthcare</span>
       <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
     </div>
-    <h2><a href="https://www.medpagetoday.com/washington-watch/washington-watch/120911" target="_blank" rel="noopener noreferrer nofollow">Costco Has Cheaper Drugs Than TrumpRx, Senator Says</a></h2>
-    <p class="card-summary">(MedPage Today) -- While brand-name pantoprazole (Protonix) costs $200 for a 30-day supply on TrumpRx, the same generic prescription costs just $16.99 at Costco, Sen. Elizabeth Warren (D-Mass.) said during a hearing on the proposed HHS budget...</p>
-    <a class="read-more" href="https://www.medpagetoday.com/washington-watch/washington-watch/120911" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://www.fiercehealthcare.com/providers/physician-burnout-falls-third-year-2025-419-american-medical-association" target="_blank" rel="noopener noreferrer nofollow">Physician burnout falls for third year in 2025 to 42%, AMA data shows</a></h2>
+    <p class="card-summary">Specialties reporting the highest levels of burnout include emergency medicine, urological surgery and radiology while the lowest rates of burnout were reported among infectious diseases, nephrology and dermatology.</p>
+    <a class="read-more" href="https://www.fiercehealthcare.com/providers/physician-burnout-falls-third-year-2025-419-american-medical-association" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
   <article class="card">
     <div class="card-meta">
-      <span class="badge">Senior Health</span>
-      <span class="card-source">MedPageToday.com - medical news for physicians</span>
+      <span class="badge">Drug Coverage</span>
+      <span class="card-source">Fierce Healthcare</span>
       <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
     </div>
-    <h2><a href="https://www.medpagetoday.com/psychiatry/generalpsychiatry/120909" target="_blank" rel="noopener noreferrer nofollow">Suicide With Food Preservative; Xanax Recall; 19% of America Depressed</a></h2>
-    <p class="card-summary">(MedPage Today) -- Suicide by poisoning with the common food preservative sodium nitrite and its oxidised metabolite, nitrate, is disproportionately high among young men, U.K. researchers warned. (BMJ Public Health) Meanwhile, a Canadian man facing...</p>
-    <a class="read-more" href="https://www.medpagetoday.com/psychiatry/generalpsychiatry/120909" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://www.fiercehealthcare.com/payers/look-inside-highmark-and-spring-healths-mental-well-being-partnership" target="_blank" rel="noopener noreferrer nofollow">A look inside Highmark and Spring Health&#39;s mental well-being partnership</a></h2>
+    <p class="card-summary">Just over two years ago, Highmark joined forces with Spring Health to launch a new mental well-being platform that made it far easier for members to access critical services. Now, the partners are offering a look at how that program has worked for members.</p>
+    <a class="read-more" href="https://www.fiercehealthcare.com/payers/look-inside-highmark-and-spring-healths-mental-well-being-partnership" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
   <article class="card">
     <div class="card-meta">
-      <span class="badge">Senior Health</span>
-      <span class="card-source">MedPageToday.com - medical news for physicians</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
+      <span class="badge">Drug Coverage</span>
+      <span class="card-source">Health Care</span>
+      <time class="card-date" datetime="2026-04-16">Apr 16, 2026</time>
     </div>
-    <h2><a href="https://www.medpagetoday.com/meetingcoverage/aacr/120908" target="_blank" rel="noopener noreferrer nofollow">Injecting PD-1 Drug Directly Into Oral Precancers Shrinks Lesions</a></h2>
-    <p class="card-summary">(MedPage Today) -- SAN DIEGO -- Injecting the PD-1 inhibitor nivolumab (Opdivo) directly into high-risk oral precancers proved safe and reduced lesion size in the vast majority of patients enrolled in a small phase I study, allowing some to avoid...</p>
-    <a class="read-more" href="https://www.medpagetoday.com/meetingcoverage/aacr/120908" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://www.politico.com/news/2026/04/16/trump-cdc-nomination-00877436" target="_blank" rel="noopener noreferrer nofollow">Trump chooses establishment pick to head CDC</a></h2>
+    <p class="card-summary">The president selected Erica Schwartz, who served as deputy surgeon general during his first administration.</p>
+    <a class="read-more" href="https://www.politico.com/news/2026/04/16/trump-cdc-nomination-00877436" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
   <article class="card">
     <div class="card-meta">
-      <span class="badge">Senior Health</span>
-      <span class="card-source">MedPageToday.com - medical news for physicians</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
+      <span class="badge">Drug Coverage</span>
+      <span class="card-source">Health Care</span>
+      <time class="card-date" datetime="2026-04-16">Apr 16, 2026</time>
     </div>
-    <h2><a href="https://www.medpagetoday.com/psychiatry/generalpsychiatry/120907" target="_blank" rel="noopener noreferrer nofollow">988 Launch Tied to Drop in Youth Suicides</a></h2>
-    <p class="card-summary">(MedPage Today) -- Suicide deaths among adolescents and young adults declined across the U.S. after the launch of the 988 Suicide and Crisis Lifeline in 2022, according to an observational study. From July 2022 through December 2024, 35,529 suicides...</p>
-    <a class="read-more" href="https://www.medpagetoday.com/psychiatry/generalpsychiatry/120907" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://www.politico.com/news/2026/04/15/rfk-trump-budget-hearings-maha-midterms-00875474" target="_blank" rel="noopener noreferrer nofollow">‘He’s got a lot of stamina’: What to watch as the RFK Jr. hearing palooza kicks off</a></h2>
+    <p class="card-summary">Health Secretary Robert F. Kennedy Jr. will make the case for the Trump budget. Democrats will test his political acumen.</p>
+    <a class="read-more" href="https://www.politico.com/news/2026/04/15/rfk-trump-budget-hearings-maha-midterms-00875474" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
   <article class="card">
     <div class="card-meta">
-      <span class="badge">Senior Health</span>
-      <span class="card-source">MedPageToday.com - medical news for physicians</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
+      <span class="badge">Drug Coverage</span>
+      <span class="card-source">Health Care</span>
+      <time class="card-date" datetime="2026-04-14">Apr 14, 2026</time>
     </div>
-    <h2><a href="https://www.medpagetoday.com/opinion/patientcenteredmedicalhome/120906" target="_blank" rel="noopener noreferrer nofollow">Patients Are Bringing Us More of Their Own Data -- Can We Handle It?</a></h2>
-    <p class="card-summary">(MedPage Today) -- These days, we&#39;re overwhelmed with data. Every chart on every patient is packed full of data -- some of it incredibly useful and important, some of it just a lot of noise, some of it just copy-and-pasted and brought forward...</p>
-    <a class="read-more" href="https://www.medpagetoday.com/opinion/patientcenteredmedicalhome/120906" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://www.politico.com/news/2026/04/14/poll-rfk-maha-vaccine-safety-americans-00869088" target="_blank" rel="noopener noreferrer nofollow">Many Americans express doubt about vaccines, POLITICO Poll finds</a></h2>
+    <p class="card-summary">Health Secretary Robert F. Kennedy Jr.’s views are commonplace across the land.</p>
+    <a class="read-more" href="https://www.politico.com/news/2026/04/14/poll-rfk-maha-vaccine-safety-americans-00869088" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
   <article class="card">
     <div class="card-meta">
-      <span class="badge">Senior Health</span>
-      <span class="card-source">MedPageToday.com - medical news for physicians</span>
-      <time class="card-date" datetime="2026-04-22">Apr 22, 2026</time>
+      <span class="badge">Drug Coverage</span>
+      <span class="card-source">Health Care</span>
+      <time class="card-date" datetime="2026-04-14">Apr 14, 2026</time>
     </div>
-    <h2><a href="https://www.medpagetoday.com/meetingcoverage/aan/120905" target="_blank" rel="noopener noreferrer nofollow">Cemdisiran siRNA Therapy Demonstrates Efficacy in Myasthenia Gravis</a></h2>
-    <p class="card-summary">(MedPage Today) -- Cemdisiran, an investigational small interfering RNA (siRNA) therapy targeting complement component 5 (C5), met both its primary and a key secondary endpoint in the phase III NIMBLE trial of generalized myasthenia gravis, whether...</p>
-    <a class="read-more" href="https://www.medpagetoday.com/meetingcoverage/aan/120905" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+    <h2><a href="https://www.politico.com/news/2026/04/14/medicaid-nebraska-work-requirements-expansion-00869387" target="_blank" rel="noopener noreferrer nofollow">‘A crisis in the making’: Nebraska races to impose work requirements on Medicaid</a></h2>
+    <p class="card-summary">The state’s May 1 enforcement will be a test case for what could happen nationwide in January.</p>
+    <a class="read-more" href="https://www.politico.com/news/2026/04/14/medicaid-nebraska-work-requirements-expansion-00869387" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Drug Coverage</span>
+      <span class="card-source">Health Care</span>
+      <time class="card-date" datetime="2026-04-13">Apr 13, 2026</time>
+    </div>
+    <h2><a href="https://www.politico.com/news/2026/04/13/kennedy-maha-health-key-figures-00852690" target="_blank" rel="noopener noreferrer nofollow">Your guide to who’s who in the MAHA movement</a></h2>
+    <p class="card-summary">Sure, Americans know Robert F. Kennedy Jr. and Mehmet Oz. But Marty Makary? Calley Means?</p>
+    <a class="read-more" href="https://www.politico.com/news/2026/04/13/kennedy-maha-health-key-figures-00852690" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Drug Coverage</span>
+      <span class="card-source">Health Care</span>
+      <time class="card-date" datetime="2026-04-11">Apr 11, 2026</time>
+    </div>
+    <h2><a href="https://www.politico.com/news/2026/04/11/trumps-budget-hawk-is-still-trying-to-slash-medical-research-congress-is-saying-no-00866582" target="_blank" rel="noopener noreferrer nofollow">Trump is still trying to DOGE the NIH. Republicans are tired.</a></h2>
+    <p class="card-summary">The NIH has proven a difficult target for the White House budget director, because lawmakers have a symbiotic relationship with the agency.</p>
+    <a class="read-more" href="https://www.politico.com/news/2026/04/11/trumps-budget-hawk-is-still-trying-to-slash-medical-research-congress-is-saying-no-00866582" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Drug Coverage</span>
+      <span class="card-source">Health Care</span>
+      <time class="card-date" datetime="2026-04-11">Apr 11, 2026</time>
+    </div>
+    <h2><a href="https://www.politico.com/news/2026/04/11/rfk-food-pharma-regulation-politico-poll-00866079" target="_blank" rel="noopener noreferrer nofollow">RFK Jr. has turned corporate America’s name to mud, POLITICO Poll finds</a></h2>
+    <p class="card-summary">Most Americans, especially Republicans, want to regulate food and drug makers now.</p>
+    <a class="read-more" href="https://www.politico.com/news/2026/04/11/rfk-food-pharma-regulation-politico-poll-00866079" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Drug Coverage</span>
+      <span class="card-source">Health Care</span>
+      <time class="card-date" datetime="2026-04-09">Apr 09, 2026</time>
+    </div>
+    <h2><a href="https://www.politico.com/news/2026/04/09/rfk-jr-amends-guidelines-for-key-vaccine-panel-00866086" target="_blank" rel="noopener noreferrer nofollow">After loss in court, RFK Jr. amends guidelines for key vaccine panel to emphasize risks of shots</a></h2>
+    <p class="card-summary">A federal judge put the Advisory Committee on Immunization Practices on ice last month. The changes could help Kennedy find a way around that decision.</p>
+    <a class="read-more" href="https://www.politico.com/news/2026/04/09/rfk-jr-amends-guidelines-for-key-vaccine-panel-00866086" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
 </div>
@@ -318,6 +347,11 @@ footer a{color:#94a3b8}
 <a href="/page-20.html">20</a>
 <a href="/page-21.html">21</a>
 <a href="/page-22.html">22</a>
+<a href="/page-23.html">23</a>
+<a href="/page-24.html">24</a>
+<a href="/page-25.html">25</a>
+<a href="/page-26.html">26</a>
+<a href="/page-27.html">27</a>
 <a href="/page-5.html">Next &rsaquo;</a>
 </nav>
 </main>
