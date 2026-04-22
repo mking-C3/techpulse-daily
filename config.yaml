@@ -1,36 +1,36 @@
 site:
-  name: "TechPulse Daily"
-  tagline: "The freshest tech headlines, aggregated hourly."
+  name: "Medicare Monitor"
+  tagline: "Tracking Medicare news, policy, and coverage changes."
   base_url: "https://www.MedicareMonitor.co"
   adsense_publisher_id: "ca-pub-XXXXXXXXXXXXXXXX"  # ← fill in after AdSense approval
 
 feeds:
-  - category: "Technology"
-    url: "https://techcrunch.com/feed/"
+  - category: "Medicare News"
+    url: "https://kffhealthnews.org/feed/"
 
-  - category: "Technology"
-    url: "https://feeds.arstechnica.com/arstechnica/index"
+  - category: "Medicare News"
+    url: "https://medcitynews.com/feed/"
 
-  - category: "Technology"
-    url: "https://www.theverge.com/rss/index.xml"
+  - category: "Healthcare Policy"
+    url: "https://www.statnews.com/feed/"
 
-  - category: "AI & Machine Learning"
-    url: "https://feeds.feedburner.com/venturebeat/SZYF"
+  - category: "Healthcare Policy"
+    url: "https://feeds.npr.org/1128/rss.xml"
 
-  - category: "AI & Machine Learning"
-    url: "https://www.technologyreview.com/feed/"
+  - category: "Senior Health"
+    url: "https://www.medpagetoday.com/rss/headlines.xml"
 
-  - category: "Science"
-    url: "https://www.sciencedaily.com/rss/top/technology.xml"
+  - category: "Senior Health"
+    url: "https://www.healthcaredive.com/feeds/news/"
 
-  - category: "Science"
-    url: "https://www.newscientist.com/feed/home/"
+  - category: "Drug Coverage"
+    url: "https://www.fiercehealthcare.com/rss/xml"
 
-  - category: "Business"
-    url: "https://feeds.feedburner.com/entrepreneur/latest"
+  - category: "Drug Coverage"
+    url: "https://rss.politico.com/healthcare.xml"
 
-  - category: "Business"
-    url: "https://www.wired.com/feed/category/business/latest/rss"
+  - category: "Industry News"
+    url: "https://thehill.com/policy/healthcare/feed/"
 
 settings:
   max_posts_per_feed: 10      # articles pulled per feed per run
