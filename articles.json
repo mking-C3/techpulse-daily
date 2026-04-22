@@ -1,5 +1,705 @@
 [
   {
+    "title": "NASA’s Artemis II Moon mission shows space-to-Earth laser comms can scale",
+    "url": "https://techcrunch.com/2026/04/22/nasas-artemis-ii-moon-mission-shows-space-to-earth-laser-comms-can-scale/",
+    "summary": "Observable Space and Quantum Wave teamed up to capture data beamed back from space.",
+    "source": "TechCrunch",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T20:09:45+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+    "url": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+    "summary": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
+    "source": "TechCrunch",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T19:51:51+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "France confirms data breach at government agency that manages citizens’ IDs",
+    "url": "https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/",
+    "summary": "The French government agency that issues and manages national IDs, passports, and other documents announced that hackers stole the personal information of an unspecified number of citizens.",
+    "source": "TechCrunch",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T19:34:41+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+    "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+    "summary": "The iPhone and iPad bug allowed law enforcement using forensic tools to read messages that had long been deleted by the Signal app.",
+    "source": "TechCrunch",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T19:13:02+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "From the stage to the future: Where are Startup Battlefield’s alumni now?",
+    "url": "https://techcrunch.com/2026/04/22/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/",
+    "summary": "We wanted to show you what happens after the confetti falls. We checked in with some of our recent alumni, many of whom have sat down with us on Build Mode: The Founder Survival Guide, TechCrunch's podcast for founders at every stage.",
+    "source": "TechCrunch",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T18:42:26+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+    "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+    "summary": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
+    "source": "TechCrunch",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T18:39:27+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Google turns Chrome into an AI co-worker for the workplace",
+    "url": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
+    "summary": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
+    "source": "TechCrunch",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T17:30:00+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Threads is adding Live Chats to boost real-time engagement",
+    "url": "https://techcrunch.com/2026/04/22/threads-is-adding-live-chats-to-boost-real-time-engagement/",
+    "summary": "Users can send messages, photos, videos, links, and emoji reactions in Live Chats.",
+    "source": "TechCrunch",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T17:00:00+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
+    "url": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
+    "summary": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users.",
+    "source": "TechCrunch",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T16:58:27+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "AI Overviews are coming to your Gmail at work",
+    "url": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
+    "summary": "The AI Overviews will offer instant summaries pulled from across multiple emails.",
+    "source": "TechCrunch",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T16:46:10+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "You want your Moon landings in HDTV? So does NASA—here's how it's happening.",
+    "url": "https://arstechnica.com/space/2026/04/you-want-your-moon-landings-in-hdtv-so-does-nasa-heres-how-its-happening/",
+    "summary": "\"You just push this button, and in three hours, you're counting photons.\"",
+    "source": "Ars Technica - All content",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T19:42:13+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
+    "url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
+    "summary": "When authentication fails, things can go very, very wrong.",
+    "source": "Ars Technica - All content",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T19:32:56+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Anthropic tested removing Claude Code from the Pro plan",
+    "url": "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
+    "summary": "Untenable demand has Anthropic exploring new approaches to rationing its service.",
+    "source": "Ars Technica - All content",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T18:34:16+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Coyote vs. Acme is finally getting released—with a killer trailer",
+    "url": "https://arstechnica.com/culture/2026/04/coyote-vs-acme-is-finally-getting-released-with-a-killer-trailer/",
+    "summary": "What was Warner Bros. even thinking, shelving this film for so many years?",
+    "source": "Ars Technica - All content",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T17:55:09+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Google unveils two new TPUs designed for the \"agentic era\"",
+    "url": "https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era/",
+    "summary": "Google's new generation of Tensor AI chips is actually two chips, one for inference and one for training.",
+    "source": "Ars Technica - All content",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T17:10:32+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Tabloid reports linking 10 missing and dead scientists spur FBI probe",
+    "url": "https://arstechnica.com/tech-policy/2026/04/tabloid-reports-linking-10-missing-and-dead-scientists-spur-fbi-probe/",
+    "summary": "FBI suspects foreign spies may be targeting scientists with access to government secrets.",
+    "source": "Ars Technica - All content",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T16:46:31+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Physicists think they've solved the muon mystery",
+    "url": "https://arstechnica.com/science/2026/04/physicists-think-theyve-solved-the-muon-mystery/",
+    "summary": "Results dash hopes for a fifth force but provide very precise proof of Standard Model and QFT.",
+    "source": "Ars Technica - All content",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T15:40:02+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "New court ruling blocks many of the government's anti-renewable policies",
+    "url": "https://arstechnica.com/tech-policy/2026/04/new-court-ruling-blocks-many-of-the-governments-anti-renewable-policies/",
+    "summary": "Added layers of review singling out renewable energy have little legal basis.",
+    "source": "Ars Technica - All content",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T15:09:28+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Indian med student rakes in thousands with AI-generated MAGA hottie",
+    "url": "https://arstechnica.com/tech-policy/2026/04/indian-med-student-rakes-in-thousands-with-ai-generated-maga-hottie/",
+    "summary": "\"Emily Hart\" is a young, AI-created conservative woman who likes to take off her clothes.",
+    "source": "Ars Technica - All content",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T14:13:01+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "As EV batteries improve, ChargePoint debuts 600 kW fast charger",
+    "url": "https://arstechnica.com/cars/2026/04/as-ev-batteries-improve-chargepoint-debuts-600-kw-fast-charger/",
+    "summary": "The new design is cheaper and will even fit in convenience store parking lots.",
+    "source": "Ars Technica - All content",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T13:49:09+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Tesla’s revenue rises again as it prepares for more AI and robotics",
+    "url": "https://www.theverge.com/transportation/915217/tesla-q1-2026-earnings-profit-revenue",
+    "summary": "Tesla released its 2026 first-quarter financial earnings today, providing another look at the progress of Elon Musk's $1 trillion bet to transform his company into a leader of AI and robotics. Tesla said it earned $477 million in net income on $22.4 billion in revenue in the quarter that ended in April 2026. That's a […]",
+    "source": "The Verge",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T20:36:17+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "AI failure could trigger the next financial crisis, warns Elizabeth Warren",
+    "url": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren",
+    "summary": "\"I know a bubble when I see one.\" That's what Sen. Elizabeth Warren (D-MA), who led the push to create a new consumer financial regulator in the wake of the 2008 recession, told a crowd at a Vanderbilt Policy Accelerator event in Washington, DC on Wednesday. Warren warned of what she called \"striking\" parallels to […]",
+    "source": "The Verge",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T20:29:05+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "OpenAI now lets teams make custom bots that can do work on their own",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
+    "summary": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks. In its blog post, OpenAI gives examples of agents like one that finds product feedback on the web and sends a report in Slack and a sales agent that can […]",
+    "source": "The Verge",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T20:09:02+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Alexis Ohanian shocks Washington with pro-immigration remarks",
+    "url": "https://www.theverge.com/column/916949/alexis-ohanian-pro-immigration-remarks",
+    "summary": "Hello and welcome to Regulator, a newsletter for Verge readers about tech politics, political tech, and how they're muddying the waters of Washington, DC. My birthday is this week, and if you're not a Verge subscriber but would like to wish me a happy birthday, you should subscribe here, because that would be the best […]",
+    "source": "The Verge",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T20:04:45+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Former MrBeast exec sues over ‘years’ of alleged harassment",
+    "url": "https://www.theverge.com/tech/916903/mrbeast-sexual-harassment-lawsuit",
+    "summary": "A former employee of Jimmy \"MrBeast\" Donaldson has filed a lawsuit alleging that she faced \"intentional infliction of emotional distress\" from harassment at the YouTuber's production company, was asked to work during maternity leave, and was wrongfully fired just a few weeks after returning from leave. According to the lawsuit, plaintiff Lorrayne Mavromatis and other […]",
+    "source": "The Verge",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T18:49:02+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Ember’s self-heating smart mug is more than $50 off ahead of Mother’s Day",
+    "url": "https://www.theverge.com/gadgets/916818/ember-smart-mug-2-mothers-day-sale-2026-deal",
+    "summary": "Coffee is what gets many of us through the workday, and a proper smart mug can keep it hot for hours so you can maintain your focus without constantly getting up to reheat your cup. Thankfully, if you don’t own one, the 14-ounce Ember Mug 2 is now available for $97.49 ($52 off) from Amazon, […]",
+    "source": "The Verge",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T17:58:23+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Watch Sony’s elite ping-pong robot beat top-ranked players",
+    "url": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras",
+    "summary": "Humans have been building ping-pong playing robots for decades, such as Omron's FORPHEUS that challenged amateur competitors at CES 2017. What sets Ace apart from the rest is that the robot, which was developed by Sony's AI division, is the first that can hold its own against top-ranked human players and occasionally even beat them […]",
+    "source": "The Verge",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T17:43:38+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Anthropic’s Mythos rollout has missed America’s cybersecurity agency",
+    "url": "https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out",
+    "summary": "Several US federal agencies are taking up Anthropic's new cybersecurity model to find vulnerabilities, but one is reportedly not getting in on the action: the nation's central cybersecurity coordinator. On Tuesday, Axios reported that the Cybersecurity and Infrastructure Security Agency (CISA) didn't have access to Mythos Preview, which Anthropic has touted as a powerful tool […]",
+    "source": "The Verge",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T16:57:36+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Microsoft teases mysterious Discord and Xbox Game Pass partnership",
+    "url": "https://www.theverge.com/news/916787/microsoft-discord-xbox-game-pass-partnership",
+    "summary": "Microsoft has started teasing a new Discord and Xbox Game Pass partnership, just a day after lowering prices of its Game Pass Ultimate and PC Game Pass subscriptions. Microsoft Gaming CEO Asha Sharma says the company is partnering with Discord again \"as we continue to make Game Pass more flexible for our players.\" It's not […]",
+    "source": "The Verge",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T16:41:06+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Google Meet will take AI notes for in-person meetings too",
+    "url": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings",
+    "summary": "Google's AI meeting notetaker is no longer limited to Google Meets - Gemini can also generate summaries and transcripts of in-person meetings now, as well as meetings on Zoom and Microsoft Teams, as first reported by 9to5Google. Support for in-person meetings was previously limited to alpha users and only available on Android. Google's support page […]",
+    "source": "The Verge",
+    "category": "Technology",
+    "category_slug": "technology",
+    "date": "2026-04-22T16:38:19+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "The Illuminated Man: an unconventional portrait of JG Ballard",
+    "url": "https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard",
+    "summary": "Article URL: https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard Comments URL: https://news.ycombinator.com/item?id=47868832 Points: 4 # Comments: 0",
+    "source": "Hacker News: Front Page",
+    "category": "AI & Machine Learning",
+    "category_slug": "ai-machine-learning",
+    "date": "2026-04-22T20:24:05+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "New study compares growing corn for energy to solar production. It's no contest",
+    "url": "https://www.anthropocenemagazine.org/2025/04/new-study-compares-growing-corn-for-energy-to-solar-production-its-no-contest/",
+    "summary": "Article URL: https://www.anthropocenemagazine.org/2025/04/new-study-compares-growing-corn-for-energy-to-solar-production-its-no-contest/ Comments URL: https://news.ycombinator.com/item?id=47868063 Points: 30 # Comments: 30",
+    "source": "Hacker News: Front Page",
+    "category": "AI & Machine Learning",
+    "category_slug": "ai-machine-learning",
+    "date": "2026-04-22T19:21:46+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Scores decline again for 13-year-old students in reading and mathematics",
+    "url": "https://www.nationsreportcard.gov/highlights/ltt/2023/",
+    "summary": "Article URL: https://www.nationsreportcard.gov/highlights/ltt/2023/ Comments URL: https://news.ycombinator.com/item?id=47867755 Points: 81 # Comments: 82",
+    "source": "Hacker News: Front Page",
+    "category": "AI & Machine Learning",
+    "category_slug": "ai-machine-learning",
+    "date": "2026-04-22T18:57:20+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Website streamed live directly from a model",
+    "url": "https://flipbook.page/",
+    "summary": "https://x.com/zan2434/status/2046982383430496444 ( https://xcancel.com/zan2434/status/2046982383430496444 ) Comments URL: https://news.ycombinator.com/item?id=47867048 Points: 33 # Comments: 12",
+    "source": "Hacker News: Front Page",
+    "category": "AI & Machine Learning",
+    "category_slug": "ai-machine-learning",
+    "date": "2026-04-22T18:01:18+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Over-editing refers to a model modifying code beyond what is necessary",
+    "url": "https://nrehiew.github.io/blog/minimal_editing/",
+    "summary": "Article URL: https://nrehiew.github.io/blog/minimal_editing/ Comments URL: https://news.ycombinator.com/item?id=47866913 Points: 182 # Comments: 101",
+    "source": "Hacker News: Front Page",
+    "category": "AI & Machine Learning",
+    "category_slug": "ai-machine-learning",
+    "date": "2026-04-22T17:51:17+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Workspace Agents in ChatGPT",
+    "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
+    "summary": "Article URL: https://openai.com/index/introducing-workspace-agents-in-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=47866860 Points: 50 # Comments: 17",
+    "source": "Hacker News: Front Page",
+    "category": "AI & Machine Learning",
+    "category_slug": "ai-machine-learning",
+    "date": "2026-04-22T17:47:07+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Parallel Agents in Zed",
+    "url": "https://zed.dev/blog/parallel-agents",
+    "summary": "Article URL: https://zed.dev/blog/parallel-agents Comments URL: https://news.ycombinator.com/item?id=47866750 Points: 97 # Comments: 52",
+    "source": "Hacker News: Front Page",
+    "category": "AI & Machine Learning",
+    "category_slug": "ai-machine-learning",
+    "date": "2026-04-22T17:38:57+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "We found a stable Firefox identifier linking all your private Tor identities",
+    "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
+    "summary": "Article URL: https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/ Comments URL: https://news.ycombinator.com/item?id=47866697 Points: 132 # Comments: 46",
+    "source": "Hacker News: Front Page",
+    "category": "AI & Machine Learning",
+    "category_slug": "ai-machine-learning",
+    "date": "2026-04-22T17:35:03+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Surveillance Pricing: Exploiting Information Asymmetries",
+    "url": "https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/",
+    "summary": "Article URL: https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/ Comments URL: https://news.ycombinator.com/item?id=47866395 Points: 52 # Comments: 20",
+    "source": "Hacker News: Front Page",
+    "category": "AI & Machine Learning",
+    "category_slug": "ai-machine-learning",
+    "date": "2026-04-22T17:13:19+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Homegrown – An interactive map of every 2025 FBS college football player",
+    "url": "https://torch.football/homegrown",
+    "summary": "Article URL: https://torch.football/homegrown Comments URL: https://news.ycombinator.com/item?id=47866153 Points: 11 # Comments: 7",
+    "source": "Hacker News: Front Page",
+    "category": "AI & Machine Learning",
+    "category_slug": "ai-machine-learning",
+    "date": "2026-04-22T16:52:43+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Scientists stunned as JWST finds ice clouds on a giant alien planet",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260422044618.htm",
+    "summary": "Scientists have discovered unexpected water-ice clouds on a distant, Jupiter-like exoplanet, challenging current atmospheric models. By directly imaging Epsilon Indi Ab with the James Webb Space Telescope, they found less ammonia than expected—likely hidden by thick, patchy clouds. The finding reveals new layers of complexity in giant planets and shows how much we still have to learn.",
+    "source": "Top Technology News -- ScienceDaily",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-22T09:24:39+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "This “quantum” material fooled scientists and revealed something new",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260421042819.htm",
+    "summary": "A mysterious magnetic material once thought to host an exotic “quantum spin liquid” has turned out to be something entirely different—and possibly just as intriguing. Scientists studying cerium magnesium hexalluminate found it showed the hallmark signs of this elusive quantum state, like a lack of magnetic order and a spread of energy states. But after closer inspection using neutron experiments, they discovered the behavior came from a delicate tug-of-war between two opposing magnetic forces.",
+    "source": "Top Technology News -- ScienceDaily",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-22T07:18:44+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "This donut-shaped discovery just shattered a 150-year math rule",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260421042816.htm",
+    "summary": "A 150-year-old rule in geometry has been proven wrong. Mathematicians found two different doughnut-shaped surfaces that look identical when measured locally but are actually different overall. For decades, researchers suspected this might be possible but couldn’t prove it—until now. The breakthrough reshapes how mathematicians understand the relationship between local measurements and global form.",
+    "source": "Top Technology News -- ScienceDaily",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-22T05:49:13+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "A bizarre new state of matter may be hiding inside Uranus and Neptune",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260421042812.htm",
+    "summary": "Deep inside planets like Uranus and Neptune, scientists may have uncovered a bizarre new state of matter where atoms behave in unexpected ways. Advanced simulations suggest that carbon and hydrogen, under crushing pressures and scorching temperatures, can form a strange hybrid phase—part solid, part fluid—where hydrogen atoms spiral through a rigid carbon framework. This unusual “superionic” structure could reshape how heat and electricity flow inside these distant worlds, potentially helping explain their mysterious magnetic fields.",
+    "source": "Top Technology News -- ScienceDaily",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-21T13:24:21+00:00",
+    "date_str": "Apr 21, 2026"
+  },
+  {
+    "title": "This new camera captures what happens in a trillionth of a second",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260421042808.htm",
+    "summary": "Scientists have unveiled a breakthrough imaging method that can capture the hidden details of events unfolding in trillionths of a second. This new technique doesn’t just track how bright something is—it also reveals subtle structural changes that were previously invisible, all in a single shot. By effectively turning ultrafast phenomena into detailed “movies,” researchers can now watch plasma form, electrons move, and materials transform in real time.",
+    "source": "Top Technology News -- ScienceDaily",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-21T12:39:12+00:00",
+    "date_str": "Apr 21, 2026"
+  },
+  {
+    "title": "AI just revealed ocean currents we’ve never been able to see",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260421042803.htm",
+    "summary": "A new AI-driven method called GOFLOW is turning weather satellite images into highly detailed maps of ocean currents. By tracking how temperature patterns shift over time, it can reveal fast-moving, small-scale currents that were previously impossible to observe directly. These currents are key to understanding climate, marine ecosystems, and carbon storage. The breakthrough works using satellites already in orbit, making it both powerful and cost-effective.",
+    "source": "Top Technology News -- ScienceDaily",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-22T07:48:15+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Scientists sculpt Einstein onto a crystal using only light",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260421042755.htm",
+    "summary": "A light-sensitive crystal is opening the door to a new era of “light-written” technology. Arsenic trisulfide can be reshaped and permanently altered using simple light, creating ultra-fine optical patterns without expensive manufacturing tools. Scientists even etched a nanoscale portrait of Einstein and high-density patterns that could act as secure optical signatures. This breakthrough could power everything from advanced sensors to next-generation AR devices.",
+    "source": "Top Technology News -- ScienceDaily",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-21T12:49:51+00:00",
+    "date_str": "Apr 21, 2026"
+  },
+  {
+    "title": "After 200 years scientists finally crack the “dolomite problem”",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260420015840.htm",
+    "summary": "After two centuries of failed attempts, scientists have finally grown dolomite in the lab, cracking a long-standing geological puzzle. They discovered that the mineral’s growth stalls because of tiny defects—but in nature, those flaws get washed away over time. By mimicking this process with precise simulations and electron beam pulses, the team achieved record-breaking crystal growth. The finding could reshape how high-tech materials are made.",
+    "source": "Top Technology News -- ScienceDaily",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-20T06:28:54+00:00",
+    "date_str": "Apr 20, 2026"
+  },
+  {
+    "title": "AI swarms could hijack democracy without anyone noticing",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260420014748.htm",
+    "summary": "AI-powered personas are becoming so realistic that they can infiltrate online communities and subtly steer public opinion. Unlike traditional bots, they adapt, coordinate, and refine their messaging at a massive scale, creating a false sense of consensus. Early warning signs—like deepfakes and fake news networks—have already appeared in global elections. Researchers warn that the next election could be the true test of this technology’s power.",
+    "source": "Top Technology News -- ScienceDaily",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-20T09:47:25+00:00",
+    "date_str": "Apr 20, 2026"
+  },
+  {
+    "title": "Breakthrough discovery reveals hidden oxygen flow deep inside catalysts",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260420014736.htm",
+    "summary": "A major discovery is reshaping how scientists think about catalysts. Researchers have, for the first time, captured oxygen atoms moving through the interior of a catalyst—not just along its surface. This reveals that the bulk material can actively participate in reactions, opening a new frontier in catalyst design. The finding could lead to smarter, more efficient systems by harnessing this hidden internal pathway.",
+    "source": "Top Technology News -- ScienceDaily",
+    "category": "Science",
+    "category_slug": "science",
+    "date": "2026-04-21T08:13:24+00:00",
+    "date_str": "Apr 21, 2026"
+  },
+  {
+    "title": "‘This Makes Me Super Uncomfortable’: Meta’s Plan to Track Employees’ Every Click and Keystroke Sparks Backlash",
+    "url": "https://www.entrepreneur.com/business-news/meta-will-track-every-click-and-keystroke-employees-make-backlash",
+    "summary": "Meta is installing tracking software on work computers, a move that was met with internal discomfort and skepticism.",
+    "source": "Entrepreneur – Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-22T17:55:08+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Chicken Salad Chick Just Had a Record Quarter With Nearly 50% Growth — This Is What’s Driving It",
+    "url": "https://www.entrepreneur.com/franchise-500/chicken-salad-chick-just-had-a-record-quarter",
+    "summary": "The franchise awarded 52 new restaurant locations in Q1 2026, up nearly 50% from the same period last year.",
+    "source": "Entrepreneur – Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-22T16:30:00+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "How to Turn Everyday Employees Into Your Most Confident Leaders",
+    "url": "https://www.entrepreneur.com/leadership/are-you-accidentally-letting-future-leaders-slip-away/502440",
+    "summary": "Growing a great leader doesn't happen automatically — it has to be consciously ingrained in your company's culture. Here's how I approach it.",
+    "source": "Entrepreneur – Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-22T12:00:00+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Workers Are Overlooking This $300K Career Path With 81K Job Openings, Says a Talent CEO: ‘The Opportunities Are Massive’",
+    "url": "https://www.entrepreneur.com/business-news/workers-are-overlooking-a-300k-career-path-with-81k-job-openings",
+    "summary": "Carrie Charles, CEO of recruiting firm Broadstaff, says laid-off tech workers should pivot their careers.",
+    "source": "Entrepreneur – Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-22T14:44:28+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "From Daymond John to Billion‑Dollar Startups — How This Media Strategist Turns Founders Into Headlines",
+    "url": "https://www.entrepreneur.com/entrepreneurs/how-this-media-strategist-turns-founders-into-headlines",
+    "summary": "Zach Rosenfield, president and CEO of RMG, shares his playbook for getting maximum results from your PR efforts.",
+    "source": "Entrepreneur – Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-22T14:00:00+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "UPS Found a More Profitable Business Than Package Delivery — And It’s Worth $706 Billion",
+    "url": "https://www.entrepreneur.com/business-news/ups-found-a-more-profitable-business-than-package-delivery",
+    "summary": "The delivery giant is expanding its Happy Returns network to 10,000 locations to capture the massive returns market.",
+    "source": "Entrepreneur – Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-22T13:15:00+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Nvidia CEO Jensen Huang Says AI Won’t Replace You — It Will Just Be a Really Annoying Micromanager",
+    "url": "https://www.entrepreneur.com/business-news/nvidia-ceo-jensen-huang-says-ai-will-micromanage-you",
+    "summary": "Huang predicts AI assistants will act more like demanding managers than job destroyers, which might be worse.",
+    "source": "Entrepreneur – Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-22T13:00:00+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Here’s What Happens When Your Business Stops Being What You Do — and Becomes Who You Are",
+    "url": "https://www.entrepreneur.com/leadership/the-price-you-pay-when-your-business-becomes-your-identity/503729",
+    "summary": "Many founders don't realize when their identity becomes tied to their business — until stepping away starts to feel uncomfortable. Here's why that shift happens and what it quietly costs.",
+    "source": "Entrepreneur – Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-21T18:30:00+00:00",
+    "date_str": "Apr 21, 2026"
+  },
+  {
+    "title": "How to Show Up With Kindness, Even When Entrepreneurship Leaves You Overwhelmed",
+    "url": "https://www.entrepreneur.com/leadership/how-to-show-up-with-kindness-even-on-your-toughest-days/503712",
+    "summary": "Don't let the demands of entrepreneurship cost you your kindness. Here are three ways to reset.",
+    "source": "Entrepreneur – Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-21T18:00:00+00:00",
+    "date_str": "Apr 21, 2026"
+  },
+  {
+    "title": "How Smart Business Owners Unintentionally Demotivate Great Teams",
+    "url": "https://www.entrepreneur.com/leadership/how-business-owners-unintentionally-demotivate-great-teams/503683",
+    "summary": "Here's how small gaps in clarity, recognition and attention can unintentionally demotivate even the strongest teams.",
+    "source": "Entrepreneur – Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-21T17:00:00+00:00",
+    "date_str": "Apr 21, 2026"
+  },
+  {
+    "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
+    "url": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
+    "summary": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
+    "source": "Business Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-22T18:00:00+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "New York Bans Government Employees from Insider Trading on Prediction Markets",
+    "url": "https://www.wired.com/story/new-york-bans-government-employees-prediction-markets/",
+    "summary": "A new executive order seen by WIRED prohibits New York state employees from using insider knowledge to enrich themselves with prediction market bets.",
+    "source": "Business Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-22T16:00:00+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
+    "url": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/",
+    "summary": "One group of hackers used AI for everything from vibe coding their malware to creating fake company websites—and stole as much as $12 million in three months.",
+    "source": "Business Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-22T16:00:00+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
+    "url": "https://www.wired.com/story/livestream-musk-v-altman-trial/",
+    "summary": "On May 8, we’re going live to answer your questions about the Musk v. Altman trial that could determine the fate of OpenAI.",
+    "source": "Business Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-22T10:00:00+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
+    "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
+    "url": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
+    "summary": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
+    "source": "Business Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-21T18:30:00+00:00",
+    "date_str": "Apr 21, 2026"
+  },
+  {
+    "title": "Tim Cook’s Legacy Is Turning Apple Into a Subscription",
+    "url": "https://www.wired.com/story/apple-tim-cook-subscription-business/",
+    "summary": "The soon-to-exit Apple CEO went all in on services. Now, the incoming CEO, John Ternus, will need to embrace the AI era.",
+    "source": "Business Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-21T17:35:12+00:00",
+    "date_str": "Apr 21, 2026"
+  },
+  {
+    "title": "Meta Is Sued Over Scam Ads on Facebook and Instagram",
+    "url": "https://www.wired.com/story/meta-is-sued-over-scam-ads-on-facebook-and-instagram/",
+    "summary": "A lawsuit from the Consumer Federation of America accuses Meta of misleading consumers about its efforts to combat scams advertisements on its platforms.",
+    "source": "Business Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-21T16:24:41+00:00",
+    "date_str": "Apr 21, 2026"
+  },
+  {
+    "title": "A Humanoid Robot Set a Half-Marathon Record in China",
+    "url": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/",
+    "summary": "An autonomous robot from the company Honor ran a half marathon in 50:26, beating the human record by 7 minutes.",
+    "source": "Business Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-20T22:33:27+00:00",
+    "date_str": "Apr 20, 2026"
+  },
+  {
+    "title": "Apple CEO Tim Cook Is Stepping Down",
+    "url": "https://www.wired.com/story/tim-cook-stepping-down-ceo-apple-john-ternus/",
+    "summary": "John Ternus, the company’s senior vice president of hardware engineering, will replace Cook as CEO on September 1. Cook will stay on as executive chairman.",
+    "source": "Business Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-20T21:02:18+00:00",
+    "date_str": "Apr 20, 2026"
+  },
+  {
+    "title": "Ben McKenzie Says Crypto Has a Secret Ingredient: Male Loneliness",
+    "url": "https://www.wired.com/story/wired-at-night-event-ben-mckenzie-reads-mean-tweets/",
+    "summary": "The actor-director discussed his least favorite currency and read a series of mean tweets—about us!—at our inaugural WIRED@Night event.",
+    "source": "Business Latest",
+    "category": "Business",
+    "category_slug": "business",
+    "date": "2026-04-20T20:52:22+00:00",
+    "date_str": "Apr 20, 2026"
+  },
+  {
     "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
     "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
     "summary": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
