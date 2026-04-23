@@ -1,5 +1,315 @@
 [
   {
+    "title": "Watch: Acknowledging Health Care’s Great Divide",
+    "url": "https://kffhealthnews.org/health-industry/health-care-policy-political-divide-david-blumenthal-interview/",
+    "summary": "As part of her \"How Would You Fix It?\" series, podcast host Julie Rovner chats with health policy expert David Blumenthal about how politics can gum up health policy progress.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-04-23T19:00:58+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "MedCity Pivot Podcast: Modernizing Prior Auth",
+    "url": "https://medcitynews.com/2026/04/medcity-pivot-podcast-modernizing-prior-auth/",
+    "summary": "[Sponsored] In this episode, MedCity News’ Arundhati Parmar chats with a pharmacy benefits leader and a virtual pharmacy operator about ways to modernize and scale prior authorization. The post MedCity Pivot Podcast: Modernizing Prior Auth appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-04-23T17:20:09+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "Why Quality Shareback is the Missing Fuel for the Healthcare Interoperability Engine",
+    "url": "https://medcitynews.com/2026/04/why-quality-shareback-is-the-missing-fuel-for-the-healthcare-interoperability-engine/",
+    "summary": "The question is no longer whether shareback matters. It is whether the healthcare ecosystem is willing to prioritize it in practice by recognizing it in policy measurement, monitoring, and enforcement, as well as investing in the technical and governance structures needed to make shareback routine, high-quality, measurable, and reportable. The post Why Quality Shareback is the Missing Fuel for the Healthcare Interoperability Engine appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-04-23T13:50:00+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "The Healthcare Industry Has a Last Mile Problem — It Hasn’t Realized It Yet",
+    "url": "https://medcitynews.com/2026/04/the-healthcare-industry-has-a-last-mile-problem-it-hasnt-realized-it-yet/",
+    "summary": "Healthcare has solved for the hard part. The science, the surgery, the diagnosis: by global standards, we’re exceptional. What we haven’t solved for is what happens when the patient goes home. The post The Healthcare Industry Has a Last Mile Problem — It Hasn’t Realized It Yet appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-04-23T13:31:00+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "Heart’s beat may help it beat cancer, mouse research suggests",
+    "url": "https://www.statnews.com/2026/04/23/why-heart-cancer-is-rare-study-offers-new-theory/?utm_campaign=rss",
+    "summary": "The constant pressure that the heart is under from beating thousands of times a day may create an environment hostile to cancers",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-23T18:08:26+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "STAT+: Trump’s boosting of psychedelics, cannabis signal a new era in GOP drug policy",
+    "url": "https://www.statnews.com/2026/04/23/gop-drug-policy-trump-psychedelics-marijuana/?utm_campaign=rss",
+    "summary": "The Trump administration, in a stark departure from the \"Just Say No\" era, is funding psychedelics research and rescheduling marijuana.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-23T18:05:52+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "STAT+: Legislatures in Colorado and Virginia resist moves to constrain drug affordability boards",
+    "url": "https://www.statnews.com/pharmalot/2026/04/23/legislatures-colorado-virginia-drug-affordability-boards/?utm_campaign=rss",
+    "summary": "Legislators in two states are resisting efforts to restrict prescription drug affordability boards.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-23T16:55:21+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "Opinion: Dropping the flu vaccine requirement puts U.S. military readiness at risk",
+    "url": "https://www.statnews.com/2026/04/23/military-flu-shots-no-longer-required-retired-general-criticizes-move/?utm_campaign=rss",
+    "summary": "Since the 1918 pandemic, the military has acknowledged the threat of influenza. Now that’s changing.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-23T16:15:55+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "STAT+: Sanofi research priorities in flux as new CEO logs in",
+    "url": "https://www.statnews.com/2026/04/23/biotech-news-sanofi-research-priorities-in-flux-with-new-ceo/?utm_campaign=rss",
+    "summary": "A gene therapy for deafness, all eyes on Erasca, and other biotech news from The Readout",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-23T16:14:02+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "STAT+: CMS, FDA team up to fast-track reimbursement for breakthrough devices",
+    "url": "https://www.statnews.com/2026/04/23/cms-fda-propose-new-faster-breakthrough-devices-coverage/?utm_campaign=rss",
+    "summary": "Federal regulators are proposing a new, faster Medicare coverage pathway for medical devices deemed by the FDA as breakthroughs.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-23T15:28:06+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "STAT+: RFK Jr. backs off some MAHA issues",
+    "url": "https://www.statnews.com/2026/04/23/kennedy-backs-vaccines-defends-glyphosate-pharma-deals/?utm_campaign=rss",
+    "summary": "RFK Jr. is backing vaccinations and defending secret deals with pharma companies.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-23T14:47:51+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "STAT+: AMA calls for regulatory crackdown on chatbots, wellness AI",
+    "url": "https://www.statnews.com/2026/04/23/ama-urges-crackdown-on-chatbots-wellness-ai-health-tech/?utm_campaign=rss",
+    "summary": "In this edition of STAT Health Tech: OpenAI's targets clinicians, AMA's call for regulatory crackdown, and bargain-basement telehealth visits.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-23T13:39:51+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "How mosquitoes — and malaria — helped shape the whereabouts of early humankind",
+    "url": "https://www.npr.org/2026/04/23/g-s1-118443/mosquitoes-malaria-human-civilization",
+    "summary": "A new study looks at an unexpected force that played a critical role in shaping the lives of ancient humans.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-23T15:50:18+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "Trump administration eases rules on some marijuana categories. Here's what to know",
+    "url": "https://www.npr.org/2026/04/23/nx-s1-5797245/marijuana-rules-reschedule-medical-legalization",
+    "summary": "Acting Attorney General Todd Blanche said he is immediately moving medical marijuana from Schedule I to Schedule III, which includes drugs like ketamine, Tylenol with codeine and anabolic steroids.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-23T14:58:13+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "Stiff Person Syndrome Patients Regain Mobility After Single-Dose Cell Therapy",
+    "url": "https://www.medpagetoday.com/meetingcoverage/aan/120926",
+    "summary": "(MedPage Today) -- A single dose of mivocabtagene autoleucel (miv-cel), an autologous CD19 chimeric antigen receptor (CAR)-T cell therapy, showed benefit in people with stiff person syndrome (SPS) in the pivotal phase II KYSA-8 trial. The 26-person...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-23T17:19:15+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "More Positive Survival Data in Lung Cancer With Perioperative Therapy",
+    "url": "https://www.medpagetoday.com/meetingcoverage/aacr/120925",
+    "summary": "(MedPage Today) -- SAN DIEGO -- Patients with operable non-small cell lung cancer (NSCLC) had significantly longer event-free survival (EFS) with perioperative chemoimmunotherapy, a large randomized trial from China showed. After a median follow...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-23T16:43:27+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "Doctor Shot in Chest; Chiropractor Sentenced to 8 Years; Sleep Clinics Shuttered",
+    "url": "https://www.medpagetoday.com/special-reports/features/120924",
+    "summary": "(MedPage Today) -- A doctor in his 30s has been hospitalized after being shot in the chest while walking his dog in San Antonio. (KTSA) A chiropractor in Missouri was sentenced to 100 months in prison and will have to pay back $4.7 million in...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-23T15:40:30+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "Machine Analyzes Joint X-Rays About as Well as Humans",
+    "url": "https://www.medpagetoday.com/radiology/diagnosticradiology/120923",
+    "summary": "(MedPage Today) -- A machine-learning system for analyzing rheumatoid arthritis (RA) patients' X-rays was able to produce Sharp/van der Heijde (SvdH) scores, the standard way to quantify joint space narrowing and bone erosions, with good accuracy...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-23T15:05:20+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "RFK Jr. Faced Congress. A Physician-Senator's Competing Loyalties Were on Display.",
+    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/120922",
+    "summary": "(MedPage Today) -- A Republican senator juggling three roles -- lawmaker, doctor, and political candidate seeking reelection -- walked a fine line on Wednesday as he questioned Health Secretary Robert F. Kennedy Jr., a longtime anti-vaccine...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-23T14:55:39+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "Trump Reclassifies State-Licensed Medical Marijuana as a Less-Dangerous Drug",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/healthpolicy/120919",
+    "summary": "(MedPage Today) -- President Donald Trump's acting attorney general on Thursday signed an order reclassifying state-licensed medical marijuana as a less-dangerous drug, a major policy shift long sought by advocates who said cannabis should never...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-23T14:19:51+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "RFK Jr. Flips Position on CDC Chief; $440,000 Breast Surgery; House Member Dies",
+    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/120918",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Erica Schwartz, MD, MPH, will be able to independently make vaccine decisions if confirmed as CDC director, Health Secretary Robert ‌F. Kennedy Jr. told Senators...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-23T13:39:55+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "Molina controls costs in Q1 but future Medicaid spending in doubt",
+    "url": "https://www.healthcaredive.com/news/molina-moh-q1-2026-cost-control-medicaid-doubt/818236/",
+    "summary": "The insurer beat analyst expectations for adjusted earnings in the first quarter. But steeper Medicaid membership losses than expected could saddle Molina with higher costs down the line.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-23T16:03:52+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "CMS, FDA unveil speedier Medicare coverage pathway for breakthrough devices",
+    "url": "https://www.healthcaredive.com/news/cms-fda-unveil-speedier-medicare-coverage-pathway-for-breakthrough-devices/818328/",
+    "summary": "The pathway is designed to reduce the delay between FDA authorization and Medicare coverage for certain Class II and Class III breakthrough medical devices.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-23T15:55:00+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "Flagging first-quarter volumes dragged CHS’ earnings",
+    "url": "https://www.healthcaredive.com/news/flagging-first-quarter-volumes-dragged-chs-into-the-red/818217/",
+    "summary": "Executives said consumer fears and aggressive denials from payers fueled declining volumes in the quarter, leading CHS to a $58 million loss. Still, the hospital operator expects volumes to pick up in the back half of the year.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-23T15:42:35+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "AMA urges lawmakers to implement safeguards on AI chatbots",
+    "url": "https://www.healthcaredive.com/news/american-medical-association-ama-urges-congress-ai-chatbot-mental-health-safeguards/818269/",
+    "summary": "Though chatbots could have some benefits for mental health access, the physician lobby argued “immediate attention is required” to avoid harming patients looking for support.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-23T15:32:10+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "Molina strikes 'prudent' tone on 2026 outlook amid positive signs on Medicaid spending",
+    "url": "https://www.fiercehealthcare.com/payers/molina-strikes-prudent-tone-2026-outlook-amid-positive-signs-medicaid-spending",
+    "summary": "Molina Healthcare took the \"prudent\" route of reaffirming its 2026 outlook as questions loom in the Medicaid business.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-04-23T19:07:31.252629+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "FTC reaches tentative deal in anesthesiology 'roll-up scheme' litigation",
+    "url": "https://www.fiercehealthcare.com/regulatory/ftc-secures-11th-hour-settlement-pe-firm-welsh-carson-over-alleged-roll-scheme",
+    "summary": "The regulator's 2023 complaint against USAP was rife with criticisms of its private equity backer. There was no mention of the firm in this week's announcement, which follows a separate 2025 deal and a new commission chair less opposed to such investors on a matter of principle.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-04-23T19:07:31.252689+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "CMS, FDA announce new program to speed up Medicare coverage of breakthrough medical devices",
+    "url": "https://www.fiercehealthcare.com/health-tech/cms-fda-announce-new-program-speed-medicare-coverage-breakthrough-medical-devices",
+    "summary": "The Trump administration unveiled a new program to speed up Medicare coverage for breakthrough devices, touting that the new pathway cuts red tape for medical device companies to gain reimbursement. CMS said it will pause the existing TCET pathway.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-04-23T19:07:31.252723+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "Telehealth provider Him & Hers adds all FDA-approved GLP-1s to platform",
+    "url": "https://www.fiercehealthcare.com/telehealth/telehealth-provider-him-hers-adds-all-fda-approved-glp-1s-platform",
+    "summary": "Providers can now send prescriptions of Eli Lily’s Zepbound, Mounjaro and oral Foundayo, as well as Novo Nordisk’s Ozempic and Wegovy.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-04-23T19:07:31.252759+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "Conservative think tank Paragon Health calls its shots on hospital policy reform",
+    "url": "https://www.fiercehealthcare.com/providers/conservative-think-tank-paragon-health-calls-its-shots-hospital-policy-reform",
+    "summary": "A conservative policy shop with proven sway over the Trump administration released a new report undercutting the hospital industry's claims of widespread financial distress. An included 12-point wish list spanning site-neutral Medicare rates to more specific tax reporting builds on its recent victories over the hospital lobby.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-04-23T19:07:31.252793+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "The Gates Foundation is reviewing its Epstein ties as released emails raise questions for funders",
+    "url": "https://thehill.com/policy/healthcare/gates-foundation-jeffriey-epstein-review/",
+    "summary": "NEW YORK (AP) — The Gates Foundation is reviewing its ties to convicted sex offender Jeffrey Epstein, the global health funder confirmed Wednesday, as its only remaining founder faces mounting scrutiny over his appearances in Justice Department documents related to its investigation of the disgraced financier. Microsoft founder Bill Gates reportedly spoke “candidly” about his...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-04-22T18:01:20+00:00",
+    "date_str": "Apr 22, 2026"
+  },
+  {
     "title": "Food Stamp Work Rules Don’t Increase Employment, Researchers Say",
     "url": "https://kffhealthnews.org/medicaid/food-stamps-snap-work-requirements-hunger-west-virginia-foodbanks/",
     "summary": "Work requirements will encourage people who are able to work to seek and maintain jobs, proponents say. But researchers haven’t found that they lower the unemployment rate.",
