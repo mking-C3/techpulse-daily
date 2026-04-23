@@ -1,5 +1,145 @@
 [
   {
+    "title": "Food Stamp Work Rules Don’t Increase Employment, Researchers Say",
+    "url": "https://kffhealthnews.org/medicaid/food-stamps-snap-work-requirements-hunger-west-virginia-foodbanks/",
+    "summary": "Work requirements will encourage people who are able to work to seek and maintain jobs, proponents say. But researchers haven’t found that they lower the unemployment rate.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-04-23T09:00:00+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "Medigap Premiums Leap, and Consumers Have Few Alternatives",
+    "url": "https://kffhealthnews.org/medicare/medigap-medicare-advantage-premiums-rate-increase-few-alternatives/",
+    "summary": "Millions of people rely on the supplemental insurance to offset the deductibles, copayments, and other costs faced by enrollees in the traditional Medicare program.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-04-23T09:00:00+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "Trump reclassifies state-licensed medical marijuana as a less-dangerous drug in a historic shift",
+    "url": "https://www.statnews.com/2026/04/23/trump-reclassifies-state-licensed-medical-marijuana-less-dangerous-drug/?utm_campaign=rss",
+    "summary": "President Trump is reclassifying state-licensed medical marijuana as a less-dangerous drug, a major policy shift long sought by advocates.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-23T13:24:24+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about cheap telehealth visits, pharma withholding meds in Europe, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/04/23/telehealth-visits-pharma-withholding-new-meds-in-europe/?utm_campaign=rss",
+    "summary": "Drugmakers have begun using coupons to discount the cost of telehealth visits with clinicians who can prescribe their drugs",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-23T13:22:42+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "Across 7 hearings, RFK Jr. talks a new, more moderate MAHA",
+    "url": "https://www.statnews.com/2026/04/23/health-news-rfk-jr-more-moderate-maha-hearing/?utm_campaign=rss",
+    "summary": "Discount telehealth visits, maternal mortality data, and more health news from Morning Rounds",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-23T12:00:24+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "STAT+: Can Erasca be biotech’s next big thing? We’ll see",
+    "url": "https://www.statnews.com/2026/04/23/erasca-oncology-cancer-drug-stock/?utm_campaign=rss",
+    "summary": "Can Erasca be biotech's next big thing?",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-23T10:30:00+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "Opinion: Kennedy’s new silence on vaccines is political — and it won’t last",
+    "url": "https://www.statnews.com/2026/04/23/kennedy-vaccines-midterms-politics/?utm_campaign=rss",
+    "summary": "Kennedy’s public messaging on vaccines has shifted ahead of the midterms. It won’t last.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-23T08:30:00+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "STAT+: Will bargain-basement telehealth visits help pharma drive drug scripts?",
+    "url": "https://www.statnews.com/2026/04/23/telehealth-visit-deep-discounts-questions-raised-pharma-ties/?utm_campaign=rss",
+    "summary": "As links between pharmaceutical companies and telehealth providers grow, health policy experts and legislators have sounded alarms.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-23T08:30:00+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "Two startlingly different views on long-awaited data on America's anti-HIV efforts",
+    "url": "https://www.npr.org/2026/04/23/g-s1-118221/hiv-aids-pepfar-trump-foreign-aid",
+    "summary": "After a year without data, the State Department released figures on PEPFAR, the program launched by George W. Bush and credited with saving millions of lives. How did Trump's aid cuts affect it?",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-23T10:51:12+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "Sycophantic AI flatters and suggests you are not to blame",
+    "url": "https://www.npr.org/2026/04/23/nx-s1-5792867/ai-chatbot-flattery-mental-health-risks",
+    "summary": "The AI models and chatbots that we interact with tend to affirm our feelings and viewpoints — more so than people do, with potentially worrisome consequences.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-23T10:00:00+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "OpenAI launches ChatGPT for Clinicians, a free AI tool for physicians, NPs and pharmacists",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/openai-launches-chatgpt-clinicians-free-ai-tool-physicians-nps-and",
+    "summary": "OpenAI unveiled on Wednesday ChatGPT for Clinicians, a version of ChatGPT designed to support clinical tasks like documentation and medical research.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-04-23T13:28:51.967159+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "Condom costs could rise as Iran war disrupts supply chains",
+    "url": "https://thehill.com/business/personal-finance/5844344-condom-costs-surge-supply-chain-iran-war/",
+    "summary": "Since the war began in late February, Karex has faced rising prices for materials used to produce and package condoms.",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-04-23T12:55:01+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "Trump administration reclassifies state-licensed medical marijuana as less dangerous drug",
+    "url": "https://thehill.com/homenews/administration/5844758-trump-administration-medical-marijuana-reclassification/",
+    "summary": "Acting Attorney General Todd Blanche signed an order Thursday to reclassify state-licensed medical marijuana as a less dangerous drug. The order shifts the designation of licensed medical marijuana from a high level of regulation to a much looser level. It also provides a tax break to licensed medical marijuana operators This move does not legalize...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-04-23T12:43:28+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
+    "title": "Trump’s Rogan-inspired psychedelics order stokes cautious optimism",
+    "url": "https://thehill.com/policy/healthcare/5843764-trump-rogan-psychedelic-research-order/",
+    "summary": "President Trump's executive order loosening research restrictions on psychedelic medicine, which was kick-started by a text to Trump from podcaster Joe Rogan, could help legitimize an industry that's long operated in the shadows. Advocates and researchers said they are optimistic about a potential shift in how the government views psychedelic drugs, but without further action,...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-04-23T10:00:00+00:00",
+    "date_str": "Apr 23, 2026"
+  },
+  {
     "title": "How the DOJ Is Tackling Fraud in the ACA Marketplace",
     "url": "https://medcitynews.com/2026/04/how-the-doj-is-tackling-fraud-in-the-aca-marketplace/",
     "summary": "At the Medicarians Conference, Ricardo Carcas, assistant special agent in charge of the Office of Investigations, discussed cases of fraud in the ACA and how the DOJ is combatting it. The post How the DOJ Is Tackling Fraud in the ACA Marketplace appeared first on MedCity News .",
