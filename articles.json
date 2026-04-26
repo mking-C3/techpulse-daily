@@ -1,5 +1,75 @@
 [
   {
+    "title": "Novartis Antimalarial Clears Key WHO Review to Get the Combo Drug to Babies",
+    "url": "https://medcitynews.com/2026/04/novartis-antimalarial-coartem-baby-who-prequalification-malaria-infectious-disease-mmv-nvs/",
+    "summary": "The World Health Organization has prequalified Coartem Baby, the first and only antimalarial for babies. Novartis developed this combination drug in partnership with Medicines for Malaria Venture. The post Novartis Antimalarial Clears Key WHO Review to Get the Combo Drug to Babies appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-04-26T17:19:15+00:00",
+    "date_str": "Apr 26, 2026"
+  },
+  {
+    "title": "AMA Calls on Congress to Improve Safeguards for AI Mental Health Chatbots",
+    "url": "https://medcitynews.com/2026/04/ama-ai-mental-health-chatbot/",
+    "summary": "The American Medical Association is urging Congress to add safeguards for AI mental health chatbots amid safety concerns, while noting their potential to expand access. The post AMA Calls on Congress to Improve Safeguards for AI Mental Health Chatbots appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-04-26T14:16:00+00:00",
+    "date_str": "Apr 26, 2026"
+  },
+  {
+    "title": "Driving Outcomes with a Digital Transportation Infrastructure",
+    "url": "https://medcitynews.com/2026/04/driving-outcomes-with-a-digital-transportation-infrastructure/",
+    "summary": "Transportation is a vital part of the care journey, and if we are serious about improving outcomes, reducing missed appointments, and supporting healthier members, we have to be honest about where friction still exists and focus on removing it. The post Driving Outcomes with a Digital Transportation Infrastructure appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-04-26T13:42:00+00:00",
+    "date_str": "Apr 26, 2026"
+  },
+  {
+    "title": "Healthcare’s Identity Crisis: Why A Single Prescription Requires Multiple Logins",
+    "url": "https://medcitynews.com/2026/04/healthcares-identity-crisis-why-a-single-prescription-requires-multiple-logins/",
+    "summary": "Now is the time to solve the industry’s identity crisis, and it can only be done through a combination of phishing-resistant and adaptive MFA, fine-grained access control, and standards-based interoperability. The post Healthcare’s Identity Crisis: Why A Single Prescription Requires Multiple Logins appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-04-26T13:27:27+00:00",
+    "date_str": "Apr 26, 2026"
+  },
+  {
+    "title": "The Quiet Revolution Comes Full Circle: How CMS ACCESS Validates Safety-Net Innovation",
+    "url": "https://medcitynews.com/2026/04/the-quiet-revolution-comes-full-circle-how-cms-access-validates-safety-net-innovation/",
+    "summary": "While other areas of healthcare have been star-struck by sophisticated AI and massive infrastructure investments, safety net entities have found that the answer is much simpler. Better managing chronic conditions across populations simply requires the right connection at the right time. The post The Quiet Revolution Comes Full Circle: How CMS ACCESS Validates Safety-Net Innovation appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-04-26T13:25:00+00:00",
+    "date_str": "Apr 26, 2026"
+  },
+  {
+    "title": "We're Doctors, Not Martyrs",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/120953",
+    "summary": "(MedPage Today) -- It's not like someone forced you to go into medicine. If you don't like it, leave. Doctors are only in it for the money, or they'd treat people for free. Our patients can be violent, and that's just part of the job. You chose...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-26T16:00:00+00:00",
+    "date_str": "Apr 26, 2026"
+  },
+  {
+    "title": "Can Gabapentin Improve Brain Injury Outcomes?",
+    "url": "https://www.medpagetoday.com/meetingcoverage/aan/120963",
+    "summary": "(MedPage Today) -- Gabapentin administered on the day of traumatic brain injury (TBI) was tied to a reduced risk of durable cognitive impairment and mortality, a retrospective, longitudinal study of 50,000 patients showed. Over 2 years, gabapentin...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-26T13:12:33+00:00",
+    "date_str": "Apr 26, 2026"
+  },
+  {
     "title": "‘Prior Authorization’ Has Become a Dirty Word in Healthcare, But it Might Be Medicare’s Smartest Path Forward",
     "url": "https://medcitynews.com/2026/04/prior-authorization-has-become-a-dirty-word-in-healthcare-but-it-might-be-medicares-smartest-path-forward/",
     "summary": "Since its inception, AI in prior auth has only been at work in the commercial healthcare marketplace. Now new innovative approaches that reframe prior auth as a resource instead of a roadblock have come to Medicare via the WISeR model. The post ‘Prior Authorization’ Has Become a Dirty Word in Healthcare, But it Might Be Medicare’s Smartest Path Forward appeared first on MedCity News .",
