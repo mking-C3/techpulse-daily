@@ -1,5 +1,215 @@
 [
   {
+    "title": "Florida Delays Children’s Health Insurance Expansion as Uninsured Rate Rises",
+    "url": "https://kffhealthnews.org/insurance/chip-expansion-florida-delay-children-health-coverage-uninsured-rates/",
+    "summary": "Florida’s KidCare expansion has been stuck in legal limbo since February 2024. Since then, the number of uninsured children in Florida has risen to 400,000 — one of the highest state tallies.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-04-27T09:00:00+00:00",
+    "date_str": "Apr 27, 2026"
+  },
+  {
+    "title": "The Help That Many Older Americans Need Most",
+    "url": "https://kffhealthnews.org/aging/new-old-age-community-health-workers-promotores-home-visits-senior-support/",
+    "summary": "With shortages of medical professionals and an aging population, thousands of community healthcare workers prevent older adults from falling through the cracks.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-04-27T09:00:00+00:00",
+    "date_str": "Apr 27, 2026"
+  },
+  {
+    "title": "How Recent Changes in ‘Patient-Matched’ Technology Are Reshaping the Future of Surgical Care",
+    "url": "https://medcitynews.com/2026/04/how-recent-changes-in-patient-matched-technology-are-reshaping-the-future-of-surgical-care/",
+    "summary": "The evolution of patient-matched medical devices represents more than just innovation in manufacturing and design. It marks a shift in clinical philosophy. Instead of shaping patients to fit implants, clinicians and device developers are harnessing technology to shape treatments around the individual. The post How Recent Changes in ‘Patient-Matched’ Technology Are Reshaping the Future of Surgical Care appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-04-27T13:35:00+00:00",
+    "date_str": "Apr 27, 2026"
+  },
+  {
+    "title": "Too Many Prescriptions, Too Many Fatal Falls",
+    "url": "https://medcitynews.com/2026/04/too-many-prescriptions-too-many-fatal-falls/",
+    "summary": "The phenomenon of taking five or more medicines at the same time has become so common that it now has its own term – polypharmacy – and there is no doubt that it increases the risk of dizziness, confusion, and loss of balance. The post Too Many Prescriptions, Too Many Fatal Falls appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-04-27T13:09:00+00:00",
+    "date_str": "Apr 27, 2026"
+  },
+  {
+    "title": "Patients are Turning to HCP Influencers in the Age of AI and Misinformation",
+    "url": "https://medcitynews.com/2026/04/patients-are-turning-to-hcp-influencers-in-the-age-of-ai-and-misinformation/",
+    "summary": "As patients take to social media, in all its ungated glory and promotion of misinformation, how can they be certain that what they are getting is accurate? What voices can they trust? The post Patients are Turning to HCP Influencers in the Age of AI and Misinformation appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-04-27T13:06:00+00:00",
+    "date_str": "Apr 27, 2026"
+  },
+  {
+    "title": "STAT+: Astellas retries XLMTM gene therapy after deaths",
+    "url": "https://www.statnews.com/2026/04/27/biotech-news-astellas-retries-xlmtm-gene-therapy-after-deaths/?utm_campaign=rss",
+    "summary": "Veradermics' hair loss pill late-stage trial success, FDA fast-tracks reviews for psychedelics, and more biotech news",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-27T13:20:40+00:00",
+    "date_str": "Apr 27, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a Lilly deal, an Intellia CRISPR rare-disease treatment, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/04/27/lilly-deal-intellia-crispr-treatment-for-rare-disease/?utm_campaign=rss",
+    "summary": "Intellia disclosed that a single dose of its gene editing treatment dramatically reduced swelling attacks in patients with hereditary angioedema",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-27T13:18:01+00:00",
+    "date_str": "Apr 27, 2026"
+  },
+  {
+    "title": "What’s the true risk for eating disorders with GLP-1s?",
+    "url": "https://www.statnews.com/2026/04/27/health-news-true-risk-of-eating-disorders-and-wegovy-ozempic/?utm_campaign=rss",
+    "summary": "The state of Covid-19 in 2026, a hat to treat depression, and other health news from Morning Rounds",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-27T12:42:36+00:00",
+    "date_str": "Apr 27, 2026"
+  },
+  {
+    "title": "STAT+: Intellia says CRISPR-based treatment for rare disease reduced swelling attacks in pivotal trial",
+    "url": "https://www.statnews.com/2026/04/27/intellia-therapeutics-phase-3-trial-hereditary-angioedema-crispr-treatment/?utm_campaign=rss",
+    "summary": "With good results from Intellia, the CRISPR field faces the question: How attractive will the one-and-done approach be to patients and doctors?",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-27T11:01:00+00:00",
+    "date_str": "Apr 27, 2026"
+  },
+  {
+    "title": "STAT+: Oruka’s long-acting psoriasis therapy posts strong results in mid-stage study",
+    "url": "https://www.statnews.com/2026/04/27/ourka-psoriasis-inectable-treatment-study/?utm_campaign=rss",
+    "summary": "A long-acting injectable treatment for plaque psoriasis helped 63% of patients achieve complete skin clearance in a clinical trial, its maker, Oruka Therapeutics, reported.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-27T11:00:00+00:00",
+    "date_str": "Apr 27, 2026"
+  },
+  {
+    "title": "STAT+: Veradermics’ hair loss drug succeeds in late-stage trial",
+    "url": "https://www.statnews.com/2026/04/27/veradermics-hair-loss-drug-succeeds-late-stage-trial/?utm_campaign=rss",
+    "summary": "The company is one of the most advanced players in the hair loss field, which has seen a surge of investor enthusiasm.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-27T11:00:00+00:00",
+    "date_str": "Apr 27, 2026"
+  },
+  {
+    "title": "STAT+: Zap in a cap: How one neurotech startup is using a hat to treat depression",
+    "url": "https://www.statnews.com/2026/04/27/motif-neurotech-gets-fda-nod-brain-implant-depression/?utm_campaign=rss",
+    "summary": "FDA approved a request from Motif Neurotech, to start an initial feasibility trial to test a brain implant to treat depression.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-27T09:30:00+00:00",
+    "date_str": "Apr 27, 2026"
+  },
+  {
+    "title": "NIH-funded research lags in reporting sex differences, new study finds",
+    "url": "https://www.statnews.com/2026/04/27/nih-research-guidelines-sabv-sex-as-biological-variable/?utm_campaign=rss",
+    "summary": "Fewer than half of papers published by NIH-funded researchers analyze or report their data by sex, a new study found.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-27T09:00:00+00:00",
+    "date_str": "Apr 27, 2026"
+  },
+  {
+    "title": "What happened to Covid?",
+    "url": "https://www.statnews.com/2026/04/27/is-covid-still-a-thing-expert-analysis-who-needs-vaccine-booster-shot/?utm_campaign=rss",
+    "summary": "The thinking about what risk Covid poses — or doesn't pose — has shifted in recent years. What does it mean for you?",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-27T08:30:00+00:00",
+    "date_str": "Apr 27, 2026"
+  },
+  {
+    "title": "Opinion: Patients seeking mental health treatment are not commodities",
+    "url": "https://www.statnews.com/2026/04/27/mental-health-employment-contracts-proprietary-non-compete-non-solicitation/?utm_campaign=rss",
+    "summary": "Legal agreements that directly shape access to care remain invisible to the very people whose lives they govern.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-27T08:30:00+00:00",
+    "date_str": "Apr 27, 2026"
+  },
+  {
+    "title": "Scientists search the microbiome for clues to the rise in colorectal cancers",
+    "url": "https://www.npr.org/2026/04/27/nx-s1-5766512/colorectal-cancer-rise-young-gut-microbes",
+    "summary": "Unlike many cancers, colorectal cancer has become more lethal for people at younger ages. Doctors are sleuthing out why.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-27T09:00:00+00:00",
+    "date_str": "Apr 27, 2026"
+  },
+  {
+    "title": "Why health plans are missing one of their most costly care categories",
+    "url": "https://www.healthcaredive.com/spons/why-health-plans-are-missing-one-of-their-most-costly-care-categories/817850/",
+    "summary": "The overlooked surgery category quietly driving utilization and cost for health plans",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-27T09:00:00+00:00",
+    "date_str": "Apr 27, 2026"
+  },
+  {
+    "title": "As coordination grows more complex, intelligent care is reshaping the response",
+    "url": "https://www.healthcaredive.com/spons/as-coordination-grows-more-complex-intelligent-care-is-reshaping-the-respo/817655/",
+    "summary": "Better coordination starts with intelligent care across teams, systems and settings.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-27T09:00:00+00:00",
+    "date_str": "Apr 27, 2026"
+  },
+  {
+    "title": "UnityAI builds out agentic AI for staffing operations to match outpatient clinicians with patient demand",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/unityai-builds-out-agentic-ai-staffing-operations-keep-pace-patient-demand",
+    "summary": "Nashville-based health tech startup UnityAI built out an agentic AI platform to streamline day-to-day staff scheduling and match it in real-time with patient demand.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-04-27T13:52:39.203440+00:00",
+    "date_str": "Apr 27, 2026"
+  },
+  {
+    "title": "Rethinking Prior Authorization for Better Outcomes",
+    "url": "https://www.fiercehealthcare.com/sponsored/rethinking-prior-authorization-better-outcomes",
+    "summary": "Abarca’s Javier Gonzalez explores how trust, tech and policy can transform prior authorization and improve access and efficiency.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-04-27T13:52:39.203505+00:00",
+    "date_str": "Apr 27, 2026"
+  },
+  {
+    "title": "What Healthcare Investors See in Risk Adjustment Due Diligence That Buyers Often Miss",
+    "url": "https://www.fiercehealthcare.com/sponsored/what-healthcare-investors-see-risk-adjustment-due-diligence-buyers-often-miss",
+    "summary": "Same technology. Same use case. But they were asking questions most buyers never think to ask. That gap is worth examining.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-04-27T13:52:39.203539+00:00",
+    "date_str": "Apr 27, 2026"
+  },
+  {
     "title": "Why Some Hospitals Are Betting on Midstream Health to Help Eliminate Waste",
     "url": "https://medcitynews.com/2026/04/hospital-finance-costs-ai/",
     "summary": "Midstream Health is taking a bit of a different approach to healthcare AI by focusing on reducing hospitals’ costs rather than boosting their revenue. The startup uses AI to identify savings opportunities across fragmented spending data, which helps health systems like Mount Sinai and CommonSpirit quickly improve their purchasing decisions. The post Why Some Hospitals Are Betting on Midstream Health to Help Eliminate Waste appeared first on MedCity News .",
