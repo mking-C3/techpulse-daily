@@ -1,5 +1,445 @@
 [
   {
+    "title": "An Urgent Care Treated Her Allergic Reaction. An ER Monitored Her — For $6,700.",
+    "url": "https://kffhealthnews.org/health-industry/er-monitoring-anaphylactic-shock-allergic-reaction-bill-of-the-month-april-2026/",
+    "summary": "A bug bite and an allergic reaction ultimately sent a North Carolina woman to the emergency room, where she had a couple of brief chats with a doctor and a dose of medicine. Now she questions why the charges were so high.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-04-28T09:00:00+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "Big Companies Position Themselves for Payday From $50B Federal Rural Health Fund",
+    "url": "https://kffhealthnews.org/rural-health/rural-health-transformation-program-cms-state-contractors-ehr-patients/",
+    "summary": "A $50 billion federal fund is supposed to modernize rural health with electronic health records, AI, telehealth, and more. But community clinics and rural health advocates fear that the contractors administering the money for states will bite off a big chunk before it reaches rural patients.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-04-28T09:00:00+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "Immunology-Focused Coultreon Adds $125M for Pills That Pack the Punch of Injectable Biologics",
+    "url": "https://medcitynews.com/2026/04/immunology-inflammation-startup-coultreon-biopharma-sik-inhibitor-galapagos/",
+    "summary": "Coultreon Biopharma’s lead drug candidate, acquired from Galapagos, is a small molecule designed to selectively inhibit a novel immunology target called SIK3. The Series A financing will support Phase 2 clinical trials in psoriasis and ulcerative colitis. The post Immunology-Focused Coultreon Adds $125M for Pills That Pack the Punch of Injectable Biologics appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-04-28T17:30:01+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "Executing Biologics Technology Transfer through Integrated Operating Models",
+    "url": "https://medcitynews.com/2026/04/executing-biologics-technology-transfer-through-integrated-operating-models/",
+    "summary": "As biologics modalities diversify and processes grow complex, the success of tech transfer depends on integrated execution rather than each procedural completion. The post Executing Biologics Technology Transfer through Integrated Operating Models appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-04-28T14:01:00+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "Digitizing Medical Policy Alone Will Not Automate Prior Authorization at Scale",
+    "url": "https://medcitynews.com/2026/04/digitizing-medical-policy-alone-will-not-automate-prior-authorization-at-scale/",
+    "summary": "Many health plans are discovering that even after digitizing medical policies and implementing FHIR APIs, prior authorization turnaround times remain slow and provider frustration remains high. The reason is straightforward: digitization alone does not make medical‑necessity determinations executable by automated systems at scale. The post Digitizing Medical Policy Alone Will Not Automate Prior Authorization at Scale appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-04-28T13:36:00+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "As Health Costs Hit Record Highs, Brokers Face a Structural Test",
+    "url": "https://medcitynews.com/2026/04/as-health-costs-hit-record-highs-brokers-face-a-structural-test/",
+    "summary": "This is forcing brokers to rethink how they serve clients and how their businesses continue to grow without sacrificing service. The post As Health Costs Hit Record Highs, Brokers Face a Structural Test appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-04-28T13:29:00+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "STAT+: FDA launches effort to speed up clinical trials, using AI",
+    "url": "https://www.statnews.com/2026/04/28/fda-real-time-clinical-trials-pilot-project-astrazeneca-amgen-cancer-drugs/?utm_campaign=rss",
+    "summary": "Monitoring trials in real time may help shorten the time interval between trial phases.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-28T19:24:35+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "Opinion: Healthcare or health care? Help STAT decide",
+    "url": "https://www.statnews.com/2026/04/28/ap-style-change-health-care-one-word-or-two/?utm_campaign=rss",
+    "summary": "Should STAT use “healthcare” or “health care”? We want to hear from you.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-28T18:27:26+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "Opinion: FDA commissioner: ‘Smarter,’ real-time clinical trials could transform drug development",
+    "url": "https://www.statnews.com/2026/04/28/fda-clinical-trial-endpoints-real-time-drug-development/?utm_campaign=rss",
+    "summary": "“For the first time, FDA regulators will be able to see what’s happening in a clinical trial, looking at endpoints in the cloud as they occur,” writes FDA commissioner.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-28T17:30:00+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "Fauci adviser David Morens indicted for concealing emails, avoiding records requests",
+    "url": "https://www.statnews.com/2026/04/28/fauci-adviser-david-morens-indicted-concealing-emails-avoiding-foia/?utm_campaign=rss",
+    "summary": "The charges against Morens come after Congressional probes related to the origins of the virus that causes Covid-19.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-28T17:12:21+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "STAT+: Supreme Court to hear case about ‘skinny labeling’ and generic access",
+    "url": "https://www.statnews.com/pharmalot/2026/04/28/supreme-court-case-skinny-labeling-generics-access/?utm_campaign=rss",
+    "summary": "The Supreme Court Wednesday will hear oral arguments about a simmering controversy over so-called skinny labels, with implications for the availability of generics.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-28T15:36:31+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "STAT+: Boehringer’s obesity drug shows 16.6% weight loss; more data needed",
+    "url": "https://www.statnews.com/2026/04/28/biotech-news-boehringer-drug-looks-efficacious-but-more-data-needed/?utm_campaign=rss",
+    "summary": "Eli Lilly's deal with Profluent, Erasca's RAS-targeting cancer pill, and more biotech news today",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-28T13:36:22+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "STAT+: Google’s clinical director on AI challenges",
+    "url": "https://www.statnews.com/2026/04/28/googles-clinical-director-on-ai-chatbot-challenges-health-tech/?utm_campaign=rss",
+    "summary": "In this edition of STAT Health Tech newsletter: a conversation with Google's clinical director, an update on Doctronic's Utah experiment, and more.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-28T13:24:51+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about warnings over Trump’s MFN plan, Purdue Pharma sentencing, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/04/28/warnings-over-trump-drug-pricing-plan-purdue-pharma-sentencing/?utm_campaign=rss",
+    "summary": "The Novartis CEO warned that Trump's drug pricing policy poses a “very difficult situation” and the reality will soon catch up with drugmakers and patients",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-28T13:18:17+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "Predicting consequences of new hepatitis B vaccine recs",
+    "url": "https://www.statnews.com/2026/04/28/health-news-dangerous-consequences-of-new-hep-b-vaccine-guidelines/?utm_campaign=rss",
+    "summary": "New data on public trust in science, AI and mental health, and other news from Morning Rounds",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-28T11:46:02+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "STAT+: Eli Lilly enlists AI startup for next-generation gene editors",
+    "url": "https://www.statnews.com/2026/04/28/eli-lilly-crispr-gene-editing-deal-profluent-ai/?utm_campaign=rss",
+    "summary": "Eli Lilly's deal with Profluent aims to go beyond CRISPR by using AI-designed enzymes to insert entire genes. It could reshape genetic medicine.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-28T11:00:00+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "Natural disasters can cause another crisis for those recovering from opioid addiction",
+    "url": "https://www.npr.org/2026/04/28/nx-s1-5801463/natural-disasters-medication-access-opioid-addiction",
+    "summary": "People recovering from opioid addiction risk relapse when they can't get their medications after natural disasters. A group of doctors is calling for lawmakers to ease access to the meds.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-28T14:46:30+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "The MAHA movement is mad about the weedkiller glyphosate and Trump's EPA",
+    "url": "https://www.npr.org/2026/04/28/nx-s1-5801645/maha-epa-pesticide-glyphosate-trump",
+    "summary": "The coalition focused on making Americans healthier is frustrated with the Trump administration's stance on environmental toxins and most recently, its support of the company that makes the pesticide.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-28T10:00:00+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "So far, Florida has failed to end vaccine mandates. Now there's a last-ditch effort",
+    "url": "https://www.npr.org/2026/04/28/nx-s1-5798698/florida-school-vaccine-mandates-ladapo-desantis",
+    "summary": "Florida Republicans have pushed hard to drop some vaccine requirements for children. But after many months, their efforts stalled out. Could this week's special legislative session get the job done?",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-28T09:00:00+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "SCOTUS Grapples With Multibillion-Dollar Lawsuits Over Roundup Cancer Claims",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/washington-watch/121002",
+    "summary": "(MedPage Today) -- The Supreme Court seemed divided Monday over whether to block thousands of lawsuits alleging the maker of the weedkiller Roundup failed to warn people it could cause cancer. The case came before the justices after a tidal wave...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-28T18:53:49+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "Advanced Cardiogenic Shock Programs a Good Match for Sickest Patients, Study Finds",
+    "url": "https://www.medpagetoday.com/meetingcoverage/scai/121001",
+    "summary": "(MedPage Today) -- There was a survival advantage to having hospitals with mechanical circulatory support (MCS) escalation capabilities treat people with acute myocardial infarction with cardiogenic shock (AMICS), according to registry data. In...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-28T18:39:45+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "Psoriasis and Obesity: A 'Special' Relationship With Clinical Impact",
+    "url": "https://www.medpagetoday.com/meetingcoverage/aadvideopearls/121000",
+    "summary": "(MedPage Today) -- At the recent American Academy of Dermatology (AAD) annual meeting, a presentation called \"Psoriasis Beyond the Skin: Obesity, Metabolism, and Cardiovascular Risk,\" featuring Joel M. Gelfand, MD, of the University of Pennsylvania...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-28T17:56:56+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "GLP-1 Pill Spurred New Scripts; 'Food Noise' Phenomenon; Diabetes and Dementia",
+    "url": "https://www.medpagetoday.com/endocrinology/generalendocrinology/120999",
+    "summary": "(MedPage Today) -- First-time prescriptions for anti-obesity medications jumped by 21.7% around the time that oral semaglutide (Wegovy) for weight loss launched, according to Truveta data. Adults with obesity lost an average 16.6% of their body...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-28T17:44:46+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "Moderate Diet Change Tied to Renal Benefit in CKD",
+    "url": "https://www.medpagetoday.com/nephrology/generalnephrology/120997",
+    "summary": "(MedPage Today) -- Moderately restricting protein intake was associated with more favorable kidney outcomes in patients with stage 3 and 4 chronic kidney disease (CKD), an Israeli retrospective study indicated. Among 530 propensity score-matched...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-28T17:28:46+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "Former Top Fauci Advisor Indicted by DOJ",
+    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/120996",
+    "summary": "(MedPage Today) -- The Department of Justice (DOJ) charged David Morens, MD -- a top aide to Anthony Fauci, MD, during the pandemic -- with multiple federal crimes, accusing the former career scientist of using his private email to evade Freedom...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-28T16:45:09+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "Medical Board Wants AI Doctor Program 'Immediately Suspended'",
+    "url": "https://www.medpagetoday.com/practicemanagement/informationtechnology/120995",
+    "summary": "(MedPage Today) -- The Utah Medical Licensing Board has called for the immediate suspension of a state-run pilot program that would allow artificial intelligence (AI)-based prescription renewals, noting that it potentially places citizens at risk...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-28T16:32:06+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "'Father of Modern Cardiology' Dies; Camzyos and Afib; Preeclampsia Blood Filtering",
+    "url": "https://www.medpagetoday.com/cardiology/generalcardiology/120994",
+    "summary": "(MedPage Today) -- The \"father of modern cardiology\" Eugene Braunwald, MD, died at the age of 96, and he was honored with obituaries from the American College of Cardiology and New York Times among others. Blood pressure-lowering medication offered...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-28T15:51:02+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "Old Neural Pathways Die Hard",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/120993",
+    "summary": "(MedPage Today) -- I was sitting in morning rounds with my team when something happened that shocked me. \"You're being racist,\" my Black colleague Betty said to me and the other white members of the team. I came to medicine to do good. I descend...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-28T15:45:13+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "COVID-19 at Time of Heart Attack Linked to Higher Mortality Risk",
+    "url": "https://www.medpagetoday.com/meetingcoverage/scai/120992",
+    "summary": "(MedPage Today) -- Hospitalized patients who had both ST-elevation myocardial infarction (STEMI) and COVID-19 had an excess risk of mortality, even after discharge, according to long-term results from a registry analysis. In a group of over 2...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-28T15:29:41+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "Centene hikes 2026 profit guidance after buoyant Q1",
+    "url": "https://www.healthcaredive.com/news/centene-hikes-2026-profit-guidance-buoyant-q1/818581/",
+    "summary": "The insurer, a mainstay in government programs like Medicaid and the ACA exchanges that have been wracked by higher spending, successfully controlled costs in the quarter, leading to $1.5 billion in profit.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-28T16:31:21+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "Frequency of medical liability lawsuits is declining, but risk remains for doctors: AMA",
+    "url": "https://www.healthcaredive.com/news/frequency-medical-liability-lawsuits-declining-risk-remains-doctors-ama/818614/",
+    "summary": "The risk of being sued is higher among certain specialties like surgeons, and increases the longer doctors practice medicine, according to the medical association's new report.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-28T16:04:00+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "With ultrasound on a chip, Butterfly Network aims for global reach",
+    "url": "https://www.healthcaredive.com/news/with-ultrasound-on-a-chip-butterfly-network-aims-for-global-reach/818545/",
+    "summary": "Butterfly, which makes handheld imaging machines, hopes to make the technology accessible to more patients with its pricing and AI features.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-27T13:43:00+00:00",
+    "date_str": "Apr 27, 2026"
+  },
+  {
+    "title": "A look at the National Academy of Medicine’s Change Maker Accelerators Program",
+    "url": "https://www.fiercehealthcare.com/providers/look-national-academy-medicines-change-makers-accelerators-program",
+    "summary": "The program is part of NAM’s broader Change Maker campaign, which works to advance the national plan’s priority areas. About 520 organizations have become members since the campaign launched in October 2023.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-04-28T19:41:06.398398+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "IKS Health to acquire TruBridge in $557M deal",
+    "url": "https://www.fiercehealthcare.com/health-tech/iks-health-acquire-trubridge-557m-deal",
+    "summary": "The acquisition will combine IKS Health’s care enablement capabilities with TruBridge’s revenue cycle management and electronic health records (EHRs) solutions for rural and community hospitals. It is expected to support more than 2,000 healthcare organizations and more than 150,000 clinicians across the U.S.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-04-28T19:41:06.398456+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "Big companies position themselves for payday from $50B federal rural health fund",
+    "url": "https://www.fiercehealthcare.com/regulatory/big-companies-position-themselves-payday-50b-federal-rural-health-fund",
+    "summary": "State plans reveal that a heavy dose of prescribed spending will go to companies that can increase the use of electronic health records, strengthen cybersecurity, and improve state and health system technology platforms. And, at least four large-scale coalitions of companies are now pitching multipronged services to the states.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-04-28T19:41:06.398496+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "Centene raises 2026 guidance with strong Q1 revenue, earnings results",
+    "url": "https://www.fiercehealthcare.com/payers/centene-raises-2026-guidance-strong-q1-revenue-earnings-results",
+    "summary": "Centene kicked off the first quarter with better-than-expected revenue and adjusted earnings results, signaling a recovery from a rough 2025 as the insurer makes progress in managing medical costs.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-04-28T19:41:06.398528+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "CCS deploys enterprise-wide agentic AI across chronic care operations",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/ccs-deploys-enterprise-wide-agentic-ai-across-chronic-care-operations",
+    "summary": "CCS rolled out an agentic AI solution, dubbed CeeCee, that's designed to streamline the patient experience, improve medical supply workflows and boost operational efficiency, executives said.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-04-28T19:41:06.398557+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "UChicago Medicine, Artisight partner on system-wide rollout of smart hospital platform",
+    "url": "https://www.fiercehealthcare.com/hospitals/uchicago-medicine-artisight-partner-smart-hospital-platform-deployment",
+    "summary": "More than 1,800 devices will be deployed across patient rooms, post-anesthesia care units, operating rooms and UChicago’s new 575,000-square-foot cancer care facility, the organizations said.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-04-28T19:41:06.398589+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "RFK Jr. is holding up $600M in vaccines for poor countries",
+    "url": "https://www.politico.com/news/2026/04/28/rfk-vaccines-gavi-thimerosal-00893645",
+    "summary": "The distributor of the shots said it would cost tens of thousands of lives.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-04-28T14:00:00+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "Trump administration reverses on paying for fentanyl detection strips",
+    "url": "https://thehill.com/policy/healthcare/5853590-trump-reverses-harm-reduction-fentanyl/",
+    "summary": "The Trump administration is no longer allowing federal funds to be used for purchasing or distributing test strips that can determine if street drugs have been mixed or cut with fentanyl or other contaminants, a reversal that comes amid the administration’s broader opposition to harm reduction practices. In an open letter to federal grantees, the Substance Abuse and Mental Health Services Administration said it was ending...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-04-28T19:33:04+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "Former Fauci adviser indicted for attempting to avoid FOIA laws",
+    "url": "https://thehill.com/policy/healthcare/5852790-david-morens-anthony-fauci-adviser-nih-foia-records/",
+    "summary": "The Justice Department (DOJ) on Tuesday announced the indictment of David Morens, a former senior adviser to Dr. Anthony Fauci within the National Institutes of Health, for his alleged scheme to keep public records away from Freedom of Information Act (FOIA) requests. The DOJ said in a press release that Morens was being charged with...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-04-28T17:37:33+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "Cases of drug-resistant salmonella, several among kids, linked to outbreak; CDC issues warning",
+    "url": "https://thehill.com/policy/healthcare/5853039-backyard-poultry-salmonella-outbreak/",
+    "summary": "Roughly a dozen of the cases are among children younger than 5.",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-04-28T16:57:08+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "Cases of drug-resistant salmonella, several among kids, linked to outbreak; CDC issues warning",
+    "url": "https://thehill.com/policy/healthcare/5852825-cases-of-drug-resistant-salmonella-several-among-kids-linked-to-outbreak-cdc-issues-warning/",
+    "summary": "Roughly a dozen of the cases are among children younger than 5.",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-04-28T15:56:20+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
+    "title": "Nebraska is becoming the first state to implement a Medicaid work requirement signed by Trump",
+    "url": "https://thehill.com/homenews/state-watch/nebraska-medicaid-work-requirements/",
+    "summary": "OMAHA, Neb. (AP) — Nebraska on Friday will become the first state to enforce work, volunteer or education requirements for new Medicaid applicants, eight months before the federally mandated requirements kick in. Advocates worry that the state is launching so rapidly that key details remain unresolved and some people who are eligible for coverage will...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-04-28T04:00:18+00:00",
+    "date_str": "Apr 28, 2026"
+  },
+  {
     "title": "Why Healthcare AI Still Can’t Scale — and How Nvidia & Hoppr Are Trying to Fix It",
     "url": "https://medcitynews.com/2026/04/ai-healthcare-nvidia-hoppr-tech/",
     "summary": "Nvidia and Hoppr are betting that healthcare AI will scale not through standalone applications, but through a new infrastructure layer that lets providers develop and deploy their own imaging models. The post Why Healthcare AI Still Can’t Scale — and How Nvidia & Hoppr Are Trying to Fix It appeared first on MedCity News .",
