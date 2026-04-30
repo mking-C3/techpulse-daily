@@ -1,5 +1,175 @@
 [
   {
+    "title": "4 Notable Health Tech Funding Announcements in April",
+    "url": "https://medcitynews.com/2026/04/4-notable-health-tech-funding-announcements-in-april/",
+    "summary": "Health tech companies made several major funding announcements in April. Here is a list of some of the biggest funding rounds. The post 4 Notable Health Tech Funding Announcements in April appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-04-29T23:30:15+00:00",
+    "date_str": "Apr 29, 2026"
+  },
+  {
+    "title": "HHS appeals ruling that stalled many of Kennedy’s vaccine policy changes",
+    "url": "https://www.statnews.com/2026/04/29/hhs-appealing-acip-vaccine-policy-lawsuit-ruling/?utm_campaign=rss",
+    "summary": "The appeal is the latest twist in the closely watched lawsuit filed by the American Association of Pediatrics.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-30T00:36:04+00:00",
+    "date_str": "Apr 30, 2026"
+  },
+  {
+    "title": "STAT+: Supreme Court justices appear to signal ‘skinny labeling’ can survive",
+    "url": "https://www.statnews.com/pharmalot/2026/04/29/supreme-court-justices-debate-skinny-labeling-patent-infringement/?utm_campaign=rss",
+    "summary": "At Wednesday's argument, the justices did not appear to question whether skinny labeling is valid.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-29T22:15:57+00:00",
+    "date_str": "Apr 29, 2026"
+  },
+  {
+    "title": "A look at one of the farms RFK Jr. has pointed to as a model for 'reparenting'",
+    "url": "https://www.npr.org/2026/04/29/nx-s1-5745097/a-look-at-one-of-the-farms-rfk-jr-has-pointed-to-as-a-model-for-reparenting",
+    "summary": "The U.S. health secretary says he wants to shift addiction care toward an approach that includes rural farms or camps for people in recovery. Many addiction experts say the idea is outdated.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-29T21:55:10+00:00",
+    "date_str": "Apr 29, 2026"
+  },
+  {
+    "title": "Long a dream, it's now real: a fast and accurate TB test that doesn't need phlegm",
+    "url": "https://www.npr.org/2026/04/29/nx-s1-5802789/tb-tuberculosis-rapid-test",
+    "summary": "TB tests use phlegm — not the easiest thing to get or work with. It takes time for results. And there can be false negatives and positives. A new test is more accurate and takes less than half an hour.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-04-29T21:01:46+00:00",
+    "date_str": "Apr 29, 2026"
+  },
+  {
+    "title": "Find Alternative to Glucometers Linked With 114 Injuries, FDA Says",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/productalert/121033",
+    "summary": "(MedPage Today) -- Patients using recalled True Metrix blood glucose monitoring systems linked to one death and over 100 serious injuries should switch to an alternative testing method when possible, the FDA said on Tuesday. In a safety communication...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-29T21:44:46+00:00",
+    "date_str": "Apr 29, 2026"
+  },
+  {
+    "title": "Novel Mimetic Bispecific Antibody Superior to Standard Care in Hemophilia A",
+    "url": "https://www.medpagetoday.com/hematologyoncology/hemophilia/121032",
+    "summary": "(MedPage Today) -- Bleeding prophylaxis with the investigational factor VIIIa mimetic bispecific antibody Mim8 (denecimig) was superior to on-demand treatment and clotting factor concentrates among patients with hemophilia A with or without inhibitors...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-29T21:42:32+00:00",
+    "date_str": "Apr 29, 2026"
+  },
+  {
+    "title": "CDC Study Reveals a Sleep-Deprived Nation",
+    "url": "https://www.medpagetoday.com/neurology/sleepdisorders/121031",
+    "summary": "(MedPage Today) -- Nearly half of U.S. adults may not be getting enough sleep, CDC survey data suggested. In 2024, 30.5% of adults slept less than 7 hours per night on average, falling short of recommended guidelines, said Amanda Ng, PhD, MPH...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-29T21:35:13+00:00",
+    "date_str": "Apr 29, 2026"
+  },
+  {
+    "title": "High Rate of Surgical Success in Complex NSCLC With Neoadjuvant Chemoimmunotherapy",
+    "url": "https://www.medpagetoday.com/hematologyoncology/lungcancer/121030",
+    "summary": "(MedPage Today) -- Mediastinal lymph node clearance in stage III non-small cell lung cancer (NSCLC) more than doubled with the addition of immunotherapy to chemotherapy and facilitated more complete surgery, a small prospective study showed. Almost...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-29T21:02:49+00:00",
+    "date_str": "Apr 29, 2026"
+  },
+  {
+    "title": "Portable Tuberculosis Diagnostic Tool Matched Traditional Tests' Results",
+    "url": "https://www.medpagetoday.com/infectiousdisease/tuberculosis/121028",
+    "summary": "(MedPage Today) -- A portable tuberculosis (TB) molecular test system that works with sputum or tongue swabs matched the diagnostic accuracy of established TB tests and met World Health Organization (WHO) targets for near-point-of-care TB diagnostic...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-29T21:00:00+00:00",
+    "date_str": "Apr 29, 2026"
+  },
+  {
+    "title": "SCOTUS Sides With Anti-Abortion Center Raising 1st Amendment Fears About State Probe",
+    "url": "https://www.medpagetoday.com/obgyn/abortion/121029",
+    "summary": "(MedPage Today) -- The Supreme Court on Wednesday sided with a faith-based pregnancy center that raised First Amendment concerns about an investigation into whether it misled people to discourage abortions. The high court's unanimous ruling is...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-29T20:59:04+00:00",
+    "date_str": "Apr 29, 2026"
+  },
+  {
+    "title": "Here's Why This Healthcare Economist Likes High-Deductible Plans",
+    "url": "https://www.medpagetoday.com/special-reports/features/121027",
+    "summary": "(MedPage Today) -- In this series, MedPage Today is asking healthcare economists and policy experts the same questions about the high costs of U.S. healthcare. They'll reveal what they believe is working, what's not working, and what else can be...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-29T19:30:50+00:00",
+    "date_str": "Apr 29, 2026"
+  },
+  {
+    "title": "Understanding Treatment Strategies for HER2 Positive IHC3+ Metastatic Solid Tumors",
+    "url": "https://www.medpagetoday.com/ad-insights/industry-clinic/118691",
+    "summary": "(MedPage Today) -- The expert interviewed for this article is an internationally recognized specialist in the management of solid tumors and served as a paid consultant to Daiichi Sankyo and AstraZeneca on this article's content. Solid tumors...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-29T14:00:00+00:00",
+    "date_str": "Apr 29, 2026"
+  },
+  {
+    "title": "3 Deaths Tied to Medical Device; FDA Eyes Shock Ban; RFK Jr.'s Vaccine Aid Freeze",
+    "url": "https://www.medpagetoday.com/cardiology/interventionalcardiology/121014",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. The FDA warned of three deaths associated with Bolton Medical RelayPro thoracic stent graft systems that were recalled over an issue where the graft is unable to...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-04-29T13:30:44+00:00",
+    "date_str": "Apr 29, 2026"
+  },
+  {
+    "title": "Teladoc Health reports strong momentum behind BetterHelp insurance shift, CEO says",
+    "url": "https://www.fiercehealthcare.com/health-tech/teladoc-health-reports-strong-momentum-behind-betterhelp-insurance-shift-ceo-says",
+    "summary": "Teladoc Health reported a 2% decline in revenue in the first quarter, but the telehealth giant touted \"meaningful progress\" in scaling insurance coverage for its BetterHelp mental health business as a catalyst for future growth.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-04-30T02:52:22.541494+00:00",
+    "date_str": "Apr 30, 2026"
+  },
+  {
+    "title": "Universal Health Services' Q1 2026 earnings growth dampened by volume hits",
+    "url": "https://www.fiercehealthcare.com/providers/universal-health-services-q1-2026-earnings-growth-dampened-volume-hits",
+    "summary": "Executives asserted the acute and behavioral care provider will ramp up business and meet its growth target for the full year, and expanded on the company's Talkspace deal, exchange volumes and AI deployments.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-04-30T02:52:22.541564+00:00",
+    "date_str": "Apr 30, 2026"
+  },
+  {
+    "title": "Healthcare costs remain a top concern for voters as midterms loom: KFF",
+    "url": "https://www.fiercehealthcare.com/finance/healthcare-costs-remain-top-concern-voters-midterms-loom-kff",
+    "summary": "Despite concern about other expenses—such as fuel following the launch of the war in Iran—healthcare costs remain at the top of the list for economic fears, a new survey shows.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-04-30T02:52:22.541602+00:00",
+    "date_str": "Apr 30, 2026"
+  },
+  {
     "title": "Chiesi Group Grows Again in Rare Disease With $1.9B KalVista Acquisition",
     "url": "https://medcitynews.com/2026/04/chiesi-kalvista-acquisition-ekterly-rare-disease-hereditary-angioedema-hae-kalv/",
     "summary": "KalVista Pharmaceuticals brings to Chiesi Group the product Ekterly, the first FDA-approved oral drug for acute treatment of swelling attacks from the rare disease hereditary angioedema. Ekterly’s tablet formulation offers a dosing edge compared to injectable HAE medications. The post Chiesi Group Grows Again in Rare Disease With $1.9B KalVista Acquisition appeared first on MedCity News .",
