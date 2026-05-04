@@ -1,5 +1,245 @@
 [
   {
+    "title": "HHS’ Healthy Food Agenda Puts Hospitals on Notice About Patients’ Meals",
+    "url": "https://kffhealthnews.org/health-industry/hhs-healthy-hospital-food-patient-dietary-guidelines-backlash/",
+    "summary": "The backlash was immediate after the Trump administration served notice that hospitals and nursing homes should limit sugary drinks and dietary supplements in favor of what the Department of Health and Human Services terms “real food.”",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-04T09:00:00+00:00",
+    "date_str": "May 04, 2026"
+  },
+  {
+    "title": "She Survived 2 Shootings. Research Helps Explain Why Her Pain Persists Years Later.",
+    "url": "https://kffhealthnews.org/public-health/gun-violence-survivor-phantom-pain-research-minnesota/",
+    "summary": "Witnessing a shooting, hearing gunfire, losing someone, or living in a violent area can leave people with chronic pain and stress long afterward.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-04T09:00:00+00:00",
+    "date_str": "May 04, 2026"
+  },
+  {
+    "title": "Why EHRs Are Critical to Effective Revenue Cycle Management",
+    "url": "https://medcitynews.com/2026/05/why-ehrs-are-critical-to-effective-revenue-cycle-management/",
+    "summary": "EHRs not only document care but can also act as a financial engine to bridge the gap between patient care and prompt reimbursement. Here’s how to bring the two sides together to alleviate tedious administrative burdens. The post Why EHRs Are Critical to Effective Revenue Cycle Management appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-04T13:53:00+00:00",
+    "date_str": "May 04, 2026"
+  },
+  {
+    "title": "The Behavioral Health Workforce Crisis: Administrative Burden Is Breaking Your Nursing Team",
+    "url": "https://medcitynews.com/2026/05/the-behavioral-health-workforce-crisis-administrative-burden-is-breaking-your-nursing-team/",
+    "summary": "Automation can reduce manual labor, standardize documentation quality, strengthen payer accountability, and give leaders the data visibility to make confident decisions under tight time constraints. The post The Behavioral Health Workforce Crisis: Administrative Burden Is Breaking Your Nursing Team appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-04T13:32:00+00:00",
+    "date_str": "May 04, 2026"
+  },
+  {
+    "title": "Sleep Is the Missing Vital Sign, and Health AI Is Scaling the Consequences",
+    "url": "https://medcitynews.com/2026/05/sleep-is-the-missing-vital-sign-and-health-ai-is-scaling-the-consequences/",
+    "summary": "Sleep threads through cardiovascular function, metabolism, immune activity, and mental health. It happens nightly, which means it can produce a steady flow of information that, measured well, could tell us a lot about near-term changes and long-range risk. The post Sleep Is the Missing Vital Sign, and Health AI Is Scaling the Consequences appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-04T13:29:00+00:00",
+    "date_str": "May 04, 2026"
+  },
+  {
+    "title": "Top 7 Modern AI-Powered EAP Providers for Global Workforces in 2026",
+    "url": "https://medcitynews.com/2026/05/top-7-modern-ai-powered-eap-providers-for-global-workforces-in-2026/",
+    "summary": "[Sponsored] Discover the top AI-powered EAP providers for 2026. Compare platforms like Kyan Health and Spring Health on triage speed, global reach, and clinical quality to transform workforce wellbeing. The post Top 7 Modern AI-Powered EAP Providers for Global Workforces in 2026 appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-04T13:10:00+00:00",
+    "date_str": "May 04, 2026"
+  },
+  {
+    "title": "The Power of Real World Data to Study Women’s Health at Scale",
+    "url": "https://medcitynews.com/2026/05/the-power-of-real-world-data-to-study-womens-health-at-scale/",
+    "summary": "[Sponsored] A new report from Veradigm examines key clinical trends, comorbidity profiles, and treatment trends across adolescence, reproductive years, and peri-/post-menopause. Download it today! The post The Power of Real World Data to Study Women’s Health at Scale appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-04T11:30:00+00:00",
+    "date_str": "May 04, 2026"
+  },
+  {
+    "title": "What to know about hantavirus, the illness suspected in a cruise ship outbreak",
+    "url": "https://www.statnews.com/2026/05/04/what-to-know-about-hantavirus-cruise-ship-outbreak/?utm_campaign=rss",
+    "summary": "A rodent-borne illness is suspected of causing an outbreak aboard a cruise ship that has killed three people and sickened others. Here's what to know about hantavirus.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-04T13:59:26+00:00",
+    "date_str": "May 04, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about an abortion pill controversy, another UCB deal, and more news",
+    "url": "https://www.statnews.com/pharmalot/2026/05/04/abortion-pill-mifepristone-controversy-ucb-deal/?utm_campaign=rss",
+    "summary": "Two drugmakers asked the U.S. Supreme Court to restore mail-order access to the abortion pill mifepristone, after an appeals court suspended deliveries",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-04T13:58:35+00:00",
+    "date_str": "May 04, 2026"
+  },
+  {
+    "title": "Federal court blocks mailing of mifepristone",
+    "url": "https://www.statnews.com/2026/05/04/health-news-federal-court-blocks-mailing-of-mifepristone/?utm_campaign=rss",
+    "summary": "Longevity \"blue zones,\" an update on uterine transplant science, and more Morning Rounds health news",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-04T13:28:02+00:00",
+    "date_str": "May 04, 2026"
+  },
+  {
+    "title": "STAT+: Biotech raises $42 million to run Huntington’s disease trial",
+    "url": "https://www.statnews.com/2026/05/04/biotech-startup-latus-bio-raises-42-million-run-huntingtons-trial/?utm_campaign=rss",
+    "summary": "Latus Bio raised $42 million as it prepares to seek FDA approval to start a clinical trial for its gene therapy for Huntington's disease.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-04T11:00:00+00:00",
+    "date_str": "May 04, 2026"
+  },
+  {
+    "title": "Opinion: STAT+: China’s strict new supply chain regulations could create massive problems for Western biopharma companies",
+    "url": "https://www.statnews.com/2026/05/04/china-biotech-pharmaceuticals-supply-chain-regulations/?utm_campaign=rss",
+    "summary": "China is now a peer competitor in drug innovation — and it intends to stay that way on its own terms, writes Dennis Kwok.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-04T08:30:00+00:00",
+    "date_str": "May 04, 2026"
+  },
+  {
+    "title": "Opinion: Are blue zones real? Answering that question is harder than ever",
+    "url": "https://www.statnews.com/2026/05/04/are-blue-zones-real-new-scrutiny-longevity-hot-spots/?utm_campaign=rss",
+    "summary": "\"Blue zones\" as a concept have strayed far and wide from their humble roots, write Shelley Wood and Eric Topol.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-04T08:30:00+00:00",
+    "date_str": "May 04, 2026"
+  },
+  {
+    "title": "Immigration changes are driving foreign researchers to leave the U.S. — or not come to begin with",
+    "url": "https://www.statnews.com/2026/05/04/trump-immigration-policy-stat-survey-measures-science-impact/?utm_campaign=rss",
+    "summary": "Labs are seeing fewer applications from international students and researchers, and some doctoral students are considering leaving early.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-04T08:30:00+00:00",
+    "date_str": "May 04, 2026"
+  },
+  {
+    "title": "Here's how medication abortion works with just one drug that's still fully available",
+    "url": "https://www.npr.org/2026/05/04/g-s1-119947/telehealth-abortion-mifepristone-misoprostol",
+    "summary": "A federal appeals court ruling restricts telemedicine access to the abortion drug mifepristone for the whole country, at least temporarily. But another drug that remains available is safe and effective at ending early pregnancy.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-04T11:38:48+00:00",
+    "date_str": "May 04, 2026"
+  },
+  {
+    "title": "The oldest millennials are 45! This tool helps plan for longevity",
+    "url": "https://www.npr.org/2026/05/04/nx-s1-5787940/tool-survey-helps-plan-aging-longevity-retirement",
+    "summary": "The oldest millennials are turning 45 this year. The oldest Gen Xers are now 60. So how prepared will they be to thrive in the decades ahead? A new tool helps people assess beyond just savings.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-04T09:00:00+00:00",
+    "date_str": "May 04, 2026"
+  },
+  {
+    "title": "How states are planning to implement Medicaid work requirements: survey",
+    "url": "https://www.healthcaredive.com/news/state-medicaid-work-requirements-implementation-decisions-kff-georgetown-center-children-families/819013/",
+    "summary": "Most states are planning to adopt less restrictive policies to verify compliance with work requirements mandated by the “Big Beautiful Bill” passed last year , but some are implementing the policies early or checking eligibility more frequently.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-04T13:49:00+00:00",
+    "date_str": "May 04, 2026"
+  },
+  {
+    "title": "Preparing for the 2026 HIPAA changes: A practical guide for healthcare leaders",
+    "url": "https://www.healthcaredive.com/spons/preparing-for-the-2026-hipaa-changes-a-practical-guide-for-healthcare-lead/818489/",
+    "summary": "Prepare for 2026 HIPAA changes with clear steps to secure data and stay compliant.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-04T09:00:00+00:00",
+    "date_str": "May 04, 2026"
+  },
+  {
+    "title": "What’s next for post-acute care: Data, collaboration and the path forward",
+    "url": "https://www.healthcaredive.com/spons/whats-next-for-post-acute-care-data-collaboration-and-the-path-forward/815073/",
+    "summary": "Post-acute care is moving to the center of payer strategy. Here’s why it matters.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-04T09:00:00+00:00",
+    "date_str": "May 04, 2026"
+  },
+  {
+    "title": "The Case for a More Proactive Payment Integrity Program",
+    "url": "https://www.fiercehealthcare.com/sponsored/your-payment-integrity-partner-shouldnt-be-problem",
+    "summary": "Spring is the season of renewals and hard conversations. If your payment integrity program hasn't kept pace with a shifting market, the gap between what you're paying and what you should be paying is growing every day. Here's what a proactive approach actually looks like.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-04T14:00:07.381288+00:00",
+    "date_str": "May 04, 2026"
+  },
+  {
+    "title": "How MRD Testing Is Reshaping Breast Cancer Risk Assessment",
+    "url": "https://www.fiercehealthcare.com/sponsored/how-mrd-testing-reshaping-breast-cancer-risk-assessment",
+    "summary": "New B-59 data shows circulating tumor DNA (ctDNA) and molecular residual disease (MRD) testing can better predict recurrence risk and help guide more personalized care in TNBC.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-04T14:00:07.381347+00:00",
+    "date_str": "May 04, 2026"
+  },
+  {
+    "title": "Orchestrating Affordability: The Critical New Role of the Health Plan",
+    "url": "https://www.fiercehealthcare.com/sponsored/orchestrating-affordability-critical-new-role-health-plan",
+    "summary": "Affordability won’t come from being a passive payer. See how health plans can connect networks, benefits, and experience to lower total cost.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-04T14:00:07.381385+00:00",
+    "date_str": "May 04, 2026"
+  },
+  {
+    "title": "A deeper dive into the ACCESS Model—Who’s participating, potential headwinds and how it could spur health plan adoption",
+    "url": "https://www.fiercehealthcare.com/health-tech/deeper-dive-access-model-whos-participating-potential-headwinds-and-how-it-could-spur",
+    "summary": "Many of the 150 digital health companies tapped to participate in the first cohort of the ACCESS model are bullish that it marks an inflection point for connected care and a way to prove out that AI-enabled medical services can move the needle on cost and quality.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-04T14:00:07.381425+00:00",
+    "date_str": "May 04, 2026"
+  },
+  {
+    "title": "A suspected outbreak of the rare hantavirus on a cruise ship in the Atlantic kills 3 people",
+    "url": "https://thehill.com/policy/healthcare/hantavirus-outbreak-suspected-cruise-ship-atlantic-ocean/",
+    "summary": "CAPE TOWN, South Africa (AP) — A suspected outbreak of the rare hantavirus infection on a cruise ship in the Atlantic Ocean killed three people, including an elderly married couple, and sickened at least three others, the World Health Organization and South Africa's Department of Health said Sunday. In a statement to The Associated Press,...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-04T01:32:27+00:00",
+    "date_str": "May 04, 2026"
+  },
+  {
     "title": "Hantavirus outbreak kills 3 on cruise ship in the Atlantic Ocean, WHO says",
     "url": "https://www.npr.org/2026/05/03/nx-s1-5809495/hantavirus-outbreak-cruise-ship-atlantic-ocean",
     "summary": "Hantaviruses are usually spread by exposure to urine, saliva or feces from infected rodents, such as rats or mice. Hantavirus infections are rare but can cause deadly respiratory infections.",
