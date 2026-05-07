@@ -1,5 +1,215 @@
 [
   {
+    "title": "That Discount at the Pharmacy Counter May Pack Hidden Costs",
+    "url": "https://kffhealthnews.org/health-care-costs/pharmacy-discount-coupons-hidden-costs/",
+    "summary": "The new TrumpRx program relies partly on connecting consumers with discount coupons offered by drugmakers. For insured patients, though, using a coupon can prove dicey.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-07T09:00:00+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "Trump Promised Cheaper Drugs. Some Prices Dropped. Many Others Shot Up.",
+    "url": "https://kffhealthnews.org/health-care-costs/trumprx-reality-check-drugs-not-always-cheaper/",
+    "summary": "For all Trump’s showmanship, the share of Americans his policies will likely help remains slim, even if some patients do come out ahead.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-07T09:00:00+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "Patient Responsibility Is Rising — The Payment Experience Needs to Keep Up",
+    "url": "https://medcitynews.com/2026/05/patient-responsibility-is-rising-the-payment-experience-needs-to-keep-up/",
+    "summary": "Payment friction isn’t always obvious. It shows up in extended accounts receivable timelines, increased billing inquiries, and patients who delay payment – not because they’re unwilling to pay, but because the process made it harder than it needed to be. The post Patient Responsibility Is Rising — The Payment Experience Needs to Keep Up appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-07T13:45:00+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "Lack of Trust, Not Technology, is What’s Stopping Health Plans from Meeting Their Mission and Financial Objectives",
+    "url": "https://medcitynews.com/2026/05/lack-of-trust-not-technology-is-whats-stopping-health-plans-from-meeting-their-mission-and-financial-objectives/",
+    "summary": "Healthcare often expects consumers to contort themselves around processes that were never built with them in mind — and that’s where the trust issue begins. With the looming arrival of HR1, how to fix it. The post Lack of Trust, Not Technology, is What’s Stopping Health Plans from Meeting Their Mission and Financial Objectives appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-07T13:34:00+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Sanofi and an FDA voucher, FDA rethinking a rejection, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/05/07/sanofi-diabetes-drug-voucher-fda-rethinking-rare-disease-rejection/?utm_campaign=rss",
+    "summary": "Sanofi asked the FDA to pull teplizumab out of a speedy review voucher program after a political appointee disagreed with staff over its approval",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-07T13:47:21+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "STAT+: FDA to reconsider treatment for rare cancer after surprise rejection",
+    "url": "https://www.statnews.com/2026/05/07/biotech-news-fda-reconsiders-rare-cancer-treatment-after-surprise-rejection/?utm_campaign=rss",
+    "summary": "Secret drug pricing deals, a virtual AI cancer clinic, and other biotech news from The Readout",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-07T13:23:56+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "STAT+: OpenAI’s health policy wishlist, CGM news from Dexcom, and more",
+    "url": "https://www.statnews.com/2026/05/07/openai-policy-wishlist-dexcom-cgm-updates-health-tech/?utm_campaign=rss",
+    "summary": "In this edition of STAT Health Tech: A health policy blueprint from OpenAI, CGM updates from Dexcom, and push back against whole body scans.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-07T13:14:13+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "STAT+: FDA to reconsider treatment for rare cancer after its surprise rejection",
+    "url": "https://www.statnews.com/2026/05/07/fda-reconsider-rare-disease-drug-ebvallo/?utm_campaign=rss",
+    "summary": "The companies developing Ebvallo reached an agreement with the FDA to address its main reason for rejecting the drug.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-07T12:00:00+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "Hospital shootings steadily increased since 2000",
+    "url": "https://www.statnews.com/2026/05/07/health-news-hospital-shootings-steadily-on-the-rise/?utm_campaign=rss",
+    "summary": "What the FDA has lost, why hantavirus isn't the next pandemic, and more health news from Morning Rounds",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-07T11:36:24+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "STAT+: Next-gen Duchenne drug from Entrada disappoints",
+    "url": "https://www.statnews.com/2026/05/07/entrada-duchenne-exon-skipping-study-disappointment/?utm_campaign=rss",
+    "summary": "A next-gen Duchenne therapy from Entrada Therapeutics fell short in an early study, as a number of companies race to make improved drugs.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-07T11:05:12+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "STAT+: Color me skeptical: Drinking gold is not an ALS cure",
+    "url": "https://www.statnews.com/2026/05/07/clene-als-treatment-gold-does-it-work/?utm_campaign=rss",
+    "summary": "In this week's Biotech Scorecard newsletter, Adam Feuerstein takes on the company touting gold microdust suspended in water as an ALS treatment.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-07T10:30:00+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "STAT+: Angelini Pharma buys Catalyst Pharmaceuticals and its rare disease drugs for $4.1B",
+    "url": "https://www.statnews.com/2026/05/07/angelini-pharma-acquires-catalyst-pharmaceuticals-rare-disease-neurology-firdapse/?utm_campaign=rss",
+    "summary": "The Italian firm Angelini Pharma is buying Catalyst Pharmaceuticals, the maker of rare disease drugs, for $4.1 billion.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-07T08:34:18+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "These families help researchers find Alzheimer's treatments. Their network is at risk",
+    "url": "https://www.npr.org/2026/05/07/nx-s1-5759696/early-alzheimers-families-network-risk",
+    "summary": "Families with rare gene mutations that cause Alzheimer's in middle age are giving scientists a unique window on the disease, and a quick way to test potential treatments.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-07T13:32:13+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "Psychiatrists say RFK Jr.'s take on SSRIs is an 'oversimplification' of the problem",
+    "url": "https://www.npr.org/2026/05/07/nx-s1-5814083/rfk-jr-hhs-ssri-antidepressant-psychiatry-therapy-mental-health",
+    "summary": "The American Psychiatric Association says too few patients can access comprehensive mental health care in the United States. It welcomes new investments in improving access to evidence-based care.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-07T10:00:00+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "About 40 passengers previously left ship hit by Hantavirus at island of St. Helena",
+    "url": "https://www.npr.org/2026/05/07/nx-s1-5814632/passengers-left-ship-hantavirus-st-helena",
+    "summary": "The dozens of passengers, including the wife of a Dutch man who died, left the cruise ship during a stop at the British territory, the Dutch foreign ministry said on Thursday.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-07T08:44:06+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "The FDA has approved the sale of fruit-flavored vapes. What's behind the shift?",
+    "url": "https://www.npr.org/2026/05/07/nx-s1-5813637/the-fda-has-approved-the-sale-of-fruit-flavored-vapes-whats-behind-the-shift",
+    "summary": "NPR's Leila Fadel asks Mitch Zeller, former director of the FDA's Center for Tobacco Products, about the agency's approval of fruit-flavored electronic cigarettes.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-07T08:40:36+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "FDA warns of neurosurgical supply disruptions",
+    "url": "https://www.healthcaredive.com/news/fda-warns-of-neurosurgical-supply-disruptions/819527/",
+    "summary": "Interruptions in the supply of neurosurgical patties, sponges and strips are expected to continue through 2026.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-06T19:38:47+00:00",
+    "date_str": "May 06, 2026"
+  },
+  {
+    "title": "Hims & Hers debuts its first AI care agent to interpret biomarker lab results",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hims-hers-debuts-labs-ai-ai-care-agent-interpret-lab-results",
+    "summary": "Labs AI is a custom-built AI system that reasons across customers’ biomarker histories and personal health profiles to produce insights that are specific, safe and actionable.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-07T14:07:36.448805+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "Oscar Health's profit hits $679M, membership rises in Q1",
+    "url": "https://www.fiercehealthcare.com/payers/oscar-healths-profit-hits-679m-membership-rises-q1",
+    "summary": "Oscar Health is seeing some favorable signs on the embattled individual market.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-07T14:07:36.448867+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "Nearly 8 in 10 employers say GLP-1 coverage drives up benefit costs: Business Group on Health",
+    "url": "https://www.fiercehealthcare.com/finance/nearly-8-10-employers-say-glp-1-coverage-spiking-benefit-costs-business-group-health",
+    "summary": "Seventy-two percent of respondents said they would likely continue GLP-1 coverage through 2027 while 10% do not expect to continue coverage.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-07T14:07:36.448909+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "Utah becomes center of latest measles outbreak in US",
+    "url": "https://thehill.com/policy/healthcare/5867072-utah-measles-outbreak-2026/",
+    "summary": "Utah has become the latest epicenter for measles transmission in the U.S., going down a similar path to Texas’s outbreak last year, where a small under-vaccinated pocket within the state fueled widespread transmission. While the measles outbreak in South Carolina came to end last month, Utah has become the country’s new hotspot. As of this week, the Utah Department of Health and Human Services has confirmed 441 cases...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-07T10:00:00+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
     "title": "Public health experts are worried about the cruise ship hantavirus outbreak, but not for the reason you might think",
     "url": "https://www.statnews.com/2026/05/07/hantavirus-cruise-ship-outbreak-scientists-say-not-new-pandemic/?utm_campaign=rss",
     "summary": "Scientists are worried that hantaviruses haven’t been as well studied as they ought to be, but not that the MV Hondius cruise ship is ground zero for the next pandemic.",
@@ -9787,216 +9997,6 @@
     "category": "Drug Coverage",
     "category_slug": "drug-coverage",
     "date": "2026-04-22T21:37:37.116009+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "UnitedHealthcare to eliminate most prior authorizations for rural providers",
-    "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-unveils-pilot-accelerate-payments-rural-hospitals",
-    "summary": "UnitedHealthcare is building on its work to support rural hospitals, and will now exempt these facilities from most prior authorizations.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-22T21:37:37.116037+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "CVS, Mass General Brigham primary care deal would increase annual care spending by $40M, report predicts",
-    "url": "https://www.fiercehealthcare.com/providers/cvs-mass-general-brigham-primary-care-deal-would-increase-annual-care-spending-40m-report",
-    "summary": "A \"conservative\" preliminary estimate from a Massachusetts watchdog agency acknowledged likely access gains from a pending MinuteClinic affiliation deal, but said the major health system's higher prices would substantially boost commercial healthcare spending.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-22T21:37:37.116069+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "Chutes & Ladders—Blue Shield of California names chief pharmacy officer; ChristianaCare CEO to retire",
-    "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
-    "summary": "Welcome to this week's Chutes & Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-22T21:37:37.116112+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "Physician burnout falls for third year in 2025 to 42%, AMA data shows",
-    "url": "https://www.fiercehealthcare.com/providers/physician-burnout-falls-third-year-2025-419-american-medical-association",
-    "summary": "Specialties reporting the highest levels of burnout include emergency medicine, urological surgery and radiology while the lowest rates of burnout were reported among infectious diseases, nephrology and dermatology.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-22T21:37:37.116140+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "A look inside Highmark and Spring Health's mental well-being partnership",
-    "url": "https://www.fiercehealthcare.com/payers/look-inside-highmark-and-spring-healths-mental-well-being-partnership",
-    "summary": "Just over two years ago, Highmark joined forces with Spring Health to launch a new mental well-being platform that made it far easier for members to access critical services. Now, the partners are offering a look at how that program has worked for members.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-22T21:37:37.116172+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "California Lawmakers Seek Protections for Patients in ICE Custody",
-    "url": "https://kffhealthnews.org/health-industry/ice-custody-immigrant-patient-protection-california-legislation/",
-    "summary": "Moving through the California Senate are two bills, informed by KFF Health News reporting, that would strengthen protections for patients brought to health facilities by Immigration and Customs Enforcement.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-22T12:40:00+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "Montana Moves Ahead With Doula Pay but Warns Medicaid Cuts Still May Come",
-    "url": "https://kffhealthnews.org/medicaid/doula-care-pregnancy-medicaid-montana-budget-cuts/",
-    "summary": "Montana health officials say they’re seeking to add doula services to the state’s Medicaid program, reversing a previous statement that they would “not be moving forward” amid a budget shortfall.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-22T09:00:00+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "They’re in Remission, but Their Medical Bills Aren’t: Cancer Survivors Navigate Soaring Costs",
-    "url": "https://kffhealthnews.org/health-care-costs/cancer-survival-costs-testing-treatment-premiums-deductibles-trump/",
-    "summary": "The costs of posttreatment care are forcing cancer survivors to make tough choices. GOP proposals to bring down health insurance costs won’t help people who need constant care and monitoring, health policy researchers and patient advocates say.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-22T09:00:00+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "Listen to the Latest ‘KFF Health News Minute’",
-    "url": "https://kffhealthnews.org/news/listen-to-the-latest-kff-health-news-minute-2026/",
-    "summary": "The \"KFF Health News Minute” brings original health care and health policy reporting from our newsroom to the airwaves each week.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-21T14:00:00+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "Real Estate Investors Profit From Long-Term Care While Residents Languish",
-    "url": "https://kffhealthnews.org/health-industry/real-estate-investment-trusts-senior-housing-nursing-homes-profit/",
-    "summary": "Real estate investment trusts are landlords for thousands of nursing homes, assisted living facilities, and hospitals. Some select the managers and keep close watch over their performance but deny responsibility for bad care.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-21T09:00:00+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "Listen: Cheap Health Insurance Isn’t Always Cheap",
-    "url": "https://kffhealthnews.org/insurance/listen-health-care-helpline-life-kit-high-deductible-plans-out-of-pocket-costs/",
-    "summary": "Across the country, people are choosing lower monthly premiums in exchange for higher out-of-pocket risk. Reporter Jackie Fortiér explains what the shift means for Americans’ health and wallets.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-21T09:00:00+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "Democrats Demand Trump Administration Halt Plan To Collect Federal Workers’ Health Data",
-    "url": "https://kffhealthnews.org/health-industry/opm-federal-workers-health-records-hipaa-democratic-letters/",
-    "summary": "After KFF Health News reported that the Trump administration is seeking federal workers’ medical records, Democratic lawmakers are insisting that the Office of Personnel Management drop its request.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-21T09:00:00+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "In Connecticut, Doctors Now Sue Patients Most Over Medical Bills, Surpassing Hospitals",
-    "url": "https://kffhealthnews.org/news/medical-debt-connecticut-doctors-sue-patients/",
-    "summary": "Physicians, dentists, and other nonhospital providers account for more than 80% of health care debt collection cases in Connecticut courts, a CT Mirror-KFF Health News investigation finds.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-20T09:00:00+00:00",
-    "date_str": "Apr 20, 2026"
-  },
-  {
-    "title": "Journalists Talk Hot Health Topics: Urgent Care Clinics Performing Abortions and Doulas’ Pay",
-    "url": "https://kffhealthnews.org/on-air/on-air-april-18-2026-urgent-care-abortion-doulas-farm-bureau-health-plans/",
-    "summary": "KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here’s a collection of their appearances.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-18T09:00:00+00:00",
-    "date_str": "Apr 18, 2026"
-  },
-  {
-    "title": "States Update Guardianship Laws To Keep Children of Immigrants Out of Foster Care",
-    "url": "https://kffhealthnews.org/mental-health/the-week-in-brief-immigrant-children-guardianship-laws/",
-    "summary": "Get our weekly newsletter, The Week in Brief, featuring a roundup of our original coverage, Fridays at 2 p.m. ET.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-17T18:30:00+00:00",
-    "date_str": "Apr 17, 2026"
-  },
-  {
-    "title": "STAT+: Federal test of AI prior authorization is delaying care for seniors, report says",
-    "url": "https://www.statnews.com/2026/04/22/cms-wiser-program-delays-care-washington-state-hospitals-senator-says/?utm_campaign=rss",
-    "summary": "A new Medicare prior authorization test is delaying care at Washington state hospitals – and should be scrapped, senator says.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-22T21:13:11+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "Former tobacco executive joins CDC senior leadership, raising concerns over industry influence",
-    "url": "https://www.statnews.com/2026/04/22/newly-appointed-cdc-official-has-tobacco-industry-ties/?utm_campaign=rss",
-    "summary": "Naming a former Imperial Brands executive for a CDC job is the latest example, advocates say, of tobacco industry influence in Trump administration.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-22T21:12:32+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "STAT+: At AACR, talk of Chinese biotech, oncology’s comms issue, and more",
-    "url": "https://www.statnews.com/2026/04/22/aacr-2026-revolution-medicines-astrazeneca-oncology-research/?utm_campaign=rss",
-    "summary": "At AACR, there was talk of Chinese biotech's place in cancer research, oncology’s comms issue, and more.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-22T18:29:47+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "Video: Robert F. Kennedy Jr. testifies before Senate HELP committee",
-    "url": "https://www.statnews.com/2026/04/22/video-coverage-rfk-jr-testimony-senate-help-committee/?utm_campaign=rss",
-    "summary": "Watch RFK Jr. testify before the Senate's health care panel.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-22T17:40:00+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "Increased calls to 988 hotline associated with a drop in suicides among young people, study finds",
-    "url": "https://www.statnews.com/2026/04/22/988-hotline-linked-11-percent-drop-youth-suicide-jama-study/?utm_campaign=rss",
-    "summary": "Suicide rates among young people dropped 11% after the U.S. launched the 988 national suicide and crisis hotline, a new study shows",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-22T15:00:00+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "STAT+: Gene therapy trial for deafness adds evidence to drug’s efficacy",
-    "url": "https://www.statnews.com/2026/04/22/gene-therapy-deafness-otof-gene-targeted-impressive-trial-results/?utm_campaign=rss",
-    "summary": "After gene therapy for a rare form of deafness, 90% of participants in a clinical trial in China had significant improvement in hearing.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-22T15:00:00+00:00",
     "date_str": "Apr 22, 2026"
   }
 ]
