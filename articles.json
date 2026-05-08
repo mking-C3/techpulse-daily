@@ -1,5 +1,155 @@
 [
   {
+    "title": "Healthcare Bankruptcies Rise in Q1: 6 Things to Know",
+    "url": "https://medcitynews.com/2026/05/healthcare-bankruptcies/",
+    "summary": "A new report from Gibbins Advisors showed that healthcare bankruptcy filings rose 33% in the first quarter of 2026, driven mostly by outpatient and senior care providers. At the same time, hospital M&A activity rebounded to its strongest first quarter since early 2020. The post Healthcare Bankruptcies Rise in Q1: 6 Things to Know appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-08T00:25:11+00:00",
+    "date_str": "May 08, 2026"
+  },
+  {
+    "title": "Angelini Pharma’s $4B Acquisition Adds Rare Disease Drugs to a Global Growth Strategy",
+    "url": "https://medcitynews.com/2026/05/angelini-pharma-catalyst-pharmaceuticals-acquisition-rare-disease-neurology-firdapse-cprx/",
+    "summary": "Angelini Pharma’s acquisition of Catalyst Pharmaceuticals is part of a transformation strategy focused on neurological medicines. Catalyst’s top product is Firdapse, the first FDA-approved drug for a particular rare neuromuscular disorder. The post Angelini Pharma’s $4B Acquisition Adds Rare Disease Drugs to a Global Growth Strategy appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-07T20:42:09+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "Fraudulent citations, blamed on AI hallucinations, are becoming more common in research papers",
+    "url": "https://www.statnews.com/2026/05/07/lancet-study-finds-steep-rise-fraudulent-citations-academic-papers/?utm_campaign=rss",
+    "summary": "“Fabricated” citations that do not reference real academic papers are spreading in the literature, polluting the public record of science, a new study found",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-07T22:30:00+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "Alcohol warning labels that link drinking to cancer are effective, study says",
+    "url": "https://www.npr.org/2026/05/07/nx-s1-5807961/alcohol-warning-labels-that-link-drinking-to-cancer-are-effective-study-says",
+    "summary": "A new study finds updated warning labels pointing out the increased risks of specific diseases, like cancer, would do a better job of encouraging people to drink less alcohol than the current warning.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-07T21:02:19+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "Is hantavirus the next COVID? Is the U.S. response on point? An outbreak update",
+    "url": "https://www.npr.org/2026/05/07/nx-s1-5814761/hantavirus-likely-not-the-next-covid",
+    "summary": "The outbreak began in early April on a cruise ship. Now health authorities around the world are working to contain it. Here's what infectious disease experts have to say.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-07T20:43:27+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "With legal briefs in, Supreme Court weighs telehealth access for the abortion pill",
+    "url": "https://www.npr.org/2026/05/07/nx-s1-5815294/abortion-pill-mifepristone-supreme-court-telemedicine",
+    "summary": "After an appeals court tried to end telemedicine access to mifepristone, one of the two pills used in a medication abortion, the Supreme Court stepped in. Here's what's happened and what's to come.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-07T20:33:54+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "'Tip of the Iceberg': Study Uncovers AI-Fabricated Citations in Research Papers",
+    "url": "https://www.medpagetoday.com/practicemanagement/informationtechnology/121165",
+    "summary": "(MedPage Today) -- Fabricated citations are an increasing problem coinciding with the widespread use of artificial intelligence (AI) tools in writing and editing, an analysis of biomedical research papers showed. Out of 97.1 million verified references...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-07T22:30:00+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "Hantavirus Outbreak: 'Not the Next COVID' but Still Cause for Concern",
+    "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/121163",
+    "summary": "(MedPage Today) -- The cruise ship-related hantavirus outbreak is not going to be the next COVID-like global pandemic, but experts are still concerned by the potential number of people exposed -- particularly during a flight from St. Helena to...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-07T21:35:53+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "One Blood Marker Is Tied to Cognition and Mortality in People Who Live Past 100",
+    "url": "https://www.medpagetoday.com/neurology/dementia/121162",
+    "summary": "(MedPage Today) -- Neurofilament light chain (NfL), a measure of neuronal injury, emerged as a key blood-based biomarker associated with both cognitive function and survival in centenarians, a Japanese cohort study showed. Higher plasma NfL levels...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-07T20:27:46+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "CMS Mulls Auto-Enrolling Seniors Into Medicare Advantage",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/medicare/121161",
+    "summary": "(MedPage Today) -- When your patients turn 65, will they automatically be enrolled in a Medicare Advantage plan or accountable care organization (ACO)? That idea is now on the Trump administration's radar. CMS is currently mulling a plan that...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-07T19:58:51+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "EPA Will Move Forward With Plans to Propose Weakening Some Biden-Era PFAS Limits",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/environmentalhealth/121160",
+    "summary": "(MedPage Today) -- The Trump administration will soon propose softening Biden-era limits on \"forever chemicals\" in drinking water, delaying but keeping tough standards for two common types and rescinding limits on some rarer forms of the substance...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-07T19:36:05+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "5-Year Data Support Top-Down Therapy in Crohn's Disease",
+    "url": "https://www.medpagetoday.com/meetingcoverage/ddw/121159",
+    "summary": "(MedPage Today) -- A \"top-down\" approach of early aggressive therapy for Crohn's disease continued to achieve better outcomes versus a conventional accelerated \"step-up\" approach, long-term follow-up data from the PROFILE trial showed. At 5-year...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-07T19:24:22+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "Amazon Pharmacy to offer home delivery for Novo Nordisk's Ozempic pill",
+    "url": "https://www.fiercehealthcare.com/retail/amazon-pharmacy-offer-home-delivery-novo-nordisks-ozempic-pill",
+    "summary": "Amazon Pharmacy will make Novo Nordisk's Ozempic pill available for home delivery, the company announced Thursday.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-08T02:52:42.289286+00:00",
+    "date_str": "May 08, 2026"
+  },
+  {
+    "title": "Clover Health's MA membership grows 51% year-over-year",
+    "url": "https://www.fiercehealthcare.com/payers/clover-healths-ma-membership-grows-51-year-over-year",
+    "summary": "Clover Health's membership climbed 51% year-over-year in the first quarter, reaching 155,773, per its earnings report released Wednesday.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-08T02:52:42.289337+00:00",
+    "date_str": "May 08, 2026"
+  },
+  {
+    "title": "5 things to know about hantavirus after cruise ship outbreak",
+    "url": "https://thehill.com/policy/healthcare/5868519-hantavirus-outbreak-public-health/",
+    "summary": "An outbreak of hantavirus aboard a Dutch cruise ship in the Atlantic Ocean is raising concerns about the virus among members of the public wary about another global outbreak. At least three passengers who were aboard the MV Hondius have died, and five other people have been sickened after showing symptoms of the hantavirus. The ship’s operator, Oceanwide Expeditions, said no symptomatic individuals remain on board. Some passengers,...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-07T20:20:07+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
     "title": "Debunked Episode 26: A Conversation on How to Improve Healthcare",
     "url": "https://medcitynews.com/2026/05/debunked-episode-26-a-conversation-on-how-to-improve-healthcare/",
     "summary": "Improving healthcare was a central theme of the latest episode of the Debunked Podcast. The discussion offered perspectives from Louisiana Republican Senator Bill Cassidy, HHS Secretary Robert Kennedy Jr., Devoted Health CEO Ed Park, and Dr. Ezekiel Emmanuel, an oncologist and professor with University of Pennsylvania, and Debunked co-hosts Arundhati Parmar and Samir Batra. The post Debunked Episode 26: A Conversation on How to Improve Healthcare appeared first on MedCity News .",
@@ -9848,155 +9998,5 @@
     "category_slug": "healthcare-policy",
     "date": "2026-04-21T22:45:00+00:00",
     "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "STAT+: At AACR, more strong results for Revolution Medicine’s KRAS drug, plus assurance from NCI’s director",
-    "url": "https://www.statnews.com/2026/04/21/aacr-2026-pancreatic-cancer-oral-cancer-wildfires-nci-director/?utm_campaign=rss",
-    "summary": "At AACR, Revolution Medicines presented more eye-catching data about its KRAS-targeting treatment, and Anthony Letai declared the state of cancer research steady.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-21T22:18:45+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "STAT+: Key GOP senators push back on Trump’s plan to cut NIH, reorganize HHS",
-    "url": "https://www.statnews.com/2026/04/21/senate-budget-writers-skeptical-kennedy-hhs-budget-cuts/?utm_campaign=rss",
-    "summary": "Lawmakers seem poised to reject cuts to biomedical research and public health spending for a second straight year.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-21T20:59:41+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "STAT+: Insurers refuse to join Medicare pilot offering weight loss drugs to seniors at steep discount",
-    "url": "https://www.statnews.com/2026/04/21/trump-medicare-weight-loss-drug-plan-unraveling-insurer-pushback/?utm_campaign=rss",
-    "summary": "Health insurers would have likely faced a financial strain by participating in the Medicare pilot.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-21T20:17:20+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "Flu vaccine no longer mandated for U.S. troops, defense secretary says",
-    "url": "https://www.statnews.com/2026/04/21/flu-vaccine-military-no-longer-required-hegseth/?utm_campaign=rss",
-    "summary": "Defense Secretary Pete Hegseth announced Tuesday that the U.S. military will no longer require all American troops to get the flu vaccine.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-21T16:42:56+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "Gene therapy for a rare type of deafness shows lasting results",
-    "url": "https://www.npr.org/2026/04/22/nx-s1-5791478/gene-therapy-deafness-hearing",
-    "summary": "Researchers say a gene therapy allowed deaf children and adults as old as 32 to hear for the first time. The benefits have persisted for more than two years for some patients.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-22T15:00:04+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "Restrictions on obesity drug coverage force patients to pivot",
-    "url": "https://www.npr.org/2026/04/22/nx-s1-5794613/health-insurance-wegovy-zepbound",
-    "summary": "Twelve million people lost coverage for Zepbound over the last year. The same number of people lost coverage for Wegovy, according to an analysis by GoodRx, a drug discount website.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-22T13:25:13+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "Trump administration delays rule aimed at improving disability access in schools",
-    "url": "https://www.npr.org/2026/04/22/nx-s1-5791680/doj-disability-web-access-delay-schools",
-    "summary": "Schools, colleges and other public institutions originally had until this week to make online content accessible to people with disabilities. Now, the Justice Department has delayed that deadline.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-22T09:00:00+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "Senators grill RFK Jr. on vaccines, drug prices and more at hearing",
-    "url": "https://www.npr.org/2026/04/22/nx-s1-5792840/rfk-jr-senate-house-budget-hearings-vaccines-cdc-medicaid",
-    "summary": "Health Secretary Robert F. Kennedy Jr. faced tough questioning as he caps off seven hearings on the Hill in as many days. It's the first time he has testified before Congress since September.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-22T09:00:00+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "Trump's order is a milestone for proponents of using psychedelics as medicine",
-    "url": "https://www.npr.org/2026/04/21/nx-s1-5791755/trumps-order-is-a-milestone-for-proponents-of-using-psychedelics-as-medicine",
-    "summary": "President Trump has signed an executive order aimed at accelerating research and approval of psychedelics for treating mental health conditions, like depression, PTSD and addiction.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-21T20:10:47+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "Want to lighten your mental load? First, let go of these gender myths",
-    "url": "https://www.npr.org/2026/04/21/nx-s1-5736111/want-to-lighten-your-mental-load-first-let-go-of-these-gender-myths",
-    "summary": "\"Men can't see the mess.\" \"Women are better at chores.\" These myths position women to take on more emotional thinking, says researcher Leah Ruppanner. She shares what works to reclaim your headspace.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-21T14:24:43+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "The surprising origin of 4 features that superglue kids — and adults — to screens",
-    "url": "https://www.npr.org/2026/04/21/nx-s1-5776665/surprising-origin-features-superglue-kids-adults-to-screens",
-    "summary": "Taken together, these four features can create a trancelike state that can keep us stuck on social media apps or video games for hours. Children are particularly vulnerable.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-21T09:00:00+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "Trump administration's rollback of regulations frustrates some in MAHA movement",
-    "url": "https://www.npr.org/2026/04/21/nx-s1-5783798/trump-administrations-rollback-of-regulations-frustrates-some-in-maha-movement",
-    "summary": "A major concern for the Make America Healthy Again movement is the harmful effects of chemicals and toxins, but the coalition is growing increasingly frustrated by the Trump administration's actions.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-21T08:44:59+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "Vaccine for expectant mothers means fewer RSV hospitalizations for babies, study shows",
-    "url": "https://www.npr.org/2026/04/20/nx-s1-5788967/vaccine-for-expectant-mothers-means-fewer-rsv-hospitalizations-for-babies-study-show",
-    "summary": "RSV is the most common reason why babies end up in the hospital in their first year. A new study finds a vaccine for expectant mothers is more effective at protecting babies than previously shown.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-20T20:58:39+00:00",
-    "date_str": "Apr 20, 2026"
-  },
-  {
-    "title": "Got wearable data? Your doctor can help you connect the dots",
-    "url": "https://www.npr.org/2026/04/20/nx-s1-5746639-e1/got-wearable-data-your-doctor-can-help-you-connect-the-dots",
-    "summary": "The American Academy of Neurology issued guidance on using wearable data devices, like smartwatches or an Oura Ring, to track key health metrics that can help flag serious conditions.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-20T20:14:53+00:00",
-    "date_str": "Apr 20, 2026"
-  },
-  {
-    "title": "'The Pitt' Got a Diagnosis Right. It Got the Response Wrong.",
-    "url": "https://www.medpagetoday.com/popmedicine/popmedicine/120901",
-    "summary": "(MedPage Today) -- Last week's season finale of \"The Pitt\" generated significant discussion, particularly around one of its most emotionally charged scenes: Dr. Al-Hashimi's disclosure to Dr. Robby that she has a seizure disorder causing brief...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-22T14:55:25+00:00",
-    "date_str": "Apr 22, 2026"
   }
 ]
