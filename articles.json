@@ -1,5 +1,145 @@
 [
   {
+    "title": "Listen: A Federal Agency Is After Workers’ Health Data, and Critics Are Alarmed",
+    "url": "https://kffhealthnews.org/health-industry/wamu-health-hub-opm-federal-worker-unredacted-medical-records-hipaa-audio/",
+    "summary": "The Trump administration is seeking unprecedented access to medical records of federal workers and retirees, and their families. The data could be used to implement cost-saving measures, but it would also give the administration access to reams of personal information. Legal experts and insurers say the pursuit is overbroad.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-08T09:00:00+00:00",
+    "date_str": "May 08, 2026"
+  },
+  {
+    "title": "In California Governor Race, Single-Payer Is a Litmus Test. There’s Still No Way To Pay for It.",
+    "url": "https://kffhealthnews.org/health-care-costs/california-governor-race-single-payer-healthcare-becerra-cma-steyer/",
+    "summary": "Single-payer healthcare is a central talking point in the chaotic race for California governor. In a crowded field, top-polling Democrats are declaring their support for a government-run health system but providing few details about how they’d accomplish it in the nation’s most populous state.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-08T09:00:00+00:00",
+    "date_str": "May 08, 2026"
+  },
+  {
+    "title": "Adapting Healthcare Payments While Facing Financial Pressure and Economic Uncertainty",
+    "url": "https://medcitynews.com/2026/05/adapting-healthcare-payments-while-facing-financial-pressure-and-economic-uncertainty/",
+    "summary": "Practices that embrace automation, interoperability, and consumer-grade payment experiences will reduce risk, strengthen cash flow, and build lasting trust with the patients they serve. Those that delay will continue absorbing avoidable costs and volatility. The post Adapting Healthcare Payments While Facing Financial Pressure and Economic Uncertainty appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-08T13:34:00+00:00",
+    "date_str": "May 08, 2026"
+  },
+  {
+    "title": "When There’s No Appointment Available, Patients Are Opening ChatGPT",
+    "url": "https://medcitynews.com/2026/05/when-theres-no-appointment-available-patients-are-opening-chatgpt/",
+    "summary": "The limitations of general-purpose AI in an emotional support context aren’t what it says. They’re about what it can’t detect, including the markers of acute distress that a purpose-built system is specifically architected to recognize. The post When There’s No Appointment Available, Patients Are Opening ChatGPT appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-08T13:21:00+00:00",
+    "date_str": "May 08, 2026"
+  },
+  {
+    "title": "How States Can Succeed Under the Rural Health Transformation Program",
+    "url": "https://medcitynews.com/2026/05/how-states-can-succeed-under-the-rural-health-transformation-program/",
+    "summary": "Is $50 billion over five years enough to end the rural healthcare crisis or even offset the federal spending cuts? No – but it’s what states have to work with. And the pressure is on them to maximize the impact of their RHTP grants. Here’s how they can do it. The post How States Can Succeed Under the Rural Health Transformation Program appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-08T13:08:00+00:00",
+    "date_str": "May 08, 2026"
+  },
+  {
+    "title": "STAT+: The biotech news you need to read today",
+    "url": "https://www.statnews.com/2026/05/08/biotech-news-capricor-sues-partner-scientists-age-more-and-innovate-less/?utm_campaign=rss",
+    "summary": "A Duchenne therapy lawsuit, FDA Commissioner Marty Makary’s White House troubles, and other news from The Readout",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-08T13:37:12+00:00",
+    "date_str": "May 08, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about an FDA gender rule change, its program for one-day inspections, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/05/08/fda-gender-rule-change-pilot-program-for-inspections/?utm_campaign=rss",
+    "summary": "An FDA proposal to remove references to “gender” from its regulations sparked concerns about unintended consequences on research",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-08T13:17:39+00:00",
+    "date_str": "May 08, 2026"
+  },
+  {
+    "title": "The aging scientific workforce collides with rising fabricating citations in medical journals",
+    "url": "https://www.statnews.com/2026/05/08/health-news-aging-scientific-workforce-and-fake-ai-citations/?utm_campaign=rss",
+    "summary": "The latest in the hantavirus cruise ship saga, why these former officials left the FDA, and more health news from Morning Rounds",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-08T11:27:48+00:00",
+    "date_str": "May 08, 2026"
+  },
+  {
+    "title": "Why we left the FDA: Six former officials share their stories",
+    "url": "https://www.statnews.com/2026/05/08/former-fda-regulators-on-why-they-left-status-report/?utm_campaign=rss",
+    "summary": "In this week's STATus Report, hear from six former FDA officials on why they left the agency.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-08T08:30:00+00:00",
+    "date_str": "May 08, 2026"
+  },
+  {
+    "title": "Opinion: STAT+: Medicare’s new RAPID pathway is a breakthrough for adults. Children are still waiting",
+    "url": "https://www.statnews.com/2026/05/08/medicare-rapid-pathway-pediatric-medical-devices/?utm_campaign=rss",
+    "summary": "“The pediatric and orphan pipeline is already the smallest, slowest, and least capitalized segment of the device industry,” writes Kolaleh Eskandanian.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-08T08:30:00+00:00",
+    "date_str": "May 08, 2026"
+  },
+  {
+    "title": "Opinion: We need more men in nursing",
+    "url": "https://www.statnews.com/2026/05/08/men-nursing-careers-gender-diversity-patient-health/?utm_campaign=rss",
+    "summary": "Men make up just 12% of nurses nationally. That needs to change.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-08T08:30:00+00:00",
+    "date_str": "May 08, 2026"
+  },
+  {
+    "title": "Cancer warning labels on alcohol may motivate people to drink less, study says",
+    "url": "https://www.npr.org/2026/05/07/nx-s1-5807961/alcohol-warning-labels-drinking-cancer-study",
+    "summary": "Mounting evidence has linked alcohol to higher risks of cancer but many people aren't aware. New findings suggest labels that make the link clear may motivate people to cut back on drinking.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-07T21:02:19+00:00",
+    "date_str": "May 07, 2026"
+  },
+  {
+    "title": "Health Tech Weekly Rundown: Tether rolls out medical AI for phones, wearables; Medaptus launches operational ‘command center’ for hospital medicine",
+    "url": "https://www.fiercehealthcare.com/health-tech/health-tech-weekly-rundown-tether-launches-medical-ai-phones-wearables-medaptus",
+    "summary": "Stay up to date on the latest in health tech, digital health and health AI news with this weekly brief.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-08T13:46:35.396533+00:00",
+    "date_str": "May 08, 2026"
+  },
+  {
+    "title": "Trump on Hantavirus: 'It's very much we hope under control'",
+    "url": "https://thehill.com/homenews/administration/5869300-donald-trump-hantavirus-under-control/",
+    "summary": "President Trump told reporters on Thursday that he has been briefed on the recent outbreak of hantavirus on a cruise ship, and it is “very much under control.” “We have a lot of people, a lot of great people, studying it,” Trump said. “It should be fine, we hope.” Three people from the ship have...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-08T11:59:46+00:00",
+    "date_str": "May 08, 2026"
+  },
+  {
     "title": "Teens With T1D, Obesity Reaped Benefits of GLP-1s, Case Studies Suggest",
     "url": "https://www.medpagetoday.com/endocrinology/type1diabetes/121164",
     "summary": "(MedPage Today) -- Two insulin-dependent adolescents with type 1 diabetes and obesity had metabolic improvements after starting a low-dose GLP-1 agent, a case series showed. One year after adding injectable semaglutide (Ozempic, Wegovy) to lifestyle...",
@@ -9858,145 +9998,5 @@
     "category_slug": "medicare-news",
     "date": "2026-04-22T20:50:50+00:00",
     "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "Wearable Noise Is Exploding — Trust Is the Filter",
-    "url": "https://medcitynews.com/2026/04/wearable-noise-is-exploding-trust-is-the-filter/",
-    "summary": "The challenge is determining whether wearable data is reliable enough to relieve the review burden, guide care, support reimbursement, or reassure a patient who is worried about their heart rhythm at two o’clock in the morning. The post Wearable Noise Is Exploding — Trust Is the Filter appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-22T14:06:29+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "Trust, Technology and the Future of Interoperability: Solving Problems That Impact Real Lives",
-    "url": "https://medcitynews.com/2026/04/trust-technology-and-the-future-of-interoperability-solving-problems-that-impact-real-lives/",
-    "summary": "Healthcare interoperability isn’t an abstract concept; it’s about human connection, building trust and easing burden on patients and their care providers. The post Trust, Technology and the Future of Interoperability: Solving Problems That Impact Real Lives appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-22T13:58:00+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "Alignment Health Plan CEO: Sometimes When MA Plan is Pulling Out, the Provider is to Blame",
-    "url": "https://medcitynews.com/2026/04/alignment-health-plan-ceo-sometimes-when-ma-plan-is-pulling-out-the-provider-is-to-blame/",
-    "summary": "At the annual Medicarians conference in Las Vegas that draws brokers, agents, agency owners and field marketing organizations, among others, Dawn Maroney suggested that payers are not always the “bad guys.” The post Alignment Health Plan CEO: Sometimes When MA Plan is Pulling Out, the Provider is to Blame appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-22T05:47:42+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "Oscar Health Seeks to Build ‘Airbnb for Healthcare’ with New Marketplace, CEO Says",
-    "url": "https://medcitynews.com/2026/04/oscar-health-marketplace-airbnb/",
-    "summary": "Oscar Health launched Lucie, a marketplace aimed at making healthcare more shoppable. The post Oscar Health Seeks to Build ‘Airbnb for Healthcare’ with New Marketplace, CEO Says appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-22T02:34:55+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "Neuro Startup Tortugas Unveils $106M and a Pipeline of Drugs for the Brain",
-    "url": "https://medcitynews.com/2026/04/tortugas-neuroscience-startup-cure-ventures-schizophrenia-tinnitus-hansoh-eisai/",
-    "summary": "Tortugas Neurosciences’ two lead programs are in-licensed oral small molecules in development for schizophrenia and tinnitus. The startup is led by veterans of Sage Therapeutics, a neuroscience biotech that was acquired last year. The post Neuro Startup Tortugas Unveils $106M and a Pipeline of Drugs for the Brain appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-21T19:31:04+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "The Next Era of Payment Integrity: Earlier Clinical Validation, True Transparency",
-    "url": "https://medcitynews.com/2026/04/the-next-era-of-payment-integrity-earlier-clinical-validation-true-transparency/",
-    "summary": "By using AI-powered intelligence to shift clinical and coding validation earlier in the healthcare continuum, and unlocking upstream clinical data to inform downstream payment workflows, organizations can proactively prevent errors, reduce downstream churn and friction, and support more predictable, accurate, and timely payments. The post The Next Era of Payment Integrity: Earlier Clinical Validation, True Transparency appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-21T13:50:00+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "Revenue Isn’t the Signal: What Early-Stage Health Tech Investors Should Be Watching Instead",
-    "url": "https://medcitynews.com/2026/04/revenue-isnt-the-signal-what-early-stage-health-tech-investors-should-be-watching-instead/",
-    "summary": "What matters just as much — if not more — is everything around that number: how customers adopt the product, how sales actually happen, and whether the company is building something that can scale inside a complex, regulated system. The post Revenue Isn’t the Signal: What Early-Stage Health Tech Investors Should Be Watching Instead appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-21T13:21:00+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "Policy Expert Believes CMS is Taking “Adversial Posture” to Medicare Advantage",
-    "url": "https://medcitynews.com/2026/04/policy-expert-believes-cms-is-taking-adversial-posture-to-medicare-advantage/",
-    "summary": "A consultant who has analyzed healthcare policy over many decades declares that MA is in the middle of a fundamental reset both in terms of market headwinds and federal scrutiny. The post Policy Expert Believes CMS is Taking “Adversial Posture” to Medicare Advantage appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-21T03:16:34+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "UnitedHealthcare Expands Rural Healthcare Initiatives, Reduces Prior Auth Requirements",
-    "url": "https://medcitynews.com/2026/04/unitedhealthcare-rural-health-prior-authorization/",
-    "summary": "UnitedHealthcare is exempting rural providers from most prior authorization requirements. The post UnitedHealthcare Expands Rural Healthcare Initiatives, Reduces Prior Auth Requirements appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-21T02:25:06+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "Are MAHA snacks really better for you? Nutrition experts parse a grocery aisle gold rush",
-    "url": "https://www.statnews.com/2026/04/22/better-for-you-snacks-maha-influence-food-companies/?utm_campaign=rss",
-    "summary": "From protein Pop-Tarts to avocado-oil chips, a MAHA-fueled snack revolution promises healthier eating. Experts say it may mostly be illusion.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-22T08:30:00+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "Opinion: NASA’s plans for living in space should prioritize immunology and infectious disease",
-    "url": "https://www.statnews.com/2026/04/22/artemis-space-travel-immunology-infectious-disease-bacteria/?utm_campaign=rss",
-    "summary": "Infectious diseases could pose serious risks for interplanetary travelers.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-22T08:30:00+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "Opinion: The CDC’s ‘disease detective’ program turns 75",
-    "url": "https://www.statnews.com/2026/04/22/eis-anniversary-cdc-disease-detectives-conference/?utm_campaign=rss",
-    "summary": "The CDC’s EIS program has trained more than 4,300 people to be the next generation of public health leaders.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-22T08:30:00+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "STAT+: With successful trials, Roche takes its MS drug to regulators, but safety questions loom",
-    "url": "https://www.statnews.com/2026/04/21/roche-multiple-scleroris-efficacy-safety/?utm_campaign=rss",
-    "summary": "The Swiss drugmaker Roche presented the latest data for its experimental multiple sclerosis drug, setting the stage for the company to seek approval.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-21T23:15:00+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "STAT+: From Revolution Medicines, more strong data on KRAS drug and a glimpse of a ‘novel class’ beyond it",
-    "url": "https://www.statnews.com/2026/04/21/aacr-2026-pancreatic-cancer-revolution-medicines-future/?utm_campaign=rss",
-    "summary": "A company that is changing the outlook on pancreatic cancer has more promising data for treatments near-term and for a generation beyond.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-21T23:03:12+00:00",
-    "date_str": "Apr 21, 2026"
   }
 ]
