@@ -1,5 +1,55 @@
 [
   {
+    "title": "Journalists Shed Light on Deadly Hantavirus Outbreak and a Crisis in the Nation’s ERs",
+    "url": "https://kffhealthnews.org/on-air/on-air-may-9-2026-hantavirus-virus-cruise-ship-outbreak-emergency-rooms-er/",
+    "summary": "KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here’s a collection of their appearances.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-09T09:00:00+00:00",
+    "date_str": "May 09, 2026"
+  },
+  {
+    "title": "Opinion: RFK Jr. allegedly ‘collected’ a dead raccoon’s penis. Was it bioethically justifiable?",
+    "url": "https://www.statnews.com/2026/05/09/rfk-jr-raccoon-penis-whale-bear-cub-bioethics/?utm_campaign=rss",
+    "summary": "There are scientific reasons to study raccoon reproductive anatomy. But did RFK Jr.’s actions fit within a bioethical framework?",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-09T11:00:00+00:00",
+    "date_str": "May 09, 2026"
+  },
+  {
+    "title": "Opinion: Dr. Glaucomflecken wants the corporatization of medicine to be national news",
+    "url": "https://www.statnews.com/2026/05/09/dr-glaucomflecken-podcast-interview-transcript/?utm_campaign=rss",
+    "summary": "“We want, we need to keep medicine local. I think that's good for patients, it's good for communities,” Dr. Glaucomflecken says on the “First Opinion Podcast.”",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-09T11:00:00+00:00",
+    "date_str": "May 09, 2026"
+  },
+  {
+    "title": "Why saying hello to strangers can be good for you",
+    "url": "https://www.npr.org/2026/05/09/g-s1-119761/hello-greeting-strangers-benefit-social-ties",
+    "summary": "A study establishes that \"social ties\" — a fancy way of saying being nice to other, even those you don't know — has benefits. A teacher asked her students to test the thesis in real life.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-09T11:20:44+00:00",
+    "date_str": "May 09, 2026"
+  },
+  {
+    "title": "Cosmetic Interventions Are Booming. Many Say Ethical Conversations Are Lagging.",
+    "url": "https://www.medpagetoday.com/surgery/plasticsurgery/121173",
+    "summary": "(MedPage Today) -- LOS ANGELES -- Shula Jassell is insecure about the size of her chin and has periodically considered getting filler to make it bigger. But when the 25-year-old from Southern California gives serious thought to the idea of repeatedly...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-09T12:00:00+00:00",
+    "date_str": "May 09, 2026"
+  },
+  {
     "title": "Pennsylvania Sues Chatbot Over Claims It Impersonates Doctors",
     "url": "https://medcitynews.com/2026/05/pennsylvania-chatbot-doctors-lawsuit/",
     "summary": "Pennsylvania sued Character.ai, alleging one of the startup’s AI chatbots illegally practiced medicine by posing as a licensed psychiatrist. The case marks the second state lawsuit against the startup and highlights growing regulatory scrutiny of AI chatbot platforms and their safety guardrails. The post Pennsylvania Sues Chatbot Over Claims It Impersonates Doctors appeared first on MedCity News .",
@@ -9948,55 +9998,5 @@
     "category_slug": "science",
     "date": "2026-04-16T11:24:32+00:00",
     "date_str": "Apr 16, 2026"
-  },
-  {
-    "title": "Neanderthal infants were enormous compared with modern humans",
-    "url": "https://www.newscientist.com/article/2523132-neanderthal-infants-were-enormous-compared-with-modern-humans/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-    "summary": "A detailed analysis of the best-preserved Neanderthal infant skeleton ever found suggests that our ancient relatives grew much faster as young children",
-    "source": "New Scientist - Home",
-    "category": "Science",
-    "category_slug": "science",
-    "date": "2026-04-15T16:00:13+00:00",
-    "date_str": "Apr 15, 2026"
-  },
-  {
-    "title": "This Senior Couple Started a Business to Stop Snoring. Their Ad Was ‘Too Pornographic’ — Then They Hit $250K in Monthly Sales: ‘It’s Lunacy’",
-    "url": "https://www.entrepreneur.com/building-a-business/senior-couple-started-business-improve-sleep-product-hit-250k-monthly-sales-snorinator",
-    "summary": "Lloyd and Sue Ecker went all the way back to 1888 to find a snoring solution.",
-    "source": "Entrepreneur – Latest",
-    "category": "Business",
-    "category_slug": "business",
-    "date": "2026-04-21T20:37:34+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "Forget Follower Counts — If Your Audience Isn’t Interacting, Your Brand Is Just an Expensive Illusion",
-    "url": "https://www.entrepreneur.com/growing-a-business/if-your-audience-isnt-interacting-your-brand-is-just-an/502645",
-    "summary": "It's time to stop obsessing over vanity metrics and start measuring what truly indicates brand health.",
-    "source": "Entrepreneur – Latest",
-    "category": "Business",
-    "category_slug": "business",
-    "date": "2026-04-21T15:00:00+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "Avoid These Sleep Mistakes That Are Sabotaging Your Performance",
-    "url": "https://www.entrepreneur.com/leadership/avoid-these-sleep-mistakes-that-are-sabotaging-your/503906",
-    "summary": "Sleep is often treated as optional in entrepreneurship — something to sacrifice in pursuit of growth.",
-    "source": "Entrepreneur – Latest",
-    "category": "Business",
-    "category_slug": "business",
-    "date": "2026-04-21T14:30:00+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "AI identifies early risk patterns for skin cancer",
-    "url": "https://www.sciencedaily.com/releases/2026/04/260415043612.htm",
-    "summary": "A massive Swedish study shows that AI can spot people at higher risk of melanoma using routine health data. Advanced models significantly outperformed basic methods, identifying high-risk groups with striking accuracy. Some individuals flagged by the system had up to a 33% chance of developing melanoma within five years. This approach could pave the way for smarter, more targeted screening.",
-    "source": "Top Technology News -- ScienceDaily",
-    "category": "Science",
-    "category_slug": "science",
-    "date": "2026-04-15T08:36:12+00:00",
-    "date_str": "Apr 15, 2026"
   }
 ]
