@@ -1,5 +1,45 @@
 [
   {
+    "title": "Experts wonder ‘Where is the CDC?’ as hantavirus outbreak unfolds",
+    "url": "https://www.statnews.com/2026/05/09/mv-hondius-hantavirus-outbreak-cdc-takes-back-seat-to-who/?utm_campaign=rss",
+    "summary": "The CDC is playing an unusually small role in responding to the hantavirus outbreak, taking a back seat to the WHO.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-09T18:28:39+00:00",
+    "date_str": "May 09, 2026"
+  },
+  {
+    "title": "Where Is the Off Ramp for Psychotropic Medications?",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/121182",
+    "summary": "(MedPage Today) -- When I first started taking an antidepressant as a teenager, no one talked to me or my parents about how I might eventually stop. Instead, the conversation was entirely centered on finding and starting the right medication. Since...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-09T16:00:00+00:00",
+    "date_str": "May 09, 2026"
+  },
+  {
+    "title": "CDC Alerts Clinicians About Potential for Imported Hantavirus Cases",
+    "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/121192",
+    "summary": "(MedPage Today) -- The CDC has issued a Health Alert Network (HAN) health advisory on hantavirus, urging clinicians to be aware of the potential for imported cases of hantavirus disease in connection with an outbreak of Andes virus aboard a cruise...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-09T14:18:46+00:00",
+    "date_str": "May 09, 2026"
+  },
+  {
+    "title": "Here's What's Next for Hantavirus Cruise Passengers",
+    "url": "https://www.medpagetoday.com/special-reports/features/121181",
+    "summary": "(MedPage Today) -- Passengers aboard the MV Hondius, the ship afflicted by a hantavirus outbreak, remain at sea, with plans to dock in the Canary Islands on Sunday. James Lawler, MD, MPH, of the University of Nebraska Medical Center's Global Center...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-09T13:00:00+00:00",
+    "date_str": "May 09, 2026"
+  },
+  {
     "title": "Journalists Shed Light on Deadly Hantavirus Outbreak and a Crisis in the Nation’s ERs",
     "url": "https://kffhealthnews.org/on-air/on-air-may-9-2026-hantavirus-virus-cruise-ship-outbreak-emergency-rooms-er/",
     "summary": "KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here’s a collection of their appearances.",
@@ -9958,45 +9998,5 @@
     "category_slug": "science",
     "date": "2026-04-17T09:00:34+00:00",
     "date_str": "Apr 17, 2026"
-  },
-  {
-    "title": "The rise, the fall and the rebound of cyclic cosmology",
-    "url": "https://www.newscientist.com/article/2523213-the-rise-the-fall-and-the-rebound-of-cyclic-cosmology/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-    "summary": "Cyclic cosmology, or the big bounce, is the idea that the universe will eventually crunch back together and then go through another big bang. Columnist Leah Crane finds that, appropriately, it’s coming back",
-    "source": "New Scientist - Home",
-    "category": "Science",
-    "category_slug": "science",
-    "date": "2026-04-17T09:00:00+00:00",
-    "date_str": "Apr 17, 2026"
-  },
-  {
-    "title": "Startling images show how fake news isn't just a 21st century issue",
-    "url": "https://www.newscientist.com/article/2522672-startling-images-show-how-fake-news-isnt-just-a-21st-century-issue/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-    "summary": "From huge geese to flying cars, these photographs from a new exhibition at the Rijksmuseum reveal how we have been manipulating images for over a century",
-    "source": "New Scientist - Home",
-    "category": "Science",
-    "category_slug": "science",
-    "date": "2026-04-15T18:00:13+00:00",
-    "date_str": "Apr 15, 2026"
-  },
-  {
-    "title": "Our dreams become more emotive and symbolic as we approach death",
-    "url": "https://www.newscientist.com/article/2523071-our-dreams-become-more-emotive-and-symbolic-as-we-approach-death/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-    "summary": "People who are terminally ill are commonly reunited with lost loved ones in their dreams and have visions of doors, stairways and light, which are said to help them accept the dying process",
-    "source": "New Scientist - Home",
-    "category": "Science",
-    "category_slug": "science",
-    "date": "2026-04-16T13:00:09+00:00",
-    "date_str": "Apr 16, 2026"
-  },
-  {
-    "title": "How to spot the Lyrid meteor shower tonight",
-    "url": "https://www.newscientist.com/article/2523230-how-to-spot-the-lyrid-meteor-shower-tonight/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-    "summary": "The Lyrid meteor shower will soon hit its peak. Here's how to spot it, including by using the New Scientist stargazing companion",
-    "source": "New Scientist - Home",
-    "category": "Science",
-    "category_slug": "science",
-    "date": "2026-04-16T11:24:32+00:00",
-    "date_str": "Apr 16, 2026"
   }
 ]
