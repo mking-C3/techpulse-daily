@@ -1,5 +1,135 @@
 [
   {
+    "title": "Watch: 8 Health Insurance Terms You Should Know",
+    "url": "https://kffhealthnews.org/insurance/watch-8-health-insurance-terms-you-should-know/",
+    "summary": "Deductible. Copay. Out-of-pocket limit. What do these health insurance terms actually mean? We explain common phrases from insurance policies so navigating your plan is less of a headache.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-11T09:00:00+00:00",
+    "date_str": "May 11, 2026"
+  },
+  {
+    "title": "As Ranks of Uninsured Grow, Minnesota’s Hospitals Are Among Least Charitable in Nation",
+    "url": "https://kffhealthnews.org/health-care-costs/medical-debt-uninsured-minnesota-hospitals-among-least-charitable/",
+    "summary": "A Minnesota Star Tribune-KFF Health News investigation of hospital data and charity care programs shows most Minnesota hospitals provide little financial aid to patients and often make assistance difficult to get.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-11T09:00:00+00:00",
+    "date_str": "May 11, 2026"
+  },
+  {
+    "title": "STAT+: Provider, insurer groups rush to shape No Surprises Act arbitration rules",
+    "url": "https://www.statnews.com/2026/05/11/no-surprises-act-new-rules-dispute-resolution/?utm_campaign=rss",
+    "summary": "Doctors and insurers are battling to reshape the controversial No Surprises Act arbitration process, which has long frustrated both sides.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-11T08:30:00+00:00",
+    "date_str": "May 11, 2026"
+  },
+  {
+    "title": "Animal skin disease confirmed in clusters of European men who have sex with men",
+    "url": "https://www.statnews.com/2026/05/11/rare-animal-skin-infection-msm-clusters-europe-dermatophilus-congolensis/?utm_campaign=rss",
+    "summary": "European researchers have diagnosed a number of men who have sex with other men with a skin disease that normally infects livestock.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-11T08:30:00+00:00",
+    "date_str": "May 11, 2026"
+  },
+  {
+    "title": "STAT+: Medicare is spending far less than expected on new Alzheimer’s drugs",
+    "url": "https://www.statnews.com/2026/05/11/medicare-spending-less-than-expected-alzheimers-drugs-leqembi-kisunla/?utm_campaign=rss",
+    "summary": "Adoption has been slow with new Alzheimer’s drugs because the treatments are complicated to administer and the benefits are uncertain.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-11T08:30:00+00:00",
+    "date_str": "May 11, 2026"
+  },
+  {
+    "title": "Opinion: AI doctors should be licensed. Here’s a framework to do that",
+    "url": "https://www.statnews.com/2026/05/11/ai-doctors-licenses-utah-doctronic-pilot/?utm_campaign=rss",
+    "summary": "A state-by-state approach to clinical AI won’t work. Here’s a framework that can.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-11T08:30:00+00:00",
+    "date_str": "May 11, 2026"
+  },
+  {
+    "title": "Opinion: What addiction medicine can teach us about depending on AI",
+    "url": "https://www.statnews.com/2026/05/11/ai-dependence-addiction-substances-relief-psychology/?utm_campaign=rss",
+    "summary": "People gradually rely on AI to reduce the discomfort of thinking. For some, that can become a problem.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-11T08:30:00+00:00",
+    "date_str": "May 11, 2026"
+  },
+  {
+    "title": "STAT+: Five years after disaster, a rare disease community gets new chance at treatment",
+    "url": "https://www.statnews.com/2026/05/11/astellas-gene-therapy-trials-resume-promising-myotubular-myopathy-treatment/?utm_campaign=rss",
+    "summary": "Some boys had astonishing recoveries. But other boys died. Now Astellas is returning to revised gene therapy for XLMTM.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-11T08:30:00+00:00",
+    "date_str": "May 11, 2026"
+  },
+  {
+    "title": "As ranks of uninsured grow, charity care can be hard to come by at many hospitals",
+    "url": "https://www.npr.org/2026/05/11/nx-s1-5813781/charity-care-hospitals-medical-bills-uninsured",
+    "summary": "An investigation of hospital data and charity care programs shows most Minnesota hospitals provide little financial aid to patients and often make assistance difficult to get.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-11T09:03:00+00:00",
+    "date_str": "May 11, 2026"
+  },
+  {
+    "title": "Marketers say NAD+ pills and infusions can boost longevity. What's the evidence?",
+    "url": "https://www.npr.org/2026/05/11/nx-s1-5813664/nad-infusions-supplements-longevity-science",
+    "summary": "Wellness and longevity influencers are pushing a compound called NAD+. There's scientific interest in its potential, but researchers say the marketing claims have gotten ahead of the science.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-11T09:00:00+00:00",
+    "date_str": "May 11, 2026"
+  },
+  {
+    "title": "4 questions your tech should answer to confidently navigate a risk-based future",
+    "url": "https://www.healthcaredive.com/spons/4-questions-your-tech-should-answer-to-confidently-navigate-a-risk-based-fu/819517/",
+    "summary": "A risk-based future is the reality for healthcare, is your organization ready to succeed?",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-11T09:00:00+00:00",
+    "date_str": "May 11, 2026"
+  },
+  {
+    "title": "From hidden costs to smarter choices: Why transparency is key to lowering healthcare spend",
+    "url": "https://www.healthcaredive.com/spons/from-hidden-costs-to-smarter-choices-why-transparency-is-key-to-lowering-h/819407/",
+    "summary": "The hidden gap driving higher healthcare costs.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-11T09:00:00+00:00",
+    "date_str": "May 11, 2026"
+  },
+  {
+    "title": "Advancing Frontline Care With a Quadruplet Regimen for Transplant-Ineligible Myeloma Patients",
+    "url": "https://www.fiercehealthcare.com/sponsored/advancing-frontline-care-quadruplet-regimen-transplant-ineligible-myeloma-patients",
+    "summary": "Explore a quadruplet treatment regimen now approved for newly diagnosed multiple myeloma patients who are transplant ineligible.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-11T09:38:53.954373+00:00",
+    "date_str": "May 11, 2026"
+  },
+  {
     "title": "U.S. cruise passengers head to Nebraska for hantavirus monitoring",
     "url": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
     "summary": "Passengers are returning to their home countries after weeks on the ship at the center of a hantavirus outbreak. The Americans aboard are headed for Nebraska to be evaluated by health officials.",
@@ -9867,136 +9997,6 @@
     "category": "Drug Coverage",
     "category_slug": "drug-coverage",
     "date": "2026-04-22T21:38:29.640707+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "'Don't be a wimp,' Mark Cuban tells lawmakers hesitant to break up PBMs",
-    "url": "https://www.fiercehealthcare.com/payers/dont-be-wimp-mark-cuban-tells-lawmakers-hesitant-break-pbms",
-    "summary": "The entrepreneur outlines his belief that pressure from vertically integrated insurers and pharmacy benefit managers is preventing an efficient healthcare market. He also called on the Trump administration to \"do your job\" and ramp up enforcement, noting that drug manufacturers today are much more scared of a formulary exclusion than the president himself.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-22T21:38:29.640741+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "UnitedHealth Group spotlights AI investments as part of operational turnaround",
-    "url": "https://www.fiercehealthcare.com/payers/unitedhealth-group-boosts-2026-outlook-it-posts-q1-earnings-revenue-beat",
-    "summary": "Artificial intelligence is one of the tentpoles of UnitedHealth's turnaround effort, and the company's top brass offered a look at where it's making key investments.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-22T21:38:29.640767+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "Trump’s surgeon general pick faces mounting GOP opposition",
-    "url": "https://www.politico.com/news/2026/04/21/trump-surgeon-general-casey-means-abortion-psychedelics-00881954",
-    "summary": "Add abortion and psychedelics to the list of reasons many Republicans oppose Casey Means.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-21T19:00:00+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "RFK Jr.’s followers will help the GOP in midterms, Kennedy adviser tells POLITICO’s Health Summit",
-    "url": "https://www.politico.com/news/2026/04/21/rfk-maha-calley-means-midterms-00884885",
-    "summary": "Calley Means said the health secretary and Trump are working in “lockstep.”",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-21T18:27:28+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "Mark Cuban is moving on from Kamala Harris",
-    "url": "https://www.politico.com/news/2026/04/21/mark-cuban-kamala-harris-2028-00884745",
-    "summary": "The billionaire investor who supported the former vice president in 2024 isn't planning to in 2028.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-21T17:34:50+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "Top drug lobbyist calls Trump’s efforts to codify his drug pricing deals 'the wrong policy prescription'",
-    "url": "https://www.politico.com/news/2026/04/21/phrma-trump-drug-pricing-codification-mostfavorednation-politico-summit-00884485",
-    "summary": "PhRMA CEO Stephen Ubl applauded the Trump administration for pressuring other countries to pay more, is against efforts to make its “most-favored-nation” agreements permanent",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-21T17:03:14+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "Health care leaders sweat federal Medicaid, Obamacare changes at POLITICO Summit",
-    "url": "https://www.politico.com/news/2026/04/21/health-care-leaders-sweat-federal-medicaid-obamacare-changes-at-politico-summit-00884249",
-    "summary": "“At some point or another, folks are going to lose coverage.”",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-21T16:44:41+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "Oz unveils nationwide plan to tackle Medicaid fraud at POLITICO Summit",
-    "url": "https://www.politico.com/news/2026/04/21/oz-medicaid-fraud-plan-politico-summit-00883279",
-    "summary": "The Centers for Medicare & Medicaid Services will have to audit states “more aggressively” if they don't take the request seriously, Administrator Mehmet Oz said.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-21T15:39:49+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "Markey at POLITICO Summit: Ready for ‘battle’ with Trump on health care",
-    "url": "https://www.politico.com/news/2026/04/21/markey-ready-for-battle-with-trump-on-health-care-00883596",
-    "summary": "The Massachusetts Democrat also called on Health Secretary Robert F. Kennedy Jr. to resign.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-21T15:31:47+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "Jayapal at POLITICO Summit: Medicare for All has never been more popular",
-    "url": "https://www.politico.com/news/2026/04/21/jayapal-medicare-for-all-universal-healthcare-00883123",
-    "summary": "The progressive pointed to Cuba's system, before the oil embargo, as superior to America's.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-21T14:28:50+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "Set on ousting Cassidy, MAHA faces first midterms test",
-    "url": "https://www.politico.com/news/2026/04/20/cassidy-senate-midterms-maha-louisiana-00879476",
-    "summary": "Movement leaders' efforts to sway the midterms, starting with defeating Sen. Bill Cassidy, will help determine whether MAHA outlasts Trump",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-20T08:45:00+00:00",
-    "date_str": "Apr 20, 2026"
-  },
-  {
-    "title": "Now it’s Republicans blaming American companies for inflation",
-    "url": "https://www.politico.com/news/2026/04/16/cabinet-hearings-populism-00877139",
-    "summary": "Trump Cabinet members RFK Jr. and Brooke Rollins joined GOP lawmakers Thursday in pillorying onetime allies.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-16T21:43:07+00:00",
-    "date_str": "Apr 16, 2026"
-  },
-  {
-    "title": "RFK Jr. apologizes for comments about Black kids he claims he didn't say",
-    "url": "https://thehill.com/homenews/senate/5843757-kennedy-denies-reparenting-remarks/",
-    "summary": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. on Wednesday apologized for past comments he made about Black children being \"re-parented,\" while maintaining that he didn't make those remarks despite there being a recording of him doing so. Sen. Angela Alsobrooks (D-Md.) asked Kennedy whether he could admit to saying that he had...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-04-22T21:18:14+00:00",
     "date_str": "Apr 22, 2026"
   }
 ]
