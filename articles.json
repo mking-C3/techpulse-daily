@@ -1,5 +1,65 @@
 [
   {
+    "title": "STAT+: Patients jockey for exemptions from Medicaid’s new work requirements",
+    "url": "https://www.statnews.com/2026/05/12/medicaid-work-requirements-lobbyists-seek-exemptions-deadline-looms/?utm_campaign=rss",
+    "summary": "Advocates for people with HIV and sickle cell disease are among those pushing for exemptions from Medicaid’s new work requirements.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-12T08:30:00+00:00",
+    "date_str": "May 12, 2026"
+  },
+  {
+    "title": "Opinion: STAT+: Pharma and biotech leaders are destroying their own industry",
+    "url": "https://www.statnews.com/2026/05/12/biotech-pharmaceutical-industry-china-leaders-destroying-industry/?utm_campaign=rss",
+    "summary": "American biotech leaders are destroying their own industry.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-12T08:30:00+00:00",
+    "date_str": "May 12, 2026"
+  },
+  {
+    "title": "6 takeaways from STAT’s investigation into the U.S. alcohol epidemic",
+    "url": "https://www.statnews.com/2026/05/12/america-alcohol-epidemic-deadliest-drug-series-key-takeaways/?utm_campaign=rss",
+    "summary": "Alcohol is the culprit behind the United States' most enduring and overlooked drug crisis. Here are 6 takeaways from STAT's new investigative series, The Deadliest Drug.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-12T08:30:00+00:00",
+    "date_str": "May 12, 2026"
+  },
+  {
+    "title": "STAT+: Alcohol is wreaking havoc on U.S. public health. American society looks the other way",
+    "url": "https://www.statnews.com/2026/05/12/america-alcohol-epidemic-plain-sight-deadliest-drug-series-part-1/?utm_campaign=rss",
+    "summary": "The Deadliest Drug, a new investigative series, shows that the alcohol epidemic is a generational failure of the medical and public health systems, of industry, and of government.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-12T08:30:00+00:00",
+    "date_str": "May 12, 2026"
+  },
+  {
+    "title": "STAT+: Despite its toll, alcohol is still an awkward subject in the doctor’s office",
+    "url": "https://www.statnews.com/2026/05/12/alcohol-use-disorder-screening-deadliest-drug-series-part-2/?utm_campaign=rss",
+    "summary": "Alcohol screening and counseling are too often compressed or skipped during doctor's visits — a gap that is costing patients and the health care system.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-12T08:30:00+00:00",
+    "date_str": "May 12, 2026"
+  },
+  {
+    "title": "STAT+: Bristol Myers Squibb partners with China’s Hengrui Pharma on a dozen drugs",
+    "url": "https://www.statnews.com/2026/05/12/bristol-myers-squibb-hengrui-china-licensing-deal/?utm_campaign=rss",
+    "summary": "Bristol Myers Squibb and China's Hengrui Pharma are teaming up to advance more than a dozen early-stage drugs, in a deal worth up to $15.2 billion.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-12T07:48:04+00:00",
+    "date_str": "May 12, 2026"
+  },
+  {
     "title": "About 67% of Employers Cover GLP-1s for Weight Management; That Could Decline in 2027",
     "url": "https://medcitynews.com/2026/05/glp1s-employers-coverage/",
     "summary": "A new Business Group on Health survey found that while many employers currently cover GLP-1s for weight management, rising costs are prompting some to reconsider that coverage and adopt strategies to control spending. The post About 67% of Employers Cover GLP-1s for Weight Management; That Could Decline in 2027 appeared first on MedCity News .",
@@ -9938,65 +9998,5 @@
     "category_slug": "medicare-news",
     "date": "2026-04-20T09:00:00+00:00",
     "date_str": "Apr 20, 2026"
-  },
-  {
-    "title": "Journalists Talk Hot Health Topics: Urgent Care Clinics Performing Abortions and Doulas’ Pay",
-    "url": "https://kffhealthnews.org/on-air/on-air-april-18-2026-urgent-care-abortion-doulas-farm-bureau-health-plans/",
-    "summary": "KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here’s a collection of their appearances.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-18T09:00:00+00:00",
-    "date_str": "Apr 18, 2026"
-  },
-  {
-    "title": "States Update Guardianship Laws To Keep Children of Immigrants Out of Foster Care",
-    "url": "https://kffhealthnews.org/mental-health/the-week-in-brief-immigrant-children-guardianship-laws/",
-    "summary": "Get our weekly newsletter, The Week in Brief, featuring a roundup of our original coverage, Fridays at 2 p.m. ET.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-17T18:30:00+00:00",
-    "date_str": "Apr 17, 2026"
-  },
-  {
-    "title": "FDA Nod for Merck HIV Drug Brings Competition to a Gilead Sciences Antiretroviral",
-    "url": "https://medcitynews.com/2026/04/merck-hiv-drug-fda-approval-idvynso-combination-drug-antiretroviral-virology-mrk/",
-    "summary": "Merck’s HIV drug Idvynso could become a drug choice for patients who need to switch from Gilead Sciences’ Biktarvy for safety or tolerability reasons. The Merck combination drug pairs two molecules that bring different mechanisms of action to suppressing HIV. The post FDA Nod for Merck HIV Drug Brings Competition to a Gilead Sciences Antiretroviral appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-22T20:50:50+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "Wearable Noise Is Exploding — Trust Is the Filter",
-    "url": "https://medcitynews.com/2026/04/wearable-noise-is-exploding-trust-is-the-filter/",
-    "summary": "The challenge is determining whether wearable data is reliable enough to relieve the review burden, guide care, support reimbursement, or reassure a patient who is worried about their heart rhythm at two o’clock in the morning. The post Wearable Noise Is Exploding — Trust Is the Filter appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-22T14:06:29+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "Trust, Technology and the Future of Interoperability: Solving Problems That Impact Real Lives",
-    "url": "https://medcitynews.com/2026/04/trust-technology-and-the-future-of-interoperability-solving-problems-that-impact-real-lives/",
-    "summary": "Healthcare interoperability isn’t an abstract concept; it’s about human connection, building trust and easing burden on patients and their care providers. The post Trust, Technology and the Future of Interoperability: Solving Problems That Impact Real Lives appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-22T13:58:00+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "Alignment Health Plan CEO: Sometimes When MA Plan is Pulling Out, the Provider is to Blame",
-    "url": "https://medcitynews.com/2026/04/alignment-health-plan-ceo-sometimes-when-ma-plan-is-pulling-out-the-provider-is-to-blame/",
-    "summary": "At the annual Medicarians conference in Las Vegas that draws brokers, agents, agency owners and field marketing organizations, among others, Dawn Maroney suggested that payers are not always the “bad guys.” The post Alignment Health Plan CEO: Sometimes When MA Plan is Pulling Out, the Provider is to Blame appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-22T05:47:42+00:00",
-    "date_str": "Apr 22, 2026"
   }
 ]
