@@ -1,5 +1,185 @@
 [
   {
+    "title": "Low Wages, Empty Plates, Heavy Toll: Rethinking Suicide Prevention",
+    "url": "https://kffhealthnews.org/mental-health/suicide-prevention-economic-assistance-mental-health-eleven-minutes/",
+    "summary": "Decades of research indicate that interventions that bring down people’s cost of living, such as ensuring they have access to stable housing and food, are linked to lower suicide rates.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-12T09:00:00+00:00",
+    "date_str": "May 12, 2026"
+  },
+  {
+    "title": "Five Ways Technology Can Transform Chronic Care Management",
+    "url": "https://medcitynews.com/2026/05/five-ways-technology-can-transform-chronic-care-management/",
+    "summary": "When paired with clinician-led care, it enables a fundamentally different approach to chronic disease management. These tools are designed to augment care teams by reducing administrative burden and allowing clinicians to focus on higher-value care. The post Five Ways Technology Can Transform Chronic Care Management appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-12T14:03:27+00:00",
+    "date_str": "May 12, 2026"
+  },
+  {
+    "title": "AI in Transplant Diagnostics: Turning Complexity into Clinical Clarity",
+    "url": "https://medcitynews.com/2026/05/ai-in-transplant-diagnostics-turning-complexity-into-clinical-clarity/",
+    "summary": "The strongest AI adoption plans follow a simple pattern: start small, validate and scale only when results hold up across sites, shifts and real-world variation. The goal is safer, more personalized care, which is made possible by clinicians receiving earlier signals, better-tailored monitoring and more confident decisions for each patient. The post AI in Transplant Diagnostics: Turning Complexity into Clinical Clarity appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-12T13:41:00+00:00",
+    "date_str": "May 12, 2026"
+  },
+  {
+    "title": "Digital Fatigue: Healthcare’s Next Patient Experience Crisis",
+    "url": "https://medcitynews.com/2026/05/digital-fatigue-healthcares-next-patient-experience-crisis/",
+    "summary": "Patients are tuning out digital messages because they receive too many across channels. This is problematic given that digital strategy is critical to reaching consumers and developing trust in today’s economy. The post Digital Fatigue: Healthcare’s Next Patient Experience Crisis appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-12T13:18:00+00:00",
+    "date_str": "May 12, 2026"
+  },
+  {
+    "title": "How User-Generated Content is Transforming Pharma Insights on the Patient Experience",
+    "url": "https://medcitynews.com/2026/05/how-user-generated-content-is-transforming-pharma-insights-on-the-patient-experience/",
+    "summary": "[Sponsored] LiveWorld’s white paper, Turning UGC into Insight: The Untapped Value in Pharma Conversations, identifies how moderated conversations become an insight pipeline, and what recurring questions, misinformation themes, and sentiment shifts actually signal. The post How User-Generated Content is Transforming Pharma Insights on the Patient Experience appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-12T11:50:00+00:00",
+    "date_str": "May 12, 2026"
+  },
+  {
+    "title": "STAT+: STAT examines America’s deadliest drug",
+    "url": "https://www.statnews.com/2026/05/12/dc-diagnosis-medicaid-work-requirement-exemptions-deadliest-drug-series/?utm_campaign=rss",
+    "summary": "STAT examines America's failure to address excessive alcohol use across decades.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-12T14:23:52+00:00",
+    "date_str": "May 12, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about pharma lobbying, Bristol’s deal with a Chinese partner, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/05/12/trumprx-pharma-lobbying-bristol-deal-with-chinese-partner/?utm_campaign=rss",
+    "summary": "The 17 pharmaceutical companies anchoring TrumpRx poured more than $130 million into federal lobbying in 2025 — a nearly 23% surge",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-12T13:25:09+00:00",
+    "date_str": "May 12, 2026"
+  },
+  {
+    "title": "STAT+: Capsida says it still doesn’t know what caused gene therapy death",
+    "url": "https://www.statnews.com/2026/05/12/capsida-gene-therapy-trial-death-protein-target-adam-15/?utm_campaign=rss",
+    "summary": "Some in the gene therapy field lament lost time while Capsida kept silent about the brain receptor it was targeting when things went wrong.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-12T12:00:00+00:00",
+    "date_str": "May 12, 2026"
+  },
+  {
+    "title": "STAT+: In the battle of sepsis algorithms, performance alone doesn’t predict victory",
+    "url": "https://www.statnews.com/2026/05/12/ai-sepsis-detection-startups-challenge-epic-systems/?utm_campaign=rss",
+    "summary": "As new AI models for predicting sepsis hit the market, experts say performance alone will not drive adoption by hospitals.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-12T10:00:00+00:00",
+    "date_str": "May 12, 2026"
+  },
+  {
+    "title": "PCOS’s new name is PMOS, a small letter change that required a big scientific process",
+    "url": "https://www.statnews.com/2026/05/12/pcos-now-called-pmos-polyendocrine-metabolic-ovarian-syndrome/?utm_campaign=rss",
+    "summary": "A revised name for PCOS — polyendocrine metabolic ovarian syndrome, or PMOS — was introduced in a paper published Tuesday.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-12T09:00:00+00:00",
+    "date_str": "May 12, 2026"
+  },
+  {
+    "title": "She's trying to outrun pancreatic cancer. Breakthrough treatments give her hope",
+    "url": "https://www.npr.org/2026/05/12/nx-s1-5783797/pancreatic-cancer-breakthroughs-daraxonrasib-mrna",
+    "summary": "Pancreatic cancer is notoriously lethal. But new treatments mean that may be changing, and people with the disease now have more reason to hope than ever before.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-12T09:00:00+00:00",
+    "date_str": "May 12, 2026"
+  },
+  {
+    "title": "Health experts say cruise ship hantavirus outbreak isn't a risk to public at large",
+    "url": "https://www.npr.org/2026/05/12/nx-s1-5818454/health-experts-say-cruise-ship-hantavirus-outbreak-isnt-a-risk-to-public-at-large",
+    "summary": "Passengers who were potentially exposed to hantavirus on a cruise are back home and being monitored for symptoms, as scientists maintain that risk to the public is low.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-12T08:41:57+00:00",
+    "date_str": "May 12, 2026"
+  },
+  {
+    "title": "Former CDC official on agency's role in cruise ship hantavirus outbreak",
+    "url": "https://www.npr.org/2026/05/12/nx-s1-5818438/former-cdc-official-on-agencys-role-in-cruise-ship-hantavirus-outbreak",
+    "summary": "NPR's Michel Martin speaks with former CDC Chief Medical Officer Debra Houry about what role the CDC should play in helping Americans exposed to hantavirus.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-12T08:41:52+00:00",
+    "date_str": "May 12, 2026"
+  },
+  {
+    "title": "Chocolate Recall Expanded; RFK Jr.'s Vast Vaccine Inquiry; Can NAD+ Boost Longevity?",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/productalert/121221",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Spring & Mulberry expanded its voluntary recall of select chocolate bars because of possible Salmonella risk, the FDA posted. While HHS Secretary Robert F...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-12T13:42:38+00:00",
+    "date_str": "May 12, 2026"
+  },
+  {
+    "title": "Included Health launches AI-powered solution to connect members to providers",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/included-health-launches-ai-powered-solution-connect-members-providers",
+    "summary": "The new tool, dubbed Provider Connect, is embedded in the virtual care company’s AI assistant.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-12T14:24:37.442531+00:00",
+    "date_str": "May 12, 2026"
+  },
+  {
+    "title": "The broken pipeline of mental healthcare for LGBTQ teenagers",
+    "url": "https://www.fiercehealthcare.com/providers/broken-pipeline-mental-healthcare-lgbtq-teenagers",
+    "summary": "Despite strong demand, 44% of LGBTQ youth who want mental healthcare say they cannot access it. Fierce Healthcare and Uncloseted Media investigate why.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-12T14:24:37.442584+00:00",
+    "date_str": "May 12, 2026"
+  },
+  {
+    "title": "Survey: Employers seeking greater transparency from pharmacy benefits",
+    "url": "https://www.fiercehealthcare.com/payers/survey-employers-seeking-greater-transparency-pharmacy-benefits",
+    "summary": "Employers want greater transparency in their pharmacy benefits, with many viewing a model that eschews rebates as a key way to get there, according to a new survey.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-12T14:24:37.442615+00:00",
+    "date_str": "May 12, 2026"
+  },
+  {
+    "title": "Hantavirus and COVID: How are they different?",
+    "url": "https://thehill.com/policy/healthcare/5873524-hantavirus-covid-19-how-they-differ/",
+    "summary": "COVID-19 is more contagious and more easily transmissible than hantavirus.",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-12T12:49:42+00:00",
+    "date_str": "May 12, 2026"
+  },
+  {
     "title": "STAT+: Patients jockey for exemptions from Medicaid’s new work requirements",
     "url": "https://www.statnews.com/2026/05/12/medicaid-work-requirements-lobbyists-seek-exemptions-deadline-looms/?utm_campaign=rss",
     "summary": "Advocates for people with HIV and sickle cell disease are among those pushing for exemptions from Medicaid’s new work requirements.",
@@ -9818,185 +9998,5 @@
     "category_slug": "drug-coverage",
     "date": "2026-04-13T09:55:00+00:00",
     "date_str": "Apr 13, 2026"
-  },
-  {
-    "title": "Trump is still trying to DOGE the NIH. Republicans are tired.",
-    "url": "https://www.politico.com/news/2026/04/11/trumps-budget-hawk-is-still-trying-to-slash-medical-research-congress-is-saying-no-00866582",
-    "summary": "The NIH has proven a difficult target for the White House budget director, because lawmakers have a symbiotic relationship with the agency.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-11T16:00:00+00:00",
-    "date_str": "Apr 11, 2026"
-  },
-  {
-    "title": "RFK Jr. has turned corporate America’s name to mud, POLITICO Poll finds",
-    "url": "https://www.politico.com/news/2026/04/11/rfk-food-pharma-regulation-politico-poll-00866079",
-    "summary": "Most Americans, especially Republicans, want to regulate food and drug makers now.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-11T11:00:00+00:00",
-    "date_str": "Apr 11, 2026"
-  },
-  {
-    "title": "After loss in court, RFK Jr. amends guidelines for key vaccine panel to emphasize risks of shots",
-    "url": "https://www.politico.com/news/2026/04/09/rfk-jr-amends-guidelines-for-key-vaccine-panel-00866086",
-    "summary": "A federal judge put the Advisory Committee on Immunization Practices on ice last month. The changes could help Kennedy find a way around that decision.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-09T20:40:27+00:00",
-    "date_str": "Apr 09, 2026"
-  },
-  {
-    "title": "Top drug lobbyist to depart PhRMA at year end",
-    "url": "https://www.politico.com/news/2026/04/08/top-drug-lobbyist-to-depart-phrma-at-year-end-00863907",
-    "summary": "The announcement of Steve Ubl’s departure, disclosed during a board call, caps a decade atop the brand-name drug lobby.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-08T17:00:32+00:00",
-    "date_str": "Apr 08, 2026"
-  },
-  {
-    "title": "Poll: Here’s what MAHA actually believes",
-    "url": "https://www.politico.com/news/2026/04/06/poll-maha-beliefs-rfk-trump-00856922",
-    "summary": "A new POLITICO Poll finds that Robert F. Kennedy Jr.’s Make America Healthy again supporters don’t align with him — or each other — on some key issues.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-06T09:00:00+00:00",
-    "date_str": "Apr 06, 2026"
-  },
-  {
-    "title": "Pennsylvania court overturns limits on Medicaid coverage for abortions",
-    "url": "https://thehill.com/policy/healthcare/pennsylvania-abortion-medicaid/",
-    "summary": "A Pennsylvania court on Monday said that the state's constitution guarantees a right to abortion while striking down a decades-long law banning the use of state Medicaid funds to cover abortion costs. The ruling by a divided seven-judge panel of the appellate-level Commonwealth Court is a major victory for Planned Parenthood and abortion clinic operators...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-04-21T00:25:32+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "Grassley undergoes procedure to remove gallstones",
-    "url": "https://thehill.com/homenews/senate/5840027-grassley-undergoes-gallstone-surgery/",
-    "summary": "Sen. Chuck Grassley (R) said Monday he underwent surgery to remove gallstones and will return to Capitol Hill as soon as possible. Grassley, 92, wrote on the social platform X that he underwent the surgery “over the weekend in Iowa.” The nine-term incumbent, who is the chair of the Senate Judiciary Committee, added that he...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-04-20T21:19:54+00:00",
-    "date_str": "Apr 20, 2026"
-  },
-  {
-    "title": "Joe Rogan joins Trump to sign order allowing psychedelic drug research",
-    "url": "https://thehill.com/homenews/administration/5837641-joe-rogan-donald-trump-executive-order-psychadelic-drug-research-mental-health/",
-    "summary": "Podcaster Joe Rogan joined President Trump and others in the Oval Office on Saturday as he signed an executive order accelerating research for certain psychedelic drugs used to treat mental health disorders. “Today’s order will ensure that people suffering from debilitating symptoms might finally have a chance to reclaim their lives and lead a happier...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-04-18T14:19:50+00:00",
-    "date_str": "Apr 18, 2026"
-  },
-  {
-    "title": "Trump's pick to lead CDC signals shift away from vaccine skepticism",
-    "url": "https://thehill.com/homenews/administration/5837149-cdc-leadership-shift-vaccines/",
-    "summary": "President Trump's selection of a longtime civil servant and public health veteran to run the Centers for Disease Control and Prevention is the strongest signal yet that the administration is shifting away from a rhetoric of vaccine skepticism ahead of the midterm elections. Trump on Thursday tapped Erica Schwartz, the deputy surgeon general during his first term, to...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-04-18T10:00:00+00:00",
-    "date_str": "Apr 18, 2026"
-  },
-  {
-    "title": "Newsom demands answers from RFK Jr. over past comments about Black children on ADHD meds being 're-parented'",
-    "url": "https://thehill.com/policy/healthcare/5837359-newsom-demands-kennedy-answers/",
-    "summary": "California Gov. Gavin Newsom (D) on Friday said he demands answers from Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. regarding comments the secretary made in an interview in 2024 about Black children on certain Attention-Deficit/Hyperactivity Disorder (ADHD) medications being \"re-parented.\" \"We’ve known RFK Jr. has been unfit to serve as Secretary, but...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-04-18T02:08:26+00:00",
-    "date_str": "Apr 18, 2026"
-  },
-  {
-    "title": "California Lawmakers Seek Protections for Patients in ICE Custody",
-    "url": "https://kffhealthnews.org/health-industry/ice-custody-immigrant-patient-protection-california-legislation/",
-    "summary": "Moving through the California Senate are two bills, informed by KFF Health News reporting, that would strengthen protections for patients brought to health facilities by Immigration and Customs Enforcement.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-22T12:40:00+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "Montana Moves Ahead With Doula Pay but Warns Medicaid Cuts Still May Come",
-    "url": "https://kffhealthnews.org/medicaid/doula-care-pregnancy-medicaid-montana-budget-cuts/",
-    "summary": "Montana health officials say they’re seeking to add doula services to the state’s Medicaid program, reversing a previous statement that they would “not be moving forward” amid a budget shortfall.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-22T09:00:00+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "They’re in Remission, but Their Medical Bills Aren’t: Cancer Survivors Navigate Soaring Costs",
-    "url": "https://kffhealthnews.org/health-care-costs/cancer-survival-costs-testing-treatment-premiums-deductibles-trump/",
-    "summary": "The costs of posttreatment care are forcing cancer survivors to make tough choices. GOP proposals to bring down health insurance costs won’t help people who need constant care and monitoring, health policy researchers and patient advocates say.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-22T09:00:00+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "Listen to the Latest ‘KFF Health News Minute’",
-    "url": "https://kffhealthnews.org/news/listen-to-the-latest-kff-health-news-minute-2026/",
-    "summary": "The \"KFF Health News Minute” brings original health care and health policy reporting from our newsroom to the airwaves each week.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-21T14:00:00+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "Real Estate Investors Profit From Long-Term Care While Residents Languish",
-    "url": "https://kffhealthnews.org/health-industry/real-estate-investment-trusts-senior-housing-nursing-homes-profit/",
-    "summary": "Real estate investment trusts are landlords for thousands of nursing homes, assisted living facilities, and hospitals. Some select the managers and keep close watch over their performance but deny responsibility for bad care.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-21T09:00:00+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "Listen: Cheap Health Insurance Isn’t Always Cheap",
-    "url": "https://kffhealthnews.org/insurance/listen-health-care-helpline-life-kit-high-deductible-plans-out-of-pocket-costs/",
-    "summary": "Across the country, people are choosing lower monthly premiums in exchange for higher out-of-pocket risk. Reporter Jackie Fortiér explains what the shift means for Americans’ health and wallets.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-21T09:00:00+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "Democrats Demand Trump Administration Halt Plan To Collect Federal Workers’ Health Data",
-    "url": "https://kffhealthnews.org/health-industry/opm-federal-workers-health-records-hipaa-democratic-letters/",
-    "summary": "After KFF Health News reported that the Trump administration is seeking federal workers’ medical records, Democratic lawmakers are insisting that the Office of Personnel Management drop its request.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-21T09:00:00+00:00",
-    "date_str": "Apr 21, 2026"
-  },
-  {
-    "title": "In Connecticut, Doctors Now Sue Patients Most Over Medical Bills, Surpassing Hospitals",
-    "url": "https://kffhealthnews.org/news/medical-debt-connecticut-doctors-sue-patients/",
-    "summary": "Physicians, dentists, and other nonhospital providers account for more than 80% of health care debt collection cases in Connecticut courts, a CT Mirror-KFF Health News investigation finds.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-20T09:00:00+00:00",
-    "date_str": "Apr 20, 2026"
   }
 ]
