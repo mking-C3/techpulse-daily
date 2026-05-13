@@ -1,5 +1,275 @@
 [
   {
+    "title": "Officials say $1.3 billion in Medicaid money to California will be deferred over suspicions of fraud",
+    "url": "https://www.statnews.com/2026/05/13/medicaid-money-california-deferred-fraud-suspiscions/?utm_campaign=rss",
+    "summary": "Vice President JD Vance announced a $1.3 billion deferral in Medicaid reimbursements to California, as part of an initiative to root out fraud in federal health programs.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-13T19:42:48+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "Opinion: The hantavirus is a wake-up call. Will the Trump administration answer it?",
+    "url": "https://www.statnews.com/2026/05/13/hantavirus-biocontainment-response-cdc-who-pandemic-preparedness/?utm_campaign=rss",
+    "summary": "Arriving in the isolation ward of a biocontainment hospital is an unsettling, scary experience. In 2014, I spent 19 days in one while being treated for Ebola, watching the news…",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-13T19:10:34+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "Opinion: Hospitals are silencing doctors online, and it’s fueling the health misinformation crisis",
+    "url": "https://www.statnews.com/2026/05/13/health-misinformation-doctors-hospitals-social-media-policies/?utm_campaign=rss",
+    "summary": "Hospitals and health systems need to loosen the reins and let physicians combat social media misinformation, writes Adam Goodcoff.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-13T18:15:52+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "STAT+: What the Trump administration wants in its next FDA leader",
+    "url": "https://www.statnews.com/2026/05/13/marty-makary-fda-search-next-commissioner/?utm_campaign=rss",
+    "summary": "Leaders want the next FDA commissioner to be someone who can rebuild trust, focus on food policy, and drive drug-approval reforms.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-13T17:26:08+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "U.S. overdose deaths fell again in 2025, but some worry about policy and drug supply changes",
+    "url": "https://www.statnews.com/2026/05/13/us-overdose-deaths-2025-fell-again/?utm_campaign=rss",
+    "summary": "About 70,000 Americans died of drug overdoses last year — about 14% fewer than the previous year, according to preliminary government data.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-13T16:16:25+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "Medicare halts enrollment of new hospice, home health providers",
+    "url": "https://www.statnews.com/2026/05/13/medicare-halts-enrollment-of-new-hospice-home-health-providers/?utm_campaign=rss",
+    "summary": "The Centers for Medicare and Medicaid Services said it will pause the enrollment of new hospice and home health providers.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-13T15:17:25+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "The ‘velocity of obesity’ aims to show which nations are slowing an epidemic",
+    "url": "https://www.statnews.com/2026/05/13/obesity-rates-bmi-rising-low-income-countries-plateau-wealthier-nations/?utm_campaign=rss",
+    "summary": "A study finds the rise in U.S. obesity rates have hit a plateau in children but are still climbing for adults, and are still high compared to those in other…",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-13T15:00:00+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "Hantavirus: What You Need to Know",
+    "url": "https://www.medpagetoday.com/opinion/faustfiles/121249",
+    "summary": "(MedPage Today) -- How concerned should the public be about the Andes hantavirus outbreak linked to the MV Hondius cruise ship? In this MedPage Today webinar, Editor-in-Chief Jeremy Faust, MD, speaks with infectious disease physician and researcher...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-13T18:13:52+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "Pregnant Physician Trainees Given Parental Support Had Less Burnout",
+    "url": "https://www.medpagetoday.com/obgyn/pregnancy/121248",
+    "summary": "(MedPage Today) -- A parental support package targeting perinatal stressors significantly mitigated burnout among pregnant and postpartum physician trainees, a randomized controlled trial showed. From enrollment during pregnancy to 24 weeks postpartum...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-13T17:32:20+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "HHS Denies Considering SSRI Ban; Suicide Deaths in Youth; Apps for Eating Disorders",
+    "url": "https://www.medpagetoday.com/psychiatry/generalpsychiatry/121247",
+    "summary": "(MedPage Today) -- An HHS spokesperson denied claims that Secretary Robert F. Kennedy Jr., who has linked selective serotonin reuptake inhibitors (SSRIs) to violence and fetal harm, explored a ban on the widely used antidepressants. (Reuters via...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-13T17:12:46+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "Hantavirus, Ivermectin, and the Dangers of the Internet",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/121246",
+    "summary": "(MedPage Today) -- Back in March 2020, I did an interview with a CBS affiliate in Denver. While I was asked several questions about COVID-19 and pandemics in general, the interview was very short. To this day, I believe the most important piece...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-13T17:07:51+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "Virologist Fights Funding Ban; Kennedy's Covert Vax Risk Project; TrumpRx Lobbying",
+    "url": "https://www.medpagetoday.com/special-reports/features/121245",
+    "summary": "(MedPage Today) -- Alleging a \"pattern of deception\" in studies done more than a decade ago, the U.S. government proposed a ban on federal funding to a prominent coronavirus researcher whose recent work has spurred unproven accusations he helped...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-13T17:03:33+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "These States Are Watching for Potential Hantavirus Cases",
+    "url": "https://www.medpagetoday.com/infectiousdisease/publichealth/121244",
+    "summary": "(MedPage Today) -- Several Americans are already being monitored at home",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-13T16:51:41+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "Overdose Deaths Fell Again in 2025, but Some Worry About Policy, Drug Supply Changes",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/opioids/121242",
+    "summary": "(MedPage Today) -- About 70,000 Americans died of drug overdoses last year -- about 14% fewer than the previous year, according to preliminary government data. It was the third straight annual drop, making it the longest decline in decades...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-13T16:17:00+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "NYU Hospital Subpoenaed Over Gender-Affirming Care in Minors",
+    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/121241",
+    "summary": "(MedPage Today) -- A New York hospital system says it received a grand jury subpoena from federal prosecutors in Texas seeking information about children who received gender-affirming care and the medical providers who administered it. NYU Langone...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-13T15:21:58+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "Study Reassures on Azithromycin in Pregnancy and Neurodevelopmental Risks",
+    "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/121240",
+    "summary": "(MedPage Today) -- Azithromycin exposure in pregnancy was not associated with neurodevelopmental disorders in offspring, according to a retrospective cohort study, and use in late pregnancy was linked with some lower risks. Among over 15,000 mother...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-13T14:34:13+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "CMS suspends new Medicare enrollment of hospice, home health providers",
+    "url": "https://www.healthcaredive.com/news/cms-suspends-new-medicare-enrollment-hospice-home-health-six-months/820137/",
+    "summary": "The agency is halting enrollments for six months as part of the Trump administration’s broader attempt to crack down on fraud in government healthcare programs. Hospice and home health groups said they largely supported the moratorium.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-13T16:47:20+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "Mayo Clinic CEO to step down at year’s end",
+    "url": "https://www.healthcaredive.com/news/mayo-clinic-ceo-step-down-gianrico-farrugia/820081/",
+    "summary": "Dr. Gianrico Farrugia has led the system since 2019. The Rochester, Minnesota-based health system said it could elect Mayo’s next leader in November.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-13T12:46:04+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "NYU Langone Health says it received grand jury subpoena over gender-affirming care",
+    "url": "https://www.fiercehealthcare.com/providers/nyu-langone-health-says-it-received-grand-jury-subpoena-over-gender-affirming-care",
+    "summary": "The health system disclosed that it is \"one of several institutions\" facing a criminal investigation over its delivery of the services to minors, an escalation in the Trump administration's pressure campaign.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-13T19:54:33.243053+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "Health systems are exploring AI-powered cardiac risk screening. New CMS reimbursement could unlock a business case for it",
+    "url": "https://www.fiercehealthcare.com/health-tech/health-systems-are-exploring-ai-powered-opportunistic-screening-new-cms-reimbursement",
+    "summary": "Bunkerhill Health executives offered a deeper look at the process for securing a CMS reimbursement pathway for AI-enabled cardiovascular analysis.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-13T19:54:33.243097+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "CMS pauses hospice, home health Medicare enrollments in fraud crackdown",
+    "url": "https://www.fiercehealthcare.com/regulatory/cms-pauses-hospice-home-health-medicare-enrollments-fraud-crackdown",
+    "summary": "The Trump administration has issued a six-month moratorium on hospice and home health agencies enrolling in Medicare as part of its efforts to combat fraud.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-13T19:54:33.243120+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "Most mental health practitioners satisfied with work, financially stable, SimplePractice finds",
+    "url": "https://www.fiercehealthcare.com/providers/most-mental-health-practitioners-satisfied-work-simplepractice-finds",
+    "summary": "The report, which draws on survey insights and aggregated data from the platform, looked at job satisfaction, financial health and AI sentiment among mental health practitioners.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-13T19:54:33.243142+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "RFK Jr.'s chief HHS spokesperson resigns over flavored vapes",
+    "url": "https://thehill.com/policy/healthcare/5876725-kennedy-hhs-spokesperson-resigns-e-cigarette-flavors/",
+    "summary": "Health and Human Services Secretary Robert F. Kennedy Jr.’s chief spokesperson resigned from the role on Wednesday, citing irreconcilable differences with an effort to advance e-cigarette flavors that could cause children to become addicted. Rich Danker left his role as assistant secretary for public affairs a day after Food and Drug Administration (FDA) Commissioner Marty...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-13T19:52:30+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "White House threatens to withhold Medicaid money from states over fraud",
+    "url": "https://thehill.com/homenews/administration/5876707-states-face-medicaid-fraud-crackdown/",
+    "summary": "The Trump administration is threatening to withhold Medicaid money from all 50 states if they do not show that they are complying with federal anti-fraud statutes. Vice President Vance told reporters Wednesday that a letter sent to states by the Department of Health and Human Services inspector general requires them to show that they are...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-13T19:07:10+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "Fatal drug overdoses fall for third straight year: CDC",
+    "url": "https://thehill.com/policy/healthcare/5876308-overdose-deaths-drop-three-years/",
+    "summary": "Newly released provisional data from the Centers for Disease Control and Prevention (CDC) shows that fatal drug overdoses fell in 2025, marking three consecutive years of declines. By December 2025, the number of reported drug overdose deaths in the U.S. fell by 14 percent to 68,632 deaths, according to provisional data. The predicted number of...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-13T18:09:25+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "Trump administration freezes Medicare enrollments for new home health care, hospice providers",
+    "url": "https://thehill.com/policy/healthcare/5876361-trump-administration-freeze-medicare-enrollments-hospice/",
+    "summary": "The Department of Health and Human Services (HHS) is placing a moratorium on new Medicare enrollments from home health care and hospice providers, as part of the Trump administration's efforts to combat fraud. The six-month freeze went into effect immediately on Wednesday, according to the department’s announcement. The decision will prevent these providers from signing...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-13T17:20:52+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "Hantavirus outbreak grows to 11 cases",
+    "url": "https://thehill.com/policy/healthcare/5876149-hantavirus-cases-increase-worldwide/",
+    "summary": "The hantavirus outbreak grew to 11 cases on Tuesday, after a French woman became infected while aboard a cruise ship and is now being treated with an artificial lung in Paris and a Spanish passenger tested positive after departing the ship. The World Health Organization (WHO) confirmed nine of the 11 cases. A Dutch couple...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-13T17:05:25+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
     "title": "Trump and Kennedy Seek To Relax Safeguards for AI Healthcare Tools",
     "url": "https://kffhealthnews.org/health-industry/ai-artificial-intelligence-ambient-scribes-ehr-electronic-health-records-hhs-deregulation/",
     "summary": "For years, the Department of Health and Human Services built standards to make sure electronic health records were user-friendly and offered transparent advice to doctors. Now they’re relaxing those standards, and doctors and critics in the hospital industry are worried.",
@@ -9728,275 +9998,5 @@
     "category_slug": "senior-health",
     "date": "2026-04-23T14:19:51+00:00",
     "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "RFK Jr. Flips Position on CDC Chief; $440,000 Breast Surgery; House Member Dies",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/120918",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Erica Schwartz, MD, MPH, will be able to independently make vaccine decisions if confirmed as CDC director, Health Secretary Robert ‌F. Kennedy Jr. told Senators...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-23T13:39:55+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "Molina controls costs in Q1 but future Medicaid spending in doubt",
-    "url": "https://www.healthcaredive.com/news/molina-moh-q1-2026-cost-control-medicaid-doubt/818236/",
-    "summary": "The insurer beat analyst expectations for adjusted earnings in the first quarter. But steeper Medicaid membership losses than expected could saddle Molina with higher costs down the line.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-23T16:03:52+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "CMS, FDA unveil speedier Medicare coverage pathway for breakthrough devices",
-    "url": "https://www.healthcaredive.com/news/cms-fda-unveil-speedier-medicare-coverage-pathway-for-breakthrough-devices/818328/",
-    "summary": "The pathway is designed to reduce the delay between FDA authorization and Medicare coverage for certain Class II and Class III breakthrough medical devices.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-23T15:55:00+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "Flagging first-quarter volumes dragged CHS’ earnings",
-    "url": "https://www.healthcaredive.com/news/flagging-first-quarter-volumes-dragged-chs-into-the-red/818217/",
-    "summary": "Executives said consumer fears and aggressive denials from payers fueled declining volumes in the quarter, leading CHS to a $58 million loss. Still, the hospital operator expects volumes to pick up in the back half of the year.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-23T15:42:35+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "AMA urges lawmakers to implement safeguards on AI chatbots",
-    "url": "https://www.healthcaredive.com/news/american-medical-association-ama-urges-congress-ai-chatbot-mental-health-safeguards/818269/",
-    "summary": "Though chatbots could have some benefits for mental health access, the physician lobby argued “immediate attention is required” to avoid harming patients looking for support.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-23T15:32:10+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "Molina strikes 'prudent' tone on 2026 outlook amid positive signs on Medicaid spending",
-    "url": "https://www.fiercehealthcare.com/payers/molina-strikes-prudent-tone-2026-outlook-amid-positive-signs-medicaid-spending",
-    "summary": "Molina Healthcare took the \"prudent\" route of reaffirming its 2026 outlook as questions loom in the Medicaid business.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-23T19:07:31.252629+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "FTC reaches tentative deal in anesthesiology 'roll-up scheme' litigation",
-    "url": "https://www.fiercehealthcare.com/regulatory/ftc-secures-11th-hour-settlement-pe-firm-welsh-carson-over-alleged-roll-scheme",
-    "summary": "The regulator's 2023 complaint against USAP was rife with criticisms of its private equity backer. There was no mention of the firm in this week's announcement, which follows a separate 2025 deal and a new commission chair less opposed to such investors on a matter of principle.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-23T19:07:31.252689+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "CMS, FDA announce new program to speed up Medicare coverage of breakthrough medical devices",
-    "url": "https://www.fiercehealthcare.com/health-tech/cms-fda-announce-new-program-speed-medicare-coverage-breakthrough-medical-devices",
-    "summary": "The Trump administration unveiled a new program to speed up Medicare coverage for breakthrough devices, touting that the new pathway cuts red tape for medical device companies to gain reimbursement. CMS said it will pause the existing TCET pathway.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-23T19:07:31.252723+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "Telehealth provider Him & Hers adds all FDA-approved GLP-1s to platform",
-    "url": "https://www.fiercehealthcare.com/telehealth/telehealth-provider-him-hers-adds-all-fda-approved-glp-1s-platform",
-    "summary": "Providers can now send prescriptions of Eli Lily’s Zepbound, Mounjaro and oral Foundayo, as well as Novo Nordisk’s Ozempic and Wegovy.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-23T19:07:31.252759+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "Conservative think tank Paragon Health calls its shots on hospital policy reform",
-    "url": "https://www.fiercehealthcare.com/providers/conservative-think-tank-paragon-health-calls-its-shots-hospital-policy-reform",
-    "summary": "A conservative policy shop with proven sway over the Trump administration released a new report undercutting the hospital industry's claims of widespread financial distress. An included 12-point wish list spanning site-neutral Medicare rates to more specific tax reporting builds on its recent victories over the hospital lobby.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-23T19:07:31.252793+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "The Gates Foundation is reviewing its Epstein ties as released emails raise questions for funders",
-    "url": "https://thehill.com/policy/healthcare/gates-foundation-jeffriey-epstein-review/",
-    "summary": "NEW YORK (AP) — The Gates Foundation is reviewing its ties to convicted sex offender Jeffrey Epstein, the global health funder confirmed Wednesday, as its only remaining founder faces mounting scrutiny over his appearances in Justice Department documents related to its investigation of the disgraced financier. Microsoft founder Bill Gates reportedly spoke “candidly” about his...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-04-22T18:01:20+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "Food Stamp Work Rules Don’t Increase Employment, Researchers Say",
-    "url": "https://kffhealthnews.org/medicaid/food-stamps-snap-work-requirements-hunger-west-virginia-foodbanks/",
-    "summary": "Work requirements will encourage people who are able to work to seek and maintain jobs, proponents say. But researchers haven’t found that they lower the unemployment rate.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-23T09:00:00+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "Medigap Premiums Leap, and Consumers Have Few Alternatives",
-    "url": "https://kffhealthnews.org/medicare/medigap-medicare-advantage-premiums-rate-increase-few-alternatives/",
-    "summary": "Millions of people rely on the supplemental insurance to offset the deductibles, copayments, and other costs faced by enrollees in the traditional Medicare program.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-23T09:00:00+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "Trump reclassifies state-licensed medical marijuana as a less-dangerous drug in a historic shift",
-    "url": "https://www.statnews.com/2026/04/23/trump-reclassifies-state-licensed-medical-marijuana-less-dangerous-drug/?utm_campaign=rss",
-    "summary": "President Trump is reclassifying state-licensed medical marijuana as a less-dangerous drug, a major policy shift long sought by advocates.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-23T13:24:24+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about cheap telehealth visits, pharma withholding meds in Europe, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/04/23/telehealth-visits-pharma-withholding-new-meds-in-europe/?utm_campaign=rss",
-    "summary": "Drugmakers have begun using coupons to discount the cost of telehealth visits with clinicians who can prescribe their drugs",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-23T13:22:42+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "Across 7 hearings, RFK Jr. talks a new, more moderate MAHA",
-    "url": "https://www.statnews.com/2026/04/23/health-news-rfk-jr-more-moderate-maha-hearing/?utm_campaign=rss",
-    "summary": "Discount telehealth visits, maternal mortality data, and more health news from Morning Rounds",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-23T12:00:24+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "STAT+: Can Erasca be biotech’s next big thing? We’ll see",
-    "url": "https://www.statnews.com/2026/04/23/erasca-oncology-cancer-drug-stock/?utm_campaign=rss",
-    "summary": "Can Erasca be biotech's next big thing?",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-23T10:30:00+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "Opinion: Kennedy’s new silence on vaccines is political — and it won’t last",
-    "url": "https://www.statnews.com/2026/04/23/kennedy-vaccines-midterms-politics/?utm_campaign=rss",
-    "summary": "Kennedy’s public messaging on vaccines has shifted ahead of the midterms. It won’t last.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-23T08:30:00+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "STAT+: Will bargain-basement telehealth visits help pharma drive drug scripts?",
-    "url": "https://www.statnews.com/2026/04/23/telehealth-visit-deep-discounts-questions-raised-pharma-ties/?utm_campaign=rss",
-    "summary": "As links between pharmaceutical companies and telehealth providers grow, health policy experts and legislators have sounded alarms.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-23T08:30:00+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "Two startlingly different views on long-awaited data on America's anti-HIV efforts",
-    "url": "https://www.npr.org/2026/04/23/g-s1-118221/hiv-aids-pepfar-trump-foreign-aid",
-    "summary": "After a year without data, the State Department released figures on PEPFAR, the program launched by George W. Bush and credited with saving millions of lives. How did Trump's aid cuts affect it?",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-23T10:51:12+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "Sycophantic AI flatters and suggests you are not to blame",
-    "url": "https://www.npr.org/2026/04/23/nx-s1-5792867/ai-chatbot-flattery-mental-health-risks",
-    "summary": "The AI models and chatbots that we interact with tend to affirm our feelings and viewpoints — more so than people do, with potentially worrisome consequences.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-23T10:00:00+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "OpenAI launches ChatGPT for Clinicians, a free AI tool for physicians, NPs and pharmacists",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/openai-launches-chatgpt-clinicians-free-ai-tool-physicians-nps-and",
-    "summary": "OpenAI unveiled on Wednesday ChatGPT for Clinicians, a version of ChatGPT designed to support clinical tasks like documentation and medical research.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-23T13:28:51.967159+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "Condom costs could rise as Iran war disrupts supply chains",
-    "url": "https://thehill.com/business/personal-finance/5844344-condom-costs-surge-supply-chain-iran-war/",
-    "summary": "Since the war began in late February, Karex has faced rising prices for materials used to produce and package condoms.",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-04-23T12:55:01+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "Trump administration reclassifies state-licensed medical marijuana as less dangerous drug",
-    "url": "https://thehill.com/homenews/administration/5844758-trump-administration-medical-marijuana-reclassification/",
-    "summary": "Acting Attorney General Todd Blanche signed an order Thursday to reclassify state-licensed medical marijuana as a less dangerous drug. The order shifts the designation of licensed medical marijuana from a high level of regulation to a much looser level. It also provides a tax break to licensed medical marijuana operators This move does not legalize...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-04-23T12:43:28+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "Trump’s Rogan-inspired psychedelics order stokes cautious optimism",
-    "url": "https://thehill.com/policy/healthcare/5843764-trump-rogan-psychedelic-research-order/",
-    "summary": "President Trump's executive order loosening research restrictions on psychedelic medicine, which was kick-started by a text to Trump from podcaster Joe Rogan, could help legitimize an industry that's long operated in the shadows. Advocates and researchers said they are optimistic about a potential shift in how the government views psychedelic drugs, but without further action,...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-04-23T10:00:00+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "How the DOJ Is Tackling Fraud in the ACA Marketplace",
-    "url": "https://medcitynews.com/2026/04/how-the-doj-is-tackling-fraud-in-the-aca-marketplace/",
-    "summary": "At the Medicarians Conference, Ricardo Carcas, assistant special agent in charge of the Office of Investigations, discussed cases of fraud in the ACA and how the DOJ is combatting it. The post How the DOJ Is Tackling Fraud in the ACA Marketplace appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-22T22:39:12+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "Your Doctors and Nurses Are Burned Out. Here’s What They Need",
-    "url": "https://medcitynews.com/2026/04/your-doctors-and-nurses-are-burned-out-heres-what-they-need/",
-    "summary": "These day-to-day issues are directly responsible for rising rates of clinician burnout, exacerbating the serious shortage of doctors and nurses facing the US in the next decade. The post Your Doctors and Nurses Are Burned Out. Here’s What They Need appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-17T14:00:00+00:00",
-    "date_str": "Apr 17, 2026"
   }
 ]
