@@ -1,5 +1,195 @@
 [
   {
+    "title": "Trump and Kennedy Seek To Relax Safeguards for AI Healthcare Tools",
+    "url": "https://kffhealthnews.org/health-industry/ai-artificial-intelligence-ambient-scribes-ehr-electronic-health-records-hhs-deregulation/",
+    "summary": "For years, the Department of Health and Human Services built standards to make sure electronic health records were user-friendly and offered transparent advice to doctors. Now they’re relaxing those standards, and doctors and critics in the hospital industry are worried.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-13T09:00:00+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "RFK Jr. Swaps Vaccine Talk for Healthy Foods and Reading to Tots in Push To Woo Voters",
+    "url": "https://kffhealthnews.org/public-health/rfk-make-america-healthy-again-tour-midterms-ohio-food-head-start-vaccines/",
+    "summary": "He tested robotic hands on a heart surgery patient and chewed on microgreens in Ohio, but Health and Human Services Secretary Robert F. Kennedy Jr. couldn’t dodge questions about the Trump administration’s more controversial policies.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-13T09:00:00+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "How Value-Based Care Could Finally Fix What’s Broken in Autism Treatment",
+    "url": "https://medcitynews.com/2026/05/how-value-based-care-could-finally-fix-whats-broken-in-autism-treatment/",
+    "summary": "The clinicians working in this system are often deeply committed to their patients. The problem is the system itself which rewards the quantity of time and largely ignores the quality of the treatment’s impact. The post How Value-Based Care Could Finally Fix What’s Broken in Autism Treatment appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-13T14:16:00+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "Stigma Is The Real Delay In Healthcare",
+    "url": "https://medcitynews.com/2026/05/stigma-is-the-real-delay-in-healthcare/",
+    "summary": "The longer someone waits to seek help, the more their condition progresses, the harder it becomes to intervene, and the easier it becomes to keep waiting. Delay compounds. That’s what makes it so dangerous, and so worth targeting directly. The post Stigma Is The Real Delay In Healthcare appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-13T13:42:00+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "The Changing Landscape of New Approach Methodologies",
+    "url": "https://medcitynews.com/2026/05/the-changing-landscape-of-new-approach-methodologies/",
+    "summary": "Now more than ever, NAMs need to be considered a core aspect of modern drug development – and scientists, decision-makers, regulators and governments must keep pace with this evolving landscape to ensure they are equipped to deliver the next-generation of therapies. The post The Changing Landscape of New Approach Methodologies appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-13T13:14:00+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "New subpoena suggests DOJ has begun criminal investigation of gender-affirming care",
+    "url": "https://www.statnews.com/2026/05/13/gender-affirming-care-minors-doj-subpoenas-suggest-criminal-probe/?utm_campaign=rss",
+    "summary": "Several hospitals have received federal grand jury subpoenas regarding gender-affirming care for minors, suggesting a criminal investigation has begun.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-13T13:54:13+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "STAT+: Gene therapy viruses linked to a boy’s tumor",
+    "url": "https://www.statnews.com/2026/05/13/biotech-news-gene-therapy-viruses-linked-to-a-boys-tumor/?utm_campaign=rss",
+    "summary": "The case for Makary as the WOAT, Cassidy's seat at risk ahead of midterms, and other biotech news from The Readout",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-13T13:35:07+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about FDA’s Makary resigning, a Lilly weight loss drug trial, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/05/13/fda-makary-resigning-lilly-weight-loss-drug-trial/?utm_campaign=rss",
+    "summary": "FDA Commissioner Marty Makary is resigning, and Kyle Diamantas, the agency's top food regulator, will step in as acting commissioner",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-13T13:28:55+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "STAT+: AI medical devices’ dirty FDA secret",
+    "url": "https://www.statnews.com/2026/05/13/ai-medical-devices-dirty-fda-secret-ai-prognosis/?utm_campaign=rss",
+    "summary": "In this edition of STAT's AI Prognosis newsletter: A look at the quirks of the most common FDA medical device approval pathway, sepsis algorithms, and more.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-13T13:13:54+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "Extreme heat is worsening faster for Black Americans",
+    "url": "https://www.statnews.com/2026/05/13/health-news-extreme-heat-worsens-faster-for-black-american/?utm_campaign=rss",
+    "summary": "Bill Cassidy's can't-win conundrum, what RFK Jr. gets right and wrong about antidepressants, and more health news",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-13T11:46:32+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "STAT+: Scientists link boy’s tumor to gene therapy viruses, in rare finding",
+    "url": "https://www.statnews.com/2026/05/13/gene-therapy-cancer-risks-mps-hurler-syndrome/?utm_campaign=rss",
+    "summary": "Doctors have linked a boy's tumor to a gene therapy, but say the rare risks need to be weighed against the profound benefits such medicines can offer.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-13T10:00:00+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "STAT+: Drug meant to make gene therapy safer may also make it less effective",
+    "url": "https://www.statnews.com/2026/05/13/encoded-therapeutics-dravet-syndrome-study-sirolimus-safety-tradeoff/?utm_campaign=rss",
+    "summary": "Encoded Therapeutics gives a heads-up to other gene therapy company about the trade-offs with a drug meant to improve safety.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-13T10:00:00+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "Engaging with the arts can slow biological aging, study shows",
+    "url": "https://www.npr.org/2026/05/12/nx-s1-5818172/study-arts-slow-biological-aging",
+    "summary": "Eat well and exercise. That's the classic advice for living a long, healthy life. A new study suggests another habit to add to the list: Let your creative juices flow.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-12T08:44:13+00:00",
+    "date_str": "May 12, 2026"
+  },
+  {
+    "title": "Nurse Tortured, Prosecutors Say; Hantavirus Case Critically Ill; Skin Cream Recall",
+    "url": "https://www.medpagetoday.com/nursing/nursing/121239",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Katherine Torbick, RN, of Illinois, was allegedly tortured before being murdered by her boyfriend, according to prosecutors. (People) Jason Collins, the NBA's first...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-13T13:31:46+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "Bayesian Health gets FDA nod for AI sepsis detection tool",
+    "url": "https://www.healthcaredive.com/news/bayesian-health-gets-fda-nod-for-ai-sepsis-detection-tool/820107/",
+    "summary": "Created by Johns Hopkins University researchers, the early warning system for sepsis aims to help physicians detect the serious condition earlier.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-12T15:55:59+00:00",
+    "date_str": "May 12, 2026"
+  },
+  {
+    "title": "ACA exchanges take spotlight in Q1",
+    "url": "https://www.fiercehealthcare.com/providers/aca-exchanges-take-spotlight-q1",
+    "summary": "Paige Minemyer and Dave Muoio break down the biggest trends from payer and health system Q1 earnings, including ACA exchange instability, winter storm fallout and signs of a Medicare Advantage rebound.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-13T14:32:51.091602+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "RFK Jr.’s looming vaccine decisions to test White House midterm strategy",
+    "url": "https://www.politico.com/news/2026/05/13/kennedy-vaccines-midterms-white-house-00918203",
+    "summary": "Trump says vaccines are off the agenda. Kennedy’s next moves may say otherwise",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-13T14:00:00+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "Map: The states monitoring hantavirus exposures after cruise ship outbreak",
+    "url": "https://thehill.com/policy/healthcare/5874852-map-the-states-monitoring-hantavirus-exposures-after-cruise-ship-outbreak/",
+    "summary": "Several states have either confirmed their residents were aboard the cruise ship or were otherwise exposed to the virus.",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-13T14:21:35+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
+    "title": "Trump shared fake Sen. Kennedy quote about Obama",
+    "url": "https://thehill.com/homenews/administration/5875776-donald-trump-john-kennedy-barack-obama-fake-health-care-post/",
+    "summary": "President Trump on Monday shared a quote falsely attributed to Sen. John Kennedy (R-La.), in which he accused former President Obama of earning $120 million from a health care scheme. The Truth Social post included a screenshot of a statement from one user that read, “U.S. Senator John Kennedy is now publicly demanding that Barack...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-13T14:08:51+00:00",
+    "date_str": "May 13, 2026"
+  },
+  {
     "title": "Opinion: RFK Jr.’s antidepressant deprescribing push gets one thing right — and others dangerously wrong",
     "url": "https://www.statnews.com/2026/05/13/antidepressant-deprescribing-kennedy-ssris/?utm_campaign=rss",
     "summary": "“Deprescribing requires gradual tapering, psychological support, careful risk stratification, and accessible alternatives — none of which Kennedy’s initiative provides at scale.”",
@@ -9808,195 +9998,5 @@
     "category_slug": "medicare-news",
     "date": "2026-04-17T14:00:00+00:00",
     "date_str": "Apr 17, 2026"
-  },
-  {
-    "title": "Strengthening Social Security in a Changing World",
-    "url": "https://medcitynews.com/2026/04/strengthening-social-security-in-a-changing-world/",
-    "summary": "The future of social security depends on the strength of our collaboration and our unwavering commitment to the people we serve. The challenges are significant, but so are the opportunities for innovation. The post Strengthening Social Security in a Changing World appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-17T13:34:00+00:00",
-    "date_str": "Apr 17, 2026"
-  },
-  {
-    "title": "Wisp, Visby Partner to Expand Access to At-Home STI Test",
-    "url": "https://medcitynews.com/2026/04/wisp-visby-sti-testing/",
-    "summary": "Wisp partnered with Visby Medical to expand access to Visby’s at-home sexually transmitted infection test and provide follow-up treatment through Wisp’s telehealth platform. The post Wisp, Visby Partner to Expand Access to At-Home STI Test appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-16T21:20:23+00:00",
-    "date_str": "Apr 16, 2026"
-  },
-  {
-    "title": "CMS’ New ‘App Store’ Is Trying to Turn Interoperability Into a Digital Health Distribution System",
-    "url": "https://medcitynews.com/2026/04/cms-digital-health-data/",
-    "summary": "CMS is rolling out its health tech ecosystem initiative with a new Medicare app library that functions like a healthcare “App Store,” aiming to make patient data more portable and accessible across vetted digital health apps. The post CMS’ New ‘App Store’ Is Trying to Turn Interoperability Into a Digital Health Distribution System appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-16T21:11:34+00:00",
-    "date_str": "Apr 16, 2026"
-  },
-  {
-    "title": "Startup Nula Emerges to Advance a New Class of Medicines for Metabolic Disease",
-    "url": "https://medcitynews.com/2026/04/nula-therapeutics-nuclear-envelope-metabolic-disease-obesity-mash-startup/",
-    "summary": "The fatty liver disease MASH is one of the metabolic disorders that Nula Therapeutics is pursuing. The startup’s small molecules are intended to restore the integrity of the nuclear envelope, a cellular membrane whose dysfunction can contribute to metabolic disease. The post Startup Nula Emerges to Advance a New Class of Medicines for Metabolic Disease appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-16T19:15:21+00:00",
-    "date_str": "Apr 16, 2026"
-  },
-  {
-    "title": "The Key Biomarkers Changing How and When We Diagnose Alzheimer’s Disease",
-    "url": "https://medcitynews.com/2026/04/the-key-biomarkers-changing-how-and-when-we-diagnose-alzheimers-disease/",
-    "summary": "Innovations in biomarker science, particularly in cerebrospinal fluid (CSF) and blood, are expanding Alzheimer’s testing beyond specialty care. The post The Key Biomarkers Changing How and When We Diagnose Alzheimer’s Disease appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-16T13:22:00+00:00",
-    "date_str": "Apr 16, 2026"
-  },
-  {
-    "title": "The End of Incrementalism: Why Healthcare Innovation is Finally Reshaping the Model",
-    "url": "https://medcitynews.com/2026/04/the-end-of-incrementalism-why-healthcare-innovation-is-finally-reshaping-the-model/",
-    "summary": "The difference between that last era and this one isn’t incremental. It’s categorical. Artificial intelligence isn’t optimizing the old system. It’s making the old system economically indefensible. The post The End of Incrementalism: Why Healthcare Innovation is Finally Reshaping the Model appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-16T13:16:00+00:00",
-    "date_str": "Apr 16, 2026"
-  },
-  {
-    "title": "New Bill Seeks to Lower Out-of-Pocket Drug Costs",
-    "url": "https://medcitynews.com/2026/04/new-bill-seeks-to-lower-out-of-pocket-drug-costs/",
-    "summary": "Rep. Greg Murphy introduced a bill that would require out-of-pocket prescription drug spending to count toward patients’ deductibles and out-of-pocket maximums regardless of where the drugs are purchased. The post New Bill Seeks to Lower Out-of-Pocket Drug Costs appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-15T23:37:49+00:00",
-    "date_str": "Apr 15, 2026"
-  },
-  {
-    "title": "Why Innovaccer Is Pouring $250M into Its Agentic AI Platform",
-    "url": "https://medcitynews.com/2026/04/innovaccer-ai-data/",
-    "summary": "Innovaccer is committing $250 million to expand its AI agent platform, which automates workflows across areas like prior authorization, revenue cycle management and population health. The move comes amid an ongoing debate over whether administrative AI tools can ultimately reduce costs for providers. The post Why Innovaccer Is Pouring $250M into Its Agentic AI Platform appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-15T19:06:25+00:00",
-    "date_str": "Apr 15, 2026"
-  },
-  {
-    "title": "STAT+: Publicly, Kennedy embraces a more moderate MAHA",
-    "url": "https://www.statnews.com/2026/04/22/kennedy-congressional-testimony-analysis-new-moderate-maha/?utm_campaign=rss",
-    "summary": "Kennedy continues to make waves across health care, but he's pulled back on a number of core MAHA issues.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-22T21:58:22+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "U.S. Officials Nix Publication of Study on COVID Vaccine Effectiveness",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/washington-watch/120916",
-    "summary": "(MedPage Today) -- U.S. health officials stopped the publication of a study on whether the COVID-19 vaccine was keeping adults from becoming sick enough to have to go to the hospital. An HHS spokesman on Wednesday confirmed the decision to halt...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-22T21:44:37+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "If It's COVID, Paxlovid? Studies Suggest a Rethink These Days",
-    "url": "https://www.medpagetoday.com/infectiousdisease/covid19/120915",
-    "summary": "(MedPage Today) -- Oral nirmatrelvir-ritonavir (Paxlovid) failed to spare COVID-19-vaccinated individuals from the worst outcomes if they got sick, though it may have helped speed recovery time and cut viral loads, according to two community-based...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-22T21:37:27+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "First Clinical Trial in MOGAD Meets Primary Endpoint",
-    "url": "https://www.medpagetoday.com/meetingcoverage/aan/120914",
-    "summary": "(MedPage Today) -- The interleukin-6 (IL-6) inhibitor satralizumab (Enspryng) met its primary endpoint in the phase III METEOROID trial of myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD). Satralizumab reduced the risk of...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-22T21:20:23+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "Study Linking Fruits, Veggies to Lung Cancer Raises Eyebrows",
-    "url": "https://www.medpagetoday.com/meetingcoverage/aacr/120913",
-    "summary": "(MedPage Today) -- SAN DIEGO -- Outside experts expressed caution about a study suggesting a link between early onset lung cancer and diets rich in fruits, vegetables, and whole grains. Survey data on 187 lung cancer patients ages 50 and younger...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-22T21:09:34+00:00",
-    "date_str": "Apr 22, 2026"
-  },
-  {
-    "title": "Zocdoc partners with Yelp to allow real-time scheduling",
-    "url": "https://www.fiercehealthcare.com/health-tech/zocdoc-partners-yelp-allow-real-time-scheduling",
-    "summary": "The capability is now available on Yelp’s iOS app on provider pages and through the platform’s new artificial intelligence chatbot, Yelp Assistant. It will expand to Android and desktop later this year, the announcement said.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-23T02:36:15.458320+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "Hippocratic AI rolls out 2 new tools aimed at expanding clinical access, improving nurse workflow",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hippocratic-ai-rolls-out-2-new-tools-aimed-expanding-clinical-access",
-    "summary": "The startup developed the tools, dubbed AI Front Door and Nurse Co-Pilot, as voice AI tools for patients and inpatient nurses.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-23T02:36:15.458392+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "In Connecticut, doctors now sue patients most over medical bills, surpassing hospitals",
-    "url": "https://www.fiercehealthcare.com/providers/connecticut-doctors-now-sue-patients-most-over-medical-bills-surpassing-hospitals",
-    "summary": "Records show lawsuits by doctors and other nonhospital providers now account for more than 80% of healthcare collections cases filed against patients and their families in 2024.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-23T02:36:15.458426+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "Breast cancer’s next precision medicine revolution may lie in molecular residual disease",
-    "url": "https://www.fiercehealthcare.com/practices/breast-cancers-next-precision-medicine-revolution-may-lie-molecular-residual-disease",
-    "summary": "New data shows potential for ctDNA to guide treatment decisions for patients with triple-negative breast cancer",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-23T02:36:15.458454+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "Why Payers Need Agent-to-Agent Orchestration",
-    "url": "https://www.fiercehealthcare.com/sponsored/why-payers-need-agent-agent-orchestration",
-    "summary": "To move beyond fragmented pilot programs and achieve truly efficient service, payers must adopt a strategic, unified approach to managing their intelligent workforce.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-23T02:36:15.458481+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "GOP health care policies have set the swamp on fire",
-    "url": "https://www.politico.com/news/2026/04/22/lobbying-health-care-trump-rfk-00886828",
-    "summary": "New disclosures show health industry firms and trade groups are spending more than ever to influence Washington.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-22T21:55:00+00:00",
-    "date_str": "Apr 22, 2026"
   }
 ]
