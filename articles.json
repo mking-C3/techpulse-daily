@@ -1,5 +1,195 @@
 [
   {
+    "title": "License To Deliver: Some Midwives Break the Law To Assist With Home Births",
+    "url": "https://kffhealthnews.org/health-industry/certified-professional-midwives-home-births-state-licensure-lack-georgia/",
+    "summary": "Some states bar professional midwives from attending home births if they don’t have a nursing license. Their advocates say laws to allow midwife licensing would make home birth safer and more accessible, plus help address a maternity care shortage.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-14T09:00:00+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "Trump Demands Medicaid Data for Deportation. Some States Go a Step Further.",
+    "url": "https://kffhealthnews.org/medicaid/medicaid-immigrants-deportation-state-data-legislation-north-carolina/",
+    "summary": "Several states have required their health agencies to take on another job: verifying immigration status among Medicaid recipients and reporting them to the U.S. Department of Homeland Security. North Carolina is the latest to pass such a law, and experts expect more to follow.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-14T09:00:00+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "Hantavirus News Roundup: From Céline Gounder of KFF Health News",
+    "url": "https://kffhealthnews.org/public-health/hantavirus-mv-hondius-news-roundup-celine-gounder-tv-clips/",
+    "summary": "Following a recent outbreak of the deadly hantavirus on the cruise ship MV Hondius, KFF Health News editor-at-large and infectious disease doctor Céline Gounder spoke to numerous media outlets about the risks from the disease.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-14T09:00:00+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "Our Aging Population is Forcing a Rethink of How We Design & Package Medicines",
+    "url": "https://medcitynews.com/2026/05/our-aging-population-is-forcing-a-rethink-of-how-we-design-package-medicines/",
+    "summary": "Difficult packaging comes with tangible consequences, including lower adherence, higher rates of adverse events, and diminished real-world effectiveness. It can also delay FDA submissions and ultimately, market entry. The post Our Aging Population is Forcing a Rethink of How We Design & Package Medicines appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-14T13:53:00+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "Can Precision Psychiatry Be Delivered Remotely? The Limits and Opportunities of Telehealth in Interventional Care",
+    "url": "https://medcitynews.com/2026/05/can-precision-psychiatry-be-delivered-remotely-the-limits-and-opportunities-of-telehealth-in-interventional-care/",
+    "summary": "How much of precision interventional psychiatry can actually happen remotely, and where does the model hit a wall? The answer is potentially more nuanced than the conventional framing suggests. The post Can Precision Psychiatry Be Delivered Remotely? The Limits and Opportunities of Telehealth in Interventional Care appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-14T13:49:00+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "Digitized Dysfunction: Why Healthcare Must Eliminate Work — Not Just Automate It",
+    "url": "https://medcitynews.com/2026/05/digitized-dysfunction-why-healthcare-must-eliminate-work-not-just-automate-it/",
+    "summary": "Healthcare inefficiency is rarely about a single task. It is typically about disjointed systems, misaligned incentives, and fragmented accountability. When we automate broken processes like these, we simply fail faster and at scale. The post Digitized Dysfunction: Why Healthcare Must Eliminate Work — Not Just Automate It appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-14T13:18:00+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "STAT+: Why big digital health players are missing from Medicare’s chronic care experiment",
+    "url": "https://www.statnews.com/2026/05/14/medicare-chronic-care-pilot-access-digital-health-tech/?utm_campaign=rss",
+    "summary": "In this edition of STAT Health Tech: Why big digital health players skipped Medicare's ACCESS pilot, Isomorphic's big raise, and more.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-14T14:07:12+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about upbeat results for a Duchenne drug, Takeda layoffs, and much more",
+    "url": "https://www.statnews.com/pharmalot/2026/05/14/biogen-regenxbio-report-results-for-alzheimers-duchenne-takeda-layoffs/?utm_campaign=rss",
+    "summary": "Biogen reported mixed results from a mid-stage clinical trial investigating a treatment for Alzheimer’s disease that targets the protein tau",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-14T13:44:43+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "STAT+: Three years of declining overdose deaths begets cautious optimism and some concerns",
+    "url": "https://www.statnews.com/2026/05/14/health-news-three-years-of-declining-overdose-deaths/?utm_campaign=rss",
+    "summary": "The next FDA leader, how the CDC is responding to hantavirus, and more health news from Morning Rounds",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-14T11:54:51+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "STAT+: Biogen’s tau-targeting Alzheimer’s drug posts mixed results in mid-stage study",
+    "url": "https://www.statnews.com/2026/05/14/biogen-alzheimers-tau-diranersen-midstage-study-mixed-results/?utm_campaign=rss",
+    "summary": "Biogen is moving its tau-targeting Alzheimer's drug into Phase 3 studies, despite mixed data from a Phase 2 trial.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-14T11:08:57+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "STAT+: Regenxbio says Duchenne gene therapy succeeded in clinical trial, paving way for FDA submission",
+    "url": "https://www.statnews.com/2026/05/14/regenxbio-duchenne-gene-therapy-trial-results/?utm_campaign=rss",
+    "summary": "Regenxbio said its experimental gene therapy for Duchenne muscular dystrophy succeeded in a trial, paving the way for a submission to the FDA.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-14T11:00:00+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "STAT+: CREATE Medicines, a biotech company developing CAR-T therapies, raises $122 million",
+    "url": "https://www.statnews.com/2026/05/14/create-medicines-car-t-raises-funding/?utm_campaign=rss",
+    "summary": "CREATE Medicines has a new name, an expanded pipeline, and now fresh funding to propel the company’s first CAR-T candidates through human trials.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-14T11:00:00+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "STAT+: ‘No drama’ Diamantas should serve biotech well as acting FDA chief",
+    "url": "https://www.statnews.com/2026/05/14/fda-kyle-diamantas-biotech/?utm_campaign=rss",
+    "summary": "Kyle Diamantas, the acting commissioner of the FDA, is expected to be a drama-free, stabilizing caretaker at the top of the agency.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-14T10:30:00+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "A brain-controlled system may help listeners with hearing loss cut through the noise",
+    "url": "https://www.npr.org/2026/05/14/nx-s1-5821161/brain-controlled-hearing-aids-cocktail-party-effect",
+    "summary": "A hearing system that monitors brain waves could help people with hearing loss communicate in noisy environments.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-14T11:00:00+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "The MAHA movement is coming to school cafeterias. Here's what that means for kids",
+    "url": "https://www.npr.org/2026/05/14/nx-s1-5688946/school-lunches-dietary-guidelines-maha",
+    "summary": "U.S. school districts worry it could get even more expensive to prepare a meal under new federal dietary guidelines, as they also contend with cuts to programs that helped them buy local food.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-14T09:00:00+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "Viz.ai launches AI-powered pulmonary care platform",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/vizai-launches-ai-powered-pulmonary-care-platform",
+    "summary": "The new Viz Pulmonary Suite combines acute and chronic pulmonary workflows into a single solution, which the company says is the first of its kind for such care.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-14T14:10:53.584903+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "Nearly 80% of payers prefer vendor-built AI solutions, survey finds",
+    "url": "https://www.fiercehealthcare.com/payers/nearly-80-payers-prefer-vendor-built-ai-solutions-innovaccer",
+    "summary": "Seventy-five percent of respondents report plans to spend an average of $10 million on AI over the course of the next three to five years.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-14T14:10:53.584953+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "Salesforce, Echo Health Ventures back Optura's $17.5M series A to track AI performance",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/salesforce-echo-health-ventures-backs-opturas-175m-series-track-value-ai",
+    "summary": "Optura claims that more than $2 billion in AI initiatives currently run on its platform, with $120 million in tracked value at a 700% return on AI investment on in-flight initiatives.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-14T14:10:53.584988+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "Next FDA chief to face similar headwinds after Makary's ouster",
+    "url": "https://thehill.com/policy/healthcare/5877025-fda-resignation-trump-pressure/",
+    "summary": "Marty Makary's resignation from the Food and Drug Administration (FDA) may help release some pressure by removing one of the Trump administration's more embattled health leaders. But the next head of the agency will have to navigate many of the same headwinds — political interference, funding cuts and balancing the demands of the “Make America Healthy Again”...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-14T10:00:00+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
     "title": "Opinion: Using AI in addiction medicine could be particularly risky",
     "url": "https://www.statnews.com/2026/05/14/addiction-medicine-ai-agent-empathy-caring-misguided/?utm_campaign=rss",
     "summary": "\"AI can make great strides in medical decision support, but unfiltered interaction between agent and patient is dangerous,\" writes Steve D. Klein.",
@@ -9807,196 +9997,6 @@
     "category": "Medicare News",
     "category_slug": "medicare-news",
     "date": "2026-04-23T23:12:14+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "SCAN CEO Urges Brokers to Drop Plans That Treat Them Poorly — One Says She Has No Choice",
-    "url": "https://medcitynews.com/2026/04/scan-ceo-urges-brokers-to-drop-plans-that-treat-them-poorly-one-says-she-has-no-choice/",
-    "summary": "SCAN Health Plan CEO Sachin Jain urged brokers to abandon for-profit plans that treat them poorly, but one broker argued they often can’t because dominant players like UnitedHealth Group control so much of the healthcare system. The post SCAN CEO Urges Brokers to Drop Plans That Treat Them Poorly — One Says She Has No Choice appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-23T22:52:06+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "A CAR-T biotech’s dramatic turnaround, and drugmakers’ tactics to drive more scripts",
-    "url": "https://www.statnews.com/2026/04/23/readout-loud-podcast-kelonia-lilly-telehealth-pharma-medicare-obesity/?utm_campaign=rss",
-    "summary": "This week on \"The Readout LOUD\": a CAR-T biotech's dramatic turnaround, and drugmakers' tactics to drive more scripts. Listen now.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-23T21:34:43+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "STAT+: Trump celebrates closing first round of drug pricing deals, promises more ahead",
-    "url": "https://www.statnews.com/2026/04/23/trump-drug-price-deal-regeneron-mfn-negotiations/?utm_campaign=rss",
-    "summary": "A deal with Regeneron was the last of 17 initially sought by the White House.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-23T20:05:28+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "The FDA gives the green light to the first gene therapy for deafness",
-    "url": "https://www.npr.org/2026/04/23/nx-s1-5795526/deafness-gene-therapy-regeneron",
-    "summary": "The treatment, developed by Regeneron Pharmaceuticals, is for a very rare form of deafness. But it represents a medical milestone.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-23T20:46:49+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "AOC vs RFK Jr. Memes; Are Doctors OK? Communicating With Gen Z Patients",
-    "url": "https://www.medpagetoday.com/popmedicine/popmedicine/120937",
-    "summary": "(MedPage Today) -- The following contains links to social media websites including Bluesky, X, TikTok, Instagram, Facebook, and LinkedIn. Memes from epidemiologist Katelyn Jetelina, PhD, MPH, advocacy organization Fired but Fighting, and others...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-23T21:45:19+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "'Ozempic Personality': Is Emotional Flattening Another Side Effect of GLP-1s?",
-    "url": "https://www.medpagetoday.com/popmedicine/cultureclinic/120936",
-    "summary": "(MedPage Today) -- Welcome to Culture Clinic, MedPage Today's collaboration with Northwell Health to offer a healthcare professional's take on the latest viral medical topics. Many patients taking glucagon-like peptide-1 (GLP-1) receptor agonists...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-23T21:43:38+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "First Gene Therapy Approved for Hearing Loss",
-    "url": "https://www.medpagetoday.com/genetics/generalgenetics/120935",
-    "summary": "(MedPage Today) -- The FDA granted accelerated approval to lunsotogene parvec (Otarmeni) as the first gene therapy for genetic hearing loss, the agency announced on Thursday. An adeno-associated virus vector-based gene therapy, lunsotogene parvec...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-23T21:17:56+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "Think Heart Attacks Cause Most Sudden Cardiac Deaths? Think Again, Study Says",
-    "url": "https://www.medpagetoday.com/meetingcoverage/hrs/120934",
-    "summary": "(MedPage Today) -- The epidemiology of sudden cardiac deaths (SCDs) was turned on its head Thursday, with research showing that in reality, ischemic cardiac disease is not the leading driver of SCDs, as previously thought. From a prospective autopsy...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-23T21:03:01+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "FDA, CMS to Launch Speedy Coverage Pathway for Breakthrough Medical Devices",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/fdageneral/120933",
-    "summary": "(MedPage Today) -- Certain breakthrough-designated medical devices that receive market authorization will become eligible for Medicare coverage at the same time under a new coverage pathway announced Thursday by the FDA and the Centers for Medicare...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-23T20:43:58+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "The Most Lethal Cancers Get Shortchanged by Federal Funding, Study Shows",
-    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/120931",
-    "summary": "(MedPage Today) -- Highly lethal cancers received disproportionately less federal funding compared with other cancers that have better survival odds, according to a study by researchers at the National Cancer Institute. An analysis of nine types...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-23T19:56:22+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "Warning Signs in Young-Onset CRC Data; Rifaximin Drift in Cirrhosis; Neonatal Hep C",
-    "url": "https://www.medpagetoday.com/gastroenterology/generalgastroenterology/120930",
-    "summary": "(MedPage Today) -- Among French patients under 40 with early-onset colorectal cancer (CRC), the incidence of multiple-site metastases increased by 10% annually from 2004 to 2021, and no survival gains were observed for those with peritoneal involvement...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-23T19:38:01+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "Health Data for 500,000 Members of a U.K. Project Offered for Sale Online in China",
-    "url": "https://www.medpagetoday.com/practicemanagement/informationtechnology/120929",
-    "summary": "(MedPage Today) -- DNA and other confidential health data from 500,000 people who volunteered for a massive U.K. health study were offered for sale online in China following a data breach this week, the British government said Thursday. The information...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-23T19:21:29+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "FDA Expands Approval of Drug to Stave Off Type 1 Diabetes",
-    "url": "https://www.medpagetoday.com/endocrinology/type1diabetes/120927",
-    "summary": "(MedPage Today) -- The FDA expanded the approval for teplizumab (Tzield), a biologic that delays the progression of preclinical type 1 diabetes to the symptomatic form, to include treatment in kids as young as 1 year, Sanofi announced on Wednesday...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-23T18:07:59+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "AI-powered prior authorizations for Medicare have greatly delayed care, Washington state hospitals say",
-    "url": "https://www.fiercehealthcare.com/regulatory/ai-powered-prior-authorizations-medicare-have-greatly-delayed-care-wash-hospitals-say",
-    "summary": "The Centers for Medicare & Medicaid Services' experimental WISeR Model has Medicare patients waiting two to four times longer for procedures, according to a Washington senator's report citing early data from 16 hospitals in her state.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-24T02:36:50.293391+00:00",
-    "date_str": "Apr 24, 2026"
-  },
-  {
-    "title": "FTC files suit over telemarketing scheme selling fake PPO insurance",
-    "url": "https://www.fiercehealthcare.com/regulatory/ftc-files-suit-over-telemarketing-scheme-selling-fake-ppo-insurance",
-    "summary": "The Federal Trade Commission has filed suit to intervene in a scheme in which it says fraudulent telemarketers targeted individuals seeking insurance coverage.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-24T02:36:50.293443+00:00",
-    "date_str": "Apr 24, 2026"
-  },
-  {
-    "title": "‘Anorexic’ reconciliation bill could mean Planned Parenthood gets re-funded",
-    "url": "https://www.politico.com/news/2026/04/23/anorexic-reconciliation-bill-could-mean-planned-parenthood-gets-re-funded-00889576",
-    "summary": "GOP leadership wants a narrow party-line bill, but rank-and-file seek to extend block on funds to family planning clinics.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-23T21:00:00+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "Trump moves to reschedule marijuana",
-    "url": "https://www.politico.com/news/2026/04/23/trump-moves-to-reschedule-marijuana-00888729",
-    "summary": "The directive aims to expand access to medical researchers.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-23T20:49:02+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "Trump unveils Regeneron deal to lower drug prices",
-    "url": "https://thehill.com/policy/healthcare/5845958-trump-regeneron-drug-price-deal/",
-    "summary": "President Trump unveiled a deal with drugmaker Regeneron on Thursday for the company to voluntarily cut prices, the final manufacturer to commit to the White House's “most favored nation” plan to lower U.S. costs in line with other developed nations. Under the agreement, Regeneron said it will reduce prices for its current and future medications sold to...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-04-23T20:10:36+00:00",
-    "date_str": "Apr 23, 2026"
-  },
-  {
-    "title": "HHS nixes publication of study showing effectiveness of COVID vaccines",
-    "url": "https://thehill.com/policy/healthcare/5845817-cdc-blocks-covid-vaccine-study/",
-    "summary": "The acting head of the Centers for Disease Control and Prevention (CDC) blocked the publication of a study on the effectiveness of COVID-19 vaccines, a Department of Health and Human Services (HHS) spokesperson confirmed. The research was set to be published in the agency's flagship Morbidity and Mortality Weekly Report (MMWR) on March 19, but...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-04-23T19:47:03+00:00",
     "date_str": "Apr 23, 2026"
   }
 ]
