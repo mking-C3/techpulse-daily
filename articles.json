@@ -1,5 +1,65 @@
 [
   {
+    "title": "DOJ accuses Yale and UCLA medical schools of discriminating against white and Asian applicants",
+    "url": "https://www.statnews.com/2026/05/15/trump-doj-targets-yale-ucla-medical-school-admissions/?utm_campaign=rss",
+    "summary": "The Justice Department sent a letter to Yale School of Medicine on Thursday, alleging it was illegally discriminating against applicants who are not Black or Hispanic, following a similar missive…",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-15T08:30:00+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "STAT+: Top U.S. officials pressured Germany to pay more for prescription drugs",
+    "url": "https://www.statnews.com/2026/05/15/trump-administration-presses-germany-presciption-drug-prices/?utm_campaign=rss",
+    "summary": "It's a key piece of Trump's effort to secure lower drug prices for U.S. patients.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-15T08:30:00+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Opinion: Tributes to Craig Venter and the genomics race are missing something important",
+    "url": "https://www.statnews.com/2026/05/15/craig-venter-obituaries-human-genome-coding-race/?utm_campaign=rss",
+    "summary": "A race, two rivals, a photo finish? Former National Human Genome Research Institute archivist explains what Craig Venter tributes are missing.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-15T08:30:00+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Why isn’t alcohol seen as a public health emergency?",
+    "url": "https://www.statnews.com/2026/05/15/alcohol-as-public-health-emergency-status-report-alex-hogan/?utm_campaign=rss",
+    "summary": "Why isn't alcohol seen as a public health emergency? Alex Hogan talks to STAT's Isabella Cueto and Lev Facher about their new series on this week's STATus Report.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-15T08:30:00+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Opinion: I’m 73. I wish my pills wouldn’t keep changing colors and shapes",
+    "url": "https://www.statnews.com/2026/05/15/pills-changing-colors-shape-generics-confusion/?utm_campaign=rss",
+    "summary": "Pharmaceutical companies, generic manufacturers, and pharmacists should be more careful about changing how pills look.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-15T08:30:00+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Court approves sale of CVS' Omnicare unit to GenieRx Holdings",
+    "url": "https://www.fiercehealthcare.com/payers/court-approves-sale-cvs-omnicare-unit-genierx-holdings",
+    "summary": "CVS' Omnicare unit has secured court approval to sell its business to virtual care company GenieRx Holdings, the healthcare giant announced Thursday.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-15T08:48:42.769683+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
     "title": "Shyld AI Snags $13M for Device that Disinfects Hospital Rooms Autonomously",
     "url": "https://medcitynews.com/2026/05/hospital-infection-clinical/",
     "summary": "Shyld AI has raised $13.4 million to expand its AI-powered UV disinfection platform, which autonomously sanitizes hospital rooms. The startup’s technology aims to reduce the risk of hospital-acquired infection, as well as lessen hospitals’ reliance on labor-intensive cleaning workflows. The post Shyld AI Snags $13M for Device that Disinfects Hospital Rooms Autonomously appeared first on MedCity News .",
@@ -9938,65 +9998,5 @@
     "category_slug": "industry-news",
     "date": "2026-04-25T11:38:57+00:00",
     "date_str": "Apr 25, 2026"
-  },
-  {
-    "title": "Trump turns over new leaf in GOP drug policy with marijuana, psychedelics orders",
-    "url": "https://thehill.com/policy/healthcare/5848366-gop-shift-trump-drug-reform/",
-    "summary": "The Trump administration's moves on marijuana and psychedelics signal the start of a new era in Republican drug policy. The orders to fast-track reviews of psychedelic drugs and reschedule medical marijuana are a far cry from the party of “just say no” and former Republican President Richard Nixon's war on drugs. “Regardless of what one...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-04-25T10:00:00+00:00",
-    "date_str": "Apr 25, 2026"
-  },
-  {
-    "title": "Startup Helping Providers Manage Denied Claims Raises $16M",
-    "url": "https://medcitynews.com/2026/04/startup-helping-providers-manage-denied-claims-raises-16m/",
-    "summary": "Amperos Health’s Series A round was led by Bessemer Venture Partners, with participation from Uncork Capital and Neo. The post Startup Helping Providers Manage Denied Claims Raises $16M appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-24T20:09:23+00:00",
-    "date_str": "Apr 24, 2026"
-  },
-  {
-    "title": "VC Firm Kurma Partners Closes €215M Fund in Pursuit of ‘Disruptive Therapeutic Solutions’",
-    "url": "https://medcitynews.com/2026/04/kurma-partners-fund-venture-capital-biotech-investing-startups-europe/",
-    "summary": "Kurma Partners’ new fund is the venture capital firm’s fourth and largest. Previous Kurma investments have led to exits that include the acquisitions of Corlieve Therapeutics, Emergence Therapeutics, and Amolyt Pharma. The post VC Firm Kurma Partners Closes €215M Fund in Pursuit of ‘Disruptive Therapeutic Solutions’ appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-24T19:05:41+00:00",
-    "date_str": "Apr 24, 2026"
-  },
-  {
-    "title": "From night life in Egypt to rice farming in Vietnam, the war in Iran is a drain",
-    "url": "https://www.npr.org/2026/04/24/nx-s1-5775733/war-in-iran-food-fuel-global-south",
-    "summary": "Fuel costs more. Food is harder to get. Jobs are evaporating. And in Cairo, cafes and restaurants are ordered to close at 9 p.m.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-24T21:21:37+00:00",
-    "date_str": "Apr 24, 2026"
-  },
-  {
-    "title": "Study Sheds Light on Why Taking Vit D May Lower Diabetes Risk for Some",
-    "url": "https://www.medpagetoday.com/endocrinology/diabetes/120961",
-    "summary": "(MedPage Today) -- Vitamin D supplementation may help stave off the progression from prediabetes to type 2 diabetes, but only for individuals with certain genetic profiles, data from the D2d trial indicated. Among 2,098 adults with prediabetes...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-24T22:15:00+00:00",
-    "date_str": "Apr 24, 2026"
-  },
-  {
-    "title": "Study Has Warning About Missed Hepatitis B Shots at Birth",
-    "url": "https://www.medpagetoday.com/pediatrics/vaccines/120960",
-    "summary": "(MedPage Today) -- U.S. data from the past decade warned that a growing number of babies who miss their hepatitis B vaccine at birth may never get fully vaccinated. Among 210,000 children who missed their birth dose, 73.2% of those born in 2014...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-24T21:43:06+00:00",
-    "date_str": "Apr 24, 2026"
   }
 ]
