@@ -1,5 +1,215 @@
 [
   {
+    "title": "Shyld AI Snags $13M for Device that Disinfects Hospital Rooms Autonomously",
+    "url": "https://medcitynews.com/2026/05/hospital-infection-clinical/",
+    "summary": "Shyld AI has raised $13.4 million to expand its AI-powered UV disinfection platform, which autonomously sanitizes hospital rooms. The startup’s technology aims to reduce the risk of hospital-acquired infection, as well as lessen hospitals’ reliance on labor-intensive cleaning workflows. The post Shyld AI Snags $13M for Device that Disinfects Hospital Rooms Autonomously appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-14T23:24:53+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "FDA Approval Gives BeOne Medicines a New Challenger to AbbVie, Roche Cancer Drug",
+    "url": "https://medcitynews.com/2026/05/beone-medicines-fda-approval-mantle-cell-lymphoma-sonrotoclax-beqlazi-bcl2-onc/",
+    "summary": "BeOne Medicines drug Beqalzi has accelerated FDA approval for treating relapsed or refractory mantle cell lymphoma, a type of blood cancer. The regulatory nod opens the door to potentially compete against Venclexta, a blockbuster cancer drug marketed by AbbVie and Roche. The post FDA Approval Gives BeOne Medicines a New Challenger to AbbVie, Roche Cancer Drug appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-14T21:59:37+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "PSA screening for prostate cancer reduces disease-specific deaths, new review shows",
+    "url": "https://www.statnews.com/2026/05/14/psa-tests-reduce-risk-prostate-cancer-deaths-new-study-cochrane-review/?utm_campaign=rss",
+    "summary": "Prostate-specific antigen (PSA) blood testing likely reduces the risk of death from prostate cancer, found a new review",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-15T00:00:00+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Supreme Court preserves access to widely used abortion pill, while lawsuit plays out",
+    "url": "https://www.statnews.com/2026/05/14/supreme-court-preserves-access-abortion-pill-mifepristone/?utm_campaign=rss",
+    "summary": "The Supreme Court on Thursday preserved women’s access to the abortion drug mifepristone, rejecting lower-court restrictions while a lawsuit continues.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-14T21:49:18+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "Makary’s departure and Cassidy’s tenuous Senate seat",
+    "url": "https://www.statnews.com/2026/05/14/readout-loud-podcast-makary-fda-trump-cassidy-senate/?utm_campaign=rss",
+    "summary": "This week's episode of “The Readout LOUD” is all about health politics, including Marty Makary's departure as FDA commissioner. Listen now.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-14T20:14:09+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "The Supreme Court keeps abortion pill mifepristone available by telehealth",
+    "url": "https://www.npr.org/2026/05/14/nx-s1-5821591/mifepristone-supreme-court-louisiana-telehealth",
+    "summary": "The Supreme Court ruled on Thursday that the abortion pill mifepristone can continue to be prescribed online or over the phone and sent through the mail.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-14T21:02:20+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "Linda McMahon defends dismantling the Education Department, shifting its work",
+    "url": "https://www.npr.org/2026/05/14/nx-s1-5815213/education-secretary-linda-mcmahon-house-hearing",
+    "summary": "The education secretary faced questions about the shrinking of her agency, limits on federal student loan borrowing and oversight of the education of students with disabilities.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-14T20:42:29+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "Antidepressants in Pregnancy: What a New Study Found",
+    "url": "https://www.medpagetoday.com/neurology/autism/121279",
+    "summary": "(MedPage Today) -- Children exposed to prenatal antidepressants had an increased risk of autism or attention deficit-hyperactivity disorder (ADHD) that was not significant after adjusting for confounding factors, a systematic review and meta-analysis...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-14T22:30:00+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "Supreme Court Preserves Access to Mifepristone While Lawsuit Plays Out",
+    "url": "https://www.medpagetoday.com/obgyn/abortion/121280",
+    "summary": "(MedPage Today) -- The Supreme Court on Thursday preserved women's access to a drug used in the most common method of abortion, rejecting lower-court restrictions while a lawsuit continues. The court's order allows women seeking abortions to continue...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-14T22:04:30+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "More Americans Being Monitored for Hantavirus Than Previously Known",
+    "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/121278",
+    "summary": "(MedPage Today) -- The number of Americans being monitored after potential hantavirus exposure has climbed to 41, but there are no current U.S. cases, the CDC said on Thursday. That tally is up from earlier reviews of state health department data...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-14T21:44:42+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "New AML Regimen for Unfit Patients Gets FDA's Blessing",
+    "url": "https://www.medpagetoday.com/hematologyoncology/leukemia/121277",
+    "summary": "(MedPage Today) -- The FDA on Wednesday approved a new all-oral regimen for newly diagnosed acute myeloid leukemia (AML) in patients ineligible for intensive chemotherapy. The combination of decitabine-cedazuridine (Inqovi) plus venetoclax (Venclexta...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-14T21:34:22+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "Summer Public Health-Maxxing; Ob/Gyns Celebrate PCOS Renaming; K for Bebe?",
+    "url": "https://www.medpagetoday.com/popmedicine/popmedicine/121276",
+    "summary": "(MedPage Today) -- The following contains links to social media websites including Bluesky, X, TikTok, Instagram, Facebook, and LinkedIn. As warmer weather approaches, public health worker organization \"Fired But Fighting\" offered an alternative...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-14T21:03:17+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "Here's How Many Hospitals Earned Five Stars From CMS",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/medicare/121275",
+    "summary": "(MedPage Today) -- CMS updated its Overall Hospital Quality Star Rating this week, with the bulk of facilities sitting in the middle of the pack. Overall, 385 (12%) rated hospitals earned top marks with five stars, while 204 (6.4%) received only...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-14T20:56:41+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "Here's What Stakeholders Want From the Next FDA Commissioner",
+    "url": "https://www.medpagetoday.com/washington-watch/fdageneral/121274",
+    "summary": "(MedPage Today) -- Stakeholders across the board are calling for a return to regular order at the FDA following the resignation of Commissioner Marty Makary, MD, MPH, who said he resigned in protest over the agency's decision to authorize flavored...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-14T20:51:02+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "What Your Patient Couldn’t Tell the Dispatcher",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/121273",
+    "summary": "(MedPage Today) -- The patient was a 63-year-old man whose feelings of being unwell had been building for 4 days, and this was before anyone called 911. By the time my emergency medical services (EMS) team arrived, his blood pressure was 198/110...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-14T20:47:13+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "Is the 'What I Eat in a Day' Trend Fueling Malnutrition?",
+    "url": "https://www.medpagetoday.com/popmedicine/popmedicine/121269",
+    "summary": "(MedPage Today) -- At an annual pediatrics visit, a 15-year-old female patient told me she was trying to \"eat healthier.\" I asked her to tell me what that looked like, so she pulled out her phone and opened to a TikTok video titled \"what I eat...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-14T19:11:21+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "Bipartisan lawmakers reintroduce bill barring PBMs from owning pharmacies",
+    "url": "https://www.fiercehealthcare.com/regulatory/bipartisan-lawmakers-reintroduce-bill-barring-pbms-owning-pharmacies",
+    "summary": "A bipartisan group of lawmakers in both chambers of Congress has reintroduced a bill aimed at barring companies from owning both a pharmacy benefit manager and retail pharmacies.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-15T03:28:27.798650+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Supreme Court extends order maintaining abortion pill access",
+    "url": "https://www.politico.com/news/2026/05/14/supreme-court-extends-order-maintaining-abortion-pill-access-00922492",
+    "summary": "Justices Clarence Thomas and Samuel Alito dissented from the majority decision.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-14T21:37:46+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "Supreme Court preserves abortion pill access over Alito, Thomas dissents",
+    "url": "https://thehill.com/regulation/court-battles/5879032-mifepristone-abortion-pills-ruling/",
+    "summary": "Abortion pills can remain available through the mail for the immediate future after the Supreme Court on Thursday paused a lower court ruling that would have blocked access while a lawsuit proceeds. The justices halted a May 1 order from the conservative U.S. Court of Appeals for the 5th Circuit that reinstated a requirement that women must visit a...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-14T21:37:24+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "DOJ says Yale's medical school discriminated based on race in admissions",
+    "url": "https://thehill.com/homenews/administration/5878916-doj-yale-medical-school-race-discrimination/",
+    "summary": "The Department of Justice (DOJ) accused the Yale School of Medicine of race-based discrimination in its admissions, alleging Thursday that the school favors Black and Hispanic students over white or Asian students with the same test scores. The finding came after a yearlong investigation that reviewed the school’s internal data and policies to determine if it was acting in accordance with a 2023 Supreme Court decision that...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-14T21:02:07+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
+    "title": "CDC monitoring 41 people for hantavirus, no reported cases",
+    "url": "https://thehill.com/policy/healthcare/5878827-cdc-hantavirus-response-monitoring/",
+    "summary": "Federal health officials said they are monitoring 41 people in the U.S. for hantavirus but are not going to impose any movement restrictions on them. David Fitter, incident manager for the Centers for Disease Control and Prevention’s (CDC) hantavirus response, told reporters Thursday there no hantavirus cases in the U.S. Most of the affected people have been advised to remain at home and avoid contact with others during...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-14T20:14:43+00:00",
+    "date_str": "May 14, 2026"
+  },
+  {
     "title": "Carrot Expands AI Metabolic Health Program to Menopause",
     "url": "https://medcitynews.com/2026/05/carrot-expands-ai-metabolic-health-program-to-menopause/",
     "summary": "Carrot is expanding its AI-powered metabolic health program to support menopause care, offering personalized guidance and wearable integration. The post Carrot Expands AI Metabolic Health Program to Menopause appeared first on MedCity News .",
@@ -9787,216 +9997,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-04-24T21:43:06+00:00",
-    "date_str": "Apr 24, 2026"
-  },
-  {
-    "title": "Real-World Registry Study Shows Alzheimer's Drug Safety Outcomes",
-    "url": "https://www.medpagetoday.com/meetingcoverage/aan/120959",
-    "summary": "(MedPage Today) -- The first interim safety results from a multicenter, safety surveillance study of Alzheimer's disease patients treated with lecanemab (Leqembi) in real-world clinical practice were consistent with the known safety profile of...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-24T21:18:13+00:00",
-    "date_str": "Apr 24, 2026"
-  },
-  {
-    "title": "GLP-1 Drugs Make Promising Debut in TAVR, Carotid Artery Stenting",
-    "url": "https://www.medpagetoday.com/meetingcoverage/scai/120958",
-    "summary": "(MedPage Today) -- Cardiovascular protection with GLP-1 receptor agonists may benefit patients undergoing certain transcatheter procedures, according to two observational studies. When used as an adjunct to transcatheter aortic valve replacement...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-24T19:53:55+00:00",
-    "date_str": "Apr 24, 2026"
-  },
-  {
-    "title": "Cell Therapy Slows Upper Limb Decline in Duchenne Muscular Dystrophy",
-    "url": "https://www.medpagetoday.com/meetingcoverage/aan/120956",
-    "summary": "(MedPage Today) -- The investigational cell therapy deramiocel slowed upper limb functional decline in boys and young men with Duchenne muscular dystrophy, data from the phase III HOPE-3 trial showed. At 12 months, the mean percent change from...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-24T19:00:57+00:00",
-    "date_str": "Apr 24, 2026"
-  },
-  {
-    "title": "Potential New Target in Chronic Spontaneous Urticaria",
-    "url": "https://www.medpagetoday.com/meetingcoverage/aadfuturefocus/120955",
-    "summary": "(MedPage Today) -- Discussions at the American Academy of Dermatology annual meeting about chronic spontaneous urticaria (CSU) highlighted evolving skin-directed and immune-targeted therapies, but new research is challenging the view of CSU as...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-24T18:54:57+00:00",
-    "date_str": "Apr 24, 2026"
-  },
-  {
-    "title": "FDA Plans Ultra-Fast Review of Three Psychedelics for Depression, PTSD",
-    "url": "https://www.medpagetoday.com/washington-watch/fdageneral/120954",
-    "summary": "(MedPage Today) -- The FDA said Friday it will offer ultra-fast review to three psychedelic drugs being developed for hard-to-treat forms of depression and post-traumatic stress disorder (PTSD), the latest step by the Trump administration toward...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-24T18:44:19+00:00",
-    "date_str": "Apr 24, 2026"
-  },
-  {
-    "title": "Rectal Cancer 'Crisis'; Smells Like Cancer; Flushing Away Clues to Colon Cancer",
-    "url": "https://www.medpagetoday.com/hematologyoncology/coloncancer/120951",
-    "summary": "(MedPage Today) -- Increasing rectal cancer mortality in millennials has become a \"medical crisis.\" (NBC News) Patients with suspicious lung nodules and a history of treatment with SGLT2 inhibitor diabetes drugs had a lower likelihood of nodule...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-24T18:04:58+00:00",
-    "date_str": "Apr 24, 2026"
-  },
-  {
-    "title": "HCA Healthcare executives shrug off Q1 volumes disruptions, reaffirm FY2026 guidance",
-    "url": "https://www.fiercehealthcare.com/providers/hca-healthcare-executives-shrug-q1-volumes-disruptions-reaffirm-fy2026-guidance",
-    "summary": "A sharp end to the flu season and disruptive winter storms dragged the country's largest for-profit health system in January. Executives said there's already signs of recovery since the stumble and pointed to favorable activity among states' Medicaid subsidy programs.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-25T02:26:30.602829+00:00",
-    "date_str": "Apr 25, 2026"
-  },
-  {
-    "title": "Lawmakers introduce bipartisan legislation to improve access, quality of care in Medicare Advantage plans",
-    "url": "https://www.fiercehealthcare.com/regulatory/lawmakers-introduce-bipartisan-legislation-improve-access-quality-care-medicare",
-    "summary": "The Medicare Advantage Improvement Act of 2026, introduced April 20, aims to “directly address” barriers to coverage and treatment for America’s seniors.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-25T02:26:30.602879+00:00",
-    "date_str": "Apr 25, 2026"
-  },
-  {
-    "title": "Industry Voices—Hospitals are very online, but what happens when they're plunged into 'digital darkness'?",
-    "url": "https://www.fiercehealthcare.com/providers/industry-voices-hospitals-are-very-online-what-happens-when-theyre-plunged-digital",
-    "summary": "Healthcare organizations have a responsibility to prepare their people and their systems for the analog reality that a cyberattack, an outage or a cascading infrastructure failure can impose at any moment, writes ECRI President and CEO Marcus Schabacker, M.D., Ph.D.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-25T02:26:30.602922+00:00",
-    "date_str": "Apr 25, 2026"
-  },
-  {
-    "title": "Northwell Health unveils toolkit for gun violence prevention in healthcare settings",
-    "url": "https://www.fiercehealthcare.com/hospitals/northwell-health-unveils-first-its-kind-toolkit-gun-violence-prevention-healthcare",
-    "summary": "The new digital toolkit serves as a practical guide for health systems to adapt, implement and scale strategies on system, community, clinical and organization levels.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-25T02:26:30.602952+00:00",
-    "date_str": "Apr 25, 2026"
-  },
-  {
-    "title": "In Connecticut, Doctors and Dentists Are More Likely Than Hospitals To Sue Patients",
-    "url": "https://kffhealthnews.org/health-care-costs/the-week-in-brief-connecticut-doctors-dentists-medical-debt/",
-    "summary": "Get our weekly newsletter, The Week in Brief, featuring a roundup of our original coverage, Fridays at 2 p.m. ET.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-24T18:30:00+00:00",
-    "date_str": "Apr 24, 2026"
-  },
-  {
-    "title": "‘What the Health?’ Podcast: RFK Jr. vs. Congress",
-    "url": "https://kffhealthnews.org/news/what-the-health-podcast-rfk-jr-vs-congress/",
-    "summary": "HHS Secretary Robert F. Kennedy Jr. completed his tour of House and Senate committees this week, ostensibly to promote President Donald Trump’s budget proposal for his department but also to answer for some of his more controversial positions, particularly on vaccines. Meanwhile, Trump signed an order to facilitate the use of hallucinogens to treat mental health conditions. Victoria Knight of Bloomberg Government, Alice Miranda Ollstein of Politico, and Sheryl Gay Stolberg of The New York Times join KFF Health News’ Julie Rovner to discuss these stories and more. Also this week, as part of our “How Would You Fix It?” series, Rovner interviews Harvard public health professor David Blumenthal.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-24T13:29:31+00:00",
-    "date_str": "Apr 24, 2026"
-  },
-  {
-    "title": "Beyond the Scale: How Imaging Can Help Determine GLP-1 Efficacy",
-    "url": "https://medcitynews.com/2026/04/imaging-glp-1-weight-loss/",
-    "summary": "Telehealth clinic Hone Health partnered with imaging company BodySpec to give its patients access to DEXA body composition scans. The partnership seeks to help providers and patients on GLP-1s distinguish fat loss from muscle loss and better evaluate how these drugs are affecting the body. The post Beyond the Scale: How Imaging Can Help Determine GLP-1 Efficacy appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-24T17:37:55+00:00",
-    "date_str": "Apr 24, 2026"
-  },
-  {
-    "title": "The Cancer Crisis We Can See Coming And Have the Tools to Change",
-    "url": "https://medcitynews.com/2026/04/the-cancer-crisis-we-can-see-coming-and-have-the-tools-to-change/",
-    "summary": "Colon cancer has long been considered a disease that comes with old age. However, the trend line of disease has been moving in the wrong direction for years, in a population we long assumed wasn’t at risk. And while researchers continue to investigate the why, there’s a parallel conversation we aren’t having nearly enough. One that has nothing to do with science, and everything to do with operations. The post The Cancer Crisis We Can See Coming And Have the Tools to Change appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-24T13:42:00+00:00",
-    "date_str": "Apr 24, 2026"
-  },
-  {
-    "title": "Precision Delivered: How Radiopharmaceuticals Are Reshaping Cancer Care",
-    "url": "https://medcitynews.com/2026/04/precision-delivered-how-radiopharmaceuticals-are-reshaping-cancer-care/",
-    "summary": "As radiopharmaceuticals continue to evolve, the convergence of scientific innovation, operational practicality, and clinical expertise is opening new possibilities in oncology. The post Precision Delivered: How Radiopharmaceuticals Are Reshaping Cancer Care appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-24T13:35:00+00:00",
-    "date_str": "Apr 24, 2026"
-  },
-  {
-    "title": "STAT+: FDA to speed up review of 3 psychedelics as mental health treatments",
-    "url": "https://www.statnews.com/2026/04/24/trump-psychedelic-drugs-fda-priority-review-mental-health-treatment/?utm_campaign=rss",
-    "summary": "Trump's embrace of psychedelics and cannabis is shaking up the GOP’s relationship with mind-altering substances.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-24T18:45:38+00:00",
-    "date_str": "Apr 24, 2026"
-  },
-  {
-    "title": "STAT+: A biotech VC on what Eli Lilly saw in a struggling cancer startup for $3.2B",
-    "url": "https://www.statnews.com/2026/04/24/eli-lilly-kelonia-therapeutics-interview/?utm_campaign=rss",
-    "summary": "What did Eli Lilly see in a struggling biotech startup that made the pharma giant want to pay billions for it? Bryan Roberts has some answers.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-24T17:50:39+00:00",
-    "date_str": "Apr 24, 2026"
-  },
-  {
-    "title": "STAT+: Utah medical board calls for immediate suspension of state’s AI doctor experiment",
-    "url": "https://www.statnews.com/2026/04/24/doctronic-ai-doctor-pilot-utah-face-backlash-medical-board/?utm_campaign=rss",
-    "summary": "A Utah pilot to renew prescriptions using a bot faced backlash from the state's medical board, which called for an immediate suspension.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-24T17:24:06+00:00",
-    "date_str": "Apr 24, 2026"
-  },
-  {
-    "title": "STAT+: Up and Down the Ladder: The latest comings and goings",
-    "url": "https://www.statnews.com/pharmalot/2026/04/24/jobs-up-down-ladder-latest-comings-goings/?utm_campaign=rss",
-    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-24T15:53:31+00:00",
-    "date_str": "Apr 24, 2026"
-  },
-  {
-    "title": "International childhood vaccine campaign grows",
-    "url": "https://www.statnews.com/2026/04/24/international-childhood-vaccines-trump-marijuana-psychedelics-morning-rounds/?utm_campaign=rss",
-    "summary": "In today's Morning Rounds newsletter, a new era in GOP drug policy, an international childhood vaccine campaign grows, and more.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-24T13:57:31+00:00",
-    "date_str": "Apr 24, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a Trump deal with Regeneron, reclassifying medical marijuana, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/04/24/trump-deal-with-regeneron-reclassifying-medical-marijuana/?utm_campaign=rss",
-    "summary": "President Trump heralded a drug-pricing agreement with Regeneron, closing the last of 17 deals sought by the White House",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-24T13:36:57+00:00",
     "date_str": "Apr 24, 2026"
   }
 ]
