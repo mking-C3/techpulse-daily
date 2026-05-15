@@ -1,5 +1,195 @@
 [
   {
+    "title": "Kennedy Swaps Vaccine Rhetoric for Story Time but Can’t Quite Change the Subject",
+    "url": "https://kffhealthnews.org/public-health/the-week-in-brief-rfk-jr-ohio-visit-maha-rhetoric/",
+    "summary": "Get our weekly newsletter, The Week in Brief, featuring a roundup of our original coverage, Fridays at 2 p.m. ET.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-15T18:30:00+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Under FDA Clinical Hold, Aardvark Therapeutics Seeks Path Forward for Metabolic Drug",
+    "url": "https://medcitynews.com/2026/05/aardvark-therapeutics-fda-clinical-hold-metabolic-disease-prader-willi-pws-aard/",
+    "summary": "The full FDA clinical hold formally halts all tests of Aardvark Therapeutics’ drug for Prader-Willi syndrome, a rare inherited metabolic disorder that leads to excessive eating. Earlier this year, Aardvark voluntarily paused all tests of its small molecule after a cardiovascular problem emerged in a healthy volunteer. The post Under FDA Clinical Hold, Aardvark Therapeutics Seeks Path Forward for Metabolic Drug appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-15T19:26:22+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "STAT+: Takeda will pay $13.6 million to settle allegations it paid kickbacks to doctors",
+    "url": "https://www.statnews.com/pharmalot/2026/05/15/takeda-settle-allegations-kickbacks-to-doctors/?utm_campaign=rss",
+    "summary": "Takeda Pharmaceuticals agreed to pay $13.6 million to settle allegations that it paid kickbacks to doctors to prescribe an antidepressant.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-15T17:41:45+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "STAT+: Up and down the ladder: The latest comings and goings",
+    "url": "https://www.statnews.com/pharmalot/2026/05/15/up-and-down-the-ladder-the-latest-comings-and-goings-jobs/?utm_campaign=rss",
+    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-15T15:40:39+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Opinion: First hantavirus, now Ebola: What two outbreaks reveal about global preparedness",
+    "url": "https://www.statnews.com/2026/05/15/ebola-outbreak-drc-hantavirus-who/?utm_campaign=rss",
+    "summary": "“Preparedness is not built during a crisis press conference or after a pathogen has already crossed borders,” writes Krutika Kuppalli.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-15T14:35:52+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "A new Ebola outbreak is confirmed in a remote Congo province, with 65 deaths recorded",
+    "url": "https://www.statnews.com/2026/05/15/new-ebola-outbreak-congo-ituri-province/?utm_campaign=rss",
+    "summary": "A new Ebola outbreak has been confirmed in Congo’s remote Ituri province, with 246 suspected cases and 65 deaths recorded so far.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-15T14:16:13+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Hantavirus countdown: U.S. cruise passengers settle in for 42 days of waiting",
+    "url": "https://www.npr.org/2026/05/15/nx-s1-5819872/hantavirus-quarantine",
+    "summary": "The hantavirus outbreak on a cruise ship has potentially exposed passengers to a deadly disease. Most returning Americans are now housed in Nebraska. Some may be cleared to quarantine at home.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-15T19:28:03+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "What Prescription Increased After Mel Gibson's Comments?",
+    "url": "https://www.medpagetoday.com/quizzes/news-quiz/121291",
+    "summary": "(MedPage Today) -- You passed medical training, now see if you can pass our weekly quiz",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-15T17:55:16+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "The World's Reaction to Hantavirus Is Tinged by Echoes of Something Else: COVID",
+    "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/121289",
+    "summary": "(MedPage Today) -- The lingering impact of COVID-19, a few years out from the declaration that the pandemic was over, is scattered across how we live today -- the work-from-home jobs, the way some have decided wearing masks is their new normal...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-15T17:21:48+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Weight Gain & Cancer Risk; Steppin' Out After Surgery; Depression in Ovarian Cancer",
+    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/121287",
+    "summary": "(MedPage Today) -- Weight gain in adulthood may increase a person's cancer risk by as much as fivefold, according to a Swedish study. (The Guardian) An updated review of data for nearly 800,000 participants in prostate cancer screening studies...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-15T15:38:47+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Keeping Tabs on Hantavirus; MA Auto-Enrollment; Mel Gibson's Ivermectin Influence",
+    "url": "https://www.medpagetoday.com/podcasts/anamnesis/121284",
+    "summary": "(MedPage Today) -- The following is a transcript of the podcast episode: Rachael Robertson: Hey everybody, welcome to MedPod Today, the podcast series where MedPage Today reporters share deeper insight into the week's biggest healthcare stories...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-15T15:01:54+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Supreme Court preserves access to abortion pill by mail",
+    "url": "https://www.healthcaredive.com/news/supreme-court-preserves-access-abortion-pill-mail-mifepristone/820337/",
+    "summary": "The ruling maintains access to mifepristone while litigation continues. The drug can still be prescribed at pharmacies or by mail without requiring in-person visits.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-15T13:02:52+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Epic grows EHR footprint among small health systems even as overall market sales decline in 2025",
+    "url": "https://www.fiercehealthcare.com/health-tech/epic-continues-grow-ehr-market-share-it-makes-gains-small-health-systems",
+    "summary": "The number of hospitals impacted by EHR purchase decisions dropped 40% compared to 2024, KLAS Research reported. Despite the slowdown, Epic's share of the U.S. EHR market continued to inch up, primarily driven by contract decisions at smaller health systems.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-15T19:37:43.693601+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "SCOTUS temporarily restores telehealth access to abortion pill mifepristone",
+    "url": "https://www.fiercehealthcare.com/pharma/scotus-restores-telehealth-access-abortion-pill-mifepristone",
+    "summary": "The U.S. Supreme Court has issued an emergency order, temporarily blocking a federal appeals court ruling in Louisiana which would have prevented the abortion pill mifepristone from being prescribed over the phone and sent through the mail in the United States.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-15T19:37:43.693653+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Washington AG alleges Providence failed to accommodate pregnant, nursing employees",
+    "url": "https://www.fiercehealthcare.com/providers/washington-ag-alleges-providence-failed-accommodate-pregnant-nursing-employees",
+    "summary": "A lawsuit brought this week by the state alleges the nonprofit system \"regularly\" refused, delayed or failed to implement accommodations for pregnant and nursing employees as required by law, and that some of those employees \"experienced retaliation\" following their requests.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-15T19:37:43.693684+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Health Tech Weekly Rundown: Headspace app launches on Apple Watch; Visby, RAINN partner on safe access program",
+    "url": "https://www.fiercehealthcare.com/health-tech/health-tech-weekly-rundown-carrot-adds-menopause-care-ai-native-metabolic-health",
+    "summary": "Stay up to date on the latest in health tech, digital health and health AI news with this weekly brief.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-15T19:37:43.693707+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Acting FDA leader tries to explain past Planned Parenthood work to abortion opponents",
+    "url": "https://www.politico.com/news/2026/05/15/new-fda-leader-rushes-to-reassure-anti-abortion-leaders-they-still-have-questions-00923657",
+    "summary": "Kyle Diamantas, who was elevated to FDA acting commissioner earlier this week, is telling anti-abortion groups he asked to be taken off a case defending Planned Parenthood due to moral objections.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-15T17:05:07+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Trump administration sued by veterans group over VA abortion ban",
+    "url": "https://thehill.com/policy/healthcare/5880300-veterans-sue-trump-abortion-ban/",
+    "summary": "A veterans advocacy group is suing the Trump administration over its ban on abortion care and counseling at the Department of Veterans Affairs (VA). The Minority Veterans of America said it brought the lawsuit on behalf of all its members harmed by the ban, including one pregnant member who has chronic medical conditions and a long...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-15T18:13:09+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Texas Children's Hospital must create country's first 'detransition clinic' under settlement with Paxton",
+    "url": "https://thehill.com/policy/healthcare/5880188-texas-childrens-hospital-paxton-detransition-clinic/",
+    "summary": "Texas Children's Hospital will create the nation’s first “detransition clinic,” fire five physicians and pay the state $10 million under an unusual settlement announced Friday by Texas Attorney General Ken Paxton (R). The clinic would focus on providing medical care to patients who had undergone gender-affirming healthcare and work toward reversing its effects, Paxton said. For the first five...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-15T16:59:03+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
     "title": "Minnesota Lawmaker Proposes Using Hospital Tax To Fill Charity Care Gap",
     "url": "https://kffhealthnews.org/health-care-costs/minnesota-hospitals-charity-care-tax-legislation/",
     "summary": "A Minnesota Star Tribune-KFF Health News investigation found charity care at hospitals in the state is offered at low and arbitrary levels, prompting Minnesota Attorney General Keith Ellison to say, “There is more work in front of us.”",
@@ -9808,195 +9998,5 @@
     "category_slug": "senior-health",
     "date": "2026-04-27T09:00:00+00:00",
     "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "As coordination grows more complex, intelligent care is reshaping the response",
-    "url": "https://www.healthcaredive.com/spons/as-coordination-grows-more-complex-intelligent-care-is-reshaping-the-respo/817655/",
-    "summary": "Better coordination starts with intelligent care across teams, systems and settings.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-27T09:00:00+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "UnityAI builds out agentic AI for staffing operations to match outpatient clinicians with patient demand",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/unityai-builds-out-agentic-ai-staffing-operations-keep-pace-patient-demand",
-    "summary": "Nashville-based health tech startup UnityAI built out an agentic AI platform to streamline day-to-day staff scheduling and match it in real-time with patient demand.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-27T13:52:39.203440+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "Rethinking Prior Authorization for Better Outcomes",
-    "url": "https://www.fiercehealthcare.com/sponsored/rethinking-prior-authorization-better-outcomes",
-    "summary": "Abarca’s Javier Gonzalez explores how trust, tech and policy can transform prior authorization and improve access and efficiency.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-27T13:52:39.203505+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "What Healthcare Investors See in Risk Adjustment Due Diligence That Buyers Often Miss",
-    "url": "https://www.fiercehealthcare.com/sponsored/what-healthcare-investors-see-risk-adjustment-due-diligence-buyers-often-miss",
-    "summary": "Same technology. Same use case. But they were asking questions most buyers never think to ask. That gap is worth examining.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-27T13:52:39.203539+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "Why Some Hospitals Are Betting on Midstream Health to Help Eliminate Waste",
-    "url": "https://medcitynews.com/2026/04/hospital-finance-costs-ai/",
-    "summary": "Midstream Health is taking a bit of a different approach to healthcare AI by focusing on reducing hospitals’ costs rather than boosting their revenue. The startup uses AI to identify savings opportunities across fragmented spending data, which helps health systems like Mount Sinai and CommonSpirit quickly improve their purchasing decisions. The post Why Some Hospitals Are Betting on Midstream Health to Help Eliminate Waste appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-27T00:39:26+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "STAT+: Doctor, wife of acting U.S. attorney general, appointed to NIH advisory council",
-    "url": "https://www.statnews.com/2026/04/26/kristine-blanche-appointed-nih-advisory-council/?utm_campaign=rss",
-    "summary": "An integrative medicine doctor who is the wife of the acting U.S. attorney general has been named as a member to one of the advisory councils that provides critical funding…",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-26T21:43:41+00:00",
-    "date_str": "Apr 26, 2026"
-  },
-  {
-    "title": "'The Dead Cannot Advocate for Themselves': What We Heard This Week",
-    "url": "https://www.medpagetoday.com/opinion/what-we-heard/120950",
-    "summary": "(MedPage Today) -- \"The dead cannot advocate for themselves.\" -- Suneel Kamath, MD, of the Cleveland Clinic, highlighting the funding gap for highly lethal cancers. \"You can't go above 100%.\" -- Krina Patel, MD, MSc, of the University of Texas...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-26T20:00:00+00:00",
-    "date_str": "Apr 26, 2026"
-  },
-  {
-    "title": "Novartis Antimalarial Clears Key WHO Review to Get the Combo Drug to Babies",
-    "url": "https://medcitynews.com/2026/04/novartis-antimalarial-coartem-baby-who-prequalification-malaria-infectious-disease-mmv-nvs/",
-    "summary": "The World Health Organization has prequalified Coartem Baby, the first and only antimalarial for babies. Novartis developed this combination drug in partnership with Medicines for Malaria Venture. The post Novartis Antimalarial Clears Key WHO Review to Get the Combo Drug to Babies appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-26T17:19:15+00:00",
-    "date_str": "Apr 26, 2026"
-  },
-  {
-    "title": "AMA Calls on Congress to Improve Safeguards for AI Mental Health Chatbots",
-    "url": "https://medcitynews.com/2026/04/ama-ai-mental-health-chatbot/",
-    "summary": "The American Medical Association is urging Congress to add safeguards for AI mental health chatbots amid safety concerns, while noting their potential to expand access. The post AMA Calls on Congress to Improve Safeguards for AI Mental Health Chatbots appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-26T14:16:00+00:00",
-    "date_str": "Apr 26, 2026"
-  },
-  {
-    "title": "Driving Outcomes with a Digital Transportation Infrastructure",
-    "url": "https://medcitynews.com/2026/04/driving-outcomes-with-a-digital-transportation-infrastructure/",
-    "summary": "Transportation is a vital part of the care journey, and if we are serious about improving outcomes, reducing missed appointments, and supporting healthier members, we have to be honest about where friction still exists and focus on removing it. The post Driving Outcomes with a Digital Transportation Infrastructure appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-26T13:42:00+00:00",
-    "date_str": "Apr 26, 2026"
-  },
-  {
-    "title": "Healthcare’s Identity Crisis: Why A Single Prescription Requires Multiple Logins",
-    "url": "https://medcitynews.com/2026/04/healthcares-identity-crisis-why-a-single-prescription-requires-multiple-logins/",
-    "summary": "Now is the time to solve the industry’s identity crisis, and it can only be done through a combination of phishing-resistant and adaptive MFA, fine-grained access control, and standards-based interoperability. The post Healthcare’s Identity Crisis: Why A Single Prescription Requires Multiple Logins appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-26T13:27:27+00:00",
-    "date_str": "Apr 26, 2026"
-  },
-  {
-    "title": "The Quiet Revolution Comes Full Circle: How CMS ACCESS Validates Safety-Net Innovation",
-    "url": "https://medcitynews.com/2026/04/the-quiet-revolution-comes-full-circle-how-cms-access-validates-safety-net-innovation/",
-    "summary": "While other areas of healthcare have been star-struck by sophisticated AI and massive infrastructure investments, safety net entities have found that the answer is much simpler. Better managing chronic conditions across populations simply requires the right connection at the right time. The post The Quiet Revolution Comes Full Circle: How CMS ACCESS Validates Safety-Net Innovation appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-26T13:25:00+00:00",
-    "date_str": "Apr 26, 2026"
-  },
-  {
-    "title": "We're Doctors, Not Martyrs",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/120953",
-    "summary": "(MedPage Today) -- It's not like someone forced you to go into medicine. If you don't like it, leave. Doctors are only in it for the money, or they'd treat people for free. Our patients can be violent, and that's just part of the job. You chose...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-26T16:00:00+00:00",
-    "date_str": "Apr 26, 2026"
-  },
-  {
-    "title": "Can Gabapentin Improve Brain Injury Outcomes?",
-    "url": "https://www.medpagetoday.com/meetingcoverage/aan/120963",
-    "summary": "(MedPage Today) -- Gabapentin administered on the day of traumatic brain injury (TBI) was tied to a reduced risk of durable cognitive impairment and mortality, a retrospective, longitudinal study of 50,000 patients showed. Over 2 years, gabapentin...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-26T13:12:33+00:00",
-    "date_str": "Apr 26, 2026"
-  },
-  {
-    "title": "‘Prior Authorization’ Has Become a Dirty Word in Healthcare, But it Might Be Medicare’s Smartest Path Forward",
-    "url": "https://medcitynews.com/2026/04/prior-authorization-has-become-a-dirty-word-in-healthcare-but-it-might-be-medicares-smartest-path-forward/",
-    "summary": "Since its inception, AI in prior auth has only been at work in the commercial healthcare marketplace. Now new innovative approaches that reframe prior auth as a resource instead of a roadblock have come to Medicare via the WISeR model. The post ‘Prior Authorization’ Has Become a Dirty Word in Healthcare, But it Might Be Medicare’s Smartest Path Forward appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-26T12:59:00+00:00",
-    "date_str": "Apr 26, 2026"
-  },
-  {
-    "title": "High school athletes find a way to center themselves amidst violence in the community",
-    "url": "https://www.npr.org/2026/04/26/nx-s1-5798619/high-school-athletes-find-a-way-to-center-themselves-amidst-violence-in-the-community",
-    "summary": "Student athletes in a North Carolina high school found a new way to cope with violence in their community. They created a special space in their school.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-26T12:08:55+00:00",
-    "date_str": "Apr 26, 2026"
-  },
-  {
-    "title": "World Press Photo Contest winners cast a lens on resilience, pain and bliss",
-    "url": "https://www.npr.org/2026/04/26/g-s1-118511/world-press-photo-contest-winners",
-    "summary": "A selection of prize honorees from the 2026 World Press Photo Contest capture the pain of the past year — but also focus on moments of strength, determination and joy.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-26T11:44:44+00:00",
-    "date_str": "Apr 26, 2026"
-  },
-  {
-    "title": "How are Americans spending their tax refunds this year?",
-    "url": "https://thehill.com/business/personal-finance/5846188-tax-refunds-treasury-department-2025-larger/",
-    "summary": "On average, Americans are receiving larger tax refunds this year. So, how will they spend them? The Treasury Department said in a release on Tax Day that as of April 14, the average tax refund this filing season was more than $3,400, an increase of 11 percent from last year. Filers can check the status...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-04-26T10:00:00+00:00",
-    "date_str": "Apr 26, 2026"
-  },
-  {
-    "title": "Quiz Time: Is Paxlovid Still Reducing COVID Hospitalizations?",
-    "url": "https://www.medpagetoday.com/quizzes/news-quiz/120946",
-    "summary": "(MedPage Today) -- You passed medical training, now see if you can pass our weekly quiz",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-25T21:00:00+00:00",
-    "date_str": "Apr 25, 2026"
   }
 ]
