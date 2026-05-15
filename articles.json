@@ -1,5 +1,125 @@
 [
   {
+    "title": "Minnesota Lawmaker Proposes Using Hospital Tax To Fill Charity Care Gap",
+    "url": "https://kffhealthnews.org/health-care-costs/minnesota-hospitals-charity-care-tax-legislation/",
+    "summary": "A Minnesota Star Tribune-KFF Health News investigation found charity care at hospitals in the state is offered at low and arbitrary levels, prompting Minnesota Attorney General Keith Ellison to say, “There is more work in front of us.”",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-15T09:00:00+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "FDA Blocked Melanoma Drug as Confusion Reigned Under Makary",
+    "url": "https://kffhealthnews.org/health-industry/fda-blocked-melanoma-drug-marty-makary-confusion-reigned/",
+    "summary": "A third of patients in a clinical trial had tumors shrink while taking a genetically engineered treatment known as RP1.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-15T09:00:00+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Kennedy, Balancing MAHA and White House, Says He Won’t Run for President in 2028",
+    "url": "https://kffhealthnews.org/elections/rfk-jr-kennedy-2028-run-president-maha-trump-white-house/",
+    "summary": "HHS Secretary Robert F. Kennedy Jr. is trying to address the interests of his MAHA supporters, who view him as their hope for the future, while being a good soldier in the eyes of the Trump White House, which has been stepping back from some of the movement’s core priorities.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-15T09:00:00+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Private Voice AI in Healthcare: How to Capture Critical Conversations Without Letting Patient Data Leave the Building",
+    "url": "https://medcitynews.com/2026/05/private-voice-ai-in-healthcare-how-to-capture-critical-conversations-without-letting-patient-data-leave-the-building/",
+    "summary": "When deployed within the organization’s own infrastructure, voice AI unlocks these four concrete benefits for healthcare teams. The post Private Voice AI in Healthcare: How to Capture Critical Conversations Without Letting Patient Data Leave the Building appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-15T13:44:00+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Four Reasons ECMO Programs Stall",
+    "url": "https://medcitynews.com/2026/05/four-reasons-ecmo-programs-stall/",
+    "summary": "ECMO is specialized enough that the learning curve carries real clinical and financial consequences, and there is no shortcut to the institutional knowledge that takes years to accumulate. The post Four Reasons ECMO Programs Stall appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-15T13:34:00+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "The Current “SaaS Meltdown” Will Fundamentally Change the Tech Stack by 2027",
+    "url": "https://medcitynews.com/2026/05/the-current-saas-meltdown-will-fundamentally-change-the-tech-stack-by-2027/",
+    "summary": "Healthcare leaders must recognize this impending shift now and get ready for it by changing how they evaluate technology and the operational tasks they expect it to solve. The post The Current “SaaS Meltdown” Will Fundamentally Change the Tech Stack by 2027 appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-15T13:07:47+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "STAT+: A political contest in the U.K. could shake up drug pricing",
+    "url": "https://www.statnews.com/2026/05/15/health-news-uk-political-contest-shaking-up-drug-pricing/?utm_campaign=rss",
+    "summary": "Makary and Cassidy's fates, U.S. pressures Germany to pay more for drugs, and other health news",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-15T13:31:19+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about U.S. pressuring Germany on drug prices, FDA upheaval and biotech clinical trials, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/05/15/germany-drug-prices-biotech-clinical-trials-pharmalittle-newsletter/?utm_campaign=rss",
+    "summary": "In today's Pharmalittle roundup: U.S. pressuring Germany on drug prices, FDA upheaval and biotech clinical trials, and much more.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-15T13:29:23+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Opinion: Telehealth abortion with mifepristone continues, with backup plans still in place",
+    "url": "https://www.statnews.com/2026/05/15/mifepristone-telehealth-abortion-alternatives-supreme-court/?utm_campaign=rss",
+    "summary": "Restricting telehealth prescribing of mifepristone wouldn't spell the end of telehealth medication abortion, writes OB/GYN Christine Henneberg.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-15T13:24:34+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Mail-order abortion pills are legal (for now)",
+    "url": "https://www.statnews.com/2026/05/15/health-news-mail-order-abortion-pills-are-legal-for-now/?utm_campaign=rss",
+    "summary": "Africa CDC declares Ebola outbreak in DRC, the violent fallout from Trump’s cuts to foreign aid, and more health news",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-15T13:04:06+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Son reflects with his mother about growing up with autism",
+    "url": "https://www.npr.org/2026/05/15/nx-s1-5817609/son-reflects-with-his-mother-about-growing-up-with-autism",
+    "summary": "Jhovana Figueroa was diagnosed with autism when he was a toddler. For StoryCorps, Figueroa and his mom talk about his childhood and their hopes for the future.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-15T08:44:46+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Outbreak Kills 65; RFK Jr. Did Not Perform Surgery, Hospital Says; DOJ Targets Yale",
+    "url": "https://www.medpagetoday.com/infectiousdisease/ebola/121281",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Africa CDC confirmed a new Ebola outbreak in Congo's remote Ituri province, with 246 suspected cases and 65 deaths recorded so far. (AP) Meanwhile, a meningitis...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-15T13:36:27+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
     "title": "DOJ accuses Yale and UCLA medical schools of discriminating against white and Asian applicants",
     "url": "https://www.statnews.com/2026/05/15/trump-doj-targets-yale-ucla-medical-school-admissions/?utm_campaign=rss",
     "summary": "The Justice Department sent a letter to Yale School of Medicine on Thursday, alleging it was illegally discriminating against applicants who are not Black or Hispanic, following a similar missive…",
@@ -9877,126 +9997,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-04-25T21:00:00+00:00",
-    "date_str": "Apr 25, 2026"
-  },
-  {
-    "title": "Iran war throttles global fluoride supply, impacting US waterworks",
-    "url": "https://thehill.com/policy/healthcare/5846574-fluoride-supply-chain-iran-war/",
-    "summary": "Fluoride is becoming harder to source as the war in Iran places more strain on global supply chains, leading some local governments to reduce their own use of the widely used cavity-fighting agent. Two major water supply systems in Maryland, which serve the Baltimore and suburban D.C. areas, announced this month they would be temporarily...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-04-25T21:00:00+00:00",
-    "date_str": "Apr 25, 2026"
-  },
-  {
-    "title": "Nancy Cox, a CDC veteran and a stalwart in global flu research, dies at 77",
-    "url": "https://www.statnews.com/2026/04/25/nancy-cox-flu-researcher-obituary/?utm_campaign=rss",
-    "summary": "Nancy Cox, a CDC veteran who for decades was a global leader in influenza research, has died at 77.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-25T14:28:43+00:00",
-    "date_str": "Apr 25, 2026"
-  },
-  {
-    "title": "Controlling Hypertension After Intracerebral Hemorrhage; Treating Acute Sinusitis",
-    "url": "https://www.medpagetoday.com/podcasts/healthwatch/120945",
-    "summary": "(MedPage Today) -- TTHealthWatch is a weekly podcast from Texas Tech. In it, Elizabeth Tracey, director of electronic media for Johns Hopkins Medicine in Baltimore, and Rick Lange, MD, president of Texas Tech Health El Paso, look at the top medical...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-25T18:00:00+00:00",
-    "date_str": "Apr 25, 2026"
-  },
-  {
-    "title": "Symptom-Based Dosing Gets Infants With Opioid Withdrawal Out of the Hospital Faster",
-    "url": "https://www.medpagetoday.com/meetingcoverage/pas/120962",
-    "summary": "(MedPage Today) -- Infants with neonatal opioid withdrawal syndrome (NOWS) saw a decreased time to hospital discharge with symptom-based dosing versus scheduled opioid tapering, according to the OPTimize NOW trial. The 383 infants were at risk...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-25T15:45:00+00:00",
-    "date_str": "Apr 25, 2026"
-  },
-  {
-    "title": "Vaccines, Budget Cuts, Affordability: Takeaways From RFK Jr.'s Gauntlet of Hearings",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/washington-watch/120957",
-    "summary": "(MedPage Today) -- Health Secretary Robert F. Kennedy Jr. this week concluded a marathon series of hearings with federal lawmakers, during which he deflected blame for measles outbreaks and dwindling vaccination rates across the country and touted...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-25T14:00:00+00:00",
-    "date_str": "Apr 25, 2026"
-  },
-  {
-    "title": "Steak ‘n Shake’s new chief MAHA officer: We're going ‘back to the glory days of fast food’",
-    "url": "https://thehill.com/business/5848987-steak-n-shake-healthy-ingredients/",
-    "summary": "Steak ‘n Steak is revamping its ingredients and cooking methods in a move it says aligns with the Trump administration’s health agenda, an effort the chain’s new chief Make America Healthy Again (MAHA) officer said Saturday is intended to restore “glory days of fast food.” “Our message is simple,” Michael Boes said during an...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-04-25T18:38:14+00:00",
-    "date_str": "Apr 25, 2026"
-  },
-  {
-    "title": "Gounder Culls the News, From Ticks and AI to Who Might Lead CDC",
-    "url": "https://kffhealthnews.org/on-air/kff-health-news-tick-bites-ai-podcasts-cdc-erica-schwartz04-25-26/",
-    "summary": "KFF Health News journalists made the rounds on national or local media recently to discuss topical stories. Here’s a collection of their appearances.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-25T09:00:00+00:00",
-    "date_str": "Apr 25, 2026"
-  },
-  {
-    "title": "Opinion: The podcast telling the stories behind Ambien, Ozempic, EpiPens, and other game-changing drugs",
-    "url": "https://www.statnews.com/2026/04/25/drug-story-podcast-interview-transcript/?utm_campaign=rss",
-    "summary": "“We're basically not using our body as directed,” says \"Drug Story\" host Thomas Goetz.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-25T11:00:00+00:00",
-    "date_str": "Apr 25, 2026"
-  },
-  {
-    "title": "How the fight over glyphosate, the active ingredient in Roundup, is creating tensions",
-    "url": "https://www.npr.org/2026/04/25/nx-s1-5763853/how-the-fight-over-glyphosate-the-active-ingredient-in-roundup-is-creating-tensions",
-    "summary": "The fight over an ingredient in weedkiller has pitched MAHA activists - those aligned with the beliefs of Health and Human Services Secretary Robert F Kennedy - against President Trump's policies.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-25T11:37:54+00:00",
-    "date_str": "Apr 25, 2026"
-  },
-  {
-    "title": "A look at the latest developments at the CDC",
-    "url": "https://www.npr.org/2026/04/25/nx-s1-5797985/a-look-at-the-latest-developments-at-the-cdc",
-    "summary": "The CDC's Epidemic Intelligence Service was on the chopping block last year by the Trump administration. Scientists had a study assessing COVID vaccine effectiveness suppressed by its leadership.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-25T11:37:51+00:00",
-    "date_str": "Apr 25, 2026"
-  },
-  {
-    "title": "Some Planned Parenthood clinics are using Botox to smooth over federal cuts",
-    "url": "https://www.npr.org/2026/04/25/nx-s1-5763797/planned-parenthood-botox-medcaid-trump-congress",
-    "summary": "After President Trump and Congress cut certain Medicaid funding to Planned Parenthood in last year's budget, some clinics have started offering aesthetic services, including Botox, to stay afloat.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-25T09:00:00+00:00",
-    "date_str": "Apr 25, 2026"
-  },
-  {
-    "title": "GLP-1s and endometriosis: Could there be a new treatment?",
-    "url": "https://thehill.com/policy/healthcare/5848197-glp-1s-endometriosis-new-treatment/",
-    "summary": "Roughly 11% of American women suffer from endometriosis.",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-04-25T11:38:57+00:00",
     "date_str": "Apr 25, 2026"
   }
 ]
