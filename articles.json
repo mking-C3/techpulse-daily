@@ -1,5 +1,95 @@
 [
   {
+    "title": "Trump blasts ‘disloyal’ Sen. Cassidy while pushing challenger in Louisiana Republican primary",
+    "url": "https://www.statnews.com/2026/05/16/trump-blasts-bill-cassidy-louisiana-republican-primary/?utm_campaign=rss",
+    "summary": "Bill Cassidy, leader of the Senate committee that oversees health policy, is fighting for his political life in Louisiana's Republican primary on Saturday.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-16T14:23:06+00:00",
+    "date_str": "May 16, 2026"
+  },
+  {
+    "title": "A new Ebola outbreak has already killed 87 people in Democratic Republic of Congo",
+    "url": "https://www.npr.org/2026/05/16/g-s1-122494/a-new-ebola-outbreak-has-already-killed-87-people",
+    "summary": "Health officials are working to contain a new Ebola outbreak in the DRC of a virus strain with no known vaccine.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-16T18:37:36+00:00",
+    "date_str": "May 16, 2026"
+  },
+  {
+    "title": "Exercise and Blood Pressure; Maternal Occupation and Autism",
+    "url": "https://www.medpagetoday.com/podcasts/healthwatch/121290",
+    "summary": "(MedPage Today) -- TTHealthWatch is a weekly podcast from Texas Tech. In it, Elizabeth Tracey, director of electronic media for Johns Hopkins Medicine in Baltimore, and Rick Lange, MD, president of Texas Tech Health El Paso, look at the top medical...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-16T18:00:00+00:00",
+    "date_str": "May 16, 2026"
+  },
+  {
+    "title": "How Low Can America Go?",
+    "url": "https://www.medpagetoday.com/opinion/parasites-and-plagues/121283",
+    "summary": "(MedPage Today) -- For many doctors like me, Donald G. McNeil Jr.'s byline will always inspire respect. A New York Times (NYT) reporter since the 1970s, he first earned his medical stripes in the 1990s as a foreign correspondent covering HIV/AIDS...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-16T16:00:00+00:00",
+    "date_str": "May 16, 2026"
+  },
+  {
+    "title": "Makary's Resignation Expands Leadership Void at Health Department",
+    "url": "https://www.medpagetoday.com/washington-watch/fdageneral/121271",
+    "summary": "(MedPage Today) -- When the week began, several senior positions at HHS were already sitting empty. There was no Senate-confirmed U.S. surgeon general. The head of the NIH was doubling as the acting head of the CDC. The FDA lacked a permanent...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-16T14:00:00+00:00",
+    "date_str": "May 16, 2026"
+  },
+  {
+    "title": "CMS pulls back limits on non-standard ACA plans in final rule",
+    "url": "https://www.fiercehealthcare.com/regulatory/cms-pulls-back-limits-non-standard-aca-plans-final-rule",
+    "summary": "The Trump administration has finalized annual regulations governing the Affordable Care Act's exchanges, including a plan that would pull back limits on non-standardized plan options offered by insurers.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-16T19:03:44.206013+00:00",
+    "date_str": "May 16, 2026"
+  },
+  {
+    "title": "Supply costs, payer challenges drag CommonSpirit Health to -5.8% operating margin in fiscal Q3",
+    "url": "https://www.fiercehealthcare.com/providers/commonspirit-shoulders-58-operating-margin-fiscal-q3",
+    "summary": "Operating performance at the 137-hospital nonprofit system took a dive even before the recorded impact of a multi-billion-dollar decoupling from Tenet's revenue cycle business.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-16T19:03:44.206072+00:00",
+    "date_str": "May 16, 2026"
+  },
+  {
+    "title": "Tick that causes meat allergy, other rare virus is spreading: What symptoms to watch for",
+    "url": "https://thehill.com/policy/healthcare/5862341-tick-that-causes-meat-allergy-other-rare-virus-is-spreading-what-symptoms-to-watch-for/",
+    "summary": "A tick capable of making its victims allergic to meat and dairy (among other items) and spreading a virus that has no known cure may be reaching new areas, data shows.",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-16T15:00:00+00:00",
+    "date_str": "May 16, 2026"
+  },
+  {
+    "title": "Should you cancel your cruise after the hantavirus outbreak?",
+    "url": "https://thehill.com/policy/healthcare/5880932-cruise-hantavirus-outbreak-traveling-risk/",
+    "summary": "Cruise ships are back in the spotlight after a deadly hantavirus outbreak, but experts say the risk to travelers is low.",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-16T14:14:44+00:00",
+    "date_str": "May 16, 2026"
+  },
+  {
     "title": "Journalists Unpack Latest on Vaccines, Vaping, and TrumpRx",
     "url": "https://kffhealthnews.org/on-air/on-air-may-16-2026-vaccines-vaping-mifepristone-trumprx/",
     "summary": "KFF Health News journalists made the rounds on national media recently to discuss topical stories. Here’s a collection of their appearances.",
@@ -9907,96 +9997,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-04-27T16:09:33+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "Bronchial Casts: An Unusual Complication of Wildfire Smoke Inhalation",
-    "url": "https://www.medpagetoday.com/casestudies/pulmonology/120968",
-    "summary": "(MedPage Today) -- A case study of an elderly man exposed to dense smoke from a forest fire in China revealed extensive black bronchial casts in both lungs. Bronchial casts are solid branching structures, made of mucus and other materials, that...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-27T15:37:29+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "Imaging Finding for AMD Precursor Not as Accurate as Commonly Believed",
-    "url": "https://www.medpagetoday.com/ophthalmology/generalophthalmology/120966",
-    "summary": "(MedPage Today) -- A key imaging finding in the fellow eye of patients with unilateral neovascular age-related macular degeneration (nAMD) proved to be less accurate for predicting an nAMD precursor than generally accepted, according to angiographic...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-27T15:07:45+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "Tick Season Seems to Be Off to a Fast Start",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/120965",
-    "summary": "(MedPage Today) -- Tick season seems to be off to a fast start, with an unusually high number of bites already reported across the country. Some U.S. doctors are worried about the potential for a bad year for tick-borne diseases. \"If you have...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-27T14:27:41+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "Grieving and Heart Attacks; Fatal Hospital Shooting; Trump Admin Wants Firing Squads",
-    "url": "https://www.medpagetoday.com/cardiology/myocardialinfarction/120964",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Periods of bereavement were linked to higher risks of heart attack and stroke, associations that were amplified during the COVID pandemic. (JAMA Network Open) Utah...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-27T13:30:39+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "ACA subsidy lapse cost HCA Healthcare $150M in Q1",
-    "url": "https://www.healthcaredive.com/news/aca-subsidy-lapse-cost-hca-healthcare-150m/818418/",
-    "summary": "The hit was in line with HCA’s expectations. The hospital operator is the first of its peers to detail financial impacts from the expiration of more generous subsidies in Affordable Care Act plans.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-27T14:00:45+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "Insurers making progress on standardizing prior authorizations",
-    "url": "https://www.healthcaredive.com/news/insurers-standardize-electronic-prior-authorizations-ahip-bcbsa/818524/",
-    "summary": "Aligning electronic data submission requirements for prior authorizations is one prong of the insurance industry’s commitment to reform the unpopular preapprovals.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-27T13:14:56+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "Humana's CenterWell, Mark Cuban Cost Plus Drugs partner to tackle employers' drug costs",
-    "url": "https://www.fiercehealthcare.com/payers/humanas-centerwell-mark-cubans-cost-plus-drugs-handle-employers-prescriptions",
-    "summary": "The arrangement aims to create new \"end-to-end employer prescription solutions\" fueled by Cost Plus Drugs' software platform and drug pricing as well as CenterWell Pharmacy's distribution infrastructure.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-27T19:21:20.657281+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "AMA urges lawmakers to implement stronger safeguards for AI chatbots in mental health",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/ama-urges-lawmakers-implement-stronger-safeguards-ai-chatbots-mental-health",
-    "summary": "Recommendations from the organization include enforcing transparency standards, creating a risk-based oversight framework and mandating ongoing safety monitoring.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-27T19:21:20.657333+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "A look at payers' attitudes toward specialty drug management",
-    "url": "https://www.fiercehealthcare.com/payers/look-payers-attitudes-toward-specialty-drug-management",
-    "summary": "Insurers are putting a growing focus on specialty drugs covered under the medical benefit, and on re-evaluating the efficacy of traditional rebate models, according to a new report.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-27T19:21:20.657364+00:00",
     "date_str": "Apr 27, 2026"
   }
 ]
