@@ -1,5 +1,145 @@
 [
   {
+    "title": "IKS Health Acquires ARAI to Build Out Specialized AI Stack",
+    "url": "https://medcitynews.com/2026/05/iks-healthcare-ai-acquisition/",
+    "summary": "IKS Health acquired healthcare AI startup ARAI to strengthen the technology underpinning its automation tools, as well as reduce its dependence on third-party AI models. The post IKS Health Acquires ARAI to Build Out Specialized AI Stack appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-15T23:53:56+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Anomaly Raises $17M for AI-Powered Payer Intelligence Platform",
+    "url": "https://medcitynews.com/2026/05/anomaly-raises-17m-for-ai-powered-payer-intelligence-platform/",
+    "summary": "Anomaly’s $17 million round was led by Sound Ventures and included participation from Alumni Ventures, Link Ventures, Redesign Health and RRE Ventures. The post Anomaly Raises $17M for AI-Powered Payer Intelligence Platform appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-15T22:06:55+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "STAT+: FDA drug center head Tracy Beth Høeg leaves as agency faces leadership vacuum",
+    "url": "https://www.statnews.com/2026/05/15/fda-leadership-vacuum-tracy-beth-hoeg-resigns-drug-center-post/?utm_campaign=rss",
+    "summary": "The acting director of the FDA’s drug center, Tracy Beth Høeg, is leaving the agency. The news come days after Commissioner Marty Makary handed in his resignation.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-15T21:15:23+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "GLP-1 Drug Makes Its Case for Treating Plaque Psoriasis",
+    "url": "https://www.medpagetoday.com/dermatology/psoriasis/121299",
+    "summary": "(MedPage Today) -- Adding a dual GLP-1/GIP receptor agonist to the psoriasis drug ixekizumab (Taltz) significantly improved outcomes in adults with difficult-to-treat plaque psoriasis due to overweight or obesity, the open-label TOGETHER-PsO trial...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-15T21:38:48+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Many States Not Prepared to Respond to Public Health Emergencies, Report Finds",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/121298",
+    "summary": "(MedPage Today) -- Even as hantavirus cases on a cruise ship continue to cause concern, about one-fourth of states are not fully prepared to manage a public health emergency if one should come their way, a report found. \"The nation faced the most...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-15T20:46:08+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Largest U.S. Children's Hospital to Set Up a 'Detransition Clinic' for Trans Youth",
+    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/121297",
+    "summary": "(MedPage Today) -- The nation's largest children's hospital has agreed to a legal settlement with Texas and the Trump administration over gender-affirming care for transgender youth that includes a $10 million payment to the state and the requirement...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-15T20:35:33+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "How a Challenge to Mifepristone Could Disrupt Drug Regulation at Large",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/121296",
+    "summary": "(MedPage Today) -- Since the FDA approved mifepristone over 25 years ago, the drug has been part of an extremely safe and effective regimen for terminating a pregnancy, with the risk of serious complications less than 1%. Nearly two-thirds of all...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-15T20:22:47+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Hantavirus Strain in Outbreak Hasn't Become More Transmissible, WHO Says",
+    "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/121295",
+    "summary": "(MedPage Today) -- The hantavirus that triggered a cruise ship outbreak hasn't mutated into a more transmissible strain, World Health Organization (WHO) officials said, and any new cases likely reflect effective monitoring of existing contacts...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-15T19:11:18+00:00",
+    "date_str": "May 15, 2026"
+  },
+  {
+    "title": "Texas Children's Hospital agrees to launch nation's first 'detransition clinic' to settle state, DOJ investigation",
+    "url": "https://www.fiercehealthcare.com/providers/texas-childrens-agrees-launch-nations-first-detransition-clinic-settle-state-doj",
+    "summary": "The large pediatric provider had been under investigation by Texas' attorney general for three years over its gender-affirming care services. It said it agreed to the deal \"to protect our resources from endless and costly litigation.\"",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-16T02:51:36.661004+00:00",
+    "date_str": "May 16, 2026"
+  },
+  {
+    "title": "Kinderhook finalizes acquisition of home health and hospice provider Enhabit",
+    "url": "https://www.fiercehealthcare.com/providers/home-health-and-hospice-provider-enhabit-go-private-11b-deal",
+    "summary": "Kinderhook Industries finalized its previously announced take-private buyout of Enhabit, a provider of home health and hospice care.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-16T02:51:36.661055+00:00",
+    "date_str": "May 16, 2026"
+  },
+  {
+    "title": "Docs remain skeptical of insurers' pledge to ease prior auth: AMA survey",
+    "url": "https://www.fiercehealthcare.com/payers/docs-remain-skeptical-insurers-pledge-ease-prior-auth-ama-survey",
+    "summary": "As payers tout progress made under a pledge to ease burdens around prior authorizations, physicians remain skeptical, a new survey shows.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-16T02:51:36.661085+00:00",
+    "date_str": "May 16, 2026"
+  },
+  {
+    "title": "Op-ed: Making America healthy again requires more than a committee",
+    "url": "https://www.fiercehealthcare.com/providers/op-ed-making-america-healthy-again-requires-more-committee",
+    "summary": "The question for the administration's soon-to-convene Federal Advisory Committee to improve U.S. healthcare is not whether we know what to do, but whether we are finally willing to do it, write the CEOs of the American Academy of Family Physicians and SCAN Group.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-16T02:51:36.661118+00:00",
+    "date_str": "May 16, 2026"
+  },
+  {
+    "title": "RFK Jr.’s department to make it easier to fire career staff",
+    "url": "https://www.politico.com/news/2026/05/15/rfk-civil-service-job-protections-00925102",
+    "summary": "Managers received notices Friday that job classifications were changing.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-16T00:33:46+00:00",
+    "date_str": "May 16, 2026"
+  },
+  {
+    "title": "Hantavirus has not mutated to be more transmissible: WHO",
+    "url": "https://thehill.com/policy/healthcare/5880945-hantavirus-has-not-mutated-to-be-more-transmissible-who/",
+    "summary": "The overall risk to the public remains low, WHO officials said.",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-16T01:15:00+00:00",
+    "date_str": "May 16, 2026"
+  },
+  {
     "title": "Kennedy Swaps Vaccine Rhetoric for Story Time but Can’t Quite Change the Subject",
     "url": "https://kffhealthnews.org/public-health/the-week-in-brief-rfk-jr-ohio-visit-maha-rhetoric/",
     "summary": "Get our weekly newsletter, The Week in Brief, featuring a roundup of our original coverage, Fridays at 2 p.m. ET.",
@@ -9857,146 +9997,6 @@
     "category": "Medicare News",
     "category_slug": "medicare-news",
     "date": "2026-04-27T13:35:00+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "Too Many Prescriptions, Too Many Fatal Falls",
-    "url": "https://medcitynews.com/2026/04/too-many-prescriptions-too-many-fatal-falls/",
-    "summary": "The phenomenon of taking five or more medicines at the same time has become so common that it now has its own term – polypharmacy – and there is no doubt that it increases the risk of dizziness, confusion, and loss of balance. The post Too Many Prescriptions, Too Many Fatal Falls appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-27T13:09:00+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "Patients are Turning to HCP Influencers in the Age of AI and Misinformation",
-    "url": "https://medcitynews.com/2026/04/patients-are-turning-to-hcp-influencers-in-the-age-of-ai-and-misinformation/",
-    "summary": "As patients take to social media, in all its ungated glory and promotion of misinformation, how can they be certain that what they are getting is accurate? What voices can they trust? The post Patients are Turning to HCP Influencers in the Age of AI and Misinformation appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-27T13:06:00+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "STAT+: Astellas retries XLMTM gene therapy after deaths",
-    "url": "https://www.statnews.com/2026/04/27/biotech-news-astellas-retries-xlmtm-gene-therapy-after-deaths/?utm_campaign=rss",
-    "summary": "Veradermics' hair loss pill late-stage trial success, FDA fast-tracks reviews for psychedelics, and more biotech news",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-27T13:20:40+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a Lilly deal, an Intellia CRISPR rare-disease treatment, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/04/27/lilly-deal-intellia-crispr-treatment-for-rare-disease/?utm_campaign=rss",
-    "summary": "Intellia disclosed that a single dose of its gene editing treatment dramatically reduced swelling attacks in patients with hereditary angioedema",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-27T13:18:01+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "What’s the true risk for eating disorders with GLP-1s?",
-    "url": "https://www.statnews.com/2026/04/27/health-news-true-risk-of-eating-disorders-and-wegovy-ozempic/?utm_campaign=rss",
-    "summary": "The state of Covid-19 in 2026, a hat to treat depression, and other health news from Morning Rounds",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-27T12:42:36+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "STAT+: Intellia says CRISPR-based treatment for rare disease reduced swelling attacks in pivotal trial",
-    "url": "https://www.statnews.com/2026/04/27/intellia-therapeutics-phase-3-trial-hereditary-angioedema-crispr-treatment/?utm_campaign=rss",
-    "summary": "With good results from Intellia, the CRISPR field faces the question: How attractive will the one-and-done approach be to patients and doctors?",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-27T11:01:00+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "STAT+: Oruka’s long-acting psoriasis therapy posts strong results in mid-stage study",
-    "url": "https://www.statnews.com/2026/04/27/ourka-psoriasis-inectable-treatment-study/?utm_campaign=rss",
-    "summary": "A long-acting injectable treatment for plaque psoriasis helped 63% of patients achieve complete skin clearance in a clinical trial, its maker, Oruka Therapeutics, reported.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-27T11:00:00+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "STAT+: Veradermics’ hair loss drug succeeds in late-stage trial",
-    "url": "https://www.statnews.com/2026/04/27/veradermics-hair-loss-drug-succeeds-late-stage-trial/?utm_campaign=rss",
-    "summary": "The company is one of the most advanced players in the hair loss field, which has seen a surge of investor enthusiasm.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-27T11:00:00+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "STAT+: Zap in a cap: How one neurotech startup is using a hat to treat depression",
-    "url": "https://www.statnews.com/2026/04/27/motif-neurotech-gets-fda-nod-brain-implant-depression/?utm_campaign=rss",
-    "summary": "FDA approved a request from Motif Neurotech, to start an initial feasibility trial to test a brain implant to treat depression.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-27T09:30:00+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "NIH-funded research lags in reporting sex differences, new study finds",
-    "url": "https://www.statnews.com/2026/04/27/nih-research-guidelines-sabv-sex-as-biological-variable/?utm_campaign=rss",
-    "summary": "Fewer than half of papers published by NIH-funded researchers analyze or report their data by sex, a new study found.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-27T09:00:00+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "What happened to Covid?",
-    "url": "https://www.statnews.com/2026/04/27/is-covid-still-a-thing-expert-analysis-who-needs-vaccine-booster-shot/?utm_campaign=rss",
-    "summary": "The thinking about what risk Covid poses — or doesn't pose — has shifted in recent years. What does it mean for you?",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-27T08:30:00+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "Opinion: Patients seeking mental health treatment are not commodities",
-    "url": "https://www.statnews.com/2026/04/27/mental-health-employment-contracts-proprietary-non-compete-non-solicitation/?utm_campaign=rss",
-    "summary": "Legal agreements that directly shape access to care remain invisible to the very people whose lives they govern.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-27T08:30:00+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "Scientists search the microbiome for clues to the rise in colorectal cancers",
-    "url": "https://www.npr.org/2026/04/27/nx-s1-5766512/colorectal-cancer-rise-young-gut-microbes",
-    "summary": "Unlike many cancers, colorectal cancer has become more lethal for people at younger ages. Doctors are sleuthing out why.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-27T09:00:00+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "Why health plans are missing one of their most costly care categories",
-    "url": "https://www.healthcaredive.com/spons/why-health-plans-are-missing-one-of-their-most-costly-care-categories/817850/",
-    "summary": "The overlooked surgery category quietly driving utilization and cost for health plans",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-27T09:00:00+00:00",
     "date_str": "Apr 27, 2026"
   }
 ]
