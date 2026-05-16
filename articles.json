@@ -1,5 +1,65 @@
 [
   {
+    "title": "Journalists Unpack Latest on Vaccines, Vaping, and TrumpRx",
+    "url": "https://kffhealthnews.org/on-air/on-air-may-16-2026-vaccines-vaping-mifepristone-trumprx/",
+    "summary": "KFF Health News journalists made the rounds on national media recently to discuss topical stories. Here’s a collection of their appearances.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-16T09:00:00+00:00",
+    "date_str": "May 16, 2026"
+  },
+  {
+    "title": "Opinion: Marty Makary misunderstood something fundamental about the FDA",
+    "url": "https://www.statnews.com/2026/05/16/marty-makary-fda-commissioner-administrative-power/?utm_campaign=rss",
+    "summary": "“The norm-shattering masks a more fundamental misunderstanding of how administrative power can bring about lasting change,” writes Joshua Sharfstein.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-16T11:00:00+00:00",
+    "date_str": "May 16, 2026"
+  },
+  {
+    "title": "Opinion: The cloudy truth about ‘blue zones’",
+    "url": "https://www.statnews.com/2026/05/16/blue-zones-eric-topol-shelley-wood-interview-transcript/?utm_campaign=rss",
+    "summary": "“There's been interest in longevity, promoting it, for millennia. But this 25-year campaign really brought it to the forefront,” Eric Topol says of blue zones.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-16T11:00:00+00:00",
+    "date_str": "May 16, 2026"
+  },
+  {
+    "title": "Elephants eat their crops. Farmers strike back. It's a war that's only getting worse",
+    "url": "https://www.npr.org/2026/05/16/g-s1-121654/elephants-farmers-crops-sri-lanka",
+    "summary": "In Sri Lanka, the islanders revere elephants. But for farmers, there's rising tension that's leading to more fatal encounters — for both humans and hungry pachyderms.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-16T11:19:25+00:00",
+    "date_str": "May 16, 2026"
+  },
+  {
+    "title": "Salmonella fears prompt recall of seasoning sold at Walmart stores nationwide",
+    "url": "https://thehill.com/business/5880862-salmonella-fears-walmart-seasoning-recall/",
+    "summary": "Federal health officials report that a company is recalling a seasoning product sold nationwide at Walmart stores as it may be contaminated with salmonella.",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-16T12:45:19+00:00",
+    "date_str": "May 16, 2026"
+  },
+  {
+    "title": "First human GLP-1 gene therapy trial gets green light",
+    "url": "https://thehill.com/policy/healthcare/5880938-first-human-glp-1-gene-therapy-trial/",
+    "summary": "“GLP-1 medicines have changed what is possible in obesity and Type 2 diabetes,\" Dr. Harith Rajagopalan said.",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-16T12:41:26+00:00",
+    "date_str": "May 16, 2026"
+  },
+  {
     "title": "IKS Health Acquires ARAI to Build Out Specialized AI Stack",
     "url": "https://medcitynews.com/2026/05/iks-healthcare-ai-acquisition/",
     "summary": "IKS Health acquired healthcare AI startup ARAI to strengthen the technology underpinning its automation tools, as well as reduce its dependence on third-party AI models. The post IKS Health Acquires ARAI to Build Out Specialized AI Stack appeared first on MedCity News .",
@@ -9937,66 +9997,6 @@
     "category": "Drug Coverage",
     "category_slug": "drug-coverage",
     "date": "2026-04-27T19:21:20.657364+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "Health Tech Weekly Rundown: Google invests in AI training for rural health workers; State of genAI adoption in healthcare",
-    "url": "https://www.fiercehealthcare.com/health-tech/health-tech-weekly-rundown-googleorg-johnson-johnson-foundation-partner-ai-training",
-    "summary": "Google.org and the Johnson & Johnson Foundation announced a $10 million philanthropic collaboration to fund AI literacy training for rural healthcare workers across the U.S., aiming to bridge the adoption gap.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-27T19:21:20.657418+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "South Carolina's measles outbreak is over after sickening nearly 1,000 people",
-    "url": "https://thehill.com/homenews/state-watch/south-carolina-measles-outbreak/",
-    "summary": "South Carolina's measles outbreak — the worst in the U.S. in more than 35 years — is over, state health officials declared Monday. On Sunday, the state passed the threshold of 42 days with no new outbreak-related cases. In the end, 997 people were sickened by the vaccine-preventable disease since October and at least 21...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-04-27T16:53:12+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "Listen live: Supreme Court hears case that could limit pesticide liability",
-    "url": "https://thehill.com/regulation/court-battles/5850540-maha-trump-pesticide-supreme-court/",
-    "summary": "The Supreme Court on Monday will hear arguments in a case that could curtail antipesticide lawsuits — an issue that pits the Make America Healthy Again movement against the Trump administration. The high court agreed to take up the case earlier this year after a request from Monsanto, maker of the frequently litigated weedkiller Roundup. Listen to the...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-04-27T14:53:29+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "Florida Delays Children’s Health Insurance Expansion as Uninsured Rate Rises",
-    "url": "https://kffhealthnews.org/insurance/chip-expansion-florida-delay-children-health-coverage-uninsured-rates/",
-    "summary": "Florida’s KidCare expansion has been stuck in legal limbo since February 2024. Since then, the number of uninsured children in Florida has risen to 400,000 — one of the highest state tallies.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-27T09:00:00+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "The Help That Many Older Americans Need Most",
-    "url": "https://kffhealthnews.org/aging/new-old-age-community-health-workers-promotores-home-visits-senior-support/",
-    "summary": "With shortages of medical professionals and an aging population, thousands of community healthcare workers prevent older adults from falling through the cracks.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-27T09:00:00+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "How Recent Changes in ‘Patient-Matched’ Technology Are Reshaping the Future of Surgical Care",
-    "url": "https://medcitynews.com/2026/04/how-recent-changes-in-patient-matched-technology-are-reshaping-the-future-of-surgical-care/",
-    "summary": "The evolution of patient-matched medical devices represents more than just innovation in manufacturing and design. It marks a shift in clinical philosophy. Instead of shaping patients to fit implants, clinicians and device developers are harnessing technology to shape treatments around the individual. The post How Recent Changes in ‘Patient-Matched’ Technology Are Reshaping the Future of Surgical Care appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-27T13:35:00+00:00",
     "date_str": "Apr 27, 2026"
   }
 ]
