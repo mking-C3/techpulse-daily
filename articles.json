@@ -1,5 +1,45 @@
 [
   {
+    "title": "PCOS has a new name. Can it help patients get better care?",
+    "url": "https://www.npr.org/2026/05/17/nx-s1-5821129/pcos-has-a-new-name-can-it-help-patients-get-better-care",
+    "summary": "Polycystic ovary syndrome is getting a new name. NPR's Ayesha Rascoe speaks to Dr. Melanie Cree, of Children's Hospital Colorado, about how the new name might help patients get better treatment.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-17T12:15:45+00:00",
+    "date_str": "May 17, 2026"
+  },
+  {
+    "title": "One clinic tracks the heavy toll Trump's immigration crackdown takes on mental health",
+    "url": "https://www.npr.org/2026/05/17/nx-s1-5779576/immigration-ice-cbp-mental-health-children",
+    "summary": "Zocalo Health, a clinic in Los Angeles, screens all its patients for depression, anxiety and suicidal thoughts. It documented a marked increase in those conditions since ICE enforcement actions began.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-17T11:00:00+00:00",
+    "date_str": "May 17, 2026"
+  },
+  {
+    "title": "Hantavirus can survive in semen 6 years after infection: Study",
+    "url": "https://thehill.com/policy/healthcare/5881767-hantavirus-semen-research-study/",
+    "summary": "World health officials say the Andes form of hantavirus, which can jump between humans, is not spiraling into a pandemic.",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-17T11:32:59+00:00",
+    "date_str": "May 17, 2026"
+  },
+  {
+    "title": "WHO declares global health emergency over Ebola outbreak in Congo, Uganda",
+    "url": "https://thehill.com/homenews/ap/ap-health/ap-who-ebola-public-health-emergency/",
+    "summary": "ABUJA, Nigeria (AP) — The World Health Organization declared the Ebola disease outbreak caused by a rare virus in Congo and neighboring Uganda a public health emergency of international concern on Sunday, after more than 300 suspected cases and 88 deaths. The WHO said the outbreak does not meet the criteria of a pandemic emergency...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-17T10:07:26+00:00",
+    "date_str": "May 17, 2026"
+  },
+  {
     "title": "WHO declares Ebola outbreak an international public health emergency",
     "url": "https://www.statnews.com/2026/05/17/who-ebola-drc-uganda-bundibugyo-pheic-public-health-emergency/?utm_campaign=rss",
     "summary": "The WHO said an Ebola outbreak first seen in the Democratic Republic of the Congo was an international public health emergency, underscoring the world's concerns.",
@@ -9957,46 +9997,6 @@
     "category": "Industry News",
     "category_slug": "industry-news",
     "date": "2026-04-27T20:49:38+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "What Dentistry Is Teaching Healthcare About Operational AI",
-    "url": "https://medcitynews.com/2026/04/what-dentistry-is-teaching-healthcare-about-operational-ai/",
-    "summary": "In dental practices, where reimbursement cycles are tighter and administrative inefficiencies are immediately visible, AI is already being evaluated not for novelty, but for operational impact. The post What Dentistry Is Teaching Healthcare About Operational AI appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-27T13:59:52+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "Dems says RFK Jr. has a pattern of failing to answer their questions",
-    "url": "https://www.statnews.com/2026/04/27/rfk-jr-questions-from-democrats-unanswered-congressional-hearings/?utm_campaign=rss",
-    "summary": "Kennedy broke his pledge to share a controversial contract, highlighting Democrats' frustrations with the health secretary.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-27T19:21:02+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "Trump administration warns against using federal dollars on fentanyl test strips",
-    "url": "https://www.statnews.com/2026/04/27/trump-administration-samhsa-clear-shift-from-harm-reduction/?utm_campaign=rss",
-    "summary": "The Trump administration underlines a “clear shift away from harm reduction and practices” that it says facilitates illegal drug use.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-27T18:07:51+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "STAT+: An insider reveals the real goals of prior authorization",
-    "url": "https://www.statnews.com/2026/04/27/former-united-healthcare-executive-interview-prior-authorization/?utm_campaign=rss",
-    "summary": "Years ago, Archelle Georgiou helped squash prior auths at one of America's biggest health insurers.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-27T14:51:30+00:00",
     "date_str": "Apr 27, 2026"
   }
 ]
