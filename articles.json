@@ -1,5 +1,25 @@
 [
   {
+    "title": "WHO declares Ebola outbreak an international public health emergency",
+    "url": "https://www.statnews.com/2026/05/17/who-ebola-drc-uganda-bundibugyo-pheic-public-health-emergency/?utm_campaign=rss",
+    "summary": "The WHO said an Ebola outbreak first seen in the Democratic Republic of the Congo was an international public health emergency, underscoring the world's concerns.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-17T07:17:53+00:00",
+    "date_str": "May 17, 2026"
+  },
+  {
+    "title": "World Health Organization declares Ebola outbreak in Congo a global health emergency",
+    "url": "https://www.npr.org/2026/05/16/g-s1-122494/new-ebola-outbreak-drc-who-global-emergency",
+    "summary": "Health officials are working to contain a new Ebola outbreak in the DRC of a virus strain with no known vaccine.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-16T18:37:36+00:00",
+    "date_str": "May 16, 2026"
+  },
+  {
     "title": "Durvalumab Plus BCG Cut Early Recurrence of High-Risk Bladder Cancer",
     "url": "https://www.medpagetoday.com/meetingcoverage/aua/121301",
     "summary": "(MedPage Today) -- WASHINGTON -- Add-on durvalumab (Imfinzi) reduced the number of early high-risk disease recurrences within the first year in patients with high-risk non-muscle-invasive bladder cancer (NMIBC), according to new analyses from...",
@@ -9977,26 +9997,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-04-27T14:51:30+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "Opinion: I’m a fourth-year med student, but I only learned one historical example of medical racism",
-    "url": "https://www.statnews.com/2026/04/27/medical-school-education-health-care-inequity-cdc-trial-tuskegee/?utm_campaign=rss",
-    "summary": "Modern randomized controlled trials often rely on marginalized populations abroad.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-27T08:30:00+00:00",
-    "date_str": "Apr 27, 2026"
-  },
-  {
-    "title": "South Carolina's Measles Outbreak Is Over After Sickening Nearly 1,000 People",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/120977",
-    "summary": "(MedPage Today) -- South Carolina's measles outbreak -- the worst in the U.S. in more than 35 years -- is over, state health officials declared Monday. On Sunday, the state passed the threshold of 42 days with no new outbreak-related cases...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-27T18:49:56+00:00",
     "date_str": "Apr 27, 2026"
   }
 ]
