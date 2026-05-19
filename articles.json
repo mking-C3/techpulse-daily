@@ -1,5 +1,205 @@
 [
   {
+    "title": "STAT+: Canadian medical societies lack sufficient conflict-of-interest policies, study finds",
+    "url": "https://www.statnews.com/pharmalot/2026/05/19/canadian-medical-societies-lack-sufficient-conflict-of-interest-policies/?utm_campaign=rss",
+    "summary": "Most Canadian medical societies lack comprehensive policies governing conflicts of interest, and many policies are generally fragmented and narrow in scope, according to a new analysis.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-19T17:45:22+00:00",
+    "date_str": "May 19, 2026"
+  },
+  {
+    "title": "STAT+: At a time of tumult at FDA, a former commissioner is hopeful it’s on a better path",
+    "url": "https://www.statnews.com/2026/05/19/fda-can-thrive-despite-talent-loss-says-david-kessler-former-commissioner/?utm_campaign=rss",
+    "summary": "With the FDA facing upheaval and personnel exits, former commissioner David Kessler sees an opportunity whereby the agency can make a turn for the better.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-19T17:08:02+00:00",
+    "date_str": "May 19, 2026"
+  },
+  {
+    "title": "STAT+: TrumpRx adds generic drugs",
+    "url": "https://www.statnews.com/2026/05/19/trumprx-generic-drugs-cassidy-loses-fda-turmoil-dc-diagnosis/?utm_campaign=rss",
+    "summary": "A deal with Mark Cuban, Amazon Pharmacy, and GoodRx is boosting TrumpRx's offerings.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-19T16:24:08+00:00",
+    "date_str": "May 19, 2026"
+  },
+  {
+    "title": "School children at San Diego mosque need support to process trauma of shooting",
+    "url": "https://www.npr.org/2026/05/19/nx-s1-5826700/school-children-at-san-diego-mosque-need-support-to-process-trauma-of-shooting",
+    "summary": "After shootings like the one at the San Diego mosque, people on site and in a community who are not physically hurt also suffer. Children are especially vulnerable.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-19T19:42:38+00:00",
+    "date_str": "May 19, 2026"
+  },
+  {
+    "title": "Former 'Ebola czar' weighs in on differences between 2014 epidemic and today",
+    "url": "https://www.npr.org/2026/05/19/nx-s1-5825902/former-ebola-czar-weighs-in-on-differences-between-2014-epidemic-and-today",
+    "summary": "NPR's Scott Detrow talks with Ron Klain, former White House Ebola response coordinator under President Obama, about the response to the 2014 Ebola epidemic and what's different today.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-19T19:42:37+00:00",
+    "date_str": "May 19, 2026"
+  },
+  {
+    "title": "States sue over new student loan limits on certain nursing and healthcare degrees",
+    "url": "https://www.npr.org/2026/05/19/nx-s1-5826688/lawsuit-student-loans-nursing-healthcare-graduate-degree",
+    "summary": "New York, Arizona, North Carolina, Kentucky and Nevada are among the states challenging a rule that limits federal student loans for graduate degrees in nursing, physical therapy and more.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-19T16:19:01+00:00",
+    "date_str": "May 19, 2026"
+  },
+  {
+    "title": "Can't keep a habit? This comic shares a proven formula to make it stick",
+    "url": "https://www.npr.org/2026/05/19/nx-s1-5825984/cant-keep-a-habit-this-comic-shares-a-proven-formula-to-make-it-stick",
+    "summary": "In this illustrated guide, behavioral scientist BJ Fogg breaks down his Tiny Habits framework to help you rethink your approach to starting (or restarting) a habit.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-19T16:19:00+00:00",
+    "date_str": "May 19, 2026"
+  },
+  {
+    "title": "Low-Dose Buprenorphine Enhanced Ketamine's Antisuicidal Effects in Major Depression",
+    "url": "https://www.medpagetoday.com/meetingcoverage/apa/121346",
+    "summary": "(MedPage Today) -- Low-dose buprenorphine significantly enhanced the antisuicidal effects of a single infusion of ketamine in patients with suicidal ideation and major depressive disorder (MDD), a randomized trial showed. Among 45 patients who...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-19T18:53:32+00:00",
+    "date_str": "May 19, 2026"
+  },
+  {
+    "title": "GLP-1s vs Bariatric Surgery; Obesity Trends Reversing; Creatine for Menopause?",
+    "url": "https://www.medpagetoday.com/endocrinology/generalendocrinology/121345",
+    "summary": "(MedPage Today) -- GLP-1 medication use increased by 140.4% from 2022 to 2024 while metabolic bariatric surgery utilization declined by 34.1%, national insurance data indicated. (JAMA Surgery) Generic forms of semaglutide (Ozempic, Wegovy) aren...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-19T18:43:05+00:00",
+    "date_str": "May 19, 2026"
+  },
+  {
+    "title": "BP Meds and Falls; Gaseous Emboli From Pulsed Field Ablation; Stent Paper Retracted",
+    "url": "https://www.medpagetoday.com/cardiology/generalcardiology/121344",
+    "summary": "(MedPage Today) -- In primary care, a first prescription for high blood pressure (BP) could be tied to a small increased risk of hospitalization or death due to a fall, according to a retrospective observational analysis. (Lancet Primary Care...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-19T16:17:49+00:00",
+    "date_str": "May 19, 2026"
+  },
+  {
+    "title": "Physician Group Wants Medicare Advantage Reform",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/medicare/121343",
+    "summary": "(MedPage Today) -- The nation's largest physician specialty group is so frustrated by the harmful impacts Medicare Advantage (MA) plans have on their practices, it is asking CMS for major policy reforms in nine key areas. In a position paper published...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-19T16:15:30+00:00",
+    "date_str": "May 19, 2026"
+  },
+  {
+    "title": "Care for Adults with Idiopathic Pulmonary Fibrosis or Progressive Pulmonary Fibrosis",
+    "url": "https://www.medpagetoday.com/ad-insights/industry-clinic/121022",
+    "summary": "(MedPage Today) -- Dr. Tanzira Zaman and Dr. Ekaterini Zapantis partnered with Boehringer Ingelheim to share the health messages below. Dr. Zaman and Dr. Zapantis are paid consultants for Boehringer Ingelheim. Idiopathic pulmonary fibrosis (IPF...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-19T16:00:00+00:00",
+    "date_str": "May 19, 2026"
+  },
+  {
+    "title": "Senator Bill Cassidy Is Out. He's Taking the Science With Him.",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/121342",
+    "summary": "(MedPage Today) -- When Sen. Bill Cassidy, MD (R-La.), questioned Robert F. Kennedy Jr. during his confirmation hearing for health secretary last winter, many physicians and public health leaders saw something increasingly rare in American politics...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-19T15:51:36+00:00",
+    "date_str": "May 19, 2026"
+  },
+  {
+    "title": "Amikacin Eases MAC Lung Disease in First-Line Treatment",
+    "url": "https://www.medpagetoday.com/meetingcoverage/ats/121341",
+    "summary": "(MedPage Today) -- Amikacin liposome inhalation suspension (ALIS) improved symptoms and infection clearance in treatment-naive Mycobacterium avium complex (MAC) lung disease, the ENCORE trial showed. For the primary endpoint, the aminoglycoside...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-19T15:32:03+00:00",
+    "date_str": "May 19, 2026"
+  },
+  {
+    "title": "What to Know About the Bundibugyo Virus Causing the Large Ebola Outbreak",
+    "url": "https://www.medpagetoday.com/infectiousdisease/ebola/121340",
+    "summary": "(MedPage Today) -- The species of Ebola virus causing an outbreak in Congo that has killed over 130 people is less common than other Ebola viruses, which is complicating the response because there are no specific treatments or vaccines. \"There...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-19T15:10:21+00:00",
+    "date_str": "May 19, 2026"
+  },
+  {
+    "title": "Tenet, Leapfrog spar over legal fees in hospital ratings case",
+    "url": "https://www.healthcaredive.com/news/tenet-leapfrog-spar-over-legal-fees-in-hospital-ratings-case/820511/",
+    "summary": "Tenet wants Leapfrog to pay $10.5 million in legal fees after a judge agreed that the nonprofit unfairly deflated Tenet’s hospital ratings. The penalty would “cast a specter of financial ruin” over the nonprofit, Leapfrog said.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-19T16:51:06+00:00",
+    "date_str": "May 19, 2026"
+  },
+  {
+    "title": "CommonSpirit $3.4B in the red amid billing contract exit, operational woes",
+    "url": "https://www.healthcaredive.com/news/commonspirit-in-red-conifer-exit-operational-woes-earnings/820574/",
+    "summary": "The Catholic nonprofit giant’s expenses well outstripped revenue in the most recent financial quarter. Though the outcome was mostly due to one-time items, CommonSpirit also continues to struggle with boosting core operations.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-19T16:34:00+00:00",
+    "date_str": "May 19, 2026"
+  },
+  {
+    "title": "Reduced average length of stay salvaged hospitals' operating margins in March: report",
+    "url": "https://www.fiercehealthcare.com/providers/reduced-average-length-stay-salvaged-hospitals-operating-margins-march-report",
+    "summary": "Hospitals' average length of stay declined 2% from February to March, fueling a 4% month-to-month decline in total daily calendar expense that outpaced a 1% dip in total daily revenue, according to healthcare advisory services firm Kaufman Hall.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-19T19:51:39.404707+00:00",
+    "date_str": "May 19, 2026"
+  },
+  {
+    "title": "White House adds 600 generic meds to TrumpRx purchasing portal",
+    "url": "https://www.fiercehealthcare.com/pharma/white-house-adds-600-generic-meds-trumprx-purchasing-portal",
+    "summary": "With questions already swirling about the actual affordability impact of the government’s drug purchasing portal TrumpRx, the White House is updating the platform to address a key gap in the medicines it lists, albeit with a number of caveats remaining.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-19T19:51:39.404771+00:00",
+    "date_str": "May 19, 2026"
+  },
+  {
+    "title": "Bergman: 'The time is now' to push for breakthroughs in psychedelic treatments",
+    "url": "https://thehill.com/policy/healthcare/5884802-bergman-psychedelic-treatment-push/",
+    "summary": "Rep. Jack Bergman (R-Mich.) said on Tuesday that \"the time is now\" to push for breakthroughs in psychedelic treatments given President Trump's recent support for this field of research. At The Hill's \"Rethinking Psychedelic Treatment for America's Mental Health Crisis\" event sponsored by Definium Therapeutics, Bergman, co-founder and co-chair of Congressional Psychedelics Advancing Therapies (PATH)...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-19T16:43:43+00:00",
+    "date_str": "May 19, 2026"
+  },
+  {
     "title": "Everyone’s Betting on AI to Solve the Physician Shortage —They’re Solving the Wrong Problem",
     "url": "https://medcitynews.com/2026/05/everyones-betting-on-ai-to-solve-the-physician-shortage-theyre-solving-the-wrong-problem/",
     "summary": "This isn’t a supply problem. It’s a distribution problem. The physicians exist. The system just isn’t getting them where they need to be. The post Everyone’s Betting on AI to Solve the Physician Shortage —They’re Solving the Wrong Problem appeared first on MedCity News .",
@@ -9797,206 +9997,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-04-29T21:02:49+00:00",
-    "date_str": "Apr 29, 2026"
-  },
-  {
-    "title": "Portable Tuberculosis Diagnostic Tool Matched Traditional Tests' Results",
-    "url": "https://www.medpagetoday.com/infectiousdisease/tuberculosis/121028",
-    "summary": "(MedPage Today) -- A portable tuberculosis (TB) molecular test system that works with sputum or tongue swabs matched the diagnostic accuracy of established TB tests and met World Health Organization (WHO) targets for near-point-of-care TB diagnostic...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-29T21:00:00+00:00",
-    "date_str": "Apr 29, 2026"
-  },
-  {
-    "title": "SCOTUS Sides With Anti-Abortion Center Raising 1st Amendment Fears About State Probe",
-    "url": "https://www.medpagetoday.com/obgyn/abortion/121029",
-    "summary": "(MedPage Today) -- The Supreme Court on Wednesday sided with a faith-based pregnancy center that raised First Amendment concerns about an investigation into whether it misled people to discourage abortions. The high court's unanimous ruling is...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-29T20:59:04+00:00",
-    "date_str": "Apr 29, 2026"
-  },
-  {
-    "title": "Here's Why This Healthcare Economist Likes High-Deductible Plans",
-    "url": "https://www.medpagetoday.com/special-reports/features/121027",
-    "summary": "(MedPage Today) -- In this series, MedPage Today is asking healthcare economists and policy experts the same questions about the high costs of U.S. healthcare. They'll reveal what they believe is working, what's not working, and what else can be...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-29T19:30:50+00:00",
-    "date_str": "Apr 29, 2026"
-  },
-  {
-    "title": "Understanding Treatment Strategies for HER2 Positive IHC3+ Metastatic Solid Tumors",
-    "url": "https://www.medpagetoday.com/ad-insights/industry-clinic/118691",
-    "summary": "(MedPage Today) -- The expert interviewed for this article is an internationally recognized specialist in the management of solid tumors and served as a paid consultant to Daiichi Sankyo and AstraZeneca on this article's content. Solid tumors...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-29T14:00:00+00:00",
-    "date_str": "Apr 29, 2026"
-  },
-  {
-    "title": "3 Deaths Tied to Medical Device; FDA Eyes Shock Ban; RFK Jr.'s Vaccine Aid Freeze",
-    "url": "https://www.medpagetoday.com/cardiology/interventionalcardiology/121014",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. The FDA warned of three deaths associated with Bolton Medical RelayPro thoracic stent graft systems that were recalled over an issue where the graft is unable to...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-29T13:30:44+00:00",
-    "date_str": "Apr 29, 2026"
-  },
-  {
-    "title": "Teladoc Health reports strong momentum behind BetterHelp insurance shift, CEO says",
-    "url": "https://www.fiercehealthcare.com/health-tech/teladoc-health-reports-strong-momentum-behind-betterhelp-insurance-shift-ceo-says",
-    "summary": "Teladoc Health reported a 2% decline in revenue in the first quarter, but the telehealth giant touted \"meaningful progress\" in scaling insurance coverage for its BetterHelp mental health business as a catalyst for future growth.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-30T02:52:22.541494+00:00",
-    "date_str": "Apr 30, 2026"
-  },
-  {
-    "title": "Universal Health Services' Q1 2026 earnings growth dampened by volume hits",
-    "url": "https://www.fiercehealthcare.com/providers/universal-health-services-q1-2026-earnings-growth-dampened-volume-hits",
-    "summary": "Executives asserted the acute and behavioral care provider will ramp up business and meet its growth target for the full year, and expanded on the company's Talkspace deal, exchange volumes and AI deployments.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-30T02:52:22.541564+00:00",
-    "date_str": "Apr 30, 2026"
-  },
-  {
-    "title": "Healthcare costs remain a top concern for voters as midterms loom: KFF",
-    "url": "https://www.fiercehealthcare.com/finance/healthcare-costs-remain-top-concern-voters-midterms-loom-kff",
-    "summary": "Despite concern about other expenses—such as fuel following the launch of the war in Iran—healthcare costs remain at the top of the list for economic fears, a new survey shows.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-30T02:52:22.541602+00:00",
-    "date_str": "Apr 30, 2026"
-  },
-  {
-    "title": "Chiesi Group Grows Again in Rare Disease With $1.9B KalVista Acquisition",
-    "url": "https://medcitynews.com/2026/04/chiesi-kalvista-acquisition-ekterly-rare-disease-hereditary-angioedema-hae-kalv/",
-    "summary": "KalVista Pharmaceuticals brings to Chiesi Group the product Ekterly, the first FDA-approved oral drug for acute treatment of swelling attacks from the rare disease hereditary angioedema. Ekterly’s tablet formulation offers a dosing edge compared to injectable HAE medications. The post Chiesi Group Grows Again in Rare Disease With $1.9B KalVista Acquisition appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-29T18:27:24+00:00",
-    "date_str": "Apr 29, 2026"
-  },
-  {
-    "title": "AI-Driven Layoffs In Healthcare: Navigating Legal Risks and Operational Challenges",
-    "url": "https://medcitynews.com/2026/04/ai-driven-layoffs-in-healthcare-navigating-legal-risks-and-operational-challenges/",
-    "summary": "Layoffs tied to AI adoption will not be uniform; they will vary by sector, job function, and regulatory exposure. Nowhere is this more complex than in healthcare, where legal constraints, patient safety obligations, and labor dynamics intersect with rapid technological change. The post AI-Driven Layoffs In Healthcare: Navigating Legal Risks and Operational Challenges appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-04-29T14:01:00+00:00",
-    "date_str": "Apr 29, 2026"
-  },
-  {
-    "title": "STAT+: Why conversations around health AI may be evolving beyond hype",
-    "url": "https://www.statnews.com/2026/04/29/health-ai-conversations-evolving-beyond-hype-ai-prognosis/?utm_campaign=rss",
-    "summary": "In this edition of AI Prognosis, Brittany Trang argues that the tide may be turning when it comes to how the health care industry talks about AI.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-29T16:13:31+00:00",
-    "date_str": "Apr 29, 2026"
-  },
-  {
-    "title": "Infant formula largely safe from heavy metals, FDA finds",
-    "url": "https://www.statnews.com/2026/04/29/fda-baby-formula-safety-tests-contaminants/?utm_campaign=rss",
-    "summary": "FDA sampled 312 major infant formula brands and found low or undetectable levels of pesticide residue, PFAS, heavy metals and phthalates.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-29T15:20:01+00:00",
-    "date_str": "Apr 29, 2026"
-  },
-  {
-    "title": "The Trump team is quietly eliminating U.S. support for birth control abroad",
-    "url": "https://www.npr.org/2026/04/29/g-s1-118041/family-planning-birth-control-condoms-aid-cuts-rubio",
-    "summary": "Congress has allocated more than $500 million for family planning work internationally. The Trump administration hasn't spent it — and the consequences are already being felt.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-29T14:09:50+00:00",
-    "date_str": "Apr 29, 2026"
-  },
-  {
-    "title": "Welcome to 'Anxietyland' theme park, where the rides are no fun",
-    "url": "https://www.npr.org/2026/04/29/nx-s1-5803158/anxietyland-review-gemma-correll",
-    "summary": "From the Emotional Roller Coaster to the Worry-go-round, cartoonist Gemma Correll walks us through her brain's not-so-amusing amusement park in a darkly funny memoir .",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-29T14:03:11+00:00",
-    "date_str": "Apr 29, 2026"
-  },
-  {
-    "title": "Linda McMahon punches back at senators questioning Education Department cuts",
-    "url": "https://www.npr.org/2026/04/28/nx-s1-5802968/education-secretary-linda-mcmahon-senate-hearing",
-    "summary": "In her first appearance on Capitol Hill this year, lawmakers questioned Education Secretary Linda McMahon about students' civil rights and cuts to federal education spending.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-04-28T22:18:15+00:00",
-    "date_str": "Apr 28, 2026"
-  },
-  {
-    "title": "New Maintenance Option Approved for Asthma",
-    "url": "https://www.medpagetoday.com/pulmonology/asthma/121026",
-    "summary": "(MedPage Today) -- The FDA approved budesonide/glycopyrrolate/formoterol fumarate (Breztri Aerosphere) in a single inhaler as maintenance therapy for asthma in adults and children 12 years and up, AstraZeneca announced on Tuesday. Approval of...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-29T19:00:04+00:00",
-    "date_str": "Apr 29, 2026"
-  },
-  {
-    "title": "Electric Shock Ban? FDA Expands Caplyta Label; Bipolar Disorder Strategies",
-    "url": "https://www.medpagetoday.com/psychiatry/generalpsychiatry/121025",
-    "summary": "(MedPage Today) -- The FDA may decide soon whether to ban using electric shocks on people with disabilities, including children with autism or schizophrenia, to reduce self-injurious or aggressive behavior. (Mother Jones) Meanwhile, the agency...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-29T18:42:35+00:00",
-    "date_str": "Apr 29, 2026"
-  },
-  {
-    "title": "Growing Pains Observed With Radial Access in Peripheral Artery Intervention",
-    "url": "https://www.medpagetoday.com/meetingcoverage/scai/121024",
-    "summary": "(MedPage Today) -- There were tradeoffs for early adopters going the transradial route for infrainguinal peripheral artery intervention, according to a retrospective study using data from the XLPAD registry. Among cases of lower extremity peripheral...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-29T18:30:23+00:00",
-    "date_str": "Apr 29, 2026"
-  },
-  {
-    "title": "Rheumatic Disease Drugs Help COVID Virus Stick Around Longer, Study Suggests",
-    "url": "https://www.medpagetoday.com/rheumatology/generalrheumatology/121023",
-    "summary": "(MedPage Today) -- Drugs commonly used to treat systemic autoimmune rheumatic diseases (SARDs) may keep the SARS-CoV-2 circulating after COVID-19 infection in patients with these conditions, with researchers documenting substantially increased...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-29T18:22:55+00:00",
-    "date_str": "Apr 29, 2026"
-  },
-  {
-    "title": "Should Patients Over 75 Undergo Surveillance Colonoscopies?",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/121021",
-    "summary": "(MedPage Today) -- For decades, colorectal cancer prevention has been framed around a simple principle: find polyps early, remove them, and repeat colonoscopy to prevent cancer down the line. This approach has saved lives. But like many well‑...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-29T16:28:23+00:00",
     "date_str": "Apr 29, 2026"
   }
 ]
