@@ -1,5 +1,85 @@
 [
   {
+    "title": "Religious Anti-Abortion Center Finds Opportunity in Town Without OB-GYNs",
+    "url": "https://kffhealthnews.org/rural-health/anti-abortion-crisis-pregnancy-center-sandpoint-idaho-obgyn-maternity-care-desert/",
+    "summary": "A crisis pregnancy center in Sandpoint, Idaho, wants to expand women’s healthcare three years after the labor and delivery unit at the town’s hospital closed and its OB-GYNs moved out of state.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-20T09:00:00+00:00",
+    "date_str": "May 20, 2026"
+  },
+  {
+    "title": "Watch: The Tug-of-War Over Taxpayer Dollars",
+    "url": "https://kffhealthnews.org/news/podcast-interview-senator-tammy-baldwin-taxpayer-dollars-988/",
+    "summary": "Podcast host Julie Rovner chats with Sen. Tammy Baldwin, a top Democrat on health issues, about President Donald Trump’s stewardship of federal spending and the effectiveness of the 988 Suicide & Crisis Lifeline.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-20T09:00:00+00:00",
+    "date_str": "May 20, 2026"
+  },
+  {
+    "title": "STAT+: Senate Democrats propose adding long-term care benefit to Medicare",
+    "url": "https://www.statnews.com/2026/05/20/medicare-long-term-care-coverage-new-proposal-senate-democrats/?utm_campaign=rss",
+    "summary": "It's part of Democrats' strategy to focus on health care affordability and access in drawing contrasts with Republicans ahead of the midterms.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-20T08:45:00+00:00",
+    "date_str": "May 20, 2026"
+  },
+  {
+    "title": "NIH behind in filling top roles, with 15 of 27 institutes led by acting directors",
+    "url": "https://www.statnews.com/2026/05/20/nih-leadership-questions-15-of-27-institutes-acting-directors/?utm_campaign=rss",
+    "summary": "An NIH leadership vacuum has persisted for months, with 15 of the 27 institutes being led by acting directors.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-20T08:30:00+00:00",
+    "date_str": "May 20, 2026"
+  },
+  {
+    "title": "STAT+: OpenEvidence makes its pitch to hospitals. ‘We’re not crazy monsters’",
+    "url": "https://www.statnews.com/2026/05/20/openevidence-pitches-hospitals-we-are-not-monsters/?utm_campaign=rss",
+    "summary": "OpenEvidence CTO Zachary Ziegler said, at the STAT Breakthrough Summit West, that the company is looking beyond physician users.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-20T08:30:00+00:00",
+    "date_str": "May 20, 2026"
+  },
+  {
+    "title": "Opinion: The rise of perimenopause misinformation",
+    "url": "https://www.statnews.com/2026/05/20/is-it-perimenopause-symptoms-misinformation/?utm_campaign=rss",
+    "summary": "Are too many symptoms blamed on perimenopause? Two experts weigh in on the “First Opinion Podcast.”",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-20T08:30:00+00:00",
+    "date_str": "May 20, 2026"
+  },
+  {
+    "title": "Overworked and understaffed: Special ed teachers turn to AI for help",
+    "url": "https://www.npr.org/2026/05/20/nx-s1-5810192/special-education-teachers-ai-ieps",
+    "summary": "A fast-growing number of special educators nationwide are using AI to create customized education plans. Despite the risks, some research shows it could improve the quality of teachers' work.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-20T09:00:00+00:00",
+    "date_str": "May 20, 2026"
+  },
+  {
+    "title": "WHO chief concerned over 'scale and speed' of Ebola outbreak",
+    "url": "https://www.npr.org/2026/05/20/g-s1-122971/who-chief-concerned-over-scale-and-speed-of-ebola-outbreak",
+    "summary": "The World Health Organization top official has expressed concern over the rapid spread of a rare type of Ebola in Congo. Authorities have reported at least 134 suspected deaths and over 500 cases.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-20T05:36:28+00:00",
+    "date_str": "May 20, 2026"
+  },
+  {
     "title": "Efforts To Understand the Nation’s Drugged Driving Problem Stall Under Trump",
     "url": "https://kffhealthnews.org/public-health/drugged-driving-impairment-research-stalled-trump-policies/",
     "summary": "The data behind alcohol-related traffic deaths is well studied. Less understood is the toll of vehicle deaths involving drugs or a combination of drugs and alcohol. Attempts to fix that have been stymied by federal budget and staffing cuts.",
@@ -9917,86 +9997,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-04-30T16:10:37+00:00",
-    "date_str": "Apr 30, 2026"
-  },
-  {
-    "title": "Surgeries are moving to ASCs. Distalmotion wants its robot to drive the shift.",
-    "url": "https://www.healthcaredive.com/news/surgeries-are-moving-to-ascs-distalmotion-wants-its-robot-to-drive-the-shi/818919/",
-    "summary": "CEO Greg Roche says ambulatory surgery centers have largely lacked access to robots for performing soft tissue procedures, until now.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-04-29T13:00:00+00:00",
-    "date_str": "Apr 29, 2026"
-  },
-  {
-    "title": "Fierce Healthcare Fundraising Tracker '26: Gravity Rail tackles AI-powered patient engagement; Zócalo Health pockets $15M",
-    "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
-    "summary": "Keep up with all the venture capital dollars being funneled into the health tech and digital health industries.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-30T19:21:19.802998+00:00",
-    "date_str": "Apr 30, 2026"
-  },
-  {
-    "title": "Waystar kicks off 2026 with strong growth as it targets AI at $100B RCM labor pool",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/waystar-boasts-growth-investments-q1-2026-earnings",
-    "summary": "Waystar is pivoting its focus from task level automation toward agentic workflows. \"That shift unlocks a much larger opportunity, the approximately $100 billion in annual revenue cycle labor services performed across the industry today,\" CEO Matt Hawkins said.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-30T19:21:19.803050+00:00",
-    "date_str": "Apr 30, 2026"
-  },
-  {
-    "title": "Nonprofit health systems are falling short on governance capabilities, report warns",
-    "url": "https://www.fiercehealthcare.com/providers/nonprofit-health-systems-are-falling-short-governance-capabilities-report-warns",
-    "summary": "Hospital consolidation has concentrated governance responsibilities, raising both the bar and the stakes for top-level decision making. Limited ongoing education for board members and poor governance structures won't meet the moment, The Governance Institute warns in a recent report.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-30T19:21:19.803091+00:00",
-    "date_str": "Apr 30, 2026"
-  },
-  {
-    "title": "Trump pulls Means' nomination for surgeon general",
-    "url": "https://www.politico.com/news/2026/04/30/trump-pulls-means-nomination-for-surgeon-general-00900671",
-    "summary": "Nicole Saphier is the president's new pick for the job.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-04-30T17:04:03+00:00",
-    "date_str": "Apr 30, 2026"
-  },
-  {
-    "title": "Who is Nicole Saphier, new Trump surgeon general nominee?",
-    "url": "https://thehill.com/policy/healthcare/5857814-nicole-saphier-surgeon-general-nominee/",
-    "summary": "President Trump tapped Dr. Nicole B. Saphier on Thursday to be the next U.S. surgeon general. The president called Saphier a “STAR physician” in a Truth Social post, specifically commending her work on breast cancer treatment. “She is also an INCREDIBLE COMMUNICATOR, who makes complicated health issues more easily understood by all Americans,” Trump wrote...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-04-30T18:45:50+00:00",
-    "date_str": "Apr 30, 2026"
-  },
-  {
-    "title": "Trump accuses Cassidy of 'political games' after surgeon general nominee switch",
-    "url": "https://thehill.com/policy/healthcare/5857631-trump-cassidy-surgeon-general-nominee/",
-    "summary": "President Trump on Thursday accused Sen. Bill Cassidy (R-La.) of playing \"political games\" that ended his second surgeon general nominee's confirmation in the Senate, comments that came as Trump was announcing his decision to withdraw her nomination. In a post on Truth Social, Trump announced he was replacing his nominee for surgeon general, Casey Means,...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-04-30T18:04:58+00:00",
-    "date_str": "Apr 30, 2026"
-  },
-  {
-    "title": "Trump pulls Casey Means nomination for surgeon general for Fox News's Nicole Saphier",
-    "url": "https://thehill.com/homenews/administration/5857558-trump-pulls-casey-means-nomination/",
-    "summary": "President Trump on Thursday pulled the controversial nomination of Casey Means for surgeon general, announcing on Truth Social that her replacement would be Fox News contributor and radiologist Dr. Nicole Saphier, marking his third nominee for the post. \"Nicole is a STAR physician who has spent her career guiding women facing breast cancer through their...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-04-30T17:00:44+00:00",
     "date_str": "Apr 30, 2026"
   }
 ]
