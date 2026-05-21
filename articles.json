@@ -1,5 +1,215 @@
 [
   {
+    "title": "Guarding biotech from China and big bets in longevity",
+    "url": "https://www.statnews.com/2026/05/21/guarding-biotech-from-china-and-big-bets-in-longevity/?utm_campaign=rss",
+    "summary": "On this week’s episode of “The Readout LOUD,” the hosts discuss STAT's Breakthrough Summit West, where powerful leaders from health care and science rubbed shoulders. They share some of the…",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-21T18:53:59+00:00",
+    "date_str": "May 21, 2026"
+  },
+  {
+    "title": "STAT+: RFK Jr.’s screen time warning",
+    "url": "https://www.statnews.com/2026/05/21/rfk-jr-s-screen-time-warning/?utm_campaign=rss",
+    "summary": "RFK Jr. is urging limits on how much screen time kids get, in a new government advisory.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-21T16:43:27+00:00",
+    "date_str": "May 21, 2026"
+  },
+  {
+    "title": "STAT+: Immunovant shares surge on arthritis trial data",
+    "url": "https://www.statnews.com/2026/05/21/biotech-news-immunovant-shares-surge-on-arthritis-trial-data/?utm_campaign=rss",
+    "summary": "Trial results for Lilly's \"triple-G\" drug, FDA's leadership purge leaves chaos, and more biotech news from The Readout",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-21T16:27:38+00:00",
+    "date_str": "May 21, 2026"
+  },
+  {
+    "title": "Abortion pills \"just in case\"? Planned Parenthood will offer them in two states",
+    "url": "https://www.npr.org/2026/05/21/nx-s1-5827444/abortion-pills-mifepristone-misoprostol-planned-parenthood-advance-provision",
+    "summary": "In Washington state and Hawaii, residents can now get mifepristone and misoprostol from Planned Parenthood to keep in their cabinets in case they need to end a pregnancy at a later time.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-21T17:29:35+00:00",
+    "date_str": "May 21, 2026"
+  },
+  {
+    "title": "U.S. aid cuts may have delayed detecting this Ebola outbreak",
+    "url": "https://www.npr.org/2026/05/21/nx-s1-5828951/aid-cuts-may-have-contributed-to-delay-in-identifying-current-ebola-outbreak",
+    "summary": "The Ebola outbreak in Africa was announced last week, then quickly declared an emergency. It's likely that cuts in U.S. aid contributed to a delay in identifying the outbreak.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-21T08:41:18+00:00",
+    "date_str": "May 21, 2026"
+  },
+  {
+    "title": "A 'Youthful' Brain May Boost Alzheimer's Resilience",
+    "url": "https://www.medpagetoday.com/neurology/alzheimersdisease/121399",
+    "summary": "(MedPage Today) -- Greater structural brain integrity appeared to buffer the cognitive consequences of Alzheimer's disease pathology, cross-sectional data suggested. The study evaluated two markers of brain reserve -- brain-predicted age difference...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-21T18:02:20+00:00",
+    "date_str": "May 21, 2026"
+  },
+  {
+    "title": "A Surgeon Reveals What's Behind the Musty 'BBL Smell'",
+    "url": "https://www.medpagetoday.com/popmedicine/cultureclinic/121396",
+    "summary": "(MedPage Today) -- Welcome to Culture Clinic, MedPage Today's collaboration with Northwell Health to offer a healthcare professional's take on the latest viral medical topics. People are complaining about a strange side effect of Brazilian butt...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-21T17:16:56+00:00",
+    "date_str": "May 21, 2026"
+  },
+  {
+    "title": "Women-Only Trial Supports Self-Expanding TAVR as the Way to Go",
+    "url": "https://www.medpagetoday.com/meetingcoverage/europcr/121395",
+    "summary": "(MedPage Today) -- Transcatheter aortic valve replacement (TAVR) with a self-expanding valve still worked out better, at least in terms of hemodynamics, in the first head-to-head device trial exclusively in women. Among older women with symptomatic...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-21T16:54:02+00:00",
+    "date_str": "May 21, 2026"
+  },
+  {
+    "title": "Why This Texas Doctor Dumped His Medicare Advantage Plan Contracts",
+    "url": "https://www.medpagetoday.com/practicemanagement/practicemanagement/121392",
+    "summary": "(MedPage Today) -- Bryan Johnson, MD, an internal medicine physician in Frisco, Texas, has tried hard over the past 3 years to drop all of his practice's Medicare Advantage (MA) contracts, dropping the percentage of MA patients from 30% or 40...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-21T16:28:10+00:00",
+    "date_str": "May 21, 2026"
+  },
+  {
+    "title": "Appeals in Congo for Supplies as Aid Groups Say Ebola Outbreak Is 'Gaining Momentum'",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/121389",
+    "summary": "(MedPage Today) -- Healthcare workers and aid groups in eastern Congo said Thursday they are in dire need of more supplies and staff to respond to a growing Ebola outbreak linked to a rare virus, as armed groups continue to threaten a region already...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-21T15:16:16+00:00",
+    "date_str": "May 21, 2026"
+  },
+  {
+    "title": "Stoking Sexual Arousal and Desire: GLP-1s, Nerve Stimulation, 'Scream Cream'",
+    "url": "https://www.medpagetoday.com/meetingcoverage/aua/121388",
+    "summary": "(MedPage Today) -- WASHINGTON -- Interest in GLP-1 receptor agonists as a potential aid to sexual desire and arousal disorders took off in the field of sexual medicine -- and landed with a thud. \"GLP-1s are not what I would call treatments...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-21T15:10:30+00:00",
+    "date_str": "May 21, 2026"
+  },
+  {
+    "title": "Vertical integration doesn’t appear to lead to higher drug costs in Medicare, HHS OIG finds",
+    "url": "https://www.healthcaredive.com/news/vertical-integration-doesnt-appear-lead-higher-drug-costs-medicare-hhs-oig-pbms/820775/",
+    "summary": "However, data was limited, so it’s too early to make firm conclusions, the watchdog clarified. That didn’t stop the largest PBM lobby from jumping on the report as concrete proof that consolidation doesn’t drive up prices.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-21T18:25:09+00:00",
+    "date_str": "May 21, 2026"
+  },
+  {
+    "title": "Abridge taps new technology chief",
+    "url": "https://www.healthcaredive.com/news/abridge-taps-new-technology-chief-san-oo/820766/",
+    "summary": "The healthcare AI company said San Oo’s appointment comes at an inflection point for Abridge as it inks deals with more health systems.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-21T16:33:00+00:00",
+    "date_str": "May 21, 2026"
+  },
+  {
+    "title": "Trump administration proposes crackdown on Medicaid state-directed payments",
+    "url": "https://www.healthcaredive.com/news/trump-administration-proposes-cracking-down-medicaid-state-directed-payments/820794/",
+    "summary": "The proposed rule codifies cuts outlined in the GOP’s “One Big Beautiful Bill,” but also takes other steps to restrict supplemental Medicaid payments. The CMS said it would save the federal government over $500 billion if finalized.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-21T16:27:27+00:00",
+    "date_str": "May 21, 2026"
+  },
+  {
+    "title": "Lawmakers mull Medicare physician pay reform to tamp down consolidation",
+    "url": "https://www.healthcaredive.com/news/house-energy-commerce-medicare-physician-pay-reform-consolidation-primary-care/820875/",
+    "summary": "Physician pay hasn’t kept up with the costs of providing care, pushing independent practices to sell to health systems and likely increasing costs, witnesses said during a House subcommittee hearing Wednesday.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-21T15:09:49+00:00",
+    "date_str": "May 21, 2026"
+  },
+  {
+    "title": "Providence shuts down most insurance businesses for 2027",
+    "url": "https://www.healthcaredive.com/news/providence-exits-health-insurance-2027/820842/",
+    "summary": "The nonprofit giant has offered health insurance for decades. But recent challenges, including higher costs and regulatory changes, have placed Providence in an untenable position, according to the integrated system’s CEO.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-21T13:11:57+00:00",
+    "date_str": "May 21, 2026"
+  },
+  {
+    "title": "Study: Brokers increasingly recommending ICHRA to employers",
+    "url": "https://www.fiercehealthcare.com/payers/study-brokers-increasingly-recommending-ichra-employers",
+    "summary": "ICHRA has been gaining steam, and a new survey suggests that these plans may be hitting the mainstream.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-21T19:53:00.247128+00:00",
+    "date_str": "May 21, 2026"
+  },
+  {
+    "title": "Allina Health, Sutter Health move closer to $26B combination",
+    "url": "https://www.fiercehealthcare.com/providers/allina-health-join-sutter-health-26b-proposed-merger",
+    "summary": "The cross-regional proposed deal to create a 39-hospital nonprofit system now has a signed definitive agreement in hand. It is expected to close before the end of the year, pending regulatory approvals.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-21T19:53:00.247181+00:00",
+    "date_str": "May 21, 2026"
+  },
+  {
+    "title": "Providence to shutter most health plan operations next year",
+    "url": "https://www.fiercehealthcare.com/payers/providence-mulling-sale-its-health-plan-amid-financial-pressure",
+    "summary": "After exploring options for the future, including a sale, Providence Health Plan announced this week that it will cease operations for most of its insurance businesses next year.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-21T19:53:00.247210+00:00",
+    "date_str": "May 21, 2026"
+  },
+  {
+    "title": "New obesity drug from Lilly delivers major weight loss",
+    "url": "https://thehill.com/policy/healthcare/5889665-eli-lilly-new-obesity-drug-weight-loss/",
+    "summary": "An investigational obesity drug from Eli Lilly cleared important end points in a late-stage trial, the company said Thursday, by helping patients lose up to 30 percent of their body weight. Lilly said that a once-weekly injection of retatrutide met the primary endpoint in a Phase 3 clinical trial, as well as key secondary end points for obesity, delivering clinically meaningful weight loss. The highest dose of retatrutide helped patients...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-21T19:04:37+00:00",
+    "date_str": "May 21, 2026"
+  },
+  {
+    "title": "Noah Wyle tells Congress: Healthcare workers shouldn't have to 'beg for basic support'",
+    "url": "https://thehill.com/blogs/in-the-know/5889570-noah-wyle-healthcare-workers-rally/",
+    "summary": "He typically stars as Dr. Michael “Robby” Robinavitch on HBO's medical drama \"The Pitt,\" but Noah Wyle is now making a different kind of House call, advocating for healthcare worker-focused legislation at the Capitol. \"Every major change in healthcare has started with somebody brave enough to say this is not working, it can be better,\"...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-21T17:16:55+00:00",
+    "date_str": "May 21, 2026"
+  },
+  {
     "title": "Medicaid’s Housing Problem Isn’t Placement — It’s What Happens Next",
     "url": "https://medcitynews.com/2026/05/medicaids-housing-problem-isnt-placement-its-what-happens-next/",
     "summary": "If we focus only on placement, we will continue to see cycles of progress and regression. If we focus on stability — on what happens after the keys are handed over — we have an opportunity to change those trajectories more permanently. The post Medicaid’s Housing Problem Isn’t Placement — It’s What Happens Next appeared first on MedCity News .",
@@ -9788,215 +9998,5 @@
     "category_slug": "senior-health",
     "date": "2026-05-02T14:00:00+00:00",
     "date_str": "May 02, 2026"
-  },
-  {
-    "title": "Court Restricts Abortion Access Across U.S. by Blocking the Mailing of Mifepristone",
-    "url": "https://www.medpagetoday.com/obgyn/abortion/121086",
-    "summary": "(MedPage Today) -- A federal appeals court has restricted access to one of the most common means of abortion in the U.S. by blocking mailing of mifepristone prescriptions. The unanimous ruling Friday from a three-judge panel of the New Orleans...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-02T13:30:00+00:00",
-    "date_str": "May 02, 2026"
-  },
-  {
-    "title": "Drugmaker files emergency appeal to restore abortion pill access",
-    "url": "https://www.politico.com/news/2026/05/02/abortion-pill-telehealth-mifepristone-supreme-court-00903861",
-    "summary": "A federal appeals court shut off telehealth access Friday.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-02T17:43:36+00:00",
-    "date_str": "May 02, 2026"
-  },
-  {
-    "title": "Supreme Court asked to halt limits on mail-order abortion pill Mifepristone",
-    "url": "https://thehill.com/regulation/court-battles/5860830-supreme-court-appeal-mifepristone-ruling/",
-    "summary": "A pharmaceutical company that manufactures and distributes the abortion pill Mifepristone asked the Supreme Court on Saturday to block a federal appeals court ruling prohibiting doctors from prescribing the medication through telehealth services or dispensing it through the mail. Delaware-based Danco Laboratories, LLC, filed an emergency motion with the high court seeking an “immediate administrative...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-02T17:41:09+00:00",
-    "date_str": "May 02, 2026"
-  },
-  {
-    "title": "Democrats erupt over abortion pill block: 'We won’t stop fighting'",
-    "url": "https://thehill.com/policy/healthcare/5860595-democrats-criticism-appeals-court-ruling-abortion-pill-mifepristone-block/",
-    "summary": "Democrats are pushing back on a recent court ruling that blocked doctors’ ability to prescribe the abortion pill mifepristone through telehealth and dispense the drug through the mail, arguing it will significantly restrict reproductive care nationwide. “A court packed with Trump-appointed extremists decided to make medication abortion harder to access,” Rep. Ayanna Pressley (D-Mass.) said...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-02T15:25:44+00:00",
-    "date_str": "May 02, 2026"
-  },
-  {
-    "title": "Journalists Share Latest on Baby Formula Safety, Estrogen Patches, and Postcancer Costs",
-    "url": "https://kffhealthnews.org/on-air/on-air-may-2-2026-baby-formula-safety-test-menopause-postcancer-care-costs/",
-    "summary": "KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here’s a collection of their appearances.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-02T09:00:00+00:00",
-    "date_str": "May 02, 2026"
-  },
-  {
-    "title": "Federal appeals court blocks mailing of abortion pill mifepristone",
-    "url": "https://www.statnews.com/2026/05/02/mifepristone-abortion-pill-court-ruling-mailing-blocked/?utm_campaign=rss",
-    "summary": "Mifepristone, involved in most abortions in the U.S., can now be distributed only in person and at clinics.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-02T11:36:17+00:00",
-    "date_str": "May 02, 2026"
-  },
-  {
-    "title": "Opinion: STAT readers on MAHA activists, perimenopause, and diversity in medical school",
-    "url": "https://www.statnews.com/2026/05/02/stat-letters-to-editor-perimenopause-diversity-medical-school-maha/?utm_campaign=rss",
-    "summary": "“Unfortunately, the resources don't exist to take every flat-earther to the International Space Station to change their mind,” a STAT reader writes.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-02T11:00:00+00:00",
-    "date_str": "May 02, 2026"
-  },
-  {
-    "title": "Opinion: What do medical students think about their education?",
-    "url": "https://www.statnews.com/2026/05/02/medical-school-nutrition-preventive-care-rfk-jr/?utm_campaign=rss",
-    "summary": "“No one's pulling the pieces together”: a conversation with medical students about preventive care education.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-02T11:00:00+00:00",
-    "date_str": "May 02, 2026"
-  },
-  {
-    "title": "Can Trump's latest pick for surgeon general make it through confirmation?",
-    "url": "https://www.npr.org/2026/05/02/nx-s1-5808313/nicole-saphier-surgeon-general-trump-confirmation",
-    "summary": "Nicole Saphier, a breast cancer radiologist, is the president's third nominee for surgeon general. Will she get confirmed?",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-02T10:32:00+00:00",
-    "date_str": "May 02, 2026"
-  },
-  {
-    "title": "Americans aren't sleeping enough. Here's what could help",
-    "url": "https://www.npr.org/2026/05/02/nx-s1-5807074/americans-sleep-better-hours-insomnia",
-    "summary": "Nearly a third of Americans get less than the recommended seven hours of sleep a night. A lot of us struggle to get to bed as we power through tasks or get lost in endless scrolling. Here's help.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-02T10:30:00+00:00",
-    "date_str": "May 02, 2026"
-  },
-  {
-    "title": "Move Over Doximity — There’s a New Social Network for Doctors",
-    "url": "https://medcitynews.com/2026/05/roon-social-network-doctor-physician/",
-    "summary": "Roon is a new physician-only social network. The platform — founded by a neurosurgeon and two former Pinterest executives — aims to surface the “collective wisdom” of doctors that currently lives in informal exchanges and fragmented online communities. The post Move Over Doximity — There’s a New Social Network for Doctors appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-01T21:41:57+00:00",
-    "date_str": "May 01, 2026"
-  },
-  {
-    "title": "Court restricts abortion access across the US by blocking the mailing of mifepristone",
-    "url": "https://www.npr.org/2026/05/01/nx-s1-5808328/court-restricts-abortion-access-mailing-mifepristone",
-    "summary": "A federal appeals court has restricted access to one of the most common means of abortion in the U.S. by blocking the mailing of mifepristone.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-01T22:40:12+00:00",
-    "date_str": "May 01, 2026"
-  },
-  {
-    "title": "FDA Approves First Non-Antipsychotic Drug for Alzheimer's Agitation",
-    "url": "https://www.medpagetoday.com/neurology/alzheimersdisease/121085",
-    "summary": "(MedPage Today) -- The FDA expanded the indication for dextromethorphan hydrobromide and bupropion hydrochloride (Auvelity) extended-release tablets to treat agitation associated with Alzheimer's disease dementia, the agency announced Thursday...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-01T20:57:17+00:00",
-    "date_str": "May 01, 2026"
-  },
-  {
-    "title": "Novel Pulsed Field Ablation System Turns to High-Energy, Ultra-Short Zaps",
-    "url": "https://www.medpagetoday.com/meetingcoverage/hrs/121084",
-    "summary": "(MedPage Today) -- The future of pulsed field ablation (PFA) technology could go in the direction of high-voltage nanosecond energy bursts, according to early results of a novel device. With CellFX nsPFA-360 PFA for paroxysmal atrial fibrillation...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-01T20:51:49+00:00",
-    "date_str": "May 01, 2026"
-  },
-  {
-    "title": "Study Examines if Prenatal Exposure to Sedatives Is Linked to Psych Disorders",
-    "url": "https://www.medpagetoday.com/psychiatry/generalpsychiatry/121083",
-    "summary": "(MedPage Today) -- Prenatal exposure to sedative drugs used for anxiety and insomnia was not associated with an increased risk of psychiatric or neurodevelopmental conditions in children when accounting for familial factors, a large population...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-01T20:40:08+00:00",
-    "date_str": "May 01, 2026"
-  },
-  {
-    "title": "As RFK Jr. Downplays Rabies, CDC Staff Tells Docs It's a Daily Threat",
-    "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/121082",
-    "summary": "(MedPage Today) -- Just a week after Health Secretary Robert F. Kennedy Jr. downplayed rabies during a Senate hearing based on the few annual fatalities, CDC staff held a call with physicians to emphasize that preventing further deaths requires...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-01T20:12:33+00:00",
-    "date_str": "May 01, 2026"
-  },
-  {
-    "title": "Which Former NIH Official Was Indicted?",
-    "url": "https://www.medpagetoday.com/quizzes/news-quiz/121056",
-    "summary": "(MedPage Today) -- You passed medical training, now see if you can pass our weekly quiz",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-01T20:00:00+00:00",
-    "date_str": "May 01, 2026"
-  },
-  {
-    "title": "FDA Opens Early Access to Novel Pancreatic Cancer Drug Generating Buzz",
-    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/121081",
-    "summary": "(MedPage Today) -- The FDA has given the green light to an expanded access program (EAP) for the investigational pancreatic cancer drug daraxonrasib. In a \"safe to proceed\" letter to Revolution Medicines, the FDA gave its approval to initiate...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-01T19:30:45+00:00",
-    "date_str": "May 01, 2026"
-  },
-  {
-    "title": "Real-Time Trial Review Needs a Response Plan, Not Just a Data Feed",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/121080",
-    "summary": "(MedPage Today) -- When the FDA announced recently that two drug companies had begun streaming clinical trial data to agency reviewers in real time, FDA Commissioner Marty Makary, MD, MPH, reached for an analogy from his own training. As a surgical...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-01T19:25:00+00:00",
-    "date_str": "May 01, 2026"
-  },
-  {
-    "title": "First-in-Class Vepdegestrant Approved in Advanced Breast Cancer",
-    "url": "https://www.medpagetoday.com/hematologyoncology/breastcancer/121076",
-    "summary": "(MedPage Today) -- The FDA approved oral vepdegestrant (Veppanu) for adults with advanced or metastatic estrogen receptor (ER)-positive/HER2-negative breast cancer, the agency announced on Friday. Approval of the first-in-class proteolysis targeting...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-01T18:32:39+00:00",
-    "date_str": "May 01, 2026"
-  },
-  {
-    "title": "Brain Changes Linked to Ultraprocessed Foods, Even in Otherwise Healthy Diets",
-    "url": "https://www.medpagetoday.com/neurology/dementia/121075",
-    "summary": "(MedPage Today) -- People who included more ultraprocessed foods -- chips, candy bars, frozen meals, sugary cereals, or soda, for example -- in an otherwise healthy diet had worse attention scores and a higher risk of dementia, an analysis...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-01T18:25:54+00:00",
-    "date_str": "May 01, 2026"
   }
 ]
