@@ -1,5 +1,75 @@
 [
   {
+    "title": "3 Medical Routines That Older People May Not Need",
+    "url": "https://kffhealthnews.org/aging/new-old-age-colonoscopy-screenings-treatments-actinic-keratosis-levothyroxine/",
+    "summary": "Some screenings and treatments no longer make sense for patients as they age. Researchers have just added a few more to the list.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-22T09:00:00+00:00",
+    "date_str": "May 22, 2026"
+  },
+  {
+    "title": "Trump’s $50B Rural Health Bet Meets a Healthcare Desert in North Carolina",
+    "url": "https://kffhealthnews.org/rural-health/rural-health-fund-hospital-closures-north-carolina-martin-general/",
+    "summary": "Republicans promise that $50 billion in new health funding will help rural America. But it’s not expected to aid the years-long effort in North Carolina’s Martin County to reopen its only hospital.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-22T09:00:00+00:00",
+    "date_str": "May 22, 2026"
+  },
+  {
+    "title": "STAT+: Genentech is soliciting research that can be used to blunt pharma reforms in Washington",
+    "url": "https://www.statnews.com/pharmalot/2026/05/22/genentech-soliciting-academics-write-papers-to-blunt-pharma-reforms-dc/?utm_campaign=rss",
+    "summary": "How a pharma company is soliciting research that can be used to blunt pharma proposed reforms in Washington.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-22T08:30:00+00:00",
+    "date_str": "May 22, 2026"
+  },
+  {
+    "title": "Opinion: Check-in and intake at the doctor’s office are perfect for AI",
+    "url": "https://www.statnews.com/2026/05/22/chatbots-doctor-office-check-in-intake-ai/?utm_campaign=rss",
+    "summary": "This skeptic of AI in medicine sees one place where it could be valuable.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-22T08:30:00+00:00",
+    "date_str": "May 22, 2026"
+  },
+  {
+    "title": "Opinion: The seed oil panic is hurting my cardiac patients",
+    "url": "https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/?utm_campaign=rss",
+    "summary": "“My patients are replacing olive oil with beef tallow, even if they don't tell me during cardiac rehab,” writes a clinical dietitian.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-22T08:30:00+00:00",
+    "date_str": "May 22, 2026"
+  },
+  {
+    "title": "'We'll never know if he could have been saved.' The gaps in Trump's rural health fund",
+    "url": "https://www.npr.org/2026/05/22/nx-s1-5821038/rural-health-hospitals-50-billion-big-beautiful-bill-obbba",
+    "summary": "Republicans promise that $50 billion in new health funding will help rural America. But it's not expected to aid the years-long effort in North Carolina's Martin County to reopen its only hospital.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-22T09:00:00+00:00",
+    "date_str": "May 22, 2026"
+  },
+  {
+    "title": "Eli Lilly says its next gen obesity drug is more powerful than Zepbound and Wegovy",
+    "url": "https://www.npr.org/2026/05/22/nx-s1-5830044/eli-lilly-says-its-next-gen-obesity-drug-is-more-powerful-than-zepbound-and-wegovy",
+    "summary": "Eli Lilly announced clinical trial results for retatrutide, its next gen obesity drug. The drug helped study participants lose 70 lbs over 80 weeks, making it more powerful than Zepbound and Wegovy.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-22T08:44:35+00:00",
+    "date_str": "May 22, 2026"
+  },
+  {
     "title": "Providers Sound Alarm After RFK Jr. Fires Top USPSTF Leaders",
     "url": "https://medcitynews.com/2026/05/rfk-uspstf-healthcare/",
     "summary": "Healthcare providers and researchers are warning that HHS Secretary Robert F. Kennedy Jr.’s firing of two USPSTF vice chairs could politicize one of the nation’s most influential preventive care panels. The post Providers Sound Alarm After RFK Jr. Fires Top USPSTF Leaders appeared first on MedCity News .",
@@ -9927,76 +9997,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-05-04T09:00:00+00:00",
-    "date_str": "May 04, 2026"
-  },
-  {
-    "title": "How states are planning to implement Medicaid work requirements: survey",
-    "url": "https://www.healthcaredive.com/news/state-medicaid-work-requirements-implementation-decisions-kff-georgetown-center-children-families/819013/",
-    "summary": "Most states are planning to adopt less restrictive policies to verify compliance with work requirements mandated by the “Big Beautiful Bill” passed last year , but some are implementing the policies early or checking eligibility more frequently.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-04T13:49:00+00:00",
-    "date_str": "May 04, 2026"
-  },
-  {
-    "title": "Preparing for the 2026 HIPAA changes: A practical guide for healthcare leaders",
-    "url": "https://www.healthcaredive.com/spons/preparing-for-the-2026-hipaa-changes-a-practical-guide-for-healthcare-lead/818489/",
-    "summary": "Prepare for 2026 HIPAA changes with clear steps to secure data and stay compliant.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-04T09:00:00+00:00",
-    "date_str": "May 04, 2026"
-  },
-  {
-    "title": "What’s next for post-acute care: Data, collaboration and the path forward",
-    "url": "https://www.healthcaredive.com/spons/whats-next-for-post-acute-care-data-collaboration-and-the-path-forward/815073/",
-    "summary": "Post-acute care is moving to the center of payer strategy. Here’s why it matters.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-04T09:00:00+00:00",
-    "date_str": "May 04, 2026"
-  },
-  {
-    "title": "The Case for a More Proactive Payment Integrity Program",
-    "url": "https://www.fiercehealthcare.com/sponsored/your-payment-integrity-partner-shouldnt-be-problem",
-    "summary": "Spring is the season of renewals and hard conversations. If your payment integrity program hasn't kept pace with a shifting market, the gap between what you're paying and what you should be paying is growing every day. Here's what a proactive approach actually looks like.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-04T14:00:07.381288+00:00",
-    "date_str": "May 04, 2026"
-  },
-  {
-    "title": "How MRD Testing Is Reshaping Breast Cancer Risk Assessment",
-    "url": "https://www.fiercehealthcare.com/sponsored/how-mrd-testing-reshaping-breast-cancer-risk-assessment",
-    "summary": "New B-59 data shows circulating tumor DNA (ctDNA) and molecular residual disease (MRD) testing can better predict recurrence risk and help guide more personalized care in TNBC.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-04T14:00:07.381347+00:00",
-    "date_str": "May 04, 2026"
-  },
-  {
-    "title": "Orchestrating Affordability: The Critical New Role of the Health Plan",
-    "url": "https://www.fiercehealthcare.com/sponsored/orchestrating-affordability-critical-new-role-health-plan",
-    "summary": "Affordability won’t come from being a passive payer. See how health plans can connect networks, benefits, and experience to lower total cost.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-04T14:00:07.381385+00:00",
-    "date_str": "May 04, 2026"
-  },
-  {
-    "title": "A deeper dive into the ACCESS Model—Who’s participating, potential headwinds and how it could spur health plan adoption",
-    "url": "https://www.fiercehealthcare.com/health-tech/deeper-dive-access-model-whos-participating-potential-headwinds-and-how-it-could-spur",
-    "summary": "Many of the 150 digital health companies tapped to participate in the first cohort of the ACCESS model are bullish that it marks an inflection point for connected care and a way to prove out that AI-enabled medical services can move the needle on cost and quality.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-04T14:00:07.381425+00:00",
     "date_str": "May 04, 2026"
   }
 ]
