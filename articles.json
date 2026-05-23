@@ -1,5 +1,65 @@
 [
   {
+    "title": "Journalists Distill News on Ebola, Licensing Midwives, and California’s Budget",
+    "url": "https://kffhealthnews.org/on-air/on-air-may-23-2026-ebola-midwife-licensing-gavin-newsom-california-budget-medicaid/",
+    "summary": "KFF Health News journalists made the rounds on national or local media recently to discuss topical stories. Here’s a collection of their appearances.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-23T09:00:00+00:00",
+    "date_str": "May 23, 2026"
+  },
+  {
+    "title": "Opinion: How the perimenopause movement is hurting women",
+    "url": "https://www.statnews.com/2026/05/23/perimenopause-misinformation-influencers-supplements-hormones/?utm_campaign=rss",
+    "summary": "“There's a whole industry that seems to have sprung up”: Two experts on the people profiting from the rise of the perimenopause movement.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-23T11:00:00+00:00",
+    "date_str": "May 23, 2026"
+  },
+  {
+    "title": "U.S. passengers flying from Ebola-affected countries rerouted",
+    "url": "https://www.npr.org/2026/05/23/nx-s1-5831963/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
+    "summary": "The U.S. government is responding to the Ebola outbreak in with travel restrictions. American citizens and permanent residents departing affected countries must fly into one of three U.S. airports.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-23T12:09:50+00:00",
+    "date_str": "May 23, 2026"
+  },
+  {
+    "title": "One solution for Maine's struggling fishing industry? Give fillets away for free",
+    "url": "https://www.npr.org/2026/05/23/nx-s1-5756374/food-fish-maine-portland-donations",
+    "summary": "Surging food costs and fuel prices are pummeling Maine's struggling groundfishing industry. But a pandemic-era program is helping to keep it afloat as inflation worsens.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-23T09:00:00+00:00",
+    "date_str": "May 23, 2026"
+  },
+  {
+    "title": "15 years since a deadly tornado brought Joplin, Mo. together, kindness carries on",
+    "url": "https://www.npr.org/2026/05/23/nx-s1-5831985/joplin-missouri-tornado-catastrophe-compassion",
+    "summary": "Nearly 100,000 volunteers helped the town rebuild and a spirit of community service continues to this day. Researchers studying human behavior catastrophes can bring out compassion in surprising ways.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-23T09:00:00+00:00",
+    "date_str": "May 23, 2026"
+  },
+  {
+    "title": "Trump administration expands Ebola travel restrictions to green card holders",
+    "url": "https://thehill.com/policy/healthcare/5892561-trump-administration-ebola-outbreak-restrictions-green-card-holders/",
+    "summary": "The Trump administration updated its travel restrictions amid the Ebola outbreak to temporarily include the entry of lawful permanent residents who have been in the Democratic Republic of Congo (DRC), Uganda and South Sudan in the past 21 days. The Department of Health and Human Services (HHS), which oversees the Centers for Disease Control and...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-23T12:14:00+00:00",
+    "date_str": "May 23, 2026"
+  },
+  {
     "title": "Hospitals Take CVS to Court Over Alleged $250M 340B Scheme",
     "url": "https://medcitynews.com/2026/05/hospitals-cvs-340b/",
     "summary": "Three health systems — Mount Sinai, Michigan Medicine and the University of Kansas Health System — are suing CVS Health, alleging its pharmacy benefit manager diverted roughly $250 million in savings from the 340B program through “spread pricing” between 2020 and 2025. The post Hospitals Take CVS to Court Over Alleged $250M 340B Scheme appeared first on MedCity News .",
@@ -9938,65 +9998,5 @@
     "category_slug": "industry-news",
     "date": "2026-05-05T02:26:06+00:00",
     "date_str": "May 05, 2026"
-  },
-  {
-    "title": "UCB Joins the Chase for Immune System Reset With $2B Acquisition",
-    "url": "https://medcitynews.com/2026/05/ucb-candid-therapeutics-acquisition-t-cell-engager-autoimmune-immunology/",
-    "summary": "Candid Therapeutics brings to UCB two clinical-stage T cell engagers in development for autoimmune disorders. To accept UCB’s offer, Candid terminated its reverse merger with Rallybio. The post UCB Joins the Chase for Immune System Reset With $2B Acquisition appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-04T18:27:24+00:00",
-    "date_str": "May 04, 2026"
-  },
-  {
-    "title": "STAT+: French regulator fines Novo and Lilly over weight loss ad campaigns",
-    "url": "https://www.statnews.com/pharmalot/2026/05/04/french-regulator-fines-novo-lilly-weight-loss-ad-campaigns/?utm_campaign=rss",
-    "summary": "France's medicines regulator has fined Novo Nordisk and Eli Lilly over their weight loss ad campaigns.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-04T18:16:50+00:00",
-    "date_str": "May 04, 2026"
-  },
-  {
-    "title": "Opinion: Mifepristone court ruling makes drug development riskier for everyone",
-    "url": "https://www.statnews.com/2026/05/04/mifepristone-supreme-court-fda-biotech-pharma/?utm_campaign=rss",
-    "summary": "The 5th Circuit’s ruling on mifepristone “is bad for health care access, and it’s also bad for innovation,” writes Grace E. Colón.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-04T17:34:13+00:00",
-    "date_str": "May 04, 2026"
-  },
-  {
-    "title": "Supreme Court restores access to abortion pill mifepristone through telehealth, mail, and pharmacies",
-    "url": "https://www.statnews.com/2026/05/04/supreme-court-restores-access-abortion-pill-mifepristone/?utm_campaign=rss",
-    "summary": "The Supreme Court on Monday restored broad access to the abortion pill mifepristone, blocking a ruling that had threatened to upend one of the main ways abortion is provided across the…",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-04T15:24:49+00:00",
-    "date_str": "May 04, 2026"
-  },
-  {
-    "title": "Researchers urge study of paternal deaths, though a new paper finds fatherhood is protective",
-    "url": "https://www.statnews.com/2026/05/04/maternal-health-paternal-mortality-new-study-jama-pediatrics/?utm_campaign=rss",
-    "summary": "A research letter published on Monday in JAMA Pediatrics argues that paternal mortality deserve more attention",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-04T15:00:00+00:00",
-    "date_str": "May 04, 2026"
-  },
-  {
-    "title": "STAT+: Pump the brakes on AI, buddy; and deposition deadlock",
-    "url": "https://www.statnews.com/2026/05/04/elevance-medicare-advantage-lawsuit-artificial-intelligence-emergency-departments/?utm_campaign=rss",
-    "summary": "It's tough to write nuanced headlines, but a new study on AI in emergency rooms is getting way overhyped.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-04T14:44:04+00:00",
-    "date_str": "May 04, 2026"
   }
 ]
