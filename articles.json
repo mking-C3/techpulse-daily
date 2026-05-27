@@ -1,5 +1,95 @@
 [
   {
+    "title": "Nurse Convicted in Patient’s Death Turns Fatal Drug Error Into a Cautionary Tale",
+    "url": "https://kffhealthnews.org/syndicate/nurse-drug-errors-hospital-safety-radonda-vought-tennessee/",
+    "summary": "RaDonda Vaught was convicted of negligent homicide for accidentally dispensing a deadly drug to a patient. She now gives speeches about hospital safety in an era of automation and artificial intelligence.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-27T09:00:00+00:00",
+    "date_str": "May 27, 2026"
+  },
+  {
+    "title": "Montana Hurries To Adopt Trump’s Medicaid Work Rules Amid Budget Woes",
+    "url": "https://kffhealthnews.org/medicaid/medicaid-work-requirements-trump-montana-budget-shortfalls/",
+    "summary": "The state is ramping up to implement the federal work requirements six months ahead of the deadline. But Montana is one of several states already struggling to pay for health services.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-27T09:00:00+00:00",
+    "date_str": "May 27, 2026"
+  },
+  {
+    "title": "Readers Address Drugged Driving, Suicide Prevention, Worker Shortages",
+    "url": "https://kffhealthnews.org/letter-to-the-editor/readers-drugged-driving-suicide-prevention-worker-shortages-single-payer-may-2026/",
+    "summary": "KFF Health News gives readers a chance to comment on a recent batch of stories.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-27T09:00:00+00:00",
+    "date_str": "May 27, 2026"
+  },
+  {
+    "title": "Opinion: Sen. Dick Durbin: Trump is letting Big Tobacco target children",
+    "url": "https://www.statnews.com/2026/05/27/flavored-vapes-e-cigarettes-fda-trump-durbin/?utm_campaign=rss",
+    "summary": "“Trump has willingly exposed an entire generation of children to Big Tobacco’s nicotine addiction,” writes Sen. Dick Durbin.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-27T08:30:00+00:00",
+    "date_str": "May 27, 2026"
+  },
+  {
+    "title": "Opinion: The patients demanding unvaccinated blood transfusions",
+    "url": "https://www.statnews.com/2026/05/27/unvaccinated-blood-transfusions-directed-donation-interview/?utm_campaign=rss",
+    "summary": "If you've been vaccinated against Covid-19, some patients might not want your donated blood.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-27T08:30:00+00:00",
+    "date_str": "May 27, 2026"
+  },
+  {
+    "title": "STAT+: How Stanford patients help expose ‘fault lines’ in health AI adoption",
+    "url": "https://www.statnews.com/2026/05/27/stanford-patient-panels-feedback-on-ai-shaping-health-care/?utm_campaign=rss",
+    "summary": "Stanford Health Care started asking patients about new AI tools before they are implemented. Here's what patients are telling them.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-27T08:30:00+00:00",
+    "date_str": "May 27, 2026"
+  },
+  {
+    "title": "‘Are we just going to give up and die like every other generation?’",
+    "url": "https://www.statnews.com/2026/05/27/longevity-movement-shift-fringe-idea-to-big-business/?utm_campaign=rss",
+    "summary": "Inside the longevity conference that brings together founders, investors, biohackers, and the generally death-averse to discuss how to forestall — or even beat — our demise.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-27T08:30:00+00:00",
+    "date_str": "May 27, 2026"
+  },
+  {
+    "title": "Opinion: It’s the end of science as we know it, and I feel fine",
+    "url": "https://www.statnews.com/2026/05/27/science-enterprise-replication-crisis-ivory-tower-community/?utm_campaign=rss",
+    "summary": "“Science itself is inherently resilient — that is, after all, why it’s science,” writes Jonathan Jackson.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-27T08:30:00+00:00",
+    "date_str": "May 27, 2026"
+  },
+  {
+    "title": "Smart ring maker Oura files confidentially for IPO as consumer demand propels revenue growth",
+    "url": "https://www.fiercehealthcare.com/health-tech/oura-smart-ring-maker-files-confidentially-ipo-consumer-demand-propels-revenue-growth",
+    "summary": "Oura, the smart ring maker, filed confidentially for an initial public offering after it reached an $11 billion valuation last year.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-27T09:44:53.169203+00:00",
+    "date_str": "May 27, 2026"
+  },
+  {
     "title": "Oura Files for IPO As Healthcare Ambitions Grow",
     "url": "https://medcitynews.com/2026/05/oura-ipo-healthcare-ring-device/",
     "summary": "Oura has filed for an IPO as it looks to build on its evolution from a sleep-focused wearable startup into a broader healthcare player. The post Oura Files for IPO As Healthcare Ambitions Grow appeared first on MedCity News .",
@@ -9907,96 +9997,6 @@
     "category": "Industry News",
     "category_slug": "industry-news",
     "date": "2026-05-06T16:11:10+00:00",
-    "date_str": "May 06, 2026"
-  },
-  {
-    "title": "A New Medicare Option for Weight Loss Drugs: What Older Americans Should Know",
-    "url": "https://kffhealthnews.org/medicare/cheaper-glp-1-weight-loss-medicare-bridge-wegovy-zepbound-foundayo/",
-    "summary": "It may soon get easier for millions of people with Medicare to get discounted GLP-1 drugs for weight loss.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-06T09:00:00+00:00",
-    "date_str": "May 06, 2026"
-  },
-  {
-    "title": "Trump’s Drug Strategy Aims To Bolster Addiction Services — Despite Gutting of Government Support",
-    "url": "https://kffhealthnews.org/public-health/trump-national-drug-control-strategy-addiction-treatment-funding-cuts/",
-    "summary": "The White House’s strategy for tackling the drug and addiction crisis, released this week, sets lofty public health goals but highlights deep inconsistencies with the administration’s own funding cuts and other policies.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-06T09:00:00+00:00",
-    "date_str": "May 06, 2026"
-  },
-  {
-    "title": "Want to Show Your Nurses Appreciation? Fix Your Hospital Communications",
-    "url": "https://medcitynews.com/2026/05/want-to-show-your-nurses-appreciation-fix-your-hospital-communications/",
-    "summary": "For hospitals looking for ways to actually celebrate, support, and retain nurses, improving communication is one of the most immediate and controllable places to start. The post Want to Show Your Nurses Appreciation? Fix Your Hospital Communications appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-06T13:54:00+00:00",
-    "date_str": "May 06, 2026"
-  },
-  {
-    "title": "A Mandatory Shift: Why the CMS TEAM Model is an Important Opportunity for Health Systems",
-    "url": "https://medcitynews.com/2026/05/a-mandatory-shift-why-the-cms-team-model-is-an-important-opportunity-for-health-systems/",
-    "summary": "The most successful and high-performing health systems will approach TEAM not as a regulatory burden, but as a catalyst for transformation. They will use this moment to build the operating model, processes, workflows, and culture that position their health system for long-term success in value-based care. The post A Mandatory Shift: Why the CMS TEAM Model is an Important Opportunity for Health Systems appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-06T13:17:00+00:00",
-    "date_str": "May 06, 2026"
-  },
-  {
-    "title": "Designing a National-Scale FHIR API Ecosystem Using Apigee: Architecture Patterns for Secure Healthcare Interoperability",
-    "url": "https://medcitynews.com/2026/05/designing-a-national-scale-fhir-api-ecosystem-using-apigee-architecture-patterns-for-secure-healthcare-interoperability/",
-    "summary": "Despite the widespread adoption of electronic health records (EHR) over the last couple of decades, essential patient information often gets trapped within the walls of individual hospital systems. Here’s a potential solution. The post Designing a National-Scale FHIR API Ecosystem Using Apigee: Architecture Patterns for Secure Healthcare Interoperability appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-06T13:12:00+00:00",
-    "date_str": "May 06, 2026"
-  },
-  {
-    "title": "STAT+: Novo Nordisk’s less-bad news on its Wegovy pill boosts earnings and share price",
-    "url": "https://www.statnews.com/2026/05/06/biotech-news-novo-nordisk-wegovy-pill-raises-share-prices/?utm_campaign=rss",
-    "summary": "Vivek Ramaswamy wins GOP primary for Ohio governor, CellCentric raises $220M for myeloma drug, and more biotech news",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-06T13:34:31+00:00",
-    "date_str": "May 06, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a PhRMA ad campaign aimed at 340B, sales of Novo’s obesity pill, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/05/06/pharma-ad-campaign-aimed-at-340b-novo-obesity-pill-sales/?utm_campaign=rss",
-    "summary": "One of the most powerful pharmaceutical lobbying groups is launching a new seven-figure advertising blitz targeting a federal drug discount program",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-06T13:34:07+00:00",
-    "date_str": "May 06, 2026"
-  },
-  {
-    "title": "HHS tackles ‘overmedication’",
-    "url": "https://www.statnews.com/2026/05/06/health-news-hhs-tackles-alleged-overmedication/?utm_campaign=rss",
-    "summary": "The cruise ship hantavirus outbreak, 988 staffing problems, and more health news from Morning Rounds",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-06T11:49:10+00:00",
-    "date_str": "May 06, 2026"
-  },
-  {
-    "title": "Opinion: Trump’s executive order on psychedelics is the right move. But is my field ready for it?",
-    "url": "https://www.statnews.com/2026/05/06/psychedelics-executive-order-ibogaine-trump-research-funding-scheduling/?utm_campaign=rss",
-    "summary": "The psychedelics field is getting what it has long wanted. Now it has to step up.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-06T08:30:00+00:00",
     "date_str": "May 06, 2026"
   }
 ]
