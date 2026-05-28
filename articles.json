@@ -1,5 +1,125 @@
 [
   {
+    "title": "How Bayesian Health’s Sepsis AI Tool Is Decreasing Alerts & Saving Lives",
+    "url": "https://medcitynews.com/2026/05/bayesian-sepsis-ai/",
+    "summary": "Bayesian Health became the first company to receive FDA clearance for a continuous AI-powered sepsis monitoring system. The clearance follows years of clinical validation studies and real-world deployments across multiple health systems. The post How Bayesian Health’s Sepsis AI Tool Is Decreasing Alerts & Saving Lives appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-28T00:10:00+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "60 Cancer Patient and Provider Orgs Call on RFK Jr. to Protect USPSTF",
+    "url": "https://medcitynews.com/2026/05/60-cancer-patient-and-provider-orgs-call-on-rfk-jr-to-protect-uspstf/",
+    "summary": "Healthcare organizations urged HHS Secretary Robert F. Kennedy Jr. to protect the U.S. Preventive Services Task Force, warning that disruptions could threaten access to preventive care for millions of Americans. The post 60 Cancer Patient and Provider Orgs Call on RFK Jr. to Protect USPSTF appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-27T22:51:18+00:00",
+    "date_str": "May 27, 2026"
+  },
+  {
+    "title": "Apogee’s Royalty Deal With Blackstone Will Fund Pivotal Test in Eczema and More",
+    "url": "https://medcitynews.com/2026/05/apogee-therapeutics-blackstone-life-sciences-royalty-atopic-dermatitis-eczema-inflammation-apge/",
+    "summary": "Blackstone Life Sciences is providing Apogee Therapeutics with up to $1.3 billion in non-dilutive financing, which the biotech will apply to a key test of its lead drug candidate in atopic dermatitis. The long-acting antibody also has potential applications in asthma and eosinophilic esophagitis. The post Apogee’s Royalty Deal With Blackstone Will Fund Pivotal Test in Eczema and More appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-27T22:27:17+00:00",
+    "date_str": "May 27, 2026"
+  },
+  {
+    "title": "STAT+: Heart patch engineered from stem cells revved up weakened hearts",
+    "url": "https://www.statnews.com/2026/05/27/biovat-heart-failure-stem-cell-muscle-patch-nejm-study/?utm_campaign=rss",
+    "summary": "A stem cell-based heart patch improved pumping in a small trial for advanced heart failure. \"Very good first step,\" researcher says.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-27T21:00:00+00:00",
+    "date_str": "May 27, 2026"
+  },
+  {
+    "title": "Decnupaz Approved for Rare Blood Cancer",
+    "url": "https://www.medpagetoday.com/hematologyoncology/hematology/121464",
+    "summary": "(MedPage Today) -- The FDA approved the antibody-drug conjugate pivekimab sunirine (Decnupaz) for the rare hematologic malignancy blastic plasmacytoid dendritic cell neoplasm (BPDCN). The approval stipulates use of the drug in adults. Although...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-27T21:25:58+00:00",
+    "date_str": "May 27, 2026"
+  },
+  {
+    "title": "Sedentary Behavior Linked to Pregnancy Risks, Study Says",
+    "url": "https://www.medpagetoday.com/obgyn/pregnancy/121463",
+    "summary": "(MedPage Today) -- New research in JAMA found that pregnant women with sedentary behavior, low step counts, or low levels of light physician activity had higher risks of adverse pregnancy outcomes. In this MedPage Today video, Bethany Barone Gibbs...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-27T21:15:00+00:00",
+    "date_str": "May 27, 2026"
+  },
+  {
+    "title": "Dawn of Heart Muscle Patches to Address Lost Myocardium in Heart Failure",
+    "url": "https://www.medpagetoday.com/transplantation/hearttransplantation/121455",
+    "summary": "(MedPage Today) -- For people with advanced heart failure, modular tissue-engineered patches showed promise as a way to remuscularize the heart, according to interim data. Biologic ventricular assist tissue (BioVAT) was epicardially transplanted...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-27T21:00:00+00:00",
+    "date_str": "May 27, 2026"
+  },
+  {
+    "title": "Perfusion Preservation Strategy Boosts Liver Transplant Outcomes",
+    "url": "https://www.medpagetoday.com/gastroenterology/livertransplantation/121462",
+    "summary": "(MedPage Today) -- Organ preservation using back-to-base portal-venous hypothermic oxygenated perfusion (HOPE) for extended-criteria donor livers improved outcomes after liver transplant compared with static cold storage (SCS) alone, a randomized...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-27T20:50:07+00:00",
+    "date_str": "May 27, 2026"
+  },
+  {
+    "title": "Seattle Hospitalists Vote to Unionize",
+    "url": "https://www.medpagetoday.com/hospitalbasedmedicine/workforce/121461",
+    "summary": "(MedPage Today) -- A group of about 115 hospitalists at five Swedish Medical Group locations across the Seattle area voted to unionize as a wave of physician organizing continues nationwide. The hospitalists voted to join Northwest Medicine United...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-27T20:19:35+00:00",
+    "date_str": "May 27, 2026"
+  },
+  {
+    "title": "Don't Blame DMARDs for Adverse Drug Effects in Rheumatology Patients",
+    "url": "https://www.medpagetoday.com/rheumatology/generalrheumatology/121459",
+    "summary": "(MedPage Today) -- Adverse drug effects among patients under treatment for autoimmune rheumatologic disorders stemmed more often from ancillary medications -- and not necessarily prescription products -- than from disease-modifying anti-rheumatic...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-27T19:30:21+00:00",
+    "date_str": "May 27, 2026"
+  },
+  {
+    "title": "Amazon taps Roy Schoenberg to lead healthcare business as Neil Lindsay plans to step down",
+    "url": "https://www.fiercehealthcare.com/health-tech/amazon-taps-roy-schoenberg-lead-healthcare-business-neil-lindsay-steps-down",
+    "summary": "Amazon tapped digital health executive Roy Schoenberg, M.D., to lead its healthcare business as Neil Lindsay plans to step away from Amazon after 15 years.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-28T03:33:42.675822+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "US to quarantine American Ebola patients in Kenya",
+    "url": "https://thehill.com/policy/healthcare/5898290-trump-administration-ebola-kenya/",
+    "summary": "The Trump administration plans to send Americans exposed to Ebola to a quarantine and treatment facility being constructed in Kenya, an administration official said Wednesday. Sources said public health service officers are preparing to be quickly deployed to the region to staff the new facility. The “state-of-the-art facility” is primarily intended for Americans who were exposed to the Ebola virus — or are at high risk of exposure — amid...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-27T21:10:27+00:00",
+    "date_str": "May 27, 2026"
+  },
+  {
     "title": "RFK Jr. Psych Backlash; 1.2 Billion With Mental Disorders; Schizophrenia Commission",
     "url": "https://www.medpagetoday.com/psychiatry/generalpsychiatry/121454",
     "summary": "(MedPage Today) -- Most surveyed psychiatrists said Health Secretary Robert F. Kennedy Jr. is not helping their field, according to the Committee to Protect Public Mental Health. Meanwhile, the New York Times reported mixed opinions from attendees...",
@@ -9877,126 +9997,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-05-07T08:34:18+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "These families help researchers find Alzheimer's treatments. Their network is at risk",
-    "url": "https://www.npr.org/2026/05/07/nx-s1-5759696/early-alzheimers-families-network-risk",
-    "summary": "Families with rare gene mutations that cause Alzheimer's in middle age are giving scientists a unique window on the disease, and a quick way to test potential treatments.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-07T13:32:13+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "Psychiatrists say RFK Jr.'s take on SSRIs is an 'oversimplification' of the problem",
-    "url": "https://www.npr.org/2026/05/07/nx-s1-5814083/rfk-jr-hhs-ssri-antidepressant-psychiatry-therapy-mental-health",
-    "summary": "The American Psychiatric Association says too few patients can access comprehensive mental health care in the United States. It welcomes new investments in improving access to evidence-based care.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-07T10:00:00+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "About 40 passengers previously left ship hit by Hantavirus at island of St. Helena",
-    "url": "https://www.npr.org/2026/05/07/nx-s1-5814632/passengers-left-ship-hantavirus-st-helena",
-    "summary": "The dozens of passengers, including the wife of a Dutch man who died, left the cruise ship during a stop at the British territory, the Dutch foreign ministry said on Thursday.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-07T08:44:06+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "The FDA has approved the sale of fruit-flavored vapes. What's behind the shift?",
-    "url": "https://www.npr.org/2026/05/07/nx-s1-5813637/the-fda-has-approved-the-sale-of-fruit-flavored-vapes-whats-behind-the-shift",
-    "summary": "NPR's Leila Fadel asks Mitch Zeller, former director of the FDA's Center for Tobacco Products, about the agency's approval of fruit-flavored electronic cigarettes.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-07T08:40:36+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "FDA warns of neurosurgical supply disruptions",
-    "url": "https://www.healthcaredive.com/news/fda-warns-of-neurosurgical-supply-disruptions/819527/",
-    "summary": "Interruptions in the supply of neurosurgical patties, sponges and strips are expected to continue through 2026.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-06T19:38:47+00:00",
-    "date_str": "May 06, 2026"
-  },
-  {
-    "title": "Hims & Hers debuts its first AI care agent to interpret biomarker lab results",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hims-hers-debuts-labs-ai-ai-care-agent-interpret-lab-results",
-    "summary": "Labs AI is a custom-built AI system that reasons across customers’ biomarker histories and personal health profiles to produce insights that are specific, safe and actionable.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-07T14:07:36.448805+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "Oscar Health's profit hits $679M, membership rises in Q1",
-    "url": "https://www.fiercehealthcare.com/payers/oscar-healths-profit-hits-679m-membership-rises-q1",
-    "summary": "Oscar Health is seeing some favorable signs on the embattled individual market.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-07T14:07:36.448867+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "Nearly 8 in 10 employers say GLP-1 coverage drives up benefit costs: Business Group on Health",
-    "url": "https://www.fiercehealthcare.com/finance/nearly-8-10-employers-say-glp-1-coverage-spiking-benefit-costs-business-group-health",
-    "summary": "Seventy-two percent of respondents said they would likely continue GLP-1 coverage through 2027 while 10% do not expect to continue coverage.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-07T14:07:36.448909+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "Utah becomes center of latest measles outbreak in US",
-    "url": "https://thehill.com/policy/healthcare/5867072-utah-measles-outbreak-2026/",
-    "summary": "Utah has become the latest epicenter for measles transmission in the U.S., going down a similar path to Texas’s outbreak last year, where a small under-vaccinated pocket within the state fueled widespread transmission. While the measles outbreak in South Carolina came to end last month, Utah has become the country’s new hotspot. As of this week, the Utah Department of Health and Human Services has confirmed 441 cases...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-07T10:00:00+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "Public health experts are worried about the cruise ship hantavirus outbreak, but not for the reason you might think",
-    "url": "https://www.statnews.com/2026/05/07/hantavirus-cruise-ship-outbreak-scientists-say-not-new-pandemic/?utm_campaign=rss",
-    "summary": "Scientists are worried that hantaviruses haven’t been as well studied as they ought to be, but not that the MV Hondius cruise ship is ground zero for the next pandemic.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-07T08:30:00+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "Opinion: Eugene Braunwald, ‘father of modern cardiology,’ told me he had two dreams. One came true",
-    "url": "https://www.statnews.com/2026/05/07/eugene-braunwald-obituary-cardiology-legacy/?utm_campaign=rss",
-    "summary": "Legendary cardiologist Eugene Braunwald had two visions for his career. One of them came true.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-07T08:30:00+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "STAT+: What was lost at the FDA",
-    "url": "https://www.statnews.com/2026/05/07/fda-rebuilding-after-doge-former-regulators-speaking-out/?utm_campaign=rss",
-    "summary": "What was lost at the FDA: A year after DOGE’s cuts, six agency staffers describe the work they never thought they’d leave.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-07T08:30:00+00:00",
     "date_str": "May 07, 2026"
   }
 ]
