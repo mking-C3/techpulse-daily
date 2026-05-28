@@ -1,5 +1,245 @@
 [
   {
+    "title": "MedCity FemFwd: The Complicated History Behind Hormone Replacement Therapy",
+    "url": "https://medcitynews.com/2026/05/medcity-femfwd-hrt-veradigm/",
+    "summary": "[Sponsored] In this episode, we’re joined by Janna Manjelievskaia, director of health economics and outcomes research at Veradigm. We discuss Veradigm’s recent Women’s Health Insights Report, which highlights the complicated history around Hormone Replacement Therapy (HRT), a medication used to treat menopause. The post MedCity FemFwd: The Complicated History Behind Hormone Replacement Therapy appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-28T14:18:35+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "Healthcare AI Is Only As Good As the Systems That Govern It",
+    "url": "https://medcitynews.com/2026/05/healthcare-ai-is-only-as-good-as-the-systems-that-govern-it/",
+    "summary": "AI doesn’t just demand better processes. It requires a complete redesign of traditional healthcare operations for a new level of precision, traceability, and governance. A new operating model that the vast majority of healthcare organizations simply aren’t built around today. The post Healthcare AI Is Only As Good As the Systems That Govern It appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-28T14:02:00+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "From Close Calls to Safer Systems: Rethinking Near Miss Reporting in Healthcare",
+    "url": "https://medcitynews.com/2026/05/from-close-calls-to-safer-systems-rethinking-near-miss-reporting-in-healthcare/",
+    "summary": "To truly drive safety at scale, healthcare organizations will have to look beyond just adverse events and better leverage insights from one of the most valuable, but often underutilized, sources of safety data: near misses. The post From Close Calls to Safer Systems: Rethinking Near Miss Reporting in Healthcare appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-28T13:41:00+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "The Next Useful Layer in Radiology AI is Patient Comprehension",
+    "url": "https://medcitynews.com/2026/05/the-next-useful-layer-in-radiology-ai-is-patient-comprehension/",
+    "summary": "The first truly scalable and transformative use of AI in medical imaging may not be autonomous diagnosis. Instead, it may be the creation of a “translation layer” designed to help patients actually understand the complex information they are already receiving. The post The Next Useful Layer in Radiology AI is Patient Comprehension appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-28T13:06:00+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "Opinion: Ebola at the World Cup? Here’s what we should actually worry about",
+    "url": "https://www.statnews.com/2026/05/28/ebola-world-cup-travel-public-health-measles/?utm_campaign=rss",
+    "summary": "“Infectious disease threats during the World Cup will almost certainly look much more familiar than frightening headlines suggest,” writes Krutika Kuppalli.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-28T14:24:47+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "STAT+: Oura brings rings to the cuffless blood pressure party",
+    "url": "https://www.statnews.com/2026/05/28/oura-arrives-blood-pressure-party-health-tech/?utm_campaign=rss",
+    "summary": "In this edition of STAT Health Tech: A new wave of blood pressure monitoring wearables, Stanford asking patients about AI, and more.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-28T14:01:52+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a hepatitis B drug, CVS returns Lilly obesity drug to formularies, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/05/28/hepatitis-drug-cvs-returns-lilly-obesity-drug-to-formularies/?utm_campaign=rss",
+    "summary": "In this morning's Pharmalittle roundup, we're reading about a hepatitis B drug, CVS returns Lilly obesity drug to formularies, and more.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-28T13:26:16+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "STAT+: Ahead of ASCO, all eyes on pancreatic cancer",
+    "url": "https://www.statnews.com/2026/05/28/biotech-news-asco-preview-2026-all-eyes-on-pancreatic-cancer/?utm_campaign=rss",
+    "summary": "Strong results from GSK's hepatitis B drug, engineered heart patches, and more biotech news from The Readout",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-28T13:21:44+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "The latest developments on Ebola, hepatitis B, long Covid",
+    "url": "https://www.statnews.com/2026/05/28/health-news-latest-news-on-ebola-hepatitis-b-long-covid/?utm_campaign=rss",
+    "summary": "Uganda closes its border, a Christian substitute for insurance, and more health news from Morning Rounds",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-28T13:10:08+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "STAT+: Blood pressure tech floods the market after FDA relaxes wearables oversight",
+    "url": "https://www.statnews.com/2026/05/28/fda-wellness-guidance-unvetted-blood-pressure-tech-floods-market/?utm_campaign=rss",
+    "summary": "Wearables with unvalidated blood pressure measuring tech are flooding the market after the FDA relaxed oversight of wellness devices.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-28T12:00:00+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "STAT+: An ASCO preview: What to watch for at cancer research’s big meeting",
+    "url": "https://www.statnews.com/2026/05/28/asco-preview-cancer-meeting/?utm_campaign=rss",
+    "summary": "Here's what to watch for at ASCO, cancer research's big meeting, in Chicago.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-28T10:30:00+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "Congo's Ebola outbreak is spiraling, with health workers struggling to contain the virus",
+    "url": "https://www.npr.org/2026/05/27/nx-s1-5834940/ebola-outbreak-congo",
+    "summary": "The epicenter of the Ebola outbreak is in Mongbwalu, a poor gold-mining town of 130,000 people, in Ituri province, in eastern Congo.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-28T08:47:40+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "About 8% of Americans Lacked Health Insurance in 2025. That Could Rise Next Year.",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/healthpolicy/121468",
+    "summary": "(MedPage Today) -- The proportion of Americans without health insurance held steady at around 8% of the population in 2025, according to new findings from the CDC. The national survey results, released Thursday, show the all-ages uninsured rate...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-28T15:02:44+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "CDC Employee Stole $190K; Camp Mystic Nurse Accused; Dead Man's Medicaid Benefits",
+    "url": "https://www.medpagetoday.com/special-reports/features/121467",
+    "summary": "(MedPage Today) -- A former CDC supervisor pleaded guilty to stealing more than $190,000 by creating fake invoices from \"vendors\" that were ultimately paid to an account she controlled, federal prosecutors said. The Texas nursing board suspended...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-28T14:52:31+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "Pam Bondi's Cancer; Biden Stroke Concern; Moringa Capsules Recalled",
+    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/121466",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Former Attorney General Pam Bondi was diagnosed with thyroid cancer and is recovering from surgery. (CNN) Due to the Ebola outbreak, American citizens reentering...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-28T13:35:47+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "CVS obesity drug deal puts Lilly on equal footing with Novo",
+    "url": "https://www.healthcaredive.com/news/lilly-cvs-caremark-formulary-zepbound-foundayo-obesity-glp1/821364/",
+    "summary": "The agreement includes Lilly’s new pill Foundayo and restores coverage for Zepbound, erasing what had been a commercial edge for rival Novo Nordisk.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-28T15:09:00+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "Judge dismisses BCBS Texas’ surprise billing lawsuit against HaloMD",
+    "url": "https://www.healthcaredive.com/news/bcbs-texas-halomd-surprise-billing-lawsuit-dismissed/821290/",
+    "summary": "It’s the fourth federal court in six weeks to reject insurer attempts to relitigate No Surprises determinations, HaloMD said. The dismissals have thrown cold water on insurers’ efforts to contest what they say is rampant fraud under the law.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-28T14:09:35+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "UHS, George Washington University ink deal to stabilize struggling physician group",
+    "url": "https://www.healthcaredive.com/news/uhs-george-washington-university-ink-deal-physician-group-mfa/821329/",
+    "summary": "UHS will establish a new nonprofit to absorb financial responsibility of GW University’s debt-ridden physician practice group. Executives told Healthcare Dive the deal should help stabilize those clinical operations in the D.C. region.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-28T13:04:51+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "Coalition for Health AI unveils governance playbooks for responsible AI adoption",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/coalition-health-ai-unveils-8-governance-playbooks-health-systems",
+    "summary": "Each playbook includes suggested implementation guidance, tools, resources and examples for healthcare organizations to integrate into existing processes.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-28T15:53:37.322469+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "CMS finalizes changes to No Surprises Act dispute resolution process",
+    "url": "https://www.fiercehealthcare.com/regulatory/cms-finalizes-changes-no-surprises-act-dispute-resolution-process",
+    "summary": "A new federal rule aims to overhaul the No Surprises Act protocols, particularly as large volumes of disputes are pushed to arbitration.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-28T15:53:37.322515+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "CVS expands partnership with Salesforce for greater call center personalization",
+    "url": "https://www.fiercehealthcare.com/payers/cvs-expands-partnership-salesforce-greater-call-center-personalization",
+    "summary": "CVS Health is growing its partnership with Salesforce, leveraging its agentic AI-driven Agentforce Health to boost personalization in its call centers.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-28T15:53:37.322547+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "Teladoc Health inks partnership with Walmart to expand virtual care services",
+    "url": "https://www.fiercehealthcare.com/health-tech/teladoc-health-inks-partnership-walmart-expand-virtual-care-access",
+    "summary": "Teladoc Health is expanding its retail partnerships with a new tie-up with Walmart to offer its virtual care services through the company's Better Care Services platform.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-28T15:53:37.322577+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "Hospitals again ask FTC, DOJ for exemption from expanded premerger notification filings",
+    "url": "https://www.fiercehealthcare.com/regulatory/hospital-again-ask-ftc-doj-exemption-expanded-premerger-notification-filings",
+    "summary": "As regulators explore an update to the Hart-Scott-Rodino form that would survive court scrutiny, the American Hospital Association argues that the existing process is doing the job.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-28T15:53:37.322607+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "Ebola spreads as concerns grow over US response",
+    "url": "https://thehill.com/policy/healthcare/5898444-trump-administration-ebola-response/",
+    "summary": "An Ebola outbreak in the Congo is fast outpacing containment efforts in the region as questions and concerns mount in the U.S. over the Trump administration’s preparedness and response. Health experts are warning that the outbreak, driven by the Bundibugyo strain of Ebola, could be even more difficult to contain than any in the past. The rare strain of the...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-28T10:00:00+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
     "title": "In a Vaccine-Skeptical California County, a Potential Playbook To Contain Measles",
     "url": "https://kffhealthnews.org/public-health/measles-outbreak-contained-vaccine-skeptical-california-shasta-county/",
     "summary": "Conservative Shasta County stopped a measles outbreak from spreading, enlisting teachers, church leaders, and other trusted community members to get the public on board with health guidelines. Infectious disease specialists say the successful effort could be a guide for other communities struggling to contain the highly contagious virus.",
@@ -9757,246 +9997,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-05-07T14:54:12+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "Erectile Dysfunction Drugs Linked to Lower Glaucoma Risk in Men",
-    "url": "https://www.medpagetoday.com/meetingcoverage/arvo/121158",
-    "summary": "(MedPage Today) -- DENVER -- Men using phosphodiesterase type 5 (PDE-5) inhibitors for erectile dysfunction (ED) had a modestly lower risk of glaucoma, according to a study reported here. During 3 years of follow-up, men taking PDE-5 inhibitors...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-07T18:52:21+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "FDA's New Playbook: Lots of Media Announcements but Not Much Rulemaking",
-    "url": "https://www.medpagetoday.com/washington-watch/fdageneral/121157",
-    "summary": "(MedPage Today) -- In one of his first major announcements as health secretary, Robert F. Kennedy Jr. called a news conference to unveil a plan to \"phase out\" synthetic food dyes. FDA Commissioner Marty Makary, MD, MPH, opened the event by saying...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-07T18:42:59+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "Hantavirus Goes Viral; Hairy Toes and Heart Health; Top 5 Medical Horror Stories",
-    "url": "https://www.medpagetoday.com/popmedicine/popmedicine/121156",
-    "summary": "(MedPage Today) -- The following contains links to social media websites including Bluesky, X, TikTok, Instagram, Facebook, and LinkedIn. As new details emerge about the cruise ship hantavirus outbreak, emergency medicine physician Megan Ranney...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-07T18:10:18+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "Trivalent mRNA Flu Shot More Effective Than Standard Vaccines",
-    "url": "https://www.medpagetoday.com/infectiousdisease/uritheflu/121153",
-    "summary": "(MedPage Today) -- An investigational mRNA-based vaccine against three strains of influenza outperformed standard flu shots among adults ages 50 and older in the Fluent randomized trial. Reverse transcriptase-polymerase chain reaction-confirmed...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-07T15:32:37+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "FDA Expands Stelara Approval; Liver Cancer Blood Test; Pharmacotherapy for MASLD",
-    "url": "https://www.medpagetoday.com/gastroenterology/inflammatoryboweldisease/121152",
-    "summary": "(MedPage Today) -- The FDA expanded the approval of ustekinumab (Stelara) in Crohn's disease to include the treatment of kids as young as 2 years, Johnson & Johnson announced. High clinical remission rates (98%) at approximately 5 years were...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-07T14:47:27+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "$100M Teen Death Lawsuit; Nurse's Deadly Car Crash; EpiPen Settlement Reached",
-    "url": "https://www.medpagetoday.com/special-reports/features/121151",
-    "summary": "(MedPage Today) -- The family of an Oregon teen who died after a doctor stitched up a cut but allegedly failed to remove the pine needles and moss that were lodged inside filed a $100 million lawsuit against a hospital and physicians. (OregonLive...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-07T14:00:08+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "New Vaccine-Aluminum Study; Med School Discriminated on Race; Head Hits and the Gut",
-    "url": "https://www.medpagetoday.com/infectiousdisease/vaccines/121150",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. A new systematic review in The BMJ reported that current evidence did not support causal associations between aluminium adjuvanted vaccines and serious or long-term...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-07T13:35:45+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "Hospital at home linked to lower ED visits, in-hospital mortality: study",
-    "url": "https://www.healthcaredive.com/news/hospital-at-home-linked-lower-emergency-department-visits-hospital-mortality-jama-network-open/819340/",
-    "summary": "The findings suggest hospital at home could serve as a safe alternative to inpatient care, researchers wrote. However, adoption is uneven, with most programs located in urban areas.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-07T15:12:00+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "Amwell expects smaller losses in 2026 after Q1 performance",
-    "url": "https://www.healthcaredive.com/news/amwell-expects-smaller-losses-2026-q1-2026-earnings/819578/",
-    "summary": "The health technology firm’s results give Amwell “increased confidence” it will meet a long-term goal of achieving positive cash flow from operations in the fourth quarter, CFO Mark Hirschhorn said.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-07T14:20:08+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "Staffing firm Cross Country Healthcare to be acquired by Knox Lane for $437M",
-    "url": "https://www.fiercehealthcare.com/finance/staffing-firm-cross-country-healthcare-be-acquired-knox-lane-437m",
-    "summary": "The deal would bring the 40-year-old, publicly traded company under a growth-oriented investment firm with a prior background in healthcare staffing.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-07T19:43:08.836066+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "Pennsylvania sues Character.ai over AI chatbot allegedly presenting itself as licensed medical professional",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/pennsylvania-sues-characterai-over-ai-chatbot-allegedly-unlawfully",
-    "summary": "The state's suit alleges Character.ai violated the state's Medical Practice Act after an AI chatbot falsely claimed to be a licensed psychiatrist, even providing a fake license number.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-07T19:43:08.836114+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "UN health agency chief says hantavirus outbreak shows why US should rejoin",
-    "url": "https://www.politico.com/news/2026/05/07/hantavirus-outbreak-cruise-who-tedros-00910213",
-    "summary": "The World Health Organization and U.S. health officials are working together despite President Donald Trump’s withdrawal.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-07T18:40:11+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "Hantavirus 'not COVID': WHO official",
-    "url": "https://thehill.com/policy/healthcare/5868320-who-hantavirus-not-pandemic/",
-    "summary": "A World Health Organization (WHO) official on Thursday said that the threat level imposed by hantavirus, which has killed three people aboard a cruise ship, does not resemble the pandemic-level threat that COVID-19 had six years ago. Infectious disease epidemiologist Maria DeJoseph Van Kerkhove said during a press conference that the three hantavirus deaths of...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-07T19:38:43+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "Fewer than half of US states adequately prepared for health emergency ahead of World Cup: Report",
-    "url": "https://thehill.com/policy/healthcare/5868344-states-health-emergency-readiness/",
-    "summary": "Fewer than half of U.S. states are sufficiently prepared for a health emergency, according to new research released on Thursday. Only 20 states scored “high” on the annual report from Trust for America’s Health (TFAH) on national public health emergency preparedness. Seventeen states and Washington, D.C., scored in the “middle tier” and 13 states fell...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-07T19:26:20+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "What causes hantavirus in the US?",
-    "url": "https://thehill.com/policy/healthcare/5868129-what-causes-hantavirus-in-the-us/",
-    "summary": "Hundreds of cases have been confirmed in the U.S. since the CDC started tracking the virus.",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-07T18:12:21+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "4 states monitoring for hantavirus after deadly cruise ship outbreak",
-    "url": "https://thehill.com/homenews/state-watch/5868105-georgia-california-arizona-virginia-hantavirus-monitoring/",
-    "summary": "An Arizona Department of Health Services spokeswoman told The New York Times it is monitoring a resident who isn't symptomatic.",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-07T17:31:58+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "Hantavirus risk to US public very low: CDC",
-    "url": "https://thehill.com/policy/healthcare/5867815-cdc-hantavirus-us-risk-low/",
-    "summary": "Dr. Jay Bhattacharya, the acting director of the Centers for Disease Control and Prevention (CDC), said Wednesday that the risk of hantavirus to the American public is “very low” amid an outbreak of the disease on a cruise ship headed to Europe. Three people, a Dutch couple and a German national, on board the M/V...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-07T14:56:02+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "That Discount at the Pharmacy Counter May Pack Hidden Costs",
-    "url": "https://kffhealthnews.org/health-care-costs/pharmacy-discount-coupons-hidden-costs/",
-    "summary": "The new TrumpRx program relies partly on connecting consumers with discount coupons offered by drugmakers. For insured patients, though, using a coupon can prove dicey.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-07T09:00:00+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "Trump Promised Cheaper Drugs. Some Prices Dropped. Many Others Shot Up.",
-    "url": "https://kffhealthnews.org/health-care-costs/trumprx-reality-check-drugs-not-always-cheaper/",
-    "summary": "For all Trump’s showmanship, the share of Americans his policies will likely help remains slim, even if some patients do come out ahead.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-07T09:00:00+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "Patient Responsibility Is Rising — The Payment Experience Needs to Keep Up",
-    "url": "https://medcitynews.com/2026/05/patient-responsibility-is-rising-the-payment-experience-needs-to-keep-up/",
-    "summary": "Payment friction isn’t always obvious. It shows up in extended accounts receivable timelines, increased billing inquiries, and patients who delay payment – not because they’re unwilling to pay, but because the process made it harder than it needed to be. The post Patient Responsibility Is Rising — The Payment Experience Needs to Keep Up appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-07T13:45:00+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "Lack of Trust, Not Technology, is What’s Stopping Health Plans from Meeting Their Mission and Financial Objectives",
-    "url": "https://medcitynews.com/2026/05/lack-of-trust-not-technology-is-whats-stopping-health-plans-from-meeting-their-mission-and-financial-objectives/",
-    "summary": "Healthcare often expects consumers to contort themselves around processes that were never built with them in mind — and that’s where the trust issue begins. With the looming arrival of HR1, how to fix it. The post Lack of Trust, Not Technology, is What’s Stopping Health Plans from Meeting Their Mission and Financial Objectives appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-07T13:34:00+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about Sanofi and an FDA voucher, FDA rethinking a rejection, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/05/07/sanofi-diabetes-drug-voucher-fda-rethinking-rare-disease-rejection/?utm_campaign=rss",
-    "summary": "Sanofi asked the FDA to pull teplizumab out of a speedy review voucher program after a political appointee disagreed with staff over its approval",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-07T13:47:21+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "STAT+: FDA to reconsider treatment for rare cancer after surprise rejection",
-    "url": "https://www.statnews.com/2026/05/07/biotech-news-fda-reconsiders-rare-cancer-treatment-after-surprise-rejection/?utm_campaign=rss",
-    "summary": "Secret drug pricing deals, a virtual AI cancer clinic, and other biotech news from The Readout",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-07T13:23:56+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "STAT+: OpenAI’s health policy wishlist, CGM news from Dexcom, and more",
-    "url": "https://www.statnews.com/2026/05/07/openai-policy-wishlist-dexcom-cgm-updates-health-tech/?utm_campaign=rss",
-    "summary": "In this edition of STAT Health Tech: A health policy blueprint from OpenAI, CGM updates from Dexcom, and push back against whole body scans.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-07T13:14:13+00:00",
     "date_str": "May 07, 2026"
   }
 ]
