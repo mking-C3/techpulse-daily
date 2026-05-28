@@ -1,5 +1,55 @@
 [
   {
+    "title": "In a Vaccine-Skeptical California County, a Potential Playbook To Contain Measles",
+    "url": "https://kffhealthnews.org/public-health/measles-outbreak-contained-vaccine-skeptical-california-shasta-county/",
+    "summary": "Conservative Shasta County stopped a measles outbreak from spreading, enlisting teachers, church leaders, and other trusted community members to get the public on board with health guidelines. Infectious disease specialists say the successful effort could be a guide for other communities struggling to contain the highly contagious virus.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-28T09:00:00+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "Listen to the Latest ‘KFF Health News Minute’",
+    "url": "https://kffhealthnews.org/news/listen-kff-health-news-minute-2026/",
+    "summary": "The \"KFF Health News Minute\" brings original health care and health policy reporting from our newsroom to the airwaves each week.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-28T09:00:00+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "STAT+: Trump’s drug-pricing deals set to be tested by new product launches",
+    "url": "https://www.statnews.com/2026/05/28/trump-most-favored-nation-drug-pricing-secrets-revealed-soon/?utm_campaign=rss",
+    "summary": "The public is about to get its first look at the prices of drugs launched since President Trump struck his most-favored-nation deals with 17 drugmakers.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-28T08:30:00+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "STAT+: Experimental hepatitis B treatment was a ‘functional cure’ for nearly 1 in 5, new data show",
+    "url": "https://www.statnews.com/2026/05/28/hepatitis-b-treatment-gsk-clinical-trials/?utm_campaign=rss",
+    "summary": "An experimental GSK drug helped 1 in 5 patients with chronic hepatitis B achieve what's known as a functional cure, vastly outpacing current treatments.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-28T08:30:00+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "American Cancer Society says adults should start colorectal cancer screenings at 45",
+    "url": "https://www.npr.org/2026/05/28/nx-s1-5836543/american-cancer-society-says-adults-should-start-colorectal-cancer-screenings-at-45",
+    "summary": "The American Cancer Society is changing its screening recommendations for colorectal cancer, suggesting adults begin screening at age 45 and adding blood-based tests as an option.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-28T08:48:10+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
     "title": "How Bayesian Health’s Sepsis AI Tool Is Decreasing Alerts & Saving Lives",
     "url": "https://medcitynews.com/2026/05/bayesian-sepsis-ai/",
     "summary": "Bayesian Health became the first company to receive FDA clearance for a continuous AI-powered sepsis monitoring system. The clearance follows years of clinical validation studies and real-world deployments across multiple health systems. The post How Bayesian Health’s Sepsis AI Tool Is Decreasing Alerts & Saving Lives appeared first on MedCity News .",
@@ -9947,56 +9997,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-05-07T13:14:13+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "STAT+: FDA to reconsider treatment for rare cancer after its surprise rejection",
-    "url": "https://www.statnews.com/2026/05/07/fda-reconsider-rare-disease-drug-ebvallo/?utm_campaign=rss",
-    "summary": "The companies developing Ebvallo reached an agreement with the FDA to address its main reason for rejecting the drug.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-07T12:00:00+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "Hospital shootings steadily increased since 2000",
-    "url": "https://www.statnews.com/2026/05/07/health-news-hospital-shootings-steadily-on-the-rise/?utm_campaign=rss",
-    "summary": "What the FDA has lost, why hantavirus isn't the next pandemic, and more health news from Morning Rounds",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-07T11:36:24+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "STAT+: Next-gen Duchenne drug from Entrada disappoints",
-    "url": "https://www.statnews.com/2026/05/07/entrada-duchenne-exon-skipping-study-disappointment/?utm_campaign=rss",
-    "summary": "A next-gen Duchenne therapy from Entrada Therapeutics fell short in an early study, as a number of companies race to make improved drugs.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-07T11:05:12+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "STAT+: Color me skeptical: Drinking gold is not an ALS cure",
-    "url": "https://www.statnews.com/2026/05/07/clene-als-treatment-gold-does-it-work/?utm_campaign=rss",
-    "summary": "In this week's Biotech Scorecard newsletter, Adam Feuerstein takes on the company touting gold microdust suspended in water as an ALS treatment.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-07T10:30:00+00:00",
-    "date_str": "May 07, 2026"
-  },
-  {
-    "title": "STAT+: Angelini Pharma buys Catalyst Pharmaceuticals and its rare disease drugs for $4.1B",
-    "url": "https://www.statnews.com/2026/05/07/angelini-pharma-acquires-catalyst-pharmaceuticals-rare-disease-neurology-firdapse/?utm_campaign=rss",
-    "summary": "The Italian firm Angelini Pharma is buying Catalyst Pharmaceuticals, the maker of rare disease drugs, for $4.1 billion.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-07T08:34:18+00:00",
     "date_str": "May 07, 2026"
   }
 ]
