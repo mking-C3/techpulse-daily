@@ -1,5 +1,45 @@
 [
   {
+    "title": "After Her Bout of Amnesia, a $59,000 Billing Dispute Wouldn’t Go Away",
+    "url": "https://kffhealthnews.org/health-care-costs/amnesia-arizona-hospital-prior-authorization-bill-of-the-month-may-2026/",
+    "summary": "Last spring, a woman started exhibiting unusual memory problems after a hike in Arizona. It turns out she was experiencing a disorder called transient global amnesia. She has fully recovered, but a dispute over nearly $60,000 in hospital charges has been a source of stress for over a year.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-29T09:00:00+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "A Trump Stronghold Grapples With Health Risks of ICE Detention Sites",
+    "url": "https://kffhealthnews.org/race-and-health/ice-detention-center-social-circle-georgia-lawsuit-trump-stronghold/",
+    "summary": "Several rural communities were thrust into a charged national debate over the Trump administration’s mass deportation strategy when federal officials sought to place new detention centers in them. In Social Circle, Georgia, locals fear the effort will overburden its modest healthcare infrastructure.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-29T09:00:00+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "Opinion: I’m a weight-loss doctor. Here’s why I worry about GLP-1 ‘microdoses’",
+    "url": "https://www.statnews.com/2026/05/29/glp-1-microdose-popular-but-unsupported-by-evidence/?utm_campaign=rss",
+    "summary": "Long term, we don’t know what tiny doses of GLP-1s for cosmetic weight loss can do, writes a weight-loss doctor.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-29T08:30:00+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "STAT+: The woman behind the world’s biggest longevity competition",
+    "url": "https://www.statnews.com/2026/05/29/xprize-healthspan-longevity-science-jamie-justice-q-and-a/?utm_campaign=rss",
+    "summary": "Jamie Justice of XPRIZE Healthspan on the most promising research and \"purely scammy\" treatments in the world of longevity.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-29T08:30:00+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
     "title": "Walmart, Teladoc Team Up to Expand Access to Virtual Care",
     "url": "https://medcitynews.com/2026/05/walmart-teladoc-team-up-to-expand-access-to-virtual-care/",
     "summary": "Through a new partnership, Teladoc Health’s virtual services are now available on Walmart’s Better Care Services platform. The post Walmart, Teladoc Team Up to Expand Access to Virtual Care appeared first on MedCity News .",
@@ -9957,46 +9997,6 @@
     "category": "Medicare News",
     "category_slug": "medicare-news",
     "date": "2026-05-08T09:00:00+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "In California Governor Race, Single-Payer Is a Litmus Test. There’s Still No Way To Pay for It.",
-    "url": "https://kffhealthnews.org/health-care-costs/california-governor-race-single-payer-healthcare-becerra-cma-steyer/",
-    "summary": "Single-payer healthcare is a central talking point in the chaotic race for California governor. In a crowded field, top-polling Democrats are declaring their support for a government-run health system but providing few details about how they’d accomplish it in the nation’s most populous state.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-08T09:00:00+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "Adapting Healthcare Payments While Facing Financial Pressure and Economic Uncertainty",
-    "url": "https://medcitynews.com/2026/05/adapting-healthcare-payments-while-facing-financial-pressure-and-economic-uncertainty/",
-    "summary": "Practices that embrace automation, interoperability, and consumer-grade payment experiences will reduce risk, strengthen cash flow, and build lasting trust with the patients they serve. Those that delay will continue absorbing avoidable costs and volatility. The post Adapting Healthcare Payments While Facing Financial Pressure and Economic Uncertainty appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-08T13:34:00+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "When There’s No Appointment Available, Patients Are Opening ChatGPT",
-    "url": "https://medcitynews.com/2026/05/when-theres-no-appointment-available-patients-are-opening-chatgpt/",
-    "summary": "The limitations of general-purpose AI in an emotional support context aren’t what it says. They’re about what it can’t detect, including the markers of acute distress that a purpose-built system is specifically architected to recognize. The post When There’s No Appointment Available, Patients Are Opening ChatGPT appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-08T13:21:00+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "How States Can Succeed Under the Rural Health Transformation Program",
-    "url": "https://medcitynews.com/2026/05/how-states-can-succeed-under-the-rural-health-transformation-program/",
-    "summary": "Is $50 billion over five years enough to end the rural healthcare crisis or even offset the federal spending cuts? No – but it’s what states have to work with. And the pressure is on them to maximize the impact of their RHTP grants. Here’s how they can do it. The post How States Can Succeed Under the Rural Health Transformation Program appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-08T13:08:00+00:00",
     "date_str": "May 08, 2026"
   }
 ]
