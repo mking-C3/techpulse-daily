@@ -1,5 +1,155 @@
 [
   {
+    "title": "The EHR Was Built to Store Data — It Wasn’t Built to Orchestrate Care",
+    "url": "https://medcitynews.com/2026/05/the-ehr-was-built-to-store-data-it-wasnt-built-to-orchestrate-care/",
+    "summary": "The next evolution in digital health is layering intelligent orchestration on top of the EHR to activate care in real time. It’s a platform plus orchestration layer, powered by AI and designed for action. The post The EHR Was Built to Store Data — It Wasn’t Built to Orchestrate Care appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-29T13:30:00+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "The Illusion of Visibility: Why More Data Doesn’t Mean Better Decisions",
+    "url": "https://medcitynews.com/2026/05/the-illusion-of-visibility-why-more-data-doesnt-mean-better-decisions/",
+    "summary": "When every metric is treated as important, nothing actually stands out. Leaders spend more time interpreting data than acting on it. And in a system as complex as healthcare, delays in decision-making can have real operational and financial consequences. The post The Illusion of Visibility: Why More Data Doesn’t Mean Better Decisions appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-29T13:23:00+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "Aging is Soon to Be a Preventable Disease",
+    "url": "https://medcitynews.com/2026/05/aging-is-soon-to-be-a-preventable-disease/",
+    "summary": "For most of human history, cellular aging was treated as biologically fixed, an inevitable accumulation of damage with no meaningful pathway to reversal. That assumption is no longer tenable. The post Aging is Soon to Be a Preventable Disease appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-29T13:11:00+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "Kenya court suspends U.S. plan for Ebola quarantine facility for Americans",
+    "url": "https://www.statnews.com/2026/05/29/kenya-court-suspends-plan-ebola-quarantine-facility-americans/?utm_campaign=rss",
+    "summary": "A court in Kenya on Friday suspended a U.S. plan to establish a quarantine facility for Americans exposed to a rare type of Ebola virus spreading in northeastern Congo.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-29T14:59:42+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Replimune drug getting third try at FDA approval, a Pfizer deal in China, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/05/29/pharmalittle-were-reading-about-replimune-drug-getting-third-try-at-fda-approval-a-pfizer-deal-in-china-and-more/?utm_campaign=rss",
+    "summary": "Pharma updates from the Pharmalot campus via the Pharmalittle newsletter",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-29T13:34:37+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "STAT+: Allogene CEO David Chang stepping down",
+    "url": "https://www.statnews.com/2026/05/29/biotech-news-allogene-ceo-david-chang-steps-down/?utm_campaign=rss",
+    "summary": "Pfizer invests billions to buy Chinese drugs, WHO maps experimental response to Ebola outbreak, and other biotech news from The Readout",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-29T13:14:33+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "STAT+: Massachusetts sues UnitedHealth, alleging fraud in state’s Medicaid plans for seniors",
+    "url": "https://www.statnews.com/2026/05/29/united-healthcare-sued-massachusetts-ag-alleges-100-million-upcode-fraud-medicaid/?utm_campaign=rss",
+    "summary": "State AG alleges UnitedHealthcare claimed some members were sicker to boost its profits.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-29T13:00:00+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "Which vaccines will curb the Ebola outbreak? WHO debates",
+    "url": "https://www.statnews.com/2026/05/29/health-news-which-vaccines-will-curb-ebola-outbreak/?utm_campaign=rss",
+    "summary": "The growing Ebola outbreak, the unknowns of microdosing GLP-1s, and more health news from Morning Rounds",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-29T12:47:04+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "STAT+: Up and down the ladder: The latest comings and goings",
+    "url": "https://www.statnews.com/pharmalot/2026/05/29/up-and-down-the-ladder-comings-and-goings-merck-pfizer-amgen/?utm_campaign=rss",
+    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-29T12:33:46+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "Photos show the world's 'uncounted' people -- and what it takes to be counted",
+    "url": "https://www.npr.org/2026/05/29/g-s1-124682/photos-birth-certificate-death-certificate-photoville",
+    "summary": "Colombian-American photographer and filmmaker Juan Arredondo turns his lens on the people of the world who do not have birth and death certificates — and how these vital records are created.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-29T10:49:24+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "4 Deaths Tied to Mushrooms; RSV Vax Wrongful Death Lawsuit; Kenya Ebola Plan Halted",
+    "url": "https://www.medpagetoday.com/primarycare/dietnutrition/121485",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. An outbreak linked to wild mushroom foraging in California in 2025-2026 resulted in 39 cases of amatoxin mushroom poisonings, three liver transplants, and four deaths...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-29T13:36:48+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "CHAI releases AI governance guidance for health systems",
+    "url": "https://www.healthcaredive.com/news/chai-coalition-health-ai-governance-guidance-health-systems/821291/",
+    "summary": "The resources aim to offer a standard but flexible framework for health systems, regardless of their size or available resources, the industry group said.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-29T14:32:00+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "Industry Voices—Patients are building a new healthcare system. The industry is finally catching up",
+    "url": "https://www.fiercehealthcare.com/digital-health/industry-voices-patients-are-building-new-healthcare-system-industry-finally",
+    "summary": "Patients have helped create a \"shadow healthcare system\" of digital platforms, virtual clinics, diagnostic tools and consumer health services that exist alongside traditional healthcare infrastructure, writes Muse Capital Founding Partner Rachel Springate.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-29T15:29:14.576260+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "Advocate Health grows Q1 revenue by 10.8% amid higher volumes, greater efficiency",
+    "url": "https://www.fiercehealthcare.com/providers/advocate-health-grows-q1-revenue-108-higher-volumes-greater-efficiency",
+    "summary": "The nation's third-largest nonprofit recorded a 3.7% operating margin for 2026's opening quarter and improved its bottom line to $640.9 million.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-29T15:29:14.576314+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "Trump's baby boom goal sees few signs of progress",
+    "url": "https://thehill.com/policy/healthcare/5898372-trump-fertilization-policies-birth-rates/",
+    "summary": "More than one year into the second term of President Trump, who declared he would be the “fertilization president,” experts say becoming a parent hasn’t become easier, and the number of people who want children has only continued to go down. During the 2024 campaign, Trump latched on to the issue of in vitro fertilization (IVF), particularly after Minnesota Gov....",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-29T10:00:00+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
     "title": "After Her Bout of Amnesia, a $59,000 Billing Dispute Wouldn’t Go Away",
     "url": "https://kffhealthnews.org/health-care-costs/amnesia-arizona-hospital-prior-authorization-bill-of-the-month-may-2026/",
     "summary": "Last spring, a woman started exhibiting unusual memory problems after a hike in Arizona. It turns out she was experiencing a disorder called transient global amnesia. She has fully recovered, but a dispute over nearly $60,000 in hospital charges has been a source of stress for over a year.",
@@ -9847,156 +9997,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-05-08T18:08:45+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "Hantavirus: Anatomy of a Fractured Global Response",
-    "url": "https://www.medpagetoday.com/opinion/parasites-and-plagues/121175",
-    "summary": "(MedPage Today) -- Like many of you, I was deeply troubled when, on May 3, news broke that three people had died of a probable hantavirus infection and others had fallen ill on the MV Hondius, a Dutch-flagged Arctic-expedition vessel with the amenities...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-08T16:16:19+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "In Severe Scabies, Standard-Dose Ivermectin Superior to High Dose",
-    "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/121174",
-    "summary": "(MedPage Today) -- Paired with topical permethrin, a higher dose of oral ivermectin was not superior to a standard dose for cure of severe scabies, a randomized trial showed. Among patients using 5% topical permethrin and daily emollient cream...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-08T15:37:12+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "Tirofiban After Lytic Helps Select Acute Ischemic Stroke Patients",
-    "url": "https://www.medpagetoday.com/meetingcoverage/additionalmeetings/121172",
-    "summary": "(MedPage Today) -- An adjunctive infusion of tirofiban (Aggrastat) after inadequate response to thrombolytics in acute ischemic stroke without large or medium vessel occlusion or a cardioembolic source improved the likelihood of an excellent outcome...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-08T15:33:40+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "U.S. Lifts Hold on Immigration Applications for Doctors",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/workforce/121171",
-    "summary": "(MedPage Today) -- Libyan Faysal Al Ghoula, MD, must renew his green card to continue caring for roughly 1,000 patients in southwestern Indiana, but hasn't been able to since the Trump administration stopped reviewing applications for people from...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-08T14:23:06+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "Massive Pacemaker Recall After Deaths; U.S. Doc on Hantavirus Cruise; Deadly Misinfo",
-    "url": "https://www.medpagetoday.com/cardiology/generalcardiology/121169",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. The FDA issued a notice about Boston Scientific's massive recall of Accolade, Essentio, Proponent, and other pacemakers affected by a software issue linked to four...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-08T13:31:04+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "Federation of American Hospitals taps new government relations head",
-    "url": "https://www.healthcaredive.com/news/federation-american-hospitals-taps-new-government-relations-elizabeth-schwartz/819601/",
-    "summary": "Elizabeth Schwartz will head up government relations at the for-profit hospital trade association as health systems brace for federal funding cuts.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-08T15:07:04+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "Cross Country Healthcare to be taken private by PE firm for $437M",
-    "url": "https://www.healthcaredive.com/news/cross-country-healthcare-acquired-knox-lane-437-million-healthcare-staffing/819696/",
-    "summary": "The deal comes months after an acquisition by travel nursing agency Aya Healthcare collapsed.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-08T14:14:37+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "How policy, reimbursement incentives, could help healthcare address its climate footprint",
-    "url": "https://www.fiercehealthcare.com/regulatory/study-incentives-healthcare-address-its-climate-footprint",
-    "summary": "Climate change poses clear risks to healthcare, a recently published Health Affairs analysis reads, making recommendations on decarbonization and climate resilience strategies.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-08T19:17:21.145038+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "Op-ed: It's time to make more strategic bets on AI in healthcare",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/op-ed-its-time-make-more-strategic-bets-ai-healthcare",
-    "summary": "EY's John Ward outlines how healthcare leaders with limited investment resources make the right AI moves for near-term and long-term value.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-08T19:17:21.145095+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "Makary to leave as FDA commissioner after tumultuous year, White House source says",
-    "url": "https://www.politico.com/news/2026/05/08/makary-leave-as-fda-commissioner-white-house-source-00911981",
-    "summary": "The FDA chief was recently pressured to authorize flavored vapes by President Donald Trump.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-08T18:07:55+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "Alzheimer's study finds link between breakfast staple and reduced risk of disease",
-    "url": "https://thehill.com/policy/healthcare/5870124-alzheimers-study-eating-eggs-lower-risk/",
-    "summary": "A study from researchers at Loma Linda University in California suggests a specific nutrient-rich food — fairly frequently — could be linked to lower risk of Alzheimer’s disease among older adults.",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-08T19:06:19+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "Louisiana urges Supreme Court to uphold order blocking mailing of abortion pill",
-    "url": "https://thehill.com/policy/healthcare/5870067-louisiana-supreme-court-mail-in-abortion-ruling/",
-    "summary": "Louisiana officials in a court filing urged the Supreme Court to leave in place an order from a lower court that blocks women nationwide from obtaining a widely used abortion medication through the mail. The Trump administration, trying to straddle the line on abortion, was silent. Last week, Justice Samuel Alito temporarily paused an order from the conservative U.S. Court of Appeals...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-08T18:17:21+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "Is there a treatment for hantavirus?",
-    "url": "https://thehill.com/policy/healthcare/5869730-is-there-a-treatment-for-hantavirus/",
-    "summary": "Health officials in numerous countries are working to contain the spread of illnesses linked to a hantavirus outbreak traced back to a now-deceased passenger on a Dutch cruise ship.",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-08T15:51:19+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "CDC hantavirus outbreak classification lowest emergency activation level: Report",
-    "url": "https://thehill.com/policy/healthcare/5869488-cdc-hantavirus-outbreak-low-emergency-cdc/",
-    "summary": "The Centers for Disease Control and Prevention (CDC) has activated its 24/7 emergency center and classified hantavirus at the lowest activation level, according to a report Thursday evening. The CDC’s Emergency Operations Center (EOC) has three activation levels, with Level 1 being the most severe and Level 3 being the least. The public health agency...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-08T14:00:19+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "Listen: A Federal Agency Is After Workers’ Health Data, and Critics Are Alarmed",
-    "url": "https://kffhealthnews.org/health-industry/wamu-health-hub-opm-federal-worker-unredacted-medical-records-hipaa-audio/",
-    "summary": "The Trump administration is seeking unprecedented access to medical records of federal workers and retirees, and their families. The data could be used to implement cost-saving measures, but it would also give the administration access to reams of personal information. Legal experts and insurers say the pursuit is overbroad.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-08T09:00:00+00:00",
     "date_str": "May 08, 2026"
   }
 ]
