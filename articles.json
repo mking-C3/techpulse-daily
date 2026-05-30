@@ -1,5 +1,145 @@
 [
   {
+    "title": "Healthcare Moves: A Monthly Summary of Hires, Exits and Layoffs",
+    "url": "https://medcitynews.com/2026/05/healthcare-moves-layoffs-executive/",
+    "summary": "May has seen a slew of executive hires, exits and layoffs across the healthcare industry. For instance, Abridge, Highmark Health and Merck named new executives. There were also layoffs at organizations including Innovaccer, Intermountain Health and Novartis. The post Healthcare Moves: A Monthly Summary of Hires, Exits and Layoffs appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-29T22:27:08+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "Pfizer’s $10.5B Deal With One of China’s Top Cancer Biotechs Is Another Sign the Game is Changing",
+    "url": "https://medcitynews.com/2026/05/pfizer-innovent-biologics-china-cancer-antibody-drug-conjugate-adc-pfe/",
+    "summary": "Pfizer unveiled a multi-drug R&D collaboration with Innovent Biologics, making it the latest big pharma company to reach a deal that taps into Chinese labs to source biotech innovation. This alliance will focus on developing next-generation drugs in the class of targeted cancer therapies called antibody drug conjugates. The post Pfizer’s $10.5B Deal With One of China’s Top Cancer Biotechs Is Another Sign the Game is Changing appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-29T22:20:47+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "STAT+: At ASCO, positive data for Bristol in multiple myeloma and Pfizer in lung cancer",
+    "url": "https://www.statnews.com/2026/05/29/asco-news-day-1-multiple-myeloma-bristol-lung-cancer-pfizer/?utm_campaign=rss",
+    "summary": "You’re reading the web edition of ASCO in 30 Seconds, STAT’s guide to the American Society of Clinical Oncology annual meeting. Sign up for email editions here. We’re ASCOmaxxing. Rest…",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-29T21:32:26+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "Common myths about gut health",
+    "url": "https://www.npr.org/2026/05/29/nx-s1-5826918/common-myths-about-gut-health",
+    "summary": "Marketers sell all kinds of tests and supplements to fix your gut health. But is any of this actually worth spending money on?",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-29T20:40:34+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "Targeted Lung Cancer Drug Aces Confirmatory Trial in Frontline Setting",
+    "url": "https://www.medpagetoday.com/meetingcoverage/asco/121506",
+    "summary": "(MedPage Today) -- CHICAGO -- An oral targeted drug reduced the risk of disease progression or death by 35% compared with chemotherapy when given as first-line treatment for non-small cell lung cancer (NSCLC) patients with EGFR exon 20 insertions...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-29T21:44:20+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "Cardiac Amyloidosis Diagnosis Gets a More Extensive AI Model",
+    "url": "https://www.medpagetoday.com/cardiology/chf/121505",
+    "summary": "(MedPage Today) -- Researchers unveiled a new multimodal artificial intelligence (AI) algorithm for cardiac amyloidosis (CA) diagnosis, a tool showing promise for greater accuracy and sensitivity in the real world. The AI echo-clinical model ...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-29T21:30:30+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "Enhanced MRI Tops Ultrasound in Catching Early Liver Cancer",
+    "url": "https://www.medpagetoday.com/meetingcoverage/easl/121504",
+    "summary": "(MedPage Today) -- Enhanced, abbreviated MRI (AMRI) outperformed ultrasonography (US) as a screen for early liver cancer in high-risk patients with cirrhosis, according to a single-center, randomized clinical trial. Overall, AMRI yielded significantly...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-29T21:10:57+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "What Did FDA Vaccine Advisors Decide This Week?",
+    "url": "https://www.medpagetoday.com/quizzes/news-quiz/121502",
+    "summary": "(MedPage Today) -- You passed medical training, now see if you can pass our weekly quiz",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-29T20:54:00+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "No Difference in Complications for Chiari I Surgical Approaches in Kids, Study Shows",
+    "url": "https://www.medpagetoday.com/pediatrics/generalpediatrics/121501",
+    "summary": "(MedPage Today) -- For kids with Chiari type I malformation and syringomyelia, there was no significant difference in surgical complications whether they had decompression with or without duraplasty, a cluster-randomized controlled trial showed...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-29T20:49:15+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "Bispecific Antibody Boosts Survival in Relapsed/Refractory Multiple Myeloma",
+    "url": "https://www.medpagetoday.com/meetingcoverage/asco/121500",
+    "summary": "(MedPage Today) -- CHICAGO -- Teclistamab (Tecvayli) monotherapy significantly improved survival compared with standard therapies in patients with multiple myeloma who had received up to three previous lines of therapy, the phase III MajesTEC...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-29T20:37:57+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "PCSK9 Inhibitors Linked to Better Survival in Some Cancer Patients on Immunotherapy",
+    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/121499",
+    "summary": "(MedPage Today) -- Use of a PCSK9 inhibitor to lower lipid levels was linked with significantly better survival in patients with certain cancers treated with immune checkpoint inhibitors (ICIs), a matched-cohort study showed. Treatment with a...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-29T20:35:30+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "FDA Sets Sights on Animal Testing; AI Privacy Threat; Chewing Gum for Cancer?",
+    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/121497",
+    "summary": "(MedPage Today) -- The FDA issued draft guidance aimed at reducing unnecessary use of animal testing for cancer drugs. Former U.S. Attorney General Pam Bondi, 60, acknowledged that she has thyroid cancer. (People) Work requirements for Medicaid...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-29T19:31:33+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "CMS grants Elevance Health a reprieve from Medicare Advantage sanctions",
+    "url": "https://www.fiercehealthcare.com/payers/cms-set-suspend-enrollment-elevance-healths-medicare-advantage-plans",
+    "summary": "Elevance Health has earned a reprieve from potential federal sanctions on its Medicare Advantage plans.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-05-30T03:22:18.929427+00:00",
+    "date_str": "May 30, 2026"
+  },
+  {
+    "title": "Jill Biden calls husband's cancer diagnosis 'shocking': 'Somehow that was missed'",
+    "url": "https://thehill.com/blogs/in-the-know/5901758-joe-biden-prostate-cancer-diagnosis-jill-biden/",
+    "summary": "Former first lady Jill Biden opened up about her husband’s battle with prostate cancer in a new interview. She said in a preview clip released Friday from an interview with CBS News’s Rita Braver that former President Biden’s cancer diagnosis was “shocking.” The former president revealed his diagnosis last year in May, and a spokesperson...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-29T19:48:40+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
     "title": "Budget-Strapped Montana Will Stress-Test Trump’s Medicaid Work Rules",
     "url": "https://kffhealthnews.org/medicaid/the-week-in-brief-montana-medicaid/",
     "summary": "Get our weekly newsletter, The Week in Brief, featuring a roundup of our original coverage, Fridays at 2 p.m. ET.",
@@ -9858,145 +9998,5 @@
     "category_slug": "medicare-news",
     "date": "2026-05-08T23:36:19+00:00",
     "date_str": "May 08, 2026"
-  },
-  {
-    "title": "Odyssey’s IPO Brings In $304M for Quest to Develop Better Immunology Drugs",
-    "url": "https://medcitynews.com/2026/05/odyssey-therapeutics-ipo-gary-glick-ulcerative-colitis-immunology-inflammation-ibd-odtx/",
-    "summary": "Ulcerative colitis is the lead indication for Odyssey Therapeutics’ internally discovered lead drug candidate. With the IPO proceeds, Odyssey plans mid-stage clinical trials evaluating the small molecule in combination with Takeda’s Entyvio and as a monotherapy. The post Odyssey’s IPO Brings In $304M for Quest to Develop Better Immunology Drugs appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-08T20:16:00+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "Spain readies for evacuations as a hantavirus-hit cruise ship heads for the Canary Islands",
-    "url": "https://www.statnews.com/2026/05/08/hantavirus-outbreak-cruise-ship-spain-evacuations-canary-islands/?utm_campaign=rss",
-    "summary": "Spanish authorities on Friday were preparing to receive more than 140 passengers and crew members on board a hantavirus-stricken cruise ship headed for the Canary Islands.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-08T19:57:17+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "STAT+: Roche to buy PathAI for $750 million",
-    "url": "https://www.statnews.com/2026/05/08/roche-acquire-startup-pathai-750-million-upfront/?utm_campaign=rss",
-    "summary": "Roche has signed a deal to acquire PathAI to speed up its use of artificial intelligence to help pathologists diagnose diseases.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-08T19:29:36+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "Lack of U.S. response to hantavirus outbreak worries public health experts",
-    "url": "https://www.npr.org/2026/05/08/nx-s1-5816041/lack-of-u-s-response-to-hantavirus-outbreak-worries-public-health-experts",
-    "summary": "Public health experts are raising concerns about why the U.S. government hasn't had a more public response to the hantavirus outbreak that started on a cruise ship.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-08T20:40:02+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "FDA Wants Better Pregnancy Safety Data on Approved Drugs",
-    "url": "https://www.medpagetoday.com/obgyn/pregnancy/121191",
-    "summary": "(MedPage Today) -- The FDA on Friday issued guidance for manufacturers collecting postmarketing data on the safety of approved drugs and biologics in pregnancy, with the goal of better understanding potential risks for the pregnant patient and...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-08T21:37:32+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "Female Nephrologists Find Barriers to Achieving Goals in Academic Medicine",
-    "url": "https://www.medpagetoday.com/meetingcoverage/nkf/121190",
-    "summary": "(MedPage Today) -- Inequities persisted among female nephrologists at U.S. academic institutions, with barriers to advancement and burnout among the reasons many felt a lack of satisfaction, an interim analysis of survey data showed. Among 32...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-08T21:36:12+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "How Public Health Officials Are Contact Tracing for Hantavirus",
-    "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/121189",
-    "summary": "(MedPage Today) -- Hantaviruses do not spread easily between people, which makes health officials confident the recent outbreak on a cruise ship that has killed three people will not turn into an epidemic. But, still, they need to make sure. So...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-08T21:25:24+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "Are Passengers From the Hantavirus-Hit Cruise Ship in the U.S.?",
-    "url": "https://www.medpagetoday.com/quizzes/news-quiz/121184",
-    "summary": "(MedPage Today) -- You passed medical training, now see if you can pass our weekly quiz",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-08T21:04:43+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "Sacroiliac Bone Edema: Overrated as Diagnostic Marker of Spondyloarthritis?",
-    "url": "https://www.medpagetoday.com/rheumatology/arthritis/121188",
-    "summary": "(MedPage Today) -- Some 30% of a large general-population sample in Germany showed sacroiliac bone marrow edema (SBME) in MRI scans, a new study found, casting doubt on whether such findings are indicative of axial spondyloarthritis (axSpA). Among...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-08T20:54:00+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "The Unconscious Brain Is Still Listening, New Study Shows",
-    "url": "https://www.medpagetoday.com/neurology/generalneurology/121187",
-    "summary": "(MedPage Today) -- The human brain appeared to process complex sensory information under general anesthesia, challenging long-held assumptions about consciousness, neural recordings from a small experiment suggested. Hippocampal neurons and local...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-08T20:39:16+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "Oral Agent for Diabetic Macular Edema Misses Mark but Still Shows Promise",
-    "url": "https://www.medpagetoday.com/meetingcoverage/arvo/121186",
-    "summary": "(MedPage Today) -- DENVER -- An investigational oral therapy for diabetic macular edema (DME) did not significantly affect retinal thickening in a placebo-controlled randomized trial. After 6 months of treatment, mean central subfield thickness...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-08T20:23:10+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "Co-Antibody Therapy Effective in Highly Refractory IBD",
-    "url": "https://www.medpagetoday.com/meetingcoverage/ddw/121185",
-    "summary": "(MedPage Today) -- The co-antibody therapy JNJ-4804 -- a fixed-dose combination of guselkumab (Tremfya) and golimumab (Simponi) -- showed clinically meaningful efficacy exceeding that of either drug alone in patients with highly refractory...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-08T20:04:31+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "Oncologist on Hantavirus Cruise; Bile Duct Cancer Drug OK'd; Untreated Lung Cancers",
-    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/121183",
-    "summary": "(MedPage Today) -- Oregon oncologist Stephen Kornfeld, MD, was a passenger on the MV Hondius but ended up treating hantavirus patients when the ship's onboard physician became seriously ill. (CNN) The FDA announced approval of zenocutuzumab (Bizengri...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-08T19:43:50+00:00",
-    "date_str": "May 08, 2026"
-  },
-  {
-    "title": "Sanford Health unveils deal to integrate Minnesota-area North Memorial Health, invest $600M",
-    "url": "https://www.fiercehealthcare.com/providers/sanford-health-unveils-deal-integrate-minnesota-area-north-memorial-health-invest-600m",
-    "summary": "The deal, expected to close later this year, is another attempt from the major rural nonprofit system to enter the Minneapolis market. To do so, it plans a $600 million investment into the two-hospital North Memorial Health, which will help stabilize one financially strained safety-net facility and double the size of the other.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-09T02:47:29.535381+00:00",
-    "date_str": "May 09, 2026"
   }
 ]
