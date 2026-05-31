@@ -1,5 +1,115 @@
 [
   {
+    "title": "Medical Education Is at a Crossroads. AI Isn’t the Problem — It’s the Mirror",
+    "url": "https://medcitynews.com/2026/05/medical-education-is-at-a-crossroads-ai-isnt-the-problem-its-the-mirror/",
+    "summary": "The real question is whether we’re being honest with ourselves about what medical education was designed to produce, and whether our current system is still doing that job. The post Medical Education Is at a Crossroads. AI Isn’t the Problem — It’s the Mirror appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-31T13:42:00+00:00",
+    "date_str": "May 31, 2026"
+  },
+  {
+    "title": "Preparing Benefits For the Next Wave: Gene Therapy Medications",
+    "url": "https://medcitynews.com/2026/05/preparing-benefits-for-the-next-wave-gene-therapy-medications/",
+    "summary": "The rise of metabolic gene therapies represents a critical juncture for benefits management. These treatments offer genuine hope for patients with serious conditions, but they also pose significant financial challenges. The post Preparing Benefits For the Next Wave: Gene Therapy Medications appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-05-31T13:19:00+00:00",
+    "date_str": "May 31, 2026"
+  },
+  {
+    "title": "STAT+: For prostate cancer patients set on surgery, new hormone regimen may improve outcomes, study finds",
+    "url": "https://www.statnews.com/2026/05/31/prostate-cancer-hormone-therapy-cut-relapse-asco-2026/?utm_campaign=rss",
+    "summary": "By doing hormone therapy up front in prostate cancer cases, the hope was to shrink the relapse rate after surgery. Results were encouraging.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-31T12:00:00+00:00",
+    "date_str": "May 31, 2026"
+  },
+  {
+    "title": "STAT+: Akeso and Summit’s ivonescimab extends survival in squamous cell lung cancer",
+    "url": "https://www.statnews.com/2026/05/31/squamous-cell-lung-cancer-akeso-summit-harmoni-asco-2026/?utm_campaign=rss",
+    "summary": "A lung cancer drug developed in China was a highlight of ASCO but doctors want to see follow-up in a more diverse population.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-31T12:00:00+00:00",
+    "date_str": "May 31, 2026"
+  },
+  {
+    "title": "STAT+: Practice-changing results reported for Revolution Medicines pancreatic cancer drug",
+    "url": "https://www.statnews.com/2026/05/31/pancreatic-cancer-daraxonrasib-revolution-medicines-results-asco-2026/?utm_campaign=rss",
+    "summary": "Much-awaited results at ASCO show that scientists have indeed found a way to drug a \"greasy ball\" involved in pancreatic cancer.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-31T12:00:00+00:00",
+    "date_str": "May 31, 2026"
+  },
+  {
+    "title": "Experimental pill promises new hope for deadly pancreatic cancer",
+    "url": "https://www.npr.org/2026/05/31/nx-s1-5841859/experimental-pill-new-hope-pancreatic-cancer",
+    "summary": "A novel pill helped people with advanced pancreatic cancer live longer, researchers reported Sunday, raising hopes of long-needed better treatments for one of the deadliest types of cancer.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-31T13:00:47+00:00",
+    "date_str": "May 31, 2026"
+  },
+  {
+    "title": "The biggest permanent desert lake threatens with rising waters and hungry crocs",
+    "url": "https://www.npr.org/2026/05/31/g-s1-122887/lake-turkana-kenya-climate-rising-waters-fishing-crocodiles",
+    "summary": "Kenya's Lake Turkana is the world's largest permanent desert lake. Its waters have long sustained hundreds of thousands. Now the lake is facing multiple threats — and threatening those who rely on it.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-31T12:24:28+00:00",
+    "date_str": "May 31, 2026"
+  },
+  {
+    "title": "Amid a slew of chemical accidents, the agency that investigates them is under threat",
+    "url": "https://www.npr.org/2026/05/31/nx-s1-5837626/amid-a-slew-of-chemical-accidents-the-agency-that-investigates-them-is-under-threat",
+    "summary": "NPR's Ayesha Rascoe speaks with former member of the U.S. Chemical Safety Board Rick Engler about the current state of chemical safety following a string of incidents in the U.S.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-31T12:09:27+00:00",
+    "date_str": "May 31, 2026"
+  },
+  {
+    "title": "Pancreatic cancer was once considered almost untreatable. A new drug is offering hope",
+    "url": "https://www.npr.org/2026/05/31/nx-s1-5834957/pancreatic-cancer-was-once-considered-almost-untreatable-a-new-drug-is-offering-hope",
+    "summary": "A new drug for pancreatic cancer gives some hope for one of the most dire types of cancer.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-05-31T12:09:23+00:00",
+    "date_str": "May 31, 2026"
+  },
+  {
+    "title": "'A Grand Slam' in Pancreatic Cancer: Novel Pill Doubles Survival",
+    "url": "https://www.medpagetoday.com/meetingcoverage/asco/121511",
+    "summary": "(MedPage Today) -- CHICAGO -- RASolute 302 trial results were hailed as a game-changing breakthrough in the treatment of pancreatic cancer. The phase III study showed that second-line daraxonrasib, an investigational oral RAS(ON) multi-selective...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-31T12:00:00+00:00",
+    "date_str": "May 31, 2026"
+  },
+  {
+    "title": "GOP's Bill Cassidy faces new decisions on bucking Trump",
+    "url": "https://thehill.com/policy/healthcare/5901986-senate-health-committee-cassidy-trump/",
+    "summary": "Sen. Bill Cassidy (R-La.) finds himself in a unique position: scorned by President Trump and out of the running for reelection, but still in charge of the highly influential Senate health committee, which can block nominees to head three health agencies currently without permanent leaders. The next few months could determine whether his legacy is restraining...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-05-31T10:00:00+00:00",
+    "date_str": "May 31, 2026"
+  },
+  {
     "title": "STAT+: BioNTech and Pfizer tout bispecifics data at ASCO, and Pazdur sees silver lining at FDA",
     "url": "https://www.statnews.com/2026/05/30/asco-news-day-2-biontech-pfizer-kelun-merck-pazdur/?utm_campaign=rss",
     "summary": "ASCO, Day 2: promising news around lung cancer, new immunotherapies, and bold words from Rick Pazdur.",
@@ -9887,116 +9997,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-05-10T20:32:40+00:00",
-    "date_str": "May 10, 2026"
-  },
-  {
-    "title": "'Is This Going to Become Another Pandemic?': What We Heard This Week",
-    "url": "https://www.medpagetoday.com/opinion/what-we-heard/121176",
-    "summary": "(MedPage Today) -- \"Is this going to become another pandemic? No. Are we learning a lot? Yes.\" -- Carlos del Rio, MD, of Emory University in Atlanta, addressing concerns over the recent cruise ship-related hantavirus outbreak. \"Can this data...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-10T20:00:00+00:00",
-    "date_str": "May 10, 2026"
-  },
-  {
-    "title": "Protein Supplement Tied to Better Outcomes for Patients on Dialysis",
-    "url": "https://www.medpagetoday.com/meetingcoverage/nkf/121194",
-    "summary": "(MedPage Today) -- Intradialytic oral protein supplementation was linked with improvements in several nutritional markers and real-world outcomes for patients on hemodialysis, according to a quality improvement study. After 12 months, patients...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-10T18:19:11+00:00",
-    "date_str": "May 10, 2026"
-  },
-  {
-    "title": "One American has tested positive for hantavirus, another has mild symptoms",
-    "url": "https://www.politico.com/news/2026/05/10/one-cruise-ship-passenger-returning-to-the-u-s-showing-mild-hantavirus-symptoms-00913723",
-    "summary": "A flight carrying 17 Americans who were on a cruise ship where a hantavirus outbreak occurred is returning to the U.S.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-11T02:55:19+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "Sanders, Moore tout bipartisan solutions to address maternal healthcare gaps",
-    "url": "https://thehill.com/policy/healthcare/5871893-maternal-health-care-gap/",
-    "summary": "Arkansas Gov. Sarah Huckabee Sanders (R) and Maryland Gov. Wes Moore (D) on Sunday stressed the need for bipartisan cooperation to address maternal healthcare gaps. On Mother’s Day, the two spoke to host Kristen Welker on NBC's “Meet the Press” about their work to improve access to care for mothers. Sanders, a mother to three...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-10T22:11:12+00:00",
-    "date_str": "May 10, 2026"
-  },
-  {
-    "title": "Trump administration launches Moms.gov on Mother’s Day",
-    "url": "https://thehill.com/homenews/administration/5871874-trump-launches-moms-gov-website/",
-    "summary": "The Trump administration launched the website Moms.gov on Mother’s Day in an effort to help provide resources to expecting women and their families. The site’s tagline says it's “addressing the needs of mothers and fathers who face difficult or unexpected pregnancies and ensuring the well-being of mothers and the health of American families.” Information on...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-10T22:09:17+00:00",
-    "date_str": "May 10, 2026"
-  },
-  {
-    "title": "Was Mount Sinai’s Victory in a Dispute Over a Physician’s Credentialing Worth It?",
-    "url": "https://medcitynews.com/2026/05/was-mount-sinais-victory-in-a-dispute-over-a-physicians-credentialing-worth-it/",
-    "summary": "An independent orthopedic surgeon in New York is claiming that he is being unfairly pushed out of a regional hospital owned by Mount Sinai Health System. The post Was Mount Sinai’s Victory in a Dispute Over a Physician’s Credentialing Worth It? appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-10T16:37:30+00:00",
-    "date_str": "May 10, 2026"
-  },
-  {
-    "title": "Windward Bio Secures $165M for Clinical Trials in Asthma, COPD & More",
-    "url": "https://medcitynews.com/2026/05/windward-bio-tslp-long-acting-antibody-immunology-asthma-copd-crossover/",
-    "summary": "Immunology-focused Windward Bio raised a mega-round of financing to support a lead program in development for respiratory disorders and a second program that could find use in respiratory and dermatological indications. Both drugs are long-acting antibodies that offer a dosing edge over currently available biologic medicines. The post Windward Bio Secures $165M for Clinical Trials in Asthma, COPD & More appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-10T15:30:52+00:00",
-    "date_str": "May 10, 2026"
-  },
-  {
-    "title": "DOJ Doubles Down on Healthcare Fraud Enforcement with New West Coast Strike Force",
-    "url": "https://medcitynews.com/2026/05/doj-healthcare-fraud/",
-    "summary": "The Department of Justice’s new “West Coast” strike force targets Arizona, Nevada and Northern California — regions flagged for rising Medicaid, hospice and tech-enabled fraud risks. Legal experts say the effort signals a broader shift toward data-driven enforcement, as regulators ramp up their scrutiny of telehealth companies and billing automation software. The post DOJ Doubles Down on Healthcare Fraud Enforcement with New West Coast Strike Force appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-10T15:11:00+00:00",
-    "date_str": "May 10, 2026"
-  },
-  {
-    "title": "States are Advancing Homecare’s Next Big Step — Paying Caregivers for Skill, Not Just Time",
-    "url": "https://medcitynews.com/2026/05/states-are-advancing-homecares-next-big-step-paying-caregivers-for-skill-not-just-time/",
-    "summary": "By investing upfront in a more highly trained homecare workforce, states can avoid the massive costs associated with acute interventions and admissions to hospitals and residential facilities. The post States are Advancing Homecare’s Next Big Step — Paying Caregivers for Skill, Not Just Time appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-10T13:36:00+00:00",
-    "date_str": "May 10, 2026"
-  },
-  {
-    "title": "GLP-1s, Specialty Spend, and a 9% Cost Surge: Why Employers Must Rethink Primary Care Now",
-    "url": "https://medcitynews.com/2026/05/glp-1s-specialty-spend-and-a-9-cost-surge-why-employers-must-rethink-primary-care-now/",
-    "summary": "The question isn’t whether costs will rise. It’s whether employers will continue managing around the margins — or address the root cause. The post GLP-1s, Specialty Spend, and a 9% Cost Surge: Why Employers Must Rethink Primary Care Now appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-10T13:25:00+00:00",
-    "date_str": "May 10, 2026"
-  },
-  {
-    "title": "A chocolate laboratory in Italy will be good for chocolate eaters — and farmers",
-    "url": "https://www.npr.org/2026/05/10/g-s1-120911/chocolate-certified-cacao-standards-evaluate-coffee-wine",
-    "summary": "The chocolate biz is raising the bar with a lab to assess cacao beans from around the world. (Talk about a sweet gig!) Consumers and farmers stand to benefit from the \"Standard of Excellence\" program.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-10T14:07:06+00:00",
     "date_str": "May 10, 2026"
   }
 ]
