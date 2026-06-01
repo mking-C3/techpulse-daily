@@ -1,5 +1,285 @@
 [
   {
+    "title": "Are We Measuring Metabolic Health All Wrong?",
+    "url": "https://medcitynews.com/2026/06/are-we-measuring-metabolic-health-all-wrong/",
+    "summary": "A fragmented system built on isolated metrics like BMI and A1C fails to capture the full picture of metabolic health and limits our ability to manage it effectively. The post Are We Measuring Metabolic Health All Wrong? appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-01T13:58:00+00:00",
+    "date_str": "Jun 01, 2026"
+  },
+  {
+    "title": "Scaling AI in Health Systems: From Innovation to Sustainable Implementation",
+    "url": "https://medcitynews.com/2026/06/scaling-ai-in-health-systems-from-innovation-to-sustainable-implementation/",
+    "summary": "By adopting interpretation-driven, clinically intelligent technologies, revenue cycle teams can ensure that every nuance of care is accurately represented. This safeguards revenue integrity while maintaining the highest standards of compliance. The post Scaling AI in Health Systems: From Innovation to Sustainable Implementation appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-01T13:41:00+00:00",
+    "date_str": "Jun 01, 2026"
+  },
+  {
+    "title": "The Most Expensive Queue in Healthcare Isn’t Prior Auth — It’s the IT Backlog",
+    "url": "https://medcitynews.com/2026/06/the-most-expensive-queue-in-healthcare-isnt-prior-auth-its-the-it-backlog/",
+    "summary": "Every month a legitimate workflow improvement sits in queue, the organization pays for the problem twice: once in the inefficiency the change was supposed to fix, and again in the workaround everyone built to get through the week. The backlog doesn’t show up as a line item. It shows up everywhere else. The post The Most Expensive Queue in Healthcare Isn’t Prior Auth — It’s the IT Backlog appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-01T13:15:00+00:00",
+    "date_str": "Jun 01, 2026"
+  },
+  {
+    "title": "As FDA misses deadline on electric shock ban, disability advocates speak out",
+    "url": "https://www.statnews.com/2026/06/01/fda-misses-deadline-electric-shock-ban-disability-advocates-speak-out/?utm_campaign=rss",
+    "summary": "The FDA has missed a self-imposed deadline to ban the use of electrical shock devices in people with intellectual disabilities.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-01T15:30:14+00:00",
+    "date_str": "Jun 01, 2026"
+  },
+  {
+    "title": "STAT+: Medicare’s mum on GLP-1s, and Massachusetts sues United",
+    "url": "https://www.statnews.com/2026/06/01/medicare-bridge-obesity-drug-coverage-no-surprises-act-idr-rules-health-care-inc/?utm_campaign=rss",
+    "summary": "We've been asking Medicare for weeks about the cost of giving seniors $50 obesity drugs.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-01T15:14:34+00:00",
+    "date_str": "Jun 01, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about pancreatic and lung cancer drugs, China biotech growth, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/06/01/asco-pancreatic-lung-cancer-drugs-china-growth-as-drug-developer/?utm_campaign=rss",
+    "summary": "Detailed study data for a pancreatic cancer treatment from Revolution Medicines confirmed it increased overall survival, from 13.2 months to 6.7 months",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-01T13:30:37+00:00",
+    "date_str": "Jun 01, 2026"
+  },
+  {
+    "title": "Opinion: What should hospitals do when patients demand unvaccinated donor blood?",
+    "url": "https://www.statnews.com/2026/06/01/unvaccinated-blood-donor-directed-donation-transcript/?utm_campaign=rss",
+    "summary": "“You have to understand a person's belief if you want to address it,” Deva Sharma says on the “First Opinion Podcast” about requests for unvaccinated donor blood.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-01T13:25:29+00:00",
+    "date_str": "Jun 01, 2026"
+  },
+  {
+    "title": "STAT+: A turning point for pancreatic cancer patients",
+    "url": "https://www.statnews.com/2026/06/01/biotech-news-turning-point-for-pancreatic-cancer-revmed/?utm_campaign=rss",
+    "summary": "Eli Lilly announces two China deals, Akeso's lung cancer bispecific payoff, and more biotech news from The Readout",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-01T13:12:36+00:00",
+    "date_str": "Jun 01, 2026"
+  },
+  {
+    "title": "CDC says containing the spread of Ebola is top priority",
+    "url": "https://www.statnews.com/2026/06/01/health-news-cdc-says-containing-ebola-spread-is-top-priority/?utm_campaign=rss",
+    "summary": "The Trump administration disregards infectious disease playbook, CEPI offers vaccine funding, and other health news from Morning Rounds",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-01T12:57:15+00:00",
+    "date_str": "Jun 01, 2026"
+  },
+  {
+    "title": "STAT+: Servier to buy Edgewise Therapeutics’ muscular dystrophy drug",
+    "url": "https://www.statnews.com/2026/06/01/servier-edgewise-therapeutics-muscular-dystrophy-drug-sevasemten/?utm_campaign=rss",
+    "summary": "The French pharma firm Servier is buying an experimental muscular dystrophy drug from Edgewise Therapeutics for $1.55 billion upfront.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-01T12:31:00+00:00",
+    "date_str": "Jun 01, 2026"
+  },
+  {
+    "title": "A cancer vaccine made just for you. mRNA is back and it's fighting melanoma",
+    "url": "https://www.npr.org/2026/06/01/nx-s1-5827041/cancer-vaccine-mrna-melanoma",
+    "summary": "A study finds that an mRNA vaccine is highly effective at preventing recurrence of this dangerous skin cancer, when used in combination with Keytruda, an immunotherapy drug.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-01T12:00:00+00:00",
+    "date_str": "Jun 01, 2026"
+  },
+  {
+    "title": "Albumin 5% Cut Mortality Rates in Sudden Liver Failure With Other Organ Failure",
+    "url": "https://www.medpagetoday.com/meetingcoverage/easl/121526",
+    "summary": "(MedPage Today) -- Plasma exchange with albumin 5% (Albutein 5%, PE-A5%) added to standard medical treatment (SMT) improved outcomes in patients with acute-on-chronic liver failure (ACLF), according to the randomized phase III APACHE trial. Among...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-01T16:58:20+00:00",
+    "date_str": "Jun 01, 2026"
+  },
+  {
+    "title": "Risk of Tardive Dyskinesia Higher in Women",
+    "url": "https://www.medpagetoday.com/spotlight/tardive-dyskinesia/121525",
+    "summary": "(MedPage Today) -- Patients taking antidopaminergic agents are at risk of developing tardive dyskinesia (TD), a disorder characterized by abnormal, involuntary movements of the face, trunk, and limbs. However, women may face a higher risk than...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-01T16:26:02+00:00",
+    "date_str": "Jun 01, 2026"
+  },
+  {
+    "title": "Read the Results of Trump's 2026 Physical Exam",
+    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/121524",
+    "summary": "(MedPage Today) -- On May 26, 2026, President Donald J. Trump underwent his annual medical examination at Walter Reed National Military Medical Center. This comprehensive preventive evaluation included a thorough review of all diagnostic studies...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-01T15:03:02+00:00",
+    "date_str": "Jun 01, 2026"
+  },
+  {
+    "title": "Participate in an Anonymous Study on Nurses' Mental Health Experiences",
+    "url": "https://www.medpagetoday.com/nursing/nurses-station/121523",
+    "summary": "(MedPage Today) -- Dear Colleagues, In various nursing forums, nurses have candidly shared their experiences with mental health challenges. Many have also expressed concerns about seeking support for these challenges due to fears about privacy...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-01T14:01:02+00:00",
+    "date_str": "Jun 01, 2026"
+  },
+  {
+    "title": "FDA's 'Big Dick Energy!' Warning; UHC Retreats on Prior Auth; Nurses Beat Ebola",
+    "url": "https://www.medpagetoday.com/urology/erectiledysfunction/121522",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. The FDA warned that \"Big Dick Energy!\" -- a supplement touted for male sexual enhancement -- could be harmful as it has the hidden ingredient tadalafil (Cialis...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-01T13:36:49+00:00",
+    "date_str": "Jun 01, 2026"
+  },
+  {
+    "title": "Child's Limp Revealed a Surprising 'Disease of the Past'",
+    "url": "https://www.medpagetoday.com/casestudies/endocrinology/121518",
+    "summary": "(MedPage Today) -- When a previously healthy 7-year-old girl limped into the emergency department with unexplained leg pain, a detailed dietary history became critical to diagnosing and ultimately treating her. She'd had pain in both her legs...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-01T12:44:31+00:00",
+    "date_str": "Jun 01, 2026"
+  },
+  {
+    "title": "Massachusetts sues UnitedHealthcare for alleged Medicaid fraud",
+    "url": "https://www.healthcaredive.com/news/massachusetts-sues-unitedhealthcare-medicaid-fraud-upcoding/821594/",
+    "summary": "The state claims UnitedHealthcare inflated the sickness of seniors enrolled in MassHealth managed care plans to reap at least $100 million in improper payments.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-01T14:31:51+00:00",
+    "date_str": "Jun 01, 2026"
+  },
+  {
+    "title": "Elevance again avoids Medicare Advantage sanctions, but threat remains",
+    "url": "https://www.healthcaredive.com/news/elevance-again-avoids-medicare-advantage-sanctions-cms/821573/",
+    "summary": "The CMS pushed back sanctions until July 1 after Elevance made progress on fixing faulty data submissions for its privatized Medicare plans. But the company still has more to do, regulators said.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-01T12:54:03+00:00",
+    "date_str": "Jun 01, 2026"
+  },
+  {
+    "title": "California attorney general sues over 23andMe data breach",
+    "url": "https://www.healthcaredive.com/news/california-attorney-general-sues-over-23andme-data-breach/821603/",
+    "summary": "The attorney general said the civil penalties could add up to “multiple millions” if the suit is successful.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-29T19:58:12+00:00",
+    "date_str": "May 29, 2026"
+  },
+  {
+    "title": "There are no ‘perfect decisions’ with healthcare: Virta Health CFO",
+    "url": "https://www.healthcaredive.com/news/no-perfect-decisions-healthcare-virta-health-cfo/821587/",
+    "summary": "As CFOs confront rising healthcare costs, thinking hard about worker retention and where costs can be made more efficient is essential, Virta’s Manu Diwakar said.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-05-28T18:59:31+00:00",
+    "date_str": "May 28, 2026"
+  },
+  {
+    "title": "Community Health System sells 4 Arkansas hospitals to Freeman Health System for $110M",
+    "url": "https://www.fiercehealthcare.com/providers/community-health-system-selling-4-arkansas-hospitals-freeman-health-system-112m",
+    "summary": "Another CHS divestiture doubles the hospital count of Freeman Health System, a Missouri-based nonprofit.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-06-01T17:37:36.153241+00:00",
+    "date_str": "Jun 01, 2026"
+  },
+  {
+    "title": "Noom launches at-home biomarker test kit for metabolic health monitoring",
+    "url": "https://www.fiercehealthcare.com/health-tech/noom-launches-home-biomarker-test-kit-metabolic-health-monitoring",
+    "summary": "Weight loss company Noom is offering an at-home biomarker testing kit for its U.S. members, expanding its platform into diagnostics and metabolic health monitoring.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-06-01T17:37:36.153292+00:00",
+    "date_str": "Jun 01, 2026"
+  },
+  {
+    "title": "Enzo Health launches agentic EHR for home health agencies",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/enzo-health-launches-ai-driven-enzo-ehr-first-agentic-system-home-health",
+    "summary": "With the platform, organizations can seamlessly run all operations, including intake, scheduling, visits, quality compliance, billing and visibility for patients, the company said.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-06-01T17:37:36.153319+00:00",
+    "date_str": "Jun 01, 2026"
+  },
+  {
+    "title": "Cleveland Clinic, Aspira Women’s Health partner on AI-powered women's health diagnostics",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/cleveland-clinic-aspira-womens-health-partner-ai-powered-womens-health",
+    "summary": "The two organizations will collaborate on projects aimed at discovering and validating biomarker signatures and developing analytical models.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-06-01T17:37:36.153352+00:00",
+    "date_str": "Jun 01, 2026"
+  },
+  {
+    "title": "Personalized mRNA vaccine shows promise in reducing melanoma return: Research",
+    "url": "https://thehill.com/policy/healthcare/5904187-melanoma-vaccine-recurrence-study/",
+    "summary": "Study results released on Monday revealed that a personalized mRNA vaccine manufactured by Moderna and Merck has shown promise in reducing the return of melanoma, the deadliest form of skin cancer. The findings were unearthed by researchers who tracked the impact of the vaccine five years after individuals participated in a Phase 2b study. A...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-06-01T16:59:10+00:00",
+    "date_str": "Jun 01, 2026"
+  },
+  {
+    "title": "Using AI for just minutes reduces focus and persistence, new study warns",
+    "url": "https://thehill.com/policy/technology/5903891-ai-mental-health-study/",
+    "summary": "A study conducted by scientists found AI can compromise cognitive function and problem-solving abilities in a relatively short period.",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-06-01T15:19:26+00:00",
+    "date_str": "Jun 01, 2026"
+  },
+  {
+    "title": "Google wants to release up to 32 million 'good' mosquitoes in California and Florida",
+    "url": "https://thehill.com/policy/technology/5903579-google-mosquito-debugging-program/",
+    "summary": "When you think of Google “debugging” something, you probably think of software – not actual bugs.",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-06-01T12:11:32+00:00",
+    "date_str": "Jun 01, 2026"
+  },
+  {
     "title": "Telehealth Booms as Demand for GLP-1s Surges and Questions Mount About Safety, Oversight",
     "url": "https://kffhealthnews.org/health-industry/glp1-weight-loss-drugs-telehealth-oversight-regulation-compounded-semaglutide/",
     "summary": "Many telehealth companies have emerged in recent years offering easy access to GLP-1 weight loss drugs as demand has exploded. Meanwhile, researchers and doctors are concerned that some of these online companies aren't properly screening or monitoring patients. “It gives a black eye to telemedicine,” one researcher said.",
@@ -9717,286 +9997,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-05-11T21:42:23+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "Medicaid Expansion Tied to Lower Mortality Among Young Adults With Kidney Failure",
-    "url": "https://www.medpagetoday.com/pediatrics/generalpediatrics/121218",
-    "summary": "(MedPage Today) -- Medicaid expansion under the Affordable Care Act (ACA) was linked to lower 1-year mortality among young adults with kidney failure who were starting dialysis, a cohort study suggested. One-year mortality declined from 3.6% before...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-11T21:20:58+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "White House, HHS Debut Website for Expectant and New Moms",
-    "url": "https://www.medpagetoday.com/obgyn/pregnancy/121219",
-    "summary": "(MedPage Today) -- A website launched by the Trump administration for expectant and new mothers drew mixed reactions Monday from women's health groups. \"The Trump administration is strengthening its commitment to America's families by equipping...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-11T21:18:01+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "American Hantavirus Cruise Passenger Develops Symptoms, Transferred to Atlanta",
-    "url": "https://www.medpagetoday.com/infectiousdisease/publichealth/121217",
-    "summary": "(MedPage Today) -- A total of 18 passengers from the cruise ship hit by a hantavirus outbreak arrived at the University of Nebraska Medical Center (UNMC) in Omaha for quarantine, but a couple was transported to Emory University in Atlanta after...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-11T21:00:35+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "Pediatrics Group Issues New Guidance on Recess for the First Time in 13 Years",
-    "url": "https://www.medpagetoday.com/pediatrics/generalpediatrics/121215",
-    "summary": "(MedPage Today) -- Recess isn't just a fun break for grade schoolers. It's crucial to good health and good grades for kids of all ages. That's the message from a leading pediatricians group, which just released the first new guidance in 13 years...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-11T20:46:21+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "More Evidence that GLP-1s May Reduce Risk of Vision-Robbing Eye Diseases",
-    "url": "https://www.medpagetoday.com/ophthalmology/generalophthalmology/121216",
-    "summary": "(MedPage Today) -- Patients taking GLP-1 receptor agonists (GLP-1RAs) had a lower likelihood of developing age-related macular degeneration (AMD) compared with patients using other glucose-lowering medications or lipid-lowering drugs, a large retrospective...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-11T20:45:53+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "Food-as-Medicine Intervention Signals BP Benefit in High-Risk Adults",
-    "url": "https://www.medpagetoday.com/meetingcoverage/nkf/121214",
-    "summary": "(MedPage Today) -- A more intensive \"food-is-medicine\" intervention didn't improve diet quality overall but did signal blood pressure reductions in adherent, high-risk adults with uncontrolled hypertension, a randomized pilot trial showed. In...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-11T20:11:53+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "Makary keeps working amid questions over his FDA future",
-    "url": "https://www.politico.com/news/2026/05/11/makary-keeps-working-amid-questions-over-his-fda-future-00914881",
-    "summary": "The embattled FDA chief is still scheduled to testify Wednesday on Capitol Hill.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-11T20:13:35+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "Supreme Court extends order maintaining abortion pill access until Thursday",
-    "url": "https://www.politico.com/news/2026/05/11/supreme-court-extends-order-maintaining-abortion-pill-access-until-thursday-00914904",
-    "summary": "The temporary punt gives the justices more time to figure out how to handle competing arguments from Louisiana, the Trump administration, and drugmakers.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-11T20:03:51+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "Supreme Court extends pause on abortion pill restrictions through Thursday",
-    "url": "https://thehill.com/policy/healthcare/5872986-abortion-pills-mail-access-supreme-court/",
-    "summary": "Abortion pills will remain available through the mail until at least Thursday after Justice Samuel Alito extended a temporary pause on a lower court ruling that would have blocked access nationwide while a lawsuit is argued. The earlier order from the conservative U.S. Court of Appeals for the 5th Circuit reinstated a requirement that women must visit a healthcare provider in person to...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-11T20:05:16+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "RFK Jr.: 'We're not worried' about hantavirus spreading after cruise ship outbreak",
-    "url": "https://thehill.com/policy/healthcare/5872730-kennedy-hantavirus-situation-update/",
-    "summary": "Health and Human Services Secretary Robert F. Kennedy Jr. said the U.S. has the hantavirus \"under control.\" During Monday's press conference in the Oval Office about mental health, a reporter asked President Trump whether he regretted withdrawing from the World Health Organization (WHO) in light of the hantavirus-stricken cruise ship that had more than a...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-11T19:48:18+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "A Cancer Driven by Ultra-Rare Mutation Gets Its First FDA-Approved Therapy",
-    "url": "https://medcitynews.com/2026/05/liver-bile-duct-cancer-cholangiocarcinoma-partner-therapeutics-bizengri-nrg1-gene-fusion/",
-    "summary": "Partner Therapeutics’ Bizengri is now FDA approved for treating advanced cases of cholangiocarcinoma driven by NRG1 gene fusions. Partner acquired U.S. rights to this bispecific antibody from Merus in 2024. The post A Cancer Driven by Ultra-Rare Mutation Gets Its First FDA-Approved Therapy appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-11T19:39:18+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "STAT+: Trump pivots on kratom derivative 7-OH, floating approval for some forms",
-    "url": "https://www.statnews.com/2026/05/11/trump-pivots-on-kratom-derivative-7-oh-floating-approval-for-some-forms/?utm_campaign=rss",
-    "summary": "Last year, the FDA had warned that natural opioids in kratom were being turned into harmful products. Now President Trump says approval should be considered.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-11T18:04:34+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "STAT+: Medicare’s miss on Alzheimer’s drug spending",
-    "url": "https://www.statnews.com/2026/05/11/medicare-alzheimers-drugs-leqembi-kisunla-surprise-billing-lobbying/?utm_campaign=rss",
-    "summary": "Far fewer seniors than expected are taking costly Alzheimer's drugs.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-11T18:03:14+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "No FDA permission, no problem: New flavored vape policy worries experts",
-    "url": "https://www.statnews.com/2026/05/11/fda-vape-policy-new-guidance-favors-industry/?utm_campaign=rss",
-    "summary": "A new FDA policy will let some flavored vapes stay on the market without authorization.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-11T17:14:24+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "Live Webinar May 12: What You Need to Know About Hantavirus",
-    "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/121210",
-    "summary": "(MedPage Today) -- Hantavirus has been making headlines after an outbreak linked to a cruise ship was associated with at least three deaths. It's been confirmed that Andes virus -- a type of hantavirus that causes cardiopulmonary syndrome and...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-11T18:52:40+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "Experts Wonder 'Where Is the CDC?' as a Hantavirus Outbreak Unfolds on a Cruise Ship",
-    "url": "https://www.medpagetoday.com/infectiousdisease/publichealth/121209",
-    "summary": "(MedPage Today) -- No quick dispatching of disease investigators. No televised news conference to inform the public. No timely health alerts to doctors. In the midst of a hantavirus outbreak that involves Americans and is making headlines around...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-11T18:50:56+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "Drug Targeting TLRs in Cutaneous Lupus Looks Good in Mid-Stage Studies",
-    "url": "https://www.medpagetoday.com/rheumatology/lupus/121208",
-    "summary": "(MedPage Today) -- Enpatoran, an investigational oral drug that inhibits Toll-like receptors (TLR) 7 and 8, was superior to placebo in relieving lupus skin manifestations in a dose-finding phase II trial. Doses of 25, 50, and 100 mg twice daily...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-11T18:40:02+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "Did Your Patient’s Cane Kill Them?",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/121207",
-    "summary": "(MedPage Today) -- A 74-year-old falls while using a walker. Rather than being a protective factor, the walker could be the culprit in this mishap. Surprisingly, nearly half of all the problems associated with \"mobility assistance devices\" (MADs...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-11T18:15:59+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "HPV Vaccination Rates Vary Widely From State to State",
-    "url": "https://www.medpagetoday.com/pediatrics/vaccines/121205",
-    "summary": "(MedPage Today) -- Human papillomavirus (HPV) vaccination rates varied substantially across and within U.S. regions, according to estimates in a retrospective, cross-sectional analysis, suggesting targeted interventions should focus on the needs...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-11T17:40:49+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "Less Invasive Treatment Option for GERD May Offer Similar Results to Gold Standard",
-    "url": "https://www.medpagetoday.com/meetingcoverage/ddw/121202",
-    "summary": "(MedPage Today) -- A less invasive treatment option for gastroesophageal reflux disease (GERD) resulted in similar improvements in symptoms and quality of life with less dysphagia compared with gold-standard surgical therapy, according to a prospective...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-11T16:51:28+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "Oregon Emergency Physicians Claim Win Against For-Profit Replacements",
-    "url": "https://www.medpagetoday.com/emergencymedicine/emergencymedicine/121201",
-    "summary": "(MedPage Today) -- A group of independent emergency physicians in Oregon who sued their own hospital system are celebrating after the employer agreed to scrap its original plan to replace the group with an out-of-state corporate staffing firm...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-11T16:30:09+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "What Do Patients Want Doctors to Know About Breast Cancer Recurrence?",
-    "url": "https://www.medpagetoday.com/ad-insights/industry-clinic/120998",
-    "summary": "(MedPage Today) -- This article includes a first-person perspective from early breast cancer patient Lina. Lina was compensated for her time by Novartis. Some patients with hormone receptor (HR)-positive, human epidermal growth factor receptor...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-11T15:00:00+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "MACPAC calls for increased transparency in Medicaid AI prior authorization",
-    "url": "https://www.healthcaredive.com/news/macpac-increased-transparency-oversight-ai-prior-authorization-medicaid/819773/",
-    "summary": "The influential advisory group is recommending policies to boost human oversight and visibility into how Medicaid plans are using the technology, in a bid to prevent risks like inaccuracies or data bias.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-11T14:50:19+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "Sanford targets Minnesota growth again with planned deal",
-    "url": "https://www.healthcaredive.com/news/sanford-health-north-memorial-health-merger-minnesota-expansion/819807/",
-    "summary": "Sanford has signed an agreement to add two-hospital system North Memorial Health to its portfolio. If approved, the combination would allow Sanford to expand more deeply in the state after past deals fell apart.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-11T13:19:01+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "Kaiser Permanente's investments pick up the slack as Q1 operating margin slims to 2.1%",
-    "url": "https://www.fiercehealthcare.com/providers/kaiser-permanentes-investments-pick-slack-q1-operating-margin-slims-21",
-    "summary": "The country's largest nonprofit health system outlined elevated costs and a hit from the quarter's month-long labor strike for its year-over-year operating slowdown. However, favorable financial markets held its bottom line even at $2 billion.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-11T19:45:55.470044+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "AMA unveils policy framework to combat AI deepfake physician impersonation",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/ama-unveils-policy-framework-combat-ai-deepfake-physician-impersonation",
-    "summary": "It’s the latest move from the organization urging increased safety of increasingly available AI solutions in healthcare.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-11T19:45:55.470100+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "Healthcare bankruptcies up 33% in Q1 2026: report",
-    "url": "https://www.fiercehealthcare.com/finance/healthcare-chapter-11-filings-33-q1-2026-gibbins-advisors",
-    "summary": "Senior care and clinics and physician practices saw the highest volumes of filings in Q1 with four filings each.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-11T19:45:55.470132+00:00",
-    "date_str": "May 11, 2026"
-  },
-  {
-    "title": "White House proposal encourages companies to offer fertility treatment benefits",
-    "url": "https://thehill.com/policy/healthcare/5872874-trump-administration-fertility-rule/",
-    "summary": "A new proposed rule from the Trump administration aims to make it easier for employers to offer coverage of fertility treatments, as part of larger efforts to expand access to fertility services including in-vitro fertilization. The new rule released Sunday from the Department of Labor would create a new exempted insurance benefit — in the same category as dental and vision benefit coverage— for treating infertility. Exempted...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-11T19:22:31+00:00",
     "date_str": "May 11, 2026"
   }
 ]
