@@ -1,5 +1,45 @@
 [
   {
+    "title": "Focused on Work, Needed at Home: A Federal Caregiving Policy Might Help",
+    "url": "https://kffhealthnews.org/news/healthq-fmla-caregiving-family-leave/",
+    "summary": "The Family and Medical Leave Act gives eligible employees up to 12 weeks of job-protected leave for caregiving. But the federal policy has noteworthy limitations. The HealthQ team explains.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-02T09:00:00+00:00",
+    "date_str": "Jun 02, 2026"
+  },
+  {
+    "title": "STAT+: Online care is caught in the crossfire as states crack down on corporate medicine",
+    "url": "https://www.statnews.com/2026/06/02/telehealth-virtual-rx-boom-corporate-practice-of-medicine-laws/?utm_campaign=rss",
+    "summary": "Growing legislative scrutiny across multiple states targets the corporate structure underlying most direct-to-consumer telehealth businesses.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-02T08:30:00+00:00",
+    "date_str": "Jun 02, 2026"
+  },
+  {
+    "title": "Opinion: The virtual end of the doctor’s office waiting room",
+    "url": "https://www.statnews.com/2026/06/02/doctors-office-waiting-room-telehealth-virtual-care/?utm_campaign=rss",
+    "summary": "It’s time to rethink and redesign how patients enter the health care system altogether, writes emergency physician Iyesatta Massaquoi Emeli.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-02T08:30:00+00:00",
+    "date_str": "Jun 02, 2026"
+  },
+  {
+    "title": "Why is Michigan loosening its rules for parents wanting to exempt kids from vaccines?",
+    "url": "https://www.npr.org/2026/06/02/nx-s1-5823712/michigan-school-vaccine-exemptions-waivers-measles",
+    "summary": "A decade ago, Michigan had high rates of parents not vaccinating their children, so it required them to attend an in-person education class to get an exemption. It worked — until things got ugly.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-02T09:00:00+00:00",
+    "date_str": "Jun 02, 2026"
+  },
+  {
     "title": "Servier Moves Into Muscular Dystrophy, Paying $1.5B for Assets From Edgewise Therapeutics",
     "url": "https://medcitynews.com/2026/06/servier-acquisition-muscular-dystrophy-neuromuscular-rare-disease-edgewise-sevasemten-ewtx/",
     "summary": "France-based pharma company Servier is acquiring the muscular dystrophy business of Edgewise Therapeutics as part of a revenue growth strategy in oncology and neurology. The deal brings an Edgewise drug in clinical development for two rare neuromuscular disorders with limited treatment options. The post Servier Moves Into Muscular Dystrophy, Paying $1.5B for Assets From Edgewise Therapeutics appeared first on MedCity News .",
@@ -9957,46 +9997,6 @@
     "category": "Industry News",
     "category_slug": "industry-news",
     "date": "2026-05-12T17:36:24+00:00",
-    "date_str": "May 12, 2026"
-  },
-  {
-    "title": "Low Wages, Empty Plates, Heavy Toll: Rethinking Suicide Prevention",
-    "url": "https://kffhealthnews.org/mental-health/suicide-prevention-economic-assistance-mental-health-eleven-minutes/",
-    "summary": "Decades of research indicate that interventions that bring down people’s cost of living, such as ensuring they have access to stable housing and food, are linked to lower suicide rates.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-12T09:00:00+00:00",
-    "date_str": "May 12, 2026"
-  },
-  {
-    "title": "Five Ways Technology Can Transform Chronic Care Management",
-    "url": "https://medcitynews.com/2026/05/five-ways-technology-can-transform-chronic-care-management/",
-    "summary": "When paired with clinician-led care, it enables a fundamentally different approach to chronic disease management. These tools are designed to augment care teams by reducing administrative burden and allowing clinicians to focus on higher-value care. The post Five Ways Technology Can Transform Chronic Care Management appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-12T14:03:27+00:00",
-    "date_str": "May 12, 2026"
-  },
-  {
-    "title": "AI in Transplant Diagnostics: Turning Complexity into Clinical Clarity",
-    "url": "https://medcitynews.com/2026/05/ai-in-transplant-diagnostics-turning-complexity-into-clinical-clarity/",
-    "summary": "The strongest AI adoption plans follow a simple pattern: start small, validate and scale only when results hold up across sites, shifts and real-world variation. The goal is safer, more personalized care, which is made possible by clinicians receiving earlier signals, better-tailored monitoring and more confident decisions for each patient. The post AI in Transplant Diagnostics: Turning Complexity into Clinical Clarity appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-12T13:41:00+00:00",
-    "date_str": "May 12, 2026"
-  },
-  {
-    "title": "Digital Fatigue: Healthcare’s Next Patient Experience Crisis",
-    "url": "https://medcitynews.com/2026/05/digital-fatigue-healthcares-next-patient-experience-crisis/",
-    "summary": "Patients are tuning out digital messages because they receive too many across channels. This is problematic given that digital strategy is critical to reaching consumers and developing trust in today’s economy. The post Digital Fatigue: Healthcare’s Next Patient Experience Crisis appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-12T13:18:00+00:00",
     "date_str": "May 12, 2026"
   }
 ]
