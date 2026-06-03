@@ -1,5 +1,125 @@
 [
   {
+    "title": "Michigan Found a Way To Reduce School Vaccine Waivers. Until It Backfired.",
+    "url": "https://kffhealthnews.org/public-health/vaccinations-school-vaccine-waivers-michigan-measles-covid-lockdowns/",
+    "summary": "The state had high rates of parents not vaccinating their children, so it started making them attend vaccine education sessions to opt out their kids. It seemed to work. Then things got ugly.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-03T09:00:00+00:00",
+    "date_str": "Jun 03, 2026"
+  },
+  {
+    "title": "At a Tennessee Hospital, a Nurse Stole Fentanyl and AI Missed It, State Records Say",
+    "url": "https://kffhealthnews.org/health-industry/ai-drug-diversion-theft-artificial-intelligence-hospitals-sentri7-software-tennessee/",
+    "summary": "Sentri7, drug diversion software powered by artificial intelligence and used at hundreds of U.S. hospitals, did not catch a months-long string of fentanyl thefts in Tennessee in 2025, according to a state document.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-03T09:00:00+00:00",
+    "date_str": "Jun 03, 2026"
+  },
+  {
+    "title": "Novellia Snags $18M for Its Real-World Data Platform",
+    "url": "https://medcitynews.com/2026/06/novellia-data-healthcare-pharma/",
+    "summary": "Novellia raised $18 million in Series A funding to scale its platform, which helps patients consolidate medical records and share anonymized data with pharma companies. CEO Shashi Shankar argued that sourcing data directly from patients can create more complete healthcare datasets and improve drug research. The post Novellia Snags $18M for Its Real-World Data Platform appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-03T05:49:54+00:00",
+    "date_str": "Jun 03, 2026"
+  },
+  {
+    "title": "Top ultra-processed food researchers call for sweeping policy change: ‘The system is rigged’",
+    "url": "https://www.statnews.com/2026/06/03/ultra-processed-food-experts-want-sweeping-policy-changes/?utm_campaign=rss",
+    "summary": "A survey finds that ultra-processed foods are a cross-partisan concern. And yet policy has been slow to follow.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-03T09:00:00+00:00",
+    "date_str": "Jun 03, 2026"
+  },
+  {
+    "title": "STAT+: Trump’s Medicaid work requirements have an unwelcome surprise for some states and patients",
+    "url": "https://www.statnews.com/2026/06/03/medicaid-work-requirements-experts-say-millions-will-lose-coverage/?utm_campaign=rss",
+    "summary": "Advocates were already dreading Medicaid's work requirements. New rules are worse than they feared.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-03T08:30:00+00:00",
+    "date_str": "Jun 03, 2026"
+  },
+  {
+    "title": "STAT+: NIH cuts weakened network primed to respond to outbreaks like Ebola",
+    "url": "https://www.statnews.com/2026/06/03/nih-cuts-infectious-disease-research-funding-hampers-ebola-preparedness/?utm_campaign=rss",
+    "summary": "While NIH-funded centers weren’t on the front lines of virus responses like the CDC or USAID, some researchers involved in the network said the cuts have damaged relationships with experts…",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-03T08:30:00+00:00",
+    "date_str": "Jun 03, 2026"
+  },
+  {
+    "title": "Opinion: How the military may be fueling eating disorders in men",
+    "url": "https://www.statnews.com/2026/06/03/eating-disorders-men-military-troops-veterans/?utm_campaign=rss",
+    "summary": "“Much of the rhetoric, imagery, and policy messaging from the Trump administration centers on extreme masculine ideals,” First Opinion author writes.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-03T08:30:00+00:00",
+    "date_str": "Jun 03, 2026"
+  },
+  {
+    "title": "Opinion: The Amish way of health care",
+    "url": "https://www.statnews.com/2026/06/03/amish-public-health-vaccines-autism-first-opinion-podcast/?utm_campaign=rss",
+    "summary": "“Public health is going to have to talk about the Amish more and more”: Listen to STAT’s \"First Opinion Podcast\" on the Amish and health care.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-03T08:30:00+00:00",
+    "date_str": "Jun 03, 2026"
+  },
+  {
+    "title": "Opinion: The medical-billing AI arms race between providers and insurance",
+    "url": "https://www.statnews.com/2026/06/03/ai-arms-race-medical-building-waste/?utm_campaign=rss",
+    "summary": "“The financial side effects of care have become clinical ones,” writes Darshak Sanghavi.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-03T08:30:00+00:00",
+    "date_str": "Jun 03, 2026"
+  },
+  {
+    "title": "A science powerhouse bets on genetic therapy to beat brain disorders",
+    "url": "https://www.npr.org/2026/06/03/nx-s1-5837620/brain-health-accelerator-gene-therapy-alzheimer",
+    "summary": "The Allen Institute in Seattle says scientists have now learned enough about how the brain works to start fixing it when it breaks.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-03T09:00:00+00:00",
+    "date_str": "Jun 03, 2026"
+  },
+  {
+    "title": "Ebola vaccine candidates being fast-tracked to target rare strain",
+    "url": "https://www.npr.org/2026/06/03/nx-s1-5836400/ebola-vaccine-candidates-being-fast-tracked-to-target-rare-strain",
+    "summary": "Three vaccine candidates are being fast-tracked to target the Ebola species spreading in Central Africa. Big organizations and companies are behind the effort, but logistics are complicated.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-03T08:39:17+00:00",
+    "date_str": "Jun 03, 2026"
+  },
+  {
+    "title": "5 takeaways on Trump's divisive Medicaid work requirements",
+    "url": "https://thehill.com/policy/healthcare/5906718-medcaid-work-requirements-rule/",
+    "summary": "A new rule explaining how states need to implement Medicaid work requirements may make it much harder for low-income sick people to maintain health coverage next year. The long-anticipated rule issued Monday is meant to guide 42 states and the District of Columbia on carrying out the work rules laid out in the One Big Beautiful Bill Act. GOP lawmakers and...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-06-03T10:00:00+00:00",
+    "date_str": "Jun 03, 2026"
+  },
+  {
     "title": "Ilant Health Raises $15M to Advance Obesity Care",
     "url": "https://medcitynews.com/2026/06/ilant-health-raises-15m-to-advance-obesity-care/",
     "summary": "Ilant Health’s Series A round was led by Cornucopian Capital, with participation from naturalX, Peakbridge, Semcap AI, Evidenced, Operator Partners, Celtic, LifeX and AlphaLab. The post Ilant Health Raises $15M to Advance Obesity Care appeared first on MedCity News .",
@@ -9878,125 +9998,5 @@
     "category_slug": "medicare-news",
     "date": "2026-05-13T14:16:00+00:00",
     "date_str": "May 13, 2026"
-  },
-  {
-    "title": "Stigma Is The Real Delay In Healthcare",
-    "url": "https://medcitynews.com/2026/05/stigma-is-the-real-delay-in-healthcare/",
-    "summary": "The longer someone waits to seek help, the more their condition progresses, the harder it becomes to intervene, and the easier it becomes to keep waiting. Delay compounds. That’s what makes it so dangerous, and so worth targeting directly. The post Stigma Is The Real Delay In Healthcare appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-13T13:42:00+00:00",
-    "date_str": "May 13, 2026"
-  },
-  {
-    "title": "The Changing Landscape of New Approach Methodologies",
-    "url": "https://medcitynews.com/2026/05/the-changing-landscape-of-new-approach-methodologies/",
-    "summary": "Now more than ever, NAMs need to be considered a core aspect of modern drug development – and scientists, decision-makers, regulators and governments must keep pace with this evolving landscape to ensure they are equipped to deliver the next-generation of therapies. The post The Changing Landscape of New Approach Methodologies appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-13T13:14:00+00:00",
-    "date_str": "May 13, 2026"
-  },
-  {
-    "title": "New subpoena suggests DOJ has begun criminal investigation of gender-affirming care",
-    "url": "https://www.statnews.com/2026/05/13/gender-affirming-care-minors-doj-subpoenas-suggest-criminal-probe/?utm_campaign=rss",
-    "summary": "Several hospitals have received federal grand jury subpoenas regarding gender-affirming care for minors, suggesting a criminal investigation has begun.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-13T13:54:13+00:00",
-    "date_str": "May 13, 2026"
-  },
-  {
-    "title": "STAT+: Gene therapy viruses linked to a boy’s tumor",
-    "url": "https://www.statnews.com/2026/05/13/biotech-news-gene-therapy-viruses-linked-to-a-boys-tumor/?utm_campaign=rss",
-    "summary": "The case for Makary as the WOAT, Cassidy's seat at risk ahead of midterms, and other biotech news from The Readout",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-13T13:35:07+00:00",
-    "date_str": "May 13, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about FDA’s Makary resigning, a Lilly weight loss drug trial, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/05/13/fda-makary-resigning-lilly-weight-loss-drug-trial/?utm_campaign=rss",
-    "summary": "FDA Commissioner Marty Makary is resigning, and Kyle Diamantas, the agency's top food regulator, will step in as acting commissioner",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-13T13:28:55+00:00",
-    "date_str": "May 13, 2026"
-  },
-  {
-    "title": "STAT+: AI medical devices’ dirty FDA secret",
-    "url": "https://www.statnews.com/2026/05/13/ai-medical-devices-dirty-fda-secret-ai-prognosis/?utm_campaign=rss",
-    "summary": "In this edition of STAT's AI Prognosis newsletter: A look at the quirks of the most common FDA medical device approval pathway, sepsis algorithms, and more.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-13T13:13:54+00:00",
-    "date_str": "May 13, 2026"
-  },
-  {
-    "title": "Extreme heat is worsening faster for Black Americans",
-    "url": "https://www.statnews.com/2026/05/13/health-news-extreme-heat-worsens-faster-for-black-american/?utm_campaign=rss",
-    "summary": "Bill Cassidy's can't-win conundrum, what RFK Jr. gets right and wrong about antidepressants, and more health news",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-13T11:46:32+00:00",
-    "date_str": "May 13, 2026"
-  },
-  {
-    "title": "STAT+: Scientists link boy’s tumor to gene therapy viruses, in rare finding",
-    "url": "https://www.statnews.com/2026/05/13/gene-therapy-cancer-risks-mps-hurler-syndrome/?utm_campaign=rss",
-    "summary": "Doctors have linked a boy's tumor to a gene therapy, but say the rare risks need to be weighed against the profound benefits such medicines can offer.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-13T10:00:00+00:00",
-    "date_str": "May 13, 2026"
-  },
-  {
-    "title": "STAT+: Drug meant to make gene therapy safer may also make it less effective",
-    "url": "https://www.statnews.com/2026/05/13/encoded-therapeutics-dravet-syndrome-study-sirolimus-safety-tradeoff/?utm_campaign=rss",
-    "summary": "Encoded Therapeutics gives a heads-up to other gene therapy company about the trade-offs with a drug meant to improve safety.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-13T10:00:00+00:00",
-    "date_str": "May 13, 2026"
-  },
-  {
-    "title": "Engaging with the arts can slow biological aging, study shows",
-    "url": "https://www.npr.org/2026/05/12/nx-s1-5818172/study-arts-slow-biological-aging",
-    "summary": "Eat well and exercise. That's the classic advice for living a long, healthy life. A new study suggests another habit to add to the list: Let your creative juices flow.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-12T08:44:13+00:00",
-    "date_str": "May 12, 2026"
-  },
-  {
-    "title": "Nurse Tortured, Prosecutors Say; Hantavirus Case Critically Ill; Skin Cream Recall",
-    "url": "https://www.medpagetoday.com/nursing/nursing/121239",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Katherine Torbick, RN, of Illinois, was allegedly tortured before being murdered by her boyfriend, according to prosecutors. (People) Jason Collins, the NBA's first...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-13T13:31:46+00:00",
-    "date_str": "May 13, 2026"
-  },
-  {
-    "title": "Bayesian Health gets FDA nod for AI sepsis detection tool",
-    "url": "https://www.healthcaredive.com/news/bayesian-health-gets-fda-nod-for-ai-sepsis-detection-tool/820107/",
-    "summary": "Created by Johns Hopkins University researchers, the early warning system for sepsis aims to help physicians detect the serious condition earlier.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-12T15:55:59+00:00",
-    "date_str": "May 12, 2026"
   }
 ]
