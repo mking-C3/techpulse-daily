@@ -1,5 +1,115 @@
 [
   {
+    "title": "Louisiana’s Reporting Law Chills Immigrant Medicaid Applications",
+    "url": "https://kffhealthnews.org/medicaid/immigrants-medicaid-children-applications-louisiana-crackdown-citizenship/",
+    "summary": "A year after the measure’s passage, a state law is keeping immigrants and their children from accessing Medicaid even when they qualify.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-04T09:00:00+00:00",
+    "date_str": "Jun 04, 2026"
+  },
+  {
+    "title": "RFK Jr. Seeks To Peek at Americans’ Medical Records for Clues on Autism and Vaccines",
+    "url": "https://kffhealthnews.org/mental-health/sharing-patients-medical-records-access-rfk-jr-project-link-autism-vaccine-injuries/",
+    "summary": "To collect and scrutinize millions of Americans’ health data, U.S. health secretary Robert F. Kennedy Jr. aims to work with state organizations that help health systems share medical records. In Nebraska, millions in federal dollars has flowed into one nonprofit cooperating with Kennedy’s project.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-04T09:00:00+00:00",
+    "date_str": "Jun 04, 2026"
+  },
+  {
+    "title": "STAT+: After hospitals, patients get a turn to bring AI into the doctor’s office",
+    "url": "https://www.statnews.com/2026/06/04/after-doctors-patient-ai-scribes-track-visits/?utm_campaign=rss",
+    "summary": "Ambient scribes were the first large-scale application of AI in health care. Now developers are pitching them as diligent note-takers for patients.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-04T08:30:00+00:00",
+    "date_str": "Jun 04, 2026"
+  },
+  {
+    "title": "Opinion: Lawmakers promised cancer patients would be protected from Medicaid cuts. Now CMS says otherwise",
+    "url": "https://www.statnews.com/2026/06/04/medicaid-work-requirements-final-rule-cancer-patients/?utm_campaign=rss",
+    "summary": "“One of the cancer community’s worst fears is coming to pass,” writes Gwen Nichols of Blood Cancer United.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-04T08:30:00+00:00",
+    "date_str": "Jun 04, 2026"
+  },
+  {
+    "title": "Opinion: Grail’s multi-cancer early detection trial was negative. But as an oncologist, I see more to this story",
+    "url": "https://www.statnews.com/2026/06/04/grail-multi-cancer-early-detection-test-trial-results/?utm_campaign=rss",
+    "summary": "An oncologist shares three lessons from the world’s first randomized trial on a multi-cancer early detection.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-04T08:30:00+00:00",
+    "date_str": "Jun 04, 2026"
+  },
+  {
+    "title": "What happens at a longevity festival?",
+    "url": "https://www.statnews.com/2026/06/04/longevity-science-vitalist-bay-festival-status-report-alex-hogan/?utm_campaign=rss",
+    "summary": "What happens at a longevity festival? On this week's STATus Report, Alex Hogan gets a dispatch from STAT's Sarah Todd.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-04T08:30:00+00:00",
+    "date_str": "Jun 04, 2026"
+  },
+  {
+    "title": "Male puberty is understudied — but when it starts may predict long-term health risks",
+    "url": "https://www.statnews.com/2026/06/04/male-puberty-timing-long-term-health-risk-prediction/?utm_campaign=rss",
+    "summary": "Due to a significant gender gap, far less is known about the health risks of early or late puberty onset among boys than girls.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-04T08:30:00+00:00",
+    "date_str": "Jun 04, 2026"
+  },
+  {
+    "title": "Some students with disabilities rely on screens at school. What happens if they're banned?",
+    "url": "https://www.npr.org/2026/06/04/nx-s1-5812850/screens-schools-students-with-disabilities",
+    "summary": "Some students with disabilities rely on assistive technology to learn, and they worry it could be swept up in the movement to get screens out of schools.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-04T09:00:00+00:00",
+    "date_str": "Jun 04, 2026"
+  },
+  {
+    "title": "With World Cup set to begin, public health officials hope to defend against germs",
+    "url": "https://www.npr.org/2026/06/04/nx-s1-5844325/with-world-cup-set-to-begin-public-health-officials-hope-to-defend-against-germs",
+    "summary": "The World Cup gets underway next week and millions will pack huge stadiums to watch. Public health officials will be watching too, only they're looking for germs that could spread at these matches!",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-04T08:39:04+00:00",
+    "date_str": "Jun 04, 2026"
+  },
+  {
+    "title": "Weakened public health powers could hamper states' outbreak responses",
+    "url": "https://www.npr.org/2026/06/04/nx-s1-5836357/weakened-public-health-powers-could-hamper-states-outbreak-responses",
+    "summary": "Public health experts are worried that states are less prepared to respond to the Ebola outbreak and other infectious disease threats because many weakened their public health authorities in the wake of the COVID-19 pandemic.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-04T08:38:18+00:00",
+    "date_str": "Jun 04, 2026"
+  },
+  {
+    "title": "Commonwealth Fund: 21% of adults experienced a coverage denial in the past year",
+    "url": "https://www.fiercehealthcare.com/payers/commonwealth-fund-21-adults-experienced-coverage-denial-past-year",
+    "summary": "One in five adults with private insurance coverage said that they or a family member had a medical service denied in the past year, even though it was recommended by their physician.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-06-04T09:55:16.820919+00:00",
+    "date_str": "Jun 04, 2026"
+  },
+  {
     "title": "Former FDA Officials: There’s Opportunity to Rebuild the Agency — But Not the Way It Was",
     "url": "https://medcitynews.com/2026/06/fda-rick-pazdur-regulation-cber-cder-stat-asco/",
     "summary": "Rick Pazdur, formerly the FDA’s top oncology official, said the FDA is at a critical juncture that could determine the direction of the world’s top regulator of medicines. Pazdur spoke during a STAT panel discussion during the annual meeting of the American Society of Clinical Oncology. The post Former FDA Officials: There’s Opportunity to Rebuild the Agency — But Not the Way It Was appeared first on MedCity News .",
@@ -9887,116 +9997,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-05-14T11:54:51+00:00",
-    "date_str": "May 14, 2026"
-  },
-  {
-    "title": "STAT+: Biogen’s tau-targeting Alzheimer’s drug posts mixed results in mid-stage study",
-    "url": "https://www.statnews.com/2026/05/14/biogen-alzheimers-tau-diranersen-midstage-study-mixed-results/?utm_campaign=rss",
-    "summary": "Biogen is moving its tau-targeting Alzheimer's drug into Phase 3 studies, despite mixed data from a Phase 2 trial.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-14T11:08:57+00:00",
-    "date_str": "May 14, 2026"
-  },
-  {
-    "title": "STAT+: Regenxbio says Duchenne gene therapy succeeded in clinical trial, paving way for FDA submission",
-    "url": "https://www.statnews.com/2026/05/14/regenxbio-duchenne-gene-therapy-trial-results/?utm_campaign=rss",
-    "summary": "Regenxbio said its experimental gene therapy for Duchenne muscular dystrophy succeeded in a trial, paving the way for a submission to the FDA.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-14T11:00:00+00:00",
-    "date_str": "May 14, 2026"
-  },
-  {
-    "title": "STAT+: CREATE Medicines, a biotech company developing CAR-T therapies, raises $122 million",
-    "url": "https://www.statnews.com/2026/05/14/create-medicines-car-t-raises-funding/?utm_campaign=rss",
-    "summary": "CREATE Medicines has a new name, an expanded pipeline, and now fresh funding to propel the company’s first CAR-T candidates through human trials.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-14T11:00:00+00:00",
-    "date_str": "May 14, 2026"
-  },
-  {
-    "title": "STAT+: ‘No drama’ Diamantas should serve biotech well as acting FDA chief",
-    "url": "https://www.statnews.com/2026/05/14/fda-kyle-diamantas-biotech/?utm_campaign=rss",
-    "summary": "Kyle Diamantas, the acting commissioner of the FDA, is expected to be a drama-free, stabilizing caretaker at the top of the agency.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-14T10:30:00+00:00",
-    "date_str": "May 14, 2026"
-  },
-  {
-    "title": "A brain-controlled system may help listeners with hearing loss cut through the noise",
-    "url": "https://www.npr.org/2026/05/14/nx-s1-5821161/brain-controlled-hearing-aids-cocktail-party-effect",
-    "summary": "A hearing system that monitors brain waves could help people with hearing loss communicate in noisy environments.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-14T11:00:00+00:00",
-    "date_str": "May 14, 2026"
-  },
-  {
-    "title": "The MAHA movement is coming to school cafeterias. Here's what that means for kids",
-    "url": "https://www.npr.org/2026/05/14/nx-s1-5688946/school-lunches-dietary-guidelines-maha",
-    "summary": "U.S. school districts worry it could get even more expensive to prepare a meal under new federal dietary guidelines, as they also contend with cuts to programs that helped them buy local food.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-14T09:00:00+00:00",
-    "date_str": "May 14, 2026"
-  },
-  {
-    "title": "Viz.ai launches AI-powered pulmonary care platform",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/vizai-launches-ai-powered-pulmonary-care-platform",
-    "summary": "The new Viz Pulmonary Suite combines acute and chronic pulmonary workflows into a single solution, which the company says is the first of its kind for such care.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-14T14:10:53.584903+00:00",
-    "date_str": "May 14, 2026"
-  },
-  {
-    "title": "Nearly 80% of payers prefer vendor-built AI solutions, survey finds",
-    "url": "https://www.fiercehealthcare.com/payers/nearly-80-payers-prefer-vendor-built-ai-solutions-innovaccer",
-    "summary": "Seventy-five percent of respondents report plans to spend an average of $10 million on AI over the course of the next three to five years.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-14T14:10:53.584953+00:00",
-    "date_str": "May 14, 2026"
-  },
-  {
-    "title": "Salesforce, Echo Health Ventures back Optura's $17.5M series A to track AI performance",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/salesforce-echo-health-ventures-backs-opturas-175m-series-track-value-ai",
-    "summary": "Optura claims that more than $2 billion in AI initiatives currently run on its platform, with $120 million in tracked value at a 700% return on AI investment on in-flight initiatives.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-14T14:10:53.584988+00:00",
-    "date_str": "May 14, 2026"
-  },
-  {
-    "title": "Next FDA chief to face similar headwinds after Makary's ouster",
-    "url": "https://thehill.com/policy/healthcare/5877025-fda-resignation-trump-pressure/",
-    "summary": "Marty Makary's resignation from the Food and Drug Administration (FDA) may help release some pressure by removing one of the Trump administration's more embattled health leaders. But the next head of the agency will have to navigate many of the same headwinds — political interference, funding cuts and balancing the demands of the “Make America Healthy Again”...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-14T10:00:00+00:00",
-    "date_str": "May 14, 2026"
-  },
-  {
-    "title": "Opinion: Using AI in addiction medicine could be particularly risky",
-    "url": "https://www.statnews.com/2026/05/14/addiction-medicine-ai-agent-empathy-caring-misguided/?utm_campaign=rss",
-    "summary": "\"AI can make great strides in medical decision support, but unfiltered interaction between agent and patient is dangerous,\" writes Steve D. Klein.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-14T08:30:00+00:00",
     "date_str": "May 14, 2026"
   }
 ]
