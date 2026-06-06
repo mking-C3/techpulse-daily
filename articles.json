@@ -1,5 +1,115 @@
 [
   {
+    "title": "CDC: Ebola outbreak in Central Africa could reach 20,000 cases without strong countermeasures",
+    "url": "https://www.statnews.com/2026/06/05/cdc-ebola-modeling-study/?utm_campaign=rss",
+    "summary": "The Ebola outbreak in Central Africa could grow to 20,000 cases or more, depending on how quickly infected people are isolated to slow the spread, according to a new U.S. analysis.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-05T22:24:52+00:00",
+    "date_str": "Jun 05, 2026"
+  },
+  {
+    "title": "STAT+: Newer GLP-1s, pushback on research cuts, and a protest",
+    "url": "https://www.statnews.com/2026/06/05/newer-glp-1s-pushback-on-research-cuts-and-a-protest-ada-in-30/?utm_campaign=rss",
+    "summary": "You're reading the web edition of STAT's ADA in 30 Seconds, from the American Diabetes Association's annual conference in New Orleans.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-05T21:22:33+00:00",
+    "date_str": "Jun 05, 2026"
+  },
+  {
+    "title": "STAT+: What stripping civil service protections for thousands of federal workers will mean for HHS",
+    "url": "https://www.statnews.com/2026/06/05/schedule-f-changes-impacts-nih-cdc-fda/?utm_campaign=rss",
+    "summary": "Thousands of HHS staff who shape policy have had their employment status changed to a designation that makes it easier for them to be fired.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-05T19:58:55+00:00",
+    "date_str": "Jun 05, 2026"
+  },
+  {
+    "title": "CDC report: Ebola outbreak could rival the worst on record unless world acts",
+    "url": "https://www.npr.org/2026/06/05/nx-s1-5848082/ebola-virus-cdc-outbreak-democratic-republic-congo-uganda",
+    "summary": "New modeling from the CDC shows that if measures aren't taken immediately, this outbreak could sicken more than 20,000 people in the next three months.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-05T20:35:06+00:00",
+    "date_str": "Jun 05, 2026"
+  },
+  {
+    "title": "CDC Sees 10,000 Ebola Deaths Among Possible Outbreak Scenarios",
+    "url": "https://www.medpagetoday.com/infectiousdisease/ebola/121633",
+    "summary": "(MedPage Today) -- The Ebola outbreak in Congo could rival the largest on record, according to CDC models of possible trajectories over the next 3 months. In scenarios that had 70% of Ebola patients entering isolation and 50 Ebola deaths as of...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-05T21:45:00+00:00",
+    "date_str": "Jun 05, 2026"
+  },
+  {
+    "title": "One Surgical Technique for Cervical Lesions May Reduce Recurrences",
+    "url": "https://www.medpagetoday.com/obgyn/cervicalcancer/121632",
+    "summary": "(MedPage Today) -- Cold knife conization (CKC) was tied to a lower risk of recurrence of cervical lesions and higher human papillomavirus (HPV) clearance compared with the loop electrosurgical excision procedure (LEEP) among women with cervical...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-05T21:39:25+00:00",
+    "date_str": "Jun 05, 2026"
+  },
+  {
+    "title": "Senator Cassidy Calls Out RFK Jr.",
+    "url": "https://www.medpagetoday.com/infectiousdisease/vaccines/121630",
+    "summary": "(MedPage Today) -- Sen. Bill Cassidy, MD (R-La.), who recently lost his primary bid for reelection, is speaking up a little louder about Health Secretary Robert F. Kennedy Jr.'s wariness of vaccines. \"A terrible outcome from RFK and others promoting...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-05T21:20:36+00:00",
+    "date_str": "Jun 05, 2026"
+  },
+  {
+    "title": "Finerenone Also Slows Kidney Decline in Diabetes-Free Patients",
+    "url": "https://www.medpagetoday.com/meetingcoverage/era/121629",
+    "summary": "(MedPage Today) -- Finerenone (Kerendia) slowed the decline of kidney function in adults with chronic kidney disease (CKD) who did not have diabetes, the large randomized FIND-CKD trial showed. By month 32, the mean annual rate of change in estimated...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-05T20:44:26+00:00",
+    "date_str": "Jun 05, 2026"
+  },
+  {
+    "title": "What Virus Now Faces a New FDA Approval?",
+    "url": "https://www.medpagetoday.com/quizzes/news-quiz/121627",
+    "summary": "(MedPage Today) -- You passed medical training, now see if you can pass our weekly quiz",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-05T19:42:17+00:00",
+    "date_str": "Jun 05, 2026"
+  },
+  {
+    "title": "How Much Prednisone Is Too Much in Treating Rheum Effects From Cancer Therapies?",
+    "url": "https://www.medpagetoday.com/meetingcoverage/eular/121626",
+    "summary": "(MedPage Today) -- LONDON -- Overall survival is significantly shortened for cancer patients receiving more than 20 mg of prednisone (or the equivalent) at any point to treat arthritic side effects from immune checkpoint inhibitors (ICIs), a...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-05T19:36:24+00:00",
+    "date_str": "Jun 05, 2026"
+  },
+  {
+    "title": "USDA confirms second screwworm fly found in Texas",
+    "url": "https://thehill.com/policy/healthcare/5913003-usda-confirms-second-screwworm-fly-texas/",
+    "summary": "The U.S. Department of Agriculture (USDA) confirmed a second case of a flesh-eating screwworm parasite in Texas on Friday, as it races to contain and eradicate the outbreak before it severely impacts the cattle population. A New World screwworm was detected in a one-month-old calf in Zavala County after testing a “number of suspected cases,” according...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-06-06T02:59:37+00:00",
+    "date_str": "Jun 06, 2026"
+  },
+  {
     "title": "Untreated Cancer, Festering Infections: Immigrant Detainees Detail Medical Care Lapses",
     "url": "https://kffhealthnews.org/health-industry/the-week-in-brief-immigrant-ice-detainees-medical-neglect/",
     "summary": "Get our weekly newsletter, The Week in Brief, featuring a roundup of our original coverage, Fridays at 2 p.m. ET.",
@@ -9888,115 +9998,5 @@
     "category_slug": "industry-news",
     "date": "2026-05-16T15:00:00+00:00",
     "date_str": "May 16, 2026"
-  },
-  {
-    "title": "Should you cancel your cruise after the hantavirus outbreak?",
-    "url": "https://thehill.com/policy/healthcare/5880932-cruise-hantavirus-outbreak-traveling-risk/",
-    "summary": "Cruise ships are back in the spotlight after a deadly hantavirus outbreak, but experts say the risk to travelers is low.",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-16T14:14:44+00:00",
-    "date_str": "May 16, 2026"
-  },
-  {
-    "title": "Journalists Unpack Latest on Vaccines, Vaping, and TrumpRx",
-    "url": "https://kffhealthnews.org/on-air/on-air-may-16-2026-vaccines-vaping-mifepristone-trumprx/",
-    "summary": "KFF Health News journalists made the rounds on national media recently to discuss topical stories. Here’s a collection of their appearances.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-16T09:00:00+00:00",
-    "date_str": "May 16, 2026"
-  },
-  {
-    "title": "Opinion: Marty Makary misunderstood something fundamental about the FDA",
-    "url": "https://www.statnews.com/2026/05/16/marty-makary-fda-commissioner-administrative-power/?utm_campaign=rss",
-    "summary": "“The norm-shattering masks a more fundamental misunderstanding of how administrative power can bring about lasting change,” writes Joshua Sharfstein.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-16T11:00:00+00:00",
-    "date_str": "May 16, 2026"
-  },
-  {
-    "title": "Opinion: The cloudy truth about ‘blue zones’",
-    "url": "https://www.statnews.com/2026/05/16/blue-zones-eric-topol-shelley-wood-interview-transcript/?utm_campaign=rss",
-    "summary": "“There's been interest in longevity, promoting it, for millennia. But this 25-year campaign really brought it to the forefront,” Eric Topol says of blue zones.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-16T11:00:00+00:00",
-    "date_str": "May 16, 2026"
-  },
-  {
-    "title": "Elephants eat their crops. Farmers strike back. It's a war that's only getting worse",
-    "url": "https://www.npr.org/2026/05/16/g-s1-121654/elephants-farmers-crops-sri-lanka",
-    "summary": "In Sri Lanka, the islanders revere elephants. But for farmers, there's rising tension that's leading to more fatal encounters — for both humans and hungry pachyderms.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-16T11:19:25+00:00",
-    "date_str": "May 16, 2026"
-  },
-  {
-    "title": "Salmonella fears prompt recall of seasoning sold at Walmart stores nationwide",
-    "url": "https://thehill.com/business/5880862-salmonella-fears-walmart-seasoning-recall/",
-    "summary": "Federal health officials report that a company is recalling a seasoning product sold nationwide at Walmart stores as it may be contaminated with salmonella.",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-16T12:45:19+00:00",
-    "date_str": "May 16, 2026"
-  },
-  {
-    "title": "First human GLP-1 gene therapy trial gets green light",
-    "url": "https://thehill.com/policy/healthcare/5880938-first-human-glp-1-gene-therapy-trial/",
-    "summary": "“GLP-1 medicines have changed what is possible in obesity and Type 2 diabetes,\" Dr. Harith Rajagopalan said.",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-16T12:41:26+00:00",
-    "date_str": "May 16, 2026"
-  },
-  {
-    "title": "IKS Health Acquires ARAI to Build Out Specialized AI Stack",
-    "url": "https://medcitynews.com/2026/05/iks-healthcare-ai-acquisition/",
-    "summary": "IKS Health acquired healthcare AI startup ARAI to strengthen the technology underpinning its automation tools, as well as reduce its dependence on third-party AI models. The post IKS Health Acquires ARAI to Build Out Specialized AI Stack appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-15T23:53:56+00:00",
-    "date_str": "May 15, 2026"
-  },
-  {
-    "title": "Anomaly Raises $17M for AI-Powered Payer Intelligence Platform",
-    "url": "https://medcitynews.com/2026/05/anomaly-raises-17m-for-ai-powered-payer-intelligence-platform/",
-    "summary": "Anomaly’s $17 million round was led by Sound Ventures and included participation from Alumni Ventures, Link Ventures, Redesign Health and RRE Ventures. The post Anomaly Raises $17M for AI-Powered Payer Intelligence Platform appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-15T22:06:55+00:00",
-    "date_str": "May 15, 2026"
-  },
-  {
-    "title": "STAT+: FDA drug center head Tracy Beth Høeg leaves as agency faces leadership vacuum",
-    "url": "https://www.statnews.com/2026/05/15/fda-leadership-vacuum-tracy-beth-hoeg-resigns-drug-center-post/?utm_campaign=rss",
-    "summary": "The acting director of the FDA’s drug center, Tracy Beth Høeg, is leaving the agency. The news come days after Commissioner Marty Makary handed in his resignation.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-15T21:15:23+00:00",
-    "date_str": "May 15, 2026"
-  },
-  {
-    "title": "GLP-1 Drug Makes Its Case for Treating Plaque Psoriasis",
-    "url": "https://www.medpagetoday.com/dermatology/psoriasis/121299",
-    "summary": "(MedPage Today) -- Adding a dual GLP-1/GIP receptor agonist to the psoriasis drug ixekizumab (Taltz) significantly improved outcomes in adults with difficult-to-treat plaque psoriasis due to overweight or obesity, the open-label TOGETHER-PsO trial...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-15T21:38:48+00:00",
-    "date_str": "May 15, 2026"
   }
 ]
