@@ -1,5 +1,25 @@
 [
   {
+    "title": "STAT+: Triple hormone receptors, a monthly obesity drug, and a bittersweet ending",
+    "url": "https://www.statnews.com/2026/06/06/triple-g-safety-data-monthly-obesity-drug-ada-in-30/?utm_campaign=rss",
+    "summary": "You're reading the web edition of STAT's ADA in 30 Seconds, from the American Diabetes Association's annual conference in New Orleans.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-06T20:54:24+00:00",
+    "date_str": "Jun 06, 2026"
+  },
+  {
+    "title": "How do you stop Ebola at the World Cup?",
+    "url": "https://www.politico.com/news/2026/06/06/world-cup-ebola-hantavirus-cdc-diseases-00952609",
+    "summary": "Public-health officials are trying to use a Covid-era playbook without pandemic-era funding.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-06-06T20:01:00+00:00",
+    "date_str": "Jun 06, 2026"
+  },
+  {
     "title": "STAT+: Lilly shares safety, tolerability data on its next-gen obesity drug",
     "url": "https://www.statnews.com/2026/06/06/illy-retatrutide-triple-g-weight-loss-obesity-safety-data-ada/?utm_campaign=rss",
     "summary": "Eli Lilly presented new safety and tolerability data on retatrutide at the annual meeting of the American Diabetes Association on Saturday.",
@@ -9978,25 +9998,5 @@
     "category_slug": "industry-news",
     "date": "2026-05-17T10:07:26+00:00",
     "date_str": "May 17, 2026"
-  },
-  {
-    "title": "WHO declares Ebola outbreak an international public health emergency",
-    "url": "https://www.statnews.com/2026/05/17/who-ebola-drc-uganda-bundibugyo-pheic-public-health-emergency/?utm_campaign=rss",
-    "summary": "The WHO said an Ebola outbreak first seen in the Democratic Republic of the Congo was an international public health emergency, underscoring the world's concerns.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-17T07:17:53+00:00",
-    "date_str": "May 17, 2026"
-  },
-  {
-    "title": "World Health Organization declares Ebola outbreak in Congo a global health emergency",
-    "url": "https://www.npr.org/2026/05/16/g-s1-122494/new-ebola-outbreak-drc-who-global-emergency",
-    "summary": "Health officials are working to contain a new Ebola outbreak in the DRC of a virus strain with no known vaccine.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-16T18:37:36+00:00",
-    "date_str": "May 16, 2026"
   }
 ]
