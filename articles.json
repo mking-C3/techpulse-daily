@@ -1,5 +1,195 @@
 [
   {
+    "title": "How AI is Unlocking Smarter Clinical Trial Protocols",
+    "url": "https://medcitynews.com/2026/06/how-ai-is-unlocking-smarter-clinical-trial-protocols/",
+    "summary": "By fine-tuning domain-specific models with real clinical operations data — such as historical performance, feasibility outcomes, enrollment patterns, and resource utilization — hidden information can be translated into structured intelligence. The post How AI is Unlocking Smarter Clinical Trial Protocols appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-08T13:54:00+00:00",
+    "date_str": "Jun 08, 2026"
+  },
+  {
+    "title": "6 Ways in Which Healthcare Needs to Expand the Supply Chain Resilience Conversation",
+    "url": "https://medcitynews.com/2026/06/6-ways-in-which-healthcare-needs-to-expand-the-supply-chain-resilience-conversation/",
+    "summary": "Supply chain resilience is far too important to leave with the supply chain specialists. Health systems must elevate the resilience issue to the corporate strategy level and involve officers from other functional areas as well. The post 6 Ways in Which Healthcare Needs to Expand the Supply Chain Resilience Conversation appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-08T13:02:00+00:00",
+    "date_str": "Jun 08, 2026"
+  },
+  {
+    "title": "Expanding the Reach of Remote Patient Monitoring: The Real Signal Behind the 2026 RPM Changes",
+    "url": "https://medcitynews.com/2026/06/expanding-the-reach-of-remote-patient-monitoring-the-real-signal-behind-the-2026-rpm-changes/",
+    "summary": "While the policy changes create new opportunities, they also introduce operational complexity. Here’s some important things to know. The post Expanding the Reach of Remote Patient Monitoring: The Real Signal Behind the 2026 RPM Changes appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-08T13:01:00+00:00",
+    "date_str": "Jun 08, 2026"
+  },
+  {
+    "title": "STAT+: UnitedHealthcare’s lactation billing feud, and fake strokes",
+    "url": "https://www.statnews.com/2026/06/08/unitedhealth-lactation-counseling-policy-medicare-advantage-audits-stroke/?utm_campaign=rss",
+    "summary": "The biggest U.S. health insurer is changing how it pays for lactation counseling, and it could cut payment for many providers.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-08T14:53:05+00:00",
+    "date_str": "Jun 08, 2026"
+  },
+  {
+    "title": "STAT+: Novo underwhelmed by drug it once fought Pfizer for",
+    "url": "https://www.statnews.com/2026/06/08/biotech-news-novo-underwhelmed-by-drug-it-once-fought-pfizer-for/?utm_campaign=rss",
+    "summary": "Revolution and Tango yield promising cancer results, Incyte buys bleeding disorder drug, and more biotech news",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-08T14:05:38+00:00",
+    "date_str": "Jun 08, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Lilly and Pfizer obesity drug data, Roche and J&J deals, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/06/08/lilly-pfizer-obesity-drug-trial-data-roche-deal/?utm_campaign=rss",
+    "summary": "Lilly disclosed new data that provide more details on the safety and tolerability of its next-generation obesity drug retatrutide",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-08T13:28:35+00:00",
+    "date_str": "Jun 08, 2026"
+  },
+  {
+    "title": "STAT+: J&J spends $1 billion to enter KRAS race for cancer treatments",
+    "url": "https://www.statnews.com/2026/06/08/johnson-and-johnson-firefly-cancer-kras-treatment/?utm_campaign=rss",
+    "summary": "Johnson & Johnson said it will purchase the startup Firefly Bio for $1 billion in an effort to expand its work in the suddenly buzzy field of KRAS inhibitors.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-08T13:17:20+00:00",
+    "date_str": "Jun 08, 2026"
+  },
+  {
+    "title": "Major readouts from the annual diabetes conference",
+    "url": "https://www.statnews.com/2026/06/08/health-news-readouts-from-annual-diabetes-conference/?utm_campaign=rss",
+    "summary": "Why \"Schedule F\" matters, the Ebola outbreak response, and more health news from Morning Rounds",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-08T12:22:16+00:00",
+    "date_str": "Jun 08, 2026"
+  },
+  {
+    "title": "STAT+: Combination of pancreatic cancer drugs from Tango, Revolution leads to high response rate",
+    "url": "https://www.statnews.com/2026/06/08/pancreatic-cancer-combination-tango-therapeutics-revolution-medicines-vopimetostat-daraxonrasib/?utm_campaign=rss",
+    "summary": "A combination of pancreatic cancer drugs from Tango Therapeutics and Revolution Medicines led to a strong response rate in an early-stage trial.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-08T11:55:45+00:00",
+    "date_str": "Jun 08, 2026"
+  },
+  {
+    "title": "In his book, self-described USAID 'whistleblower' talks about the agency and Ebola",
+    "url": "https://www.npr.org/2026/06/08/g-s1-125269/ebola-usaid-outbreak-trump-musk-woodchipper-nicholas-enrich",
+    "summary": "Nicholas Enrich, on staff at the U.S. Agency for International Aid under 4 administrations, talks about Into the Woodchipper: A Whistleblower's Account of How the Trump Administration Shredded USAID.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-08T11:22:10+00:00",
+    "date_str": "Jun 08, 2026"
+  },
+  {
+    "title": "Egg Allergies Declined With Earlier Introduction",
+    "url": "https://www.medpagetoday.com/allergyimmunology/allergy/121644",
+    "summary": "(MedPage Today) -- Fewer toddlers developed egg allergies after guidelines changed to recommend introducing egg products in infancy, large population-based studies from Australia showed. As the proportion of infants introduced to egg by 6 months...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-08T15:00:00+00:00",
+    "date_str": "Jun 08, 2026"
+  },
+  {
+    "title": "Eminent Psychiatrist Dies; Editing Embryo DNA; Acetaminophen vs Ibuprofen",
+    "url": "https://www.medpagetoday.com/psychiatry/generalpsychiatry/121643",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Harvard University professor Robert Coles, MD, the psychiatrist and Pulitzer Prize-winning author who championed the cause of children grappling with poverty and...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-08T13:39:40+00:00",
+    "date_str": "Jun 08, 2026"
+  },
+  {
+    "title": "Olympus’ Keith Boettiger on robotic GI surgery push",
+    "url": "https://www.healthcaredive.com/news/olympus-keith-boettiger-on-robotic-gi-surgery-push/822239/",
+    "summary": "Keith Boettiger, head of Olympus’ gastrointestinal solutions division, delves into the endoscopy leader’s robotics strategy.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-05T15:00:00+00:00",
+    "date_str": "Jun 05, 2026"
+  },
+  {
+    "title": "Elation Health acquires Aster as it ramps up agentic AI for primary care",
+    "url": "https://www.fiercehealthcare.com/health-tech/elation-health-acquires-aster-it-ramps-agentic-ai-primary-care",
+    "summary": "Health tech company Elation Health acquired startup Aster to propel the company's development of an agentic AI operating system for primary care.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-06-08T15:51:20.678102+00:00",
+    "date_str": "Jun 08, 2026"
+  },
+  {
+    "title": "Why self-directed care is becoming central to long-term care",
+    "url": "https://www.fiercehealthcare.com/sponsored/why-self-directed-care-becoming-central-long-term-care",
+    "summary": "PPL COO Jennifer Truscott explains how self-directed care expands the workforce, improves outcomes and scales with accountability.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-06-08T15:51:20.678156+00:00",
+    "date_str": "Jun 08, 2026"
+  },
+  {
+    "title": "AI in health care: From hype to enterprise value",
+    "url": "https://www.fiercehealthcare.com/sponsored/ai-health-care-hype-enterprise-value",
+    "summary": "Where AI is delivering ROI today — and what health care leaders must do to scale it.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-06-08T15:51:20.678187+00:00",
+    "date_str": "Jun 08, 2026"
+  },
+  {
+    "title": "8 Requirements for AI Medical Interpreting: 2026 Survey Results",
+    "url": "https://www.fiercehealthcare.com/sponsored/8-requirements-ai-medical-interpreting-2026-survey-results",
+    "summary": "AI medical interpreting is quickly entering healthcare. Here are 8 requirements leaders should use to pilot it safely and responsibly.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-06-08T15:51:20.678214+00:00",
+    "date_str": "Jun 08, 2026"
+  },
+  {
+    "title": "Stepful banks $55M to scale AI-powered medical training to boost the workforce pipeline",
+    "url": "https://www.fiercehealthcare.com/health-tech/stepful-banks-55m-scale-ai-powered-infrastructure-tackles-healthcare-staffing-shortage",
+    "summary": "The company currently works with more than 35 major healthcare systems and has graduated over 32,000 practice-ready healthcare workers since its founding.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-06-08T15:51:20.678241+00:00",
+    "date_str": "Jun 08, 2026"
+  },
+  {
+    "title": "Essence Healthcare, Oura expand partnership to sleep apnea detection",
+    "url": "https://www.fiercehealthcare.com/payers/essence-healthcare-oura-expand-partnership-sleep-apnea-detection",
+    "summary": "Medicare Advantage insurer Essence Healthcare is continuing to build out its partnership with smart ring maker Oura and has unveiled a new clinical program that aims to identify potential sleep apnea risk.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-06-08T15:51:20.678269+00:00",
+    "date_str": "Jun 08, 2026"
+  },
+  {
     "title": "MAHA’s Treatments for Autism: Camel’s Milk, Stem Cell Injections — And Spelling Therapy",
     "url": "https://kffhealthnews.org/health-industry/autism-controversial-treatment-spelling-maha-telepathy/",
     "summary": "Health secretary Robert F. Kennedy Jr.’s new autism panel is championing a controversial communication method popular among parents of severely autistic people. Critics warn of abuse — and fake “telepathy.”",
@@ -9807,196 +9997,6 @@
     "category": "Medicare News",
     "category_slug": "medicare-news",
     "date": "2026-05-18T14:11:00+00:00",
-    "date_str": "May 18, 2026"
-  },
-  {
-    "title": "What Comes After Pluvicto? A New and Distinct Prostate Cancer Patient Subpopulation Is Taking Shape",
-    "url": "https://medcitynews.com/2026/05/what-comes-after-pluvicto-a-new-and-distinct-prostate-cancer-patient-subpopulation-is-taking-shape/",
-    "summary": "The success of Pluvicto has created a new challenge in prostate cancer, one the field has not yet fully named or defined. The post What Comes After Pluvicto? A New and Distinct Prostate Cancer Patient Subpopulation Is Taking Shape appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-18T13:34:00+00:00",
-    "date_str": "May 18, 2026"
-  },
-  {
-    "title": "Healthcare Doesn’t Need More Companies Managing Unnecessary Costs – It Needs a System Designed to Eliminate Them",
-    "url": "https://medcitynews.com/2026/05/healthcare-doesnt-need-more-companies-managing-unnecessary-costs-it-needs-a-system-designed-to-eliminate-them/",
-    "summary": "Cost management strategies need to focus on simplifying the system, doing away with the outdated processes that inflate costs, and building and deploying tools that allow organizations to control their spending. The post Healthcare Doesn’t Need More Companies Managing Unnecessary Costs – It Needs a System Designed to Eliminate Them appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-18T13:07:00+00:00",
-    "date_str": "May 18, 2026"
-  },
-  {
-    "title": "STAT+: Supreme Court rejects challenge to Medicare drug price negotiation",
-    "url": "https://www.statnews.com/2026/05/18/supreme-court-rejects-challenge-medicare-drug-price-negotiations/?utm_campaign=rss",
-    "summary": "The rejection may make the pharma firms remaining lawsuits more difficult.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-18T14:43:27+00:00",
-    "date_str": "May 18, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about U.S. biotech’s China problem, a Regeneron flop, and much more",
-    "url": "https://www.statnews.com/pharmalot/2026/05/18/biotech-has-china-problem-regeneron-melanoma-drug-flops/?utm_campaign=rss",
-    "summary": "The question of whether to partner with Chinese firms — or see them as rivals — is tearing biotech apart, pitting peers and partners against one another",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-18T13:11:48+00:00",
-    "date_str": "May 18, 2026"
-  },
-  {
-    "title": "Texas is opening up a detransition clinic",
-    "url": "https://www.statnews.com/2026/05/18/health-news-texas-opens-detransition-clinic/?utm_campaign=rss",
-    "summary": "Americans exposed to Ebola outbreak, Bill Cassidy's primary defeat, and more health news from Morning Rounds",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-18T11:43:39+00:00",
-    "date_str": "May 18, 2026"
-  },
-  {
-    "title": "Outbreak Deaths Grow to 80; RFK Jr. Nemesis Loses Primary; Metal Bits in Ice Cream",
-    "url": "https://www.medpagetoday.com/infectiousdisease/ebola/121307",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. The Supreme Court on Monday rejected appeals from pharmaceutical companies that object to negotiating Medicare drug prices with the federal government. (AP) ...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-18T13:36:04+00:00",
-    "date_str": "May 18, 2026"
-  },
-  {
-    "title": "Employer groups, unions urge Trump administration to reform No Surprises dispute resolution",
-    "url": "https://www.healthcaredive.com/news/employers-unions-no-surprises-act-independent-dispute-resolution-reform/820409/",
-    "summary": "Providers are reaping high award amounts, and arbiters have “structural conflicts of interest” that incentivize a high volume of disputes, driving up healthcare costs for employers and patients, the groups wrote.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-18T14:33:45+00:00",
-    "date_str": "May 18, 2026"
-  },
-  {
-    "title": "Employers say they’re doing enough to help with medical costs, but workers disagree",
-    "url": "https://www.healthcaredive.com/news/employers-say-theyre-doing-enough-to-help-with-medical-costs-workers-disagree/820463/",
-    "summary": "The study results highlight “a significant disconnect between how employers believe they are supporting employees and how employees say they feel,” Prudential Financial said.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-14T15:21:00+00:00",
-    "date_str": "May 14, 2026"
-  },
-  {
-    "title": "Psychedelic Therapies Are Almost Here. The Infrastructure Isn't.",
-    "url": "https://www.fiercehealthcare.com/sponsored/psychedelic-therapies-are-almost-here-infrastructure-isnt",
-    "summary": "Psychedelic-assisted therapy is closer to approval than most health systems realize. Here is what the operational gap actually looks like",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-18T15:31:14.890113+00:00",
-    "date_str": "May 18, 2026"
-  },
-  {
-    "title": "Turn Language Access into an Operational Advantage",
-    "url": "https://www.fiercehealthcare.com/sponsored/turn-language-access-operational-advantage",
-    "summary": "Language access affects more than compliance. It impacts throughput, readmissions, provider efficiency, patient satisfaction, and cost.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-18T15:31:14.890166+00:00",
-    "date_str": "May 18, 2026"
-  },
-  {
-    "title": "Watch live: Trump hosts healthcare affordability event",
-    "url": "https://thehill.com/video-clips/5882693-watch-live-donald-trump-healthcare-affordability-event/",
-    "summary": "President Trump is scheduled to host a healthcare affordability event on Monday afternoon at the White House. Trump in January unveiled an affordability framework aimed at lowering drug prices and insurance premiums, as he seeks to address a major Republican political liability ahead of the midterm elections. Watch the event, scheduled to begin at 4:30 p.m. EDT, in the video...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-18T14:53:58+00:00",
-    "date_str": "May 18, 2026"
-  },
-  {
-    "title": "A Danish Couple’s Maverick African Research Finds Its Moment in RFK Jr.’s Vaccine Policy",
-    "url": "https://kffhealthnews.org/public-health/rfk-kennedy-vaccines-denmark-danish-scientists-africa-aaby-benn-dtap-dtp/",
-    "summary": "The work of Peter Aaby and Christine Stabell Benn has long been controversial. Until Robert F. Kennedy Jr. became the U.S. health policy chief, most vaccine scientists tended to ignore it. That has changed.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-18T09:00:00+00:00",
-    "date_str": "May 18, 2026"
-  },
-  {
-    "title": "Kids Keep Getting Stuck in Hospitals, Even After Being Cleared for Discharge",
-    "url": "https://kffhealthnews.org/health-industry/hospital-boarding-social-stays-children-kids-missouri-illinois/",
-    "summary": "Some children are healthy enough to leave the hospital after a medical stay but have no place to go. Across the country, the practice of allowing children to remain hospitalized “beyond medical necessity” has become a costly problem, and states have struggled to address the issue.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-18T09:00:00+00:00",
-    "date_str": "May 18, 2026"
-  },
-  {
-    "title": "Trump Bought Stock in Drugmaker as His Government Boosted Its Obesity Drugs",
-    "url": "https://kffhealthnews.org/health-industry/trump-stock-trades-eli-lilly-glp-1-weight-loss-drugs-invest-ethics-disclosures/",
-    "summary": "New ethics disclosures show the president invested in Eli Lilly and a company that manufactures injectable devices as his health agencies implemented policies that benefited them.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-18T09:00:00+00:00",
-    "date_str": "May 18, 2026"
-  },
-  {
-    "title": "Opinion: How to restore credibility to the CDC’s vaccine advisory committee",
-    "url": "https://www.statnews.com/2026/05/18/acip-charter-vaccine-policy-cdc-political-interference/?utm_campaign=rss",
-    "summary": "Jesse Goodman, former director of CBER and former FDA chief scientist, calls for five critical changes to restore trust in the Advisory Committee on Immunization Practices.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-18T08:30:00+00:00",
-    "date_str": "May 18, 2026"
-  },
-  {
-    "title": "STAT+: The China question is tearing biotech apart",
-    "url": "https://www.statnews.com/2026/05/18/biotech-industry-split-chinese-drugs-opportunity-versus-existential-threat/?utm_campaign=rss",
-    "summary": "China's ascent is forcing U.S. biotech companies and investors to pick a side: Is it an ally or an existential threat?",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-18T08:30:00+00:00",
-    "date_str": "May 18, 2026"
-  },
-  {
-    "title": "Opinion: ‘Patient autonomy’ has nothing to do with childhood vaccine policies",
-    "url": "https://www.statnews.com/2026/05/18/patient-autonomy-childhood-vaccines-red-herring/?utm_campaign=rss",
-    "summary": "Opinion: Vaccine policy it is not a matter of autonomy at all, because infants do not decline vaccination — their parents do.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-18T08:30:00+00:00",
-    "date_str": "May 18, 2026"
-  },
-  {
-    "title": "Thousands of U.S. countertop workers could have damaged lungs, safety expert says",
-    "url": "https://www.npr.org/2026/05/18/nx-s1-5691570/silicosis-beyond-california-quartz-countertop-cambria",
-    "summary": "Over 550 men in California have fallen ill after cutting natural or factory-made stone countertops. But epidemiologists say this isn't just a California problem.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-18T10:00:00+00:00",
-    "date_str": "May 18, 2026"
-  },
-  {
-    "title": "They've got fiber. They're cheap. They're … cool? Behind the 'renaissance' of beans",
-    "url": "https://www.npr.org/2026/05/18/nx-s1-5768189/beans-fiber-diet-legumes",
-    "summary": "The fiber craze is pushing more people into the broad world of beans, as the U.S. bean industry looks to double American consumption of pulses by 2030.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-18T09:00:00+00:00",
     "date_str": "May 18, 2026"
   }
 ]
