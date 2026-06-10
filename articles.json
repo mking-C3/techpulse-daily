@@ -1,5 +1,75 @@
 [
   {
+    "title": "Looming Medicaid Cuts Supercharge California’s Latest Labor-Industry Fight",
+    "url": "https://kffhealthnews.org/medicaid/seiu-uhw-union-healthcare-industry-california-ballot-initiatives-clinic-executive-pay/",
+    "summary": "One of California’s largest healthcare unions is sponsoring two initiatives that would regulate community clinics and cap executive and managerial pay at hospitals and physician groups. In the most recent eruption of a long-standing feud, the measures have drawn fierce opposition from a wide swath of the medical industry.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-10T09:00:00+00:00",
+    "date_str": "Jun 10, 2026"
+  },
+  {
+    "title": "Anguished Parents. Doctors in Tears. Utah’s Long Measles Outbreak Takes a Toll.",
+    "url": "https://kffhealthnews.org/public-health/utah-measles-outbreak-vaccines-preventable-diseases-doctors-strained-new-normal/",
+    "summary": "Measles has been spreading in Utah for nearly a year, straining hospitals, schools, and parents. The state’s outbreak provides a glimpse into a new era in America’s health, in which vaccine-preventable diseases become common again.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-10T09:00:00+00:00",
+    "date_str": "Jun 10, 2026"
+  },
+  {
+    "title": "Opinion: ‘They all think I’m insane’: What it’s like to start medical residency at 72",
+    "url": "https://www.statnews.com/2026/06/10/medical-residency-in-seventies-caribbean-medical-school-experience/?utm_campaign=rss",
+    "summary": "“I know what I’m getting into”: Dawn Zuidgeest-Craft on starting medical residency at almost 73.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-10T08:30:00+00:00",
+    "date_str": "Jun 10, 2026"
+  },
+  {
+    "title": "Opinion: Even in abortion-protecting states, teens face unnecessary barriers to care",
+    "url": "https://www.statnews.com/2026/06/10/parental-notification-laws-abortion-blue-states/?utm_campaign=rss",
+    "summary": "“Legal protection for abortion does not mean equitable access for minors,” a pediatrics resident writes.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-10T08:30:00+00:00",
+    "date_str": "Jun 10, 2026"
+  },
+  {
+    "title": "STAT+: As the U.S. looks on, European countries feel growing pressure on drug prices",
+    "url": "https://www.statnews.com/2026/06/10/european-drug-pricing-most-favored-nation-impact/?utm_campaign=rss",
+    "summary": "In Europe, two divergent paths are emerging as countries grapple with what to do about drug prices, affecting both pharma and patients — and testing the influence of the U.S.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-10T08:30:00+00:00",
+    "date_str": "Jun 10, 2026"
+  },
+  {
+    "title": "Are Republicans turning against medications for treating opioid addiction?",
+    "url": "https://www.statnews.com/2026/06/10/medications-opioid-use-disorder-trump-moud-policy-change/?utm_campaign=rss",
+    "summary": "Federal actions and proposals have reignited debate over methadone and buprenorphine, worrying addiction experts and patient groups.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-10T08:30:00+00:00",
+    "date_str": "Jun 10, 2026"
+  },
+  {
+    "title": "Bill Gates’ damaged reputation is about to get another Epstein test",
+    "url": "https://www.politico.com/news/2026/06/10/bill-gates-epstein-oversight-investigation-00955465",
+    "summary": "Lawmakers will question the billionaire Microsoft founder and global health philanthropist about his ties to the late sex offender.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-06-10T08:45:00+00:00",
+    "date_str": "Jun 10, 2026"
+  },
+  {
     "title": "The 5 Areas Where Dr. Oz Says CMS Can Make Healthcare More Affordable",
     "url": "https://medcitynews.com/2026/06/dr-oz-cms-healthcare-affordability/",
     "summary": "CMS Administrator Dr. Mehmet Oz outlined the agency’s strategy for making healthcare more affordable during a Tuesday address at the HFMA Annual Conference, touching on everything from Medicare fraud to drug pricing to nutrition. The post The 5 Areas Where Dr. Oz Says CMS Can Make Healthcare More Affordable appeared first on MedCity News .",
@@ -9927,76 +9997,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-05-19T16:51:06+00:00",
-    "date_str": "May 19, 2026"
-  },
-  {
-    "title": "Coalition of attorneys general sue to block federal student loan caps",
-    "url": "https://www.fiercehealthcare.com/providers/coalition-attorneys-general-sue-block-federal-student-loan-caps",
-    "summary": "Twenty-six attorneys general filed a lawsuit Tuesday against the Department of Education over a recently finalized restrictions on federal student loans the litigators, as well as health industry groups, say will hamper the clinical workforce pipeline.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-20T03:32:43.689074+00:00",
-    "date_str": "May 20, 2026"
-  },
-  {
-    "title": "AI company Commure banks $70M funding round, hits $7B valuation",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-company-commure-banks-70m-funding-round-hits-7b-valuation",
-    "summary": "Healthcare AI company Commure has banked $70 million in fresh funding, reaching a $7 billion valuation.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-20T03:32:43.689126+00:00",
-    "date_str": "May 20, 2026"
-  },
-  {
-    "title": "UVA Health launches ‘on-demand’ virtual primary care service to address physician shortage",
-    "url": "https://www.fiercehealthcare.com/telehealth/uva-health-launches-demand-virtual-primary-care-service-new-existing-patients",
-    "summary": "New and existing patients can use the service to schedule appointments for common conditions, preventive care and disease management.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-20T03:32:43.689161+00:00",
-    "date_str": "May 20, 2026"
-  },
-  {
-    "title": "OIG: Jury still out on impacts of vertical consolidation in Part D",
-    "url": "https://www.fiercehealthcare.com/payers/oig-jury-still-out-impacts-vertical-consolidation-part-d",
-    "summary": "A new analysis from the Office of Inspector General found a similar net cost for drugs through vertically-integrated Part D plans compared to other plans.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-20T03:32:43.689190+00:00",
-    "date_str": "May 20, 2026"
-  },
-  {
-    "title": "71% of US adults use health-related apps, 64% devices: report",
-    "url": "https://www.fiercehealthcare.com/digital-health/71-us-adults-use-health-related-apps-report",
-    "summary": "A combined 88% of respondents want either more or the same amount of technology for health and wellness management over the next five to 10 years.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-20T03:32:43.689217+00:00",
-    "date_str": "May 20, 2026"
-  },
-  {
-    "title": "Relief group says Trump cuts ‘led to delayed detection of deadly Ebola outbreak’",
-    "url": "https://www.politico.com/news/2026/05/19/relief-group-says-trump-cuts-forced-it-to-scale-back-surveillance-in-ebola-affected-region-00928578",
-    "summary": "The International Rescue Committee said the cuts are partially to blame for the rapid spread of the disease in the Congo.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-19T22:21:57+00:00",
-    "date_str": "May 19, 2026"
-  },
-  {
-    "title": "Abortion clinic protesters eligible for payouts from new Trump ‘anti-weaponization’ fund",
-    "url": "https://www.politico.com/news/2026/05/19/abortion-clinic-protesters-eligible-for-payouts-from-new-trump-anti-weaponization-fund-00928784",
-    "summary": "The new fund comes as a pro-abortion rights group says threats and violent attacks at clinics are on the rise.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-19T21:56:58+00:00",
     "date_str": "May 19, 2026"
   }
 ]
