@@ -1,5 +1,235 @@
 [
   {
+    "title": "From Copilots to Clinical Judgment: The Next Phase of AI in Digital Behavioral Health",
+    "url": "https://medcitynews.com/2026/06/from-copilots-to-clinical-judgment-the-next-phase-of-ai-in-digital-behavioral-health/",
+    "summary": "The next phase of AI in healthcare is about building systems where human clinicians, supervisors, and AI can all contribute, challenge each other, and improve how decisions are made. The post From Copilots to Clinical Judgment: The Next Phase of AI in Digital Behavioral Health appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-11T13:51:00+00:00",
+    "date_str": "Jun 11, 2026"
+  },
+  {
+    "title": "AI Is Scaling Healthcare Costs Because the System Was Built That Way",
+    "url": "https://medcitynews.com/2026/06/ai-is-scaling-healthcare-costs-because-the-system-was-built-that-way/",
+    "summary": "AI is not driving healthcare cost inflation. It is exposing a system that has always been designed to reward it, and making that system more efficient. As long as reimbursement is tied to intensity, every technological advancement will move in the same direction: toward maximizing it. The post AI Is Scaling Healthcare Costs Because the System Was Built That Way appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-11T13:37:20+00:00",
+    "date_str": "Jun 11, 2026"
+  },
+  {
+    "title": "What Healthcare Leaders Get Wrong About EHR Switching",
+    "url": "https://medcitynews.com/2026/06/what-healthcare-leaders-get-wrong-about-ehr-switching/",
+    "summary": "EHR switching involves risk. But taking a life cycle view, considering data migration, workflow configuration, training, downtime, ongoing fees and eventual exit terms, can put an end to your EHR pain. The post What Healthcare Leaders Get Wrong About EHR Switching appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-11T13:32:00+00:00",
+    "date_str": "Jun 11, 2026"
+  },
+  {
+    "title": "The Identity Gap Undermining Value-Based Care",
+    "url": "https://medcitynews.com/2026/06/the-identity-gap-undermining-value-based-care/",
+    "summary": "[Sponsored] A webinar sponsored by Verato and scheduled for June 17 from 1 pm to 2 pm ET will explore how a unified identity strategy, spanning patients, providers, and emerging solutions enabling accurate attribution, strengthens interoperability, and ultimately drives VBC success. Register today! The post The Identity Gap Undermining Value-Based Care appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-11T11:41:07+00:00",
+    "date_str": "Jun 11, 2026"
+  },
+  {
+    "title": "STAT+: A suspicious denial pattern in Medicare Advantage",
+    "url": "https://www.statnews.com/2026/06/11/medicare-advantage-prior-authorization-denials-trustees-report-prescription-drug-costs/?utm_campaign=rss",
+    "summary": "Major Medicare Advantage plans almost always reversed their denials on appeal, raising big questions about barriers to care.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-11T14:55:52+00:00",
+    "date_str": "Jun 11, 2026"
+  },
+  {
+    "title": "STAT+: Novartis doubles down on molecular glue strategy",
+    "url": "https://www.statnews.com/2026/06/11/biotech-news-novartis-doubles-down-on-molecular-glue-strategy/?utm_campaign=rss",
+    "summary": "Seniors' drug costs rise sharply, Enliven's leukemia drugs, and more biotech news from The Readout",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-11T14:11:20+00:00",
+    "date_str": "Jun 11, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about employer coverage of obesity drugs, another Sanofi setback, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/06/11/employer-overage-of-obesity-drugs-another-sanofi-setback/?utm_campaign=rss",
+    "summary": "More employers are planning to drop coverage of GLP-1 drugs for weight loss next year as increasing numbers of people take the medications",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-11T13:21:55+00:00",
+    "date_str": "Jun 11, 2026"
+  },
+  {
+    "title": "STAT+: ‘Synthetic lethality’ could trigger another round of biotech M&A",
+    "url": "https://www.statnews.com/2026/06/11/synthetic-lethality-cancer-tango-revolution/?utm_campaign=rss",
+    "summary": "Proving out a \"synthetic lethality\" approach can help treat cancer will take a lot more work. It also might trigger some creative deal-making.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-11T12:05:00+00:00",
+    "date_str": "Jun 11, 2026"
+  },
+  {
+    "title": "STAT+: Enliven Therapeutics’ leukemia drug shows promise in new study",
+    "url": "https://www.statnews.com/2026/06/11/enliven-therapeutics-leukemia-drug-shows-promise/?utm_campaign=rss",
+    "summary": "A targeted drug from Enliven Therapeutics induced molecular responses in nearly half of patients with advanced leukemia, new data show.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-11T12:05:00+00:00",
+    "date_str": "Jun 11, 2026"
+  },
+  {
+    "title": "HHS responds coolly to paper on alcohol risk",
+    "url": "https://www.statnews.com/2026/06/11/health-news-hhs-responds-to-paper-on-alcohol-risk/?utm_campaign=rss",
+    "summary": "Soda and liver cancer, scientists conflicted on a new NIH proposal, and more health news from Morning Rounds",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-11T11:55:52+00:00",
+    "date_str": "Jun 11, 2026"
+  },
+  {
+    "title": "Too Sick to Work, but Can They Prove It? New Medicaid Rule Worries Patients.",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/medicaid/121709",
+    "summary": "(MedPage Today) -- On hot afternoons, DeAnna Brandon's three dogs zag around while she splashes in a backyard kiddie pool with her grandkids. These are the moments the 48-year-old blood cancer survivor cherishes -- and wonders if she'll get to...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-11T14:35:20+00:00",
+    "date_str": "Jun 11, 2026"
+  },
+  {
+    "title": "Ebola's Brain Effects Persist More Than 7 Years After Infection",
+    "url": "https://www.medpagetoday.com/neurology/generalneurology/121707",
+    "summary": "(MedPage Today) -- Neurologic manifestations in Ebola survivors persisted more than 7 years after acute infection, data from the prospective PREVAIL III study showed. Compared with controls, people who survived the 2014-2016 epidemic in West Africa...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-11T14:22:23+00:00",
+    "date_str": "Jun 11, 2026"
+  },
+  {
+    "title": "Rabbit Fever Alert; Med School Faces Bias Claim; TAVR Program Still Under Fire",
+    "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/121706",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Health officials sounded the alarm on the presence of tularemia, or \"rabbit fever,\" in northern Colorado. (USA Today via Yahoo!) The number of ​confirmed...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-11T13:31:15+00:00",
+    "date_str": "Jun 11, 2026"
+  },
+  {
+    "title": "Medicare insolvency date creeps forward thanks to ‘Big Beautiful Bill,’ trustees find",
+    "url": "https://www.healthcaredive.com/news/medicare-insolvency-date-hi-fund-obbb-trustees-report/822499/",
+    "summary": "The trust fund underpinning Medicare’s hospital benefit is set to run out of money one quarter earlier than previously expected as tax cuts in the GOP’s reconciliation legislation shrink Medicare’s revenue.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-11T15:02:29+00:00",
+    "date_str": "Jun 11, 2026"
+  },
+  {
+    "title": "UHS deal exposes pitfalls of physician group acquisitions",
+    "url": "https://www.healthcaredive.com/news/uhs-deal-exposes-pitfalls-of-physician-group-acquisitions/822630/",
+    "summary": "Despite major financial struggles, some providers at a physician group in Washington, D.C., say the contract terms from its new, and much larger, parent is not the lifeline they want.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-11T14:31:04+00:00",
+    "date_str": "Jun 11, 2026"
+  },
+  {
+    "title": "UPMC to lay off 200 employees, cut 300 open positions",
+    "url": "https://www.healthcaredive.com/news/upmc-lay-off-200-employees-cut-300-open-positions/822511/",
+    "summary": "A spokesperson said the layoffs were primarily in non-clinical or member facing roles.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-11T14:30:00+00:00",
+    "date_str": "Jun 11, 2026"
+  },
+  {
+    "title": "Humana divests interest in end-of-life provider Gentiva valued at $900M",
+    "url": "https://www.healthcaredive.com/news/humana-divests-gentiva-interest-valued-900m/822616/",
+    "summary": "The insurer is offloading its interest in the massive end-of-life care provider to an undisclosed group of investors, amid widespread concern about private investors’ activity in healthcare.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-11T13:24:42+00:00",
+    "date_str": "Jun 11, 2026"
+  },
+  {
+    "title": "Hospital associations push CMS for higher 2027 pay bump, softer ramp-up for mandatory model",
+    "url": "https://www.fiercehealthcare.com/providers/hospital-associations-push-cms-higher-2027-pay-bump-softer-ramp-mandatory-model",
+    "summary": "Public comments submitted this week rule skewered a proposed 2.4% net rate increase as insufficient in light of substantial financial headwinds. An accompanying mandatory expansion of a tested episode-based payment model, the CJR-X Model, was also flatly opposed.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-06-11T15:59:29.670381+00:00",
+    "date_str": "Jun 11, 2026"
+  },
+  {
+    "title": "WellSpan reports 66% workplace violence reduction with Canopy's safety tech",
+    "url": "https://www.fiercehealthcare.com/hospitals/wellspan-reports-66-workplace-violence-reduction-canopy-systemwide-tech-case-study",
+    "summary": "Alongside decreased workplace injuries, the case study found increased reporting of verbal escalations and the connected safety platform system’s successful use in medical emergencies.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-06-11T15:59:29.670445+00:00",
+    "date_str": "Jun 11, 2026"
+  },
+  {
+    "title": "RFK Jr. rips journalist over report he has 'checked out'",
+    "url": "https://thehill.com/homenews/administration/5919889-robert-f-kennedy-jr-hhs-nyt-criticism/",
+    "summary": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. on Wednesday slammed a New York Times report alleging that some say he appears to be “checked out” from official duties during department meetings and has surrounded himself with political appointees who share his viewpoint. In a post on X, Kennedy said his day-to-day actions are publicly...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-06-11T15:57:47+00:00",
+    "date_str": "Jun 11, 2026"
+  },
+  {
+    "title": "FDA gives emergency approval to screwworm over-the-counter pet drug",
+    "url": "https://thehill.com/policy/healthcare/5919928-fda-authorizes-screwworm-treatment/",
+    "summary": "The Food and Drug Administration on Thursday granted emergency use authorization to a generic over-the-counter tablet to treat New World screwworm in dogs and cats, the first generic animal drug authorized for use against the parasite. The authorization comes as officials in Texas and New Mexico confirmed at least seven cases of screwworm in cattle,...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-06-11T14:36:05+00:00",
+    "date_str": "Jun 11, 2026"
+  },
+  {
+    "title": "CDC chief: 'No evidence' USAID cuts hampered Ebola response",
+    "url": "https://thehill.com/policy/healthcare/5919775-ebola-outbreak-cdc-trump-administration-cuts/",
+    "summary": "The acting director of the Centers for Disease Control and Prevention (CDC) denied Wednesday that the Trump administration’s cuts to foreign aid negatively impacted the global response to the ongoing Ebola outbreak. Dr. Jay Bhattacharya said on NewsNation’s “Elizabeth Vargas Reports” that he has “never met a more competent, committed group of professionals” than the...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-06-11T14:28:12+00:00",
+    "date_str": "Jun 11, 2026"
+  },
+  {
+    "title": "Leading OB-GYN group issues vaccine recommendations, breaks with CDC",
+    "url": "https://thehill.com/policy/healthcare/5918591-obgyn-group-vaccine-recommendations-cdc-trump-admin/",
+    "summary": "The American College of Obstetricians & Gynecologists (ACOG) released a recommended maternal vaccine schedule Wednesday that for the first time diverges with guidance from the Centers for Disease Control and Prevention (CDC). ACOG recommended four vaccines be administered during pregnancy: a flu shot, a COVID-19 shot, tetanus, diphtheria and pertussis (Tdap), and one to protect against respiratory syncytial virus in the developing...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-06-10T18:17:28+00:00",
+    "date_str": "Jun 10, 2026"
+  },
+  {
     "title": "Trump Bought Tobacco Stocks and Raked In Industry Donations as FDA Eased Standards",
     "url": "https://kffhealthnews.org/courts/fda-tobacco-vape-vaping-ecigarette-smoking-trump-investments-maga-donations/",
     "summary": "The Trump administration has pursued an extensive pro-tobacco agenda as the president and his political movement have been buoyed by a flood of tobacco industry money, federal records show.",
@@ -9767,236 +9997,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-05-20T21:34:55+00:00",
-    "date_str": "May 20, 2026"
-  },
-  {
-    "title": "Study Questions Methods Used in Alzheimer's Drug Analysis",
-    "url": "https://www.medpagetoday.com/neurology/alzheimersdisease/121382",
-    "summary": "(MedPage Today) -- A statistical approach used to support amyloid-targeting treatment for Alzheimer's disease may lead to overstated claims about amyloid-cognition relationships, an analysis suggested. The study focused on quantile aggregation...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-20T21:21:13+00:00",
-    "date_str": "May 20, 2026"
-  },
-  {
-    "title": "Pictorial Tool Helps Lupus Patients Stay on Hydroxychloroquine",
-    "url": "https://www.medpagetoday.com/rheumatology/lupus/121381",
-    "summary": "(MedPage Today) -- Showing lupus patients in pictures exactly how much benefit hydroxychloroquine (HCQ) is likely to provide, as well as the risks for side effects, raised adherence to their prescribed regimens in a prospective trial. At baseline...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-20T21:06:39+00:00",
-    "date_str": "May 20, 2026"
-  },
-  {
-    "title": "Former CDC Chief Tom Frieden on the Latest Ebola Outbreak",
-    "url": "https://www.medpagetoday.com/opinion/faustfiles/121379",
-    "summary": "(MedPage Today) -- A fast-moving Ebola outbreak in Congo has led to nearly 600 suspected cases and 139 deaths, prompting the World Health Organization to declare a public health emergency of international concern. In this MedPage Today webinar...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-20T20:44:01+00:00",
-    "date_str": "May 20, 2026"
-  },
-  {
-    "title": "No Infants Developed Measles After Utah Prophylaxis Regimen",
-    "url": "https://www.medpagetoday.com/pediatrics/generalpediatrics/121378",
-    "summary": "(MedPage Today) -- After 11 infants were exposed to measles at a pediatric clinic in Utah, the state Department of Health and Human Services (DHHS) helped administer intramuscular immunoglobulin (IMIG) as postexposure prophylaxis (PEP) and ultimately...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-20T20:38:32+00:00",
-    "date_str": "May 20, 2026"
-  },
-  {
-    "title": "From Missed Signals to Meaningful EoE Dialogue: The Impact of Shared Decision-making",
-    "url": "https://www.medpagetoday.com/ad-insights/industry-clinic/120928",
-    "summary": "(MedPage Today) -- Bryan Sauer, MD, MSc, and Rob are paid consultants for Takeda. Awareness of eosinophilic esophagitis (EoE), a progressive, immune-mediated inflammatory disease of the esophagus, has increased substantially over the past decade...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-20T20:29:57+00:00",
-    "date_str": "May 20, 2026"
-  },
-  {
-    "title": "RFK Jr. Fires USPSTF Leaders",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/121375",
-    "summary": "(MedPage Today) -- HHS Secretary Robert F. Kennedy Jr. fired the two vice chairs of the U.S. Preventive Services Task Force (USPSTF) -- John Wong, MD, of Tufts Medical Center in Boston, and Esa Davis, MD, MPH, of the University of Maryland in...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-20T19:23:12+00:00",
-    "date_str": "May 20, 2026"
-  },
-  {
-    "title": "CMS proposes rule aimed at limiting Medicaid state-directed payments",
-    "url": "https://www.fiercehealthcare.com/regulatory/cms-proposes-rule-aimed-limiting-medicaid-state-directed-payments",
-    "summary": "The Trump administration has proposed a \"sweeping crackdown\" on Medicaid payments that it says have significantly inflated costs in the program.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-21T03:38:32.958049+00:00",
-    "date_str": "May 21, 2026"
-  },
-  {
-    "title": "WTW: Employers aiming to bulk up AI use for health and benefits",
-    "url": "https://www.fiercehealthcare.com/payers/wtw-employers-aiming-bulk-ai-use-health-and-benefits",
-    "summary": "Employers are set to significantly increase their use of AI in health benefits, a new survey shows, even as they continue to face barriers to rolling out the tech.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-21T03:38:32.958111+00:00",
-    "date_str": "May 21, 2026"
-  },
-  {
-    "title": "'Missed risk': Women's Heart Health Summit explores gaps in research, treatment",
-    "url": "https://www.fiercehealthcare.com/providers/missed-risk-womens-heart-health-summit-explores-gaps-research-treatment",
-    "summary": "The event, in its third year, brings together stakeholders across healthcare, including clinicians, researchers, employers, advocates and more, to share learnings and facilitate partnerships to advance women’s health.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-21T03:38:32.958149+00:00",
-    "date_str": "May 21, 2026"
-  },
-  {
-    "title": "House and Senate Democrats move to overturn CMS’ WISeR AI prior auth pilot",
-    "url": "https://www.fiercehealthcare.com/regulatory/legislators-introduce-resolution-seek-congressional-disapproval-cms-wiser-ai-prior-auth",
-    "summary": "The resolution comes after the GAO ruled the model is subject to a vote under the Congressional Review Act.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-21T03:38:32.958179+00:00",
-    "date_str": "May 21, 2026"
-  },
-  {
-    "title": "HHS warns of children's screen time use, citing impact on sleep, mental health",
-    "url": "https://thehill.com/policy/healthcare/5888558-children-screen-time-warning/",
-    "summary": "The Department of Health and Human Services (HHS) warned about children’s screen time in an advisory released Wednesday, citing impacts on sleep and mental health. The “Surgeon General's Warning on the Harms of Screen Use” states that “harmful screen use among children and adolescents has become a public health concern; growing up surrounded by screens...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-21T03:00:33+00:00",
-    "date_str": "May 21, 2026"
-  },
-  {
-    "title": "Lawmakers, health leaders make bipartisan push to expand clinical trials access",
-    "url": "https://thehill.com/policy/healthcare/5888314-clinical-trials-underrepresented-communities/",
-    "summary": "A House Democrat and Republican on Wednesday highlighted their push to expand access to clinical trials, saying artificial intelligence could be one tool used to reach more underrepresented communities seeking additional treatment options. The Clinical Trial Modernization Act, co-sponsored by Reps. Raul Ruiz (D-Calif.) and Erin Houchin (R-Ind.), is a bipartisan effort aiming to address...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-20T22:26:45+00:00",
-    "date_str": "May 20, 2026"
-  },
-  {
-    "title": "MedCity Pivot Podcast: A Conversation About Interoperability with Particle Health’s CEO",
-    "url": "https://medcitynews.com/2026/05/medcity-pivot-podcast-a-conversation-about-interoperability-with-particle-healths-ceo/",
-    "summary": "Jason Prestinario talks about the state of healthcare interoperability today, while also addressing questions about the interoperability lawsuits he and others are involved in against Epic. The post MedCity Pivot Podcast: A Conversation About Interoperability with Particle Health’s CEO appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-20T17:17:23+00:00",
-    "date_str": "May 20, 2026"
-  },
-  {
-    "title": "Congressional Democrats try to force a vote to end Medicare AI prior authorization pilot",
-    "url": "https://www.statnews.com/2026/05/20/democrats-force-vote-to-end-medicare-ai-prior-authorization-pilot/?utm_campaign=rss",
-    "summary": "Congressional Democrats are mounting a fresh effort to end a Medicare experiment to use AI to approve or deny care.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-20T19:28:21+00:00",
-    "date_str": "May 20, 2026"
-  },
-  {
-    "title": "STAT+: Pioneering trial for treating genetic disease before birth nears reality",
-    "url": "https://www.statnews.com/2026/05/20/tippi-mackenzie-in-utero-gene-therapy-nears-first-fda-trial/?utm_campaign=rss",
-    "summary": "A UCSF team has submitted an application to the FDA seeking approval for a small trial of in utero gene therapy for a rare lysosomal storage disorder.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-20T18:48:30+00:00",
-    "date_str": "May 20, 2026"
-  },
-  {
-    "title": "Surgeon general’s office issues warning on screen time for children",
-    "url": "https://www.statnews.com/2026/05/20/surgeon-general-public-health-warning-screen-time-children/?utm_campaign=rss",
-    "summary": "A public health advisory calls on parents, schools, and government to limit children's use of screens, saying some patterns of use “can pose real harm to children.”",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-20T18:30:00+00:00",
-    "date_str": "May 20, 2026"
-  },
-  {
-    "title": "STAT+: Florida hospitals win $8 billion in extra Medicaid funds",
-    "url": "https://www.statnews.com/2026/05/20/florida-hospitals-get-8-billion-extra-medicaid-funds-before-trump-limits/?utm_campaign=rss",
-    "summary": "Stricter limits on extra Medicaid funds are coming, stemming from President Trump's tax cut bill.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-20T18:03:37+00:00",
-    "date_str": "May 20, 2026"
-  },
-  {
-    "title": "STAT+: Scientists track cellular disruptions that lead to type 1 diabetes",
-    "url": "https://www.statnews.com/2026/05/20/type-1-diabetes-early-molecular-clues-science-translational-medicine/?utm_campaign=rss",
-    "summary": "Growing evidence suggests it takes a sustained viral infection in the right genetic environment to lead to type 1 diabetes.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-20T18:00:00+00:00",
-    "date_str": "May 20, 2026"
-  },
-  {
-    "title": "Opinion: I saw Ebola as both doctor and patient. I wish people cared more about the Africans I worked alongside",
-    "url": "https://www.statnews.com/2026/05/20/ebola-patients-suffering-health-care-workers/?utm_campaign=rss",
-    "summary": "“As another Ebola outbreak unfolds, we cannot repeat the mistakes of the past,” writes Krutika Kuppalli.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-20T17:02:52+00:00",
-    "date_str": "May 20, 2026"
-  },
-  {
-    "title": "STAT+: Biotech execs, academic expert lament impact of FDA turnover on rare disease drug development",
-    "url": "https://www.statnews.com/2026/05/20/rare-disease-biotech-ceos-discuss-fda-uncertainty-stat-summit/?utm_campaign=rss",
-    "summary": "How the ouster of key officials at the FDA has created anxiety and uncertainty for the developers of rare disease drugs.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-20T17:00:07+00:00",
-    "date_str": "May 20, 2026"
-  },
-  {
-    "title": "STAT+: Kennedy fires two leaders on preventive services task force",
-    "url": "https://www.statnews.com/2026/05/20/kennedy-fires-vice-chairs-us-preventive-services-task-force/?utm_campaign=rss",
-    "summary": "Kennedy will have broad latitude to remake the panel, which advises the government on types of preventive care that should be covered by health insurance.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-20T16:44:42+00:00",
-    "date_str": "May 20, 2026"
-  },
-  {
-    "title": "Pancreatic Cancer Risk Much Higher for Certain Group, Study Suggests",
-    "url": "https://www.medpagetoday.com/gastroenterology/pancreaticdiseases/121374",
-    "summary": "(MedPage Today) -- Low-risk pancreatic cystic lesions were associated with a long-term risk of pancreatic cancer, according to a retrospective cohort study. Among over 6,000 patients with low-risk pancreatic cystic lesions, 0.6% developed pancreatic...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-20T18:47:50+00:00",
-    "date_str": "May 20, 2026"
-  },
-  {
-    "title": "IL-6 Drug Promising in Depression; U.S. More Anxious; AI Risks in Addiction Medicine",
-    "url": "https://www.medpagetoday.com/psychiatry/generalpsychiatry/121373",
-    "summary": "(MedPage Today) -- A single infusion of the interleukin (IL)-6 inhibitor tocilizumab (Actemra) showed greater improvements in depression severity, somatic symptoms, fatigue, and anxiety in patients with difficult-to-treat depression and low-grade...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-20T18:33:55+00:00",
     "date_str": "May 20, 2026"
   }
 ]
