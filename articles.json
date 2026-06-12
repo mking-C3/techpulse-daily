@@ -1,5 +1,115 @@
 [
   {
+    "title": "1 in 4 Covered California Enrollees Could Get State Aid Under Newsom Proposal",
+    "url": "https://kffhealthnews.org/insurance/covered-california-aca-obamacare-insurance-premium-subsidies-affordability/",
+    "summary": "California is considering expanding financial help for low-income residents struggling to pay high health insurance premiums after losing federal subsidies. But relief for state marketplace customers will be limited. Here’s who may get help and what it could mean for premiums.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-12T09:00:00+00:00",
+    "date_str": "Jun 12, 2026"
+  },
+  {
+    "title": "Final Rules for Medicaid Work Requirements Are Out. Here’s What You Need To Know.",
+    "url": "https://kffhealthnews.org/medicaid/medicaid-work-requirements-final-rules-exemptions-trump-cms/",
+    "summary": "The Trump administration has laid out what millions of Americans on Medicaid must do to prove they’re working or completing other activities. Health policy researchers and consumer advocates say there are some important takeaways.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-12T09:00:00+00:00",
+    "date_str": "Jun 12, 2026"
+  },
+  {
+    "title": "STAT+: At hospital finance conference, a call to end the friction that’s keeping costs high",
+    "url": "https://www.statnews.com/2026/06/12/hfma-conference-healthcare-affordability-revenue-cycle-vendors/?utm_campaign=rss",
+    "summary": "Hospital execs agree that affordability is a major issue. What to do about it is less clear.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-12T08:30:00+00:00",
+    "date_str": "Jun 12, 2026"
+  },
+  {
+    "title": "Opinion: Ebola outbreak response requires engaging with religious traditions and leaders",
+    "url": "https://www.statnews.com/2026/06/12/ebola-response-drc-uganda-religion-burial-rites/?utm_campaign=rss",
+    "summary": "“Failing to engage religious and traditional leaders in meaningful ways was a grave misstep in previous Ebola outbreaks,” researchers write.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-12T08:30:00+00:00",
+    "date_str": "Jun 12, 2026"
+  },
+  {
+    "title": "Opinion: I’ve spent 40 years in research. I have never seen a threat to science like the new grantmaking rule",
+    "url": "https://www.statnews.com/2026/06/12/omb-grantmaking-rule-uniform-guidance-politics-science/?utm_campaign=rss",
+    "summary": "“American science is too valuable to be turned into a political football,” writes David J. Skorton, president of the Association of American Medical Colleges.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-12T08:30:00+00:00",
+    "date_str": "Jun 12, 2026"
+  },
+  {
+    "title": "How a diabetes conference sparked a controversy",
+    "url": "https://www.statnews.com/2026/06/12/ada-convention-controversy-explored-status-report-alex-hogan/?utm_campaign=rss",
+    "summary": "Many in the diabetes research community expressed shock and disbelief that their colleagues were threatened with arrest for passing out paper copies of an editorial.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-12T08:05:00+00:00",
+    "date_str": "Jun 12, 2026"
+  },
+  {
+    "title": "Trump's DOJ can't get names and medical files of trans youth in California, for now",
+    "url": "https://www.npr.org/2026/06/12/nx-s1-5855728/transgender-youth-healthcare-trump-subpoena",
+    "summary": "Trump's Department of Justice is seeking patient files that include the names of young people who have been treated in transgender clinics, as well as hospital staff who have provided care.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-12T09:00:00+00:00",
+    "date_str": "Jun 12, 2026"
+  },
+  {
+    "title": "Want a better skin care routine? Sign up for our one-week guide",
+    "url": "https://www.npr.org/2026/06/12/nx-s1-5846860/smart-skin-care-routine-products-newsletter",
+    "summary": "Spending too much time and money on skin care? Find out what really works to improve skin health and appearance with our one-week newsletter guide. Sign up here.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-12T09:00:00+00:00",
+    "date_str": "Jun 12, 2026"
+  },
+  {
+    "title": "Sodium Bicarbonate Fails to Improve Kidney Outcomes in ICU",
+    "url": "https://www.medpagetoday.com/criticalcare/generalcriticalcare/121723",
+    "summary": "(MedPage Today) -- Sodium bicarbonate to correct metabolic acidosis in critically ill patients on vasopressors did not lower risks of major kidney outcomes, the randomized, double-blind SODa-BIC trial showed. While the intervention rapidly corrected...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-12T08:15:00+00:00",
+    "date_str": "Jun 12, 2026"
+  },
+  {
+    "title": "Trump wants you to know this RFK Jr. aide’s name",
+    "url": "https://www.politico.com/news/2026/06/12/trump-wants-you-to-know-this-rfk-jr-aides-name-00959677",
+    "summary": "Chris Klomp is working to boost morale and deliver results at the Health Department after a year of upheaval.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-06-12T09:00:00+00:00",
+    "date_str": "Jun 12, 2026"
+  },
+  {
+    "title": "Democrats seek next ObamaCare ahead of midterms amid rising health costs",
+    "url": "https://thehill.com/policy/healthcare/5920779-healthcare-reforms-democratic-momentum/",
+    "summary": "There is growing momentum within the Democratic Party to find its next ObamaCare heading into the midterms, as healthcare costs become more untenable and American anger over affordability persists. Healthcare has consistently ranked as a top issue for voters heading into this year’s midterm elections. June polling from Emerson College found that healthcare ranked in the top five issues for...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-06-12T10:00:00+00:00",
+    "date_str": "Jun 12, 2026"
+  },
+  {
     "title": "Abridge Goes Beyond Documentation: 4 Updates",
     "url": "https://medcitynews.com/2026/06/abridge-clinical-ai/",
     "summary": "Clinical AI startup Abridge held a New York City event to signal it’s done being thought of as just an AI scribe. The company announced a Nvidia foundation model partnership, an Eli Lilly investment, new capabilities for its platform, and the intent to help mediate the relationship between payers and providers. The post Abridge Goes Beyond Documentation: 4 Updates appeared first on MedCity News .",
@@ -9887,116 +9997,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-05-21T17:16:56+00:00",
-    "date_str": "May 21, 2026"
-  },
-  {
-    "title": "Women-Only Trial Supports Self-Expanding TAVR as the Way to Go",
-    "url": "https://www.medpagetoday.com/meetingcoverage/europcr/121395",
-    "summary": "(MedPage Today) -- Transcatheter aortic valve replacement (TAVR) with a self-expanding valve still worked out better, at least in terms of hemodynamics, in the first head-to-head device trial exclusively in women. Among older women with symptomatic...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-21T16:54:02+00:00",
-    "date_str": "May 21, 2026"
-  },
-  {
-    "title": "Why This Texas Doctor Dumped His Medicare Advantage Plan Contracts",
-    "url": "https://www.medpagetoday.com/practicemanagement/practicemanagement/121392",
-    "summary": "(MedPage Today) -- Bryan Johnson, MD, an internal medicine physician in Frisco, Texas, has tried hard over the past 3 years to drop all of his practice's Medicare Advantage (MA) contracts, dropping the percentage of MA patients from 30% or 40...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-21T16:28:10+00:00",
-    "date_str": "May 21, 2026"
-  },
-  {
-    "title": "Appeals in Congo for Supplies as Aid Groups Say Ebola Outbreak Is 'Gaining Momentum'",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/121389",
-    "summary": "(MedPage Today) -- Healthcare workers and aid groups in eastern Congo said Thursday they are in dire need of more supplies and staff to respond to a growing Ebola outbreak linked to a rare virus, as armed groups continue to threaten a region already...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-21T15:16:16+00:00",
-    "date_str": "May 21, 2026"
-  },
-  {
-    "title": "Stoking Sexual Arousal and Desire: GLP-1s, Nerve Stimulation, 'Scream Cream'",
-    "url": "https://www.medpagetoday.com/meetingcoverage/aua/121388",
-    "summary": "(MedPage Today) -- WASHINGTON -- Interest in GLP-1 receptor agonists as a potential aid to sexual desire and arousal disorders took off in the field of sexual medicine -- and landed with a thud. \"GLP-1s are not what I would call treatments...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-21T15:10:30+00:00",
-    "date_str": "May 21, 2026"
-  },
-  {
-    "title": "Vertical integration doesn’t appear to lead to higher drug costs in Medicare, HHS OIG finds",
-    "url": "https://www.healthcaredive.com/news/vertical-integration-doesnt-appear-lead-higher-drug-costs-medicare-hhs-oig-pbms/820775/",
-    "summary": "However, data was limited, so it’s too early to make firm conclusions, the watchdog clarified. That didn’t stop the largest PBM lobby from jumping on the report as concrete proof that consolidation doesn’t drive up prices.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-21T18:25:09+00:00",
-    "date_str": "May 21, 2026"
-  },
-  {
-    "title": "Abridge taps new technology chief",
-    "url": "https://www.healthcaredive.com/news/abridge-taps-new-technology-chief-san-oo/820766/",
-    "summary": "The healthcare AI company said San Oo’s appointment comes at an inflection point for Abridge as it inks deals with more health systems.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-21T16:33:00+00:00",
-    "date_str": "May 21, 2026"
-  },
-  {
-    "title": "Trump administration proposes crackdown on Medicaid state-directed payments",
-    "url": "https://www.healthcaredive.com/news/trump-administration-proposes-cracking-down-medicaid-state-directed-payments/820794/",
-    "summary": "The proposed rule codifies cuts outlined in the GOP’s “One Big Beautiful Bill,” but also takes other steps to restrict supplemental Medicaid payments. The CMS said it would save the federal government over $500 billion if finalized.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-21T16:27:27+00:00",
-    "date_str": "May 21, 2026"
-  },
-  {
-    "title": "Lawmakers mull Medicare physician pay reform to tamp down consolidation",
-    "url": "https://www.healthcaredive.com/news/house-energy-commerce-medicare-physician-pay-reform-consolidation-primary-care/820875/",
-    "summary": "Physician pay hasn’t kept up with the costs of providing care, pushing independent practices to sell to health systems and likely increasing costs, witnesses said during a House subcommittee hearing Wednesday.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-21T15:09:49+00:00",
-    "date_str": "May 21, 2026"
-  },
-  {
-    "title": "Providence shuts down most insurance businesses for 2027",
-    "url": "https://www.healthcaredive.com/news/providence-exits-health-insurance-2027/820842/",
-    "summary": "The nonprofit giant has offered health insurance for decades. But recent challenges, including higher costs and regulatory changes, have placed Providence in an untenable position, according to the integrated system’s CEO.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-21T13:11:57+00:00",
-    "date_str": "May 21, 2026"
-  },
-  {
-    "title": "Study: Brokers increasingly recommending ICHRA to employers",
-    "url": "https://www.fiercehealthcare.com/payers/study-brokers-increasingly-recommending-ichra-employers",
-    "summary": "ICHRA has been gaining steam, and a new survey suggests that these plans may be hitting the mainstream.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-21T19:53:00.247128+00:00",
-    "date_str": "May 21, 2026"
-  },
-  {
-    "title": "Allina Health, Sutter Health move closer to $26B combination",
-    "url": "https://www.fiercehealthcare.com/providers/allina-health-join-sutter-health-26b-proposed-merger",
-    "summary": "The cross-regional proposed deal to create a 39-hospital nonprofit system now has a signed definitive agreement in hand. It is expected to close before the end of the year, pending regulatory approvals.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-21T19:53:00.247181+00:00",
     "date_str": "May 21, 2026"
   }
 ]
