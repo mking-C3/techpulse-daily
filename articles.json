@@ -1,5 +1,115 @@
 [
   {
+    "title": "Journalists Highlight Medical Neglect in ICE Detention, RFK Jr. Antidepressant Comments",
+    "url": "https://kffhealthnews.org/on-air/on-air-june-13-2026-antidepressants-ice-medical-neglect-ebola-world-cup/",
+    "summary": "KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here’s a collection of their appearances.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-13T09:00:00+00:00",
+    "date_str": "Jun 13, 2026"
+  },
+  {
+    "title": "STAT+: FDA approves Sanofi diabetes drug for children with stage 3 diabetes",
+    "url": "https://www.statnews.com/2026/06/13/teplizumab-tzield-sanofi-fda-approval-children-stage-3-diabetes/?utm_campaign=rss",
+    "summary": "The FDA has approved a drug that was previously caught in a dispute between career staff and the political appointee head of the CDER.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-13T13:22:44+00:00",
+    "date_str": "Jun 13, 2026"
+  },
+  {
+    "title": "WHO director-general is profoundly concerned after visit to Ebola outbreak area",
+    "url": "https://www.statnews.com/2026/06/13/who-director-general-in-drc-war-greater-concern-than-ebola/?utm_campaign=rss",
+    "summary": "The director-general of the World Health Organization is profoundly worried about the Ebola outbreak in the DRC, he told STAT in an interview.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-13T13:00:00+00:00",
+    "date_str": "Jun 13, 2026"
+  },
+  {
+    "title": "4 things to know about the new sunscreen ingredient the FDA approved",
+    "url": "https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol",
+    "summary": "The Food and Drug Administration approved a new sunscreen ingredient in the U.S. for the first time in 20 years. It's been used for decades in Europe and Asia.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-13T12:00:00+00:00",
+    "date_str": "Jun 13, 2026"
+  },
+  {
+    "title": "Some quarantined cruise ship passengers push to return home",
+    "url": "https://www.npr.org/2026/06/13/nx-s1-5853598/some-quarantined-cruise-ship-passengers-push-to-return-home",
+    "summary": "Some of the 18 cruise ship passengers in quarantine after a deadly hantavirus outbreak have had a tough time in isolation.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-13T11:39:39+00:00",
+    "date_str": "Jun 13, 2026"
+  },
+  {
+    "title": "A plan to get lifesaving food to hungry kids was working well -- until it wasn't",
+    "url": "https://www.npr.org/2026/06/13/nx-s1-5787791/malnourished-children-senegal-therapeutic-food-plumpynut",
+    "summary": "Through an innovative program, parents in Senegal had easy access to a therapeutic food that's a boon for malnourished kids. Now there are shortages. Health specialists say U.S. aid cuts are to blame.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-13T11:07:38+00:00",
+    "date_str": "Jun 13, 2026"
+  },
+  {
+    "title": "'Cool Ladies Club' is directed by 10 working-class women. They live up to the title",
+    "url": "https://www.npr.org/2026/06/13/g-s1-125467/cool-ladies-club-movies-working-class-women-documentary-india",
+    "summary": "They gave smartphones to 10 women from a working-class Indian community to make a documentary about their unseen and unheralded lives. The results are .... pretty cool.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-13T10:56:45+00:00",
+    "date_str": "Jun 13, 2026"
+  },
+  {
+    "title": "COMIC: How excessive heat kills and how to stay safe",
+    "url": "https://www.npr.org/2026/06/13/g-s1-126350/heat-wave-safety-weather-heatstroke",
+    "summary": "Human bodies have a natural cooling system, but it can do only so much in high temperatures and humidity. Here's the science behind how heat kills. And how to protect yourself.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-13T10:00:00+00:00",
+    "date_str": "Jun 13, 2026"
+  },
+  {
+    "title": "Endocrine Society Issues First Guideline on Central Precocious Puberty",
+    "url": "https://www.medpagetoday.com/meetingcoverage/endo/121737",
+    "summary": "(MedPage Today) -- CHICAGO -- For kids with central precocious puberty (CPP), there shouldn't be a one-size-fits-all approach to testing and treatment, according to a clinical practice guideline from the Endocrine Society. The guideline, the...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-13T13:00:00+00:00",
+    "date_str": "Jun 13, 2026"
+  },
+  {
+    "title": "Talquetamab Regimens Boost Survival in Multiple Myeloma",
+    "url": "https://www.medpagetoday.com/meetingcoverage/eha/121744",
+    "summary": "(MedPage Today) -- Talquetamab (Talvey) plus daratumumab (Darzalex) with or without pomalidomide (Pomalyst) significantly improved survival outcomes over an active regimen for relapsed or refractory multiple myeloma, a phase III trial showed....",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-13T10:00:00+00:00",
+    "date_str": "Jun 13, 2026"
+  },
+  {
+    "title": "Screwworm spread tests US readiness after Trump staffing cuts",
+    "url": "https://thehill.com/policy/healthcare/5922510-screwworm-spread-tests-us-readiness-after-trump-staffing-cuts/",
+    "summary": "The U.S. spent decades driving the New World screwworm far into South America. But now the parasite has reemerged, and officials are working to beat it back yet again using many of the same tried-and-true methods as the government did in the 1950s. Experts have been tracking the path of parasitic fly as it moved steadily northward...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-06-13T10:00:00+00:00",
+    "date_str": "Jun 13, 2026"
+  },
+  {
     "title": "Opinion: ‘I’m pretty much all in’: An interview with a woman starting medical residency at almost 73",
     "url": "https://www.statnews.com/2026/06/13/medical-residency-late-in-life-interview/?utm_campaign=rss",
     "summary": "\"There are some physicians that work to 100”: Dawn Zuidgeest-Craft on becoming a medical doctor in her 70s.",
@@ -9887,116 +9997,6 @@
     "category": "Industry News",
     "category_slug": "industry-news",
     "date": "2026-05-22T18:05:49+00:00",
-    "date_str": "May 22, 2026"
-  },
-  {
-    "title": "The Trump administration expands its use of AI in the hunt for healthcare fraud",
-    "url": "https://thehill.com/policy/healthcare/hhs-ai-health-care-fraud/",
-    "summary": "NEW YORK (AP) — The U.S. Department of Health and Human Services on Thursday announced it is supercharging its use of artificial intelligence to police how states and other recipients of federal health dollars are auditing their programs. The move is intended to tamp down risks of fraud and save the government money. The department...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-21T21:09:39+00:00",
-    "date_str": "May 21, 2026"
-  },
-  {
-    "title": "Timing Meets Context: Aligning Patients and Providers with AI-Enabled Omnichannel Engagement",
-    "url": "https://medcitynews.com/2026/05/timing-meets-context-aligning-patients-and-providers-with-ai-enabled-omnichannel-engagement/",
-    "summary": "When awareness is timely, aligned, and delivered through trusted channels, such as EHR systems or digital media, it strengthens every step of the patient journey, especially understanding potential options such as ground-breaking clinical trials or targeted diagnostic testing. The post Timing Meets Context: Aligning Patients and Providers with AI-Enabled Omnichannel Engagement appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-22T14:00:00+00:00",
-    "date_str": "May 22, 2026"
-  },
-  {
-    "title": "AI in Digital Health, From Early Detection to Responsible Deployment",
-    "url": "https://medcitynews.com/2026/05/ai-in-digital-health-from-early-detection-to-responsible-deployment/",
-    "summary": "When structured oversight meets practical innovation, the result is systems that are not only technically sound but actually usable. The post AI in Digital Health, From Early Detection to Responsible Deployment appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-22T13:30:00+00:00",
-    "date_str": "May 22, 2026"
-  },
-  {
-    "title": "Workforce of the Future: Supporting Frontline Heroes",
-    "url": "https://medcitynews.com/2026/05/workforce-of-the-future-supporting-frontline-heroes/",
-    "summary": "As demand for long-term care rises, workforce stability is no longer just an operational concern. It is increasingly a direct measure of care quality itself. Organizations that fail to recognize this shift risk undermining both outcomes and access. The post Workforce of the Future: Supporting Frontline Heroes appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-22T13:11:00+00:00",
-    "date_str": "May 22, 2026"
-  },
-  {
-    "title": "STAT+: EU and US advisers split over AstraZeneca breast cancer drug",
-    "url": "https://www.statnews.com/2026/05/22/biotech-news-astrazeneca-breast-cancer-drug-mixed-eu-and-us-approval/?utm_campaign=rss",
-    "summary": "Merck-Kelun ADC outperforms Keytruda in trial, a closely watched Parkinson’s drug fails, and more biotech news from The Readout",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-22T13:40:42+00:00",
-    "date_str": "May 22, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a Parkinson’s drug setback, a Merck lung cancer therapy, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/05/22/parkinson-drug-trial-setback-merck-lung-cancer-therapy/?utm_campaign=rss",
-    "summary": "Biogen and Denali said their experimental Parkinson’s therapy failed to slow the degenerative brain disorder in a randomized trial",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-22T13:29:35+00:00",
-    "date_str": "May 22, 2026"
-  },
-  {
-    "title": "A CDC page on mpox caught in political crosshairs",
-    "url": "https://www.statnews.com/2026/05/22/health-news-cdc-mpox-page-caught-in-political-crosshairs/?utm_campaign=rss",
-    "summary": "Seed oil panic, how STIs spread, and more health news from Morning Rounds",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-22T13:14:29+00:00",
-    "date_str": "May 22, 2026"
-  },
-  {
-    "title": "STAT+: Longevity startup Retro Biosciences says latest fundraising values it at $1.8 billion",
-    "url": "https://www.statnews.com/2026/05/22/retro-biosciences-longevity-valuation/?utm_campaign=rss",
-    "summary": "Retro Biosciences, the longevity startup backed by OpenAI CEO Sam Altman, has raised more money at a $1.8 billion valuation, it announced Friday.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-22T11:00:00+00:00",
-    "date_str": "May 22, 2026"
-  },
-  {
-    "title": "A federal office of men’s health has never been closer, yet it’s likely still years away",
-    "url": "https://www.statnews.com/2026/05/22/state-of-mens-health-act-new-office-slowed/?utm_campaign=rss",
-    "summary": "Supporters worry that a men’s health office created by the Trump administration risks being dismantled by a future Democratic president",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-22T10:00:00+00:00",
-    "date_str": "May 22, 2026"
-  },
-  {
-    "title": "Prostate Cancer Drug Linked to Lower Risk of Cognitive Decline",
-    "url": "https://www.medpagetoday.com/meetingcoverage/asco/121394",
-    "summary": "(MedPage Today) -- CHICAGO -- Patients with advanced prostate cancer treated with enzalutamide (Xtandi) had a significantly greater decline in cognitive function compared with those who received darolutamide (Nubeqa), according to results from...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-22T13:00:00+00:00",
-    "date_str": "May 22, 2026"
-  },
-  {
-    "title": "The Ebola Outbreak in Congo Went Unnoticed for Weeks. This Is What We Know.",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/121390",
-    "summary": "(MedPage Today) -- Health officials believe the Ebola outbreak in Congo started weeks ago and say they haven't identified the source. The outbreak has been declared a public health emergency of international concern by the World Health Organization...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-22T12:00:00+00:00",
     "date_str": "May 22, 2026"
   }
 ]
