@@ -1,5 +1,145 @@
 [
   {
+    "title": "Long-Awaited Rule Aims To Boost ACA Choices While Embracing Higher Deductibles",
+    "url": "https://kffhealthnews.org/insurance/affordable-care-act-rule-more-choices-higher-deductibles/",
+    "summary": "The Trump administration finalized a rule that embraces new types of Obamacare coverage, including 30% higher out-of-pocket costs for some plans, and a more novel approach that allows insurers to offer coverage without set networks of doctors and hospitals.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-15T09:00:00+00:00",
+    "date_str": "Jun 15, 2026"
+  },
+  {
+    "title": "They’re Uninsured After Obamacare Became Too Costly. And They’re Far From Alone.",
+    "url": "https://kffhealthnews.org/insurance/uninsured-obamacare-affordable-care-act-aca-canceled-coverage-north-carolina/",
+    "summary": "After congressional Republicans let expanded subsidies for Affordable Care Act plans expire at the end of last year, some families have decided the price is too great of a financial burden and canceled their coverage.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-15T09:00:00+00:00",
+    "date_str": "Jun 15, 2026"
+  },
+  {
+    "title": "Why One in Four Americans Is Walking Away from Healthcare",
+    "url": "https://medcitynews.com/2026/06/healthcare-affordability/",
+    "summary": "The healthcare affordability crisis in the U.S. has quietly become a trust crisis, with a growing share of Americans walking away from care altogether. Industry leaders say the fix requires something the system has never really done: starting with the patient. The post Why One in Four Americans Is Walking Away from Healthcare appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-15T11:38:43+00:00",
+    "date_str": "Jun 15, 2026"
+  },
+  {
+    "title": "STAT+: Where ‘democracy met science,’ 50 years ago",
+    "url": "https://www.statnews.com/2026/06/15/health-news-cambridge-recombinant-dna-anniversary/?utm_campaign=rss",
+    "summary": "State Medicaid crackdowns strain home care, WHO leader on Ebola outbreak, and more health news",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-15T11:56:24+00:00",
+    "date_str": "Jun 15, 2026"
+  },
+  {
+    "title": "As states follow Trump’s Medicaid fraud playbook, people with disabilities struggle to find care",
+    "url": "https://www.statnews.com/2026/06/15/medicaid-caregivers-state-pay-people-with-disabilities/?utm_campaign=rss",
+    "summary": "Medicaid cuts and fraud crackdown trickle down to states, threatening people with disabilities.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-15T08:30:00+00:00",
+    "date_str": "Jun 15, 2026"
+  },
+  {
+    "title": "STAT+: Amid confusion over Pfizer’s emergency penicillin program, newborn is diagnosed with preventable syphilis",
+    "url": "https://www.statnews.com/2026/06/15/pfizer-bicillin-shortage-preventable-congenital-syphilis-surging/?utm_campaign=rss",
+    "summary": "Congenital syphilis should be preventable. An Arizona case shows how drug shortages and procedural hurdles are fueling a growing public health crisis.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-15T08:30:00+00:00",
+    "date_str": "Jun 15, 2026"
+  },
+  {
+    "title": "STAT+: One California politician’s unexpected crusade against ultra-processed food",
+    "url": "https://www.statnews.com/2026/06/15/jesse-gabriel-ultra-processed-food-california-laws-national-impact/?utm_campaign=rss",
+    "summary": "Jesse Gabriel \"has passed more food policy in three years than most legislators enact in their entire careers,\" says one supporter.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-15T08:30:00+00:00",
+    "date_str": "Jun 15, 2026"
+  },
+  {
+    "title": "Opinion: I’m a pediatrician. I want to prescribe the right AI to my patients",
+    "url": "https://www.statnews.com/2026/06/15/ai-children-screen-time-pediatrician-prescription-guidance/?utm_campaign=rss",
+    "summary": "AI for children requires “randomized controlled trials measuring real developmental outcomes, not engagement metrics,” writes Dua Hassan.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-15T08:30:00+00:00",
+    "date_str": "Jun 15, 2026"
+  },
+  {
+    "title": "Opinion: In many South Asian American families, a child’s autism diagnosis is a secret",
+    "url": "https://www.statnews.com/2026/06/15/autism-diagnosis-south-asian-american-families-stigma/?utm_campaign=rss",
+    "summary": "“In South Asian households, a child's disability triggers a specific kind of family crisis,” writes child and adolescent psychiatrist Ritu Goel.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-15T08:30:00+00:00",
+    "date_str": "Jun 15, 2026"
+  },
+  {
+    "title": "Most parents track their 18-25-year-old kids on their smartphones. Is that healthy?",
+    "url": "https://www.npr.org/2026/06/15/nx-s1-5854613/tracking-smartphone-kids-parents-adults",
+    "summary": "A new survey from the University of Michigan asks parents about their use of technology to track their adult children, ages 18-25, including using \"always on\" location tracking on their smartphones.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-15T09:00:00+00:00",
+    "date_str": "Jun 15, 2026"
+  },
+  {
+    "title": "Inside Ebola country: NPR reports from eastern DR Congo's outbreak zone",
+    "url": "https://www.npr.org/2026/06/15/nx-s1-5856414/ebola-congo-bunia-health-crisis",
+    "summary": "In eastern Democratic Republic of Congo, an Ebola outbreak is reshaping life, with fear spreading faster than information and hospitals turning into places of urgent containment rather than care.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-15T09:00:00+00:00",
+    "date_str": "Jun 15, 2026"
+  },
+  {
+    "title": "How healthcare AI is closing the revenue gap",
+    "url": "https://www.healthcaredive.com/spons/how-healthcare-ai-is-closing-the-revenue-gap/822195/",
+    "summary": "Discover how healthcare organizations are moving from early experimentation to broader AI adoption, connecting clinical improvements to financial impact.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-15T09:00:00+00:00",
+    "date_str": "Jun 15, 2026"
+  },
+  {
+    "title": "Data analytics for payers: Improving maternal health outcomes while reducing total cost of care",
+    "url": "https://www.healthcaredive.com/spons/data-analytics-for-payers-improving-maternal-health-outcomes-while-reducin/822284/",
+    "summary": "How health plans can use analytics to improve maternal care and reduce avoidable utilization",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-15T09:00:00+00:00",
+    "date_str": "Jun 15, 2026"
+  },
+  {
+    "title": "US catches up to rest of world with first new FDA-approved sunscreen in decades",
+    "url": "https://thehill.com/policy/healthcare/5922475-bemotrizinol-sunscreen-approval-fda/",
+    "summary": "The Food and Drug Administration (FDA) this week approved the first new sunscreen filter in more than two decades, sparking industry wide excitement. And while this ingredient will be new to the U.S., it's far from new to the market internationally. The FDA broke a 27-year dry spell on Tuesday when it added bemotrizinol, sold under the brand name PARSOL®...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-06-15T10:00:00+00:00",
+    "date_str": "Jun 15, 2026"
+  },
+  {
     "title": "Paul Markovich’s 4 Ideas to Reduce Healthcare Costs",
     "url": "https://medcitynews.com/2026/06/paul-markovichs-4-ideas-to-reduce-healthcare-costs/",
     "summary": "Paul Markovich, president and CEO of Ascendiun, shared his ideas for bringing down healthcare costs, including digital health records and changing how healthcare is paid for. The post Paul Markovich’s 4 Ideas to Reduce Healthcare Costs appeared first on MedCity News .",
@@ -9858,145 +9998,5 @@
     "category_slug": "senior-health",
     "date": "2026-05-23T14:00:00+00:00",
     "date_str": "May 23, 2026"
-  },
-  {
-    "title": "US adds Atlanta airport as enhanced screening location for travelers from Ebola outbreak countries",
-    "url": "https://thehill.com/policy/healthcare/5892834-ebola-screening-atlanta-airport/",
-    "summary": "The Centers for Disease Control and Prevention (CDC) has expanded its enhanced Ebola screening to Hartsfield-Jackson Atlanta International Airport for passengers coming from Congo, Uganda and South Sudan in response to a recent outbreak of the Ebola virus. The added screening at the world’s busiest airport is part of the federal government’s emergency public health...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-23T18:45:27+00:00",
-    "date_str": "May 23, 2026"
-  },
-  {
-    "title": "Journalists Distill News on Ebola, Licensing Midwives, and California’s Budget",
-    "url": "https://kffhealthnews.org/on-air/on-air-may-23-2026-ebola-midwife-licensing-gavin-newsom-california-budget-medicaid/",
-    "summary": "KFF Health News journalists made the rounds on national or local media recently to discuss topical stories. Here’s a collection of their appearances.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-23T09:00:00+00:00",
-    "date_str": "May 23, 2026"
-  },
-  {
-    "title": "Opinion: How the perimenopause movement is hurting women",
-    "url": "https://www.statnews.com/2026/05/23/perimenopause-misinformation-influencers-supplements-hormones/?utm_campaign=rss",
-    "summary": "“There's a whole industry that seems to have sprung up”: Two experts on the people profiting from the rise of the perimenopause movement.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-23T11:00:00+00:00",
-    "date_str": "May 23, 2026"
-  },
-  {
-    "title": "U.S. passengers flying from Ebola-affected countries rerouted",
-    "url": "https://www.npr.org/2026/05/23/nx-s1-5831963/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
-    "summary": "The U.S. government is responding to the Ebola outbreak in with travel restrictions. American citizens and permanent residents departing affected countries must fly into one of three U.S. airports.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-23T12:09:50+00:00",
-    "date_str": "May 23, 2026"
-  },
-  {
-    "title": "One solution for Maine's struggling fishing industry? Give fillets away for free",
-    "url": "https://www.npr.org/2026/05/23/nx-s1-5756374/food-fish-maine-portland-donations",
-    "summary": "Surging food costs and fuel prices are pummeling Maine's struggling groundfishing industry. But a pandemic-era program is helping to keep it afloat as inflation worsens.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-23T09:00:00+00:00",
-    "date_str": "May 23, 2026"
-  },
-  {
-    "title": "15 years since a deadly tornado brought Joplin, Mo. together, kindness carries on",
-    "url": "https://www.npr.org/2026/05/23/nx-s1-5831985/joplin-missouri-tornado-catastrophe-compassion",
-    "summary": "Nearly 100,000 volunteers helped the town rebuild and a spirit of community service continues to this day. Researchers studying human behavior catastrophes can bring out compassion in surprising ways.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-23T09:00:00+00:00",
-    "date_str": "May 23, 2026"
-  },
-  {
-    "title": "Trump administration expands Ebola travel restrictions to green card holders",
-    "url": "https://thehill.com/policy/healthcare/5892561-trump-administration-ebola-outbreak-restrictions-green-card-holders/",
-    "summary": "The Trump administration updated its travel restrictions amid the Ebola outbreak to temporarily include the entry of lawful permanent residents who have been in the Democratic Republic of Congo (DRC), Uganda and South Sudan in the past 21 days. The Department of Health and Human Services (HHS), which oversees the Centers for Disease Control and...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-23T12:14:00+00:00",
-    "date_str": "May 23, 2026"
-  },
-  {
-    "title": "Hospitals Take CVS to Court Over Alleged $250M 340B Scheme",
-    "url": "https://medcitynews.com/2026/05/hospitals-cvs-340b/",
-    "summary": "Three health systems — Mount Sinai, Michigan Medicine and the University of Kansas Health System — are suing CVS Health, alleging its pharmacy benefit manager diverted roughly $250 million in savings from the 340B program through “spread pricing” between 2020 and 2025. The post Hospitals Take CVS to Court Over Alleged $250M 340B Scheme appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-22T22:18:20+00:00",
-    "date_str": "May 22, 2026"
-  },
-  {
-    "title": "Takeda Vows Appeal of $885M Jury Verdict in ‘Pay-for-Delay’ Antitrust Case",
-    "url": "https://medcitynews.com/2026/05/takeda-amitiza-pay-for-delay-antitrust-generic-drug-competition-tak/",
-    "summary": "Pharmacies and wholesalers claimed Takeda Pharmaceutical delayed generic competition from entering the market, forcing them to overpay for a gastrointestinal drug. Takeda said the trial had “evidentiary and legal errors,” and the company will appeal the verdict. The post Takeda Vows Appeal of $885M Jury Verdict in ‘Pay-for-Delay’ Antitrust Case appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-22T21:13:55+00:00",
-    "date_str": "May 22, 2026"
-  },
-  {
-    "title": "40,000 people under evacuation orders after chemical tank leak in Southern California",
-    "url": "https://www.npr.org/2026/05/22/g-s1-124082/garden-grove-chemical-tank-leak",
-    "summary": "About 40,000 people were under evacuation orders and schools shut down Friday in Southern California after a storage tank continued to leak a hazardous chemical that officials said could rupture or explode.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-23T00:48:48+00:00",
-    "date_str": "May 23, 2026"
-  },
-  {
-    "title": "Migraine With Aura Tied to Higher Stroke Risk",
-    "url": "https://www.medpagetoday.com/neurology/migraines/121400",
-    "summary": "(MedPage Today) -- Middle-aged and older adults who had migraine with aura had a greater risk of subsequent stroke, a study of 11,000 people showed. Over 6 years, migraine with aura was associated with a 73% higher risk of ischemic stroke compared...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-22T21:00:00+00:00",
-    "date_str": "May 22, 2026"
-  },
-  {
-    "title": "CDC says green card holders who were recently in countries where Ebola is spreading can’t reenter U.S.",
-    "url": "https://www.politico.com/news/2026/05/22/cdc-ebola-green-card-congo-sudan-uganda-00934869",
-    "summary": "The move expands existing travel restrictions barring foreigners who’ve recently been in Congo, South Sudan and Uganda.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-23T00:25:13+00:00",
-    "date_str": "May 23, 2026"
-  },
-  {
-    "title": "Relief group is phasing out vaccines RFK Jr. believes are unsafe",
-    "url": "https://www.politico.com/news/2026/05/22/gavi-rfk-vaccines-thimerosal-shaheen-00934540",
-    "summary": "The health secretary has blocked $600 million for Gavi, which provides shots to poor countries, because of his concerns about a mercury-containing preservative.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-22T20:47:05+00:00",
-    "date_str": "May 22, 2026"
-  },
-  {
-    "title": "WHO: 'Violence and insecurity' hampering response to 'worrisome' Ebola outbreak",
-    "url": "https://thehill.com/policy/healthcare/5891915-who-warns-ebola-response/",
-    "summary": "World Health Organization (WHO) Director-General Tedros Adhanom Ghebreyesus warned Friday that \"violence and insecurity\" have hampered the response to the Ebola outbreak in Congo, which he called \"deeply worrisome.\" Fires erupted at an Ebola treatment center in Rwampara after people were stopped from retrieving a local man's body, The Associated Press reported. Bodies infected with...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-22T20:42:19+00:00",
-    "date_str": "May 22, 2026"
   }
 ]
