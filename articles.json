@@ -1,5 +1,115 @@
 [
   {
+    "title": "Multicare CFO: Decades of CMS Underpayment is Creating an Unfair Two-Tiered System",
+    "url": "https://medcitynews.com/2026/06/multicare-cfo-decades-of-cms-underpayment-is-creating-an-unfair-two-tiered-system/",
+    "summary": "MultiCare CFO James Lee said decades of government underpayment have pushed U.S. healthcare to a breaking point. He thinks the nation is headed toward a two-tier system — one for patients with commercial coverage, and another for those covered through CMS. The post Multicare CFO: Decades of CMS Underpayment is Creating an Unfair Two-Tiered System appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-15T22:38:45+00:00",
+    "date_str": "Jun 15, 2026"
+  },
+  {
+    "title": "Elevance Health’s 3 Key Priorities for AI",
+    "url": "https://medcitynews.com/2026/06/elevance-healths-3-key-priorities-for-ai/",
+    "summary": "Elevance Health is leveraging AI for simplifying the member experience, improving the provider experience and making sure employees have the right information at the right time. The post Elevance Health’s 3 Key Priorities for AI appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-15T22:19:49+00:00",
+    "date_str": "Jun 15, 2026"
+  },
+  {
+    "title": "STAT+: FDA approves Colorado’s plan to import cheaper drugs from Canada",
+    "url": "https://www.statnews.com/pharmalot/2026/06/15/colorado-drug-imports-canada/?utm_campaign=rss",
+    "summary": "The FDA said it will allow Colorado to import certain prescription drugs from Canada in an effort to bring prices down for residents.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-15T18:19:20+00:00",
+    "date_str": "Jun 15, 2026"
+  },
+  {
+    "title": "Study Looks at Risk for Dementia After Shingles Vaccine in High-Risk Group",
+    "url": "https://www.medpagetoday.com/neurology/dementia/121769",
+    "summary": "(MedPage Today) -- Older adults at higher risk for dementia were less likely to have a dementia diagnosis if they received a herpes zoster (shingles) shot, a cohort study using target trial emulation showed. Among 500,000 people in skilled-nursing...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-15T21:34:27+00:00",
+    "date_str": "Jun 15, 2026"
+  },
+  {
+    "title": "Timely 'Nudges' Can Help Encourage More End-of-Life Conversations in Cancer",
+    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/121770",
+    "summary": "(MedPage Today) -- Reminders, or \"nudges,\" to both oncology clinicians and patients led to a significant increase in difficult conversations about poor-prognosis cancers, a large randomized study showed. Involving more than 1,000 patients and...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-15T21:33:40+00:00",
+    "date_str": "Jun 15, 2026"
+  },
+  {
+    "title": "In High-Risk B-Cell ALL, Swapping Out Chemo for Blinatumomab Improves Outcomes",
+    "url": "https://www.medpagetoday.com/meetingcoverage/eha/121765",
+    "summary": "(MedPage Today) -- Replacing two high-dose chemotherapy courses with blinatumomab (Blincyto) significantly improved event-free survival (EFS) in pediatric patients with newly diagnosed high-risk B-cell acute lymphoblastic leukemia (ALL), an interim...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-15T20:39:14+00:00",
+    "date_str": "Jun 15, 2026"
+  },
+  {
+    "title": "FDA Clears First OTC Continuous Glucose Monitor for Kids",
+    "url": "https://www.medpagetoday.com/endocrinology/diabetes/121753",
+    "summary": "(MedPage Today) -- The FDA cleared the first over-the-counter (OTC) integrated continuous glucose monitor (CGM) for children 2 years and older with or without diabetes, the agency announced on Friday. The Stelo Glucose Biosensor System device...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-15T13:19:46+00:00",
+    "date_str": "Jun 15, 2026"
+  },
+  {
+    "title": "Mitch McConnell Hospitalized; Outbreak Deaths Reach 181; iPhones and Birth Rates",
+    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/121752",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Sen. Mitch McConnell (R-Ky.), age 84, was admitted to the hospital with an undisclosed condition. (The Hill) The CDC alerted about three babies hospitalized with...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-15T13:16:30+00:00",
+    "date_str": "Jun 15, 2026"
+  },
+  {
+    "title": "Medicare Should Pay Docs More, Cut Nursing Home and Home Health Pay, MedPAC Says",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/medicare/121750",
+    "summary": "(MedPage Today) -- The Medicare Physician Fee Schedule should increase each year tied to the rate of medical inflation, while payments for inpatient rehabilitation and home healthcare should be cut, the Medicare Payment Advisory Commission (MedPAC...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-15T13:00:00+00:00",
+    "date_str": "Jun 15, 2026"
+  },
+  {
+    "title": "CRISPR Gene Therapy Slashes Hereditary Angioedema Attacks",
+    "url": "https://www.medpagetoday.com/allergyimmunology/allergy/121751",
+    "summary": "(MedPage Today) -- Novel in vivo CRISPR-based therapy lonvoguran ziclumeran (lonvo-z) dramatically lowered hereditary angioedema (HAE) attack frequency in the HAELO randomized trial. HAE attacks dropped by a relative 87% after the single infusion...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-15T12:59:12+00:00",
+    "date_str": "Jun 15, 2026"
+  },
+  {
+    "title": "Trump admin paying thousands of dollars per month to store ruined USAID contraceptives",
+    "url": "https://thehill.com/policy/healthcare/5925304-expired-contraceptives-trump-storage-costs/",
+    "summary": "Millions of dollars' worth of contraceptives meant to be distributed to low-income nations in Africa have expired, but the Trump administration is paying tens of thousands of dollars a month to keep them in storage in Belgium, according to a report from the U.S. Agency for International Development's (USAID) inspector general. About $9.7 million worth of taxpayer-funded contraceptives purchased by USAID and...",
+    "source": "Health Care News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-06-15T21:21:08+00:00",
+    "date_str": "Jun 15, 2026"
+  },
+  {
     "title": "Lilly’s Newly Acquired Drug Shows Promise as Next-Gen Blood Cancer Med",
     "url": "https://medcitynews.com/2026/06/eli-lilly-myelofibrosis-typeii-jak2-inhibitor-ajax-blood-cancer-hematology-eha-lly/",
     "summary": "Eli Lilly presented encouraging Phase 1 results for AJ1-11095 at the European Hematology Association (EHA) annual meeting in Stockholm. The drug, a type II JAK2 inhibitor in development for myelofibrosis, came from Lilly’s acquisition of biotech startup Ajax Therapeutics. The post Lilly’s Newly Acquired Drug Shows Promise as Next-Gen Blood Cancer Med appeared first on MedCity News .",
@@ -9887,116 +9997,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-05-26T11:29:16+00:00",
-    "date_str": "May 26, 2026"
-  },
-  {
-    "title": "More People Being Monitored at Home for Potential Hantavirus Exposure",
-    "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/121425",
-    "summary": "(MedPage Today) -- States are monitoring additional people for potential hantavirus exposure, in many cases due to air travel, MedPage Today has learned. While the CDC initially reported a total of 41 people in the U.S. under monitoring, the total...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-26T15:01:28+00:00",
-    "date_str": "May 26, 2026"
-  },
-  {
-    "title": "Trump's Medical Exam; Ebola Outpacing Response; Eating Disorders and GLP-1s",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/121421",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. President Donald Trump is expected to have a medical exam today at Walter Reed National Military Medical Center, marking the third such appointment in 13 months...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-26T13:34:35+00:00",
-    "date_str": "May 26, 2026"
-  },
-  {
-    "title": "Ōura files for IPO amid healthcare push",
-    "url": "https://www.healthcaredive.com/news/oura-files-for-ipo-amid-healthcare-push/821108/",
-    "summary": "The smart ring maker’s filing follows a recent $900 million fundraise and comes amid plans to develop more health features for the device.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-26T14:54:49+00:00",
-    "date_str": "May 26, 2026"
-  },
-  {
-    "title": "Burnout is increasing, while employee confidence is at a record low, research shows",
-    "url": "https://www.healthcaredive.com/news/burnout-increasing-employee-confidence-at-a-record-low/821068/",
-    "summary": "Healthcare workers were more likely to mention burnout in Glassdoor reviews than those in other sectors, the company said.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-21T15:11:00+00:00",
-    "date_str": "May 21, 2026"
-  },
-  {
-    "title": "Swoop acquires prescription fulfillment platform Nimble to support independent pharmacies",
-    "url": "https://www.fiercehealthcare.com/digital-health/swoop-acquires-prescription-fulfillment-platform-nimble-support-independent",
-    "summary": "The acquisition will add prescription fulfilment and pharmacy connectivity to the AI-powered healthcare marketing company’s platform.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-05-26T15:26:13.970817+00:00",
-    "date_str": "May 26, 2026"
-  },
-  {
-    "title": "Trump headed to Walter Reed for medical exam",
-    "url": "https://thehill.com/homenews/administration/5894696-donald-trump-walter-reed-medical-center-exam/",
-    "summary": "President Trump will undergo an annual dental and physical checkup at Walter Reed National Military Medical Center on Tuesday, according to the White House. The White House said this is a “routine” assessment in the president’s “regular preventative health care.” Trump will also greet service members and staff at the medical center during his visit. ...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-05-26T13:03:12+00:00",
-    "date_str": "May 26, 2026"
-  },
-  {
-    "title": "Cheaper, Alternative Health Plans Are Having a Moment, but Critics Urge Caution",
-    "url": "https://kffhealthnews.org/health-industry/alternative-health-plans-growth-sharing-ministries-short-term-aca-premiums/",
-    "summary": "Congress' decision not to extend enhanced marketplace tax credits has boosted the appeal of alternative health coverage with lower monthly premiums. Consumer advocates dismiss the plans as \"junk insurance,” while proponents say patients need alternatives to pricey marketplace options.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-05-26T09:00:00+00:00",
-    "date_str": "May 26, 2026"
-  },
-  {
-    "title": "STAT+: How Kyle Diamantas defied expectations as he rose to lead the FDA",
-    "url": "https://www.statnews.com/2026/05/26/kyle-diamantas-acting-fda-commissioner-wins-trust-exceeds-expectations/?utm_campaign=rss",
-    "summary": "WASHINGTON — People in the food world didn’t know what to expect when the Trump administration appointed a little-known Florida attorney as the FDA’s top food official in 2025. They…",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-26T08:30:00+00:00",
-    "date_str": "May 26, 2026"
-  },
-  {
-    "title": "Opinion: The Ebola outbreak will lead to devastating violence against women and girls",
-    "url": "https://www.statnews.com/2026/05/26/ebola-outbreak-congo-violence-women-girls/?utm_campaign=rss",
-    "summary": "“Women and girls in eastern Congo will be harmed in predictable, named ways over the next 12 months,” write researchers Lindsay Stark and Ilana Seff.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-26T08:30:00+00:00",
-    "date_str": "May 26, 2026"
-  },
-  {
-    "title": "Opinion: 8 former CDC directors: Reform PEPFAR, don’t dismantle it",
-    "url": "https://www.statnews.com/2026/05/26/pepfar-state-department-plan-dismantling-hiv-cdc/?utm_campaign=rss",
-    "summary": "A State Department plan scheduled to be implemented June 1 would strip the U.S. of decades of disease defense, write eight former CDC directors.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-26T08:30:00+00:00",
-    "date_str": "May 26, 2026"
-  },
-  {
-    "title": "STAT+: An AI biotech CEO sets the record straight on AI drug development hype",
-    "url": "https://www.statnews.com/2026/05/26/ai-biotech-bighat-biosciences-ceo-on-ai-drug-development-hype/?utm_campaign=rss",
-    "summary": "CEO of BigHat Biosciences, which designs antibody therapies using machine-learning, on how AI can, and cannot, help in drug development.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-05-26T08:30:00+00:00",
     "date_str": "May 26, 2026"
   }
 ]
