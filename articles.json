@@ -1,5 +1,15 @@
 [
   {
+    "title": "World Cup Disease Surveillance; Another PE Takeover; How We Broke the ADA Story",
+    "url": "https://www.medpagetoday.com/podcasts/anamnesis/121839",
+    "summary": "(MedPage Today) -- The following is a transcript of the podcast episode: Rachael Robertson: Hey everybody, welcome to MedPod Today, the podcast series where MedPage Today reporters share deeper insight into the week's biggest healthcare stories...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-19T20:00:00+00:00",
+    "date_str": "Jun 19, 2026"
+  },
+  {
     "title": "This Test Outperformed SCORE2 for Gauging Heart Risk in Rheumatic Disease",
     "url": "https://www.medpagetoday.com/rheumatology/arthritis/121837",
     "summary": "(MedPage Today) -- Carotid-femoral pulse wave velocity (cfPWV) measurements more accurately predicted cardiovascular (CV) events in patients with autoimmune rheumatic diseases than a commonly used CV risk scoring system, researchers said. Among...",
@@ -9987,16 +9997,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-05-29T21:44:20+00:00",
-    "date_str": "May 29, 2026"
-  },
-  {
-    "title": "Cardiac Amyloidosis Diagnosis Gets a More Extensive AI Model",
-    "url": "https://www.medpagetoday.com/cardiology/chf/121505",
-    "summary": "(MedPage Today) -- Researchers unveiled a new multimodal artificial intelligence (AI) algorithm for cardiac amyloidosis (CA) diagnosis, a tool showing promise for greater accuracy and sensitivity in the real world. The AI echo-clinical model ...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-29T21:30:30+00:00",
     "date_str": "May 29, 2026"
   }
 ]
