@@ -1,5 +1,25 @@
 [
   {
+    "title": "Flu outbreak tests new Pentagon vaccine policy",
+    "url": "https://www.npr.org/2026/06/20/nx-s1-5864519/flu-outbreak-tests-new-pentagon-vaccine-policy",
+    "summary": "A flu outbreak at a Texas Air Force Base is fueling debate over the Pentagon's decision to end the military's flu vaccine mandate. Former military health official Jose Sanchez explains the stakes.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-20T21:43:04+00:00",
+    "date_str": "Jun 20, 2026"
+  },
+  {
+    "title": "DOJ memo stokes fear among disability advocates of a return to institutionalization",
+    "url": "https://www.npr.org/2026/06/20/nx-s1-5865100/doj-memo-trump-disability-civil-rights-institutionalization",
+    "summary": "The Justice Department's opinion challenges civil rights protections that have long treated the institutionalization of disabled Americans as a last resort.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-20T20:33:14+00:00",
+    "date_str": "Jun 20, 2026"
+  },
+  {
     "title": "Food Labels and Childhood Obesity; Prehabilitation in Older Adults",
     "url": "https://www.medpagetoday.com/podcasts/healthwatch/121815",
     "summary": "(MedPage Today) -- TTHealthWatch is a weekly podcast from Texas Tech. In it, Elizabeth Tracey, director of electronic media for Johns Hopkins Medicine in Baltimore, and Rick Lange, MD, president of Texas Tech Health El Paso, look at the top medical...",
@@ -9973,26 +9993,6 @@
     "title": "No Survival Dip After Skipping Axillary Surgery for Locally Advanced Breast Cancer",
     "url": "https://www.medpagetoday.com/meetingcoverage/asco/121503",
     "summary": "(MedPage Today) -- CHICAGO -- Skipping axillary lymph node dissection (ALND) for selected patients with locally advanced breast cancer did not adversely affect survival, findings from a randomized trial showed. Patients who omitted ALND after...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-30T12:00:00+00:00",
-    "date_str": "May 30, 2026"
-  },
-  {
-    "title": "Multicancer Early Detection Test Fails to Reduce Cancers Detected at Late Stages",
-    "url": "https://www.medpagetoday.com/meetingcoverage/asco/121498",
-    "summary": "(MedPage Today) -- CHICAGO -- Adding a multicancer early detection (MCED) blood test to standard of care did not reduce the number of cancers detected at stage III or IV across a dozen tumor types for which no screening tests are currently available...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-05-30T12:00:00+00:00",
-    "date_str": "May 30, 2026"
-  },
-  {
-    "title": "Tile-Based Radiation Tops Standard for Resected Brain Metastases",
-    "url": "https://www.medpagetoday.com/meetingcoverage/asco/121496",
-    "summary": "(MedPage Today) -- CHICAGO -- Radioactive tiles implanted immediately after the surgical resection of a newly diagnosed brain metastasis improved local control over standard stereotactic radiotherapy (SRT) given weeks later, findings of a phase...",
     "source": "MedPageToday.com - medical news for physicians",
     "category": "Senior Health",
     "category_slug": "senior-health",
