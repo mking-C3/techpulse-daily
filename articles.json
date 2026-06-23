@@ -1,5 +1,225 @@
 [
   {
+    "title": "STAT+: Want high-quality generic drugs? One expert has ideas on how consumers can trust their supply",
+    "url": "https://www.statnews.com/pharmalot/2026/06/23/high-quality-generic-drugs-lab-testing/?utm_campaign=rss",
+    "summary": "Can the quality of generic drugs in the U.S. be made more consistent? One expert has some ideas on how to do it.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-23T19:53:21+00:00",
+    "date_str": "Jun 23, 2026"
+  },
+  {
+    "title": "Judge rules government can’t stop SNAP dollars from buying candy and sugary drinks",
+    "url": "https://www.statnews.com/2026/06/23/snap-dollars-buying-candy-sugary-drinks-judge-ruling/?utm_campaign=rss",
+    "summary": "The federal government can't block benefits from the nation's largest food aid program from being used to buy candy, soda, and other sugary drinks, a judge ruled.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-23T17:50:09+00:00",
+    "date_str": "Jun 23, 2026"
+  },
+  {
+    "title": "Justice Department announces hundreds of charges in multibillion-dollar health care fraud crackdown",
+    "url": "https://www.statnews.com/2026/06/23/texas-doctor-charged-fraud-case-cms-health-care-crackdown/?utm_campaign=rss",
+    "summary": "The Justice Department has charged a Texas doctor in an $89 million health care fraud scheme, accusing him of billing insurers for medically unnecessary cardiovascular screening tests.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-23T15:28:31+00:00",
+    "date_str": "Jun 23, 2026"
+  },
+  {
+    "title": "FDA Greenlights Generic Rifapentine for Tuberculosis",
+    "url": "https://www.medpagetoday.com/infectiousdisease/tuberculosis/121887",
+    "summary": "(MedPage Today) -- The FDA approved the first generic version of rifapentine (Priftin) to treat active pulmonary tuberculosis (TB) in adolescents and adults, as well as latent TB infection in patients as young as 2 years. The generic rifamycin...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-23T18:44:42+00:00",
+    "date_str": "Jun 23, 2026"
+  },
+  {
+    "title": "Pacemakers and Mental Issues; Cardio-Oncology Gaps; Sugar Unlocks Veggie Benefits?",
+    "url": "https://www.medpagetoday.com/cardiology/generalcardiology/121886",
+    "summary": "(MedPage Today) -- Pacemaker and implantable cardioverter‐defibrillator implants were associated with increased risks of mental disorders among young adult recipients in Korea. (Journal of the American Heart Association) The FDA is hosting...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-23T18:26:14+00:00",
+    "date_str": "Jun 23, 2026"
+  },
+  {
+    "title": "FDA Reverses Course on Neuro Drugs; Omega-3s and Dementia; Brain Death Test Lawsuit",
+    "url": "https://www.medpagetoday.com/neurology/generalneurology/121885",
+    "summary": "(MedPage Today) -- Gene therapy developer uniQure said it will submit a marketing application for accelerated approval for investigational AMT-130 for Huntington's disease after the FDA reversed its position and agreed that a 3-year analysis of...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-23T18:14:11+00:00",
+    "date_str": "Jun 23, 2026"
+  },
+  {
+    "title": "Cardiologist Charged in $89M Fraud Case Amid Trump Administration's Crackdown",
+    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/121884",
+    "summary": "(MedPage Today) -- The Justice Department has charged a Texas doctor in an $89 million healthcare fraud scheme, accusing him of billing insurers for medically unnecessary cardiovascular screening tests for college student-athletes and then rubber...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-23T17:04:21+00:00",
+    "date_str": "Jun 23, 2026"
+  },
+  {
+    "title": "Yet Another Administrative Burden for Doctors: Medicaid Work Requirements",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/121883",
+    "summary": "(MedPage Today) -- Imagine three patient scenarios. In one, a physician receives a MyChart message from a cancer patient who can no longer access her medications or even make a follow up appointment because her \"medical frailty exemption\" was...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-23T16:18:06+00:00",
+    "date_str": "Jun 23, 2026"
+  },
+  {
+    "title": "Defining the Role of Oral SERDs in Frontline Metastatic Breast Cancer",
+    "url": "https://www.medpagetoday.com/meetingcoverage/ascofuturefocusmbrca/121882",
+    "summary": "(MedPage Today) -- At the American Society of Clinical Oncology (ASCO) meeting, results from the phase III persevERA BC trial did not show a statistically significant progression-free survival (PFS) benefit with the investigational oral selective...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-23T16:15:13+00:00",
+    "date_str": "Jun 23, 2026"
+  },
+  {
+    "title": "T-DXd in Early HER2-Positive Breast Cancer",
+    "url": "https://www.medpagetoday.com/meetingcoverage/ascoexpertroundtablebreastca/121881",
+    "summary": "(MedPage Today) -- Recent approvals of trastuzumab deruxtecan (T-DXd; Enhertu) in early HER2-positive breast cancer have created new questions about its optimal use in the neoadjuvant and adjuvant settings. MedPage Today brought together three...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-23T16:06:01+00:00",
+    "date_str": "Jun 23, 2026"
+  },
+  {
+    "title": "Surgery Bests Meds for Recurrent Sinus Inflammation",
+    "url": "https://www.medpagetoday.com/surgery/otolaryngology/121879",
+    "summary": "(MedPage Today) -- For patients with recurrent acute rhinosinusitis, endoscopic sinus surgery improved quality of life related to the condition, whereas conservative medical treatment alone did little, a small randomized trial showed. Improvement...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-23T14:14:46+00:00",
+    "date_str": "Jun 23, 2026"
+  },
+  {
+    "title": "MultiCare CEO to retire at end of 2026",
+    "url": "https://www.healthcaredive.com/news/multicare-ceo-william-robertson-to-retire-florence-chang-named-successor/823423/",
+    "summary": "Florence Chang, a long-time executive of the Washington-based nonprofit, will replace current CEO William Robertson on Jan. 1.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-23T16:12:00+00:00",
+    "date_str": "Jun 23, 2026"
+  },
+  {
+    "title": "HCA’s chief clinical officer to exit after 4 years",
+    "url": "https://www.healthcaredive.com/news/hca-healthcare-chief-clinical-officer-michael-cuffe-step-down/823450/",
+    "summary": "Dr. Michael Cuffe, who assumed the role in 2022, is leaving at the end of August.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-23T15:59:26+00:00",
+    "date_str": "Jun 23, 2026"
+  },
+  {
+    "title": "HHS, responding to China’s rise, moves to fast-track early drug research",
+    "url": "https://www.healthcaredive.com/news/hhs-clinical-trial-streamline-plan-china/823542/",
+    "summary": "A series of newly planned reforms are designed to entice companies to start early trials in the U.S. rather than overseas.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-23T13:27:37+00:00",
+    "date_str": "Jun 23, 2026"
+  },
+  {
+    "title": "Hackensack Meridian Health, Hunterdon Health explore merger in New Jersey",
+    "url": "https://www.healthcaredive.com/news/hackensack-meridian-hunterdon-explore-merger-nj-hospitals/823489/",
+    "summary": "No one’s going out of business without a merger, as both HMH and Hunterdon are on stable financial footing. But a combination will give the systems added heft to tussle with competitors, according to executives.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-23T12:45:52+00:00",
+    "date_str": "Jun 23, 2026"
+  },
+  {
+    "title": "Half of U.S. adults can't afford healthcare, Gallup poll finds",
+    "url": "https://www.fiercehealthcare.com/payers/gallup-poll-claims-less-50-american-adults-can-afford-healthcare",
+    "summary": "Survey data from the West Health-Gallup Affordability Index classifies 49% of U.S. adults as “Cost Secure,” or “able to access quality, affordable care and have recently been able to pay for both needed care and medicine.” This is down two percentage points from 2024 and down 12 percentage points from 2022.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-06-23T20:03:51.880371+00:00",
+    "date_str": "Jun 23, 2026"
+  },
+  {
+    "title": "Cadence secures $100M series C to advance AI-powered care for chronic disease",
+    "url": "https://www.fiercehealthcare.com/finance/cadence-secures-100m-series-c-advance-chronic-care-ai-agents",
+    "summary": "The company plans to use the fresh funding to advance its AI agents, grow in value-based care models and expand across new health systems.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-06-23T20:03:51.880424+00:00",
+    "date_str": "Jun 23, 2026"
+  },
+  {
+    "title": "Hallmark Health Care Solutions launches AI solution to tackle workforce ‘black box’",
+    "url": "https://www.fiercehealthcare.com/health-tech/hallmark-health-care-solutions-launches-ai-solution-tackle-workforce-black-box",
+    "summary": "Health systems partnering with Hallmark have seen significant measurable results, including reducing contingent labor expenses by 15% to 25% and lowering overtime costs by an average of 25%.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-06-23T20:03:51.880463+00:00",
+    "date_str": "Jun 23, 2026"
+  },
+  {
+    "title": "Why SNAP soda and candy bans are controversial",
+    "url": "https://thehill.com/policy/healthcare/5936612-snap-bans-usda-trump-administration/",
+    "summary": "A federal judge on Monday blocked bans, by the Trump administration and several states, on the use of the Supplemental Nutrition Assistance Program (SNAP) to buy soda, candy and other foods consider unhealthy. Late last year, a push by Health Secretary Robert F. Kennedy Jr. and Agriculture Secretary Brooke Rollins urged states to strip some foods...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-06-23T19:31:00+00:00",
+    "date_str": "Jun 23, 2026"
+  },
+  {
+    "title": "DOJ unveils charges for $6.5 billion in health fraud schemes",
+    "url": "https://thehill.com/policy/healthcare/5936511-healthcare-fraud-justice-department-operation/",
+    "summary": "The Department of Justice (DOJ) unveiled on Tuesday charges against more than 450 defendants for alleged health care fraud totaling over $6.5 billion in false claims, as part of the Trump administration's heightened focus on stopping fraud. It was the second largest amount ever charged in a health care fraud operation, officials said. Charges were...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-06-23T18:50:26+00:00",
+    "date_str": "Jun 23, 2026"
+  },
+  {
+    "title": "Critics concerned GLP-1 drugs may give athletes a performance edge",
+    "url": "https://thehill.com/policy/healthcare/5935728-glp-1-weight-loss-drugs-criticism-professional-athletes/",
+    "summary": "Critics are debating whether GLP-1 drugs should be banned in sports for potentially being performance-enhancing drugs.",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-06-23T18:23:47+00:00",
+    "date_str": "Jun 23, 2026"
+  },
+  {
+    "title": "Rand Paul issues subpoena for Anthony Fauci",
+    "url": "https://thehill.com/policy/healthcare/5936032-rand-paul-subpoena-anthony-fauci-covid-19/",
+    "summary": "Dr. Anthony Fauci is facing a subpoena from Senate Homeland Security and Governmental Affairs Committee Chair Rand Paul (R-Ky.) to appear before his panel in July. In a post online late Monday, Paul said Fauci backed out of a voluntary agreement to testify in front of the committee this month. “Last week, Anthony Fauci notified...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-06-23T15:24:17+00:00",
+    "date_str": "Jun 23, 2026"
+  },
+  {
     "title": "Why Healthcare AI is Missing the Point",
     "url": "https://medcitynews.com/2026/06/why-healthcare-ai-is-missing-the-point/",
     "summary": "Organizations that are experiencing significant improvements related to AI are not necessarily using more advanced tools. They are just using the tools they have with more intention. The post Why Healthcare AI is Missing the Point appeared first on MedCity News .",
@@ -9778,225 +9998,5 @@
     "category_slug": "healthcare-policy",
     "date": "2026-06-02T12:42:47+00:00",
     "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "Five American Cruise Ship Passengers Leave Nebraska Quarantine Facility",
-    "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/121541",
-    "summary": "(MedPage Today) -- Five of the 18 American cruise ship passengers who have been staying at a national quarantine facility in Nebraska after being exposed to hantavirus are going home, U.S. health officials said Monday. The five people will complete...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-02T14:53:41+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "Pizza Company's Recall; Google's Mosquito Plot; Grammy Winner Suffers Stroke",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/productalert/121540",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Champion Foods voluntarily recalled some batches of Motor City Pizza's five-cheese bread for potential Salmonella contamination from milk powder, according to an...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-02T13:37:51+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "AI adoption surges, but providers worry about deskilling",
-    "url": "https://www.healthcaredive.com/news/healthcare-ai-adoption-accelerates-provider-worries-deskilling-wolters-kluwer/821653/",
-    "summary": "Nearly three-quarters of clinicians said losing critical thinking or decision-making skills will be one of the greatest risks of adopting artificial intelligence, according to a survey by Wolters Kluwer Health.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-02T13:30:00+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "Eli Lilly issues data sharing ultimatum to 340B hospitals",
-    "url": "https://www.healthcaredive.com/news/eli-lilly-340b-hospital-ultimatum-data-sharing-hrsa/821698/",
-    "summary": "Select hospitals have refused to share data to prove they’re not double-dipping drug discounts, Lilly said. Hospitals, which have until Monday to comply, are urging the government to intervene.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-02T13:11:14+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "Eli Lilly's ultimatum to hospitals: Send 340B claims data by June 1 or lose discounts",
-    "url": "https://www.fiercehealthcare.com/providers/eli-lillys-ultimatum-hospitals-send-340b-claims-data-june-1-or-lose-discounts",
-    "summary": "The drugmaker has issued a June 1 ultimatum to an unspecified number of hospitals that have resisted a data submission policy it implemented in February. Furious hospital industry groups are pushing back, calling the decision unlawful and urging the administration to intervene.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-02T16:23:32.351939+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "Wolters Kluwer Health survey examines AI use and concerns among clinicians, patients in 2026",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/wolts-kluwer-health-survey-examines-ai-use-concerns-among-clinicians",
-    "summary": "For physicians, repeated daily AI use tripled between 2025 and 2026 while use among nurses doubled during the same period.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-02T16:23:32.351997+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "Northwell's firearm injury risk screener now widely available within Epic",
-    "url": "https://www.fiercehealthcare.com/hospitals/northwells-firearm-injury-risk-screener-now-widely-available-within-epic",
-    "summary": "The screening tool, now in the electronic health record, combines assessment of firearm access and community violence risk.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-02T16:23:32.352029+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "AI-powered medical imaging startup Subtle Medical picks up $33M and taps new CEO",
-    "url": "https://www.fiercehealthcare.com/health-tech/ai-powered-medical-imaging-startup-subtle-medical-picks-33m-and-taps-new-ceo",
-    "summary": "Subtle Medical's AI software improves image quality and accelerates scans on existing imaging systems, helping providers increase throughput without purchasing new hardware.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-02T16:23:32.352058+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "Kenyan president defends US Ebola quarantine center amid protests",
-    "url": "https://thehill.com/policy/international/ebola-kenya-president-us-quarantine-facility-protests/",
-    "summary": "NAIROBI, Kenya (AP) — Kenya’s President William Ruto has defended the establishment of an Ebola quarantine facility by the U.S., a move that led to further protests on Tuesday despite a court order blocking the plan. Ruto said on Monday that the U.S. had a long-standing partnership with Kenya on health matters and that the...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-02T15:57:08+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "Dr. Oz to helm White House press briefing",
-    "url": "https://thehill.com/homenews/administration/5905227-mehmet-oz-white-house-briefing/",
-    "summary": "Dr. Mehmet Oz, Centers for Medicare and Medicaid Services (CMS) administrator, will host the White House press briefing on Tuesday, becoming the latest Trump administration official to fill in for press secretary Karoline Leavitt while she is on maternity leave. Oz follows Secretary of State Marco Rubio, Vice President JD Vance, and Treasury Secretary Scott...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-02T12:03:17+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "5 American cruise ship passengers leave Nebraska quarantine facility",
-    "url": "https://thehill.com/policy/healthcare/hantavirus-nebraska-quarantine-facility/",
-    "summary": "OMAHA, Neb. (AP) — Five of the 18 American cruise ship passengers who have been staying at a national quarantine facility in Nebraska after being exposed to hantavirus are going home, U.S. health officials said Monday. The five people will complete their monitoring at home after remaining symptom-free and meeting criteria for monitoring outside the...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-01T23:51:27+00:00",
-    "date_str": "Jun 01, 2026"
-  },
-  {
-    "title": "Focused on Work, Needed at Home: A Federal Caregiving Policy Might Help",
-    "url": "https://kffhealthnews.org/news/healthq-fmla-caregiving-family-leave/",
-    "summary": "The Family and Medical Leave Act gives eligible employees up to 12 weeks of job-protected leave for caregiving. But the federal policy has noteworthy limitations. The HealthQ team explains.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-02T09:00:00+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "STAT+: Online care is caught in the crossfire as states crack down on corporate medicine",
-    "url": "https://www.statnews.com/2026/06/02/telehealth-virtual-rx-boom-corporate-practice-of-medicine-laws/?utm_campaign=rss",
-    "summary": "Growing legislative scrutiny across multiple states targets the corporate structure underlying most direct-to-consumer telehealth businesses.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-02T08:30:00+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "Opinion: The virtual end of the doctor’s office waiting room",
-    "url": "https://www.statnews.com/2026/06/02/doctors-office-waiting-room-telehealth-virtual-care/?utm_campaign=rss",
-    "summary": "It’s time to rethink and redesign how patients enter the health care system altogether, writes emergency physician Iyesatta Massaquoi Emeli.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-02T08:30:00+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "Why is Michigan loosening its rules for parents wanting to exempt kids from vaccines?",
-    "url": "https://www.npr.org/2026/06/02/nx-s1-5823712/michigan-school-vaccine-exemptions-waivers-measles",
-    "summary": "A decade ago, Michigan had high rates of parents not vaccinating their children, so it required them to attend an in-person education class to get an exemption. It worked — until things got ugly.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-02T09:00:00+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "Servier Moves Into Muscular Dystrophy, Paying $1.5B for Assets From Edgewise Therapeutics",
-    "url": "https://medcitynews.com/2026/06/servier-acquisition-muscular-dystrophy-neuromuscular-rare-disease-edgewise-sevasemten-ewtx/",
-    "summary": "France-based pharma company Servier is acquiring the muscular dystrophy business of Edgewise Therapeutics as part of a revenue growth strategy in oncology and neurology. The deal brings an Edgewise drug in clinical development for two rare neuromuscular disorders with limited treatment options. The post Servier Moves Into Muscular Dystrophy, Paying $1.5B for Assets From Edgewise Therapeutics appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-01T23:10:25+00:00",
-    "date_str": "Jun 01, 2026"
-  },
-  {
-    "title": "STAT+: Trump administration releases rules for new Medicaid work requirements",
-    "url": "https://www.statnews.com/2026/06/01/trump-medicaid-work-requirement-rules-verification-eligibility/?utm_campaign=rss",
-    "summary": "States are racing to implement the new requirements by the start of next year.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-01T22:24:47+00:00",
-    "date_str": "Jun 01, 2026"
-  },
-  {
-    "title": "STAT+: Eli Lilly warns hospitals to submit claims data in the next five days or lose their 340B drug discounts",
-    "url": "https://www.statnews.com/pharmalot/2026/06/01/lilly-warns-hospitals-submit-claims-data-or-lose-340b-drug-discounts/?utm_campaign=rss",
-    "summary": "Eli Lilly has told more than 1,000 hospitals participating in the 340B drug discount program to submit claims data over the next five days — or lose price breaks.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-01T22:00:00+00:00",
-    "date_str": "Jun 01, 2026"
-  },
-  {
-    "title": "STAT+: Global coalition to fast-track three vaccines targeting Ebola outbreak with $62 million in funding",
-    "url": "https://www.statnews.com/2026/06/01/ebola-bundibugyo-vaccine-studies-cepi-62-million-funding/?utm_campaign=rss",
-    "summary": "With no licensed vaccines available to protect against the Ebola virus currently spreading in the Congo, efforts are underway to fast-track development of at least three vaccines.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-01T21:35:53+00:00",
-    "date_str": "Jun 01, 2026"
-  },
-  {
-    "title": "Non-Operative Treatment for CRC May Include Observation After Complete Response",
-    "url": "https://www.medpagetoday.com/meetingcoverage/asco/121537",
-    "summary": "(MedPage Today) -- CHICAGO -- Patients who skipped maintenance therapy after a complete response to upfront treatment with a PD-1 inhibitor lived just as long as those who had 3 years of maintenance, data from a cohort study that compared nonsurgical...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-01T21:40:26+00:00",
-    "date_str": "Jun 01, 2026"
-  },
-  {
-    "title": "Tenecteplase Unseats Low-Dose Alteplase Favored for Asian Patients",
-    "url": "https://www.medpagetoday.com/cardiology/strokes/121536",
-    "summary": "(MedPage Today) -- Standard-dose tenecteplase (TNKase) beat low-dose alteplase as a bridge to stroke thrombectomy in bleeding-prone patients, a Japanese trial found. Early reperfusion outcomes significantly favored patients who received tenecteplase...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-01T21:31:22+00:00",
-    "date_str": "Jun 01, 2026"
-  },
-  {
-    "title": "CMS releases Medicaid work requirements guidance for states",
-    "url": "https://www.healthcaredive.com/news/cms-medicaid-work-requirements-final-rule-state-guidance/821631/",
-    "summary": "The highly anticipated interim final rule weighs in on key issues for states hustling to operationalize work requirements before the 2027 deadline. But there’s still some gray area — and lots of critics.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-01T18:57:53+00:00",
-    "date_str": "Jun 01, 2026"
   }
 ]
