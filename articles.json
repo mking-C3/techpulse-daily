@@ -1,5 +1,235 @@
 [
   {
+    "title": "Judge temporarily blocks subpoenas in criminal probe of transgender care at New York hospitals",
+    "url": "https://www.statnews.com/2026/06/24/judge-blocks-subpoena-probe-transgender-care-new-york-hospitals/?utm_campaign=rss",
+    "summary": "A judge temporarily blocked federal prosecutors in Texas from getting access to the medical records of transgender patients treated at New York hospitals on Wednesday.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-24T17:34:35+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "Clinical trial set to test two drugs for fast-growing Ebola outbreak",
+    "url": "https://www.statnews.com/2026/06/24/ebola-treatment-trials-gilead-remdesivir-mappbio-mbp-134/?utm_campaign=rss",
+    "summary": "A clinical trial testing two drugs against the Bundibugyo ebolavirus, which is driving a fast-moving outbreak in Central Africa, is set to begin next week, WHO officials said.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-24T16:32:20+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "STAT+: A dispatch on AI from BIOtech’s big summer bash",
+    "url": "https://www.statnews.com/2026/06/24/dispatch-from-bio-biotech-big-summer-bash-ai-prognosis/?utm_campaign=rss",
+    "summary": "In this edition of STAT's AI Prognosis: Brittany Trang brings the latest from BIO on how biotech companies are approaching artificial intelligence.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-24T15:21:20+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "STAT+: AI wades into a vexing medical mystery: What causes sudden cardiac death?",
+    "url": "https://www.statnews.com/2026/06/24/artificial-intelligence-model-cause-of-sudden-cardiac-death/?utm_campaign=rss",
+    "summary": "A new study published in Nature uses artificial intelligence to identify people at high risk for sudden cardiac death, and pinpoints a possible reason.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-24T15:01:15+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "Nature Retracts Cancer Study Linking Treatment Timing to Survival",
+    "url": "https://www.medpagetoday.com/hematologyoncology/lungcancer/121913",
+    "summary": "(MedPage Today) -- After a 4-month investigation, Nature Medicine retracted a study that showed that the time of day in which immunochemotherapy was given for non-small cell lung cancer (NSCLC) had an effect on survival outcomes. In the phase...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-24T18:15:27+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "How a Drug With More Negative Than Positive Studies Won FDA Approval",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/washington-watch/121912",
+    "summary": "(MedPage Today) -- The FDA should require negative studies of a new drug to be included in the product's labeling -- not just those studies with a beneficial finding -- to prevent physicians and consumers from being misled about the drug's...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-24T18:00:53+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "LSD's Depression Win; Summer Heat and Suicide; Antipsychotic Nonresponse Predictors",
+    "url": "https://www.medpagetoday.com/psychiatry/generalpsychiatry/121911",
+    "summary": "(MedPage Today) -- Topline data showed that a single dose of an investigational LSD-based pill (DT120) met primary and key secondary endpoints in a phase III trial of adults with major depressive disorder, developer Definium Therapeutics said...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-24T17:58:31+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "Could TILs Serve as a Marker of Immunotherapy Benefit in Early TNBC?",
+    "url": "https://www.medpagetoday.com/meetingcoverage/ascofuturefocusearlybreastcancer/121910",
+    "summary": "(MedPage Today) -- At the American Society of Clinical Oncology (ASCO) meeting, long-term follow-up from the KEYNOTE-522 trial reinforced the survival benefit of pembrolizumab (Keytruda)-based therapy in early-stage triple-negative breast cancer...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-24T17:46:37+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "Prenatal Exposure to Acid Suppressants and Kids' IBD Risk: No Need to Worry?",
+    "url": "https://www.medpagetoday.com/gastroenterology/inflammatoryboweldisease/121909",
+    "summary": "(MedPage Today) -- Prenatal exposure to acid-suppressive drugs did not have a clear association with the development of inflammatory bowel disease (IBD) in childhood, a South Korean cohort study suggested. While prenatal exposure to acid-suppressive...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-24T17:37:17+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "I Was an NIH Program Official. Here's What a Peer Reviewer Doesn’t See.",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/121908",
+    "summary": "(MedPage Today) -- In a June 18 opinion piece in MedPage Today, Anthony LoSasso, PhD, a health economist who served on NIH study sections for 12 years, took issue with a recent New England Journal of Medicine (NEJM) editorial that criticizes the...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-24T17:20:04+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "Are People With Eating Disorders Misusing GLP-1 Drugs?",
+    "url": "https://www.medpagetoday.com/psychiatry/eatingdisorders/121907",
+    "summary": "(MedPage Today) -- Use and misuse of GLP-1 receptor agonists were common in people with eating disorders, interim results of an ongoing cross-sectional study suggested. Among over 400 people with eating disorders, 32.1% said they have used GLP...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-24T16:18:44+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "RFK Jr.'s Vax Agenda Lives; Filler 'Smuggling' Accusations; Peptide Gray Market",
+    "url": "https://www.medpagetoday.com/special-reports/features/121904",
+    "summary": "(MedPage Today) -- Despite political warnings and legal challenges, there's still a push to keep HHS Secretary Robert F. Kennedy Jr.'s vaccine agenda alive -- but it has shifted largely out of public view. Kennedy allies are \"embedding his agenda...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-24T15:26:32+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "Judge Rules Government Can't Stop SNAP Dollars From Buying Candy and Sugary Drinks",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/121898",
+    "summary": "(MedPage Today) -- The federal government can't block benefits from the nation's largest food aid program from being used to buy candy, soda, and other sugary drinks, a judge ruled. Monday's ruling scuttles restrictions now in place or planned...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-24T15:00:22+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "Fauci Subpoenaed; Army, Navy Reinstate Flu Shot Requirement; Milder Ebola Symptoms?",
+    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/121897",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Sen. Rand Paul (R-Ky.) subpoenaed Anthony Fauci, MD, to appear before the Committee on Homeland Security & Governmental Affairs next month. (The Hill) A bipartisan...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-24T13:33:20+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "Centene adds JPMorgan veteran to board",
+    "url": "https://www.healthcaredive.com/news/centene-adds-lauren-tyler-board-directors/823551/",
+    "summary": "Incoming board member Lauren Tyler has more than 30 years of leadership experience in the finance world, which could help Centene navigate the challenging operating environment facing insurers.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-24T15:51:31+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "Florida launches probe into CVS for alleged anticompetitive pharmacy practices",
+    "url": "https://www.healthcaredive.com/news/florida-attorney-general-probe-cvs-caremark-anticompetitive-pharmacy/823643/",
+    "summary": "The investigation by Florida’s attorney general comes as states look to check pharmacy benefit managers for allegedly driving up drug costs.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-24T15:01:00+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "Democrats push for more data on Medicare AI prior authorization pilot",
+    "url": "https://www.healthcaredive.com/news/democrat-letter-more-data-wiser-medicare-ai-prior-authorization/823581/",
+    "summary": "The letter to the CMS from Democrats is the latest salvo from lawmakers concerned that WISeR is delaying care to Medicare beneficiaries.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-24T14:28:56+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "Some life insurers compete with health insurers on benefits. Here's why",
+    "url": "https://www.fiercehealthcare.com/payers/some-life-insurers-compete-health-insurers-benefits",
+    "summary": "Life insurers are intimately familiar with death and its causes. Some have decided to help customers be proactive about their health.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-06-24T19:44:42.246674+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "Patients prefer healthcare providers' AI agents to public chatbots, with human oversight non‑negotiable, survey finds",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/patients-prefer-healthcare-providers-ai-agents-public-chatbots-and-human",
+    "summary": "Patients are open to using AI agents to help with tasks like scheduling and billing, but they overwhelmingly prefer AI tools that live inside their doctor’s secure portal, a new Salesforce survey found.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-06-24T19:44:42.246748+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "Coval raises $28M series A to address AI voice agent reliability, compliance",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/coval-raises-28m-series-address-ai-voice-agent-reliability-compliance",
+    "summary": "The company plans to use the funds to address deployment reliability and compliance issues, expand its sales and solutions engineering teams and advance product capabilities.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-06-24T19:44:42.246787+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "Judge blocks subpoenas in transgender care investigation at NY hospitals",
+    "url": "https://thehill.com/policy/healthcare/5938824-court-ruling-subpoenas-transgender-care-new-york-hospitals-block/",
+    "summary": "A federal judge on Wednesday blocked Justice Department (DOJ) prosecutors from accessing the medical records of transgender individuals treated at New York City hospitals. U.S. District Judge Katherine Polk Failla, of the Southern District of New York, granted the plaintiffs’ request for a temporary restraining order against the DOJ, thereby barring the Trump administration from...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-06-24T19:15:26+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "Senate Democrats raise 'profound concerns' over Trump administration website for new moms",
+    "url": "https://thehill.com/homenews/senate/5938652-trump-website-moms-democratic-senators-concerns/",
+    "summary": "Ten Democratic senators, along with one independent, on Wednesday flagged “profound concerns” with the Trump administration’s website for new and expecting mothers, with the lawmakers saying the site drives families toward crisis pregnancy centers (CPC) for treatment. Moms.gov, launched on Mother’s Day, features resources from 2,750 pregnancy centers, which Planned Parenthood calls \"crisis pregnancy centers\"...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-06-24T18:48:55+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "CDC ends US Hantavirus response",
+    "url": "https://thehill.com/policy/healthcare/5938503-hantavirus-response-ends-cdc/",
+    "summary": "The Centers for Disease Control and Prevention (CDC) officially ended its Hantavirus response Wednesday, more than a month after the first Americans were evacuated following an outbreak aboard a cruise ship in the North Atlantic. The wind-down comes after the final 42-day quarantine period for the Americans who were exposed to the virus ended earlier this week. ...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-06-24T16:16:38+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
     "title": "Keeping Up With Clinicians",
     "url": "https://medcitynews.com/2026/06/keeping-up-with-clinicians/",
     "summary": "AI adoption in healthcare isn’t being led by innovation teams, it’s the clinicians The post Keeping Up With Clinicians appeared first on MedCity News .",
@@ -9768,235 +9998,5 @@
     "category_slug": "drug-coverage",
     "date": "2026-06-03T16:47:58.785057+00:00",
     "date_str": "Jun 03, 2026"
-  },
-  {
-    "title": "Athenahealth rolls out over 80 new, expanded AI RCM features in ‘roadmap’ on athenaOne platform",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/athenahealth-rolls-out-over-80-new-expanded-ai-rcm-features-roadmap",
-    "summary": "New and expanded AI-native capabilities include automated insurance selection, AI copay, voice AI, express coding and more.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-03T16:47:58.785093+00:00",
-    "date_str": "Jun 03, 2026"
-  },
-  {
-    "title": "Rubio says US to 'reengage' with global vaccine program",
-    "url": "https://thehill.com/policy/healthcare/5907909-rubio-state-department-gavi/",
-    "summary": "The United States may resume funding for a global humanitarian vaccine alliance, reversing a decision by Health Secretary Robert F. Kennedy Jr. to hold up the money because of vaccine concerns, Secretary of State Marco Rubio indicated Tuesday. Rubio told members of the Senate Foreign Relations Committee that the State Department was wresting back control...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-03T16:08:09+00:00",
-    "date_str": "Jun 03, 2026"
-  },
-  {
-    "title": "'Queen of Versailles' star Jackie Siegel to mark annual Naloxone Awareness Day in DC",
-    "url": "https://thehill.com/blogs/in-the-know/5906367-queen-of-versailles-jackie-siegel-to-mark-narcan-naloxone-awareness-day/",
-    "summary": "The so-called Queen of Versailles is trading her kingdom for Capitol Hill, heading to Congress to mark a day she championed dedicated to bringing attention to naloxone, commonly known as the brand name Narcan, which can reverse opioid overdoses. \"Ten years ago, no one knew what Narcan was,\" Jackie Siegel told ITK in an interview....",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-03T13:30:00+00:00",
-    "date_str": "Jun 03, 2026"
-  },
-  {
-    "title": "2 scientists charged with bringing deactivated mpox virus into the US and lying to authorities",
-    "url": "https://thehill.com/policy/healthcare/2-scientists-deactivated-mpox-virus-michigan/",
-    "summary": "DETROIT (AP) — Two scientists at a U.S. government lab were charged with smuggling vials of deactivated mpox virus into the country from Africa and lying about it during interviews with investigators at a Michigan airport, authorities said Tuesday. A criminal complaint was unsealed in federal court in Detroit against Vincent Munster, who is chief...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-03T01:30:30+00:00",
-    "date_str": "Jun 03, 2026"
-  },
-  {
-    "title": "Michigan Found a Way To Reduce School Vaccine Waivers. Until It Backfired.",
-    "url": "https://kffhealthnews.org/public-health/vaccinations-school-vaccine-waivers-michigan-measles-covid-lockdowns/",
-    "summary": "The state had high rates of parents not vaccinating their children, so it started making them attend vaccine education sessions to opt out their kids. It seemed to work. Then things got ugly.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-03T09:00:00+00:00",
-    "date_str": "Jun 03, 2026"
-  },
-  {
-    "title": "At a Tennessee Hospital, a Nurse Stole Fentanyl and AI Missed It, State Records Say",
-    "url": "https://kffhealthnews.org/health-industry/ai-drug-diversion-theft-artificial-intelligence-hospitals-sentri7-software-tennessee/",
-    "summary": "Sentri7, drug diversion software powered by artificial intelligence and used at hundreds of U.S. hospitals, did not catch a months-long string of fentanyl thefts in Tennessee in 2025, according to a state document.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-03T09:00:00+00:00",
-    "date_str": "Jun 03, 2026"
-  },
-  {
-    "title": "Novellia Snags $18M for Its Real-World Data Platform",
-    "url": "https://medcitynews.com/2026/06/novellia-data-healthcare-pharma/",
-    "summary": "Novellia raised $18 million in Series A funding to scale its platform, which helps patients consolidate medical records and share anonymized data with pharma companies. CEO Shashi Shankar argued that sourcing data directly from patients can create more complete healthcare datasets and improve drug research. The post Novellia Snags $18M for Its Real-World Data Platform appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-03T05:49:54+00:00",
-    "date_str": "Jun 03, 2026"
-  },
-  {
-    "title": "Top ultra-processed food researchers call for sweeping policy change: ‘The system is rigged’",
-    "url": "https://www.statnews.com/2026/06/03/ultra-processed-food-experts-want-sweeping-policy-changes/?utm_campaign=rss",
-    "summary": "A survey finds that ultra-processed foods are a cross-partisan concern. And yet policy has been slow to follow.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-03T09:00:00+00:00",
-    "date_str": "Jun 03, 2026"
-  },
-  {
-    "title": "STAT+: Trump’s Medicaid work requirements have an unwelcome surprise for some states and patients",
-    "url": "https://www.statnews.com/2026/06/03/medicaid-work-requirements-experts-say-millions-will-lose-coverage/?utm_campaign=rss",
-    "summary": "Advocates were already dreading Medicaid's work requirements. New rules are worse than they feared.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-03T08:30:00+00:00",
-    "date_str": "Jun 03, 2026"
-  },
-  {
-    "title": "STAT+: NIH cuts weakened network primed to respond to outbreaks like Ebola",
-    "url": "https://www.statnews.com/2026/06/03/nih-cuts-infectious-disease-research-funding-hampers-ebola-preparedness/?utm_campaign=rss",
-    "summary": "While NIH-funded centers weren’t on the front lines of virus responses like the CDC or USAID, some researchers involved in the network said the cuts have damaged relationships with experts…",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-03T08:30:00+00:00",
-    "date_str": "Jun 03, 2026"
-  },
-  {
-    "title": "Opinion: How the military may be fueling eating disorders in men",
-    "url": "https://www.statnews.com/2026/06/03/eating-disorders-men-military-troops-veterans/?utm_campaign=rss",
-    "summary": "“Much of the rhetoric, imagery, and policy messaging from the Trump administration centers on extreme masculine ideals,” First Opinion author writes.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-03T08:30:00+00:00",
-    "date_str": "Jun 03, 2026"
-  },
-  {
-    "title": "Opinion: The Amish way of health care",
-    "url": "https://www.statnews.com/2026/06/03/amish-public-health-vaccines-autism-first-opinion-podcast/?utm_campaign=rss",
-    "summary": "“Public health is going to have to talk about the Amish more and more”: Listen to STAT’s \"First Opinion Podcast\" on the Amish and health care.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-03T08:30:00+00:00",
-    "date_str": "Jun 03, 2026"
-  },
-  {
-    "title": "Opinion: The medical-billing AI arms race between providers and insurance",
-    "url": "https://www.statnews.com/2026/06/03/ai-arms-race-medical-building-waste/?utm_campaign=rss",
-    "summary": "“The financial side effects of care have become clinical ones,” writes Darshak Sanghavi.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-03T08:30:00+00:00",
-    "date_str": "Jun 03, 2026"
-  },
-  {
-    "title": "A science powerhouse bets on genetic therapy to beat brain disorders",
-    "url": "https://www.npr.org/2026/06/03/nx-s1-5837620/brain-health-accelerator-gene-therapy-alzheimer",
-    "summary": "The Allen Institute in Seattle says scientists have now learned enough about how the brain works to start fixing it when it breaks.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-03T09:00:00+00:00",
-    "date_str": "Jun 03, 2026"
-  },
-  {
-    "title": "Ebola vaccine candidates being fast-tracked to target rare strain",
-    "url": "https://www.npr.org/2026/06/03/nx-s1-5836400/ebola-vaccine-candidates-being-fast-tracked-to-target-rare-strain",
-    "summary": "Three vaccine candidates are being fast-tracked to target the Ebola species spreading in Central Africa. Big organizations and companies are behind the effort, but logistics are complicated.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-03T08:39:17+00:00",
-    "date_str": "Jun 03, 2026"
-  },
-  {
-    "title": "5 takeaways on Trump's divisive Medicaid work requirements",
-    "url": "https://thehill.com/policy/healthcare/5906718-medcaid-work-requirements-rule/",
-    "summary": "A new rule explaining how states need to implement Medicaid work requirements may make it much harder for low-income sick people to maintain health coverage next year. The long-anticipated rule issued Monday is meant to guide 42 states and the District of Columbia on carrying out the work rules laid out in the One Big Beautiful Bill Act. GOP lawmakers and...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-03T10:00:00+00:00",
-    "date_str": "Jun 03, 2026"
-  },
-  {
-    "title": "Ilant Health Raises $15M to Advance Obesity Care",
-    "url": "https://medcitynews.com/2026/06/ilant-health-raises-15m-to-advance-obesity-care/",
-    "summary": "Ilant Health’s Series A round was led by Cornucopian Capital, with participation from naturalX, Peakbridge, Semcap AI, Evidenced, Operator Partners, Celtic, LifeX and AlphaLab. The post Ilant Health Raises $15M to Advance Obesity Care appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-02T22:08:30+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "Senior NIH scientist, research fellow charged with bringing deactivated mpox virus into U.S.",
-    "url": "https://www.statnews.com/2026/06/02/nih-scientist-federal-charges-mpox/?utm_campaign=rss",
-    "summary": "A senior NIH scientist and his research fellow were charged with smuggling vials of deactivated mpox virus into the country from Africa and lying about it.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-03T00:41:06+00:00",
-    "date_str": "Jun 03, 2026"
-  },
-  {
-    "title": "Heat, bugs, germs: U.S. public health prepares for the World Cup",
-    "url": "https://www.npr.org/2026/06/02/nx-s1-5836687/heat-bugs-germs-u-s-public-health-prepares-for-the-world-cup",
-    "summary": "For months ahead of the World Cup, states and cities have been preparing to protect travelers and local communities from potential threats including foodborne illness and infectious diseases.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-02T21:18:32+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "Novel Biologic Performs Well in IgG4-Related Disease",
-    "url": "https://www.medpagetoday.com/meetingcoverage/eular/121561",
-    "summary": "(MedPage Today) -- LONDON -- An investigational monoclonal antibody drug for immunoglobulin (Ig)G4-related disease called obexelimab substantially outperformed placebo in the phase III INDIGO trial, researchers reported, positioning it to take...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-02T23:01:00+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "GLP-1 Drugs Cut Need for Knee Replacement",
-    "url": "https://www.medpagetoday.com/rheumatology/arthritis/121556",
-    "summary": "(MedPage Today) -- People with knee osteoarthritis (OA) who used GLP-1 receptor agonists were less likely to undergo knee replacement surgery, an analysis of a large records database indicated. Compared with otherwise similar OA patients not taking...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-02T22:30:00+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "Health Groups Unhappy With Medicaid Work Requirement Interim Rule",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/medicaid/121560",
-    "summary": "(MedPage Today) -- CMS issued an interim final rule Monday outlining implementation rules for new Medicaid work requirements, and health organizations seemed none too happy with it. \"Most adults covered by Medicaid are already working, caregiving...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-02T21:22:39+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "Adding Immunotherapy-Based Combo Boosts PFS in Unresectable Liver Cancer",
-    "url": "https://www.medpagetoday.com/meetingcoverage/asco/121559",
-    "summary": "(MedPage Today) -- CHICAGO -- Combining standard transarterial chemoembolization (TACE) with the immunotherapy-based STRIDE regimen improved progression-free survival (PFS) in patients with unresectable hepatocellular carcinoma (HCC), the phase...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-02T21:14:54+00:00",
-    "date_str": "Jun 02, 2026"
   }
 ]
