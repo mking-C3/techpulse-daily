@@ -1,5 +1,125 @@
 [
   {
+    "title": "A Ban Won’t Stop Abortion Pill Access, Telehealth Providers Say",
+    "url": "https://kffhealthnews.org/courts/louisiana-fda-mifepristone-misoprostol-abortion-pills-mail-federal-court-case/",
+    "summary": "As a federal court mulls a case that could result in significant restrictions on a pill used in most abortions, providers say they have alternatives to preserve access even in states with bans in place.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-24T09:00:00+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "Even in Blue States, Hospitals Have Continued To Drop Gender-Affirming Care for Youths",
+    "url": "https://kffhealthnews.org/health-industry/gender-affirming-care-trump-hospitals-transgender-massachusetts/",
+    "summary": "Massachusetts passed laws and joined lawsuits to protect access to gender-affirming care for minors. But faced with the Trump administration’s threats, some hospitals voluntarily stopped care. Families are outraged.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-24T09:00:00+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "The Things to Think About Before Taking Your Biotech Company Public",
+    "url": "https://medcitynews.com/2026/06/biotech-ipo-public-stock-listing-nasdaq-bio-convention/",
+    "summary": "The biotech IPOs window is now open, but that doesn’t mean every company can go through it. A panel at the BIO Convention in San Diego discussed the steps biotech companies should take if they’re considering a public listing. The post The Things to Think About Before Taking Your Biotech Company Public appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-24T07:47:58+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "Cadence Rakes In $100M to Automate Chronic Care at Scale",
+    "url": "https://medcitynews.com/2026/06/cadence-chronic-conditions/",
+    "summary": "Cadence raised $100 million in Series C funding to scale its AI-powered chronic care platform, which monitors patients at home and adjusts their medications in real time.The startup, now valued at $1.23 billion, partners with health systems to treat patients with heart failure, hypertension and diabetes. The post Cadence Rakes In $100M to Automate Chronic Care at Scale appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-24T04:02:11+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "Opinion: How I used public radio to recruit 20,000 participants for a peer-reviewed study on walking breaks",
+    "url": "https://www.statnews.com/2026/06/24/short-walking-breaks-sitting-health-research/?utm_campaign=rss",
+    "summary": "“With the right structure, Americans will roll up their sleeves, do the science, and trust the result,” Manoush Zomorodi writes.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-24T08:30:00+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "Opinion: New human embryo editing advances require tough conversations on ethical boundaries",
+    "url": "https://www.statnews.com/2026/06/24/embryo-editing-dieter-egli-ethical-boundaries-moratorium/?utm_campaign=rss",
+    "summary": "Scientists can’t ignore the ethical complexities of new embryo editing advances.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-24T08:30:00+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "STAT+: What an abandoned heart failure trial says about ‘breakthrough’ devices that don’t reach patients",
+    "url": "https://www.statnews.com/2026/06/24/fda-breakthrough-devices-what-we-learned-livanova-vitaria-results/?utm_campaign=rss",
+    "summary": "An abandoned heart-failure trial offers a rare window into devices that the FDA deems \"breakthrough\" but never reach patients.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-24T08:30:00+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "In the Ebola epicenter, a gold-mining town reacts with fear, disbelief and grit",
+    "url": "https://www.npr.org/2026/06/24/nx-s1-5863157/ebola-outbreak-democratic-republic-congo-health-crisis",
+    "summary": "NPR reports from Mongbwalu in the Democratic Republic of Congo. The fight to contain the virus faces obstacles from lack of supplies to residents who doubt that the virus is real.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-24T09:00:00+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "Why are crisis pregnancy centers saying they can 'rule out' ectopic pregnancy?",
+    "url": "https://www.npr.org/2026/06/24/nx-s1-5860744/crisis-pregnancy-centers-ectopic-abortion",
+    "summary": "Under President Trump, more federal attention and support has gone towards anti-abortion Christian centers. A watchdog group says many of them mislead patients with promises to \"rule out\" ectopic pregnancies.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-24T09:00:00+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "How to protect yourself from ticks",
+    "url": "https://www.npr.org/2026/06/24/nx-s1-5836468/how-to-protect-yourself-from-ticks",
+    "summary": "It's tick season, but how do you avoid the little arachnids? NPR asks two experts in tick bites and behavior.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-24T08:39:21+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "Higher Daytime Light Exposure Linked to Lower Dementia Risk",
+    "url": "https://www.medpagetoday.com/neurology/dementia/121893",
+    "summary": "(MedPage Today) -- People exposed to higher levels of daytime light had a lower risk of dementia, prospective data from 88,000 U.K. Biobank participants showed. Over 8 years of follow-up, people who had an average daytime light exposure above...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-24T07:01:00+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
+    "title": "Republicans debate insulin pricing cap ahead of daunting midterms",
+    "url": "https://www.politico.com/news/2026/06/24/republicans-debate-insulin-price-cap-00972910",
+    "summary": "A bipartisan bill to implement a $35 cap on out-of-pocket insulin costs is gaining steam among Republicans, but big hurdles remain to get the legislation through Congress.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-06-24T09:00:00+00:00",
+    "date_str": "Jun 24, 2026"
+  },
+  {
     "title": "Startup Raises $7M for Virtual-First Pediatric Therapy Model",
     "url": "https://medcitynews.com/2026/06/startup-raises-7m-for-virtual-first-pediatric-therapy-model/",
     "summary": "Ladder Health’s seed round was led by Nina Capital, with participation from Mairs & Power Venture Capital, South Dakota First Capital, 25madison Health, Hatteras Venture Partners, Create Health Ventures, Jumpstart Capital, White Oak Enterprises, Groove Capital and 7Rock Ventures. The post Startup Raises $7M for Virtual-First Pediatric Therapy Model appeared first on MedCity News .",
@@ -9877,126 +9997,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-06-02T19:34:52+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "How the Brain Works at Night; An Unusual ARIA Case; Smartwatch Detects Seizures",
-    "url": "https://www.medpagetoday.com/neurology/generalneurology/121553",
-    "summary": "(MedPage Today) -- A review in Science looked at the oscillatory biology of sleep and how disruptions are linked with dementia risk. Using artificial intelligence (AI) and MRI data, a novel framework revealed how the brain clears out waste at...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-02T19:25:49+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "Omnipod Pod Recall; Afrezza OK'd for Kids 6 and Up; CVS to Cover Zepbound Again",
-    "url": "https://www.medpagetoday.com/endocrinology/generalendocrinology/121552",
-    "summary": "(MedPage Today) -- Insulet initiated a voluntary device correction of certain Omnipod pods due to a manufacturing defect that causes insulin to leak rather than being fully delivered into the body, the FDA alerted. This action is separate from...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-02T19:14:44+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "Melanoma Vaccine Halves Risk of Recurrence, Metastasis Over 5 Years",
-    "url": "https://www.medpagetoday.com/meetingcoverage/asco/121551",
-    "summary": "(MedPage Today) -- CHICAGO -- An investigational individualized vaccine for surgically resected melanoma demonstrated durable benefits in reducing the risks of recurrence and distant spread, 5-year follow-up of a randomized study showed. Adding...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-02T18:52:06+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "Making Papers Open Access Could Cost Feds $1B Per Year, Report Finds",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/121550",
-    "summary": "(MedPage Today) -- The costs of meeting a federal mandate to make research papers freely and immediately available to the public are exorbitant, and most agencies don't have adequate plans in place to cover it, a report from the U.S. Government...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-02T18:18:06+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "Planning for Long-Term Care and Family Support in Alzheimer's Disease",
-    "url": "https://www.medpagetoday.com/beyond-diagnosis/alzheimers-disease/121549",
-    "summary": "(MedPage Today) -- In \"Beyond Diagnosis: Alzheimer's Disease,\" Cleveland Clinic behavioral neurologist Jagan Pillai, MD, PhD, and host Glenn Campbell continue their discussion on communicating effectively with patients and families facing a progressive...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-02T18:15:26+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "Docs Should Compete for Patient Dollars, Not Political Influence, Economist Says",
-    "url": "https://www.medpagetoday.com/special-reports/features/121548",
-    "summary": "(MedPage Today) -- In this series, MedPage Today is asking healthcare economists and policy experts the same questions about the high costs of U.S. healthcare. They'll discuss what they believe is working, what's not working, and what else can...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-02T17:57:05+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "Volixibat Soothed the Itch in Primary Sclerosing Cholangitis",
-    "url": "https://www.medpagetoday.com/meetingcoverage/easl/121547",
-    "summary": "(MedPage Today) -- The investigational ileal bile acid transporter (IBAT) inhibitor volixibat delivered better itch relief than placebo in patients with primary sclerosing cholangitis (PSC), data from a phase II randomized clinical trial showed...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-02T17:23:10+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "People Are Booing AI. Health Leaders Should Take Note.",
-    "url": "https://www.medpagetoday.com/opinion/prescriptionsforabrokensystem/121546",
-    "summary": "(MedPage Today) -- Something happened at graduation ceremonies this spring that should cause every health system CEO, hospital administrator, and digital health investor to rethink their development, implementation, and marketing strategies: college...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-02T16:37:05+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "FTC requires Ascension divestitures in $3.9B AmSurg deal",
-    "url": "https://www.healthcaredive.com/news/ascension-amsurg-ftc-consent-order-surgery-center-divestitures/821741/",
-    "summary": "Ascension needs to sell seven surgery centers if it wants the deal to close, regulators said. Ascension, which is pursuing the AmSurg acquisition as part of a larger financial turnaround, said it was pleased with the compromise.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-02T15:49:02+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "Industry groups say final Medicaid work requirements rule imposes onerous documentation burden",
-    "url": "https://www.fiercehealthcare.com/regulatory/industry-groups-say-final-medicaid-work-requirements-rule-imposes-onerous-documentation",
-    "summary": "On Monday, the Trump administration finalized a key rule that establishes national guidelines for the rollout of work requirements in Medicaid. Industry groups warn that the regulation could prove burdensome to enrollees and state programs.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-02T20:47:54.257452+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "FTC clears Ascension's $3.9B AmSurg purchase, but requires some ASC divestitures",
-    "url": "https://www.fiercehealthcare.com/providers/ftc-clears-ascensions-39b-amsurg-purchase-requires-some-asc-divestitures",
-    "summary": "The federal regulator said it will permit a deal to create the country's third-largest ASC platform to go forward, so long as seven specific ASCs in threatened markets are divested.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-02T20:47:54.257507+00:00",
-    "date_str": "Jun 02, 2026"
-  },
-  {
-    "title": "Joint Commission launches voluntary AI certification program for healthcare organizations",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/joint-commission-launches-voluntary-ai-certification-program-healthcare",
-    "summary": "Any healthcare organization may apply for the certification, and interested organizations do not have to be accredited by the Joint Commission.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-02T20:47:54.257538+00:00",
     "date_str": "Jun 02, 2026"
   }
 ]
