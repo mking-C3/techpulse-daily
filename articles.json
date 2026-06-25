@@ -1,5 +1,105 @@
 [
   {
+    "title": "Opioid Settlement Money Pays for Services To Battle Addiction in Rural Kentucky",
+    "url": "https://kffhealthnews.org/health-industry/opioid-settlement-money-harm-reduction-services-rural-kentucky/",
+    "summary": "A program in rural eastern Kentucky is receiving opioid settlement funding to address substance use disorders, housing, hunger, and other challenges.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-25T09:00:00+00:00",
+    "date_str": "Jun 25, 2026"
+  },
+  {
+    "title": "Democrats To Propose Bill Capping Out-of-Pocket Medicare Costs for Enrollees",
+    "url": "https://kffhealthnews.org/medicare/medicare-costs-out-of-pocket-cap-democrats-senate-wyden-midterms/",
+    "summary": "Some Senate Democrats want to cap the amount beneficiaries in traditional Medicare have to pay toward care, but the move is expected to draw GOP opposition for potentially adding billions to Medicare costs.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-25T09:00:00+00:00",
+    "date_str": "Jun 25, 2026"
+  },
+  {
+    "title": "New FDA Nod Keeps Gilead Drug Competitive With AstraZeneca & Daiichi in Breast Cancer",
+    "url": "https://medcitynews.com/2026/06/gilead-sciences-trodelvy-triple-negative-breast-cancer-adc-fda-approval-tnbc-gild/",
+    "summary": "Gilead Sciences antibody drug conjugate Trodelvy is now approved as a first-line treatment for triple-negative breast cancer. This expanded approval for Trodelvy comes with a slightly broader label that gives it an edge over the AstraZeneca and Daiichi Sankyo ADC Datroway. The post New FDA Nod Keeps Gilead Drug Competitive With AstraZeneca & Daiichi in Breast Cancer appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-25T05:01:11+00:00",
+    "date_str": "Jun 25, 2026"
+  },
+  {
+    "title": "STAT+: Facing a brutal run, battered vaccine makers still see cause for hope",
+    "url": "https://www.statnews.com/2026/06/25/vaccine-industry-dark-period-causes-for-hope/?utm_campaign=rss",
+    "summary": "It's an unusual time to be in the vaccine business. But in the view of those gathered at the BIO conference this week, it’s not altogether a bleak one.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-25T08:30:00+00:00",
+    "date_str": "Jun 25, 2026"
+  },
+  {
+    "title": "Opinion: My adult daughter has Down syndrome. Her life is entirely different from what experts expected",
+    "url": "https://www.statnews.com/2026/06/25/prenatal-down-syndrome-diagnosis-screening-life-expectancy-health-facts/?utm_campaign=rss",
+    "summary": "“Women are fully capable of making difficult decisions, but meaningful choice requires trusted, vetted information,” writes Michelle Sie Whitten of the Global Down Syndrome Foundation.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-25T08:30:00+00:00",
+    "date_str": "Jun 25, 2026"
+  },
+  {
+    "title": "Bipartisan bill seeks to allow direct prescribing of methadone for opioid addiction",
+    "url": "https://www.statnews.com/2026/06/25/bipartisan-bill-methadone-prescription-pharmacy-pickup/?utm_campaign=rss",
+    "summary": "Methadone for opioid addiction has been available only at specialty clinics. A bipartisan bill would greatly expand access.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-25T08:30:00+00:00",
+    "date_str": "Jun 25, 2026"
+  },
+  {
+    "title": "STAT+: Biosecure didn’t stop China’s rise in biotech. Some lawmakers want to do more",
+    "url": "https://www.statnews.com/2026/06/25/china-biotech-next-steps-after-biosecure-act/?utm_campaign=rss",
+    "summary": "They're laying the groundwork for legislation and regulation to counter Chinese biopharma companies.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-25T08:30:00+00:00",
+    "date_str": "Jun 25, 2026"
+  },
+  {
+    "title": "Opinion: How a 1976 murder case changed doctor-patient confidentiality",
+    "url": "https://www.statnews.com/2026/06/25/tarasoff-50th-anniversary-murder-doctor-patient-confidentiality/?utm_campaign=rss",
+    "summary": "The Tarasoff case remains a pivotal marker in bioethics at the bicentennial as we now reach the country’s 250th birthday.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-25T08:30:00+00:00",
+    "date_str": "Jun 25, 2026"
+  },
+  {
+    "title": "4 surprising things to know about abortion in America since Dobbs",
+    "url": "https://www.npr.org/2026/06/25/nx-s1-5869560/abortion-dobbs-roe-rights-restrictions-anniversary-update",
+    "summary": "A confusing patchwork of state laws began to take shape hours after the Supreme Court ruled to overturn Roe v. Wade on June 24, 2022. Here's where things stand now on the abortion issue.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-25T09:00:00+00:00",
+    "date_str": "Jun 25, 2026"
+  },
+  {
+    "title": "How to find middle ground when your partner wants kids — and you don't",
+    "url": "https://www.npr.org/2026/06/25/nx-s1-5758051/how-to-find-middle-ground-when-your-partner-wants-kids-and-you-dont",
+    "summary": "Psychotherapist Merle Bombardieri has been helping couples with this conundrum for decades. She shares four exercises to bring clarity to the situation — and find a solution that minimizes regret.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-25T09:00:00+00:00",
+    "date_str": "Jun 25, 2026"
+  },
+  {
     "title": "New Partnership Aims to Lower Out-of-Pocket Costs, Even Eliminate Them In Some Cases",
     "url": "https://medcitynews.com/2026/06/partnership-lower-costs-employers/",
     "summary": "Priority Health is partnering with Garner Health to steer members to high-quality physicians and reduce healthcare costs for employers. The post New Partnership Aims to Lower Out-of-Pocket Costs, Even Eliminate Them In Some Cases appeared first on MedCity News .",
@@ -9897,106 +9997,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-06-03T19:51:23+00:00",
-    "date_str": "Jun 03, 2026"
-  },
-  {
-    "title": "People with cancer or HIV could lose Medicaid under new work rules, advocates say",
-    "url": "https://www.npr.org/2026/06/03/nx-s1-5845097/medicaid-work-requirements-cuts-hiv-cancer",
-    "summary": "Adults on Medicaid will be required to work 80 hours per month. The Trump administration says people who are sick will have to prove they are too sick to work to be exempt from the new work rules.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-03T18:25:24+00:00",
-    "date_str": "Jun 03, 2026"
-  },
-  {
-    "title": "Trump administration shares new work requirements for Medicaid recipients",
-    "url": "https://www.npr.org/2026/06/03/nx-s1-5844220/trump-administration-shares-new-work-requirements-for-medicaid-recipients",
-    "summary": "The Trump administration this week released guidance for states on the work rules many Americans on Medicaid will need to abide by in order to be eligible for benefits on Jan. 1.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-03T08:40:00+00:00",
-    "date_str": "Jun 03, 2026"
-  },
-  {
-    "title": "Senators Clash Over Youth Gender Care Bans",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/121579",
-    "summary": "(MedPage Today) -- As the Trump administration continues to target gender-affirming care for youth, the Senate Health, Education, Labor and Pensions (HELP) committee debated the issue in a hearing on Wednesday. Committee members heard testimony...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-03T19:14:00+00:00",
-    "date_str": "Jun 03, 2026"
-  },
-  {
-    "title": "More Youths Report Using AI Chatbots for Mental Health Advice",
-    "url": "https://www.medpagetoday.com/psychiatry/generalpsychiatry/121577",
-    "summary": "(MedPage Today) -- Roughly one in five young people used an artificial intelligence (AI) chatbot for mental health advice last year, a cross-sectional, nationally representative survey showed. Among youths ages 12 to 21, 19.2% said that they had...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-03T18:51:00+00:00",
-    "date_str": "Jun 03, 2026"
-  },
-  {
-    "title": "Deaths of Despair Drop; FDA Rejects ADHD Drug; Rafael Nadal's Anxiety Battle",
-    "url": "https://www.medpagetoday.com/psychiatry/generalpsychiatry/121576",
-    "summary": "(MedPage Today) -- Deaths of despair -- fatalities from drugs, alcohol, and suicide -- declined by 16% in 2024, according to a report from Trust for America's Health. Georgia's Pathways to Coverage -- a Medicaid expansion program that conditions...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-03T18:11:34+00:00",
-    "date_str": "Jun 03, 2026"
-  },
-  {
-    "title": "The U.S. Ebola Response Is a Harbinger of Worse Things to Come",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/121575",
-    "summary": "(MedPage Today) -- Last summer, the Kiel Institute, a non-profit think tank in Germany, asked me to lead an analysis of the global benefits of international health aid programs, such as the Global Fund, the President's Emergency Plan for AIDS Relief...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-03T17:00:23+00:00",
-    "date_str": "Jun 03, 2026"
-  },
-  {
-    "title": "Supporting Patient Autonomy in Vaccine Conversations",
-    "url": "https://www.medpagetoday.com/beyond-diagnosis/vaccines/121574",
-    "summary": "(MedPage Today) -- In \"Beyond Diagnosis: Vaccines,\" Cleveland Clinic infectious disease specialist Donald Dumford III, MD, and host John Mangels continue their conversations on communicating effectively and empathetically with patients around vaccination...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-03T16:47:58+00:00",
-    "date_str": "Jun 03, 2026"
-  },
-  {
-    "title": "For Egg Allergy Oral Immunotherapy, Low-Dose Liquid May Be a Key to Success",
-    "url": "https://www.medpagetoday.com/allergyimmunology/allergy/121573",
-    "summary": "(MedPage Today) -- For egg-allergic children, an oral immunotherapy (OIT) protocol using low-dose liquid egg to start appeared to be the most successful in inducing tolerance in the outpatient setting, according to one academic center's experience...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-03T16:24:21+00:00",
-    "date_str": "Jun 03, 2026"
-  },
-  {
-    "title": "Combating Cancer-Related Fatigue: Yoga, Bupropion, Exercise Plus Methylphenidate",
-    "url": "https://www.medpagetoday.com/meetingcoverage/asco/121572",
-    "summary": "(MedPage Today) -- CHICAGO -- A month-long structured yoga program helped patients with cancer improve mood disturbance, anxiety, and fatigue, contributing to a reduction in insomnia, a large multicenter randomized trial showed. Scores on tests...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-03T16:08:39+00:00",
-    "date_str": "Jun 03, 2026"
-  },
-  {
-    "title": "Consumers are less satisfied with their health plans: JD Power",
-    "url": "https://www.healthcaredive.com/news/consumer-satisfaction-health-plans-low-jd-power/821851/",
-    "summary": "Rising costs are eroding Americans’ trust in their commercial plans despite an industry-wide push to increase consumer satisfaction, the analytics firm found.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-03T13:29:14+00:00",
     "date_str": "Jun 03, 2026"
   }
 ]
