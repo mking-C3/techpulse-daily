@@ -1,5 +1,115 @@
 [
   {
+    "title": "New Bill Led by Democrats Aims to Cap Medicare Out-of-Pocket Costs",
+    "url": "https://medcitynews.com/2026/06/new-bill-led-by-democrats-aims-to-cap-medicare-out-of-pocket-costs/",
+    "summary": "The Medicare Cost Cap Act seeks to create a $5,000 cap on out-of-pocket costs for traditional Medicare beneficiaries. The post New Bill Led by Democrats Aims to Cap Medicare Out-of-Pocket Costs appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-26T19:25:25+00:00",
+    "date_str": "Jun 26, 2026"
+  },
+  {
+    "title": "Documentation Tools Aren’t Just for Doctors: Inside Reid Health’s Deployment of Abridge’s Nurse Tech",
+    "url": "https://medcitynews.com/2026/06/documentation-abridge-nurse-tech-hospital/",
+    "summary": "Rural health system Reid Health is using Abridge’s AI-powered documentation tech to reduce burnout among nurses. It appears to be working — after-shift charting is down by up to 45 minutes, and the RN vacancy rate has been cut more than in half, said Misti Foust-Cofield, Reid’s chief nursing officer. The post Documentation Tools Aren’t Just for Doctors: Inside Reid Health’s Deployment of Abridge’s Nurse Tech appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-26T18:05:35+00:00",
+    "date_str": "Jun 26, 2026"
+  },
+  {
+    "title": "BIO 2026: AI, federal policy impacts, and general vibes",
+    "url": "https://www.statnews.com/2026/06/26/bio-2026-san-diego-key-takeaways-status-report-alex-hogan/?utm_campaign=rss",
+    "summary": "What were the vibes like at BIO 2026? STAT reporters take you inside the annual industry conference on the latest episode of STATus Report.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-26T16:58:10+00:00",
+    "date_str": "Jun 26, 2026"
+  },
+  {
+    "title": "STAT+: Up and down the ladder: The latest comings and goings",
+    "url": "https://www.statnews.com/pharmalot/2026/06/26/up-down-ladder-jobs-pharma-biotech-sanofi-biogen-lilly-pfizer/?utm_campaign=rss",
+    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-26T14:56:43+00:00",
+    "date_str": "Jun 26, 2026"
+  },
+  {
+    "title": "U.S. pledges generous earthquake relief to Venezuela",
+    "url": "https://www.npr.org/2026/06/26/nx-s1-5870652/venezuela-earthquake-usaid-u-s-aid",
+    "summary": "Secretary of State Marco Rubio promised: \"We have a whole-of-government response. It'll be big; it'll be fast; and it'll be effective.\"",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-26T17:42:40+00:00",
+    "date_str": "Jun 26, 2026"
+  },
+  {
+    "title": "What Journal Retracted a Hyped Cancer Study?",
+    "url": "https://www.medpagetoday.com/quizzes/news-quiz/121954",
+    "summary": "(MedPage Today) -- You passed medical training, now see if you can pass our weekly quiz",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-26T18:30:37+00:00",
+    "date_str": "Jun 26, 2026"
+  },
+  {
+    "title": "Scream, It's Good for You; Release the Cancer Pigeons; Talk of Chemo Rationing",
+    "url": "https://www.medpagetoday.com/hematologyoncology/breastcancer/121953",
+    "summary": "(MedPage Today) -- Every day begins with scream therapy at Camp Breastie for breast cancer survivors. (New York Times) Comedian and actor Moshe Kasher, who appeared as a sign language interpreter in episodes of \"The Pitt,\" revealed he had surgery...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-26T18:19:02+00:00",
+    "date_str": "Jun 26, 2026"
+  },
+  {
+    "title": "AI Smart Glasses Show Promise, Limitations as Aid for Patients With Low Vision",
+    "url": "https://www.medpagetoday.com/ophthalmology/generalophthalmology/121951",
+    "summary": "(MedPage Today) -- Artificial intelligence (AI) smart eyeglasses as a potential aid for people with low vision produced mixed results in a small pilot case series. Using verbal prompts to guide the eyeglasses, study participants, all healthy volunteers...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-26T17:34:56+00:00",
+    "date_str": "Jun 26, 2026"
+  },
+  {
+    "title": "State Medicaid directors defend program integrity as Dems cry foul in House hearing",
+    "url": "https://www.healthcaredive.com/news/medicaid-fraud-hearing-house-oversight-subcommittee-minn-calif-ny/823791/",
+    "summary": "The Trump administration says its war on fraud applies to the entire country. But only blue states have had their Medicaid funding threatened or deferred, Democrats argued in a House subcommittee hearing Thursday.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-26T15:57:00+00:00",
+    "date_str": "Jun 26, 2026"
+  },
+  {
+    "title": "HHS details takeaways from sweeping AI request for information",
+    "url": "https://www.healthcaredive.com/news/hhs-update-artificial-intelligence-ai-request-information/823884/",
+    "summary": "The healthcare sector wants the HHS to coordinate its AI strategy across agencies, provide implementation and governance support, and offer help in evaluating AI tools, leaders said Thursday.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-26T14:28:55+00:00",
+    "date_str": "Jun 26, 2026"
+  },
+  {
+    "title": "Weekly Rundown: Innovaccer, AWS ink strategic collaboration; Mount Sinai adopts Signal 1 for AI management",
+    "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-innovaccer-aws-ink-strategic-collab-invoca-launches-patient-engagement",
+    "summary": "Stay up to date on the latest in health tech, digital health and health AI news with this weekly brief.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-06-26T19:46:37.695005+00:00",
+    "date_str": "Jun 26, 2026"
+  },
+  {
     "title": "Why Generative AI Isn’t Enough: The Case for Causal Reasoning in Medicine",
     "url": "https://medcitynews.com/2026/06/why-generative-ai-isnt-enough-the-case-for-causal-reasoning-in-medicine/",
     "summary": "AI built on transparent, causal reasoning, systems that ground every output in validated biological mechanisms, show the pathway behind each recommendation, and cite their sources is what makes the difference between a tool that erodes clinical trust and one that rebuilds it. The post Why Generative AI Isn’t Enough: The Case for Causal Reasoning in Medicine appeared first on MedCity News .",
@@ -9888,115 +9998,5 @@
     "category_slug": "healthcare-policy",
     "date": "2026-06-05T08:30:00+00:00",
     "date_str": "Jun 05, 2026"
-  },
-  {
-    "title": "Opinion: How living and practicing medicine abroad complicated my beliefs about universal health care systems",
-    "url": "https://www.statnews.com/2026/06/05/universal-health-care-system-tradeoffs-accountability/?utm_campaign=rss",
-    "summary": "“I believe deeply in universal health care. But universal care must also mean universal safety and accountability, not merely universal access.”",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-05T08:30:00+00:00",
-    "date_str": "Jun 05, 2026"
-  },
-  {
-    "title": "My husband planned our 'just us' trip and it was perfect. Here's why it worked",
-    "url": "https://www.npr.org/2026/06/05/nx-s1-5846557/plan-successful-couples-trip-romantic-getaway",
-    "summary": "For a smooth, rewarding and drama-free couples trip, take as much stress out of the equation as you can — and get comfortable with the fact that a fight may arise (and that's OK).",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-05T09:00:00+00:00",
-    "date_str": "Jun 05, 2026"
-  },
-  {
-    "title": "What the ‘One Nation, Overcharged’ Campaign Aims to Achieve",
-    "url": "https://medcitynews.com/2026/06/what-the-one-nation-overcharged-campaign-aims-to-achieve/",
-    "summary": "One Nation, Overcharged, a campaign backed by the Robert Wood Johnson Foundation, launched to raise awareness of rising healthcare costs. The post What the ‘One Nation, Overcharged’ Campaign Aims to Achieve appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-04T22:49:56+00:00",
-    "date_str": "Jun 04, 2026"
-  },
-  {
-    "title": "Startup Secures $86M to Take On One of the Challenges for ADCs in Breast Cancer",
-    "url": "https://medcitynews.com/2026/06/startup-secures-86m-to-take-on-one-of-the-challenges-for-adcs-in-breast-cancer/",
-    "summary": "Ona Therapeutics’ antibody drug conjugates come from a platform technology that discovers novel antigens intended to enable the therapies to overcome drug resistance. The Spain-based startup’s lead ADC is on track to begin clinical testing in breast cancer. The post Startup Secures $86M to Take On One of the Challenges for ADCs in Breast Cancer appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-04T22:30:19+00:00",
-    "date_str": "Jun 04, 2026"
-  },
-  {
-    "title": "CereVasc Rakes In $85M to Challenge Traditional Brain Shunt Surgery",
-    "url": "https://medcitynews.com/2026/06/cerevasc-brain-shunt-hydrocephalus/",
-    "summary": "CereVasc raised $85 million in Series C funding to advance its minimally invasive eShunt system, which aims to treat hydrocephalus without traditional brain shunt surgery. The company is preparing for a pivotal trial completion and FDA submission in 2027. The post CereVasc Rakes In $85M to Challenge Traditional Brain Shunt Surgery appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-04T21:56:26+00:00",
-    "date_str": "Jun 04, 2026"
-  },
-  {
-    "title": "HHS confirms Americans with high-risk Ebola exposures will have access to experimental therapy",
-    "url": "https://www.statnews.com/2026/06/04/kenya-ebola-quarantine-experimental-treatment-mbp-134-authorized/?utm_campaign=rss",
-    "summary": "Americans who have high-risk exposures to Ebola in the current outbreak in Central Africa will have access to an experimental antibody treatment.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-04T23:40:43+00:00",
-    "date_str": "Jun 04, 2026"
-  },
-  {
-    "title": "STAT+: Drug companies, patient groups urge FDA to pause commissioner’s voucher program",
-    "url": "https://www.statnews.com/2026/06/04/fda-commissioners-voucher-program-town-hall-pharma-patients-urge-pause/?utm_campaign=rss",
-    "summary": "The White House has used the program to reward companies that help its political goals.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-04T20:53:33+00:00",
-    "date_str": "Jun 04, 2026"
-  },
-  {
-    "title": "What RevMed’s pancreatic cancer drug meant for one patient",
-    "url": "https://www.statnews.com/2026/06/04/readout-loud-podcast-revolution-medicines-pancreatic-cancer-patient-asco/?utm_campaign=rss",
-    "summary": "Why did a presentation on Revolution Medicines' pancreatic cancer drug get a standing ovation? Why did biotech stocks perform so badly this week? Find out on \"The Readout LOUD.\"",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-04T20:18:49+00:00",
-    "date_str": "Jun 04, 2026"
-  },
-  {
-    "title": "Weakened public health powers raise outbreak risks",
-    "url": "https://www.npr.org/2026/06/04/nx-s1-5846943/public-health-mandates-limits",
-    "summary": "Some jurisdictions have weakened their public health authorities in response to criticism of lockdowns, school closures, mask mandates, vaccine requirements and other COVID-era restrictions.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-04T20:36:34+00:00",
-    "date_str": "Jun 04, 2026"
-  },
-  {
-    "title": "New Change to PEPFAR Will Slash CDC's Presence Abroad",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/121611",
-    "summary": "(MedPage Today) -- A major change to how the popular President's Emergency Plan for AIDS Relief (PEPFAR) program operates took effect on June 1, which experts warn will result in a massive decline in the U.S.'s public health presence abroad. Historically...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-04T21:39:17+00:00",
-    "date_str": "Jun 04, 2026"
-  },
-  {
-    "title": "Brain Risks Tied to High Ultraprocessed Food Intake",
-    "url": "https://www.medpagetoday.com/neurology/dementia/121610",
-    "summary": "(MedPage Today) -- People who consumed the most ultraprocessed foods -- sugar-sweetened drinks, packaged snacks, or processed meats, for example -- were more likely to develop a composite outcome of dementia or cognitive impairment compared...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-04T21:16:34+00:00",
-    "date_str": "Jun 04, 2026"
   }
 ]
