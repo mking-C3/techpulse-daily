@@ -1,5 +1,45 @@
 [
   {
+    "title": "Patellar Resurfacing in Total Knee Replacement; Patient Messaging Trends",
+    "url": "https://www.medpagetoday.com/podcasts/healthwatch/121948",
+    "summary": "(MedPage Today) -- TTHealthWatch is a weekly podcast from Texas Tech. In it, Elizabeth Tracey, director of electronic media for Johns Hopkins Medicine in Baltimore, and Rick Lange, MD, president of Texas Tech Health El Paso, look at the top medical...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-27T18:00:00+00:00",
+    "date_str": "Jun 27, 2026"
+  },
+  {
+    "title": "Recommending Blood Tests for CRC Without Guardrails Risks Confusion",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/121946",
+    "summary": "(MedPage Today) -- The American Cancer Society's (ACS) recent update on colorectal cancer screening aims to strike a careful balance on blood-based screening tests. On the one hand, it appropriately calls them non-preferred options. On the other...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-27T16:00:00+00:00",
+    "date_str": "Jun 27, 2026"
+  },
+  {
+    "title": "A Cancer Patient's Cats Inspired a Push for Pets in Hospice Wards",
+    "url": "https://www.medpagetoday.com/hospitalbasedmedicine/generalhospitalpractice/121950",
+    "summary": "(MedPage Today) -- WARSAW, Poland -- When Ewa Lutka-Krawczyk was diagnosed with gallbladder cancer, her first thought was for Gaja, a shelter dog she took in 3 years ago. She asked her doctor to assure her she would live a few more years so the...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-27T14:00:00+00:00",
+    "date_str": "Jun 27, 2026"
+  },
+  {
+    "title": "Millions dropped ObamaCare plans after subsidies ended",
+    "url": "https://thehill.com/policy/healthcare/5943956-aca-enrollment-drop-subsidies/",
+    "summary": "About four million Americans have dropped out of Affordable Care Act insurance coverage this year as costs soared due to the loss of enhanced subsidies. The figures released late Friday from the Centers for Medicare and Medicaid Services offer the most complete look to date at what happened to enrollment after Republicans in Congress failed to...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-06-27T17:16:45+00:00",
+    "date_str": "Jun 27, 2026"
+  },
+  {
     "title": "Reporters Talk Through FDA Sunscreen Move and Closure of Rural Dialysis Clinics",
     "url": "https://kffhealthnews.org/on-air/on-air-june-27-2026-fda-sunscreen-ingredient-filter-nebraska-rural-dialysis-clinics/",
     "summary": "KFF Health News journalists made the rounds on national media last week to discuss topical stories. Here’s a collection of their appearances.",
@@ -9958,45 +9998,5 @@
     "category_slug": "industry-news",
     "date": "2026-06-04T21:41:02+00:00",
     "date_str": "Jun 04, 2026"
-  },
-  {
-    "title": "The 72-Hour Hurdle: Faster Prior Authorization is Exposing Healthcare’s Broken Billing Cycle",
-    "url": "https://medcitynews.com/2026/06/the-72-hour-hurdle-faster-prior-authorization-is-exposing-healthcares-broken-billing-cycle/",
-    "summary": "The healthcare ecosystem is fixing how quickly decisions get made, without fixing how quickly money actually moves. This isn’t a failure of reform. It’s evidence that reform is working — and revealing where modernization needs to continue. The post The 72-Hour Hurdle: Faster Prior Authorization is Exposing Healthcare’s Broken Billing Cycle appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-05T13:35:00+00:00",
-    "date_str": "Jun 05, 2026"
-  },
-  {
-    "title": "Why Traditional CQI Breaks Down as EMS Agencies Grow",
-    "url": "https://medcitynews.com/2026/06/why-traditional-cqi-breaks-down-as-ems-agencies-grow/",
-    "summary": "The problem isn’t that CQI no longer matters. It’s that traditional approaches were never built for the scale and complexity many agencies are now dealing with. The post Why Traditional CQI Breaks Down as EMS Agencies Grow appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-05T13:28:00+00:00",
-    "date_str": "Jun 05, 2026"
-  },
-  {
-    "title": "The Smart Way to Build the Future of Fertility Benefits",
-    "url": "https://medcitynews.com/2026/06/the-smart-way-to-build-the-future-of-fertility-benefits/",
-    "summary": "The challenge isn’t just access to fertility benefits, it’s how those benefits are structured and delivered. Here are three emerging themes that can help employers better align cost, quality and experience. The post The Smart Way to Build the Future of Fertility Benefits appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-05T13:24:00+00:00",
-    "date_str": "Jun 05, 2026"
-  },
-  {
-    "title": "Shifting Our Focus to Sample Sensitivity: The Metric That Deserves More Attention in Respiratory Care",
-    "url": "https://medcitynews.com/2026/06/shifting-our-focus-to-sample-sensitivity-the-metric-that-deserves-more-attention-in-respiratory-care/",
-    "summary": "The positive ripple effect of high specimen sensitivity influences the clarity of diagnoses, the timing of treatment and the efficiency of care delivery across systems, while also protecting communities from further disease spread for stronger outbreak control. The post Shifting Our Focus to Sample Sensitivity: The Metric That Deserves More Attention in Respiratory Care appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-05T13:14:00+00:00",
-    "date_str": "Jun 05, 2026"
   }
 ]
