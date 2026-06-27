@@ -1,5 +1,35 @@
 [
   {
+    "title": "Reporters Talk Through FDA Sunscreen Move and Closure of Rural Dialysis Clinics",
+    "url": "https://kffhealthnews.org/on-air/on-air-june-27-2026-fda-sunscreen-ingredient-filter-nebraska-rural-dialysis-clinics/",
+    "summary": "KFF Health News journalists made the rounds on national media last week to discuss topical stories. Here’s a collection of their appearances.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-27T09:00:00+00:00",
+    "date_str": "Jun 27, 2026"
+  },
+  {
+    "title": "Opinion: Supreme Court ruling on Roundup points to a confusing difference between the law and science",
+    "url": "https://www.statnews.com/2026/06/27/roundup-glyphosate-cancer-monsanto-v-durnell-supreme-court/?utm_campaign=rss",
+    "summary": "The Supreme Court’s ruling on Roundup shows science and law use the same word — causation — while asking different questions, writes epidemiologist.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-27T11:00:00+00:00",
+    "date_str": "Jun 27, 2026"
+  },
+  {
+    "title": "If a Lyme disease vaccine gets approved, how would it go over? We asked hunters",
+    "url": "https://www.npr.org/2026/06/27/nx-s1-5859907/lyme-disease-vaccine-hesitancy-rural-hunters",
+    "summary": "Drugmakers are working on a potential new shot to prevent the tick-borne illness. How might it fare in the era of vaccine skepticism?",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-27T10:30:00+00:00",
+    "date_str": "Jun 27, 2026"
+  },
+  {
     "title": "EMA: Amgen, Vifor Inflammatory Drug’s Benefits No Longer Outweigh Risks",
     "url": "https://medcitynews.com/2026/06/tavneos-chmp-ema-immunology-inflammation-amgen-csl-vifor-amgn-cslly/",
     "summary": "A European Medicines Agency committee now recommends withdrawing marketing authorization for Tavneos, an Amgen drug marketed in Europe by a CSL Limited subsidiary. Meanwhile, an FDA proposal to withdraw the drug from the U.S. market is set to go to a hearing. The post EMA: Amgen, Vifor Inflammatory Drug’s Benefits No Longer Outweigh Risks appeared first on MedCity News .",
@@ -9967,36 +9997,6 @@
     "category": "Medicare News",
     "category_slug": "medicare-news",
     "date": "2026-06-05T13:14:00+00:00",
-    "date_str": "Jun 05, 2026"
-  },
-  {
-    "title": "STAT+: Will Makary’s FDA voucher program survive?",
-    "url": "https://www.statnews.com/2026/06/05/biotech-news-will-makarys-fda-voucher-program-survive/?utm_campaign=rss",
-    "summary": "RevMed's cancer drug feels out of reach for some, SCOTUS preserves key generic drug pathway, and more biotech news",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-05T13:45:12+00:00",
-    "date_str": "Jun 05, 2026"
-  },
-  {
-    "title": "STAT+: Up and down the ladder: The latest comings and goings",
-    "url": "https://www.statnews.com/pharmalot/2026/06/05/jobs-up-and-down-the-ladder-latest-comings-and-goings/?utm_campaign=rss",
-    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-05T13:36:59+00:00",
-    "date_str": "Jun 05, 2026"
-  },
-  {
-    "title": "Texas AG investigating energy drinks",
-    "url": "https://www.statnews.com/2026/06/05/health-news-texas-ag-investigating-energy-drinks/?utm_campaign=rss",
-    "summary": "The limitations of private health insurance, the quiet collapse of America's research ethics watchdog and other Morning Rounds news",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-05T13:17:35+00:00",
     "date_str": "Jun 05, 2026"
   }
 ]
