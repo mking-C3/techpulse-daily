@@ -1,5 +1,125 @@
 [
   {
+    "title": "Florida Hospitals Act Fast To Discharge Gun Victims — Especially if They’re Not Insured",
+    "url": "https://kffhealthnews.org/public-health/florida-hospitals-guns-gunshot-firearm-wounds-uninsured-discharge-data-analysis/",
+    "summary": "Uninsured patients made up about 1 in 4 of the more than 20,000 gunshot wound inpatient hospitalizations in Florida from 2018 to 2024, an analysis of state data by KFF Health News and The Trace found. They also had shorter hospital stays than those with any form of coverage.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-29T09:00:00+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
+    "title": "She Struggled To Get a Lifesaving Drug Even After Insurers Vowed To Help",
+    "url": "https://kffhealthnews.org/health-care-costs/prior-authorization-medicare-advantage-humana-missouri-bill-of-the-month-june-2026/",
+    "summary": "Margaret Hvatum ended up in the hospital after her insurer denied coverage of a medicine she relies on to boost her immune system. Hvatum got entangled in the preapproval process, which the insurance industry has vowed to improve.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-29T09:00:00+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
+    "title": "STAT+: Moderna co-founder Kenneth Chien on the future of mRNA — and Moderna",
+    "url": "https://www.statnews.com/2026/06/29/moderna-founder-kenneth-chien-on-cancer-vaccine-and-mrna-future/?utm_campaign=rss",
+    "summary": "In a Q&A, Kenneth Chien, no longer with Moderna, predicts the company's mRNA cancer vaccine will be transformative for biotech.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-29T08:30:00+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
+    "title": "STAT+: Investor Clive Meanwell on designing biotechs for population health, and AI’s role as a catalyst",
+    "url": "https://www.statnews.com/2026/06/29/clive-meanwell-population-health-partners-on-ai-biotech/?utm_campaign=rss",
+    "summary": "Clive Meanwell, chairman of investment firm Population Health Partners, was an AI skeptic until recently. Now, he thinks it's a catalyst.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-29T08:30:00+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
+    "title": "STAT+: Sword Health contracted to provide AI-supported physical therapy for an entire country",
+    "url": "https://www.statnews.com/2026/06/29/sword-health-portugal-deal-ai-supported-physical-therapy/?utm_campaign=rss",
+    "summary": "Portugal's National Health Service signed a deal with digital health company Sword for its AI-assisted virtual physical therapy care.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-29T08:30:00+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
+    "title": "Opinion: STAT+: The U.S.-China biotech crackdown may hurt the scientists America needs the most",
+    "url": "https://www.statnews.com/2026/06/29/china-biotech-perpetual-foreigner-chinese-american-scientists/?utm_campaign=rss",
+    "summary": "“There is a difference between a policy based on evidence and a broad legislative response that targets China-origin entities as inherently suspicious,” writes Brian Yang.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-29T08:30:00+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
+    "title": "Opinion: Banning gender-affirming care doesn’t protect children — it makes it harder to help them",
+    "url": "https://www.statnews.com/2026/06/29/gender-affirming-care-trans-youth-plastic-surgeons-statement/?utm_campaign=rss",
+    "summary": "“Physician groups betraying the public’s trust out of fear of government retaliation has permanent consequences,” writes a plastic surgeon.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-29T08:30:00+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
+    "title": "STAT+: The ERs that can turn patients away — and are reaping millions",
+    "url": "https://www.statnews.com/2026/06/29/nutex-health-micro-hospitals-er-loophole-idr-profits/?utm_campaign=rss",
+    "summary": "The hospital operator Nutex enriched itself by exploiting loopholes in laws meant to protect patients, STAT found.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-29T08:30:00+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
+    "title": "STAT+: AI scientist company Edison Scientific tapped by team behind Metsera to create new biotechs",
+    "url": "https://www.statnews.com/2026/06/29/edison-scientific-population-health-partners-deal-to-create-new-biotechs/?utm_campaign=rss",
+    "summary": "Edison Scientific and investment firm Population Health Partners are teaming up to leverage AI agents in drug discovery and development.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-29T04:30:00+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
+    "title": "People are taking allergy and heartburn pills for PMS. Could it work?",
+    "url": "https://www.npr.org/2026/06/29/nx-s1-5853867/pepcid-antihistamines-pms-pmdd",
+    "summary": "Can the mix really help with premenstrual woes? Theoretically, the link between histamine and hormones could explain why the trendy DIY treatment seems to help some women.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-29T09:00:00+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
+    "title": "Quality should guide care, not just grade it",
+    "url": "https://www.healthcaredive.com/spons/quality-should-guide-care-not-just-grade-it/823356/",
+    "summary": "How aligning on provider-level quality measurement becomes healthcare's best cost lever.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-29T09:00:00+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
+    "title": "A more connected approach for AI in healthcare",
+    "url": "https://www.healthcaredive.com/spons/a-more-connected-approach-for-ai-in-healthcare/822760/",
+    "summary": "AI in healthcare is here. Learn how Dragon Copilot equips 100,000+ clinicians with tools that improve outcomes and streamline workflows.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-29T09:00:00+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
     "title": "FDA Approves Viridian’s Thyroid Eye Disease Drug, Competitor to a Blockbuster Amgen Med",
     "url": "https://medcitynews.com/2026/06/viridian-thyroid-eye-disease-veligrotug-lumvoa-fda-approval-inflammation-vrdn/",
     "summary": "Viridian Therapeutics’ Lumvoa is approved for treating both the chronic and active phases of thyroid eye disease. This drug will offer patients an alternative to Tepezza, an Amgen drug that had been the only approved therapy for this inflammatory eye disorder. The post FDA Approves Viridian’s Thyroid Eye Disease Drug, Competitor to a Blockbuster Amgen Med appeared first on MedCity News .",
@@ -9877,126 +9997,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-06-05T19:58:55+00:00",
-    "date_str": "Jun 05, 2026"
-  },
-  {
-    "title": "CDC report: Ebola outbreak could rival the worst on record unless world acts",
-    "url": "https://www.npr.org/2026/06/05/nx-s1-5848082/ebola-virus-cdc-outbreak-democratic-republic-congo-uganda",
-    "summary": "New modeling from the CDC shows that if measures aren't taken immediately, this outbreak could sicken more than 20,000 people in the next three months.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-05T20:35:06+00:00",
-    "date_str": "Jun 05, 2026"
-  },
-  {
-    "title": "CDC Sees 10,000 Ebola Deaths Among Possible Outbreak Scenarios",
-    "url": "https://www.medpagetoday.com/infectiousdisease/ebola/121633",
-    "summary": "(MedPage Today) -- The Ebola outbreak in Congo could rival the largest on record, according to CDC models of possible trajectories over the next 3 months. In scenarios that had 70% of Ebola patients entering isolation and 50 Ebola deaths as of...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-05T21:45:00+00:00",
-    "date_str": "Jun 05, 2026"
-  },
-  {
-    "title": "One Surgical Technique for Cervical Lesions May Reduce Recurrences",
-    "url": "https://www.medpagetoday.com/obgyn/cervicalcancer/121632",
-    "summary": "(MedPage Today) -- Cold knife conization (CKC) was tied to a lower risk of recurrence of cervical lesions and higher human papillomavirus (HPV) clearance compared with the loop electrosurgical excision procedure (LEEP) among women with cervical...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-05T21:39:25+00:00",
-    "date_str": "Jun 05, 2026"
-  },
-  {
-    "title": "Senator Cassidy Calls Out RFK Jr.",
-    "url": "https://www.medpagetoday.com/infectiousdisease/vaccines/121630",
-    "summary": "(MedPage Today) -- Sen. Bill Cassidy, MD (R-La.), who recently lost his primary bid for reelection, is speaking up a little louder about Health Secretary Robert F. Kennedy Jr.'s wariness of vaccines. \"A terrible outcome from RFK and others promoting...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-05T21:20:36+00:00",
-    "date_str": "Jun 05, 2026"
-  },
-  {
-    "title": "Finerenone Also Slows Kidney Decline in Diabetes-Free Patients",
-    "url": "https://www.medpagetoday.com/meetingcoverage/era/121629",
-    "summary": "(MedPage Today) -- Finerenone (Kerendia) slowed the decline of kidney function in adults with chronic kidney disease (CKD) who did not have diabetes, the large randomized FIND-CKD trial showed. By month 32, the mean annual rate of change in estimated...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-05T20:44:26+00:00",
-    "date_str": "Jun 05, 2026"
-  },
-  {
-    "title": "What Virus Now Faces a New FDA Approval?",
-    "url": "https://www.medpagetoday.com/quizzes/news-quiz/121627",
-    "summary": "(MedPage Today) -- You passed medical training, now see if you can pass our weekly quiz",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-05T19:42:17+00:00",
-    "date_str": "Jun 05, 2026"
-  },
-  {
-    "title": "How Much Prednisone Is Too Much in Treating Rheum Effects From Cancer Therapies?",
-    "url": "https://www.medpagetoday.com/meetingcoverage/eular/121626",
-    "summary": "(MedPage Today) -- LONDON -- Overall survival is significantly shortened for cancer patients receiving more than 20 mg of prednisone (or the equivalent) at any point to treat arthritic side effects from immune checkpoint inhibitors (ICIs), a...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-05T19:36:24+00:00",
-    "date_str": "Jun 05, 2026"
-  },
-  {
-    "title": "USDA confirms second screwworm fly found in Texas",
-    "url": "https://thehill.com/policy/healthcare/5913003-usda-confirms-second-screwworm-fly-texas/",
-    "summary": "The U.S. Department of Agriculture (USDA) confirmed a second case of a flesh-eating screwworm parasite in Texas on Friday, as it races to contain and eradicate the outbreak before it severely impacts the cattle population. A New World screwworm was detected in a one-month-old calf in Zavala County after testing a “number of suspected cases,” according...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-06T02:59:37+00:00",
-    "date_str": "Jun 06, 2026"
-  },
-  {
-    "title": "Untreated Cancer, Festering Infections: Immigrant Detainees Detail Medical Care Lapses",
-    "url": "https://kffhealthnews.org/health-industry/the-week-in-brief-immigrant-ice-detainees-medical-neglect/",
-    "summary": "Get our weekly newsletter, The Week in Brief, featuring a roundup of our original coverage, Fridays at 2 p.m. ET.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-05T18:30:00+00:00",
-    "date_str": "Jun 05, 2026"
-  },
-  {
-    "title": "Winona Launches Menopause Research Initiative",
-    "url": "https://medcitynews.com/2026/06/winona-launches-menopause-research-initiative/",
-    "summary": "Winona launched a new research initiative to fund and support menopause and women’s health research. The post Winona Launches Menopause Research Initiative appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-05T19:05:52+00:00",
-    "date_str": "Jun 05, 2026"
-  },
-  {
-    "title": "Contraline Secures $92.5M to Push Its Male Birth Control Candidates Forward",
-    "url": "https://medcitynews.com/2026/06/contraline-birth-control-contraceptive-funding/",
-    "summary": "Contraline raised $92.5 million in new funding to advance its two male contraceptive candidates, including a once-daily topical gel and an implantable option. The post Contraline Secures $92.5M to Push Its Male Birth Control Candidates Forward appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-05T19:02:42+00:00",
-    "date_str": "Jun 05, 2026"
-  },
-  {
-    "title": "Senior NIH official pushes MAHA strategy to skeptical ADA audience",
-    "url": "https://www.statnews.com/2026/06/05/ada-conference-new-orleans-richard-woychik-synergy-nih-maha/?utm_campaign=rss",
-    "summary": "An NIH advisor told researchers gathered at the American Diabetes Association conference that MAHA goals match the agency's priorities.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-05T19:53:21+00:00",
     "date_str": "Jun 05, 2026"
   }
 ]
