@@ -1,5 +1,225 @@
 [
   {
+    "title": "Healthcare Moves: A Monthly Summary of Hires, Exits and Layoffs",
+    "url": "https://medcitynews.com/2026/06/healthcare-moves-layoffs-retirement/",
+    "summary": "June has seen a slew of executive hires, exits and layoffs across the healthcare industry. For instance, the American Medical Association, CMS and R1 RCM named new executives. There were also layoffs at organizations including ADC Therapeutics, Equip and UPMC. The post Healthcare Moves: A Monthly Summary of Hires, Exits and Layoffs appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-29T23:17:18+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
+    "title": "4 Notable Health Tech Funding Announcements in June",
+    "url": "https://medcitynews.com/2026/06/4-notable-health-tech-funding-announcements-in-june/",
+    "summary": "Health tech companies made several major funding announcements in June. Here is a list of some of the biggest funding rounds. The post 4 Notable Health Tech Funding Announcements in June appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-29T21:53:52+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
+    "title": "STAT+: FDA’s top gene therapy regulator is leaving his role",
+    "url": "https://www.statnews.com/2026/06/29/vijay-kumar-exits-fda-office-of-therapeutic-products/?utm_campaign=rss",
+    "summary": "The departure of Vijay Kumar follows a broader leadership shakeup at the FDA.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-29T21:46:06+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
+    "title": "STAT+: AstraZeneca to pay $34 million to settle kickback charges filed by Texas attorney general",
+    "url": "https://www.statnews.com/pharmalot/2026/06/29/astrazeneca-kickback-charges-texas-settlement/?utm_campaign=rss",
+    "summary": "AstraZeneca agreed to pay $34 million to settle claims that the company paid kickbacks to improperly influence prescriptions paid for by Texas Medicaid.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-29T20:17:43+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
+    "title": "STAT+: 26 states sue to block Medicaid work requirements",
+    "url": "https://www.statnews.com/2026/06/29/state-lawsuit-block-medicaid-work-requirements/?utm_campaign=rss",
+    "summary": "States argue the rules will make it too hard for people to get the Medicaid coverage they're entitled too.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-29T20:11:47+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
+    "title": "Sing-along time at a memory cafe is a highlight for people dealing with dementia",
+    "url": "https://www.npr.org/2026/06/29/nx-s1-5831294/sing-along-time-at-a-memory-cafe-is-a-highlight-for-people-dealing-with-dementia",
+    "summary": "Music tends to stay with people even as dementia claims other memories. In Vermont, Memory Cafes provide communities for both dementia patients and their caregivers.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-29T20:07:55+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
+    "title": "FDA Panel on Peptides Will Include Experts Who Promote the Unproven Chemicals",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/fdageneral/121978",
+    "summary": "(MedPage Today) -- When U.S. health officials meet next month to reconsider a list of controversial peptide drugs, they will hear from a new set of voices: doctors and pharmacists with deep financial ties to the burgeoning industry of unproven...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-29T21:23:55+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
+    "title": "Study Suggests No Link Between Prenatal Tylenol and Risks for Autism, ADHD",
+    "url": "https://www.medpagetoday.com/neurology/autism/121977",
+    "summary": "(MedPage Today) -- A large population-based cohort study in Hong Kong demonstrated that acetaminophen (Tylenol) use during pregnancy was unlikely to increase the risk of autism spectrum disorder or attention deficit-hyperactivity disorder (ADHD...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-29T21:16:31+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
+    "title": "Study Homes In on Simpler Lung Cancer Screening Criteria",
+    "url": "https://www.medpagetoday.com/hematologyoncology/lungcancer/121976",
+    "summary": "(MedPage Today) -- Lung cancer screening criteria based on smoking duration appeared to be a better method of evaluating lung cancer risk than current guidelines that use pack-years and years since cessation, according to results from a nationally...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-29T21:07:57+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
+    "title": "May as Well Get COVID and Flu Shots on the Same Day, Study Says",
+    "url": "https://www.medpagetoday.com/infectiousdisease/covid19vaccine/121975",
+    "summary": "(MedPage Today) -- Getting a COVID and flu shot on the same day was not associated with an increased risk of adverse events, according to a target trial emulation using electronic health data from the VA. Compared with influenza vaccination alone...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-29T21:00:00+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
+    "title": "Loss of Payment Assistance for AMD Drugs Strains Patients and Ophthalmologists",
+    "url": "https://www.medpagetoday.com/ophthalmology/generalophthalmology/121974",
+    "summary": "(MedPage Today) -- Loss of copayment assistance for drugs to treat neovascular age-related macular degeneration (nAMD) significantly disrupted patient care, including switching to less costly (and perhaps less effective) therapy, reliance on samples...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-29T20:00:46+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
+    "title": "JenaValve TAVR Device Promising for LVAD-Associated Aortic Regurgitation",
+    "url": "https://www.medpagetoday.com/meetingcoverage/nyv/121973",
+    "summary": "(MedPage Today) -- NEW YORK CITY -- A transcatheter aortic valve replacement (TAVR) system could work as a last resort for patients with left ventricular assist device (LVAD)-associated aortic regurgitation (AR), according to a retrospective...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-29T19:22:51+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
+    "title": "New Drug Approved for Thyroid Eye Disease",
+    "url": "https://www.medpagetoday.com/endocrinology/thyroid/121972",
+    "summary": "(MedPage Today) -- The FDA approved veligrotug (Lumvoa) for the treatment of thyroid eye disease (TED), regardless of disease activity or duration, Viridian Therapeutics announced on Friday. Veligrotug is the first treatment with labeling for...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-29T19:20:07+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
+    "title": "A Flu Season Without ACIP: The Question for Fall",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/121971",
+    "summary": "(MedPage Today) -- The U.S. is heading toward the 2026-2027 respiratory virus season without a functioning Advisory Committee on Immunization Practices (ACIP). That is no small disruption. ACIP has guided national policy on influenza vaccination...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-29T19:06:19+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
+    "title": "ONC rolls out new TEFCA oversight efforts",
+    "url": "https://www.healthcaredive.com/news/onc-tefca-oversight-measures-1-billion-records-exchanged/824013/",
+    "summary": "The health IT regulator awarded a new contract to oversee the framework’s rules for data sharing as the number of health records exchanged through TEFCA balloons.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-29T19:21:32+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
+    "title": "How payers, drugmakers can collaborate to drive more outcomes-based contracts",
+    "url": "https://www.fiercehealthcare.com/payers/how-payers-drugmakers-can-collaborate-drive-more-outcomes-based-contracts",
+    "summary": "LAS VEGAS — As drug costs and spending continue to rise, the demand for solutions opens the door to closer collaboration between payers and manufacturers.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-06-30T03:36:00.081419+00:00",
+    "date_str": "Jun 30, 2026"
+  },
+  {
+    "title": "HRSA opens applications for $140M in rural health grant funding",
+    "url": "https://www.fiercehealthcare.com/providers/hrsa-opens-applications-140m-rural-health-grant-funding",
+    "summary": "Substance use disorder, medical residencies, rural integrated networks and telehealth are among the administration's targets for the funds.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-06-30T03:36:00.081468+00:00",
+    "date_str": "Jun 30, 2026"
+  },
+  {
+    "title": "HHS announces new oversight measures for TEFCA, touts 1B health records exchanged",
+    "url": "https://www.fiercehealthcare.com/health-tech/more-1b-health-records-exchange-through-tefca-onc-officials-report",
+    "summary": "ONC unveiled new efforts to strengthen oversight of TEFCA, including hiring a federal IT contractor to conduct audits and reviews of TEFCA participants.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-06-30T03:36:00.081497+00:00",
+    "date_str": "Jun 30, 2026"
+  },
+  {
+    "title": "ACA marketplace enrollment down by 3M as of February, new federal data show",
+    "url": "https://www.fiercehealthcare.com/payers/aca-marketplace-enrollment-down-3m-february-new-federal-data-show",
+    "summary": "New federal data show that 19.2 million individuals were enrolled in Affordable Care Act marketplace plans as of February, down by nearly 3 million from 2025.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-06-30T03:36:00.081523+00:00",
+    "date_str": "Jun 30, 2026"
+  },
+  {
+    "title": "RFK Jr. says Cassidy accusing him of breaking promises 'not true'",
+    "url": "https://thehill.com/policy/healthcare/5946717-kennedy-denies-cassidy-criticism/",
+    "summary": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. on Monday dismissed criticism from GOP Sen. Bill Cassidy (La.) that he is breaking promises. Speaking to NewsNation’s Anna Kooiman in Atlantic City, N.J., Kennedy said he met with Cassidy roughly a month ago and told the Louisiana Republican his critiques are untrue. “I went...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-06-30T03:06:09+00:00",
+    "date_str": "Jun 30, 2026"
+  },
+  {
+    "title": "Dozens of states sue Trump administration over 'frail' Medicaid work requirement exemption",
+    "url": "https://thehill.com/policy/healthcare/5946392-lawsuit-trump-medicaid-exemptions/",
+    "summary": "A coalition of 25 states and the District of Columbia is suing the Trump administration over a new rule implementing Medicaid work requirement exemptions for medically frail people. According to the lawsuit, which was filed Monday in federal district court in Massachusetts, the Centers for Medicare and Medicaid Services (CMS) violated congressional protections when it...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-06-29T21:25:44+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
+    "title": "PBM lobby goes on the offensive",
+    "url": "https://thehill.com/policy/healthcare/5946249-pharmacy-benefit-managers-lobbying-offensive/",
+    "summary": "The nation’s top pharmacy benefit manager (PBM) lobbying group is going on the offensive, stepping up its advocacy efforts against the pharmaceutical industry after Congress passed a PBM industry overhaul last winter. The pharmaceutical industry spent years pointing fingers at pharmacy benefit managers as the reason for high drug costs, and Congress finally was able...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-06-29T20:22:14+00:00",
+    "date_str": "Jun 29, 2026"
+  },
+  {
     "title": "Ipsen’s $450M Deal Brings Drug That Could Make a Standard Blood Cancer Therapy Better",
     "url": "https://medcitynews.com/2026/06/ipsen-kartos-acquisition-blood-cancer-myelofibrosis-navtemadlin-mdm2-p53-ipn-ipsey/",
     "summary": "Ipsen is acquiring Kartos Therapeutics to get navtemadlin, which has reached Phase 3 testing in the blood cancer myelofibrosis. The Kartos oral small molecule takes a novel approach to restoring the function of p53, a tumor-suppressing protein. The post Ipsen’s $450M Deal Brings Drug That Could Make a Standard Blood Cancer Therapy Better appeared first on MedCity News .",
@@ -9777,226 +9997,6 @@
     "category": "Drug Coverage",
     "category_slug": "drug-coverage",
     "date": "2026-06-08T15:51:20.678187+00:00",
-    "date_str": "Jun 08, 2026"
-  },
-  {
-    "title": "8 Requirements for AI Medical Interpreting: 2026 Survey Results",
-    "url": "https://www.fiercehealthcare.com/sponsored/8-requirements-ai-medical-interpreting-2026-survey-results",
-    "summary": "AI medical interpreting is quickly entering healthcare. Here are 8 requirements leaders should use to pilot it safely and responsibly.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-08T15:51:20.678214+00:00",
-    "date_str": "Jun 08, 2026"
-  },
-  {
-    "title": "Stepful banks $55M to scale AI-powered medical training to boost the workforce pipeline",
-    "url": "https://www.fiercehealthcare.com/health-tech/stepful-banks-55m-scale-ai-powered-infrastructure-tackles-healthcare-staffing-shortage",
-    "summary": "The company currently works with more than 35 major healthcare systems and has graduated over 32,000 practice-ready healthcare workers since its founding.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-08T15:51:20.678241+00:00",
-    "date_str": "Jun 08, 2026"
-  },
-  {
-    "title": "Essence Healthcare, Oura expand partnership to sleep apnea detection",
-    "url": "https://www.fiercehealthcare.com/payers/essence-healthcare-oura-expand-partnership-sleep-apnea-detection",
-    "summary": "Medicare Advantage insurer Essence Healthcare is continuing to build out its partnership with smart ring maker Oura and has unveiled a new clinical program that aims to identify potential sleep apnea risk.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-08T15:51:20.678269+00:00",
-    "date_str": "Jun 08, 2026"
-  },
-  {
-    "title": "MAHA’s Treatments for Autism: Camel’s Milk, Stem Cell Injections — And Spelling Therapy",
-    "url": "https://kffhealthnews.org/health-industry/autism-controversial-treatment-spelling-maha-telepathy/",
-    "summary": "Health secretary Robert F. Kennedy Jr.’s new autism panel is championing a controversial communication method popular among parents of severely autistic people. Critics warn of abuse — and fake “telepathy.”",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-08T09:00:00+00:00",
-    "date_str": "Jun 08, 2026"
-  },
-  {
-    "title": "By September, Nearly a Third of Americans Will Live in States With Legal Aid in Dying",
-    "url": "https://kffhealthnews.org/aging/physician-assisted-death-suicide-medical-aid-in-dying-legal-new-york-illinois/",
-    "summary": "Despite widespread support in polls for legalizing aid in dying, the number of people who go through with the practice remains very small.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-08T09:00:00+00:00",
-    "date_str": "Jun 08, 2026"
-  },
-  {
-    "title": "Opinion: $2 million gene therapy cures require a financing model",
-    "url": "https://www.statnews.com/2026/06/08/financing-gene-therapies-cures-cost/?utm_campaign=rss",
-    "summary": "“We do not lack cures. We lack the infrastructure to pay for and deliver them,” writes William Padula.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-08T08:30:00+00:00",
-    "date_str": "Jun 08, 2026"
-  },
-  {
-    "title": "Opinion: American horses are obese, too",
-    "url": "https://www.statnews.com/2026/06/08/obese-horses-humans-metabolic-syndrome-food-system/?utm_campaign=rss",
-    "summary": "“American horses are getting sick in ways that look remarkably familiar,” writes Joshua Moen.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-08T08:30:00+00:00",
-    "date_str": "Jun 08, 2026"
-  },
-  {
-    "title": "When it’s time to save a limb, novel clinic meets unhoused people where they are",
-    "url": "https://www.statnews.com/2026/06/08/vascular-care-homeless-amputation-prevention-effort-mass-general/?utm_campaign=rss",
-    "summary": "Unmet vascular needs can lead to limb loss among unhoused patients. An unusual Massachusetts General Hospital program meets patients where they are.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-08T08:30:00+00:00",
-    "date_str": "Jun 08, 2026"
-  },
-  {
-    "title": "People love working from home. But does it love them back? A new study says no",
-    "url": "https://www.npr.org/2026/06/08/nx-s1-5848125/remote-work-mental-health-isolation",
-    "summary": "A new study finds that people in remote jobs are more socially isolated, anxious and sad, compared to people not in remote jobs. But demanding everyone return to the office isn't the answer either, say researchers.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-08T09:00:00+00:00",
-    "date_str": "Jun 08, 2026"
-  },
-  {
-    "title": "Can a vibrating belt fend off bone density loss?",
-    "url": "https://www.npr.org/2026/06/08/nx-s1-5843308/bone-density-loss-vibrating-plates-belt",
-    "summary": "More than 40 million adults in the U.S. aged 50 and older have osteopenia, or low bone density. An FDA-approved wearable vibration device is giving some women a tool that could slow that loss.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-08T09:00:00+00:00",
-    "date_str": "Jun 08, 2026"
-  },
-  {
-    "title": "The evolution of healthcare cost management demands a new approach",
-    "url": "https://www.healthcaredive.com/spons/the-evolution-of-healthcare-cost-management-demands-a-new-approach/821813/",
-    "summary": "The future of healthcare savings won’t come from bigger discounts—it will come from better alignment, accountability, and member experience.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-08T09:00:00+00:00",
-    "date_str": "Jun 08, 2026"
-  },
-  {
-    "title": "Why health plans are leaving surgical cost savings on the table",
-    "url": "https://www.healthcaredive.com/spons/why-health-plans-are-leaving-surgical-cost-savings-on-the-table/821904/",
-    "summary": "Surgery avoidance isn’t enough. Outcomes optimization is critical to your cost of care efforts.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-08T09:00:00+00:00",
-    "date_str": "Jun 08, 2026"
-  },
-  {
-    "title": "The 3 Biggest Roadblocks to Egg Freezing — and How Providers Are Working to Remove Them",
-    "url": "https://medcitynews.com/2026/06/egg-freezing-fertility/",
-    "summary": "Egg freezing has gained popularity as a fertility preservation tool, but experts say high costs, uncertain outcomes and timing challenges continue to deter many women from pursuing it. The post The 3 Biggest Roadblocks to Egg Freezing — and How Providers Are Working to Remove Them appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-08T01:52:49+00:00",
-    "date_str": "Jun 08, 2026"
-  },
-  {
-    "title": "Will CMS’ Last-Minute Medicaid Work Requirement Changes Cause More Harm?",
-    "url": "https://medcitynews.com/2026/06/will-cms-last-minute-medicaid-work-requirement-changes-cause-more-harm/",
-    "summary": "Healthcare advocates warn that a new CMS rule on Medicaid work requirement exemptions could increase red tape and cause eligible people to lose coverage. The post Will CMS’ Last-Minute Medicaid Work Requirement Changes Cause More Harm? appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-07T21:51:20+00:00",
-    "date_str": "Jun 07, 2026"
-  },
-  {
-    "title": "STAT+: Competition for obesity drugs, clinical blind spots, and more news from ADA",
-    "url": "https://www.statnews.com/2026/06/07/competition-obesity-drugs-clinical-blind-spots-and-more-ada/?utm_campaign=rss",
-    "summary": "You're reading the web edition of STAT's ADA in 30 Seconds, from the American Diabetes Association's annual conference.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-07T20:59:21+00:00",
-    "date_str": "Jun 07, 2026"
-  },
-  {
-    "title": "'Bariatric Surgery-Level' Weight Loss With Novel Triple-Agonist",
-    "url": "https://www.medpagetoday.com/meetingcoverage/ada/121638",
-    "summary": "(MedPage Today) -- NEW ORLEANS -- Participants with obesity achieved weight loss on par with bariatric surgery and had improvements in two obesity-related conditions while taking a once-weekly investigational triple hormone receptor agonist...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-07T21:35:21+00:00",
-    "date_str": "Jun 07, 2026"
-  },
-  {
-    "title": "Up to 40% of Diabetes Patients Achieved Normal HbA1c With Retatrutide",
-    "url": "https://www.medpagetoday.com/meetingcoverage/ada/121637",
-    "summary": "(MedPage Today) -- NEW ORLEANS -- Monotherapy with once-weekly retatrutide, an investigational triple hormone receptor agonist, improved glycemic control and body weight in adults with type 2 diabetes, the phase III TRANSCEND-T2D-1 trial showed...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-07T20:18:05+00:00",
-    "date_str": "Jun 07, 2026"
-  },
-  {
-    "title": "Add-On Orforglipron: Good News for Type 2 Diabetes and Inadequate Glycemic Control",
-    "url": "https://www.medpagetoday.com/meetingcoverage/ada/121628",
-    "summary": "(MedPage Today) -- NEW ORLEANS -- Once-daily orforglipron (Foundayo) improved outcomes in adults with type 2 diabetes and inadequate glycemic control, the international ACHIEVE-5 trial showed. In patients already taking background insulin glargine...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-07T20:15:00+00:00",
-    "date_str": "Jun 07, 2026"
-  },
-  {
-    "title": "'We're Close to Beer Time Here': What We Heard This Week",
-    "url": "https://www.medpagetoday.com/opinion/what-we-heard/121620",
-    "summary": "(MedPage Today) -- \"I realize we're close to beer time here -- promise to at least give you something very scintillating.\" -- Paul Richardson, MD, of the Dana-Farber Cancer Institute in Boston, before presenting trial results for a novel oral...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-07T20:00:00+00:00",
-    "date_str": "Jun 07, 2026"
-  },
-  {
-    "title": "Late-Breaking Studies at EULAR Paint Rosy Picture of Rheumatology's Future",
-    "url": "https://www.medpagetoday.com/meetingcoverage/eular/121636",
-    "summary": "(MedPage Today) -- LONDON -- Late-breaking abstracts presented at the European Alliance of Associations for Rheumatology's (EULAR) annual meeting, held here last week, addressed a wide range of clinical concerns and suggested that patients and...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-07T19:56:02+00:00",
-    "date_str": "Jun 07, 2026"
-  },
-  {
-    "title": "Modest Weight Loss Plus Few GI Upsets With Amylin Injectable",
-    "url": "https://www.medpagetoday.com/meetingcoverage/ada/121635",
-    "summary": "(MedPage Today) -- NEW ORLEANS -- Petrelintide, an investigational long-acting amylin analog, induced significant weight loss with minimal side effects in the global phase II ZUPREME-1 study. By week 28, all five investigational doses of petrelintide...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-07T19:04:55+00:00",
-    "date_str": "Jun 07, 2026"
-  },
-  {
-    "title": "Healthcare Dealmakers—WakeMed to join Atrium Health, Qualtrics closes $6.8B Press Ganey deal and more",
-    "url": "https://www.fiercehealthcare.com/providers/healthcare-dealmakers-wakemed-join-atrium-health-qualtrics-closes-68b-press-ganey-deal",
-    "summary": "Sanford Health moves to add North Memorial Health, Sutter Health and Allina Health sign a definitive agreement and more merger and acquisition news from May.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-08T03:58:06.753888+00:00",
     "date_str": "Jun 08, 2026"
   }
 ]
