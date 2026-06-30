@@ -1,5 +1,85 @@
 [
   {
+    "title": "Would Hunters Take a Lyme Disease Vaccine? We Asked",
+    "url": "https://kffhealthnews.org/public-health/hunters-lyme-disease-vaccine-ticks-attitudes-missouri/",
+    "summary": "American hunters skew conservative, rural, and male — all associated with increased hesitancy about or resistance to vaccines. At the same time, hunters spend more time than most people outdoors and potentially exposed to Lyme disease. So how do they feel about a potential new vaccine against the tick-borne illness?",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-30T09:00:00+00:00",
+    "date_str": "Jun 30, 2026"
+  },
+  {
+    "title": "These Church Members Disagree on Politics. Together They’re Wiping Out Medical Debt.",
+    "url": "https://kffhealthnews.org/insurance/medical-debt-common-ground-church-north-carolina/",
+    "summary": "Trinity Moravian Church, a politically diverse congregation in Winston-Salem, North Carolina, has been raising money to retire medical debt in the surrounding community.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-30T09:00:00+00:00",
+    "date_str": "Jun 30, 2026"
+  },
+  {
+    "title": "He Dreamed of Becoming a Physician Assistant. New Loan Rules May Thwart Him.",
+    "url": "https://kffhealthnews.org/health-industry/physician-assistant-professional-graduate-degrees-student-loan-limits/",
+    "summary": "Starting in July, the government will cap what graduate students may borrow in federal loans, forcing many toward private lenders with higher interest rates. The borrowing limits will affect students pursuing healthcare degrees, and some clinicians and student loan experts worry they may impede efforts to diversify the healthcare workforce.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-30T09:00:00+00:00",
+    "date_str": "Jun 30, 2026"
+  },
+  {
+    "title": "Opinion: Short-sighted new student loan caps elevate chiropractic care over critical health care professions",
+    "url": "https://www.statnews.com/2026/06/30/graduate-student-loan-caps-health-care-nursing-chiropractors/?utm_campaign=rss",
+    "summary": "“This administrative logic is hopelessly out of touch with the empirical reality of American health care,” writes David S. Shapiro.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-30T08:30:00+00:00",
+    "date_str": "Jun 30, 2026"
+  },
+  {
+    "title": "STAT+: The loophole in Trump’s obesity drug deal with Eli Lilly and Novo Nordisk",
+    "url": "https://www.statnews.com/2026/06/30/medicare-medicaid-glp1-costs-explained-balance-out-bridge-in/?utm_campaign=rss",
+    "summary": "The Trump administration's grand bargain with drugmakers isn't working out as planned.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-30T08:30:00+00:00",
+    "date_str": "Jun 30, 2026"
+  },
+  {
+    "title": "Opinion: Florida is the first state to require EKGs for high school athletes. It’s a mistake",
+    "url": "https://www.statnews.com/2026/06/30/florida-ekg-law-high-school-athletes/?utm_campaign=rss",
+    "summary": "“There are better ways for schools to protect student athletes,” writes Katherine Hofmann.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-30T08:30:00+00:00",
+    "date_str": "Jun 30, 2026"
+  },
+  {
+    "title": "STAT+: How the Trump administration derailed alcohol addiction research and prevention",
+    "url": "https://www.statnews.com/2026/06/30/maha-trump-ignores-alcohol-risk-deadliest-drug-part-6/?utm_campaign=rss",
+    "summary": "A STAT investigation has found that the Trump administration has downplayed alcohol’s risks and actively derailed efforts to understand and prevent drinking-related harms.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-30T08:30:00+00:00",
+    "date_str": "Jun 30, 2026"
+  },
+  {
+    "title": "STAT+: Abivax seeks to ease safety concerns with new data, boosting shares",
+    "url": "https://www.statnews.com/2026/06/30/abivax-obefazimod-ulcerative-colitis-maintenance-trial-safety-data/?utm_campaign=rss",
+    "summary": "Safety concerns tied to Abivax's experimental bowel disease drug tanked company shares just weeks ago. But a new analysis sent them climbing.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-30T07:05:22+00:00",
+    "date_str": "Jun 30, 2026"
+  },
+  {
     "title": "Healthcare Moves: A Monthly Summary of Hires, Exits and Layoffs",
     "url": "https://medcitynews.com/2026/06/healthcare-moves-layoffs-retirement/",
     "summary": "June has seen a slew of executive hires, exits and layoffs across the healthcare industry. For instance, the American Medical Association, CMS and R1 RCM named new executives. There were also layoffs at organizations including ADC Therapeutics, Equip and UPMC. The post Healthcare Moves: A Monthly Summary of Hires, Exits and Layoffs appeared first on MedCity News .",
@@ -9917,86 +9997,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-06-08T12:22:16+00:00",
-    "date_str": "Jun 08, 2026"
-  },
-  {
-    "title": "STAT+: Combination of pancreatic cancer drugs from Tango, Revolution leads to high response rate",
-    "url": "https://www.statnews.com/2026/06/08/pancreatic-cancer-combination-tango-therapeutics-revolution-medicines-vopimetostat-daraxonrasib/?utm_campaign=rss",
-    "summary": "A combination of pancreatic cancer drugs from Tango Therapeutics and Revolution Medicines led to a strong response rate in an early-stage trial.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-08T11:55:45+00:00",
-    "date_str": "Jun 08, 2026"
-  },
-  {
-    "title": "In his book, self-described USAID 'whistleblower' talks about the agency and Ebola",
-    "url": "https://www.npr.org/2026/06/08/g-s1-125269/ebola-usaid-outbreak-trump-musk-woodchipper-nicholas-enrich",
-    "summary": "Nicholas Enrich, on staff at the U.S. Agency for International Aid under 4 administrations, talks about Into the Woodchipper: A Whistleblower's Account of How the Trump Administration Shredded USAID.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-08T11:22:10+00:00",
-    "date_str": "Jun 08, 2026"
-  },
-  {
-    "title": "Egg Allergies Declined With Earlier Introduction",
-    "url": "https://www.medpagetoday.com/allergyimmunology/allergy/121644",
-    "summary": "(MedPage Today) -- Fewer toddlers developed egg allergies after guidelines changed to recommend introducing egg products in infancy, large population-based studies from Australia showed. As the proportion of infants introduced to egg by 6 months...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-08T15:00:00+00:00",
-    "date_str": "Jun 08, 2026"
-  },
-  {
-    "title": "Eminent Psychiatrist Dies; Editing Embryo DNA; Acetaminophen vs Ibuprofen",
-    "url": "https://www.medpagetoday.com/psychiatry/generalpsychiatry/121643",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Harvard University professor Robert Coles, MD, the psychiatrist and Pulitzer Prize-winning author who championed the cause of children grappling with poverty and...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-08T13:39:40+00:00",
-    "date_str": "Jun 08, 2026"
-  },
-  {
-    "title": "Olympus’ Keith Boettiger on robotic GI surgery push",
-    "url": "https://www.healthcaredive.com/news/olympus-keith-boettiger-on-robotic-gi-surgery-push/822239/",
-    "summary": "Keith Boettiger, head of Olympus’ gastrointestinal solutions division, delves into the endoscopy leader’s robotics strategy.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-05T15:00:00+00:00",
-    "date_str": "Jun 05, 2026"
-  },
-  {
-    "title": "Elation Health acquires Aster as it ramps up agentic AI for primary care",
-    "url": "https://www.fiercehealthcare.com/health-tech/elation-health-acquires-aster-it-ramps-agentic-ai-primary-care",
-    "summary": "Health tech company Elation Health acquired startup Aster to propel the company's development of an agentic AI operating system for primary care.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-08T15:51:20.678102+00:00",
-    "date_str": "Jun 08, 2026"
-  },
-  {
-    "title": "Why self-directed care is becoming central to long-term care",
-    "url": "https://www.fiercehealthcare.com/sponsored/why-self-directed-care-becoming-central-long-term-care",
-    "summary": "PPL COO Jennifer Truscott explains how self-directed care expands the workforce, improves outcomes and scales with accountability.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-08T15:51:20.678156+00:00",
-    "date_str": "Jun 08, 2026"
-  },
-  {
-    "title": "AI in health care: From hype to enterprise value",
-    "url": "https://www.fiercehealthcare.com/sponsored/ai-health-care-hype-enterprise-value",
-    "summary": "Where AI is delivering ROI today — and what health care leaders must do to scale it.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-08T15:51:20.678187+00:00",
     "date_str": "Jun 08, 2026"
   }
 ]
