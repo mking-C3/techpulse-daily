@@ -1,5 +1,175 @@
 [
   {
+    "title": "Your Healthcare AI Strategy Is Probably an Architecture Problem",
+    "url": "https://medcitynews.com/2026/07/your-healthcare-ai-strategy-is-probably-an-architecture-problem/",
+    "summary": "These three patterns keep showing up, and each is much cheaper to prevent than to fix later. The post Your Healthcare AI Strategy Is Probably an Architecture Problem appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-01T13:48:00+00:00",
+    "date_str": "Jul 01, 2026"
+  },
+  {
+    "title": "Healthcare Retention Depends On Better Pathways, Not Just Better Pay",
+    "url": "https://medcitynews.com/2026/07/healthcare-retention-depends-on-better-pathways-not-just-better-pay/",
+    "summary": "When workers feel stuck in place, with limited opportunities to advance or deepen their skills, disengagement tends to follow. In allied health roles, where burnout is already high and many touch the patient experience, it is a risk healthcare employers cannot afford to ignore. The post Healthcare Retention Depends On Better Pathways, Not Just Better Pay appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-01T13:23:00+00:00",
+    "date_str": "Jul 01, 2026"
+  },
+  {
+    "title": "What Healthcare Leaders Should Know Before Implementing AI-Powered Documentation Tools",
+    "url": "https://medcitynews.com/2026/07/what-healthcare-leaders-should-know-before-implementing-ai-powered-documentation-tools/",
+    "summary": "These tools are worth implementing. They are not worth implementing without the right preparation. The post What Healthcare Leaders Should Know Before Implementing AI-Powered Documentation Tools appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-01T13:02:00+00:00",
+    "date_str": "Jul 01, 2026"
+  },
+  {
+    "title": "STAT+: Synthetic biology researchers think they’ve made a cell. Is it alive?",
+    "url": "https://www.statnews.com/2026/07/01/synthethic-biology-researcher-announce-creation-spud-cells/?utm_campaign=rss",
+    "summary": "Researchers have created what they say may count as the first synthetic cell, and have started a public benefit corporation to share the technology with other scientists. It’s a piece…",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-01T14:17:19+00:00",
+    "date_str": "Jul 01, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Anthropic drug development goals, Trump drug plan snags, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/07/01/anthropic-drug-development-goals-trump-plan-hitting-snag/?utm_campaign=rss",
+    "summary": "Anthropic announced the availability of Claude Science, which optimizes its large language model for use in scientific labs and by drugmakers",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-01T13:41:23+00:00",
+    "date_str": "Jul 01, 2026"
+  },
+  {
+    "title": "STAT+: More signs that GLP-1s may help with peripheral artery disease",
+    "url": "https://www.statnews.com/2026/07/01/biotech-news-glp-1s-may-help-with-peripheral-artery-disease/?utm_campaign=rss",
+    "summary": "Anthropic will begin developing drugs, BridgeBio pockets a billion, and more biotech news from The Readout",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-01T13:37:58+00:00",
+    "date_str": "Jul 01, 2026"
+  },
+  {
+    "title": "FDA says Zyn can market its pouches as safer than cigarettes",
+    "url": "https://www.statnews.com/2026/07/01/health-news-fda-says-zyn-can-market-pouches-as-safer-than-cigarettes/?utm_campaign=rss",
+    "summary": "The influence of the alcohol industry on policy, AI Claude for scientists, and more health news from Morning Rounds",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-01T11:50:18+00:00",
+    "date_str": "Jul 01, 2026"
+  },
+  {
+    "title": "STAT+: FDA approves Orca Bio’s T cell therapy for blood cancer patients",
+    "url": "https://www.statnews.com/2026/07/01/fda-approves-orca-bio-treatment-blood-cancer/?utm_campaign=rss",
+    "summary": "The FDA approved a T-cell therapy from Orca Bio that reduces the risk of a debilitating immune reaction in patients with blood cancers undergoing stem cell transplants.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-01T11:38:17+00:00",
+    "date_str": "Jul 01, 2026"
+  },
+  {
+    "title": "360 Dead in Outbreak; McConnell Still Hospitalized? FDA Rejects Kidney Disease Drug",
+    "url": "https://www.medpagetoday.com/infectiousdisease/ebola/122000",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. A total of 1,274 cases and 360 deaths have been confirmed in Congo's Ebola outbreak, according to the CDC. Meanwhile, Ugandan officials reported an outbreak of...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-01T13:41:10+00:00",
+    "date_str": "Jul 01, 2026"
+  },
+  {
+    "title": "AHA taps state advocate as new CEO",
+    "url": "https://www.healthcaredive.com/news/american-hospital-association-new-ceo-steve-walsh/824120/",
+    "summary": "Steve Walsh, the CEO of a Massachusetts hospital group, will assume the top role in the early fall, after the AHA’s longtime leader retires.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-01T13:54:32+00:00",
+    "date_str": "Jul 01, 2026"
+  },
+  {
+    "title": "Top FDA gene and cell therapy regulator to step down",
+    "url": "https://www.healthcaredive.com/news/top-fda-gene-cell-therapy-regulator-step-down/824198/",
+    "summary": "Following Vijay Kumar’s exit, acting CBER Director Karim Mikhail will also oversee a review office that has become a battleground for debates on FDA flexibility.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-30T13:48:27+00:00",
+    "date_str": "Jun 30, 2026"
+  },
+  {
+    "title": "Experity acquires Exdion Healthcare to accelerate on-demand care RCM automation",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/experity-acquires-exdion-healthcare-accelerate-demand-care-rcm-automation",
+    "summary": "The acquisition aims to accelerate RCM automation for on-demand care.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-01T14:33:32.397458+00:00",
+    "date_str": "Jul 01, 2026"
+  },
+  {
+    "title": "ACCESS Model: behavioral health edition",
+    "url": "https://www.fiercehealthcare.com/providers/access-model-behavioral-health-edition",
+    "summary": "A new payment model is designed to pay digital health companies based on outcomes in chronic condition management. But where does behavioral health fit? This episode explores that question with SonderMind and Headspace, two companies participating in the model's behavioral health track.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-01T14:33:32.397513+00:00",
+    "date_str": "Jul 01, 2026"
+  },
+  {
+    "title": "Evernorth unveils new AI-powered specialty pharmacy program, Pharmacy Forward",
+    "url": "https://www.fiercehealthcare.com/payers/evernorth-unveils-new-ai-powered-specialty-pharmacy-program-pharmacy-forward",
+    "summary": "Evernorth has unveiled a new specialty pharmacy program that leans on AI to support a better experience for patients with complex conditions.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-01T14:33:32.397545+00:00",
+    "date_str": "Jul 01, 2026"
+  },
+  {
+    "title": "Saint Peter’s Healthcare System Expands Intelligent Hospital Room Initiative with hellocare.ai to Advance AI Assisted Patient Safety and Virtual Care",
+    "url": "https://www.fiercehealthcare.com/sponsored/saint-peters-healthcare-system-expands-intelligent-hospital-room-initiative-hellocareai",
+    "summary": "hellocare.ai, a leading provider of AI assisted virtual care and intelligent hospital room technology, today announced the continued expansion of its partnership with Saint Peter’s Healthcare System in New Brunswick, NJ, to deploy advanced intelligent hospital room capabilities across the organization.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-01T14:33:32.397588+00:00",
+    "date_str": "Jul 01, 2026"
+  },
+  {
+    "title": "Boebert: Kean explanation for absence 'embarrassing'",
+    "url": "https://thehill.com/homenews/house/5949089-lauren-boebert-responds-tom-kean-jr-depression-diagnosis/",
+    "summary": "Rep. Lauren Boebert (R-Colo.) on Monday criticized fellow GOP Rep. Tom Kean Jr. for his four-month absence from Congress after the New Jersey lawmaker returned to the Capitol. “I think it’s embarrassing,” Boebert told TMZ on Capitol Hill. Earlier in the day, Kean returned to the House floor for the first time since early March...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-07-01T13:05:34+00:00",
+    "date_str": "Jul 01, 2026"
+  },
+  {
+    "title": "Medicare is now covering some GLP-1 weight loss drugs for $50. Here’s what to know",
+    "url": "https://thehill.com/policy/healthcare/medicare-inow-covering-some-glp-1-weight-loss-drugs-what-to-know/",
+    "summary": "NEW YORK (AP) — Popular — and expensive — GLP-1 weight loss drugs just got a lot cheaper for many older Americans. Starting Wednesday, the federal government is offering a selection of the brand name medications to certain Medicare and Medicare Advantage beneficiaries for $50 a month through a new trial called Medicare GLP-1 Bridge....",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-07-01T11:09:05+00:00",
+    "date_str": "Jul 01, 2026"
+  },
+  {
     "title": "Affordable Healthcare Emerges as a Voter Priority in Purple Nevada",
     "url": "https://kffhealthnews.org/elections/midterm-elections-nevada-governor-joe-lombardo-aaron-ford-affordability-healthcare/",
     "summary": "The Trump administration’s cuts to Medicaid and SNAP may complicate Republican Gov. Joe Lombardo’s reelection chances.",
@@ -9827,176 +9997,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-06-09T14:50:45+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "Why there's a debate over the new quarantine center for Americans at risk of Ebola",
-    "url": "https://www.npr.org/2026/06/09/nx-s1-5850708/ebola-quarantine-u-s-citizens-kenya",
-    "summary": "Opinions are divided about the new facility in Kenya. The U.S. defends it. Kenyans are protesting it. Doctors who were on the ground in the 2014 Ebola outbreak voice criticism as well.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-09T19:34:30+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "Big tobacco hooked us on ultra-processed foods. It might teach us how to cut back",
-    "url": "https://www.npr.org/2026/06/09/nx-s1-5850364/why-ultra-processed-foods-could-become-the-new-war-on-tobacco",
-    "summary": "Research published in the American Journal of Public Health details the connection between ultra-processed foods and the tobacco industry when it comes to production, strategy and marketing.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-09T17:02:24+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "Drug Fights GLP-1 Muscle Loss; Unapproved Retatrutide Prescriptions; Protein Swap",
-    "url": "https://www.medpagetoday.com/endocrinology/generalendocrinology/121675",
-    "summary": "(MedPage Today) -- Investigational apitegromab -- a selective myostatin activation inhibitor -- effectively preserved lean mass when combined with tirzepatide (Zepbound) in a randomized phase II trial, suggesting it could help fight \"Ozempic...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-09T18:57:42+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "Trump Admin Warns Over 500 Hospitals to Provide More Pricing Info or Face Fines",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/121674",
-    "summary": "(MedPage Today) -- The Trump administration has warned more than 500 hospitals that they are failing to provide the public with basic pricing information -- arguing that the lack of disclosure is keeping healthcare costs higher than they should...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-09T18:44:58+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "Unproven Peptides Need More Regulation, AMA Delegates Say",
-    "url": "https://www.medpagetoday.com/meetingcoverage/ama/121673",
-    "summary": "(MedPage Today) -- The FDA must do a better job of regulating unproven peptides, members of the American Medical Association (AMA) House of Delegates said Monday. At their annual meeting, the delegates passed a resolution directing the AMA to...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-09T18:31:42+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "Medical Groups Cheer Court Decision to Halt $100K H-1B Visa Fee",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/121672",
-    "summary": "(MedPage Today) -- Medical groups are hailing a federal judge's decision to strike down the Trump administration's $100,000 H-1B visa fee, which would have limited the country's healthcare workforce. \"At a time when communities across the country...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-09T18:19:48+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "Here's How Experts Are Watching for Infectious Disease Threats During the World Cup",
-    "url": "https://www.medpagetoday.com/special-reports/features/121671",
-    "summary": "(MedPage Today) -- A collaborative of public health groups are utilizing tools like wastewater surveillance to monitor pathogens throughout the upcoming FIFA World Cup, hoping to detect and prevent the spread of disease during the massive soccer...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-09T17:46:25+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "Low Lipoprotein(a) Harm; Soccer Pro Collapses Again; Cancer-Related Ischemic Stroke?",
-    "url": "https://www.medpagetoday.com/cardiology/generalcardiology/121670",
-    "summary": "(MedPage Today) -- A low lipoprotein(a) level was tied to incident diabetes in the FOURIER trial. (European Heart Journal) People with 1.5 to 2 hours of strength training a week typically lived longer in a pooled cohort study. (British Journal...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-09T17:31:05+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "Watching the NBA Finals? Think Twice Before Betting",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/121669",
-    "summary": "(MedPage Today) -- I am a child of the golden era of basketball. I grew up watching Larry Legend (Larry Bird) and Earvin \"Magic\" Johnson duel through the 1980s. I was in ecstasy when my beloved Detroit Bad Boys dethroned both Goliaths, and for...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-09T16:56:59+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "Medical Groups Pledge to Boost Nutrition Education for Physicians",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/medicaleducation/121668",
-    "summary": "(MedPage Today) -- Nine accrediting and medical organizations pledged to integrate nutrition into their curricula and assessments of future physicians, HHS officials announced on Monday. \"Over the last 10 months, these organizations have done...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-09T16:32:36+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "Genomic Test May Spare More Patients With Node-Positive Breast Cancer From Chemo",
-    "url": "https://www.medpagetoday.com/meetingcoverage/ascoexpertroundtablebreastca/121667",
-    "summary": "(MedPage Today) -- The phase III OPTIMA trial, presented at this year's American Society of Clinical Oncology (ASCO) annual meeting, showed that some patients with high-risk, early-stage, estrogen receptor (ER)-positive, HER2-negative breast cancer...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-09T16:18:30+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "U.S. Guidelines Didn't Feature Government-Commissioned Study Finding Drinking Risks",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/washington-watch/121665",
-    "summary": "(MedPage Today) -- A study commissioned by President Joe Biden's administration to investigate alcohol-related health harms was released independently on Tuesday, after President Donald Trump's administration decided not to feature the researchers...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-09T14:55:19+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "VA deploys Oracle EHR to 4 medical centers in Ohio, Kentucky",
-    "url": "https://www.healthcaredive.com/news/va-deploys-oracle-ehr-four-medical-centers-ohio-kentucky/822348/",
-    "summary": "The rollout marks the second wave of deployments in 2026 after the VA largely paused the project for years to fix technical issues and errors.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-09T14:05:41+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "Hundreds of hospitals warned over price transparency failings, AP reports",
-    "url": "https://www.fiercehealthcare.com/providers/hundreds-hospitals-warned-over-price-transparency-failings-ap-reports",
-    "summary": "At least 519 hospitals nationwide have received a warning notice or Corrective Action Plan request due to price transparency deficiencies since April, according to a \"senior administration official\" cited by the AP.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-09T20:06:26.358463+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "Clinicians report AI use expands patient capacity, boosts efficiency: Philips survey",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/71-clinicians-report-improved-workflow-efficiency-ai-tools-philips-survey-0",
-    "summary": "The Future Health Index 2026 drew insights from more than 2,000 healthcare professionals and more than 20,000 patients across 10 countries.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-09T20:06:26.358519+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "Cleveland Clinic agrees to 'decades-long' halt on gender-affirming care for minors in DOJ settlement",
-    "url": "https://www.fiercehealthcare.com/providers/cleveland-clinic-agrees-decades-long-halt-gender-affirming-care-minors",
-    "summary": "A deal with the DOJ and the Ohio Attorney General's Office settles improper billing allegations and includes a $2 million commitment to pay for detransitioning services.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-09T20:06:26.358551+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "The White House blocked a study on alcohol consumption. This is what it said",
-    "url": "https://thehill.com/policy/healthcare/5916395-alcohol-guidelines-new-study/",
-    "summary": "In 2022, the Biden administration set in motion a study on the effects of drinking, with extensive international participation by researchers from the U.S., Canada and the U.K. After years of research, the study authors were informed by the Trump administration last year that it did not plan to publish the results, with some blaming...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-09T19:14:12+00:00",
     "date_str": "Jun 09, 2026"
   }
 ]
