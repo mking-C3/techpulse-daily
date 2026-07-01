@@ -1,5 +1,175 @@
 [
   {
+    "title": "Anthropic Launches Claude Science to Court Pharma Ahead of IPO",
+    "url": "https://medcitynews.com/2026/06/anthropic-pharma-healthcare/",
+    "summary": "Anthropic unveiled Claude Science, an AI workbench designed to run — not just assist with — pharma research. The company is seeking to build out its customer base in the pharma sector as it deepens its healthcare push ahead of a widely anticipated IPO. The post Anthropic Launches Claude Science to Court Pharma Ahead of IPO appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-01T03:27:40+00:00",
+    "date_str": "Jul 01, 2026"
+  },
+  {
+    "title": "Servier Executive: ‘We Are Not Looking for Blockbusters, We’re Looking for Innovative Science’",
+    "url": "https://medcitynews.com/2026/06/servier-acquisitions-neuroscience-rare-disease-cancer-bio-international-convention/",
+    "summary": "Servier completed its acquisition of Day One Biopharmaceuticals and its buyout of Edgewise Therapeutics’ neuromuscular business is expected to close later this year. At the BIO International Convention, Servier’s top business development executive explained the rationale for these deals and how they fit the company’s overall strategy. The post Servier Executive: ‘We Are Not Looking for Blockbusters, We’re Looking for Innovative Science’ appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-30T22:09:40+00:00",
+    "date_str": "Jun 30, 2026"
+  },
+  {
+    "title": "Zelis Unveils Solution to Tackle Payer IDR Challenges",
+    "url": "https://medcitynews.com/2026/06/zelis-unveils-solution-to-tackle-payer-idr-challenges/",
+    "summary": "Zelis has introduced an AI solution to help health insurers streamline the No Surprises Act’s Independent Dispute Resolution process. The post Zelis Unveils Solution to Tackle Payer IDR Challenges appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-06-30T21:48:42+00:00",
+    "date_str": "Jun 30, 2026"
+  },
+  {
+    "title": "STAT+: AI company Anthropic announces it will begin developing drugs of its own",
+    "url": "https://www.statnews.com/2026/06/30/anthropic-ai-drug-development/?utm_campaign=rss",
+    "summary": "AI giant Anthropic has already become a dominant player in technology and a household name for everyday users of artificial intelligence. Can it make drugs too?",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-30T22:48:28+00:00",
+    "date_str": "Jun 30, 2026"
+  },
+  {
+    "title": "These church members disagree on politics. Together they're wiping out medical debt",
+    "url": "https://www.npr.org/2026/06/30/nx-s1-5847966-e1/these-church-members-disagree-on-politics-together-theyre-wiping-out-medical-debt",
+    "summary": "Trinity Moravian Church, a politically diverse congregation in Winston-Salem, N. C., has been raising money to retire medical debt in the surrounding community.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-06-30T20:54:21+00:00",
+    "date_str": "Jun 30, 2026"
+  },
+  {
+    "title": "Vitamin A Linked to Better Lung Function in Kids, Adults",
+    "url": "https://www.medpagetoday.com/pulmonology/asthma/121987",
+    "summary": "(MedPage Today) -- Higher vitamin A levels were linked to better lung function in adults and children, with the benefit seen with vitamin D among adults as well, a study showed. Higher vitamin A levels correlated with significantly higher forced...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-30T22:30:00+00:00",
+    "date_str": "Jun 30, 2026"
+  },
+  {
+    "title": "Odds of Four HPV-Linked Cancers Higher in Transplant Recipients, HIV Patients",
+    "url": "https://www.medpagetoday.com/transplantation/transplantation/121999",
+    "summary": "(MedPage Today) -- People with HIV and solid organ transplant recipients were significantly more likely to develop human papillomavirus (HPV)-associated anal, penile, vulvar, and cervical cancers, according to a Swedish retrospective case-control...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-30T21:44:10+00:00",
+    "date_str": "Jun 30, 2026"
+  },
+  {
+    "title": "House Passes Bill to Ease Quality Reporting Requirements for Medicare ACOs",
+    "url": "https://www.medpagetoday.com/practicemanagement/reimbursement/121998",
+    "summary": "(MedPage Today) -- Physician practices participating in a Medicare accountable care organization (ACO) may have an easier time submitting quality data to Medicare if a bill passed Monday by the House becomes law. H.R. 5347, the Health Care Efficiency...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-30T21:34:34+00:00",
+    "date_str": "Jun 30, 2026"
+  },
+  {
+    "title": "Diabetes Drug Class Tied to Lower Dementia Risk in People With Psych Disorders",
+    "url": "https://www.medpagetoday.com/neurology/dementia/121997",
+    "summary": "(MedPage Today) -- Use of SGLT2 inhibitors was linked to lower dementia incidence and fewer related psychiatric outcomes in older adults with mood and psychotic disorders, according to a target trial emulation study. In an intention-to-treat analysis...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-30T21:23:43+00:00",
+    "date_str": "Jun 30, 2026"
+  },
+  {
+    "title": "After Recent Leadership Departures, Is the FDA Returning to Form?",
+    "url": "https://www.medpagetoday.com/washington-watch/fdageneral/121996",
+    "summary": "(MedPage Today) -- Some experts say the FDA's recent change of heart on a handful of drugs for rare diseases suggests a return to regular order after a tumultuous year, while others argue the flip-flopping signals more chaos. During the tenure...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-30T21:07:24+00:00",
+    "date_str": "Jun 30, 2026"
+  },
+  {
+    "title": "Congressman Reveals Mystery Health Issue After 4-Month Absence",
+    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/121994",
+    "summary": "(MedPage Today) -- New Jersey Republican Rep. Tom Kean Jr. disclosed Tuesday that he was being treated for depression during his unexplained 4-month absence from the House, suggesting in a brief floor speech that he remained silent about his condition...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-30T19:25:05+00:00",
+    "date_str": "Jun 30, 2026"
+  },
+  {
+    "title": "Most Adults on Social Media Engaged With Health Content",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/121993",
+    "summary": "(MedPage Today) -- The bulk of adults who use social media reported engaging with health information via these platforms, despite not always finding it trustworthy, according to survey data. Out of over 7,000 adults, 87.8% reported using social...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-06-30T19:19:59+00:00",
+    "date_str": "Jun 30, 2026"
+  },
+  {
+    "title": "26 states sue CMS over final Medicaid work requirements rule",
+    "url": "https://www.fiercehealthcare.com/payers/26-states-sue-cms-over-final-medicaid-work-requirements-rule",
+    "summary": "A coalition of 26 states is suing the Trump administration over its rollout of Medicaid work requirements.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-01T03:49:45.768601+00:00",
+    "date_str": "Jul 01, 2026"
+  },
+  {
+    "title": "Startup Queue lands $12.6M to launch autonomous robotic pharmacy kiosks",
+    "url": "https://www.fiercehealthcare.com/health-tech/startup-queue-lands-126m-launch-autonomous-robotic-pharmacy-kiosks",
+    "summary": "Startup Queue emerged from stealth to launch what it calls the first fully autonomous robotic pharmacy in the form of prescription medication kiosks.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-01T03:49:45.768656+00:00",
+    "date_str": "Jul 01, 2026"
+  },
+  {
+    "title": "AI playing a major role in consumers' healthcare decision-making, survey finds",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/45-us-patients-wait-see-healthcare-providers-until-theyre-sick-zs-impact",
+    "summary": "Patients are taking charge of their healthcare with artificial intelligence and other solutions, with 58% of U.S. patients researching symptoms before deciding whether to book an appointment, a survey found.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-01T03:49:45.768690+00:00",
+    "date_str": "Jul 01, 2026"
+  },
+  {
+    "title": "Rural residents falling behind urban and suburban communities on medical, cancer screenings",
+    "url": "https://www.fiercehealthcare.com/providers/rural-adults-falling-behind-urban-and-suburban-adults-medical-and-cancer-screenings",
+    "summary": "Only 48% of rural Americans have had a routine medical visit or cancer screening in the past year, as opposed to 56% of urban and suburban adults, revealing a widening care gap, new survey data show.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-01T03:49:45.768721+00:00",
+    "date_str": "Jul 01, 2026"
+  },
+  {
+    "title": "Trump administration cancels millions of dollars in teen pregnancy prevention grants",
+    "url": "https://thehill.com/policy/healthcare/5948545-hhs-terminates-millions-teen-pregnancy-funding/",
+    "summary": "The Trump administration has terminated millions of dollars in teen pregnancy prevention grants that the Department of Health and Human Services (HHS) said were no longer aligned with the agency’s priorities. HHS cut 53 grants worth about $67 million two years before they were set to expire. The cuts hit university, community and public health...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-06-30T22:15:59+00:00",
+    "date_str": "Jun 30, 2026"
+  },
+  {
     "title": "MedCity Pivot Podcast: The Evolution of At-Home Care",
     "url": "https://medcitynews.com/2026/06/medcity-pivot-podcast-the-evolution-of-at-home-care/",
     "summary": "In this month’s pivot podcast, I speak to the chief medical officer of San Francisco-based Vynca, an innovative company in the world of palliative care that is providing serious disease management at home. The post MedCity Pivot Podcast: The Evolution of At-Home Care appeared first on MedCity News .",
@@ -9827,176 +9997,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-06-09T13:00:00+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "STAT+: What’s changed since the last major Ebola outbreak",
-    "url": "https://www.statnews.com/2026/06/09/health-news-whats-changed-since-the-last-ebola-outbreak/?utm_campaign=rss",
-    "summary": "A suppressed federal alcohol report, an \"inevitable development\" for wearables data, and more health news from Morning Rounds",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-09T12:23:29+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "CDC Trust Falls Sharply; Watchdog Flags Medicaid Gaps; Drug Targets 'Ozempic Butt'",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/healthpolicy/121664",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Only 50% of the public said they now trust health recommendations from the CDC, down from 77% in spring 2025, according to a poll conducted by the Harvard School...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-09T13:38:43+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "Illinois awards new Medicaid contracts",
-    "url": "https://www.healthcaredive.com/news/illinois-medicaid-awards-healthchoice-contracts-humana/822278/",
-    "summary": "The state said it intends to divvy out new contracts, which represent tens of billions of dollars in revenue for each awardee, to six insurers. Winners are mostly incumbents, except for Humana.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-09T14:41:27+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "Trump’s $100K fee for H-1B visas struck down",
-    "url": "https://www.healthcaredive.com/news/trumps-100k-fee-h1b-visas-struck-down/822339/",
-    "summary": "A federal judge ruled that the fee amounted to an unlawful tax on the visa program for highly skilled workers. Medical groups cheered the decision.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-08T21:37:35+00:00",
-    "date_str": "Jun 08, 2026"
-  },
-  {
-    "title": "Vance referring Walz, Ellison to DOJ for criminal fraud investigation",
-    "url": "https://thehill.com/homenews/administration/5916038-jd-vance-tim-walz-keith-ellison-minnesota-fraud-doj-pr/",
-    "summary": "Vice President Vance said late Monday that he will refer Minnesota Gov. Tim Walz (D) and state Attorney General Keith Ellison to the Justice Department (DOJ) for a criminal fraud investigation prompted by findings from a House Oversight Committee report. The report says Walz and Ellison were aware of widespread fraud and government failures that...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-09T13:10:24+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "Actress Mayim Bialik shares her 'nightmare' experience with a GLP-1",
-    "url": "https://thehill.com/blogs/in-the-know/5914552-mayim-bialik-glp-1-weight-loss-drug-experience/",
-    "summary": "Researchers found that approximately 44% of GLP-1 users reported at least one side effect.",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-09T12:03:49+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "Poll: Trust in federal health agencies dropped sharply during Trump's first year",
-    "url": "https://thehill.com/policy/healthcare/5915160-partisan-cdc-trust-poll-findings/",
-    "summary": "A year into the second Trump administration, trust in federal health institutions, and the Centers for Disease Control and Prevention in particular, has declined considerably while also becoming deeply partisan, according to a new poll. The poll, conducted by the Harvard T.H. Chan School of Public Health and the de Beaumont Foundation’s Public Health Listening Lab, found...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-09T10:00:00+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "Trivia Nights, Valentine’s Cards: Overlooked Social Connections Can Prevent Suicide",
-    "url": "https://kffhealthnews.org/mental-health/suicide-prevention-loneliness-social-connection-mental-health-eleven-minutes/",
-    "summary": "The research is clear: Among the various complex issues that contribute to suicide, loneliness is a big one. Now, there’s a growing push to address loneliness not just through personal choices but also through public policy.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-09T09:00:00+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "Could Your Kid Benefit From Counseling? Experts Offer 3 Questions To Help You Decide",
-    "url": "https://kffhealthnews.org/mental-health/healthq-children-therapy-experts-help-parents-decide/",
-    "summary": "Anxious kids can benefit from counseling, but therapy demands a commitment of money and time. Therapists recommend using three criteria to help determine when challenging behavior rises to the level of needing professional help.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-09T09:00:00+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "A leader of the 2014 U.S. Ebola response compares then to now",
-    "url": "https://www.statnews.com/2026/06/09/ebola-outbreak-response-difference-between-2014-today-susan-reichle/?utm_campaign=rss",
-    "summary": "As the world deals with an outbreak of Ebola that has no known cure, Susan Reichle, who last year co-founded Aid Transition Alliance to support former USAID professionals, discusses the…",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-09T08:30:00+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "STAT+: Trump’s health care affordability czar touts Medicaid cuts to hospital leaders",
-    "url": "https://www.statnews.com/2026/06/09/affordability-czar-casey-mulligan-hfma-speech-medicaid-cuts/?utm_campaign=rss",
-    "summary": "Hospital execs say they're working to mitigate the impacts of the looming cuts.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-09T08:30:00+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "Opinion: Why STAT is sticking with ‘health care’ as two words",
-    "url": "https://www.statnews.com/2026/06/09/health-care-vs-healthcare-ap-style-stat/?utm_campaign=rss",
-    "summary": "Is it “health care” or “healthcare”? STAT readers had strong feelings.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-09T08:30:00+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "STAT+: Wearables, and the flood of data they generate, inch closer to entering the clinic",
-    "url": "https://www.statnews.com/2026/06/09/wearables-data-oura-whoop-clinical-integration/?utm_campaign=rss",
-    "summary": "Wearables generate a lot of health data, but it exists outside the clinic for the most part. New moves from Oura and Whoop may change that.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-09T08:30:00+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "Opinion: Ending animal testing could set back xenotransplantation just as the field is poised for a breakthrough",
-    "url": "https://www.statnews.com/2026/06/09/pig-organ-transplant-animal-testing-impact-xenotransplantation/?utm_campaign=rss",
-    "summary": "“Innovations like xenotransplantation would never have reached clinical trials without animal experimentation,” writes transplant surgeon Joshua Mezrich.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-09T08:30:00+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "STAT+: GSK to buy Nuvalent, maker of targeted cancer drugs, for $10.6B",
-    "url": "https://www.statnews.com/2026/06/09/gsk-nuvalent-acquistion-oncology-lung-cancer-zidesamtinib-neladalkib/?utm_campaign=rss",
-    "summary": "GSK is buying Nuvalent, the maker of targeted cancer drugs, for $10.6 billion, a sizable addition to the latest run of biopharma acquisitions.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-09T06:48:20+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "Alcohol study discarded by Trump officials is published in scientific journal",
-    "url": "https://www.statnews.com/2026/06/09/suppressed-alcohol-health-study-released-one-drink-or-less-daily/?utm_campaign=rss",
-    "summary": "A government-commissioned study had been meant to inform new dietary guidelines, and found risks associated with even light drinking.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-09T05:00:00+00:00",
-    "date_str": "Jun 09, 2026"
-  },
-  {
-    "title": "More Americans survive cancer. But the psychological impacts can persist for years",
-    "url": "https://www.npr.org/2026/06/09/nx-s1-5780010/iowa-cancer-survivor-depression-anxiety-guilt-undiagnosed-mental",
-    "summary": "Due to advancements in treatment and screening, more Americans are surviving cancer. But many are left with lingering mental health challenges like anxiety and depression.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-09T09:00:00+00:00",
     "date_str": "Jun 09, 2026"
   }
 ]
