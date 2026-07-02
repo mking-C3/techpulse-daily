@@ -1,5 +1,85 @@
 [
   {
+    "title": "FDA Clears First Neurostimulation Device for PTSD",
+    "url": "https://medcitynews.com/2026/07/fda-neurostimulation-ptsd/",
+    "summary": "Neurovalens’ Modius Spero has become the first FDA-approved neuromodulation device for treating PTSD symptoms. Veterans are set to gain access through the VA this summer. The post FDA Clears First Neurostimulation Device for PTSD appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-02T04:50:01+00:00",
+    "date_str": "Jul 02, 2026"
+  },
+  {
+    "title": "STAT+: A ‘historic’ FDA clearance raises the question: Is LLM the interface? Or the decision-maker?",
+    "url": "https://www.statnews.com/2026/07/02/fda-clearance-raises-questions-updoc-use-generative-ai-diabetes-treatment/?utm_campaign=rss",
+    "summary": "The newly cleared device is based around an app that helps a patient manage their diabetes using a treatment plan defined by their doctor.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-02T08:30:00+00:00",
+    "date_str": "Jul 02, 2026"
+  },
+  {
+    "title": "The new presidential fitness test is a positive step, not the solution, experts say",
+    "url": "https://www.statnews.com/2026/07/02/presidential-fitness-test-will-it-boost-physical-activity-youth/?utm_campaign=rss",
+    "summary": "Physical activity needs to be fun to keep kids engaged. And the test risks embarrassing them, instead.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-02T08:30:00+00:00",
+    "date_str": "Jul 02, 2026"
+  },
+  {
+    "title": "STAT+: A year after distressed buyout, what’s become of Bluebird Bio?",
+    "url": "https://www.statnews.com/2026/07/02/genetix-david-meek-bluebird-bio-turnaround-effort/?utm_campaign=rss",
+    "summary": "Bluebird Bio was a dark biotech morality tale when David Meek bought it. He says the new company, Genetix, is already making money.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-02T08:30:00+00:00",
+    "date_str": "Jul 02, 2026"
+  },
+  {
+    "title": "STAT+: A former AI regulator, now in industry, says biopharma is reading FDA’s guidance wrong",
+    "url": "https://www.statnews.com/2026/07/02/fda-ai-guidance-pharma-industry-caution-tala-fakhouri-explains/?utm_campaign=rss",
+    "summary": "Companies are being too conservative in how they interpret FDA's AI guidance, but the agency can do more to help, too, Tala Fakhouri says.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-02T08:30:00+00:00",
+    "date_str": "Jul 02, 2026"
+  },
+  {
+    "title": "Opinion: CDC leadership continues to try manufacture a scientific debate on vaccines where none exists",
+    "url": "https://www.statnews.com/2026/07/02/measuring-vaccine-effectiveness-test-negative-design-cdc/?utm_campaign=rss",
+    "summary": "CDC leadership continues to try manufacture a scientific debate on vaccines where none exists, writes Ben Lopman.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-02T08:30:00+00:00",
+    "date_str": "Jul 02, 2026"
+  },
+  {
+    "title": "Opinion: Teens are turning to chatbots for mental health help. We need rules to keep them safe",
+    "url": "https://www.statnews.com/2026/07/02/teens-chatbots-mental-health-rules-bans/?utm_campaign=rss",
+    "summary": "The share of young people using AI chatbots for mental health advice rose more than 40% in a single year, researcher writes.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-02T08:30:00+00:00",
+    "date_str": "Jul 02, 2026"
+  },
+  {
+    "title": "As a heatwave grips the U.S., a look at how extreme heat affects the body",
+    "url": "https://www.npr.org/2026/07/02/nx-s1-5874880/as-a-heatwave-grips-the-u-s-a-look-at-how-extreme-heat-affects-the-body",
+    "summary": "As heatwaves sweep the country, NPR's A Martinez asks W. Larry Kenney, professor of physiology and kinesiology at Penn State University, how extreme heat affects humans.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-02T08:48:36+00:00",
+    "date_str": "Jul 02, 2026"
+  },
+  {
     "title": "Orca Bio Cell Therapy Gets Landmark FDA Nod for New Kind of Living Medicine",
     "url": "https://medcitynews.com/2026/07/orca-bio-treg-cell-therapy-tregzi-blood-cancer-leukemia-graft-versus-host-disease-gvhd/",
     "summary": "FDA approval of Orca Bio’s Tregzi makes it the first cell therapy based on regulatory T cells, or Tregs. Clinical trial results showed reduced risk of graft-versus-host disease, a common complication of the allogeneic stem cell transplants that are a standard treatment for certain blood cancers. The post Orca Bio Cell Therapy Gets Landmark FDA Nod for New Kind of Living Medicine appeared first on MedCity News .",
@@ -9917,86 +9997,6 @@
     "category": "Medicare News",
     "category_slug": "medicare-news",
     "date": "2026-06-10T13:21:00+00:00",
-    "date_str": "Jun 10, 2026"
-  },
-  {
-    "title": "Take Part in Our Survey on Healthcare AI and Security",
-    "url": "https://medcitynews.com/2026/06/take-part-in-our-survey-on-healthcare-ai-and-security/",
-    "summary": "[Sponsored] Our new report will focus on how people who work for payers are thinking about AI and cybersecurity needs to protect sensitive healthcare data. The post Take Part in Our Survey on Healthcare AI and Security appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-10T11:30:00+00:00",
-    "date_str": "Jun 10, 2026"
-  },
-  {
-    "title": "OB-GYN association, deviating from CDC guidance, issues its own vaccine recommendations",
-    "url": "https://www.statnews.com/2026/06/10/acog-obgyn-vaccine-recommendations-pregnancy/?utm_campaign=rss",
-    "summary": "The American College of Obstetricians and Gynecologists has released a recommended vaccine schedule during pregnancy, one that diverges from CDC guidance.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-10T14:44:46+00:00",
-    "date_str": "Jun 10, 2026"
-  },
-  {
-    "title": "STAT+: Hope for Kendall Square’s lab market",
-    "url": "https://www.statnews.com/2026/06/10/biotech-news-hope-for-kendall-squares-lab-market/?utm_campaign=rss",
-    "summary": "Drug pricing in Europe, AI deals for VC firms, and more biotech news from The Readout",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-10T14:31:24+00:00",
-    "date_str": "Jun 10, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about U.S. pressure on European drug prices, longer shortages, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/06/10/american-pressure-on-european-drug-prices-longer-shortages/?utm_campaign=rss",
-    "summary": "A new analysis found the average drug shortage in 2025 had lasted 5.3 years, exceeding the 4.3 years seen in 2024",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-10T13:20:28+00:00",
-    "date_str": "Jun 10, 2026"
-  },
-  {
-    "title": "DOJ reaches second settlement on youth gender care",
-    "url": "https://www.statnews.com/2026/06/10/health-news-doj-reaches-second-settlement-on-youth-gender-care/?utm_campaign=rss",
-    "summary": "A new era of American sunscreen, NIAID taps new acting director, and more health news from Morning Rounds",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-10T11:55:12+00:00",
-    "date_str": "Jun 10, 2026"
-  },
-  {
-    "title": "Medicare Faces Funding Problems in 2033",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/medicare/121685",
-    "summary": "(MedPage Today) -- Medicare's hospital insurance trust fund will be unable to pay full benefits in 2033, unchanged from last year's estimate, while Social Security's retirement trust fund is projected to face a funding shortfall in 2032, according...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-10T13:55:05+00:00",
-    "date_str": "Jun 10, 2026"
-  },
-  {
-    "title": "115 Dead in Outbreak; House Panel Targets Prior Auth in Medicare; NIAID's New Leader",
-    "url": "https://www.medpagetoday.com/infectiousdisease/ebola/121684",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Authorities in Congo said that confirmed Ebola cases now total 598, including 115 deaths. (Reuters via MSN) Police shot and killed a protester in Kenya as hundreds...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-10T13:27:34+00:00",
-    "date_str": "Jun 10, 2026"
-  },
-  {
-    "title": "Planned Parenthood clinics close amid funding restrictions: KFF",
-    "url": "https://www.healthcaredive.com/news/planned-parenthood-closures-medicaid-title-x-funding-kff/822294/",
-    "summary": "Nearly 60 clinics have closed or consolidated with another site since last year, according to the report.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-10T15:10:20+00:00",
     "date_str": "Jun 10, 2026"
   }
 ]
