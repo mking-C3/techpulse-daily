@@ -1,5 +1,45 @@
 [
   {
+    "title": "Move over Chutes & Ladders: Schisto & Ladders has educational value plus worms",
+    "url": "https://www.npr.org/2026/07/04/g-s1-129679/chutes-ladders-schistosomiasis-worms-parasites",
+    "summary": "Spread by parasitic worms that can infect via a splash of water, schistosomiasis causes debilitating symptoms. It hits kids hard. A board game teaches how to prevent it.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-04T15:51:49+00:00",
+    "date_str": "Jul 04, 2026"
+  },
+  {
+    "title": "Tech to Improve Stroke Outcomes; Impact of a Nation's Social Media Ban",
+    "url": "https://www.medpagetoday.com/podcasts/healthwatch/122042",
+    "summary": "(MedPage Today) -- TTHealthWatch is a weekly podcast from Texas Tech. In it, Elizabeth Tracey, director of electronic media for Johns Hopkins Medicine in Baltimore, and Rick Lange, MD, president of Texas Tech Health El Paso, look at the top medical...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-04T18:00:00+00:00",
+    "date_str": "Jul 04, 2026"
+  },
+  {
+    "title": "Alibaba to Pay $600M Over Allegations of Illegal Pharmaceutical Sales in the U.S.",
+    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/122026",
+    "summary": "(MedPage Today) -- The Chinese tech giant Alibaba will pay $600 million to resolve a dispute with the U.S. government over allegations that the Hangzhou-based firm sold and imported illegal pharmaceuticals, controlled substances, regulated chemicals...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-04T14:00:00+00:00",
+    "date_str": "Jul 04, 2026"
+  },
+  {
+    "title": "Conservatives rage over re-funding of Planned Parenthood",
+    "url": "https://www.politico.com/news/2026/07/04/planned-parenthood-abortion-medicaid-congress-00985879",
+    "summary": "Despite the restoration of Medicaid funding for health care services -- but not abortions -- dozens of closed clinics are not likely to reopen.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-04T18:00:00+00:00",
+    "date_str": "Jul 04, 2026"
+  },
+  {
     "title": "CDC emails reveal challenges facing its next director",
     "url": "https://www.npr.org/2026/07/04/nx-s1-5876507/cdc-emails-reveal-challenges-facing-its-next-director",
     "summary": "Emails from CDC officials released by Sen. Bernie Sanders reveal agency leaders dealing with political pressures during the Trump era and highlight challenges for the next director.",
@@ -9957,46 +9997,6 @@
     "category": "Medicare News",
     "category_slug": "medicare-news",
     "date": "2026-06-11T13:37:20+00:00",
-    "date_str": "Jun 11, 2026"
-  },
-  {
-    "title": "What Healthcare Leaders Get Wrong About EHR Switching",
-    "url": "https://medcitynews.com/2026/06/what-healthcare-leaders-get-wrong-about-ehr-switching/",
-    "summary": "EHR switching involves risk. But taking a life cycle view, considering data migration, workflow configuration, training, downtime, ongoing fees and eventual exit terms, can put an end to your EHR pain. The post What Healthcare Leaders Get Wrong About EHR Switching appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-11T13:32:00+00:00",
-    "date_str": "Jun 11, 2026"
-  },
-  {
-    "title": "The Identity Gap Undermining Value-Based Care",
-    "url": "https://medcitynews.com/2026/06/the-identity-gap-undermining-value-based-care/",
-    "summary": "[Sponsored] A webinar sponsored by Verato and scheduled for June 17 from 1 pm to 2 pm ET will explore how a unified identity strategy, spanning patients, providers, and emerging solutions enabling accurate attribution, strengthens interoperability, and ultimately drives VBC success. Register today! The post The Identity Gap Undermining Value-Based Care appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-11T11:41:07+00:00",
-    "date_str": "Jun 11, 2026"
-  },
-  {
-    "title": "STAT+: A suspicious denial pattern in Medicare Advantage",
-    "url": "https://www.statnews.com/2026/06/11/medicare-advantage-prior-authorization-denials-trustees-report-prescription-drug-costs/?utm_campaign=rss",
-    "summary": "Major Medicare Advantage plans almost always reversed their denials on appeal, raising big questions about barriers to care.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-11T14:55:52+00:00",
-    "date_str": "Jun 11, 2026"
-  },
-  {
-    "title": "STAT+: Novartis doubles down on molecular glue strategy",
-    "url": "https://www.statnews.com/2026/06/11/biotech-news-novartis-doubles-down-on-molecular-glue-strategy/?utm_campaign=rss",
-    "summary": "Seniors' drug costs rise sharply, Enliven's leukemia drugs, and more biotech news from The Readout",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-11T14:11:20+00:00",
     "date_str": "Jun 11, 2026"
   }
 ]
