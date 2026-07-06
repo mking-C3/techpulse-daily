@@ -1,5 +1,175 @@
 [
   {
+    "title": "In Oncology, the Cost Problem Goes Beyond Predictability",
+    "url": "https://medcitynews.com/2026/07/in-oncology-the-cost-problem-goes-beyond-predictability/",
+    "summary": "Healthcare does not lack the data needed to better understand oncology costs. What it does lack is a consistent way to connect clinical progression with financial impact in a time frame that aligns with strategic planning. The post In Oncology, the Cost Problem Goes Beyond Predictability appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-06T13:58:00+00:00",
+    "date_str": "Jul 06, 2026"
+  },
+  {
+    "title": "The AI Playbook for Health Plans: 5 Steps for Leaders Who Don’t Know Where to Start",
+    "url": "https://medcitynews.com/2026/07/the-ai-playbook-for-health-plans-5-steps-for-leaders-who-dont-know-where-to-start/",
+    "summary": "It starts with a simple mindset shift, realizing that a successful AI journey begins with identifying a business problem, not with technology. The plans that make real progress embrace this mindset first then follow these five steps. The post The AI Playbook for Health Plans: 5 Steps for Leaders Who Don’t Know Where to Start appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-06T13:10:00+00:00",
+    "date_str": "Jul 06, 2026"
+  },
+  {
+    "title": "Closing the Quality-Affordability Gap in Workplace Mental Health",
+    "url": "https://medcitynews.com/2026/07/closing-the-quality-affordability-gap-in-workplace-mental-health/",
+    "summary": "[Sponsored] In an interview, Kyan Health Co-Founder and Chief Commercial Officer Konstantin Struck discussed how Kyan gives mid-market and enterprise employers access to premium workforce mental healthcare, at a price point that is affordable. The post Closing the Quality-Affordability Gap in Workplace Mental Health appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-06T11:30:00+00:00",
+    "date_str": "Jul 06, 2026"
+  },
+  {
+    "title": "What to Know About CMS’ New Proposed Outpatient Payment Rule",
+    "url": "https://medcitynews.com/2026/07/cms-hospital-medicare-payment/",
+    "summary": "CMS published its proposed 2027 outpatient payment rule, including a 2.4% base rate increase alongside steep cuts to 340B drug payments and an expansion of site-neutral payment to off-campus imaging services. Provider groups warn that these changes would push many hospitals’ payments into negative territory. The post What to Know About CMS’ New Proposed Outpatient Payment Rule appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-06T03:15:07+00:00",
+    "date_str": "Jul 06, 2026"
+  },
+  {
+    "title": "Medicare to Spend $13B on MA Quality Bonus Program in 2026",
+    "url": "https://medcitynews.com/2026/07/medicare-to-spend-13b-on-ma-quality-bonus-program-in-2026/",
+    "summary": "KFF estimates Medicare will spend $13.4 billion on the Medicare Advantage Quality Bonus Program in 2026 amid continued scrutiny of the program. The post Medicare to Spend $13B on MA Quality Bonus Program in 2026 appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-06T01:31:35+00:00",
+    "date_str": "Jul 06, 2026"
+  },
+  {
+    "title": "STAT+: Online GLP-1 prescriptions are often fast, easy — and low on clinical oversight",
+    "url": "https://www.statnews.com/2026/07/06/glp-1-telehealth-prescriptions-jama-yale-secret-shopper-study/?utm_campaign=rss",
+    "summary": "A new secret-shopper study found that GLP-1 prescriptions from telehealth sites aren't often backed by appropriate clinical care.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-06T15:00:00+00:00",
+    "date_str": "Jul 06, 2026"
+  },
+  {
+    "title": "STAT+: Four major biotech updates to catch up on",
+    "url": "https://www.statnews.com/2026/07/06/biotech-news-anthropic-ceo-dario-amodei-tempers-expectations/?utm_campaign=rss",
+    "summary": "Anthropic CEO talks drug discovery, Medicare proposes steep 340B drug payment cuts, and more biotech news",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-06T13:37:50+00:00",
+    "date_str": "Jul 06, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a Novartis acquisition, Republicans backing clinical trial diversity, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/07/06/novartis-buys-myricx-republicans-back-clinical-trial-diversity/?utm_campaign=rss",
+    "summary": "Novartis is pushing deeper into antibody-drug conjugate development, paying $1.1 billion upfront to buy Myricx Bio",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-06T12:56:19+00:00",
+    "date_str": "Jul 06, 2026"
+  },
+  {
+    "title": "The race for an Ebola therapy begins",
+    "url": "https://www.statnews.com/2026/07/06/health-news-race-for-an-ebola-therapy-begins/?utm_campaign=rss",
+    "summary": "Male marathoners \"hit the wall,\" mental health in 2026, and more Morning Rounds news",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-06T12:08:48+00:00",
+    "date_str": "Jul 06, 2026"
+  },
+  {
+    "title": "Over 500 Dead in Outbreak; RFK Jr.'s 'Irreparable Harm'; Toddler Alive in the Morgue",
+    "url": "https://www.medpagetoday.com/infectiousdisease/ebola/122054",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. A total of 1,561 cases and 506 deaths have been confirmed in Congo's Ebola outbreak as frontline workers threatened to go on strike on Monday over unpaid benefits...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-06T13:36:13+00:00",
+    "date_str": "Jul 06, 2026"
+  },
+  {
+    "title": "Epic president to step down this summer",
+    "url": "https://www.healthcaredive.com/news/epic-president-sumit-rana-step-down/824462/",
+    "summary": "Sumit Rana’s departure could be a significant leadership shakeup for Epic, as the president was viewed as a potential successor to the company’s 82 year-old CEO.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-06T14:16:30+00:00",
+    "date_str": "Jul 06, 2026"
+  },
+  {
+    "title": "Medtronic starts to notify people affected by cyberattack",
+    "url": "https://www.healthcaredive.com/news/medtronic-starts-to-notify-people-affected-by-cyberattack/824439/",
+    "summary": "The medtech giant said it currently has no evidence that the accessed data has been posted to the internet.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-02T15:45:00+00:00",
+    "date_str": "Jul 02, 2026"
+  },
+  {
+    "title": "American Medical Association updates maternity care CPT coding",
+    "url": "https://www.fiercehealthcare.com/providers/american-medical-association-updates-maternity-care-cpt-coding",
+    "summary": "Changes will go into effect Jan. 1, 2027, and aim to improve care delivery and data for maternal health outcomes.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-06T15:30:53.750267+00:00",
+    "date_str": "Jul 06, 2026"
+  },
+  {
+    "title": "Healthcare Dealmakers—Ascension closes $3.9B Amsurg purchase, Hims & Hers' $1.2B international play and more",
+    "url": "https://www.fiercehealthcare.com/finance/healthcare-dealmakers-ascension-closes-39b-amsurg-deal-hims-hers-12b-international-play-and",
+    "summary": "WVU Health System nears acquisition of Independence Health System, alternative PBMs join forces and other merger and acquisition news from the month of June.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-06T15:30:53.750330+00:00",
+    "date_str": "Jul 06, 2026"
+  },
+  {
+    "title": "Can You Use AI Without Turning Your Revenue Cycle Upside Down?",
+    "url": "https://www.fiercehealthcare.com/sponsored/can-you-use-ai-without-turning-your-revenue-cycle-upside-down",
+    "summary": "You don't have to overhaul everything to use AI in RCM. Here's how to get started.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-06T15:30:53.750365+00:00",
+    "date_str": "Jul 06, 2026"
+  },
+  {
+    "title": "The Revenue Cycle Model Is Being Rebuilt And CFOs Are Leading the Way",
+    "url": "https://www.fiercehealthcare.com/sponsored/revenue-cycle-model-being-rebuilt-and-cfos-are-leading-way",
+    "summary": "The revenue cycle has always been a reflection of broader healthcare pressures. When labor levels were more abundant and reimbursement rates were higher, a headcount-heavy model made sense. Today, neither of those conditions exist.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-06T15:30:53.750400+00:00",
+    "date_str": "Jul 06, 2026"
+  },
+  {
+    "title": "BayCare partners with Zipline on drone delivery network",
+    "url": "https://www.fiercehealthcare.com/health-tech/baycare-partners-zipline-drone-delivery-network",
+    "summary": "The program is expected to launch in late 2027, the organizations say.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-06T15:30:53.750429+00:00",
+    "date_str": "Jul 06, 2026"
+  },
+  {
     "title": "In California Governor’s Race, Voters Face Stark Choice on Immigrant Healthcare",
     "url": "https://kffhealthnews.org/elections/california-governor-becerra-hilton-immigrant-healthcare-medicaid-medi-cal/",
     "summary": "California’s next governor will face tough decisions on a highly controversial piece of healthcare policy: what to do about health coverage for the more than 1.4 million low-income residents without legal status. Democrat Xavier Becerra and Republican Steve Hilton present starkly different choices as public opinion wavers.",
@@ -9828,175 +9998,5 @@
     "category_slug": "senior-health",
     "date": "2026-06-12T08:15:00+00:00",
     "date_str": "Jun 12, 2026"
-  },
-  {
-    "title": "Trump wants you to know this RFK Jr. aide’s name",
-    "url": "https://www.politico.com/news/2026/06/12/trump-wants-you-to-know-this-rfk-jr-aides-name-00959677",
-    "summary": "Chris Klomp is working to boost morale and deliver results at the Health Department after a year of upheaval.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-12T09:00:00+00:00",
-    "date_str": "Jun 12, 2026"
-  },
-  {
-    "title": "Democrats seek next ObamaCare ahead of midterms amid rising health costs",
-    "url": "https://thehill.com/policy/healthcare/5920779-healthcare-reforms-democratic-momentum/",
-    "summary": "There is growing momentum within the Democratic Party to find its next ObamaCare heading into the midterms, as healthcare costs become more untenable and American anger over affordability persists. Healthcare has consistently ranked as a top issue for voters heading into this year’s midterm elections. June polling from Emerson College found that healthcare ranked in the top five issues for...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-12T10:00:00+00:00",
-    "date_str": "Jun 12, 2026"
-  },
-  {
-    "title": "Abridge Goes Beyond Documentation: 4 Updates",
-    "url": "https://medcitynews.com/2026/06/abridge-clinical-ai/",
-    "summary": "Clinical AI startup Abridge held a New York City event to signal it’s done being thought of as just an AI scribe. The company announced a Nvidia foundation model partnership, an Eli Lilly investment, new capabilities for its platform, and the intent to help mediate the relationship between payers and providers. The post Abridge Goes Beyond Documentation: 4 Updates appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-12T03:29:09+00:00",
-    "date_str": "Jun 12, 2026"
-  },
-  {
-    "title": "Healthcare Leader to CMS on New Medicaid Eligibility Requirements: Give States an Extension",
-    "url": "https://medcitynews.com/2026/06/cms-medicaid-eligibility-leaders/",
-    "summary": "At AHIP 2026, healthcare leaders raised concerns about CMS’ new Medicaid eligibility requirements, with one urging the agency to give states more time to implement them. The post Healthcare Leader to CMS on New Medicaid Eligibility Requirements: Give States an Extension appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-11T22:28:00+00:00",
-    "date_str": "Jun 11, 2026"
-  },
-  {
-    "title": "STAT+: Updated: Tracking RFK Jr.’s promises to remake health in America",
-    "url": "https://www.statnews.com/2026/06/11/rfk-jr-maha-promise-tracker-fact-check/?utm_campaign=rss",
-    "summary": "STAT is tracking goals and promises of Robert F. Kennedy Jr. and his Make America Healthy Again movement — successes, incompletes, and fails.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-12T00:00:00+00:00",
-    "date_str": "Jun 12, 2026"
-  },
-  {
-    "title": "An obesity drug deep-dive, and peptides move mainstream",
-    "url": "https://www.statnews.com/2026/06/11/an-obesity-drug-deep-dive-and-peptides-move-mainstream/?utm_campaign=rss",
-    "summary": "Can any of the new obesity medications in development stand out from the pack? Which company just broke records with its IPO? And will the Food and Drug Administration allow…",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-11T20:26:14+00:00",
-    "date_str": "Jun 11, 2026"
-  },
-  {
-    "title": "Private Medicare Denies Long-Term and Rehab Care at Exceedingly High Rates",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/medicare/121725",
-    "summary": "(MedPage Today) -- An HHS Office of Inspector General (OIG) report found that among 19 Medicare Advantage organizations, the three largest denied prior authorization requests for care in long-term care hospitals (LTCHs) and inpatient rehabilitation...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-11T21:45:58+00:00",
-    "date_str": "Jun 11, 2026"
-  },
-  {
-    "title": "U.S. Puts up $750K to Evacuate Hantavirus Cruise Ship Passenger From Remote Island",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/121722",
-    "summary": "(MedPage Today) -- The Trump administration put up $750,000 to charter a private yacht to evacuate a single American citizen from a remote South Pacific island after she had been aboard a cruise ship at the center of a deadly hantavirus outbreak...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-11T21:06:31+00:00",
-    "date_str": "Jun 11, 2026"
-  },
-  {
-    "title": "Chemo-Free Treatment Effective in Kids With Aggressive Blood Cancer",
-    "url": "https://www.medpagetoday.com/meetingcoverage/eha/121721",
-    "summary": "(MedPage Today) -- A chemotherapy-free regimen was safe and effective in pediatric patients with newly diagnosed acute promyelocytic leukemia (APL), according to results from a prospective study. The 2-year overall survival (OS) rate among all...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-11T20:53:06+00:00",
-    "date_str": "Jun 11, 2026"
-  },
-  {
-    "title": "ADA's 'Streisand Effect'; 'Rashtime' the Musical; RN's Sixth Sense",
-    "url": "https://www.medpagetoday.com/popmedicine/popmedicine/121720",
-    "summary": "(MedPage Today) -- The following contains links to social media websites including Bluesky, X, TikTok, Instagram, Facebook, and LinkedIn. Arghavan Salles, MD, PhD, explained how the \"Streisand effect\" led to skyrocketing engagement with the editorial...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-11T20:44:33+00:00",
-    "date_str": "Jun 11, 2026"
-  },
-  {
-    "title": "Trial: Vitamin K Supplement Curbs Coronary Atherosclerosis",
-    "url": "https://www.medpagetoday.com/cardiology/atherosclerosis/121719",
-    "summary": "(MedPage Today) -- Menaquinone-7 (MK-7) supplementation modestly slowed the progression of coronary artery calcification (CAC) for patients in the placebo-controlled VitaK-CAC trial. Among people with existing chronic coronary atherosclerosis...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-11T20:35:03+00:00",
-    "date_str": "Jun 11, 2026"
-  },
-  {
-    "title": "Healthcare costs poised to jump 9% in 2027 as health plans blame AI adoption, drug prices",
-    "url": "https://www.fiercehealthcare.com/payers/healthcare-costs-poised-jump-9-2027-health-plans-blame-ai-adoption-drug-prices",
-    "summary": "Health plans are projecting the highest medical cost trend in nearly two decades in 2027, with commercial health costs expected to rise 9%, according to a new analysis from PwC.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-12T03:55:13.154834+00:00",
-    "date_str": "Jun 12, 2026"
-  },
-  {
-    "title": "Provider groups file lawsuit against HHS over anti-trans Ryan White funding rules",
-    "url": "https://www.fiercehealthcare.com/providers/provider-groups-file-lawsuit-against-hhs-over-new-ryan-white-funding-rules",
-    "summary": "The new funding requirements mandate recipients of Ryan White funds to not acknowledge the identities of trans patients or use funds for gender-affirming care.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-12T03:55:13.154887+00:00",
-    "date_str": "Jun 12, 2026"
-  },
-  {
-    "title": "Humana to sell off minority stake in end-of-life care provider Gentiva",
-    "url": "https://www.fiercehealthcare.com/payers/humana-sell-minority-stake-end-life-care-provider-gentiva",
-    "summary": "Humana announced this week that it intends to divest its minority stake in Gentiva, the largest provider of end-of-life care in the country.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-12T03:55:13.154919+00:00",
-    "date_str": "Jun 12, 2026"
-  },
-  {
-    "title": "OIG: Frequent MA prior authorization denials for long-term care hospitals, inpatient rehab",
-    "url": "https://www.fiercehealthcare.com/payers/oig-look-ma-prior-authorization-denials-long-term-care-hospitals-inpatient-rehab",
-    "summary": "A new federal watchdog report dings the three largest Medicare Advantage insurers for frequent prior authorization denials for long-term care hospital and inpatient rehabilitation stays. Another found that initial denials among skilled-nursing facilities were near-unanimously overturned.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-12T03:55:13.154951+00:00",
-    "date_str": "Jun 12, 2026"
-  },
-  {
-    "title": "From Medicaid work requirement exemptions to AI safeguards in coverage: New AMA policies from annual meeting",
-    "url": "https://www.fiercehealthcare.com/regulatory/medicaid-work-requirement-exemptions-ai-safeguards-coverage-decisions-look-new-ama",
-    "summary": "The organization released a series of new policy announcements, alongside a new president-elect, at its Annual Meeting of the House of Delegates.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-12T03:55:13.154978+00:00",
-    "date_str": "Jun 12, 2026"
-  },
-  {
-    "title": "Senate defense policy bill excludes IVF provision",
-    "url": "https://thehill.com/policy/healthcare/5920930-senate-defense-bill-excludes-ivf-coverage/",
-    "summary": "The Senate Armed Services Committee rejected a provision in the annual defense policy bill that would have expanded coverage of fertility services for military members and their families, including in vitro fertilization (IVF), according to Sen. Tammy Duckworth (D-Ill.). “All my provision seeks to do is provide our troops with the same access to IVF that all Members of Congress already have. After everything...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-11T22:28:13+00:00",
-    "date_str": "Jun 11, 2026"
   }
 ]
