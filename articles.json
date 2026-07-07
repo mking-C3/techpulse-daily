@@ -1,5 +1,135 @@
 [
   {
+    "title": "Report Highlights Private Equity’s Lesser-Known Strategy: Nonprofit Joint Ventures",
+    "url": "https://medcitynews.com/2026/07/report-highlights-private-equitys-lesser-known-strategy-nonprofit-joint-ventures/",
+    "summary": "A new report finds private equity firms are increasingly using joint ventures with nonprofit health systems to expand in healthcare, prompting calls for greater oversight. The post Report Highlights Private Equity’s Lesser-Known Strategy: Nonprofit Joint Ventures appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-06T22:19:28+00:00",
+    "date_str": "Jul 06, 2026"
+  },
+  {
+    "title": "Why Penn Medicine Is Deploying AI Agents for Patient Intake",
+    "url": "https://medcitynews.com/2026/07/penn-medicine-agentic-ai/",
+    "summary": "Penn Medicine is integrating K Health’s AI-powered patient intake agents into its virtual primary care service. The health system says the goal is to free up time for patient care rather than information-gathering. The post Why Penn Medicine Is Deploying AI Agents for Patient Intake appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-06T20:44:38+00:00",
+    "date_str": "Jul 06, 2026"
+  },
+  {
+    "title": "STAT+: Vertex acquires Crinetics Pharmaceuticals for $10 billion as biotech M&A booms",
+    "url": "https://www.statnews.com/2026/07/06/vertex-acquires-crinetics-pharmaceuticals/?utm_campaign=rss",
+    "summary": "Vertex Pharmaceuticals will spend $10 billion to acquire Crinetics Pharmaceuticals and its drug for a rare endocrine disorder, the companies said.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-06T20:52:29+00:00",
+    "date_str": "Jul 06, 2026"
+  },
+  {
+    "title": "Obamacare rolls shrank dramatically in many states over the past year, new federal data shows",
+    "url": "https://www.statnews.com/2026/07/06/obamacare-rolls-shrank-dramatically-affordable-care-act-states/?utm_campaign=rss",
+    "summary": "States across the country saw steep drops in the number of people covered by the Affordable Care Act over the past year, according to new federal data.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-06T19:58:23+00:00",
+    "date_str": "Jul 06, 2026"
+  },
+  {
+    "title": "What a divorce coach wishes couples knew before ending a marriage",
+    "url": "https://www.npr.org/2026/07/07/nx-s1-5877797/end-marriage-good-terms-divorce",
+    "summary": "Divorce is a tool, not a weapon, says Karen McNenny, author of a new book on the subject. She explains how to end a marriage while protecting your family and your mental health.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-07T02:06:13+00:00",
+    "date_str": "Jul 07, 2026"
+  },
+  {
+    "title": "Get your reading glasses... in the post office",
+    "url": "https://www.npr.org/2026/07/06/nx-s1-5876417/get-your-reading-glasses-in-the-post-office",
+    "summary": "In some towns in India, people working for a non profit approach people who appear to have trouble reading small print to get them hooked up with glasses.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-06T20:37:59+00:00",
+    "date_str": "Jul 06, 2026"
+  },
+  {
+    "title": "Alzheimer's Biomarkers Change After Tuberculosis Vaccination",
+    "url": "https://www.medpagetoday.com/neurology/alzheimersdisease/122069",
+    "summary": "(MedPage Today) -- The bacillus Calmette-Guérin (BCG) vaccine, commonly used against tuberculosis, changed how immune cells behaved and altered markers linked to Alzheimer's disease in a pilot study involving two open-label trials. In a year...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-06T21:29:15+00:00",
+    "date_str": "Jul 06, 2026"
+  },
+  {
+    "title": "Chronically Short Sleep May Lead to Weight Gain in Adults With Heart Risks",
+    "url": "https://www.medpagetoday.com/primarycare/sleepdisorders/122056",
+    "summary": "(MedPage Today) -- Shorter periods of sleep over the long term may lead to weight gain in adults at increased risk for cardiometabolic disease, a pooled analysis of two randomized trials suggested. For adults with elevated cardiometabolic risk...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-06T21:00:00+00:00",
+    "date_str": "Jul 06, 2026"
+  },
+  {
+    "title": "Common Meds Linked to Reduced Immunotherapy Benefit in Lung Cancer Trial",
+    "url": "https://www.medpagetoday.com/hematologyoncology/lungcancer/122068",
+    "summary": "(MedPage Today) -- Exposure to proton pump inhibitors (PPIs) was associated with worse progression-free survival (PFS) and overall survival (OS) in patients with locally advanced non-small cell lung cancer (NSCLC) who were treated with durvalumab...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-06T20:38:16+00:00",
+    "date_str": "Jul 06, 2026"
+  },
+  {
+    "title": "ACA Rolls Shrank Dramatically in Many States Over the Past Year, Federal Data Show",
+    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/122067",
+    "summary": "(MedPage Today) -- States across the country saw steep drops in the number of people covered by the Affordable Care Act (ACA) over the past year, with Ohio and Oklahoma each losing nearly one-third of enrollees, according to new federal data that...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-06T20:34:43+00:00",
+    "date_str": "Jul 06, 2026"
+  },
+  {
+    "title": "Medicare Advantage plans set to rake in $13B in 2026 quality bonus payments",
+    "url": "https://www.fiercehealthcare.com/payers/medicare-advantage-plans-set-rake-13b-2026-quality-bonus-payments",
+    "summary": "The feds are set to pay out at least $13.4 billion in Medicare quality bonus payments this year, up slightly year-over-year and reflecting a rapid escalation in spending over the past decade, a new report shows.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-07T03:18:51.773810+00:00",
+    "date_str": "Jul 07, 2026"
+  },
+  {
+    "title": "Elevance Health sues CMS over MA star ratings recalculations",
+    "url": "https://www.fiercehealthcare.com/payers/elevance-health-sues-cms-over-ma-star-ratings-recalculations",
+    "summary": "Elevance Health is suing the feds over its recent recalculations for the 2026 Medicare Advantage star ratings.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-07T03:18:51.773866+00:00",
+    "date_str": "Jul 07, 2026"
+  },
+  {
+    "title": "When Health System Joint Ventures Need Growth Capital, Don’t Overlook the Bank",
+    "url": "https://www.fiercehealthcare.com/sponsored/when-health-system-joint-ventures-need-growth-capital-dont-overlook-bank",
+    "summary": "Physician joint ventures can unlock growth capital through a bankable holding company. Learn how Provident Bank structures these facilities.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-07T03:18:51.773910+00:00",
+    "date_str": "Jul 07, 2026"
+  },
+  {
     "title": "A $1B Acquisition Gives Novartis a Way to Stand Out in Crowded Area of Cancer",
     "url": "https://medcitynews.com/2026/07/novartis-myricx-acquisition-cancer-nmt-inhibitor-antibody-drug-conjugate-adc-nvs/",
     "summary": "Myricx Bio brings to Novartis antibody drug conjugates with a novel cancer-killing payload called an NMT inhibitor. Novartis says Myricx’s drugs could have advantages over currently available ADCs as well as those still in clinical development. The post A $1B Acquisition Gives Novartis a Way to Stand Out in Crowded Area of Cancer appeared first on MedCity News .",
@@ -9867,136 +9997,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-06-12T15:52:00+00:00",
-    "date_str": "Jun 12, 2026"
-  },
-  {
-    "title": "Abridge partners with Eli Lilly, Nvidia as AI scribe eyes expansion",
-    "url": "https://www.healthcaredive.com/news/abridge-nvidia-eli-lilly-investment-ai-platform-expansion/822783/",
-    "summary": "The company is working with Nvidia to build a foundation model for clinical conversations, and it scored a strategic investment from drugmaker Eli Lilly, Abridge announced during a sweeping keynote Thursday.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-12T14:23:44+00:00",
-    "date_str": "Jun 12, 2026"
-  },
-  {
-    "title": "CMS increases oversight of state Medicaid demonstrations",
-    "url": "https://www.healthcaredive.com/news/cms-increases-oversight-of-state-medicaid-demonstrations/822778/",
-    "summary": "States will have to provide more rigorous financial analyses for their Medicaid demonstrations beginning in 2027, according to new federal guidance.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-12T12:43:08+00:00",
-    "date_str": "Jun 12, 2026"
-  },
-  {
-    "title": "Nvidia, Abridge collaborate to develop healthcare-specific AI model",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/nvidia-abridge-collaborate-develop-healthcare-specific-ai-model",
-    "summary": "Chip giant Nvidia is working with startup Abridge to train a healthcare-specific artificial intelligence foundation model tailored to clinical conversations.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-12T20:10:00.956340+00:00",
-    "date_str": "Jun 12, 2026"
-  },
-  {
-    "title": "Healthcare conferences to put on your calendar for 2026-2027",
-    "url": "https://www.fiercehealthcare.com/special-reports/healthcare-conferences-put-your-calendar-2024-2025",
-    "summary": "Here's our roundup of some of the top events in healthcare scheduled in 2026 and 2027.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-12T20:10:00.956396+00:00",
-    "date_str": "Jun 12, 2026"
-  },
-  {
-    "title": "Mercer survey: Employers eye cost-shifting strategies as health benefit spend rises",
-    "url": "https://www.fiercehealthcare.com/payers/mercer-survey-employers-eye-cost-shifting-strategies-health-benefit-spend-rises",
-    "summary": "As medical costs continue to rise, employers are weighing a return to policies that shift additional expense to workers, according to a new survey.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-12T20:10:00.956427+00:00",
-    "date_str": "Jun 12, 2026"
-  },
-  {
-    "title": "Weekly Rundown: Karias Health launches AI companion; Mount Sinai, Wisp partner to expand PrEP access in NY",
-    "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-karias-health-launches-ai-companion-mount-sinai-wisp-partner-expand-prep",
-    "summary": "Stay up to date on the latest in health tech, digital health and health AI news with this weekly brief.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-12T20:10:00.956456+00:00",
-    "date_str": "Jun 12, 2026"
-  },
-  {
-    "title": "Industry Voices—Why health systems need physicians engaged in IT leadership",
-    "url": "https://www.fiercehealthcare.com/providers/industry-voices-why-health-systems-need-physicians-engaged-it-leadership",
-    "summary": "The next decade of healthcare transformation will be defined by health systems that bring together clinicians, CIOs and IT leaders as true partners in shaping technology, writes Phoenix Children's associate CMIO.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-12T20:10:00.956491+00:00",
-    "date_str": "Jun 12, 2026"
-  },
-  {
-    "title": "MAP: Where have New World screwworm cases been reported in Texas?",
-    "url": "https://thehill.com/policy/healthcare/5918376-map-where-have-new-world-screwworm-cases-been-reported-in-texas/",
-    "summary": "KXAN is keeping track of the number of New World screwworm (NWS) cases across Texas.",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-12T15:09:42+00:00",
-    "date_str": "Jun 12, 2026"
-  },
-  {
-    "title": "Stop Presenting at Health-Tech Buyers — Let Them Drive",
-    "url": "https://medcitynews.com/2026/06/stop-presenting-at-health-tech-buyers-let-them-drive/",
-    "summary": "Winning in health-tech is about giving buyers enough operational clarity, early enough, that they can say yes with confidence rather than saying yes because the alternative is another six months of the same evaluation cycle. The post Stop Presenting at Health-Tech Buyers — Let Them Drive appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-12T13:35:00+00:00",
-    "date_str": "Jun 12, 2026"
-  },
-  {
-    "title": "Reliable Transportation Isn’t a Luxury — It’s an Important Part of Cancer Care",
-    "url": "https://medcitynews.com/2026/06/reliable-transportation-isnt-a-luxury-its-an-important-part-of-cancer-care/",
-    "summary": "Insecurity about transportation can lead to missed appointments and delayed care, and obstacles are more common for cancer patients than for the general population. The post Reliable Transportation Isn’t a Luxury — It’s an Important Part of Cancer Care appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-12T13:28:00+00:00",
-    "date_str": "Jun 12, 2026"
-  },
-  {
-    "title": "Designing Care Environments for Sensory Regulation, Not Just Clinical Efficiency",
-    "url": "https://medcitynews.com/2026/06/designing-care-environments-for-sensory-regulation-not-just-clinical-efficiency/",
-    "summary": "Bright overhead lighting, constant alarms, hard surfaces, and abrupt transitions between spaces can trigger agitation, confusion, and sensory overload. These reactions are not incidental; they directly affect recovery, staff workload, and cost. The post Designing Care Environments for Sensory Regulation, Not Just Clinical Efficiency appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-12T10:17:49+00:00",
-    "date_str": "Jun 12, 2026"
-  },
-  {
-    "title": "STAT+: Prometheus raises $12 billion in capital for artificial engineers",
-    "url": "https://www.statnews.com/2026/06/12/biotech-news-prometheus-raises-12-billion-for-artificial-engineers/?utm_campaign=rss",
-    "summary": "Nonprofit Blood Cancer United acquires cancer drug, Lilly and Nvidia invest in Abridge, and more biotech news",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-12T14:09:35+00:00",
-    "date_str": "Jun 12, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a discontinued cancer drug, a Novo security breach, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/06/12/nonprofit-buys-discontinued-cancer-drug-novo-security-breach/?utm_campaign=rss",
-    "summary": "The nonprofit Blood Cancer United is buying the remaining supplies of a discontinued investigational cancer drug, Luvelta",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-12T13:22:57+00:00",
     "date_str": "Jun 12, 2026"
   }
 ]
