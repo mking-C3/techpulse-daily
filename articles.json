@@ -1,5 +1,205 @@
 [
   {
+    "title": "STAT+: FDA approves Vera Therapeutics kidney disease treatment",
+    "url": "https://www.statnews.com/2026/07/07/vera-therapeutics-kidney-disease-treatment-approval/?utm_campaign=rss",
+    "summary": "The FDA approved a new medicine from the biotech company Vera Therapeutics for patients with a type of chronic autoimmune kidney disease.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-07T16:44:36+00:00",
+    "date_str": "Jul 07, 2026"
+  },
+  {
+    "title": "STAT+: The crumbling employer-based health insurance system",
+    "url": "https://www.statnews.com/2026/07/07/health-policy-news-today-dc-diagnosis-newsletter-john-wilkerson/?utm_campaign=rss",
+    "summary": "Today's D.C. Diagnosis newsletter covers maintaining diversity in drug trials and troubling trends in employer-based health insurance.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-07T15:40:29+00:00",
+    "date_str": "Jul 07, 2026"
+  },
+  {
+    "title": "STAT+: Compass says depression drug has long-lasting benefits",
+    "url": "https://www.statnews.com/2026/07/07/biotech-news-compass-reports-depression-drug-has-long-lasting-benefits/?utm_campaign=rss",
+    "summary": "Vertex makes its largest-ever deal, skyrocketing health insurance costs, and more biotech news from The Readout",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-07T15:04:50+00:00",
+    "date_str": "Jul 07, 2026"
+  },
+  {
+    "title": "STAT+: America’s employer health insurance is decaying",
+    "url": "https://www.statnews.com/2026/07/07/insurance-affordability-crisis-health-care-inc-newsletter/?utm_campaign=rss",
+    "summary": "STAT's Bob Herman examines the under-the-radar crisis brewing in employer-based health insurance.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-07T14:58:06+00:00",
+    "date_str": "Jul 07, 2026"
+  },
+  {
+    "title": "Vitamin C and the Brain; Invisible MS Lesions Revealed; Profound Autism Definition",
+    "url": "https://www.medpagetoday.com/neurology/generalneurology/122085",
+    "summary": "(MedPage Today) -- Plasma vitamin C levels were associated with gray matter structural integrity and default mode network connectivity in a cohort study of older adults. (PLOS ONE) Dual-target, noninvasive stimulation of the striatum and cerebellum...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-07T18:53:16+00:00",
+    "date_str": "Jul 07, 2026"
+  },
+  {
+    "title": "How Patients Feel About AI-Drafted Portal Messages",
+    "url": "https://www.medpagetoday.com/practicemanagement/informationtechnology/122084",
+    "summary": "(MedPage Today) -- Patients care less about whether a message came from a human or artificial intelligence (AI) than the tone, length, and details, investigators in a small study concluded. Patients expressed \"high comfort\" with AI-drafted portal...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-07T18:43:34+00:00",
+    "date_str": "Jul 07, 2026"
+  },
+  {
+    "title": "'Explosive' Diarrhea Clusters: Here's What to Know",
+    "url": "https://www.medpagetoday.com/infectiousdisease/publichealth/122083",
+    "summary": "(MedPage Today) -- At least 18 states are monitoring clusters of cyclosporiasis -- an intestinal illness often characterized by \"explosive\" diarrhea -- and some are reporting far higher numbers than what's typical for this time of year. Michigan...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-07T18:02:09+00:00",
+    "date_str": "Jul 07, 2026"
+  },
+  {
+    "title": "Cardiologist Runs for Mayor; PCSK9 Inhibitor Price Drops; Pregnancy OK After AVR?",
+    "url": "https://www.medpagetoday.com/cardiology/generalcardiology/122082",
+    "summary": "(MedPage Today) -- Cardiologist Lisa Nee, MD -- who was also a former whistleblower at the Hines Veterans Administration hospital -- announced her campaign for mayor of Chicago. (NBC 5) Nearly 935,000 bottles of ivabradine (Corlanor) are under...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-07T17:56:51+00:00",
+    "date_str": "Jul 07, 2026"
+  },
+  {
+    "title": "The Next Wave of ADCs in Metastatic Breast Cancer",
+    "url": "https://www.medpagetoday.com/meetingcoverage/ascofuturefocusmbrca/122079",
+    "summary": "(MedPage Today) -- At the American Society of Clinical Oncology (ASCO) meeting, studies focusing on antibody-drug conjugates (ADCs) across multiple breast cancer subtypes highlighted not only the expanding role of these therapies, but also the...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-07T17:30:12+00:00",
+    "date_str": "Jul 07, 2026"
+  },
+  {
+    "title": "Humanity's Apex Predator Is on the Move. We're Not Ready.",
+    "url": "https://www.medpagetoday.com/opinion/calamities/122078",
+    "summary": "(MedPage Today) -- About 8 months ago, a bug enthusiast on the outskirts of Reykjavik, Iceland wandered into his yard at dusk to survey his latest wine roping haul -- a hobby in which fabric soaked in sweet wine is used to lure insects. Suddenly...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-07T17:24:23+00:00",
+    "date_str": "Jul 07, 2026"
+  },
+  {
+    "title": "Private Equity Makes Deals With Healthcare Nonprofits",
+    "url": "https://www.medpagetoday.com/hospitalbasedmedicine/generalhospitalpractice/122077",
+    "summary": "(MedPage Today) -- Private equity firms are expanding their healthcare reach by forming joint ventures with nonprofit health systems, according to a new report from the Private Equity Stakeholder Project (PESP). It's been well reported that private...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-07T16:23:43+00:00",
+    "date_str": "Jul 07, 2026"
+  },
+  {
+    "title": "Looking Ahead: The Future of Alzheimer's Disease Treatment",
+    "url": "https://www.medpagetoday.com/beyond-diagnosis/alzheimers-disease/122076",
+    "summary": "(MedPage Today) -- In \"Beyond Diagnosis: Alzheimer's Disease,\" Cleveland Clinic behavioral neurologist Jagan Pillai, MD, PhD, and host Glenn Campbell continue their discussion on communicating effectively with patients and families facing a progressive...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-07T15:51:18+00:00",
+    "date_str": "Jul 07, 2026"
+  },
+  {
+    "title": "New Biomarker May Improve Diagnosis of Hypercortisolism",
+    "url": "https://www.medpagetoday.com/meetingcoverage/endovideopearls/122075",
+    "summary": "(MedPage Today) -- At ENDO 2026, the annual meeting of the Endocrine Society, researchers reported that measuring adrenocorticotropic hormone (ACTH) after a 1-mg overnight dexamethasone suppression test (DST) may improve the diagnosis of hypercortisolism...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-07T15:21:21+00:00",
+    "date_str": "Jul 07, 2026"
+  },
+  {
+    "title": "Elderly Woman Survives Deadly Injury",
+    "url": "https://www.medpagetoday.com/casestudies/emergencymedicine/122074",
+    "summary": "(MedPage Today) -- A woman in her 80s presented to the emergency department with a 16-inch flathead screwdriver protruding from the right side of her neck into her thorax. About 4 inches of the screwdriver shaft was visible in the right lower...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-07T15:14:02+00:00",
+    "date_str": "Jul 07, 2026"
+  },
+  {
+    "title": "AdaptHealth discloses patient data was stolen in cyberattack",
+    "url": "https://www.healthcaredive.com/news/adapthealth-discloses-patient-data-was-stolen-in-cyberattack/824601/",
+    "summary": "The medical device supplier said that a threat actor accessed company systems through a social engineering attack.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-07T15:19:06+00:00",
+    "date_str": "Jul 07, 2026"
+  },
+  {
+    "title": "Ascension to buy Tennessee system Williamson Health in $1B deal",
+    "url": "https://www.healthcaredive.com/news/ascension-williamson-health-deal-value-tennessee-hospital/824561/",
+    "summary": "Ascension beat out other offers, including from HCA and Optum, to give Williamson a financial lifeline amid serious challenges facing regional hospital operators. The deal is expected to be final by 2028 at the latest.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-07T13:06:18+00:00",
+    "date_str": "Jul 07, 2026"
+  },
+  {
+    "title": "Private equity may skirt oversight with nonprofit healthcare joint ventures",
+    "url": "https://www.healthcaredive.com/news/private-equity-firms-may-skirt-healthcare-oversight-joint-ventures-nonprofits-pesp/824556/",
+    "summary": "The investment firms are leaning on joint ventures with nonprofits to expand in the healthcare sector, according to a new report from the Private Equity Stakeholder Project.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-07T11:38:50+00:00",
+    "date_str": "Jul 07, 2026"
+  },
+  {
+    "title": "Ascension plans to acquire independent system Williamson Health for nearly $1B",
+    "url": "https://www.fiercehealthcare.com/providers/ascension-plans-acquire-independent-system-williamson-health-nearly-1b",
+    "summary": "The offer unanimously approved by Williamson's board of trustees includes a $700 million price tag and $250 million of capital support over 10 years, beating out other proposals from HCA Healthcare and Optum. The partners are now working on a nonbinding letter of intent for county board approval.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-07T19:53:38.132782+00:00",
+    "date_str": "Jul 07, 2026"
+  },
+  {
+    "title": "Allegheny Health Network acquires Heritage Valley Health System",
+    "url": "https://www.fiercehealthcare.com/hospitals/allegheny-health-network-heritage-valley-health-system-finalize-acquisition",
+    "summary": "The affiliation agreement brings two new hospitals plus 36 physician offices and multi-specialty outpatient facilities to Allegheny Health Network.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-07T19:53:38.132829+00:00",
+    "date_str": "Jul 07, 2026"
+  },
+  {
+    "title": "Number of Americans taking GLP-1s for weight loss hits record high: Survey",
+    "url": "https://thehill.com/policy/healthcare/5957430-glp-1-drugs-weight-loss-rise/",
+    "summary": "A record number of Americans are taking GLP-1 drugs for weight loss, according to a new Gallup survey released Tuesday — a massive increase over the past two years. According to the poll, 11 percent of Americans currently take a GLP-1 medication for weight loss, compared to just 3 percent in 2024. In addition, 15 percent...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-07-07T18:46:32+00:00",
+    "date_str": "Jul 07, 2026"
+  },
+  {
     "title": "The AI Use Case That Healthcare is Overlooking",
     "url": "https://medcitynews.com/2026/07/the-ai-use-case-that-healthcare-is-overlooking/",
     "summary": "AI performs best where a problem is well-defined, data-intensive, repetitive and operates at a scale that exceeds human tracking capacity. The supply chain hits all four. The post The AI Use Case That Healthcare is Overlooking appeared first on MedCity News .",
@@ -9798,205 +9998,5 @@
     "category_slug": "senior-health",
     "date": "2026-06-14T16:00:00+00:00",
     "date_str": "Jun 14, 2026"
-  },
-  {
-    "title": "The Myth of Insurance Networks",
-    "url": "https://medcitynews.com/2026/06/the-myth-of-insurance-networks/",
-    "summary": "How America’s outdated insurance model is failing at its most important job The post The Myth of Insurance Networks appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-14T13:54:00+00:00",
-    "date_str": "Jun 14, 2026"
-  },
-  {
-    "title": "Smoking Cessation’s Quiet Design Failure",
-    "url": "https://medcitynews.com/2026/06/smoking-cessations-quiet-design-failure/",
-    "summary": "The gap between how nicotine use has evolved and how cessation treatment has evolved is a meaningful part of why quit rates have plateaued. The post Smoking Cessation’s Quiet Design Failure appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-14T13:33:00+00:00",
-    "date_str": "Jun 14, 2026"
-  },
-  {
-    "title": "Here's who's missing at the World Cup: Soccer-playing grannies!",
-    "url": "https://www.npr.org/2026/06/14/g-s1-127865/world-cup-soccer-grannies",
-    "summary": "The World Cup isn't the only global soccer event of note. Check out the Grannies International Football Tournament.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-14T11:17:45+00:00",
-    "date_str": "Jun 14, 2026"
-  },
-  {
-    "title": "Want obesity drugs covered by insurance? Telehealth companies have a big say",
-    "url": "https://www.npr.org/2026/06/14/nx-s1-5805984/glp1-telehealth-weight-loss-drugs",
-    "summary": "Telehealth companies offer lifestyle support so people taking obesity drugs can have the most success losing weight. But employers also want the telehealth providers to limit spending on the drugs.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-14T09:00:00+00:00",
-    "date_str": "Jun 14, 2026"
-  },
-  {
-    "title": "GLP-1 and SGLT2 Users Face Different Risk for Diabetic Foot Complication",
-    "url": "https://www.medpagetoday.com/meetingcoverage/endo/121746",
-    "summary": "(MedPage Today) -- CHICAGO -- Use of GLP-1 receptor agonists was tied to significantly lower risks of major diabetic foot complications compared with SGLT2 inhibitors in adults with type 2 diabetes, a large, real-world analysis indicated. Compared...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-13T19:00:00+00:00",
-    "date_str": "Jun 13, 2026"
-  },
-  {
-    "title": "Visceral Fat and Cardiometabolic Risk Factors; Autoantibodies and IBD",
-    "url": "https://www.medpagetoday.com/podcasts/healthwatch/121734",
-    "summary": "(MedPage Today) -- TTHealthWatch is a weekly podcast from Texas Tech. In it, Elizabeth Tracey, director of electronic media for Johns Hopkins Medicine in Baltimore, and Rick Lange, MD, president of Texas Tech Health El Paso, look at the top medical...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-13T18:00:00+00:00",
-    "date_str": "Jun 13, 2026"
-  },
-  {
-    "title": "In Our Dog-Eat-Dog Medical Culture, Physicians Lose",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/121736",
-    "summary": "(MedPage Today) -- For years, physicians have voiced the same frustrations: declining reimbursement, increasing administrative burden, private equity infiltration, insurance company control, expanding scope creep, artificial intelligence (AI) anxiety...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-13T16:00:00+00:00",
-    "date_str": "Jun 13, 2026"
-  },
-  {
-    "title": "FDA's E-Cigarette Authorization: Fruity Vapes Not Better Than Tobacco Ones",
-    "url": "https://www.medpagetoday.com/washington-watch/fdageneral/121724",
-    "summary": "(MedPage Today) -- Fruit-flavored e-cigarettes recently authorized by the FDA were not significantly better at helping smokers quit than tobacco-flavored e-cigarettes, according to a new memo that's likely to stir new questions about the agency...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-13T14:00:00+00:00",
-    "date_str": "Jun 13, 2026"
-  },
-  {
-    "title": "RFK Jr.'s olive branch isn't winning over his staffers",
-    "url": "https://www.politico.com/news/2026/06/13/rfk-jr-changes-approach-toward-staff-00961201",
-    "summary": "But inside the health department, workers say the dysfunction of the DOGE era persists.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-13T16:00:00+00:00",
-    "date_str": "Jun 13, 2026"
-  },
-  {
-    "title": "Journalists Highlight Medical Neglect in ICE Detention, RFK Jr. Antidepressant Comments",
-    "url": "https://kffhealthnews.org/on-air/on-air-june-13-2026-antidepressants-ice-medical-neglect-ebola-world-cup/",
-    "summary": "KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here’s a collection of their appearances.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-13T09:00:00+00:00",
-    "date_str": "Jun 13, 2026"
-  },
-  {
-    "title": "STAT+: FDA approves Sanofi diabetes drug for children with stage 3 diabetes",
-    "url": "https://www.statnews.com/2026/06/13/teplizumab-tzield-sanofi-fda-approval-children-stage-3-diabetes/?utm_campaign=rss",
-    "summary": "The FDA has approved a drug that was previously caught in a dispute between career staff and the political appointee head of the CDER.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-13T13:22:44+00:00",
-    "date_str": "Jun 13, 2026"
-  },
-  {
-    "title": "WHO director-general is profoundly concerned after visit to Ebola outbreak area",
-    "url": "https://www.statnews.com/2026/06/13/who-director-general-in-drc-war-greater-concern-than-ebola/?utm_campaign=rss",
-    "summary": "The director-general of the World Health Organization is profoundly worried about the Ebola outbreak in the DRC, he told STAT in an interview.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-13T13:00:00+00:00",
-    "date_str": "Jun 13, 2026"
-  },
-  {
-    "title": "4 things to know about the new sunscreen ingredient the FDA approved",
-    "url": "https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol",
-    "summary": "The Food and Drug Administration approved a new sunscreen ingredient in the U.S. for the first time in 20 years. It's been used for decades in Europe and Asia.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-13T12:00:00+00:00",
-    "date_str": "Jun 13, 2026"
-  },
-  {
-    "title": "Some quarantined cruise ship passengers push to return home",
-    "url": "https://www.npr.org/2026/06/13/nx-s1-5853598/some-quarantined-cruise-ship-passengers-push-to-return-home",
-    "summary": "Some of the 18 cruise ship passengers in quarantine after a deadly hantavirus outbreak have had a tough time in isolation.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-13T11:39:39+00:00",
-    "date_str": "Jun 13, 2026"
-  },
-  {
-    "title": "A plan to get lifesaving food to hungry kids was working well -- until it wasn't",
-    "url": "https://www.npr.org/2026/06/13/nx-s1-5787791/malnourished-children-senegal-therapeutic-food-plumpynut",
-    "summary": "Through an innovative program, parents in Senegal had easy access to a therapeutic food that's a boon for malnourished kids. Now there are shortages. Health specialists say U.S. aid cuts are to blame.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-13T11:07:38+00:00",
-    "date_str": "Jun 13, 2026"
-  },
-  {
-    "title": "'Cool Ladies Club' is directed by 10 working-class women. They live up to the title",
-    "url": "https://www.npr.org/2026/06/13/g-s1-125467/cool-ladies-club-movies-working-class-women-documentary-india",
-    "summary": "They gave smartphones to 10 women from a working-class Indian community to make a documentary about their unseen and unheralded lives. The results are .... pretty cool.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-13T10:56:45+00:00",
-    "date_str": "Jun 13, 2026"
-  },
-  {
-    "title": "COMIC: How excessive heat kills and how to stay safe",
-    "url": "https://www.npr.org/2026/06/13/g-s1-126350/heat-wave-safety-weather-heatstroke",
-    "summary": "Human bodies have a natural cooling system, but it can do only so much in high temperatures and humidity. Here's the science behind how heat kills. And how to protect yourself.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-13T10:00:00+00:00",
-    "date_str": "Jun 13, 2026"
-  },
-  {
-    "title": "Endocrine Society Issues First Guideline on Central Precocious Puberty",
-    "url": "https://www.medpagetoday.com/meetingcoverage/endo/121737",
-    "summary": "(MedPage Today) -- CHICAGO -- For kids with central precocious puberty (CPP), there shouldn't be a one-size-fits-all approach to testing and treatment, according to a clinical practice guideline from the Endocrine Society. The guideline, the...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-13T13:00:00+00:00",
-    "date_str": "Jun 13, 2026"
-  },
-  {
-    "title": "Talquetamab Regimens Boost Survival in Multiple Myeloma",
-    "url": "https://www.medpagetoday.com/meetingcoverage/eha/121744",
-    "summary": "(MedPage Today) -- Talquetamab (Talvey) plus daratumumab (Darzalex) with or without pomalidomide (Pomalyst) significantly improved survival outcomes over an active regimen for relapsed or refractory multiple myeloma, a phase III trial showed....",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-13T10:00:00+00:00",
-    "date_str": "Jun 13, 2026"
-  },
-  {
-    "title": "Screwworm spread tests US readiness after Trump staffing cuts",
-    "url": "https://thehill.com/policy/healthcare/5922510-screwworm-spread-tests-us-readiness-after-trump-staffing-cuts/",
-    "summary": "The U.S. spent decades driving the New World screwworm far into South America. But now the parasite has reemerged, and officials are working to beat it back yet again using many of the same tried-and-true methods as the government did in the 1950s. Experts have been tracking the path of parasitic fly as it moved steadily northward...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-13T10:00:00+00:00",
-    "date_str": "Jun 13, 2026"
   }
 ]
