@@ -1,5 +1,275 @@
 [
   {
+    "title": "Why the Future of IDR Depends on Smarter Technology",
+    "url": "https://medcitynews.com/2026/07/why-the-future-of-idr-depends-on-smarter-technology/",
+    "summary": "Focusing on fringe cases of abuse misses a more immediate and arguably more pervasive problem: many provider organizations are not getting the access to IDR they’re entitled to because the process is too difficult to navigate effectively at scale. The post Why the Future of IDR Depends on Smarter Technology appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-08T14:20:35+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "STAT+: White House reviewing top contenders to lead FDA",
+    "url": "https://www.statnews.com/2026/07/08/new-fda-commissioner-finalists-under-white-house-review/?utm_campaign=rss",
+    "summary": "The White House is reviewing finalists for FDA commissioner, suggesting the highly anticipated decision may come soon.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-08T18:51:54+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "STAT+: Brigham and Women’s Hospital nurses walk out, beginning largest nurses strike in Massachusetts history",
+    "url": "https://www.statnews.com/2026/07/08/brigham-and-womens-hospital-boston-nurses-strike-largest-massachusetts-history/?utm_campaign=rss",
+    "summary": "The Brigham, a nationally renowned Harvard teaching hospital, and MGB have have unsuccessfully been negotiating a new contract for months.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-08T17:32:07+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "STAT+: In private meeting, Trump officials push to onshore generic drugmaking",
+    "url": "https://www.statnews.com/2026/07/08/trump-officials-want-to-make-generic-medicines-in-the-us/?utm_campaign=rss",
+    "summary": "Marco Rubio, RFK Jr., and Chris Klomp are urging industry leaders to make more medicines in the U.S.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-08T16:44:30+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "Bryan Johnson’s chronic disease is notoriously difficult to diagnose",
+    "url": "https://www.statnews.com/2026/07/08/bryan-johnson-autoimmune-gastritis-diagnosis-explained/?utm_campaign=rss",
+    "summary": "Why longevity entrepreneur Bryan Johnson’s chronic disease is notoriously difficult to diagnose.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-08T16:13:21+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "Affordable Care Act insurers want more premium increases as enrollment sags",
+    "url": "https://www.statnews.com/2026/07/08/affordable-care-act-insurers-premium-increases-enrollment-dips/?utm_campaign=rss",
+    "summary": "For the second year in a row, many Affordable Care Act insurers are proposing double-digit premium increases, driven by rising medical costs as well as federal policy changes.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-08T15:31:21+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "Transplants extended survival for patients whose stage 4 lung cancer hadn’t spread, study says",
+    "url": "https://www.statnews.com/2026/07/08/lung-transplant-advanced-cancer-study-results-ethics-jama/?utm_campaign=rss",
+    "summary": "Lung cancer patients hadn't been seen as candidates for organ transplant. Now a study finds patients did well.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-08T15:00:00+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "STAT+: Europe will accelerate its review of RevMed’s drug",
+    "url": "https://www.statnews.com/2026/07/08/biotech-news-europe-will-accelerate-its-review-of-revmed-cancer-drug/?utm_campaign=rss",
+    "summary": "Kailera's GLP-1 pill data raises concerns, FDA clears Vera autoimmune therapy, and more biotech news from The Readout",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-08T14:24:53+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "Treatment Horizon Expanding for Focal Segmental Glomerulosclerosis",
+    "url": "https://www.medpagetoday.com/spotlight/fsgs/122101",
+    "summary": "(MedPage Today) -- Focal segmental glomerulosclerosis (FSGS), a rare and aggressive kidney disease characterized by scarring of the glomeruli, has no known cure but treatment options are expanding. The progressive disease, which is estimated to...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-08T19:00:09+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "Dendritic Cell Therapy Shows Promise in Early HER2-Positive Breast Cancer",
+    "url": "https://www.medpagetoday.com/meetingcoverage/ascofuturefocusearlybreastcancer/122100",
+    "summary": "(MedPage Today) -- At the American Society of Clinical Oncology (ASCO) meeting, phase II findings suggested that intratumoral dendritic cell therapy combined with HER2-targeted treatment may enhance immune activity and improve pathologic complete...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-08T18:15:52+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "Looking Ahead to the Future of Brain Tumor Imaging and Care",
+    "url": "https://www.medpagetoday.com/meetingcoverage/asnrexpertvideoroundtable/122099",
+    "summary": "(MedPage Today) -- Following the American Society of Neuroradiology meeting, MedPage Today convened three leaders in neuro-oncology and brain tumor imaging for a virtual roundtable discussion on the evolving role of advanced MRI in brain tumor...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-08T18:06:15+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "Private Equity's New AI Push Raises Old Questions for Healthcare",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/122098",
+    "summary": "(MedPage Today) -- Artificial intelligence (AI) is no longer a future issue for healthcare workers. Hospitals, insurers, pharmacy chains, and health technology companies are already rolling out AI tools for documentation, scheduling, workflow management...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-08T16:18:08+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "Ovarian Cancer Frequently Diagnosed Only After Hospital Admission",
+    "url": "https://www.medpagetoday.com/hematologyoncology/ovariancancer/122097",
+    "summary": "(MedPage Today) -- More than 40% of women with ovarian cancer did not have diagnoses until after an emergency hospital admission for symptoms, a study from England found. National registry data showed that 11,377 of 28,204 women had ovarian cancer...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-08T16:04:34+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "COVID Lab Leak Payback; MAGA-MAHA Divorce? Fewer NIH Grants",
+    "url": "https://www.medpagetoday.com/special-reports/features/122096",
+    "summary": "(MedPage Today) -- The Trump administration's COVID lab-leak retribution is in full swing: a flu expert was hauled off by the FBI, a coronavirus researcher was indicted in Detroit, two prominent virologists stepped down or were removed from senior...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-08T15:44:25+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "JAK and IL-23 Inhibitors for Ulcerative Colitis: Making Decisions About Dosage",
+    "url": "https://www.medpagetoday.com/spotlight/ddw-ibd/122095",
+    "summary": "(MedPage Today) -- While JAK and interleukin (IL)-23 inhibitors have rapidly entered routine care for ulcerative colitis (UC), the ideal maintenance doses remain unclear. \"The unresolved question is: Which patient actually needs the higher maintenance...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-08T15:16:41+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "Some Health Workers in Congo's Ebola Outbreak Go on Strike as Deaths Near 600",
+    "url": "https://www.medpagetoday.com/infectiousdisease/ebola/122094",
+    "summary": "(MedPage Today) -- BUNIA, Congo -- The healthcare workers at the epicenter of Congo's Ebola outbreak are walking off their jobs to protest delays in their payments, threatening efforts to slow the outbreak that officials said continues to spread...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-08T15:01:52+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "Giant Cell Arteritis: Are Steroids Overused?",
+    "url": "https://www.medpagetoday.com/rheumatology/generalrheumatology/122092",
+    "summary": "(MedPage Today) -- Patients with giant cell arteritis (GCA) in France were kept on glucocorticoids at worrisome levels that led to clinically significant adverse effects, insurance data indicated. Just looking at patients newly diagnosed in 2022...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-08T14:22:16+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "Hospital Under Investigation; 4,000 Nurses Strike; Fentanyl Makers Pivot to Peptides",
+    "url": "https://www.medpagetoday.com/hospitalbasedmedicine/generalhospitalpractice/122091",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Texas Gov. Greg Abbott (R) called for an investigation into Mission Regional Medical Center, claiming the hospital marketed \"birth packages in South Texas\" to foreign...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-08T13:35:44+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "Physicians’ wearable data use hampered by reimbursement, workflow barriers: survey",
+    "url": "https://www.healthcaredive.com/news/physician-wearable-data-use-hindered-workflow-reimbursement-challenges-american-medical-association/824640/",
+    "summary": "“We have all this data that’s available, but it’s actually not actionable because we don’t have a way to get it into clinical workflow,” said American Medical Associaion CEO Dr. John Whyte.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-08T19:10:00+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "ACA premiums set to spike again in 2027",
+    "url": "https://www.healthcaredive.com/news/affordable-care-act-premium-increase-2027-kff-peterson-center-healthcare/824695/",
+    "summary": "Insurers are proposing a median premium increase of 14% for 2027, according to KFF, suggesting another year of double-digit premium hikes as policy upheaval and rising costs continue to roil the marketplaces.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-08T14:39:07+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "Centene exits Arkansas Medicaid expansion program, citing funding challenges",
+    "url": "https://www.healthcaredive.com/news/centene-exits-arkansas-medicaid-expansion-arhome/824678/",
+    "summary": "ARHOME represents a small portion of Centene’s overall membership and premiums. But the exit represents how insurers are rejigging their businesses in advance of Medicaid work requirements, one analyst said.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-08T13:32:07+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "Mass General Brigham nurses, home care clinicians launch largest healthcare strike in state history",
+    "url": "https://www.fiercehealthcare.com/providers/mass-general-brigham-nurses-home-care-clinicians-launch-largest-healthcare-strike-state",
+    "summary": "Contract disputes will keep about 4,000 Brigham and Women's Hospital nurses off the job for five days, and another 450 home care clinicians on picket lines for a week.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-08T19:23:52.725694+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "ACA plans set for another year of premium spikes, preliminary filings show",
+    "url": "https://www.fiercehealthcare.com/payers/aca-plans-set-another-year-premium-spikes-preliminary-filings-show",
+    "summary": "Plans on the Affordable Care Act's exchanges are set for further premium increases next year, a new report shows.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-08T19:23:52.725751+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "Primary care’s AI moment",
+    "url": "https://www.fiercehealthcare.com/providers/primary-cares-ai-moment",
+    "summary": "Artificial intelligence is here to stay, and physicians should be learning how to use it thoughtfully. That’s the argument Shawn Martin, CEO of the American Academy of Family Physicians, makes in a conversation with Senior Writer Anastassia Gliadkovskaya.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-08T19:23:52.725794+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "Abbott orders Texas officials to investigate hospital over 'birth packages' for foreign nationals",
+    "url": "https://thehill.com/homenews/state-watch/5959235-abbott-texas-birth-tourism/",
+    "summary": "Texas Gov. Greg Abbott (R) directed state officials on Tuesday to “immediately” launch an investigation into a state hospital for allegedly seeking to profit from “birth tourism” practices. Abbott said in a letter to Stephanie Muth, the executive commissioner of the Texas Health and Human Services Commission, that Mission Regional Medical Center has advertised “BIRTH...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-07-08T16:16:38+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "Idaho mom charged with murder after blaming vaccines in death of her twins",
+    "url": "https://thehill.com/homenews/state-watch/5955066-idaho-mom-vaccines-deaths/",
+    "summary": "An Idaho mother who allegedly claimed her twins died after receiving three vaccines has been charged with murder in their deaths, officials said last week.",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-07-08T14:59:00+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "Gene therapy for children with sickle cell disease approved by FDA",
+    "url": "https://thehill.com/policy/healthcare/5958574-fda-approves-gene-therapy-sickle-cell-disease/",
+    "summary": "A new treatment for children aged 2 or older with sickle cell disease has been approved by the U.S. Food & Drug Administration.",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-07-08T14:31:09+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
     "title": "Affordable Care Act Insurers Want More Premium Increases as Enrollment Sags",
     "url": "https://kffhealthnews.org/insurance/priced-out-obamacare-affordable-care-act-aca-premium-increases-peterson-kff/",
     "summary": "Insurers who sell plans in Obamacare marketplaces across 16 states and the District of Columbia have asked regulators to approve a 14% median premium increase for 2027, according to a new Peterson-KFF analysis.",
@@ -9727,276 +9997,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-06-15T21:33:40+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "In High-Risk B-Cell ALL, Swapping Out Chemo for Blinatumomab Improves Outcomes",
-    "url": "https://www.medpagetoday.com/meetingcoverage/eha/121765",
-    "summary": "(MedPage Today) -- Replacing two high-dose chemotherapy courses with blinatumomab (Blincyto) significantly improved event-free survival (EFS) in pediatric patients with newly diagnosed high-risk B-cell acute lymphoblastic leukemia (ALL), an interim...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-15T20:39:14+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "FDA Clears First OTC Continuous Glucose Monitor for Kids",
-    "url": "https://www.medpagetoday.com/endocrinology/diabetes/121753",
-    "summary": "(MedPage Today) -- The FDA cleared the first over-the-counter (OTC) integrated continuous glucose monitor (CGM) for children 2 years and older with or without diabetes, the agency announced on Friday. The Stelo Glucose Biosensor System device...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-15T13:19:46+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "Mitch McConnell Hospitalized; Outbreak Deaths Reach 181; iPhones and Birth Rates",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/121752",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Sen. Mitch McConnell (R-Ky.), age 84, was admitted to the hospital with an undisclosed condition. (The Hill) The CDC alerted about three babies hospitalized with...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-15T13:16:30+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "Medicare Should Pay Docs More, Cut Nursing Home and Home Health Pay, MedPAC Says",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/medicare/121750",
-    "summary": "(MedPage Today) -- The Medicare Physician Fee Schedule should increase each year tied to the rate of medical inflation, while payments for inpatient rehabilitation and home healthcare should be cut, the Medicare Payment Advisory Commission (MedPAC...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-15T13:00:00+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "CRISPR Gene Therapy Slashes Hereditary Angioedema Attacks",
-    "url": "https://www.medpagetoday.com/allergyimmunology/allergy/121751",
-    "summary": "(MedPage Today) -- Novel in vivo CRISPR-based therapy lonvoguran ziclumeran (lonvo-z) dramatically lowered hereditary angioedema (HAE) attack frequency in the HAELO randomized trial. HAE attacks dropped by a relative 87% after the single infusion...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-15T12:59:12+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "Trump admin paying thousands of dollars per month to store ruined USAID contraceptives",
-    "url": "https://thehill.com/policy/healthcare/5925304-expired-contraceptives-trump-storage-costs/",
-    "summary": "Millions of dollars' worth of contraceptives meant to be distributed to low-income nations in Africa have expired, but the Trump administration is paying tens of thousands of dollars a month to keep them in storage in Belgium, according to a report from the U.S. Agency for International Development's (USAID) inspector general. About $9.7 million worth of taxpayer-funded contraceptives purchased by USAID and...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-15T21:21:08+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "Lilly’s Newly Acquired Drug Shows Promise as Next-Gen Blood Cancer Med",
-    "url": "https://medcitynews.com/2026/06/eli-lilly-myelofibrosis-typeii-jak2-inhibitor-ajax-blood-cancer-hematology-eha-lly/",
-    "summary": "Eli Lilly presented encouraging Phase 1 results for AJ1-11095 at the European Hematology Association (EHA) annual meeting in Stockholm. The drug, a type II JAK2 inhibitor in development for myelofibrosis, came from Lilly’s acquisition of biotech startup Ajax Therapeutics. The post Lilly’s Newly Acquired Drug Shows Promise as Next-Gen Blood Cancer Med appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-15T20:39:58+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "Don’t Leave Healthcare’s Greatest Asset Behind on the Road to Interoperability",
-    "url": "https://medcitynews.com/2026/06/dont-leave-healthcares-greatest-asset-behind-on-the-road-to-interoperability/",
-    "summary": "In the push toward a more seamless, digitally enabled future, it’s important we understand exactly how this rush to interoperability may actually harm patients, instead of helping, and what we can do to make sure they keep pace. The post Don’t Leave Healthcare’s Greatest Asset Behind on the Road to Interoperability appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-15T13:54:00+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "Where Healthcare Data Systems Fail and How to Build Them Better",
-    "url": "https://medcitynews.com/2026/06/where-healthcare-data-systems-fail-and-how-to-build-them-better/",
-    "summary": "Once data starts moving across multiple systems, it becomes hard to track unless you’ve been very intentional about it from the start. The post Where Healthcare Data Systems Fail and How to Build Them Better appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-15T13:07:00+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "The FDA Opened the Door For Rare Disease Patients — Here’s What It Takes to Walk Through It",
-    "url": "https://medcitynews.com/2026/06/the-fda-opened-the-door-for-rare-disease-patients-heres-what-it-takes-to-walk-through-it/",
-    "summary": "The Plausible Mechanism Framework is a breakthrough. Turning it into treatments that reach families will take five things the framework doesn’t provide. The post The FDA Opened the Door For Rare Disease Patients — Here’s What It Takes to Walk Through It appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-15T13:05:00+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "STAT+: FDA approves Colorado’s plan to import cheaper drugs from Canada",
-    "url": "https://www.statnews.com/2026/06/15/colorado-drug-imports-canada/?utm_campaign=rss",
-    "summary": "The FDA said it will allow Colorado to import certain prescription drugs from Canada in an effort to bring prices down for residents.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-15T18:19:20+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "STAT+: Trump’s obesity drug plan creates a temporary Medicare program that may be hard to end",
-    "url": "https://www.statnews.com/2026/06/15/medicare-weight-loss-drugs-glp1-bridge-program-may-be-hard-to-end/?utm_campaign=rss",
-    "summary": "After July 1, Medicare will offer GLP-1 weight-loss drugs for $50. It's supposed to be temporary, but chances are it won't be.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-15T15:25:14+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "STAT+: A key European clinical trial registry lacks complete and timely results, an analysis finds",
-    "url": "https://www.statnews.com/pharmalot/2026/06/15/european-clinical-trial-registry-results-analysis/?utm_campaign=rss",
-    "summary": "A new analysis found that results for less than half of the clinical studies registered in a key European database were reported within the required time frame.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-15T15:04:33+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "Covid vaccination cut risk of adverse heart events, large study finds",
-    "url": "https://www.statnews.com/2026/06/15/covid-vaccination-cardiovascular-protection-jama-study/?utm_campaign=rss",
-    "summary": "Covid vaccination was also tied to a nearly 24% reduction in all-cause cardiac events in a large study, surprising researchers.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-15T15:01:52+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "STAT+: Lilly’s Ajax acquisition may have been worth it",
-    "url": "https://www.statnews.com/2026/06/15/biotech-news-lilly-ajax-acquisition-may-have-been-worth-it/?utm_campaign=rss",
-    "summary": "A syphilis drug shortage, Sanofi's diabetes drug approval, and more biotech news from The Readout",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-15T13:36:34+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about Pfizer’s emergency penicillin program, a Sanofi diabetes drug, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/06/15/pfizer-emergency-penicillin-program-sanofi-diabetes-drug/?utm_campaign=rss",
-    "summary": "Pfizer hasn't complied with a request to donate emergency penicillin to state health agencies as a backstop to prevent congenital syphilis",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-15T13:22:46+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "Ticks surge in the Northeast",
-    "url": "https://www.npr.org/2026/06/15/nx-s1-5852101/ticks-surge-in-the-northeast",
-    "summary": "It's prime tick season, especially in the Northeast and Midwest. The prevalence of ticks is changing the way some people in highly affected areas live their lives.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-15T20:48:28+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "Congo Reports Large Daily Jump in Ebola Cases a Month After Outbreak Was Declared",
-    "url": "https://www.medpagetoday.com/infectiousdisease/publichealth/121764",
-    "summary": "(MedPage Today) -- KINSHASA, Congo -- Congolese authorities have reported one of the highest daily increases in Ebola cases in the month-old outbreak as the virus spreads quickly in a remote region whose shifting population challenges efforts...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-15T19:59:54+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "New Type of Maggots Cleared by FDA as Medical Treatment",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/fdageneral/121763",
-    "summary": "(MedPage Today) -- The FDA cleared medical-grade Australian sheep blowfly (Lucilia cuprina) larvae in what maker Cuprina Holdings believes marks the first debridement product to use this particular species. Dubbed Medifly Maggots, the product...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-15T19:42:13+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "Newborn Girls Appear Less Likely to Get Vitamin K, Hepatitis B Shots",
-    "url": "https://www.medpagetoday.com/pediatrics/vaccines/121762",
-    "summary": "(MedPage Today) -- Newborn girls were less likely to receive vitamin K prophylaxis and hepatitis B vaccination than newborn boys, according to a cohort study involving more than 93,000 babies. Female sex was associated with non-receipt of vitamin...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-15T18:15:58+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "Diabetes Patients on Semaglutide Had Fewer Fractures, Study Finds",
-    "url": "https://www.medpagetoday.com/meetingcoverage/endo/121761",
-    "summary": "(MedPage Today) -- CHICAGO -- The GLP-1 receptor agonist semaglutide (Ozempic, Wegovy) was associated with a 15% lower risk for fractures in adults with type 2 diabetes, a review of medical records found. In a matched analysis involving more...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-15T17:57:07+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "Novel Hereditary Angioedema Treatments on the Horizon",
-    "url": "https://www.medpagetoday.com/spotlight/hae/121760",
-    "summary": "(MedPage Today) -- Novel hereditary angioedema (HAE) drugs aim to push treatment and prevention toward more convenient, long-acting agents and gene-editing cures by targeting plasma kallikrein and the contact activation cascade to prevent uncontrolled...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-15T17:52:06+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "'The Pitt' Finale Was 2 Months Ago. We Can't Stop Thinking About This Scene.",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/121758",
-    "summary": "(MedPage Today) -- Watching season two of \"The Pitt,\" we found ourselves pulled into one of the show's quieter moments, when two exhausted trainees sat outside the ambulance bay entrance to the emergency department at the end of a brutal shift...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-15T17:32:23+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "ED Docs Being Replaced by Private Equity-Owned Firm Call It a 'Kick in the Teeth'",
-    "url": "https://www.medpagetoday.com/special-reports/features/121757",
-    "summary": "(MedPage Today) -- Emergency medicine physicians under contract with Valley Health in Winchester, Virginia, said they were blindsided by the news that the health system planned to end their contract and partner with a private-equity owned practice...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-15T17:16:57+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "COVID Shots Tied to Lower Risks of Heart Attack, Cardiac Death",
-    "url": "https://www.medpagetoday.com/infectiousdisease/covid19vaccine/121756",
-    "summary": "(MedPage Today) -- COVID-19 vaccines were associated with a lower risk of major adverse cardiovascular events (MACE), in addition to other outcomes, particularly among older adults, according to three studies. Among over 1 million veterans who...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-15T16:03:29+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "What to Know About Alpha-Gal Syndrome, the Life-Threatening, Tick-Borne Meat Allergy",
-    "url": "https://www.medpagetoday.com/infectiousdisease/publichealth/121755",
-    "summary": "(MedPage Today) -- It's common knowledge that ticks can spread infections that cause serious illnesses, including Lyme disease. Now health officials are trying to raise awareness of a lesser-known problem: alpha-gal syndrome, a life-threatening...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-15T15:23:42+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "Teplizumab Approval Expands to Early Type 1 Diabetes",
-    "url": "https://www.medpagetoday.com/endocrinology/type1diabetes/121754",
-    "summary": "(MedPage Today) -- The FDA expanded the approval of teplizumab (Tzield) to include pediatric patients 8 years and older who have recently been diagnosed with stage 3 type 1 diabetes, the clinical stage where hyperglycemia symptoms emerge and insulin...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-15T14:40:17+00:00",
     "date_str": "Jun 15, 2026"
   }
 ]
