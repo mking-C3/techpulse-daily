@@ -1,5 +1,175 @@
 [
   {
+    "title": "Affordable Care Act Insurers Want More Premium Increases as Enrollment Sags",
+    "url": "https://kffhealthnews.org/insurance/priced-out-obamacare-affordable-care-act-aca-premium-increases-peterson-kff/",
+    "summary": "Insurers who sell plans in Obamacare marketplaces across 16 states and the District of Columbia have asked regulators to approve a 14% median premium increase for 2027, according to a new Peterson-KFF analysis.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-08T09:01:00+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "Patients Face a Thicket of Red Tape Trying To Maintain Consistent Health Coverage",
+    "url": "https://kffhealthnews.org/health-care-costs/priced-out-red-tape-insurance-costs-health-system-plan-switching-disruptions/",
+    "summary": "Many Americans are shopping around for affordable options as the cost of health insurance soars. But some who hope to keep the same doctors and medications face a thicket of red tape and disruption after they switch plans.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-08T09:00:00+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "What Health Systems Miss When Building National Service Lines",
+    "url": "https://medcitynews.com/2026/07/what-health-systems-miss-when-building-national-service-lines/",
+    "summary": "Clinical integration is not achieved through governance structures alone. It depends on whether the organization has developed the operational capabilities required to execute consistently across markets that historically functioned independently. The post What Health Systems Miss When Building National Service Lines appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-08T13:38:00+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "STAT+: Prime Medicine claims victory in dispute over gene-editing technology with Beam Therapeutics",
+    "url": "https://www.statnews.com/2026/07/08/prime-medicine-beam-therapeutics-arbitration-outcome/?utm_campaign=rss",
+    "summary": "Prime Medicine said it had won an arbitration dispute against Beam Therapeutics, a clash that had pitted two well-backed gene-editing companies against each other.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-08T13:52:55+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a Vera kidney drug approval, a U.K. Enhertu pricing deal, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/07/08/fda-approves-vera-kidney-drug-uk-enhertu-pricing-deal/?utm_campaign=rss",
+    "summary": "The FDA approved a kidney disease drug from Vera Therapeutics called Trutakna, to treat IgA nephropathy",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-08T13:11:36+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "Another big premium hike on the horizon",
+    "url": "https://www.statnews.com/2026/07/08/health-news-more-big-premium-hikes-on-the-horizon/?utm_campaign=rss",
+    "summary": "FDA's crackdown on online ketamine retailers, unprecedented health care premium hikes, and more health news from Morning Rounds",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-08T11:43:19+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "STAT+: Trump administration pursues more durable changes to science policy after setbacks in court",
+    "url": "https://www.statnews.com/2026/07/08/trump-research-funding-scientists-see-omb-overreach-control/?utm_campaign=rss",
+    "summary": "The White House has proposed sweeping changes to the bedrock regulation undergirding all federal contracts, empowering the executive branch to direct research, terminate grants, and external scientific reviews.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-08T08:30:00+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "Are glucose monitors a good thing for 2-year-olds? Experts look at risks, benefits",
+    "url": "https://www.statnews.com/2026/07/08/dexcom-stelo-cgm-risk-benefit-otc-glucose-monitoring-children/?utm_campaign=rss",
+    "summary": "The newly approved over-the-counter CGM offers a new approach to tackling childhood obesity but also raises a host of questions.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-08T08:30:00+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "Opinion: The AI licensure debate is missing the point of licensure",
+    "url": "https://www.statnews.com/2026/07/08/licensing-ai-medicine-physician-responsibility/?utm_campaign=rss",
+    "summary": "“AI will reshape medicine. The physicians who answer for the outcome must lead the way it enters patient care,\" write Afnan R. Tariq and Ami Bhatt.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-08T08:30:00+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "Opinion: STAT+: What’s the right role for AI in dementia care?",
+    "url": "https://www.statnews.com/2026/07/08/dementia-care-ai-artificial-intelligence-chatbots/?utm_campaign=rss",
+    "summary": "Three tricky questions about using AI in dementia care.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-08T08:30:00+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "A spirit of resilience helps Venezuelans face healthcare challenges after the quakes",
+    "url": "https://www.npr.org/2026/07/08/g-s1-132410/venezuela-earthquake-healthcare",
+    "summary": "The economic collapse of Venezuela has pushed its healthcare system to the brink. The disaster is now adding to the stress.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-08T11:06:26+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "Trump administration abruptly cancels grants for teen pregnancy prevention",
+    "url": "https://www.npr.org/2026/07/08/nx-s1-5885054/teen-pregnancy-prevention-trump-hhs",
+    "summary": "Health departments, universities and nonprofit grantees had spent months adapting to President Trump's executive orders. They say the funding cut was completely unexpected.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-08T11:00:00+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "What's behind the push to make peptide therapies more readily available",
+    "url": "https://www.npr.org/2026/07/08/nx-s1-5885073/fda-peptides-compounding-pharmacies",
+    "summary": "Marketed for longevity and wellness benefits, the unproven therapies are sold through a grey market online. Compounding pharmacies say they should be able to make them legally to meet demand.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-08T10:00:00+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "Leo Cancer Care secures $65M series D to advance upright radiotherapy system",
+    "url": "https://www.fiercehealthcare.com/health-tech/leo-cancer-care-secures-65m-series-d-advance-upright-radiotherapy-system",
+    "summary": "Medical technology company Leo Cancer Care closed a $65 million series D financing round to scale its radiotherapy solution that uses groundbreaking upright treatment technology.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-08T14:03:24.053883+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "American Heart Association joins social network Roon for medical research collaboration",
+    "url": "https://www.fiercehealthcare.com/health-tech/american-heart-association-joins-social-network-roon-medical-research-collaboration",
+    "summary": "Roon, a physician-only social network, is collaborating with the American Heart Association to integrate its medical research onto the platform to bridge published medical literature with real-time peer discussion.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-08T14:03:24.053937+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "Teladoc Health inks multi-year virtual care deal with National Basketball Players Association",
+    "url": "https://www.fiercehealthcare.com/health-tech/national-basketball-players-association-names-teladoc-health-preferred-virtual-care",
+    "summary": "The partnership gives current and retired NBA players and families preferred access to Teladoc’s virtual care services.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-08T14:03:24.053972+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
+    "title": "ObamaCare premiums poised for another big hike",
+    "url": "https://thehill.com/policy/healthcare/5958559-obamacare-premiums-rise-again/",
+    "summary": "The cost of ObamaCare coverage could shoot up even higher next year as insurers are proposing a median increase of 14 percent, according to an analysis of initial filings from KFF. If the preliminary filings hold, it would mark the second-straight year of double-digit premium increases, putting customers on the hook for thousands of dollars more in...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-07-08T12:04:19+00:00",
+    "date_str": "Jul 08, 2026"
+  },
+  {
     "title": "Healthcare and AI are in Need of Relationship Counseling",
     "url": "https://medcitynews.com/2026/07/healthcare-and-ai-are-in-need-of-relationship-counseling/",
     "summary": "Performing well in controlled settings is only part of the picture, the harder question is whether AI is being integrated into clinical workflows in ways that keep responsibility, authority, and accountability properly aligned. The post Healthcare and AI are in Need of Relationship Counseling appeared first on MedCity News .",
@@ -9827,176 +9997,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-06-15T14:40:17+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "Medicare drug price rule may target under-the-skin cancer immunotherapies",
-    "url": "https://www.healthcaredive.com/news/medicare-drug-price-negotiation-IV-subcutaneous-opdivo-keytruda/822922/",
-    "summary": "For 2029, a federal rule proposes closing a \"loophole\" that protects medicines transitioning from intravenous administration from price protection.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-15T14:07:22+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "Judge vacates most of controversial 2025 ACA enrollment, eligibility rule",
-    "url": "https://www.healthcaredive.com/news/judge-vacates-cms-aca-enrollment-eligibility-rule/822884/",
-    "summary": "Friday’s decision is a victory for insurance advocates. But, given many of the rule’s provisions were codified in the GOP’s “Big Beautiful Bill,” it’s not a panacea for the ACA.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-15T13:19:57+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "Centene offering staff buyouts as is navigates murky ACA waters",
-    "url": "https://www.fiercehealthcare.com/payers/centene-offering-staff-buyouts-navigates-murky-aca-waters",
-    "summary": "Centene will offer buyouts to employees as it navigates a significant membership decline, a spokesperson confirmed to Fierce Healthcare.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-15T20:54:31.642113+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "KFF: Insurer participation in the ACA marketplaces declined from 2025 to 2026",
-    "url": "https://www.fiercehealthcare.com/payers/kff-insurer-participation-aca-marketplaces-declined-2025-2026",
-    "summary": "The number of insurers offering plans on the Affordable Care Act's marketplaces declined between 2025 and 2026, with more payers poised for an exit ahead of the 2027 plan year, according to a new analysis.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-15T20:54:31.642164+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "Judge tosses multiple provisions of CMS' 2025 ACA program integrity rule",
-    "url": "https://www.fiercehealthcare.com/regulatory/judge-tosses-multiple-provisions-cms-2025-aca-program-integrity-rule",
-    "summary": "A federal judge has vacated several key components of a controversial 2025 program integrity rule for the Affordable Care Act's marketplaces.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-15T20:54:31.642195+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "47% of US adults say corporate health insurers ‘primary drivers’ of rising health costs",
-    "url": "https://www.fiercehealthcare.com/finance/47-us-adults-say-corp-health-insurers-are-primary-drivers-rising-health-costs-coalition",
-    "summary": "Though 47% of respondents point the finger at corporate health insurers, respondents also selected the federal government (36%) and drug companies (34%) as primary drivers in rising costs.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-15T20:54:31.642230+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "CMS creates new health tech office to lead interoperability efforts, digital products",
-    "url": "https://www.fiercehealthcare.com/health-tech/cms-creates-new-health-tech-office-lead-interoperability-efforts-digital-products",
-    "summary": "The Centers for Medicare and Medicaid Services (CMS) aims to play a bigger role in health tech modernization efforts, including leading interoperability initiatives.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-15T20:54:31.642259+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "Yale New Haven Health System deploys Rad AI solutions across its network as Microsoft sunsets PowerScribe 360",
-    "url": "https://www.fiercehealthcare.com/health-tech/yale-new-haven-health-system-deploys-rad-ai-solutions-across-its-network-microsoft",
-    "summary": "Yale New Haven Health System is deploying Rad AI solutions across its imaging network, spanning more than 16 outpatient imaging centers and five hospital campuses.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-15T20:54:31.642286+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "Cedar’s voice AI agent has handled nearly 400K patient calls since April 2025 launch",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/cedars-voice-ai-agent-has-handled-nearly-400k-patient-calls-april-2025",
-    "summary": "At Gastro Health, executives report a 24% reduction in live agent handle time since implementing the solution.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-15T20:54:31.642313+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "How transparency is redefining payment integrity",
-    "url": "https://www.fiercehealthcare.com/sponsored/how-transparency-redefining-payment-integrity",
-    "summary": "What rising expectations from health plans reveal about the next era of payment integrity leadership.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-15T20:54:31.642335+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "InStride Health lands $30M series C to expand pediatric mental health services",
-    "url": "https://www.fiercehealthcare.com/health-tech/instride-health-lands-30m-series-c-expand-pediatric-mental-health-services",
-    "summary": "InStride Health, a provider of specialty mental healthcare to children, teens and young adults, landed $30 million in series C funding to fuel its growth as it expands to new markets and broadens its network of payer partners.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-15T20:54:31.642364+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "Why one health system invested in its PBM as GLP-1 costs surged",
-    "url": "https://www.fiercehealthcare.com/sponsored/why-one-health-system-invested-its-pbm-glp-1-costs-surged",
-    "summary": "How RxSense helped a health system invest in its own PBM and take control of rising GLP-1 costs.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-15T20:54:31.642386+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "RFK Jr. demands journal explain removal of vaccine study used to support his childhood immunization changes",
-    "url": "https://thehill.com/policy/healthcare/5924878-kennedy-demands-answers-vaccine-study/",
-    "summary": "Health and Human Services Secretary Robert F. Kennedy Jr. is demanding answers from a science journal on why a study regarding vaccination and sudden infant death was removed from the publication. In a letter dated June 11, Kennedy wrote to Toxicology Reports Editor-in-Chief Lawrence H. Lash concerning a 2021 study titled \"Vaccines and sudden infant...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-15T19:59:55+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "Trump approval in rural America slips to new low: Survey",
-    "url": "https://thehill.com/homenews/administration/5924669-trump-rural-approval-drop/",
-    "summary": "A new Reuters/Ipsos survey found that President Trump’s approval rating among rural Americans has sunk to a new low. The poll, conducted June 3-8, found that 50 percent of respondents from rural areas approved of Trump. In February 2025, 60 percent of respondents to a similar survey approved of the president. Trump’s disapproval rating among...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-15T17:10:32+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "UK bans social media for children under 16",
-    "url": "https://thehill.com/policy/technology/5924508-uk-social-media-ban/",
-    "summary": "The British government is banning access to social media for children under 16, joining just a few countries across the globe trying to protect kids online through a strict age-based restriction on certain applications and platforms. The move, announced Monday by Prime Minister Keir Starmer, makes the United Kingdom the fifth nation to pursue an...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-15T16:40:28+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "Long-Awaited Rule Aims To Boost ACA Choices While Embracing Higher Deductibles",
-    "url": "https://kffhealthnews.org/insurance/affordable-care-act-rule-more-choices-higher-deductibles/",
-    "summary": "The Trump administration finalized a rule that embraces new types of Obamacare coverage, including 30% higher out-of-pocket costs for some plans, and a more novel approach that allows insurers to offer coverage without set networks of doctors and hospitals.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-15T09:00:00+00:00",
-    "date_str": "Jun 15, 2026"
-  },
-  {
-    "title": "They’re Uninsured After Obamacare Became Too Costly. And They’re Far From Alone.",
-    "url": "https://kffhealthnews.org/insurance/uninsured-obamacare-affordable-care-act-aca-canceled-coverage-north-carolina/",
-    "summary": "After congressional Republicans let expanded subsidies for Affordable Care Act plans expire at the end of last year, some families have decided the price is too great of a financial burden and canceled their coverage.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-15T09:00:00+00:00",
     "date_str": "Jun 15, 2026"
   }
 ]
