@@ -1,5 +1,195 @@
 [
   {
+    "title": "Outbreak of diarrhea-causing parasite grows to more than 1,000 cases",
+    "url": "https://www.statnews.com/2026/07/09/cyclospora-outbreak-faq-diarrhea-causing-parasite/?utm_campaign=rss",
+    "summary": "An outbreak of diarrhea-causing parasite has grown to more than 1,000 cases, making it one of the nation’s largest such outbreaks in years.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-09T15:01:27+00:00",
+    "date_str": "Jul 09, 2026"
+  },
+  {
+    "title": "STAT+: ARPA-H launches $160 million effort to develop custom gene editing drugs",
+    "url": "https://www.statnews.com/2026/07/09/arpa-h-160-million-custom-gene-editing-funding-rare-disease/?utm_campaign=rss",
+    "summary": "An ARPA-H program to jump-start custom gene editing treatments was delayed by a change in administrations. Now seven labs will get sizable grants.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-09T15:00:00+00:00",
+    "date_str": "Jul 09, 2026"
+  },
+  {
+    "title": "EPA proposes weakening heavy-duty truck pollution rules",
+    "url": "https://www.npr.org/2026/07/09/nx-s1-5886354/epa-heavy-duty-truck-emissions",
+    "summary": "The Trump EPA calls Biden-era rules for cutting pollution from heavy trucks \"unworkable.\" The proposed changes have been celebrated by trucking groups and denounced by environmental groups.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-09T19:03:41+00:00",
+    "date_str": "Jul 09, 2026"
+  },
+  {
+    "title": "'Solo agers' are a growing group. Changes that would help them could help everyone",
+    "url": "https://www.npr.org/2026/07/09/nx-s1-5886348/solo-agers-demographics-caregiving-family-aging",
+    "summary": "Many older adults navigate aging on their own — without children or a spouse. An expert says this is \"a reality to be supported\" rather than a crisis to be solved.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-09T15:58:19+00:00",
+    "date_str": "Jul 09, 2026"
+  },
+  {
+    "title": "Is Erling Haaland's 6,000-Calorie Diet Healthy?",
+    "url": "https://www.medpagetoday.com/popmedicine/cultureclinic/122123",
+    "summary": "(MedPage Today) -- Welcome to Culture Clinic, MedPage Today's collaboration with Northwell Health to offer a healthcare professional's take on the latest viral medical topics. Norway's World Cup star Erling Braut Haaland reportedly consumes 6...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-09T18:46:47+00:00",
+    "date_str": "Jul 09, 2026"
+  },
+  {
+    "title": "Meet the Doctor for the New York Knicks",
+    "url": "https://www.medpagetoday.com/popmedicine/popmedicine/122122",
+    "summary": "(MedPage Today) -- Welcome to \"Medical Mavericks,\" a series from MedPage Today featuring interviews with healthcare professionals working in unconventional fields of health and medicine. In the wake of the New York Knicks winning the National...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-09T18:44:51+00:00",
+    "date_str": "Jul 09, 2026"
+  },
+  {
+    "title": "Explosive Diarrhea's Nemesis; On Call at Ariana Grande Concert; RN's Netflix Trailer",
+    "url": "https://www.medpagetoday.com/popmedicine/popmedicine/122121",
+    "summary": "(MedPage Today) -- The following contains links to social media websites including Bluesky, X, TikTok, Instagram, Facebook, and LinkedIn. One trick explosive diarrhea doesn't want you to know? Clean your produce. The Illinois Department of Public...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-09T18:10:03+00:00",
+    "date_str": "Jul 09, 2026"
+  },
+  {
+    "title": "Common Drugs Basically Flunk for Long COVID Fatigue",
+    "url": "https://www.medpagetoday.com/infectiousdisease/longcovid/122119",
+    "summary": "(MedPage Today) -- An anti-inflammatory pill and the combination of a heartburn drug and an antihistamine marginally improved severe long COVID fatigue over usual care, and only in the short-term, according to an open-label randomized trial from...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-09T17:49:51+00:00",
+    "date_str": "Jul 09, 2026"
+  },
+  {
+    "title": "How Real-World Data on Bispecifics Could Shape Follicular Lymphoma Practice",
+    "url": "https://www.medpagetoday.com/meetingcoverage/ascofffollicularlymphoma/122118",
+    "summary": "(MedPage Today) -- Real-world data presented at the American Society of Clinical Oncology (ASCO) annual meeting reinforced the effectiveness and safety of bispecific antibodies for relapsed or refractory follicular lymphoma, including in patients...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-09T17:21:09+00:00",
+    "date_str": "Jul 09, 2026"
+  },
+  {
+    "title": "Rubbing Alcohol Injection Suit; Doc Gets 20 Years; Research Beagle Raid Charges",
+    "url": "https://www.medpagetoday.com/special-reports/features/122117",
+    "summary": "(MedPage Today) -- Oregon podiatrist Colin Mizuo, DPM, allegedly injected rubbing alcohol instead of an anesthetic as he removed a woman's toenails, a lawsuit claims. The woman said she suffered significant pain as two toenails were pulled, and...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-09T16:25:43+00:00",
+    "date_str": "Jul 09, 2026"
+  },
+  {
+    "title": "German Doctor Sentenced to Life for Murdering 15 Patients Under Palliative Care",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/ethics/122115",
+    "summary": "(MedPage Today) -- A Berlin court on Wednesday convicted and sentenced a German doctor to life in prison on charges of murdering 15 of his patients who were under palliative care, in a case involving allegations he torched the homes of victims...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-09T14:41:34+00:00",
+    "date_str": "Jul 09, 2026"
+  },
+  {
+    "title": "GLP-1s and Liver Cancer Recurrence; IBS Acupuncture; Transmural Healing in Crohn's",
+    "url": "https://www.medpagetoday.com/gastroenterology/generalgastroenterology/122114",
+    "summary": "(MedPage Today) -- Diabetes patients with hepatocellular carcinoma (HCC) experienced longer time to HCC recurrence and longer survival when they initiated a GLP-1 agonist rather than a DPP-4 inhibitor, a target trial emulation study found. (Gut...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-09T14:17:51+00:00",
+    "date_str": "Jul 09, 2026"
+  },
+  {
+    "title": "'The Pitt' Actors Get Over a Dozen Emmy Nominations",
+    "url": "https://www.medpagetoday.com/emergencymedicine/emergencymedicine/122113",
+    "summary": "(MedPage Today) -- With its ensemble of doctors, nurses, interns, and patients squeezed together into a small emergency department (ED) with scripts that play out in real time, \"The Pitt\" feels like a lab made to grow great performances. The Emmys...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-09T14:06:37+00:00",
+    "date_str": "Jul 09, 2026"
+  },
+  {
+    "title": "Founder of telehealth startup Done sentenced to six years in prison for Adderall fraud scheme",
+    "url": "https://www.fiercehealthcare.com/health-tech/founder-telehealth-startup-done-sentenced-six-years-prison-adderall-fraud-scheme",
+    "summary": "Ruthia He, the founder and former chief executive officer of telehealth startup Done Global, was sentenced to six years in prison on Tuesday and fined $1 million in connection with an Adderall fraud scheme.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-09T19:44:59.601426+00:00",
+    "date_str": "Jul 09, 2026"
+  },
+  {
+    "title": "Former exec alleges Alignment Healthcare leaders juiced profits to boost bonuses",
+    "url": "https://www.fiercehealthcare.com/payers/former-exec-alleges-alignment-healthcare-leaders-juiced-profits-boost-bonuses",
+    "summary": "A former Alignment Healthcare executive has filed a whistleblower suit against the insurer, alleging that its top brass juiced company profits to secure higher bonuses.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-09T19:44:59.601480+00:00",
+    "date_str": "Jul 09, 2026"
+  },
+  {
+    "title": "Frazier Healthcare Partners to acquire MatrixCare in $490M deal",
+    "url": "https://www.fiercehealthcare.com/finance/frazier-healthcare-partners-acquire-matrixcare-490m-deal",
+    "summary": "The healthcare private equity firm will buy MatrixCare for $490 million in an all-cash transaction expected to close during the third quarter of 2026.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-09T19:44:59.601512+00:00",
+    "date_str": "Jul 09, 2026"
+  },
+  {
+    "title": "AI wearables company Vilo launches Signal OS ahead of upcoming smart ring launch",
+    "url": "https://www.fiercehealthcare.com/health-tech/ai-wearables-company-vilo-launches-signal-os-upcoming-smart-ring-launch",
+    "summary": "The goal of the system is to make health data more understandable and less overwhelming for users, Vilo CEO and founder Gee Gu told Fierce Healthcare.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-09T19:44:59.601547+00:00",
+    "date_str": "Jul 09, 2026"
+  },
+  {
+    "title": "Planned Parenthood targets vulnerable Republicans with $47 million midterm push",
+    "url": "https://thehill.com/policy/healthcare/5961357-47m-planned-parenthood-midterms/",
+    "summary": "Planned Parenthood is investing a near-record $47 million into the November midterm elections aiming to unseat the Republicans who voted to cut off the organization from federal funding last year. The \"We Decide\" campaign from Planned Parenthood Votes — an independent Super PAC affiliated with Planned Parenthood — will target ads and voter outreach in...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-07-09T18:34:16+00:00",
+    "date_str": "Jul 09, 2026"
+  },
+  {
+    "title": "Massie: Might as well call ObamaCare 'Trumpcare'",
+    "url": "https://thehill.com/homenews/house/5960829-thomas-massie-republicans-obamacare/",
+    "summary": "Kentucky Rep. Thomas Massie (R) on Wednesday said ObamaCare might as well be renamed “Trumpcare” as premiums increase and Republicans haven’t moved to repeal the Affordable Care Act (ACA). “Might as well call it Trumpcare now. Our party has made no serious effort to repeal Obamacare and legalize affordable health insurance after taking control of...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-07-09T15:38:46+00:00",
+    "date_str": "Jul 09, 2026"
+  },
+  {
     "title": "Menopause Is an Overlooked Driver of Cost in High-Risk Populations",
     "url": "https://medcitynews.com/2026/07/menopause-is-an-overlooked-driver-of-cost-in-high-risk-populations/",
     "summary": "For someone already managing chronic disease, menopause can disrupt stability and complicate treatment plans in ways that aren’t always immediately visible but show up over time in outcomes and utilization. The post Menopause Is an Overlooked Driver of Cost in High-Risk Populations appeared first on MedCity News .",
@@ -9807,196 +9997,6 @@
     "category": "Medicare News",
     "category_slug": "medicare-news",
     "date": "2026-06-16T21:24:49+00:00",
-    "date_str": "Jun 16, 2026"
-  },
-  {
-    "title": "New Cancer Biotech Unveils $27M for Dual-Targeting Prostate Cancer Drug",
-    "url": "https://medcitynews.com/2026/06/prostate-cancer-multivalent-biotherapies-startup-peptide-conjugate-psma-folate-receptor-alpha/",
-    "summary": "MultiValent Biotherapies is developing a peptide-like drug conjugate that hits two validated targets to treat prostate cancer. This clinical-stage asset was licensed from China-based Coherent Biopharma. The post New Cancer Biotech Unveils $27M for Dual-Targeting Prostate Cancer Drug appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-16T21:11:11+00:00",
-    "date_str": "Jun 16, 2026"
-  },
-  {
-    "title": "FDA Staff Weigh In on Potential First mRNA Flu Shot",
-    "url": "https://www.medpagetoday.com/infectiousdisease/uritheflu/121795",
-    "summary": "(MedPage Today) -- Ahead of an advisory committee meeting this week, FDA reviewers raised no serious efficacy or safety concerns about Moderna's mRNA flu vaccine candidate for adults 50 and older, which has the potential to become the first such...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-16T21:45:06+00:00",
-    "date_str": "Jun 16, 2026"
-  },
-  {
-    "title": "RFK Jr. Overrules Experts to Keep Hantavirus Cruise Ship Passenger in Quarantine",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/121794",
-    "summary": "(MedPage Today) -- Health Secretary Robert F. Kennedy Jr. this week refused to release a cruise ship passenger exposed to hantavirus in early May from a quarantine facility in Nebraska -- despite a federal medical review that said there's no...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-16T21:42:04+00:00",
-    "date_str": "Jun 16, 2026"
-  },
-  {
-    "title": "Experts Pan RFK Jr.'s Inquiry Into Removal of Flawed Vaccine Study",
-    "url": "https://www.medpagetoday.com/pediatrics/vaccines/121793",
-    "summary": "(MedPage Today) -- Legal and public health experts expressed concern about HHS Secretary Robert F. Kennedy Jr.'s scrutiny of a medical journal's decision to remove a study that purportedly suggested an increased incidence of sudden infant death...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-16T21:30:40+00:00",
-    "date_str": "Jun 16, 2026"
-  },
-  {
-    "title": "Lifestyle Change in Prediabetes Cuts Risk of Multimorbidity",
-    "url": "https://www.medpagetoday.com/primarycare/preventivecare/121792",
-    "summary": "(MedPage Today) -- Adults with prediabetes randomized to a lifestyle intervention had a significantly lower risk of developing multiple chronic conditions over time compared with a placebo group, a benefit not seen among those assigned to metformin...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-16T21:07:43+00:00",
-    "date_str": "Jun 16, 2026"
-  },
-  {
-    "title": "FDA Alerts on Shortage of Breast Biopsy Needles",
-    "url": "https://www.medpagetoday.com/hematologyoncology/breastcancer/121791",
-    "summary": "(MedPage Today) -- The FDA informed healthcare providers about disruptions in the supply of stereotactic breast biopsy needles that will likely persist through March 2027. According to the agency, the disruption is expected to impact patient care...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-16T21:04:43+00:00",
-    "date_str": "Jun 16, 2026"
-  },
-  {
-    "title": "Hazardous Cheese in Our Golden Age of Food",
-    "url": "https://www.medpagetoday.com/opinion/parasites-and-plagues/121780",
-    "summary": "(MedPage Today) -- Looking back at the cheeses I ate as a kid, I mainly remember bright orange cheddar, monterey jack, and powdery parmesan from a metallic green cylindrical can. And, at parties hosted by my grandparents, rubbery string cheese...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-16T17:13:46+00:00",
-    "date_str": "Jun 16, 2026"
-  },
-  {
-    "title": "IRhythm discloses data stolen from third-party applications in cyberattack",
-    "url": "https://www.healthcaredive.com/news/irhythm-discloses-data-stolen-from-third-party-applications-in-cyberattack/823091/",
-    "summary": "The cardiac monitoring company said that a threat actor has demanded payment in exchange for not publicly releasing the stolen data.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-16T16:42:00+00:00",
-    "date_str": "Jun 16, 2026"
-  },
-  {
-    "title": "CMS proposes Medicare coverage expansion for TAVR",
-    "url": "https://www.healthcaredive.com/news/cms-proposes-medicare-coverage-expansion-for-tavr/823051/",
-    "summary": "The proposed change adds Medicare coverage for beneficiaries with asymptomatic severe aortic valve stenosis who are enrolled in a CMS-approved study.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-16T15:05:16+00:00",
-    "date_str": "Jun 16, 2026"
-  },
-  {
-    "title": "MedPAC offers a look at enrollment hiccups for Medicare beneficiaries",
-    "url": "https://www.fiercehealthcare.com/payers/medpac-offers-look-enrollment-hiccups-medicare-beneficiaries",
-    "summary": "Beneficiaries face a series of complex decisions in enrolling in Medicare coverage. A key federal panel outlines some of the pain points, alongside other policy recommendations and updates for Congress.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-17T04:04:34.571215+00:00",
-    "date_str": "Jun 17, 2026"
-  },
-  {
-    "title": "CMS tightens oversight of accreditation facilities, limits fee-based consulting",
-    "url": "https://www.fiercehealthcare.com/regulatory/cms-tightens-oversight-accreditation-facilities-limits-fee-based-consulting",
-    "summary": "A final rule updates performance reviews, codifies existing requirements and brings new conflict-of-interest protections for the nine organizations that regularly survey and accredit more than 9,000 providers participating in Medicare.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-17T04:04:34.571274+00:00",
-    "date_str": "Jun 17, 2026"
-  },
-  {
-    "title": "FDA approves third over-the-counter opioid overdose nasal spray",
-    "url": "https://thehill.com/policy/healthcare/5927054-fda-naloxone-nasal-spray-rextovy/",
-    "summary": "The Food and Drug Administration (FDA) approved a third over-the-counter version of naloxone nasal spray Tuesday, in a move the agency said could save lives and reduce costs. The agency approved another Rextovy, a 4 milligram naloxone nasal spray for the emergency treatment of opioid overdose. FDA said consumers may directly buy it in pharmacies, convenience stores and online. Naloxone is a...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-16T21:52:24+00:00",
-    "date_str": "Jun 16, 2026"
-  },
-  {
-    "title": "RFK Jr. orders continued hantavirus quarantine of American woman despite CDC advice",
-    "url": "https://thehill.com/policy/healthcare/5926932-passenger-quarantine-hantavirus-cruise/",
-    "summary": "An American passenger exposed to the hantavirus on a cruise ship was ordered to remain in quarantine in Nebraska against her will and despite a federal medical review recommending she could leave. Health Secretary Robert F. Kennedy Jr. signed an updated order Monday to continue keeping Angela Perryman isolated in quarantine at a facility in Nebraska, even though a review from...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-16T21:18:24+00:00",
-    "date_str": "Jun 16, 2026"
-  },
-  {
-    "title": "What’s Flowing Beneath the World Cup: How Verily’s Wastewater Monitoring Could Catch the Next Outbreak",
-    "url": "https://medcitynews.com/2026/06/world-cup-soccer-pathogens-verily-healthcare-disease/",
-    "summary": "Verily is testing wastewater across World Cup host cities for pathogens like RSV, measles and norovirus, aiming to spot outbreaks five to seven days before they show up in clinics. The post What’s Flowing Beneath the World Cup: How Verily’s Wastewater Monitoring Could Catch the Next Outbreak appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-16T18:03:31+00:00",
-    "date_str": "Jun 16, 2026"
-  },
-  {
-    "title": "Winning strategy to prevent diabetes and related chronic diseases",
-    "url": "https://www.npr.org/2026/06/16/nx-s1-5859248/winning-strategy-to-prevent-diabetes-and-related-chronic-diseases",
-    "summary": "In the U.S., 115 million adults have prediabetes, which is tied to heart disease and other health problems. A 20-year follow-up to a landmark diabetes study shows lifestyle interventions cut the risk.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-16T20:21:54+00:00",
-    "date_str": "Jun 16, 2026"
-  },
-  {
-    "title": "Trump further guts Education Dept. by shifting oversight of special ed, civil rights",
-    "url": "https://www.npr.org/2026/06/16/nx-s1-5717030/special-ed-civil-rights-education-department",
-    "summary": "The moves to the federal departments of Health and Human Services and Justice, respectively, would further dismantle an agency that President Donald Trump has vowed to close.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-16T17:04:13+00:00",
-    "date_str": "Jun 16, 2026"
-  },
-  {
-    "title": "AAP Disputes Kennedy's Claim That Vaccine Panel Can't Meet Ahead of Flu Season",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/washington-watch/121790",
-    "summary": "(MedPage Today) -- The American Academy of Pediatrics (AAP) pushed back on HHS Secretary Robert F. Kennedy Jr.'s claims that the CDC's vaccine panel is unable to meet due to a recent ruling in a lawsuit challenging changes to the U.S. childhood...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-16T19:54:57+00:00",
-    "date_str": "Jun 16, 2026"
-  },
-  {
-    "title": "Menopause Experts Release Guidance on Non-Hormone Therapy for Hot Flashes",
-    "url": "https://www.medpagetoday.com/meetingcoverage/endo/121789",
-    "summary": "(MedPage Today) -- CHICAGO -- A multidisciplinary group of menopause experts developed new comorbidity-specific guidance on non-hormone therapy for moderate-to-severe vasomotor symptoms. For patients whose primary menopausal symptoms are hot...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-16T19:48:59+00:00",
-    "date_str": "Jun 16, 2026"
-  },
-  {
-    "title": "Alzheimer's and Psilocybin; Migraine and Driving; What New MS Criteria Reveal",
-    "url": "https://www.medpagetoday.com/neurology/generalneurology/121788",
-    "summary": "(MedPage Today) -- An older Japanese American woman with advanced Alzheimer's disease experienced transient improvements in multiple domains after taking psilocybin-containing mushrooms, according to a case report. (Frontiers in Neuroscience)...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-16T19:28:47+00:00",
     "date_str": "Jun 16, 2026"
   }
 ]
