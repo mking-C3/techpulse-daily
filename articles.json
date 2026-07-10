@@ -1,5 +1,75 @@
 [
   {
+    "title": "A New Option for Long-Term Care Costs",
+    "url": "https://kffhealthnews.org/syndicate/long-term-care-costs-washington-state-payroll-option/",
+    "summary": "Washington state has launched the first program to help cover home care and other supports. Several other states are paying attention.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-10T09:00:00+00:00",
+    "date_str": "Jul 10, 2026"
+  },
+  {
+    "title": "They Harvest the Nation’s Food, but a New Rule May Strip Them of Health Insurance",
+    "url": "https://kffhealthnews.org/insurance/agricultural-workers-medicaid-eligibility-immigration-food-harvest/",
+    "summary": "New Medicaid work requirements could make a complex system even harder for farmworkers to navigate.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-10T09:00:00+00:00",
+    "date_str": "Jul 10, 2026"
+  },
+  {
+    "title": "IKS Health Beefs Up Its Tech Stack with $557M Acquisition of TruBridge",
+    "url": "https://medcitynews.com/2026/07/iks-health-acquisition-trubridge-technology/",
+    "summary": "IKS Health acquired TruBridge for $557 million, folding the rural-hospital-focused EHR and revenue cycle company into its AI-powered care platform. It’s IKS’ third acquisition this year. The post IKS Health Beefs Up Its Tech Stack with $557M Acquisition of TruBridge appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-10T03:13:04+00:00",
+    "date_str": "Jul 10, 2026"
+  },
+  {
+    "title": "STAT+: How a Boston doctor built a following as a ‘loud and unafraid’ voice in the Trump era",
+    "url": "https://www.statnews.com/2026/07/10/jeremy-faust-inside-medicine-trump-era/?utm_campaign=rss",
+    "summary": "Jeremy Faust saves lives in the ER and breaks stories with his Inside Medicine newsletter. He’s also testing the bounds of news reporting.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-10T08:30:00+00:00",
+    "date_str": "Jul 10, 2026"
+  },
+  {
+    "title": "New York boys club has a time-tested recipe to protect members’ mental health",
+    "url": "https://www.statnews.com/2026/07/10/bcny-approach-boys-mental-health-connection-belonging-mentors/?utm_campaign=rss",
+    "summary": "At a time when attention is deservedly being turned to the mental health crisis in boys, the Boys' Club of New York is a shelter from the storm for many…",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-10T08:30:00+00:00",
+    "date_str": "Jul 10, 2026"
+  },
+  {
+    "title": "Opinion: The primary care crisis paradox",
+    "url": "https://www.statnews.com/2026/07/10/primary-care-data-pcps-health-care-crisis-investment/?utm_campaign=rss",
+    "summary": "“Solving the health crisis in the United States will require confronting things far harder than readjusting a fee schedule.”",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-10T08:30:00+00:00",
+    "date_str": "Jul 10, 2026"
+  },
+  {
+    "title": "Ebola death toll reaches 600, as new cases suspected in other parts of Congo",
+    "url": "https://www.npr.org/2026/07/10/g-s1-132930/ebola-outbreak-congo",
+    "summary": "New suspected cases of Ebola have been reported in parts of Congo that were previously unaffected, the government said, signaling the continued spread of the disease beyond the epicenter in Ituri.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-10T06:33:38+00:00",
+    "date_str": "Jul 10, 2026"
+  },
+  {
     "title": "ACA Marketplace Insurers Propose 14% Median Premium Increase in 2027",
     "url": "https://medcitynews.com/2026/07/aca-marketplace-insurers-propose-14-median-premium-increase-in-2027/",
     "summary": "KFF found that ACA Marketplace insurers are proposing a median 14% premium increase for 2027, driven by rising healthcare costs and the expiration of enhanced premium tax credits. The post ACA Marketplace Insurers Propose 14% Median Premium Increase in 2027 appeared first on MedCity News .",
@@ -9927,76 +9997,6 @@
     "category": "Industry News",
     "category_slug": "industry-news",
     "date": "2026-06-17T19:47:34+00:00",
-    "date_str": "Jun 17, 2026"
-  },
-  {
-    "title": "FTC sues leading transgender medical group over pediatric care statements",
-    "url": "https://thehill.com/policy/healthcare/5928714-ftc-sues-wpath-transgender-health/",
-    "summary": "The Federal Trade Commission (FTC) and four states on Wednesday sued the leading medical organization focused on transgender health for allegedly making false and unsubstantiated claims to parents in order to sell pediatric medical transition services. The FTC’s lawsuit against the World Professional Association for Transgender Health (WPATH) is the latest Trump administration effort to target institutions connected to gender-affirming treatment for...",
-    "source": "Health Care News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-17T18:29:09+00:00",
-    "date_str": "Jun 17, 2026"
-  },
-  {
-    "title": "Combined GI Procedures Are Becoming Routine – AI Can Help Address the Gap in Upper GI Quality Standards",
-    "url": "https://medcitynews.com/2026/06/combined-gi-procedures-are-becoming-routine-ai-can-help-address-the-gap-in-upper-gi-quality-standards/",
-    "summary": "Combined upper and lower GI endoscopy is becoming standard practice across many US healthcare settings, but the quality infrastructure for upper GI has not kept pace with the procedures now being performed on it. The post Combined GI Procedures Are Becoming Routine – AI Can Help Address the Gap in Upper GI Quality Standards appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-17T13:53:00+00:00",
-    "date_str": "Jun 17, 2026"
-  },
-  {
-    "title": "The Human Behind the Machine: Why Healthcare Must Resist the Rush To Automate",
-    "url": "https://medcitynews.com/2026/06/the-human-behind-the-machine-why-healthcare-must-resist-the-rush-to-automate/",
-    "summary": "The healthcare organizations getting this right are not defined by how much they’ve automated. They are defined by how deliberately they’ve protected the human touchpoints that drive trust, engagement, and outcomes. The post The Human Behind the Machine: Why Healthcare Must Resist the Rush To Automate appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-17T13:45:00+00:00",
-    "date_str": "Jun 17, 2026"
-  },
-  {
-    "title": "Leveraging Technology to Navigate the New Era of Continuous Organ Distribution",
-    "url": "https://medcitynews.com/2026/06/leveraging-technology-to-navigate-the-new-era-of-continuous-organ-distribution/",
-    "summary": "As air transportation for organs becomes more common, both in response to tech advancements and changing federal guidelines, the industry needs tools that synchronize communication between dispersed teams and can keep pace with air transport. The post Leveraging Technology to Navigate the New Era of Continuous Organ Distribution appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-17T13:04:00+00:00",
-    "date_str": "Jun 17, 2026"
-  },
-  {
-    "title": "STAT+: FDA appears open to Moderna’s flu vaccine ahead of adcomm",
-    "url": "https://www.statnews.com/2026/06/17/biotech-news-fda-appears-open-to-moderna-flu-shot/?utm_campaign=rss",
-    "summary": "UniQure will submit Huntington's therapy for approval, Eli Lilly buys 4E Therapeutics, and more biotech news",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-17T13:34:42+00:00",
-    "date_str": "Jun 17, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about hackers extorting Novo, an FDA about-face, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/06/17/hackers-extorting-novo-fda-about-face-on-uniqure-drug/?utm_campaign=rss",
-    "summary": "A cyber extortion group claimed ​to have stolen more than a terabyte of data from Novo Nordisk and said it is ‌exploring selling some of the data",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-17T13:09:46+00:00",
-    "date_str": "Jun 17, 2026"
-  },
-  {
-    "title": "STAT+: Is Abridge’s ‘patient centered’ claim a bridge too far?",
-    "url": "https://www.statnews.com/2026/06/17/is-scribe-developer-abridge-patient-centered-ai-prognosis/?utm_campaign=rss",
-    "summary": "In this edition of AI Prognosis, Brittany Trang takes a close look at ambient scribe developer Abridge's claim about being patient-centered.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-17T12:01:22+00:00",
     "date_str": "Jun 17, 2026"
   }
 ]
