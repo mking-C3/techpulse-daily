@@ -1,5 +1,225 @@
 [
   {
+    "title": "Facing Funding Losses, States Call Out Big Businesses With Employees on Medicaid",
+    "url": "https://kffhealthnews.org/medicaid/medicaid-work-requirement-big-business-employee-enrollees-states-name-shame/",
+    "summary": "With the federal Medicaid work requirements looming in January, Democrats are considering state legislation to call out big companies that employ workers enrolled in the safety net health program. Business giants such as Amazon and Walmart said the figures are misleading.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-15T09:00:00+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "The Measurement Problem Behind Two Decades of Neurology Trial Failures",
+    "url": "https://medcitynews.com/2026/07/the-measurement-problem-behind-two-decades-of-neurology-trial-failures/",
+    "summary": "The FDA now treats continuous, real-time data sharing as a regulatory direction of travel rather than a theoretical future. The neurology field should pay close attention. The post The Measurement Problem Behind Two Decades of Neurology Trial Failures appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-15T13:25:00+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "Off the Radar: How Unapproved AI Is Complicating Healthcare Cyber Risk",
+    "url": "https://medcitynews.com/2026/07/off-the-radar-how-unapproved-ai-is-complicating-healthcare-cyber-risk/",
+    "summary": "You cannot secure what you cannot see, and right now, healthcare organizations are accumulating hidden cyber liabilities with every keystroke. The post Off the Radar: How Unapproved AI Is Complicating Healthcare Cyber Risk appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-15T13:15:00+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "Payers Who Improve Data Quality Will Define the Next Era of Health Plan Performance",
+    "url": "https://medcitynews.com/2026/07/payers-who-improve-data-quality-will-define-the-next-era-of-health-plan-performance/",
+    "summary": "[Sponsored] On July 22, a webinar sponsored by Verato will spotlight perspectives of executives from Scan Health Plan and the Alliance of Community Health Plans. The post Payers Who Improve Data Quality Will Define the Next Era of Health Plan Performance appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-15T11:30:00+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a Biogen Alzheimer’s drug, skyrocketing 340B drug sales, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/07/15/biogen-alzheimer-drug-skyrocketing-340b-drug-sales/?utm_campaign=rss",
+    "summary": "An Alzheimer’s drug from Biogen slowed cognitive decline in a mid-stage trial at roughly comparable rates as approved medicines",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-15T13:06:40+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "What to know about the parasitic diarrhea outbreak",
+    "url": "https://www.statnews.com/2026/07/15/health-news-what-to-know-about-cyclosporiasis-parasitic-diarrhea/?utm_campaign=rss",
+    "summary": "Fallout from the end of ACA subsidies, the FDA CBER acting director \"on planet Earth,\" and more health news from Morning Rounds",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-15T11:58:15+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "STAT+: Medicare Advantage insurers face new bipartisan scrutiny over AI and care denials",
+    "url": "https://www.statnews.com/2026/07/15/medicare-advantage-ai-care-denials-probe-blumenthal-hawley/?utm_campaign=rss",
+    "summary": "Blumenthal, Hawley press UnitedHealth, Humana, CVS for documents related to using AI to deny or delay care.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-15T09:00:00+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "Flood of comments on White House grantmaking overhaul is largely negative, analysis shows",
+    "url": "https://www.statnews.com/2026/07/15/trump-omb-grant-funding-proposal-comments-95-percent-opposed/?utm_campaign=rss",
+    "summary": "An analysis of public comments on a White House proposal to change the way federal contracts and grants are doled out shows widespread opposition",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-15T08:30:00+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "STAT+: Swing Therapeutics acquired by medical VR platform XR Health",
+    "url": "https://www.statnews.com/2026/07/15/swing-therapeutics-acquired-by-xr-health/?utm_campaign=rss",
+    "summary": "Swing Therapeutics, developer of a digital treatment for fibromyalgia, has been acquired by medical virtual reality company XR Health.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-15T08:30:00+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "Opinion: Why we still don’t know what foods are the source of the cyclospora outbreak",
+    "url": "https://www.statnews.com/2026/07/15/why-cyclospora-source-remains-unknown-epidemiologist-explains/?utm_campaign=rss",
+    "summary": "“You cannot thin a system, defer the tools that would speed it up, and then wonder why the public is left guessing,” writes epidemiologist Katrine Wallace.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-15T08:30:00+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "STAT+: A new biotech startup tries to tackle obesity, but not in the way you might expect",
+    "url": "https://www.statnews.com/2026/07/15/mwyngil-therapeutics-weight-loss-drugs-startup/?utm_campaign=rss",
+    "summary": "A new startup is making a bold move in the world of obesity drug development: It’s not working with the GLP-1 target that has taken the world by storm.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-15T08:30:00+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "STAT+: Under a new leader, the FDA’s biologics center moves to steady itself after stormy chapter",
+    "url": "https://www.statnews.com/2026/07/15/fda-cber-acting-director-karim-mikhail-return-normal-vinay-prasad/?utm_campaign=rss",
+    "summary": "After his predecessor's turbulent tenure, Karim Mikhail is working to restore staff morale and revisit controversial rejections.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-15T08:30:00+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "How to keep cool in this year's extreme summer heat even without air conditioning",
+    "url": "https://www.npr.org/2026/07/15/g-s1-133383/extreme-summer-heat-air-conditioning",
+    "summary": "\"Extreme heat\" is in the forecast this summer. How do people cope if they don't have air conditioning? Here are suggestions from a heat researcher who grew up in a very hot, AC-less place.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-15T11:19:28+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "CDC director nominee Erica Schwartz faces Senate for confirmation hearing",
+    "url": "https://www.npr.org/2026/07/15/nx-s1-5892482/cdc-director-erica-schwartz-senate-confirmation-hearing",
+    "summary": "Trump's nominee faces the Senate health committee for her confirmation hearing on July 15. If confirmed, she will lead an agency dealing with workforce and leadership shortages and new layers of political review.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-15T09:00:00+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "More than 1,600 cases of intestinal illness cyclosporiasis reported in the U.S.",
+    "url": "https://www.npr.org/2026/07/15/nx-s1-5893635/more-than-1-600-cases-of-intestinal-illness-cyclosporiasis-reported-in-the-u-s",
+    "summary": "The CDC has confirmed more than 1,600 cases of a gastrointestinal parasitic infection. More than 140 people have been hospitalized, as the CDC looks for the source.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-15T08:50:03+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "Wheelchair users say lack of competition in repair market leads to long wait times",
+    "url": "https://www.npr.org/2026/07/15/nx-s1-5893492/wheelchair-users-say-lack-of-competition-in-repair-market-leads-to-long-wait-times",
+    "summary": "People who use wheelchairs say simple repairs can take months to complete and replacement parts can be very expensive. In part, they blame two private equity firms that control most of the market.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-15T08:49:42+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "OpenAI’s health AI chief: ‘Bet on the models getting better’",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/openais-health-ai-chief-bet-models-getting-better",
+    "summary": "Fierce Healthcare Executive Editor Heather Landi speaks with Karan Singhal, OpenAI’s health AI chief, about how the company is improving its health capabilities, working with physicians to evaluate model performance and preparing for a future in which AI becomes a “silent background companion” for patients, clinicians and health systems.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-15T13:41:17.080268+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "Full-body scan startup Neko Health scores $700M to break into the U.S. market",
+    "url": "https://www.fiercehealthcare.com/health-tech/full-body-scan-startup-neko-health-scores-700m-break-us-market",
+    "summary": "Tech-enabled preventive health startup Neko Health banked $700 million to break into the U.S. market with plans to open a New York City clinic later this year.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-15T13:41:17.080321+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "Judi Health rebrands PBM arm as Judi Rx, unveils Judi Care unit",
+    "url": "https://www.fiercehealthcare.com/payers/judi-health-rebrands-pbm-arm-judi-rx-unveils-judi-care-unit",
+    "summary": "Judi Health is continuing on its rebranding journey, and announced on Wednesday that its pharmacy benefit management arm will now operate as Judi Rx.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-15T13:41:17.080354+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "Elevance Health's stock slides premarket even as it beats the Street with $1.5B in Q2 profit",
+    "url": "https://www.fiercehealthcare.com/payers/elevance-healths-stock-slides-premarket-even-it-beats-street-15b-q2-profit",
+    "summary": "Elevance Health is kicking off another round of quarterly earnings results for major insurers, posting $1.5 billion in profit for Q2.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-15T13:41:17.080385+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "‘The innocent are paying for it’: Fraud investigations put Minnesota’s care economy in crisis",
+    "url": "https://www.politico.com/news/2026/07/15/medicaid-fraud-minnesota-oz-trump-autism-00993313",
+    "summary": "The Trump administration’s crackdown on Medicaid fraud in Minnesota has upended finances and disrupted access to care.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-15T08:59:00+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "Study shows a blood test can help identify healthy people at high risk for Alzheimer's disease",
+    "url": "https://thehill.com/policy/healthcare/alzheimers-risk-blood-test-study/",
+    "summary": "WASHINGTON (AP) — A blood test may predict if apparently healthy older adults are likely to develop Alzheimer’s symptoms in the next five or 10 years, researchers reported Wednesday. That information could be reassuring or terrifying, but for now it's a potential tool to speed drug development by helping to identify and enroll high-risk people...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-07-15T04:05:19+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
     "title": "How Fairview Health Services Turned Around a $315M Loss",
     "url": "https://medcitynews.com/2026/07/fairview-health-services-hospital-finance/",
     "summary": "Fairview Health Services turned a $315 million annual loss into a nearly $600 million turnaround in just two years. At the AHA Leadership Summit, CEO James Hereford broke down the strategy behind the comeback, from workforce redesign to frontline-driven process fixes. The post How Fairview Health Services Turned Around a $315M Loss appeared first on MedCity News .",
@@ -9777,226 +9997,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-06-22T17:03:35+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "Massage Gun Eye Injury: Retinal Tears, Detachment",
-    "url": "https://www.medpagetoday.com/casestudies/ophthalmology/121865",
-    "summary": "(MedPage Today) -- The rise in popularity of percussive massage guns could carry some hidden dangers for consumers, as a case study of a young student with tired eyes revealed. A patient in his 20s reported experiencing flashing lights and floaters...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-22T16:16:09+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "Hospital margins inched higher in April, but still remain below 2025",
-    "url": "https://www.fiercehealthcare.com/providers/hospital-margins-inched-higher-april-still-remain-below-2025",
-    "summary": "“Mixed performance on key volume indicators, staffing challenges and expense growth” are hammering operations in 2026, and are accompanied by an eroding payer mix, per advisory firm Kaufman Hall.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-22T20:47:04.015538+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "Ensemble Health Partners secures strategic growth investment from Thoreau",
-    "url": "https://www.fiercehealthcare.com/health-tech/ensemble-health-partners-secures-strategic-growth-investment-thoreau",
-    "summary": "Bloomberg reported earlier this month that Thoreau Group was in talks to acquire Ensemble Health Partners in a deal valued at about $12 billion.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-22T20:47:04.015592+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "Flu cases rise to 222 at Texas base in outbreak blamed on Hegseth scrapping of vaccine mandate",
-    "url": "https://thehill.com/policy/healthcare/5934928-influenza-cases-lackland-base/",
-    "summary": "More than 220 troops have contracted influenza at Lackland Air Force Base in Texas, up from 160 reported last week in a major outbreak that comes less than two months after Defense Secretary Pete Hegseth declared that flu vaccinations would no longer be mandatory for service members. Rep. Joaquin Castro (D-Texas), whose district includes Lackland, on Friday...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-22T20:44:30+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "Health officials launch clinical trial reforms to counter China threat",
-    "url": "https://thehill.com/policy/healthcare/5934886-us-china-clinical-trial-competition/",
-    "summary": "The Food and Drug Administration (FDA) on Monday launched a new initiative to speed up early-stage clinical trials as part of an effort to reduce development timelines and reverse a growing trend of companies moving overseas, primarily to China. The pilot program, part of a broader initiative across the Department of Health and Human...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-22T20:24:50+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "Alternative Health Plan Designs Are Reshaping Employer Benefits",
-    "url": "https://medcitynews.com/2026/06/alternative-health-plan-designs-are-reshaping-employer-benefits/",
-    "summary": "Alternative health plan designs represent much more than a passing trend. They are actively testing long-standing assumptions about how benefits should be structured, delivered, and experienced. The post Alternative Health Plan Designs Are Reshaping Employer Benefits appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-22T13:57:00+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "Passive Immunization: The Expanding Role of Monoclonal Antibodies in Preventive Medicine",
-    "url": "https://medcitynews.com/2026/06/passive-immunization-the-expanding-role-of-monoclonal-antibodies-in-preventive-medicine/",
-    "summary": "For governments and health systems, monoclonal antibodies represent not just another drug class, but a strategic shift toward precision prevention. The post Passive Immunization: The Expanding Role of Monoclonal Antibodies in Preventive Medicine appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-22T13:43:00+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "Preparing Healthcare Networks For The Vulnerability Flood",
-    "url": "https://medcitynews.com/2026/06/preparing-healthcare-networks-for-the-vulnerability-flood/",
-    "summary": "We’re entering uncharted territory if bad actors can both launch zero-days and exploit unaddressed backdoors with new efficiency. This is why teams need to unify their network structure and better forecast what they’re up against. The post Preparing Healthcare Networks For The Vulnerability Flood appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-22T13:04:00+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "STAT+: FDA to launch pilot program to speed up early-stage clinical trials",
-    "url": "https://www.statnews.com/2026/06/22/fda-speed-up-early-stage-single-study-clinical-trials/?utm_campaign=rss",
-    "summary": "Federal health officials aim to speed up drug development and better compete with China.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-22T15:48:44+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "Confirmed Ebola cases in Congo outbreak top 1,000 with 254 deaths, authorities say",
-    "url": "https://www.statnews.com/2026/06/22/ebola-congo-1000-cases-254-deaths-civil-war-impedes-search-patient-zero/?utm_campaign=rss",
-    "summary": "Confirmed cases in the Ebola outbreak in eastern Congo have reached 1,003, including 254 deaths, officials said, as tracing those who had been in contact with patients remains a major challenge.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-22T14:27:52+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "STAT+: Another big deal, another sign biotech M&A is back",
-    "url": "https://www.statnews.com/2026/06/22/biotech-news-another-big-deal-another-sign-ma-is-back/?utm_campaign=rss",
-    "summary": "AbbVie buys Apogee Therapeutics, LSD therapy Phase 3 results, and more biotech news from The Readout",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-22T13:21:46+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "STAT+: Despite transplant referrals, most kidney patients don’t make the waitlist",
-    "url": "https://www.statnews.com/2026/06/22/health-news-most-kidney-failure-patients-never-get-transplant/?utm_campaign=rss",
-    "summary": "An NIH grant proposal poses new threats, more cases of a livestock disease in Europe, and more health news from Morning Rounds",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-22T13:03:51+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about another FDA reversal, pharma’s M&A spree and much more",
-    "url": "https://www.statnews.com/pharmalot/2026/06/22/another-fda-reversal-pharma-merger-and-acquisition-spree/?utm_campaign=rss",
-    "summary": "The latest pharma news from the Pharmalot campus via the Pharmalittle newsletter is here",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-22T12:56:48+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "8 things to know about the gut microbiome and keeping yours healthy",
-    "url": "https://www.npr.org/2026/06/22/nx-s1-5863119/gut-microbiome-gut-health",
-    "summary": "Wellness influencers often talk about fixing a broken gut microbiome. And marketers sell tests and supplements to fix your gut health. Here's what what the evidence really shows about gut health.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-22T12:00:00+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "A blood test that screens for multiple types of cancer? It may be available soon",
-    "url": "https://www.npr.org/2026/06/21/nx-s1-5858691/blood-test-multi-cancer-early-detection-mced",
-    "summary": "The FDA could approve the first blood test that can detect multiple cancers, around the end of the year, setting the stage for it to become widely available.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-22T08:51:07+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "Can Monthly Dosing With Novel GLP-1 Maintain Weight Loss?",
-    "url": "https://www.medpagetoday.com/meetingcoverage/adavideopearls/121864",
-    "summary": "(MedPage Today) -- At the American Diabetes Association annual meeting, updated phase II data from the VESPER program showed that patients who achieved weight loss with a weekly dose of the ultra-long-acting investigational GLP-1 agonist berobenatide...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-22T16:00:54+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "Bispecific Antibodies May Reshape Relapsed Follicular Lymphoma Care",
-    "url": "https://www.medpagetoday.com/meetingcoverage/ascofffollicularlymphoma/121863",
-    "summary": "(MedPage Today) -- At the American Society of Clinical Oncology (ASCO) meeting, new subgroup and real-world analyses added to the growing evidence for bispecific antibodies in relapsed follicular lymphoma, while also highlighting practical questions...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-22T15:56:32+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "First-Line Options in HER2-Positive Metastatic Breast Cancer",
-    "url": "https://www.medpagetoday.com/spotlight/asco-metastatic-breast-cancer/121859",
-    "summary": "(MedPage Today) -- The survival outlook for patients with HER2-positive metastatic breast cancer has changed significantly for the better over the last two decades. For example, a European cohort study showed that overall survival (OS) increased...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-22T15:21:35+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "Staggering Amounts of Fentanyl Hit Streets as the DEA Watched and Took No Action",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/opioids/121855",
-    "summary": "(MedPage Today) -- ALBUQUERQUE, N.M. -- Even as it battled the deadliest drug epidemic in American history, the U.S. Drug Enforcement Administration (DEA) permitted hundreds of thousands of fentanyl pills to hit the streets of New Mexico between...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-22T14:56:36+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "Utah Marks a Year of Battling Measles, With No Clear End in Sight",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/121854",
-    "summary": "(MedPage Today) -- Utah has spent the past year fighting measles outbreaks -- a grim milestone that could affect whether the U.S. can keep its measles-free designation. More than 680 people have gotten sick since the state's first outbreak began...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-22T14:23:49+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "Hypertension Drug Recall; Hantavirus Quarantine Ends; Bending Over and Miscarriage",
-    "url": "https://www.medpagetoday.com/cardiology/hypertension/121853",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. More than 11,000 bottles of the hypertension drug chlorthalidone have been recalled over failed dissolution specifications, according to the FDA. (Eating Well)...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-22T13:37:42+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "Health services M&A is active in 2026, but uncertainty slows volume: PwC",
-    "url": "https://www.healthcaredive.com/news/health-services-ma-active-deal-volume-down-reimbusement-uncertainty-pwc/823338/",
-    "summary": "Buyers are being more selective amid heightened policy and reimbursement pressure in healthcare, according to the analysis. Still, deal value is up compared to the first half of 2025.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-22T16:35:00+00:00",
     "date_str": "Jun 22, 2026"
   }
 ]
