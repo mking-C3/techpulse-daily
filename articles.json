@@ -1,5 +1,235 @@
 [
   {
+    "title": "Answers at the Speed of Thought: Healthcare Analytics in the Era of Agentic AI",
+    "url": "https://medcitynews.com/2026/07/answers-at-the-speed-of-thought-healthcare-analytics-in-the-era-of-agentic-ai/",
+    "summary": "We are moving into an era where we can finally converse with our data. We can ask, “Why are denials spiking in Region X?” or “Show me the safety profile of this cohort,” and receive an answer, not a spreadsheet. The post Answers at the Speed of Thought: Healthcare Analytics in the Era of Agentic AI appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-15T14:30:00+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "STAT+: New study untangles how Epstein-Barr viral infection triggers immune response in multiple sclerosis",
+    "url": "https://www.statnews.com/2026/07/15/epstein-barr-virus-immune-response-multiple-sclerosis-new-study/?utm_campaign=rss",
+    "summary": "A new study claims to have uncovered how Epstein-Barr virus launches immune responses seen in people with multiple sclerosis.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-15T18:17:51+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "STAT+: Improvements in Alzheimer’s testing could make diagnostics more accessible, informative",
+    "url": "https://www.statnews.com/2026/07/15/aaic-in-30-alzheimers-treaatments-dementia-conference-diagnostics-treatments/?utm_campaign=rss",
+    "summary": "Alzheimer's research is moving in new directions, finding ways to make testing much more accessible, and offering more nuanced results.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-15T18:08:44+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "Cassidy grills Trump nominee on past vaccine comments in heated exchange",
+    "url": "https://www.statnews.com/2026/07/15/bill-cassidy-sean-kaufman-confirmation-clash-mrna-hepatitis-b-vaccines/?utm_campaign=rss",
+    "summary": "Sean Kaufman, Trump's pick for a key pandemic preparedness role, has questioned vaccines and criticized the CDC.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-15T17:56:52+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "STAT+: Bipartisan lawmakers want to require U.S. to probe reliance on foreign-made drugs, ingredients",
+    "url": "https://www.statnews.com/pharmalot/2026/07/15/bill-would-require-us-probe-reliance-on-foreign-made-drugs-and-ingredients/?utm_campaign=rss",
+    "summary": "A trio of bipartisan lawmakers reintroduced a bill requiring the FTC and Treasury to investigate whether the U.S. relies too heavily on foreign countries as part of its pharmaceutical supply…",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-15T17:26:49+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "STAT+: Elevance plots a Medicaid retreat as costs remain high",
+    "url": "https://www.statnews.com/2026/07/15/elevance-health-shrink-medicaid-portfolio-high-costs/?utm_campaign=rss",
+    "summary": "Elevance Health, the country’s second-biggest health insurer, said it plans to further shrink its Medicaid portfolio in the coming year, just as states roll out work requirements.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-15T17:12:56+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "STAT+: The whistleblower, The Lab, and the fine print",
+    "url": "https://www.statnews.com/2026/07/15/mayo-whistleblower-sutter-abridge-lawsuit-news-ai-prognosis/?utm_campaign=rss",
+    "summary": "In this AI Prognosis news roundup: Mayo's AI whistleblower, Sutter Health's reply to lawsuit over Abridge scribe, and more.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-15T16:28:32+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "STAT+: Glenmark to pay $29.6 million to settle price-fixing allegations in long-running battle with states",
+    "url": "https://www.statnews.com/pharmalot/2026/07/15/glenmark-pay-29-million-settle-price-fixing-allegations/?utm_campaign=rss",
+    "summary": "Glenmark Pharmaceuticals agreed to pay $29.6 million to settle price-fixing allegations in a long-running battle with dozens of states.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-15T16:21:08+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "STAT+: In a major policy shift, Medicare proposes to ban vendors from providing remote monitoring services",
+    "url": "https://www.statnews.com/2026/07/15/cms-proposes-ban-medicare-remote-patient-monitoring-vendors/?utm_campaign=rss",
+    "summary": "Medicare is proposing to ban vendors from providing remote patient monitoring services on behalf of doctors.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-15T15:41:50+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "STAT+: Celcuity’s breast cancer drug approved, its first",
+    "url": "https://www.statnews.com/2026/07/15/biotech-news-celcuity-breast-cancer-drug-approved-in-a-first/?utm_campaign=rss",
+    "summary": "FDA's new CBER chief promises normalcy, an weight loss drug without GLP-1s, and more biotech news from The Readout",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-15T15:09:21+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "Deaths from coronary artery disease have fallen, but more progress is within reach",
+    "url": "https://www.statnews.com/2026/07/15/coronary-artery-disease-progress-prevention-jama-study/?utm_campaign=rss",
+    "summary": "Managing risk factors is the key to further progress in reducing deaths from coronary artery disease, a new study finds.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-15T15:00:00+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "Cancer disparities researchers say federal funding changes have disrupted their work",
+    "url": "https://www.npr.org/2026/07/15/nx-s1-5893653/cancer-disparities-gaps-research-funding-grant-disruptions",
+    "summary": "In a survey, 93% of cancer researchers who study disparities said federal policy changes have affected them. Funding is harder to come by and they worry it's slowing progress in their field.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-15T15:16:35+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "RFK Jr. Wanted Bigger Vax Crackdown; JAMA Letters Retracted; Measles Test Demand",
+    "url": "https://www.medpagetoday.com/special-reports/features/122195",
+    "summary": "(MedPage Today) -- HHS Secretary Robert F. Kennedy Jr. wanted to push even harder against vaccines than what he ultimately put forward as policy. He wanted to spend $5 billion to study the link between vaccines and autism, and completely do away...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-15T15:25:26+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "Cannabis Combination Eased End-of-Life Agitation in Dementia Patients",
+    "url": "https://www.medpagetoday.com/meetingcoverage/aaic/122194",
+    "summary": "(MedPage Today) -- Two active ingredients found in marijuana -- tetrahydrocannabinol (THC) and cannabidiol (CBD) -- led to significantly less agitation in hospice-eligible patients with Alzheimer's disease and other dementias, the phase II...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-15T15:21:19+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "Wildfires Expose Millions in the Midwest and Northeast U.S. to Dangerous Smoke",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/environmentalhealth/122193",
+    "summary": "(MedPage Today) -- Heavy smoke from several large wildfires blazing in Canada and Minnesota is expected to engulf large swaths of the Midwest and Northeast U.S. this week, exposing millions of people to dangerous air pollution. Minnesota officials...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-15T14:41:06+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "New GLP-1 Concern; FDA Sued by Health Groups; Over 750 Dead in Ebola Outbreak",
+    "url": "https://www.medpagetoday.com/infectiousdisease/ebola/122192",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. A preprint study flagged signals of frailty in seniors taking the GLP-1 drug tirzepatide (Zepbound) for weight loss. (Reuters via Yahoo!) The House passed a bill...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-15T13:32:01+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "Judge tosses another No Surprises lawsuit against HaloMD",
+    "url": "https://www.healthcaredive.com/news/judge-dismisses-elevance-no-surprises-lawsuit-georgia-halomd/825327/",
+    "summary": "A federal judge dismissed another lawsuit brought by an Elevance health plan alleging the billings intermediary was gaming the arbitration process set up by the No Surprises Act.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-15T18:20:00+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "Doctor pay to drop in 2027 under proposed Medicare pay rule",
+    "url": "https://www.healthcaredive.com/news/doctor-pay-cut-2027-proposed-physician-pay-rule-cms/825303/",
+    "summary": "Physician groups said the sweeping rule is a double-edged sword, given it includes an unwelcome fee cut but positive changes to Medicare’s value-based and quality payment programs.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-15T15:14:12+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "Elevance shuts down D.C. Medicaid business, eyes additional exits after passable Q2",
+    "url": "https://www.healthcaredive.com/news/elevance-medicaid-exits-q2-2025-2026-earnings-raise/825217/",
+    "summary": "Elevance will leave D.C. this summer and is considering other markets to depart, executives said. The company outperformed Wall Street expectations in the second quarter — but not by much, and its stock fell accordingly.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-15T14:00:00+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "Providence names new chief supply chain officer",
+    "url": "https://www.healthcaredive.com/news/providence-chief-supply-chain-officer-amanda-chawla/825185/",
+    "summary": "Amanda Chawla comes to the Washington-based nonprofit giant from Stanford Medicine. Providence is hoping her appointment will bolster its supply chain capabilities during a time of elevated spend.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-14T15:13:35+00:00",
+    "date_str": "Jul 14, 2026"
+  },
+  {
+    "title": "Cassidy to Trump public health nominee: 'Why would you repeat those damn lies?'",
+    "url": "https://thehill.com/policy/healthcare/5969774-cassidy-slams-kaufman-hepatitis-b-vaccine-post/",
+    "summary": "Sen. Bill Cassidy (R-La.), chair of the Senate Health Committee, grew angry with President Trump's nominee to lead the Administration for Strategic Preparedness and Response (ASPR) during his confirmation hearing on Wednesday over a misleading social media post about the hepatitis B vaccine. Sean Kaufman, Trump's nominee to lead ASPR, appeared before the Senate Committee...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-07-15T17:32:18+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "Hegseth announces annual testosterone screenings for service members",
+    "url": "https://thehill.com/policy/defense/5969935-hegseth-testosterone-testing-dod/",
+    "summary": "Defense Secretary Pete Hegseth on Wednesday announced a new effort to annually screen service members’ testosterone levels and offer testosterone replacement therapy (TRT), framing it as a way to keep troops on the “leading edge of lethality.” The screening, added as part of war fighters’ periodic health assessment, will affect troops age 30 and older,...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-07-15T17:21:12+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
+    "title": "Four states linked to cyclosporiasis outbreak, CDC warns more could be involved",
+    "url": "https://thehill.com/policy/healthcare/5969664-four-states-linked-to-cyclosporiasis-outbreak-cdc-warns-more-could-be-involved/",
+    "summary": "The cause remains under investigation.",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-07-15T16:43:04+00:00",
+    "date_str": "Jul 15, 2026"
+  },
+  {
     "title": "Facing Funding Losses, States Call Out Big Businesses With Employees on Medicaid",
     "url": "https://kffhealthnews.org/medicaid/medicaid-work-requirement-big-business-employee-enrollees-states-name-shame/",
     "summary": "With the federal Medicaid work requirements looming in January, Democrats are considering state legislation to call out big companies that employ workers enrolled in the safety net health program. Business giants such as Amazon and Walmart said the figures are misleading.",
@@ -9768,235 +9998,5 @@
     "category_slug": "medicare-news",
     "date": "2026-06-23T05:53:56+00:00",
     "date_str": "Jun 23, 2026"
-  },
-  {
-    "title": "STAT+: Eli Lilly gave extraordinary obesity drug access to a 79-year-old patient. Who was it?",
-    "url": "https://www.statnews.com/2026/06/23/eli-lilly-unusual-weight-loss-drug-trial-compassionate-use-retatrutide-trump/?utm_campaign=rss",
-    "summary": "Exclusive: STAT has learned that Eli Lilly and the FDA allowed a 79-year-old to gain extraordinary access to an experimental obesity drug through the agency’s “compassionate use” program.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-23T08:30:00+00:00",
-    "date_str": "Jun 23, 2026"
-  },
-  {
-    "title": "STAT+: A sweeping new AI to detect heart conditions is coming to OpenEvidence",
-    "url": "https://www.statnews.com/2026/06/23/pathway-labs-echonext-ai-tool-heart-disease-detection/?utm_campaign=rss",
-    "summary": "EchoNext, a new AI tool cleared by the FDA, will let doctors use an EKG to easily screen patients for structural heart diseases.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-23T08:30:00+00:00",
-    "date_str": "Jun 23, 2026"
-  },
-  {
-    "title": "Opinion: Ending birthright citizenship could be a public health disaster",
-    "url": "https://www.statnews.com/2026/06/23/birthright-citizenship-supreme-court-ruling-public-health/?utm_campaign=rss",
-    "summary": "If the Supreme Court upholds the executive order ending birthright citizenship, it could “have stark consequences at the intersection of bioethics and public health.”",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-23T08:30:00+00:00",
-    "date_str": "Jun 23, 2026"
-  },
-  {
-    "title": "Opinion: The Catch-22 for disabled workers hidden in Medicaid’s new work requirements",
-    "url": "https://www.statnews.com/2026/06/23/medicaid-work-requirements-disability-medically-frail/?utm_campaign=rss",
-    "summary": "“There's a particular cruelty buried in the new Medicaid work requirement rules,” write Maria Town and Nicole Jorwic.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-23T08:30:00+00:00",
-    "date_str": "Jun 23, 2026"
-  },
-  {
-    "title": "Trouble getting weight loss drugs covered by insurance? Here's what to know",
-    "url": "https://www.npr.org/2026/06/23/nx-s1-5793971/weight-loss-glp1-insurance-coverage",
-    "summary": "If your doctor prescribes a GLP-1 medication for weight loss but your insurance won't cover it, you have options.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-23T09:00:00+00:00",
-    "date_str": "Jun 23, 2026"
-  },
-  {
-    "title": "These 'socially responsible' hospitals deliver on quality, value and equity",
-    "url": "https://www.fiercehealthcare.com/providers/these-socially-responsible-hospitals-deliver-quality-value-and-equity",
-    "summary": "The Lown Institute released its latest ranking of the country's 123 most socially responsible acute care hospitals, with additional shoutouts to top-performing critical access hospitals and health systems.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-23T09:37:44.749163+00:00",
-    "date_str": "Jun 23, 2026"
-  },
-  {
-    "title": "Hospitals Cry Foul After Eli Lilly Withholds 340B Discounts",
-    "url": "https://medcitynews.com/2026/06/eli-lilly-340b-hospitals/",
-    "summary": "Eli Lilly made good on its threat to withhold 340B drug discounts from hospitals that refused to submit claims data. Hospital groups are calling the policy unlawful, arguing that the company has no legal authority to create its own compliance requirements for a federal program. The post Hospitals Cry Foul After Eli Lilly Withholds 340B Discounts appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-23T02:23:25+00:00",
-    "date_str": "Jun 23, 2026"
-  },
-  {
-    "title": "Abarca Health and LucyRx to Combine to Scale Independent PBM Model",
-    "url": "https://medcitynews.com/2026/06/abarca-health-and-lucyrx-to-combine-to-scale-independent-pbm-model/",
-    "summary": "Abarca Health and LucyRx plan to combine to build a larger independent PBM serving more than 9 million members. The post Abarca Health and LucyRx to Combine to Scale Independent PBM Model appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-22T23:45:06+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "Trump administration targets disability integration mandate in DOJ memo",
-    "url": "https://www.statnews.com/2026/06/22/doj-memo-targets-disability-integration-olmstead-mandate/?utm_campaign=rss",
-    "summary": "A new memo from the Department of Justice seeks to upend landmark disability laws and court rulings.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-22T22:20:37+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "STAT+: Closely watched Pfizer lung cancer drug falls short in clinical trial",
-    "url": "https://www.statnews.com/2026/06/22/pfizer-lung-cancer-sigvotatug-vedotin/?utm_campaign=rss",
-    "summary": "Pfizer said an experimental drug it hoped could replace a widely used chemotherapy in one of the most common forms of lung cancer fell short in a clinical trial.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-22T21:36:11+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "A look at the science that's been lost on long COVID",
-    "url": "https://www.npr.org/2026/06/22/nx-s1-5859208/a-look-at-the-science-thats-been-lost-on-long-covid",
-    "summary": "Since President Trump took office, hundreds of experts advising on science and research issues have been dismissed. One committee was on long COVID, an issue that doctors are desperate for help with.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-22T20:50:48+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "Patient Portal Messages Have Spiked Since 2020",
-    "url": "https://www.medpagetoday.com/practicemanagement/practicemanagement/121877",
-    "summary": "(MedPage Today) -- Patient portal messaging has surged in recent years, signaling a significant change in the way physicians deliver care, a cross-sectional analysis of electronic health record data showed. In an analysis of national data from...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-22T21:43:44+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "CIN2 Lesions May Not Need Immediate Treatment",
-    "url": "https://www.medpagetoday.com/obgyn/cervicalcancer/121876",
-    "summary": "(MedPage Today) -- Delaying treatment for cervical intraepithelial neoplasia grade 2 (CIN2) wasn't linked to increased cancer risk at 3 years and may reduce unnecessary excisions compared with immediate treatment, an observational emulation target...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-22T21:34:33+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "'Super Movers' Show Signs of Exceptional Brain Aging",
-    "url": "https://www.medpagetoday.com/neurology/dementia/121875",
-    "summary": "(MedPage Today) -- Super movers -- adults 80 and older who walk as fast as people 30 years younger -- had lower risks of cognitive impairment, data from multiple cohorts suggested. Across five cohorts in the Health and Retirement Study International...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-22T21:10:34+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "Multicomponent Test Tops PSA for Clinically Significant Prostate Cancers",
-    "url": "https://www.medpagetoday.com/hematologyoncology/prostatecancer/121874",
-    "summary": "(MedPage Today) -- A multicomponent blood-based biomarker test that combines prostate-specific antigen (PSA) with additional plasma protein biomarkers, a polygenic risk score, and clinical variables identified more clinically significant prostate...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-22T21:00:00+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "Study Flags Overuse of Antibiotics for Diverticulitis",
-    "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/121873",
-    "summary": "(MedPage Today) -- Despite guidelines discouraging antibiotics in many uncomplicated diverticulitis cases, nearly everyone got one in a retrospective cohort study across Department of Veterans Affairs (VA) facilities. Of more than 33,000 outpatient...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-22T21:00:00+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "More Data Back Teclistamab for Autoimmune Disease",
-    "url": "https://www.medpagetoday.com/rheumatology/generalrheumatology/121872",
-    "summary": "(MedPage Today) -- Prospects are growing that an approved, off-the-shelf drug can rescue patients with certain ultra-refractory autoimmune diseases, a pair of new reports suggest. Among 18 patients with various autoimmune conditions treated with...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-22T20:18:27+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "Patient portal messages doubled since 2020, study finds, underscoring challenges to physician workloads",
-    "url": "https://www.fiercehealthcare.com/health-tech/patient-portal-messages-doubled-2020-physicians-try-balance-digital-and-clinical",
-    "summary": "Online portal messages sent to providers more than doubled between 2020 and 2025, but there hasn't been a corresponding drop-off in clinic visits as digital medicine is supplementing rather than replacing in-person care, a new study finds.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-23T03:31:15.466071+00:00",
-    "date_str": "Jun 23, 2026"
-  },
-  {
-    "title": "Federal judge blocks bans on SNAP use for soda",
-    "url": "https://thehill.com/policy/healthcare/5935279-judge-blocks-soda-snap-ban/",
-    "summary": "A federal judge has blocked bans on the usage of the Supplemental Nutrition Assistance Program (SNAP) for soda enacted by the Trump administration. “Congress defined what ‘food’ is supposed to be, and it did not authorize the agency to amend or waive the definition it enacted. It did not authorize the agency to cut types...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-23T00:47:22+00:00",
-    "date_str": "Jun 23, 2026"
-  },
-  {
-    "title": "Trouble getting weight loss drugs covered by insurance? Here's what to know",
-    "url": "https://www.npr.org/2026/06/22/nx-s1-5793971/trouble-getting-weight-loss-drugs-covered-by-insurance-heres-what-to-know",
-    "summary": "What to do if your insurance denies your obesity drug.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-22T20:21:26+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "Lifestyle Treatments as Important as Medications in Managing Obesity in Kids, Teens",
-    "url": "https://www.medpagetoday.com/pediatrics/obesity/121871",
-    "summary": "(MedPage Today) -- Pharmacotherapies paired with lifestyle treatments were linked with the greatest short-term weight reduction in kids and teens with obesity, a systematic review and network meta-analysis showed. Treatment with the GLP-1 receptor...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-22T19:14:59+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "A Way to Successfully Rein in Unnecessary Blood Thinner Use",
-    "url": "https://www.medpagetoday.com/cardiology/generalcardiology/121867",
-    "summary": "(MedPage Today) -- The country's largest integrated health system found a way to clamp down on unnecessary antiplatelet use among patients on direct oral anticoagulants (DOACs). In a quality improvement study, seven health systems within the Veterans...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-22T18:05:41+00:00",
-    "date_str": "Jun 22, 2026"
-  },
-  {
-    "title": "HER2-Positive Breast Cancer and Brain Metastases",
-    "url": "https://www.medpagetoday.com/spotlight/asco-metastatic-breast-cancer/121866",
-    "summary": "(MedPage Today) -- An estimated 20% to 40% of patients with HER2-positive metastatic breast cancer will ultimately develop brain metastases, resulting in poorer odds of survival along with headache, seizure, neurological and cognitive impairment...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-22T17:03:35+00:00",
-    "date_str": "Jun 22, 2026"
   }
 ]
