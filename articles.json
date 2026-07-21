@@ -1,5 +1,195 @@
 [
   {
+    "title": "The Same AI That Helps Patients Is Being Used to Attack Them, Hospital Exec Says",
+    "url": "https://medcitynews.com/2026/07/ai-cybersecurity-hospital/",
+    "summary": "As hospitals increasingly use AI to improve patient care, the same technology is being used by hackers and nation-states to launch faster, more sophisticated attacks. Karen Habercoss, chief information security and privacy officer at the University of Chicago Medicine, explained how her health system is building a governance structure to manage that risk. The post The Same AI That Helps Patients Is Being Used to Attack Them, Hospital Exec Says appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-20T23:19:19+00:00",
+    "date_str": "Jul 20, 2026"
+  },
+  {
+    "title": "How Should Clinical AI Be Paid For? 3 Takeaways",
+    "url": "https://medcitynews.com/2026/07/how-should-clinical-ai-be-paid-for-3-takeaways/",
+    "summary": "A new report from the Peterson Health Technology Institute argues that today’s healthcare payment models are ill-suited for clinical AI and could drive up costs. The post How Should Clinical AI Be Paid For? 3 Takeaways appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-20T22:26:58+00:00",
+    "date_str": "Jul 20, 2026"
+  },
+  {
+    "title": "Expecting Massive Test Growth in Cancer & More, Tempus AI Strikes $1.5B Deal to Buy Personalis",
+    "url": "https://medcitynews.com/2026/07/tempus-ai-personalis-acquisition-cancer-mrd-diagnostics-detection-tem-psnl/",
+    "summary": "Personalis’s liquid biopsy is part of a growing market for minimal residual disease assays, tests that look for any remaining cancer cells after the initial treatment. Tempus AI has been the commercial partner on this Personalis test since 2023. The post Expecting Massive Test Growth in Cancer & More, Tempus AI Strikes $1.5B Deal to Buy Personalis appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-20T21:25:27+00:00",
+    "date_str": "Jul 20, 2026"
+  },
+  {
+    "title": "FDA still focused on lettuce supplier as source of parasite, despite faulty test result",
+    "url": "https://www.statnews.com/2026/07/20/cyclospora-lettuce-tests-continue-restaurant-visits-decline/?utm_campaign=rss",
+    "summary": "The FDA said Monday it is still focused on lettuce from Taylor Farms as the source of a multistate outbreak of a diarrhea-causing parasite, despite a faulty test result.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-20T20:37:59+00:00",
+    "date_str": "Jul 20, 2026"
+  },
+  {
+    "title": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
+    "url": "https://www.npr.org/2026/07/20/nx-s1-5901356/fda-focused-taylor-farms-lettuce-cyclospora-source-despite-retracted-test",
+    "summary": "The FDA says lettuce distributed by Taylor Fresh Foods and Taylor Farms de Mexico is still linked to the multistate outbreak of cyclosporiasis. But the source may be difficult to definitively trace.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-21T00:36:28+00:00",
+    "date_str": "Jul 21, 2026"
+  },
+  {
+    "title": "FDA retracts positive cyclospora test on Taylor Farms lettuce",
+    "url": "https://www.npr.org/2026/07/20/nx-s1-5900880/fda-retracts-positive-cyclospora-test-on-taylor-farms-lettuce",
+    "summary": "The FDA says the test identifying cyclospora in Taylor Farms iceberg lettuce was a \"false positive.\" But the lettuce is still linked epidemiologically to cases of the illness in a multistate outbreak.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-20T20:03:55+00:00",
+    "date_str": "Jul 20, 2026"
+  },
+  {
+    "title": "Novel Antifungal Shows Activity in Valley Fever",
+    "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/122276",
+    "summary": "(MedPage Today) -- An investigational antifungal was associated with clinical improvements in a majority of patients with disseminated coccidioidomycosis (DCM) who failed standard treatments, according to an open-label phase IIb trial. Among 41...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-20T22:15:00+00:00",
+    "date_str": "Jul 20, 2026"
+  },
+  {
+    "title": "American Heart Association Weighs In on Coffee Drinking",
+    "url": "https://www.medpagetoday.com/cardiology/generalcardiology/122275",
+    "summary": "(MedPage Today) -- Caffeine consumption can be safely tolerated in reasonable amounts in most people, according to a review by the American Heart Association (AHA). \"The convergence of evidence from large cohort studies and small randomized controlled...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-20T21:37:43+00:00",
+    "date_str": "Jul 20, 2026"
+  },
+  {
+    "title": "HHS Agency Cuts Dozens of Grants",
+    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/122274",
+    "summary": "(MedPage Today) -- The Agency for Healthcare Research and Quality (AHRQ) cut dozens of grants last week, issuing what appeared to be batch termination notices to researchers. Termination letters shared with MedPage Today and posted online had...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-20T21:32:06+00:00",
+    "date_str": "Jul 20, 2026"
+  },
+  {
+    "title": "Lettuce Supplier Still the Focus in Cyclospora Outbreak, Despite Faulty Test Result",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/fdageneral/122273",
+    "summary": "(MedPage Today) -- Federal health officials said Monday they remain focused on lettuce from Taylor Farms as the source of a multistate outbreak of the diarrhea-causing parasite Cyclospora, despite inaccurate test results that the government briefly...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-20T21:14:27+00:00",
+    "date_str": "Jul 20, 2026"
+  },
+  {
+    "title": "Novel Drug Shows Promise in Crohn's, Ulcerative Colitis",
+    "url": "https://www.medpagetoday.com/gastroenterology/inflammatoryboweldisease/122272",
+    "summary": "(MedPage Today) -- Treatment with investigational duvakitug appeared to improve remission rates among patients with ulcerative colitis and endoscopic response rates in those with Crohn's disease, results from two cohorts of the phase IIb RELIEVE...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-20T21:06:41+00:00",
+    "date_str": "Jul 20, 2026"
+  },
+  {
+    "title": "One Partner's Dementia May Predict the Other's Future Risk",
+    "url": "https://www.medpagetoday.com/neurology/dementia/122271",
+    "summary": "(MedPage Today) -- Spouses of people with dementia had a higher risk of developing dementia themselves, a matched cohort study of nearly 1 million married people in Taiwan showed. Compared with unexposed spouses, both husbands and wives of dementia...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-20T21:00:17+00:00",
+    "date_str": "Jul 20, 2026"
+  },
+  {
+    "title": "CDC's 'Do Not Board' Rule Undermines the Ebola Response",
+    "url": "https://www.medpagetoday.com/opinion/the-health-docket/122270",
+    "summary": "(MedPage Today) -- Having dismantled the U.S. Agency for International Development and decimated the CDC's global health capacities, the Trump administration has resorted to a blunt instrument to protect the American public from the Bundibugyo...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-20T19:44:42+00:00",
+    "date_str": "Jul 20, 2026"
+  },
+  {
+    "title": "Troubling Findings in Study of GLP-1 Compounders",
+    "url": "https://www.medpagetoday.com/primarycare/obesity/122269",
+    "summary": "(MedPage Today) -- The market for compounded GLP-1 drugs remained robust despite the end of semaglutide (Ozempic, Wegovy) and tirzepatide (Mounjaro, Zepbound) shortages, with many facilities adding ingredients like B vitamins and some operating...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-20T19:04:29+00:00",
+    "date_str": "Jul 20, 2026"
+  },
+  {
+    "title": "Clinic and physician practice bankruptcies spike in 2026 so far",
+    "url": "https://www.healthcaredive.com/news/healthcare-bankruptcies-stabilize-first-half-2026-gibbins-advisors/825676/",
+    "summary": "Looming financial pressures in the healthcare sector, including cuts to Medicaid, are contributing to the rising rate of bankruptcies, according to the report by Gibbins Advisors.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-20T17:54:01+00:00",
+    "date_str": "Jul 20, 2026"
+  },
+  {
+    "title": "DHS decouples duration of some visas from training program length",
+    "url": "https://www.fiercehealthcare.com/providers/trump-administration-decouples-visa-duration-training-program-length",
+    "summary": "About one in 10 physicians in a residency or fellowship program are sponsored under a J visa. Many training programs run longer than the new rule's four-year cap, thereby requiring students to apply for an Extension of Stay with the government.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-21T02:35:30.457053+00:00",
+    "date_str": "Jul 21, 2026"
+  },
+  {
+    "title": "Healthcare bankruptcy volume 'stabilizes' in H1, though more practices are falling under",
+    "url": "https://www.fiercehealthcare.com/finance/healthcare-bankruptcy-volume-stabilizes-h1-though-more-practices-are-falling-under",
+    "summary": "Quarterly bankruptcy filings appear to be leveling out after years of volatility, which \"is surprising considering the on-the-ground pressures we see operators facing every day,\" a Gibbins Advisors principal said.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-21T02:35:30.457110+00:00",
+    "date_str": "Jul 21, 2026"
+  },
+  {
+    "title": "AI emerges as top healthcare IT investment globally, KLAS finds",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/57-global-healthcare-orgs-top-it-priority-ai-klas-report",
+    "summary": "AI was named the top global healthcare IT investment priority among 57% of respondents, followed by EHRs and digitalization.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-21T02:35:30.457142+00:00",
+    "date_str": "Jul 21, 2026"
+  },
+  {
+    "title": "Healthcare affordability, fraud are key issues for voters heading into 2026 midterms",
+    "url": "https://www.fiercehealthcare.com/regulatory/healthcare-affordability-key-issue-voters-heading-2026-midterms",
+    "summary": "Healthcare affordability is still the leading overall issue for voters heading into midterms, though another Trump administration talking point is gaining steam, according to a KFF survey report.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-21T02:35:30.457173+00:00",
+    "date_str": "Jul 21, 2026"
+  },
+  {
     "title": "STAT+: The next step of site-neutral, and a fiery PBM hearing",
     "url": "https://www.statnews.com/2026/07/20/site-neutral-payments-hospitals-health-insurance-earnings-season/?utm_campaign=rss",
     "summary": "Medicare proposes to reduce payments to hospitals for certain drugs and imaging services.",
@@ -9808,195 +9998,5 @@
     "category_slug": "drug-coverage",
     "date": "2026-06-27T03:23:46.663064+00:00",
     "date_str": "Jun 27, 2026"
-  },
-  {
-    "title": "Clinicians' compensation rose 4.3% across 2025: AMGA",
-    "url": "https://www.fiercehealthcare.com/providers/clinicians-compensation-rose-43-across-2025-amga",
-    "summary": "The annual survey of 451 medical groups and health systems found signs of \"genuine demand expansion\" and productivity increases that support about half of the year's compensation growth.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-27T03:23:46.663118+00:00",
-    "date_str": "Jun 27, 2026"
-  },
-  {
-    "title": "Industry Voices—What Pope Leo’s AI encyclical could mean for healthcare: 3 key takeaways for leaders",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/industry-voices-what-pope-leos-ai-encyclical-could-mean-healthcare-3-key",
-    "summary": "The papal letter’s guidance on artificial intelligence can provide competitive, legal, reputational and financial benefits to healthcare organizations, faith-based and otherwise, legal experts from Epstein Becker Green write.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-27T03:23:46.663162+00:00",
-    "date_str": "Jun 27, 2026"
-  },
-  {
-    "title": "CDC elevates Ebola response to highest level",
-    "url": "https://thehill.com/policy/healthcare/5943031-cdc-raises-ebola-response/",
-    "summary": "The Centers for Disease Control and Prevention (CDC) is raising its Ebola response to the highest level, agency officials said Friday, as the outbreak continues to spread uncontrolled across Congo and Uganda. “Elevating the response level reflects the urgency, scale, and complexity of the outbreak, and allows CDC to bring additional resources to support the...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-26T19:16:22+00:00",
-    "date_str": "Jun 26, 2026"
-  },
-  {
-    "title": "New Bill Led by Democrats Aims to Cap Medicare Out-of-Pocket Costs",
-    "url": "https://medcitynews.com/2026/06/new-bill-led-by-democrats-aims-to-cap-medicare-out-of-pocket-costs/",
-    "summary": "The Medicare Cost Cap Act seeks to create a $5,000 cap on out-of-pocket costs for traditional Medicare beneficiaries. The post New Bill Led by Democrats Aims to Cap Medicare Out-of-Pocket Costs appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-26T19:25:25+00:00",
-    "date_str": "Jun 26, 2026"
-  },
-  {
-    "title": "Documentation Tools Aren’t Just for Doctors: Inside Reid Health’s Deployment of Abridge’s Nurse Tech",
-    "url": "https://medcitynews.com/2026/06/documentation-abridge-nurse-tech-hospital/",
-    "summary": "Rural health system Reid Health is using Abridge’s AI-powered documentation tech to reduce burnout among nurses. It appears to be working — after-shift charting is down by up to 45 minutes, and the RN vacancy rate has been cut more than in half, said Misti Foust-Cofield, Reid’s chief nursing officer. The post Documentation Tools Aren’t Just for Doctors: Inside Reid Health’s Deployment of Abridge’s Nurse Tech appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-26T18:05:35+00:00",
-    "date_str": "Jun 26, 2026"
-  },
-  {
-    "title": "BIO 2026: AI, federal policy impacts, and general vibes",
-    "url": "https://www.statnews.com/2026/06/26/bio-2026-san-diego-key-takeaways-status-report-alex-hogan/?utm_campaign=rss",
-    "summary": "What were the vibes like at BIO 2026? STAT reporters take you inside the annual industry conference on the latest episode of STATus Report.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-26T16:58:10+00:00",
-    "date_str": "Jun 26, 2026"
-  },
-  {
-    "title": "STAT+: Up and down the ladder: The latest comings and goings",
-    "url": "https://www.statnews.com/pharmalot/2026/06/26/up-down-ladder-jobs-pharma-biotech-sanofi-biogen-lilly-pfizer/?utm_campaign=rss",
-    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-26T14:56:43+00:00",
-    "date_str": "Jun 26, 2026"
-  },
-  {
-    "title": "U.S. pledges generous earthquake relief to Venezuela",
-    "url": "https://www.npr.org/2026/06/26/nx-s1-5870652/venezuela-earthquake-usaid-u-s-aid",
-    "summary": "Secretary of State Marco Rubio promised: \"We have a whole-of-government response. It'll be big; it'll be fast; and it'll be effective.\"",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-26T17:42:40+00:00",
-    "date_str": "Jun 26, 2026"
-  },
-  {
-    "title": "What Journal Retracted a Hyped Cancer Study?",
-    "url": "https://www.medpagetoday.com/quizzes/news-quiz/121954",
-    "summary": "(MedPage Today) -- You passed medical training, now see if you can pass our weekly quiz",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-26T18:30:37+00:00",
-    "date_str": "Jun 26, 2026"
-  },
-  {
-    "title": "Scream, It's Good for You; Release the Cancer Pigeons; Talk of Chemo Rationing",
-    "url": "https://www.medpagetoday.com/hematologyoncology/breastcancer/121953",
-    "summary": "(MedPage Today) -- Every day begins with scream therapy at Camp Breastie for breast cancer survivors. (New York Times) Comedian and actor Moshe Kasher, who appeared as a sign language interpreter in episodes of \"The Pitt,\" revealed he had surgery...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-26T18:19:02+00:00",
-    "date_str": "Jun 26, 2026"
-  },
-  {
-    "title": "AI Smart Glasses Show Promise, Limitations as Aid for Patients With Low Vision",
-    "url": "https://www.medpagetoday.com/ophthalmology/generalophthalmology/121951",
-    "summary": "(MedPage Today) -- Artificial intelligence (AI) smart eyeglasses as a potential aid for people with low vision produced mixed results in a small pilot case series. Using verbal prompts to guide the eyeglasses, study participants, all healthy volunteers...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-26T17:34:56+00:00",
-    "date_str": "Jun 26, 2026"
-  },
-  {
-    "title": "State Medicaid directors defend program integrity as Dems cry foul in House hearing",
-    "url": "https://www.healthcaredive.com/news/medicaid-fraud-hearing-house-oversight-subcommittee-minn-calif-ny/823791/",
-    "summary": "The Trump administration says its war on fraud applies to the entire country. But only blue states have had their Medicaid funding threatened or deferred, Democrats argued in a House subcommittee hearing Thursday.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-26T15:57:00+00:00",
-    "date_str": "Jun 26, 2026"
-  },
-  {
-    "title": "HHS details takeaways from sweeping AI request for information",
-    "url": "https://www.healthcaredive.com/news/hhs-update-artificial-intelligence-ai-request-information/823884/",
-    "summary": "The healthcare sector wants the HHS to coordinate its AI strategy across agencies, provide implementation and governance support, and offer help in evaluating AI tools, leaders said Thursday.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-26T14:28:55+00:00",
-    "date_str": "Jun 26, 2026"
-  },
-  {
-    "title": "Weekly Rundown: Innovaccer, AWS ink strategic collaboration; Mount Sinai adopts Signal 1 for AI management",
-    "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-innovaccer-aws-ink-strategic-collab-invoca-launches-patient-engagement",
-    "summary": "Stay up to date on the latest in health tech, digital health and health AI news with this weekly brief.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-26T19:46:37.695005+00:00",
-    "date_str": "Jun 26, 2026"
-  },
-  {
-    "title": "Why Generative AI Isn’t Enough: The Case for Causal Reasoning in Medicine",
-    "url": "https://medcitynews.com/2026/06/why-generative-ai-isnt-enough-the-case-for-causal-reasoning-in-medicine/",
-    "summary": "AI built on transparent, causal reasoning, systems that ground every output in validated biological mechanisms, show the pathway behind each recommendation, and cite their sources is what makes the difference between a tool that erodes clinical trust and one that rebuilds it. The post Why Generative AI Isn’t Enough: The Case for Causal Reasoning in Medicine appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-26T13:43:00+00:00",
-    "date_str": "Jun 26, 2026"
-  },
-  {
-    "title": "The Hidden Cost of “Good Enough” in Healthcare Experiences",
-    "url": "https://medcitynews.com/2026/06/the-hidden-cost-of-good-enough-in-healthcare-experiences/",
-    "summary": "It’s not low effort or underinvestment. It’s the steady-state output of an organization succeeding at the wrong thing. The post The Hidden Cost of “Good Enough” in Healthcare Experiences appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-26T13:14:00+00:00",
-    "date_str": "Jun 26, 2026"
-  },
-  {
-    "title": "Have Healthcare Data Lakes Become “Data Swamps”?",
-    "url": "https://medcitynews.com/2026/06/have-healthcare-data-lakes-become-data-swamps/",
-    "summary": "They are vast, deep, and nearly impossible to navigate without the right clinical lens applied on top. The real challenge facing health data platform companies and health system data teams is what to do with all of it. The post Have Healthcare Data Lakes Become “Data Swamps”? appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-26T13:13:00+00:00",
-    "date_str": "Jun 26, 2026"
-  },
-  {
-    "title": "988’s LGBTQ+ hotline to relaunch this year. But the group that helped start it might be excluded",
-    "url": "https://www.statnews.com/2026/06/26/988-lgbtq-hotline-relaunch-trevor-project/?utm_campaign=rss",
-    "summary": "The Trump administration is moving to restart the specialized LGBTQ+ option for youth who contact the 988 crisis line, but the group that helped pioneer the idea is being shut…",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-26T13:55:27+00:00",
-    "date_str": "Jun 26, 2026"
-  },
-  {
-    "title": "STAT+: Embryo editing advances reignite ethical debates",
-    "url": "https://www.statnews.com/2026/06/26/biotech-news-embryo-editing-advances-reignite-ethics-debates/?utm_campaign=rss",
-    "summary": "Cassidy targets 340B, Eli Lilly's mysterious retatrutide patient, and more biotech news from The Readout",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-26T13:40:44+00:00",
-    "date_str": "Jun 26, 2026"
   }
 ]
