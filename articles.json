@@ -1,5 +1,185 @@
 [
   {
+    "title": "American Scientists See Prosecutions as Part of Federal Campaign Against Them",
+    "url": "https://kffhealthnews.org/public-health/american-scientists-virologist-charges-mpox-samples-rocky-mountain-laboratories/",
+    "summary": "Federal officials charged two virologists they stopped en route from an African disease outbreak with violating import rules. But scientists tell KFF Health News the inactivated samples they carried posed no threat to the public, and they characterize the arrests as part of a government harassment campaign.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-22T09:00:00+00:00",
+    "date_str": "Jul 22, 2026"
+  },
+  {
+    "title": "Trump’s Personnel Agency Says It Will Remove Some Identifying Info as It Sweeps Up Medical Records",
+    "url": "https://kffhealthnews.org/insurance/trump-opm-federal-workers-medical-records-data-privacy-pseudonymize/",
+    "summary": "The Office of Personnel Management said it will “pseudonymize” medical records it collects on more than 8 million people —federal workers and retirees, and their family members. Democrats and employee unions say the agency’s move is an overreach.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-22T09:00:00+00:00",
+    "date_str": "Jul 22, 2026"
+  },
+  {
+    "title": "What Healthcare Organizations Miss When It Comes to Reimbursement Accuracy",
+    "url": "https://medcitynews.com/2026/07/what-healthcare-organizations-miss-when-it-comes-to-reimbursement-accuracy/",
+    "summary": "At the end of the day, the most important question is a simple one: Do you actually know if you’re being reimbursed correctly? The post What Healthcare Organizations Miss When It Comes to Reimbursement Accuracy appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-22T13:17:00+00:00",
+    "date_str": "Jul 22, 2026"
+  },
+  {
+    "title": "Better Prescribing, Not Less Prescribing, Is What Behavioral Health Needs",
+    "url": "https://medcitynews.com/2026/07/better-prescribing-not-less-prescribing-is-what-behavioral-health-needs/",
+    "summary": "The policy conversation needs to shift from just deprescribing alone to building the clinical infrastructure that delivers consistent, high-quality behavioral health care. The post Better Prescribing, Not Less Prescribing, Is What Behavioral Health Needs appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-22T13:11:00+00:00",
+    "date_str": "Jul 22, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Trump’s plan for tariffs on generics, a Merck and Gilead HIV pill, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/07/22/trump-plans-tariffs-on-generics-merck-gilead-hiv-pill/?utm_campaign=rss",
+    "summary": "President Trump plans to impose tariffs on imported generic medicines, his latest threat aimed at bringing pharmaceutical manufacturing back to the U.S.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-22T13:13:56+00:00",
+    "date_str": "Jul 22, 2026"
+  },
+  {
+    "title": "Job dissatisfaction and health care access uncertainty grows in the U.S., new study finds",
+    "url": "https://www.statnews.com/2026/07/22/health-news-job-dissatisfaction-health-care-access-grows/?utm_campaign=rss",
+    "summary": "What Hawaii's wildfires can teach the nation about health recovery, 4.5 million people disenrolled from SNAP, and more health news",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-22T11:52:58+00:00",
+    "date_str": "Jul 22, 2026"
+  },
+  {
+    "title": "STAT+: ‘Cochlear implant for blindness’ debuts in Europe, could launch in U.S. in 2027",
+    "url": "https://www.statnews.com/2026/07/22/prima-retinal-implant-for-macular-degeneration-us-timeline/?utm_campaign=rss",
+    "summary": "Science Corporation announced the European launch of its retinal implant for patients with age-related macular degeneration.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-22T10:00:00+00:00",
+    "date_str": "Jul 22, 2026"
+  },
+  {
+    "title": "STAT+: Federal health quality research grants worth $109 million ended early",
+    "url": "https://www.statnews.com/2026/07/22/ahrq-grants-health-quality-researchers-lose-109-million-funding/?utm_campaign=rss",
+    "summary": "At least 78 AHRQ grants worth $200 million have been affected by \"non-award\" notices; it's estimated those grants had $109.2 million in funding remaining.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-22T08:30:00+00:00",
+    "date_str": "Jul 22, 2026"
+  },
+  {
+    "title": "Opinion: STAT+: I’m a cardiologist. I’m not sure the new cholesterol drug enlicitide is a game-changer",
+    "url": "https://www.statnews.com/2026/07/22/lipfendra-enlicitide-merck-cholesterol-barriers/?utm_campaign=rss",
+    "summary": "“In truth, I don’t anticipate prescribing patterns changing immediately,” cardiologist Vishal Khetpal writes of the new cholesterol drug Lipfendra.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-22T08:30:00+00:00",
+    "date_str": "Jul 22, 2026"
+  },
+  {
+    "title": "Opinion: STAT+: Hospitals’ AI may be drifting. Who’s watching?",
+    "url": "https://www.statnews.com/2026/07/22/hospital-ai-systems-ceo-leadership-accountability-governance/?utm_campaign=rss",
+    "summary": "Senior leaders must treat AI governance as their own daily job, not something the technology committee handles quarterly, write Peter Pronovost, Justin Norden, and Kedar Mate.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-22T08:30:00+00:00",
+    "date_str": "Jul 22, 2026"
+  },
+  {
+    "title": "As Maui recovers from devastating fires, a study offers vision for new rural health model",
+    "url": "https://www.statnews.com/2026/07/22/maui-wildfire-exposure-study-health-impacts-lahaina-hawaii/?utm_campaign=rss",
+    "summary": "A study of the long-term health impact of the Lahaina wildfires is inspiring a new model for disaster recovery and support.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-22T08:30:00+00:00",
+    "date_str": "Jul 22, 2026"
+  },
+  {
+    "title": "Peptides get their regulatory closeup",
+    "url": "https://www.npr.org/2026/07/22/nx-s1-5902329/peptides-fda-compounding",
+    "summary": "A panel of advisers to the Food and Drug Administration will meet this week to make recommendations on whether specialized pharmacies should be allowed to make some popular wellness peptides.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-22T09:00:00+00:00",
+    "date_str": "Jul 22, 2026"
+  },
+  {
+    "title": "States want to bring Medicaid behind bars. Federal changes make that harder",
+    "url": "https://www.npr.org/2026/07/22/nx-s1-5896456/medicaid-cuts-incarceration-states-obbba",
+    "summary": "Funding cuts and program changes required by President Trump's big budget law are forcing states to rethink bipartisan efforts to bring Medicaid into jails and prisons.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-22T09:00:00+00:00",
+    "date_str": "Jul 22, 2026"
+  },
+  {
+    "title": "CDC director nominee Erica Schwartz says she hopes to shift the agency's tone",
+    "url": "https://www.npr.org/2026/07/22/nx-s1-5781021/cdc-director-nominee-erica-schwartz-says-she-hopes-to-shift-the-agencys-tone",
+    "summary": "Public health officials acknowledge they need to shed paternalistic messaging if they want to reach more people. The nominee to run the CDC says she will strike a new tone.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-22T08:47:24+00:00",
+    "date_str": "Jul 22, 2026"
+  },
+  {
+    "title": "Doc Fugitive Caught After 20 Years; Betting on FDA Approvals; Research Factory",
+    "url": "https://www.medpagetoday.com/special-reports/features/122296",
+    "summary": "(MedPage Today) -- Ronald Fischer, MD, a former Rhode Island anesthesiologist, was arrested on a sailboat last week after 20 years on the run. He disappeared in 2005 while on trial for first-degree sexual assault and had been living a secret life...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-22T12:24:28+00:00",
+    "date_str": "Jul 22, 2026"
+  },
+  {
+    "title": "Doctors 'Cringe' at Possibility of Documenting Medicaid Enrollees Too Sick to Work",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/medicaid/122295",
+    "summary": "(MedPage Today) -- Alice Thornton, MD, has spent more than two decades treating people living with HIV in Lexington, Kentucky. Her team tends to \"cringe\" anytime they hear about patients having to fill out lots of paperwork, like when applying...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-22T12:12:04+00:00",
+    "date_str": "Jul 22, 2026"
+  },
+  {
+    "title": "GE HealthCare inks 10-year, $500M alliance with Catholic Health",
+    "url": "https://www.healthcaredive.com/news/ge-healthcare-inks-10-year-500m-alliance-with-catholic-health/825781/",
+    "summary": "The deal is the latest in a series of pacts with health systems, including with Sutter Health and UC San Diego.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-21T07:43:24+00:00",
+    "date_str": "Jul 21, 2026"
+  },
+  {
+    "title": "Biotech industry leaders file brief backing FDA against ‘malicious’ mifepristone challenge",
+    "url": "https://www.fiercehealthcare.com/biotech/biotech-industry-leaders-file-brief-backing-fda-against-malicious-mifepristone-challenge",
+    "summary": "A group of 61 biopharma companies, executives and investors has filed an amicus brief in support of the FDA in an ongoing case brought by Louisiana meant to remove access to the abortion pill mifepristone.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-22T13:50:49.952286+00:00",
+    "date_str": "Jul 22, 2026"
+  },
+  {
     "title": "STAT+: More workers hate their jobs, but keep them for the health insurance",
     "url": "https://www.statnews.com/2026/07/22/gallup-poll-24-percent-workers-job-lock-keep-job-health-insurance/?utm_campaign=rss",
     "summary": "A new survey reveals 24% of U.S. workers stay in unwanted jobs to keep health insurance. Experts call it 'job lock.'",
@@ -9817,186 +9997,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-06-29T19:22:51+00:00",
-    "date_str": "Jun 29, 2026"
-  },
-  {
-    "title": "New Drug Approved for Thyroid Eye Disease",
-    "url": "https://www.medpagetoday.com/endocrinology/thyroid/121972",
-    "summary": "(MedPage Today) -- The FDA approved veligrotug (Lumvoa) for the treatment of thyroid eye disease (TED), regardless of disease activity or duration, Viridian Therapeutics announced on Friday. Veligrotug is the first treatment with labeling for...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-29T19:20:07+00:00",
-    "date_str": "Jun 29, 2026"
-  },
-  {
-    "title": "A Flu Season Without ACIP: The Question for Fall",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/121971",
-    "summary": "(MedPage Today) -- The U.S. is heading toward the 2026-2027 respiratory virus season without a functioning Advisory Committee on Immunization Practices (ACIP). That is no small disruption. ACIP has guided national policy on influenza vaccination...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-29T19:06:19+00:00",
-    "date_str": "Jun 29, 2026"
-  },
-  {
-    "title": "ONC rolls out new TEFCA oversight efforts",
-    "url": "https://www.healthcaredive.com/news/onc-tefca-oversight-measures-1-billion-records-exchanged/824013/",
-    "summary": "The health IT regulator awarded a new contract to oversee the framework’s rules for data sharing as the number of health records exchanged through TEFCA balloons.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-29T19:21:32+00:00",
-    "date_str": "Jun 29, 2026"
-  },
-  {
-    "title": "How payers, drugmakers can collaborate to drive more outcomes-based contracts",
-    "url": "https://www.fiercehealthcare.com/payers/how-payers-drugmakers-can-collaborate-drive-more-outcomes-based-contracts",
-    "summary": "LAS VEGAS — As drug costs and spending continue to rise, the demand for solutions opens the door to closer collaboration between payers and manufacturers.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-30T03:36:00.081419+00:00",
-    "date_str": "Jun 30, 2026"
-  },
-  {
-    "title": "HRSA opens applications for $140M in rural health grant funding",
-    "url": "https://www.fiercehealthcare.com/providers/hrsa-opens-applications-140m-rural-health-grant-funding",
-    "summary": "Substance use disorder, medical residencies, rural integrated networks and telehealth are among the administration's targets for the funds.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-30T03:36:00.081468+00:00",
-    "date_str": "Jun 30, 2026"
-  },
-  {
-    "title": "HHS announces new oversight measures for TEFCA, touts 1B health records exchanged",
-    "url": "https://www.fiercehealthcare.com/health-tech/more-1b-health-records-exchange-through-tefca-onc-officials-report",
-    "summary": "ONC unveiled new efforts to strengthen oversight of TEFCA, including hiring a federal IT contractor to conduct audits and reviews of TEFCA participants.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-30T03:36:00.081497+00:00",
-    "date_str": "Jun 30, 2026"
-  },
-  {
-    "title": "ACA marketplace enrollment down by 3M as of February, new federal data show",
-    "url": "https://www.fiercehealthcare.com/payers/aca-marketplace-enrollment-down-3m-february-new-federal-data-show",
-    "summary": "New federal data show that 19.2 million individuals were enrolled in Affordable Care Act marketplace plans as of February, down by nearly 3 million from 2025.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-06-30T03:36:00.081523+00:00",
-    "date_str": "Jun 30, 2026"
-  },
-  {
-    "title": "RFK Jr. says Cassidy accusing him of breaking promises 'not true'",
-    "url": "https://thehill.com/policy/healthcare/5946717-kennedy-denies-cassidy-criticism/",
-    "summary": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. on Monday dismissed criticism from GOP Sen. Bill Cassidy (La.) that he is breaking promises. Speaking to NewsNation’s Anna Kooiman in Atlantic City, N.J., Kennedy said he met with Cassidy roughly a month ago and told the Louisiana Republican his critiques are untrue. “I went...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-30T03:06:09+00:00",
-    "date_str": "Jun 30, 2026"
-  },
-  {
-    "title": "Dozens of states sue Trump administration over 'frail' Medicaid work requirement exemption",
-    "url": "https://thehill.com/policy/healthcare/5946392-lawsuit-trump-medicaid-exemptions/",
-    "summary": "A coalition of 25 states and the District of Columbia is suing the Trump administration over a new rule implementing Medicaid work requirement exemptions for medically frail people. According to the lawsuit, which was filed Monday in federal district court in Massachusetts, the Centers for Medicare and Medicaid Services (CMS) violated congressional protections when it...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-29T21:25:44+00:00",
-    "date_str": "Jun 29, 2026"
-  },
-  {
-    "title": "PBM lobby goes on the offensive",
-    "url": "https://thehill.com/policy/healthcare/5946249-pharmacy-benefit-managers-lobbying-offensive/",
-    "summary": "The nation’s top pharmacy benefit manager (PBM) lobbying group is going on the offensive, stepping up its advocacy efforts against the pharmaceutical industry after Congress passed a PBM industry overhaul last winter. The pharmaceutical industry spent years pointing fingers at pharmacy benefit managers as the reason for high drug costs, and Congress finally was able...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-06-29T20:22:14+00:00",
-    "date_str": "Jun 29, 2026"
-  },
-  {
-    "title": "Ipsen’s $450M Deal Brings Drug That Could Make a Standard Blood Cancer Therapy Better",
-    "url": "https://medcitynews.com/2026/06/ipsen-kartos-acquisition-blood-cancer-myelofibrosis-navtemadlin-mdm2-p53-ipn-ipsey/",
-    "summary": "Ipsen is acquiring Kartos Therapeutics to get navtemadlin, which has reached Phase 3 testing in the blood cancer myelofibrosis. The Kartos oral small molecule takes a novel approach to restoring the function of p53, a tumor-suppressing protein. The post Ipsen’s $450M Deal Brings Drug That Could Make a Standard Blood Cancer Therapy Better appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-06-29T19:49:15+00:00",
-    "date_str": "Jun 29, 2026"
-  },
-  {
-    "title": "5 takeaways from STAT’s investigation into micro hospital operator Nutex Health",
-    "url": "https://www.statnews.com/2026/06/29/nutex-health-investigation-takeaways-stat-news-no-surprises-act/?utm_campaign=rss",
-    "summary": "Read the takeaways from STAT's investigation into Nutex, which used the No Surprises Act to fuel a stunning financial turnaround.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-29T17:28:16+00:00",
-    "date_str": "Jun 29, 2026"
-  },
-  {
-    "title": "STAT+: Unredacted comments from California hospital lawsuits show stunning admissions and a ‘forced’ McKinsey collaboration",
-    "url": "https://www.statnews.com/2026/06/29/healthcare-news-unredacted-ca-hospital-lawsuit-sad-mckinsey-tax/?utm_campaign=rss",
-    "summary": "Who controls the Medicaid market, GLP-1 usage and pizza household costs, and more from Health Care Inc.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-29T17:03:13+00:00",
-    "date_str": "Jun 29, 2026"
-  },
-  {
-    "title": "STAT+: Longevity, wellness physicians named to panel advising FDA on peptides",
-    "url": "https://www.statnews.com/2026/06/29/new-fda-peptide-advisers-compounding-committee-conflicts/?utm_campaign=rss",
-    "summary": "The panel will soon consider whether to relax restrictions on certain peptides.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-29T16:51:35+00:00",
-    "date_str": "Jun 29, 2026"
-  },
-  {
-    "title": "They were world-class tennis rivals. Now friends, they've teamed up against cancer",
-    "url": "https://www.npr.org/2026/06/29/nx-s1-5874696/chris-evert-martina-navratilova-tennis-cancer",
-    "summary": "They were the women's tennis champions of their generation. Now, Chris Evert and Martina Navratilova open up about friendship, cancer and retirement in the documentary Chris & Martina: The Final Set .",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-06-29T15:47:15+00:00",
-    "date_str": "Jun 29, 2026"
-  },
-  {
-    "title": "Europe's Record Heat Has Overwhelmed Paris Mortuaries and Left Families in Distress",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/environmentalhealth/121970",
-    "summary": "(MedPage Today) -- PARIS -- Every few minutes, the mortuary owner's phone rings. Since a record-smashing heat wave started taking lives and storage space for bodies in Paris and beyond, the funeral directors and mourning families calling him...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-29T18:31:43+00:00",
-    "date_str": "Jun 29, 2026"
-  },
-  {
-    "title": "FDA Expands Risankizumab Label in Psoriatic Disease",
-    "url": "https://www.medpagetoday.com/dermatology/psoriasis/121968",
-    "summary": "(MedPage Today) -- The FDA expanded the indications for risankizumab (Skyrizi) in plaque psoriasis and psoriatic arthritis to include treatment of children 6 years and older, AbbVie announced. An interleukin (IL)-23 antagonist, risankizumab is...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-29T16:53:44+00:00",
-    "date_str": "Jun 29, 2026"
-  },
-  {
-    "title": "Could Early Tirzepatide Alter the Course of Type 2 Diabetes?",
-    "url": "https://www.medpagetoday.com/meetingcoverage/adavideopearls/121967",
-    "summary": "(MedPage Today) -- At the American Diabetes Association annual meeting, 2-year results from the SUPPRESS-EARLY trial showed that initiating tirzepatide (Mounjaro, Zepbound) early in the course of type 2 diabetes led to substantially higher rates...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-06-29T15:57:08+00:00",
     "date_str": "Jun 29, 2026"
   }
 ]
