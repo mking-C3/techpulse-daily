@@ -1,5 +1,55 @@
 [
   {
+    "title": "Journalists Assess Risks of Tick Bites, Wildfire Smoke, Rising Health Costs",
+    "url": "https://kffhealthnews.org/on-air/on-air-july-25-2026-aca-tick-bites-wildfire-smoke-health-costs/",
+    "summary": "KFF Health News journalists made the rounds on national or local media recently to discuss topical stories. Here’s a collection of their appearances.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-25T09:00:00+00:00",
+    "date_str": "Jul 25, 2026"
+  },
+  {
+    "title": "COMIC: Temps are predicted to hit 106 in Egypt this week. How do people stay cool?",
+    "url": "https://www.npr.org/2026/07/25/g-s1-135194/summer-heat-egypt-cairo-air-conditioning",
+    "summary": "Back in the '90s, I learned the art of staying cool in Egypt. At that time, air conditioning was not common. In the extremely hot summer of 2026, how are people managing?",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-25T12:05:34+00:00",
+    "date_str": "Jul 25, 2026"
+  },
+  {
+    "title": "Sextortion: That's the threat for women who are simply trying to buy clean water",
+    "url": "https://www.npr.org/2026/07/25/g-s1-133450/sexual-violence-women-clean-water-nairobi-kenya",
+    "summary": "Water is often a scarce commodity in Nairobi's largest slum. The only source may be a local cartel — and with that comes the risk of sexual threats and attacks.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-25T11:59:19+00:00",
+    "date_str": "Jul 25, 2026"
+  },
+  {
+    "title": "Why these cancer patients face a lonely fight",
+    "url": "https://www.npr.org/2026/07/25/g-s1-135365/cancer-breast-chemotherapy-nigeria",
+    "summary": "As Nigeria grapples with a rapid rise in cancer cases, patients say they often feel as if they are on their own.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-25T11:51:44+00:00",
+    "date_str": "Jul 25, 2026"
+  },
+  {
+    "title": "Study Links GLP-1s to Lower Risk of Fragility Fractures in Diabetes Patients",
+    "url": "https://www.medpagetoday.com/endocrinology/diabetes/122347",
+    "summary": "(MedPage Today) -- Starting a GLP-1 receptor agonist for type 2 diabetes was associated with a lower risk of fragility fractures in adults 50 and older, including hip and vertebral fractures, according to a large target trial emulation study....",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-25T12:00:00+00:00",
+    "date_str": "Jul 25, 2026"
+  },
+  {
     "title": "A Prescription for Drug Costs: Inject Transparency and Improve Accessibility",
     "url": "https://medcitynews.com/2026/07/a-prescription-for-drug-costs-inject-transparency-and-improve-accessibility/",
     "summary": "Drug spending continues to grow, but that doesn’t mean that everyone is getting the medicines that they need. A panel at MedCity News’ Bullseye event discussed the evolution of the prescription drug marketplace. The post A Prescription for Drug Costs: Inject Transparency and Improve Accessibility appeared first on MedCity News .",
@@ -9947,56 +9997,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-07-02T17:29:18+00:00",
-    "date_str": "Jul 02, 2026"
-  },
-  {
-    "title": "Endoscopy Radiation Exposure; H. Pylori and Colon Cancer; Gut-Brain Therapies in IBS",
-    "url": "https://www.medpagetoday.com/gastroenterology/generalgastroenterology/122036",
-    "summary": "(MedPage Today) -- A novel lead flap-enhanced artificial intelligence-enabled fluoroscopy system may lower the risk of radiation scatter to endoscopy personnel during fluoroscopy-guided procedures. (American Journal of Gastroenterology) A series...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-02T16:41:43+00:00",
-    "date_str": "Jul 02, 2026"
-  },
-  {
-    "title": "FDA Approves Sickle Cell Gene Therapy for Young Kids",
-    "url": "https://www.medpagetoday.com/hematologyoncology/hematology/122035",
-    "summary": "(MedPage Today) -- The FDA on Wednesday expanded the approval for exagamglogene autotemcel (exa-cel, Casgevy) in severe sickle cell disease with recurrent vaso-occlusive crises and transfusion-dependent beta thalassemia to include children 2 years...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-02T16:08:52+00:00",
-    "date_str": "Jul 02, 2026"
-  },
-  {
-    "title": "Doc's Massage Parlor Plea Deal; Psychiatrist Sues Kaiser; NP Gets 10 Years",
-    "url": "https://www.medpagetoday.com/special-reports/features/122031",
-    "summary": "(MedPage Today) -- Peter O'Donnell, MD, a family physician in Maine who was accused of running a massage parlor as a front for prostitution, has pleaded guilty to engaging a prostitute in exchange for having charges of sex trafficking dismissed...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-02T15:41:15+00:00",
-    "date_str": "Jul 02, 2026"
-  },
-  {
-    "title": "New Evidence Links Progestogen Contraceptives to Brain Cancer Risk",
-    "url": "https://www.medpagetoday.com/hematologyoncology/braincancer/122030",
-    "summary": "(MedPage Today) -- Women who used progestogen contraceptives had a significantly increased risk of meningioma, including oral and injectable progestogen formulations and intrauterine devices (IUDs), a large Danish study showed. Eight of the 12...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-02T15:23:38+00:00",
-    "date_str": "Jul 02, 2026"
-  },
-  {
-    "title": "Why Danny Glover Is Speaking Publicly About His Alzheimer's Disease",
-    "url": "https://www.medpagetoday.com/neurology/alzheimersdisease/122029",
-    "summary": "(MedPage Today) -- Actor and activist Danny Glover revealed this week that he has Alzheimer's disease. The four-time Emmy Award nominee, who is 79, said he was diagnosed with Alzheimer's disease 3 years ago. \"I'm still not accepting in my mind...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-02T15:15:55+00:00",
     "date_str": "Jul 02, 2026"
   }
 ]
