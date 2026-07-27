@@ -1,5 +1,95 @@
 [
   {
+    "title": "Tracking State Rural Health Transformation Plans",
+    "url": "https://kffhealthnews.org/rural-health/tracking-state-rural-health-transformation-plans/",
+    "summary": "KFF Health News is working to collect and post approved plans, by state, here and this database as more states respond to emails and public records requests for their documents.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-27T09:00:00+00:00",
+    "date_str": "Jul 27, 2026"
+  },
+  {
+    "title": "Trump Administration Demands Hospitals Share Emergency Room Records",
+    "url": "https://kffhealthnews.org/health-industry/cpsc-consumer-product-safety-commission-trump-er-injury-data-grab-neiss-konza/",
+    "summary": "The tiny federal agency that tracks consumer product safety is pressuring hospitals to turn over patient records from emergency room visits, including about injuries that have nothing to do with consumer products.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-27T09:00:00+00:00",
+    "date_str": "Jul 27, 2026"
+  },
+  {
+    "title": "Opinion: E-bikes, e-scooters are a burgeoning pediatric public health emergency",
+    "url": "https://www.statnews.com/2026/07/27/e-bikes-scooters-children-teens-safety-orthopedics-research/?utm_campaign=rss",
+    "summary": "“Emergency departments across America report dramatic increases in serious injuries from e-bikes and e-scooters,” write CHOP’s J. Todd R. Lawrence and Madison A. Kesler.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-27T08:30:00+00:00",
+    "date_str": "Jul 27, 2026"
+  },
+  {
+    "title": "STAT+: As some medical schools embrace RFK Jr.’s nutrition push, they deftly sidestep MAHA priorities",
+    "url": "https://www.statnews.com/2026/07/27/kennedy-medical-school-nutrition-training-cautious-adoption/?utm_campaign=rss",
+    "summary": "Even as some medical schools heed health secretary Robert F. Kennedy Jr.’s call for more nutrition education, several told STAT that they plan to steer clear of topics that aren’t…",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-27T08:30:00+00:00",
+    "date_str": "Jul 27, 2026"
+  },
+  {
+    "title": "Opinion: How midwives like me can help fight medical misinformation",
+    "url": "https://www.statnews.com/2026/07/27/midwives-vaccine-denial-misinformation-judgment/?utm_campaign=rss",
+    "summary": "“I have come to believe that changing a mind is rarely the point. Planting a seed is,” writes nurse-midwife Mara Evans.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-27T08:30:00+00:00",
+    "date_str": "Jul 27, 2026"
+  },
+  {
+    "title": "STAT+: Argenx to buy Forte Biosciences for $2.2B",
+    "url": "https://www.statnews.com/2026/07/27/argenx-acquire-forte-biosciences-autoimmune-diseases/?utm_campaign=rss",
+    "summary": "Argenx plans to buy Forte Biosciences for $2.2 billion, expanding its pipeline of drugs that could treat multiple autoimmune diseases.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-27T07:26:21+00:00",
+    "date_str": "Jul 27, 2026"
+  },
+  {
+    "title": "Baltimore will turn 911 into more than just an emergency number",
+    "url": "https://www.npr.org/2026/07/27/nx-s1-5874720/baltimore-will-turn-911-into-more-than-just-an-emergency-number",
+    "summary": "Baltimore is rethinking what it means to call 911, and who responds. Callers who don't need police will get help finding social services and healthcare before they actually fall into crisis.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-27T09:00:00+00:00",
+    "date_str": "Jul 27, 2026"
+  },
+  {
+    "title": "More than 2,000 measles cases reported in the U.S. so far, outpacing 2025's total",
+    "url": "https://www.npr.org/2026/07/27/nx-s1-5906455/more-than-2-000-measles-cases-reported-in-the-u-s-so-far-outpacing-2025s-total",
+    "summary": "NPR's A Martinez asks Dr. Jennifer Nuzzo of Brown University why there have been more measles cases this year so far than in all of last year, and what can be done to stop the resurgence.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-27T08:40:22+00:00",
+    "date_str": "Jul 27, 2026"
+  },
+  {
+    "title": "Provider selection deserves better data than a Google search",
+    "url": "https://www.healthcaredive.com/spons/provider-selection-deserves-better-data-than-a-google-search/825734/",
+    "summary": "Healthcare AI has poured into the exam room, but choosing the right provider remains untouched.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-27T09:00:00+00:00",
+    "date_str": "Jul 27, 2026"
+  },
+  {
     "title": "Crystalys Therapeutics Tacks On $130M for Pivotal Tests of Gout Drug",
     "url": "https://medcitynews.com/2026/07/crystalys-gout-urat1-inhibitor-dotinurad-arthritis-inflammation/",
     "summary": "Crystalys’s dotinurad is currently in pivotal testing for gout, a prevalent inflammatory disorder with few treatment options. The drug has the same mechanism of action as a molecule that Sobi added to its pipeline through a $950 million acquisition. The post Crystalys Therapeutics Tacks On $130M for Pivotal Tests of Gout Drug appeared first on MedCity News .",
@@ -9908,95 +9998,5 @@
     "category_slug": "senior-health",
     "date": "2026-07-03T10:00:00+00:00",
     "date_str": "Jul 03, 2026"
-  },
-  {
-    "title": "Journalists Discuss Healthcare Costs’ Political Fallout, Concerns About Canceled ICE Facility",
-    "url": "https://kffhealthnews.org/on-air/on-air-july-3-2026-healthcare-costs-midterms-ice-detention-center-georgia/",
-    "summary": "KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here’s a collection of their appearances.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-03T09:00:00+00:00",
-    "date_str": "Jul 03, 2026"
-  },
-  {
-    "title": "This Ear-Based Device Could Save Patients from Brain Bleed Complications",
-    "url": "https://medcitynews.com/2026/07/brain-bleed-medical-device/",
-    "summary": "Aurenar’s V-Link, a non-invasive nerve stimulation device for preventing brain hemorrhage complications, just won FDA breakthrough device designation after early trials showed it cut cerebral vasospasm by more than 40%. The post This Ear-Based Device Could Save Patients from Brain Bleed Complications appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-03T03:27:01+00:00",
-    "date_str": "Jul 03, 2026"
-  },
-  {
-    "title": "Color Broadens Cancer Expert Medical Opinion Program",
-    "url": "https://medcitynews.com/2026/07/color-broadens-cancer-expert-medical-opinion-program/",
-    "summary": "Color expanded its Expert Medical Opinion program with a new peer-to-peer service that connects oncologists with cancer specialists. The post Color Broadens Cancer Expert Medical Opinion Program appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-02T22:00:32+00:00",
-    "date_str": "Jul 02, 2026"
-  },
-  {
-    "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
-    "url": "https://www.statnews.com/2026/07/02/medicare-hospital-payment-340b-drugs-cut/?utm_campaign=rss",
-    "summary": "Reducing Medicare payments for 340B drugs is the latest proposal focused on the hotly debated drug discount program.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-02T19:52:19+00:00",
-    "date_str": "Jul 02, 2026"
-  },
-  {
-    "title": "STAT+: Lawmakers urge HHS to force Eli Lilly to provide 340B drug discounts to hospitals",
-    "url": "https://www.statnews.com/pharmalot/2026/07/02/lawmakers-urge-lilly-to-provide-340b-drug-discounts-to-hospitals/?utm_campaign=rss",
-    "summary": "Lawmakers step into a dispute between Eli Lilly and hospitals about the 340b drug discount program.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-02T19:52:14+00:00",
-    "date_str": "Jul 02, 2026"
-  },
-  {
-    "title": "Researchers Launch Study on Ebola Treatments as Congo Outbreak Worsens",
-    "url": "https://www.medpagetoday.com/infectiousdisease/ebola/122050",
-    "summary": "(MedPage Today) -- Researchers began a highly anticipated study of two possible Ebola treatments on Thursday in hopes of fighting the still-growing outbreak in eastern Congo, as the World Health Organization (WHO) announced the enrollment of the...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-02T20:58:24+00:00",
-    "date_str": "Jul 02, 2026"
-  },
-  {
-    "title": "Do Same-Day COVID and Flu Shots Bring More Side Effects?",
-    "url": "https://www.medpagetoday.com/quizzes/news-quiz/122049",
-    "summary": "(MedPage Today) -- You passed medical training, now see if you can pass our weekly quiz",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-02T20:54:48+00:00",
-    "date_str": "Jul 02, 2026"
-  },
-  {
-    "title": "More Than Half of CDC Centers Lack Permanent Leadership",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/122047",
-    "summary": "(MedPage Today) -- Among CDC's 23 centers, institutes, and offices (CIOs), more than half have no permanent leadership, raising questions about direction and morale at the agency. Overall, 10 of the CIOs have permanent leadership, but 11 have...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-02T20:42:02+00:00",
-    "date_str": "Jul 02, 2026"
-  },
-  {
-    "title": "Trump Admin Proposes Rule It Says Could Save Medicare Patients $1.1B on Drugs",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/medicare/122045",
-    "summary": "(MedPage Today) -- The Trump administration is proposing a new rule on Thursday to keep hospitals from charging markups on discounted drugs for Medicare patients and says that could save consumers $1.1 billion next year, according to estimates...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-02T20:22:53+00:00",
-    "date_str": "Jul 02, 2026"
   }
 ]
