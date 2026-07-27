@@ -1,5 +1,175 @@
 [
   {
+    "title": "STAT+: Pharma’s drug spending deflection",
+    "url": "https://www.statnews.com/2026/07/27/prescription-drug-spending-no-surprises-act-arbitration-costs-health-care-inc/?utm_campaign=rss",
+    "summary": "Job lock, surging prescription drug costs, No Surprises Act update, and more from STAT's Health Care Inc.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-27T18:13:14+00:00",
+    "date_str": "Jul 27, 2026"
+  },
+  {
+    "title": "Effort to Unionize 10,000 Attending Physicians Gets Underway",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/workforce/122364",
+    "summary": "(MedPage Today) -- Some doctors are pushing to organize the 10,000 attending physicians within the University of California system, setting in motion what could become the largest union of employed physicians, organizers say. Factors driving the...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-27T18:44:36+00:00",
+    "date_str": "Jul 27, 2026"
+  },
+  {
+    "title": "FDA Approves New Blood Test for Colon Cancer Screening",
+    "url": "https://www.medpagetoday.com/hematologyoncology/coloncancer/122363",
+    "summary": "(MedPage Today) -- The FDA approved SimpleScreen CRC, a blood-based screening test for adults 45 years and older who are at average risk for colorectal cancer (CRC), Freenome announced. SimpleScreen CRC joins Guardant Health's Shield test, which...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-27T17:46:22+00:00",
+    "date_str": "Jul 27, 2026"
+  },
+  {
+    "title": "What Is the 'Barbie Peptide' and Why Is It Risky?",
+    "url": "https://www.medpagetoday.com/popmedicine/cultureclinic/122362",
+    "summary": "(MedPage Today) -- Welcome to Culture Clinic, MedPage Today's collaboration with Northwell Health to offer a healthcare professional's take on the latest viral medical topics. An unregulated injectable peptide popping up across social media promises...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-27T17:39:42+00:00",
+    "date_str": "Jul 27, 2026"
+  },
+  {
+    "title": "RSV Preventive Agent May Protect Against Another Serious Infection",
+    "url": "https://www.medpagetoday.com/infectiousdisease/pneumonia/122361",
+    "summary": "(MedPage Today) -- Nirsevimab (Beyfortus) for preventing respiratory syncytial virus (RSV) infections may have a protective spillover effect when it comes to invasive pneumococcal disease, a retrospective study suggested. Among babies born in...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-27T16:34:51+00:00",
+    "date_str": "Jul 27, 2026"
+  },
+  {
+    "title": "First-in-Class Drug for ADHD Wins FDA Approval",
+    "url": "https://www.medpagetoday.com/psychiatry/adhd-add/122360",
+    "summary": "(MedPage Today) -- The FDA approved oral centanafadine (Simtriyo), a first-in-class triple reuptake inhibitor for attention deficit-hyperactivity disorder (ADHD), Otsuka announced late last week. The once-daily extended-release capsule -- a...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-27T16:26:41+00:00",
+    "date_str": "Jul 27, 2026"
+  },
+  {
+    "title": "Brain Worm Culprit in Woman's Hallucinations, Incoherent Speech",
+    "url": "https://www.medpagetoday.com/casestudies/neurology/122359",
+    "summary": "(MedPage Today) -- A previously healthy 52-year-old woman entered the emergency department with a 4-month history of headaches and visual hallucinations. For the past month, her speech was incoherent. When she reached the hospital, the patient...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-27T16:06:24+00:00",
+    "date_str": "Jul 27, 2026"
+  },
+  {
+    "title": "Multistate Salmonella Outbreak Tied to Eggs Has Sickened 98 People",
+    "url": "https://www.medpagetoday.com/infectiousdisease/publichealth/122357",
+    "summary": "(MedPage Today) -- Nearly 100 people in 17 states have been sickened in a salmonella outbreak tied to recalled eggs, federal health officials said Friday. The 98 people had illnesses that started between Nov. 21 and June 30, according to the FDA...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-27T14:36:06+00:00",
+    "date_str": "Jul 27, 2026"
+  },
+  {
+    "title": "Is your healthcare data center actually ready for AI?",
+    "url": "https://www.healthcaredive.com/spons/is-your-healthcare-data-center-actually-ready-for-ai/825614/",
+    "summary": "Is your healthcare infrastructure limiting AI potential? Modernize your data center for the speed, security and reliability AI workflows need.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-27T19:00:00+00:00",
+    "date_str": "Jul 27, 2026"
+  },
+  {
+    "title": "Almost all of HCA’s Affordable Care Act patients are going uninsured. Here’s how that affected Q2",
+    "url": "https://www.healthcaredive.com/news/hca-healthcare-q2-2026-aca-patients-uninsured-surgeries/826113/",
+    "summary": "People formerly covered by the ACA exchanges are remaining uninsured almost on a one for one basis. “For us, obviously, it’s not a good thing,” CEO Sam Hazen said.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-27T15:36:00+00:00",
+    "date_str": "Jul 27, 2026"
+  },
+  {
+    "title": "Tenet raises 2026 outlook after weathering ACA headwinds",
+    "url": "https://www.healthcaredive.com/news/tenet-weathers-aca-headwinds-raises-outlook-q2-2026-earnings/826232/",
+    "summary": "The hospital operator recorded a $65 million hit from turbulence on the Affordable Care Act exchanges in the second quarter, but avoided the worse repercussions slamming some of its peers.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-27T14:19:57+00:00",
+    "date_str": "Jul 27, 2026"
+  },
+  {
+    "title": "FDA names Dexcom as first participant in digital health pilot",
+    "url": "https://www.healthcaredive.com/news/fda-names-dexcom-as-first-participant-in-digital-health-pilot/826215/",
+    "summary": "Selected devices will be exempt from certain pre-market requirements while manufacturers collect real-world data through Medicare.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-23T17:46:35+00:00",
+    "date_str": "Jul 23, 2026"
+  },
+  {
+    "title": "Intermountain Health acquiring interests in 2 Idaho hospitals for $795M",
+    "url": "https://www.fiercehealthcare.com/providers/intermountain-health-acquiring-interests-2-idaho-hospitals-795m",
+    "summary": "The nonprofit would become the sole owner of the 88-bed Idaho Falls Community Hospital and share ownership of the 38-bed Mountain View Hospital, It's been a minority investor in both since 2023.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-27T19:25:32.259895+00:00",
+    "date_str": "Jul 27, 2026"
+  },
+  {
+    "title": "Salesforce lands $1.6B Veteran Affairs deal to integrate AI into healthcare workflows",
+    "url": "https://www.fiercehealthcare.com/regulatory/salesforce-awarded-16b-3-year-veteran-affairs-contract-part-veterans-first-initiative",
+    "summary": "The agreement aims to create a “unified foundation across the department, equipping VA employees with trusted agentic AI, integrated data, and advanced collaboration tools that can reduce administrative friction and give staff more time to serve Veterans,\" the VA said.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-27T19:25:32.259948+00:00",
+    "date_str": "Jul 27, 2026"
+  },
+  {
+    "title": "Trump aid cuts put HIV response at risk, reports show",
+    "url": "https://thehill.com/policy/healthcare/5992387-trump-cuts-impact-hiv-aids-report/",
+    "summary": "Funding for the global HIV response plunged in 2025, entirely due to a steep decline in U.S. support, according to reports from KFF and the Joint United Nations Programme on HIV/AIDS (UNAIDS). Taken together, the reports, released at the International AIDS Conference, show decades of progress to combat HIV is at risk. The current HIV...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-07-27T17:45:14+00:00",
+    "date_str": "Jul 27, 2026"
+  },
+  {
+    "title": "Fauci diary entries: 'Press is going wild with me'",
+    "url": "https://thehill.com/homenews/5992015-fauci-diary-entries-released/",
+    "summary": "Former chief White House medical adviser Anthony Fauci was keenly aware of the media's interest in him early on in the COVID-19 pandemic, and considered some of the attention \"flattering,\" according to diary entries released by Sen. Rand Paul (R-Ky.). Over the weekend, Paul published more than a thousand pages of Fauci's diary entries as...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-07-27T15:31:14+00:00",
+    "date_str": "Jul 27, 2026"
+  },
+  {
+    "title": "Dozens sickened across 17 states in salmonella outbreak linked to recalled eggs: What to know",
+    "url": "https://thehill.com/policy/healthcare/5991874-dozens-sickened-across-17-states-in-salmonella-outbreak-linked-to-recalled-eggs-what-to-know/",
+    "summary": "The eggs were only distributed in a handful of states, while the salmonella cases have been reported in more than a dozen.",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-07-27T14:48:57+00:00",
+    "date_str": "Jul 27, 2026"
+  },
+  {
     "title": "Prior Authorization Is Draining Revenue: Why Automation Has Become a Strategic Imperative",
     "url": "https://medcitynews.com/2026/07/prior-authorization-is-draining-revenue-why-automation-has-become-a-strategic-imperative/",
     "summary": "When staff are overextended and patients face delays or abandon care, the issue is no longer a narrow administrative burden. It becomes a business, financial, and access challenge that demands a different operating model. The post Prior Authorization Is Draining Revenue: Why Automation Has Become a Strategic Imperative appeared first on MedCity News .",
@@ -9828,175 +9998,5 @@
     "category_slug": "healthcare-policy",
     "date": "2026-07-06T09:00:00+00:00",
     "date_str": "Jul 06, 2026"
-  },
-  {
-    "title": "Restrictions could be lifted on peptides loved by wellness influencers",
-    "url": "https://www.npr.org/2026/07/06/nx-s1-5877488/restrictions-could-be-lifted-on-peptides-loved-by-wellness-influencers",
-    "summary": "Unproven peptides touting wellness have been relegated to a gray market because of Biden-era restrictions. Under the Trump administration, that could change.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-06T08:15:58+00:00",
-    "date_str": "Jul 06, 2026"
-  },
-  {
-    "title": "KLAS Emerging Company Spotlight: Enhancing risk adjustment coding defensibility through neuro-symbolic AI solutions",
-    "url": "https://www.healthcaredive.com/spons/klas-emerging-company-spotlight-enhancing-risk-adjustment-coding-defensibi/824428/",
-    "summary": "See the grades RAAPID's customers gave in the 2026 KLAS Emerging Company Spotlight.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-06T09:00:00+00:00",
-    "date_str": "Jul 06, 2026"
-  },
-  {
-    "title": "Why healthcare construction timelines are now operational risks",
-    "url": "https://www.healthcaredive.com/spons/why-healthcare-construction-timelines-are-now-operational-risks/823731/",
-    "summary": "Healthcare systems are turning to modular construction to reduce risk and accelerate delivery.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-06T09:00:00+00:00",
-    "date_str": "Jul 06, 2026"
-  },
-  {
-    "title": "Epic reshapes leadership as President Sumit Rana plans to step away",
-    "url": "https://www.fiercehealthcare.com/health-tech/epic-preps-leadership-changes-president-sumit-rana-plans-step-away",
-    "summary": "Epic President Sumit Rana shared with company staff on Friday that he plans to step away from Epic for personal reasons.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-06T10:19:20.144924+00:00",
-    "date_str": "Jul 06, 2026"
-  },
-  {
-    "title": "'Not an Inconsequential Nothing-Burger': What We Heard This Week",
-    "url": "https://www.medpagetoday.com/opinion/what-we-heard/122053",
-    "summary": "(MedPage Today) -- \"It's still not an inconsequential nothing-burger.\" -- Ziyad Al-Aly, MD, of Washington University in St. Louis, remarking that while severity has declined, COVID-19 still poses a particular threat for older adults and people...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-05T20:00:00+00:00",
-    "date_str": "Jul 05, 2026"
-  },
-  {
-    "title": "Former CDC chief medical officer says RFK Jr. caused ‘irreparable harm’",
-    "url": "https://thehill.com/policy/healthcare/5954352-cdc-robert-f-kennedy-debra-houry-hhs/",
-    "summary": "Dr. Debra Houry, the former chief medical officer at the Centers for Disease Control and Prevention (CDC), decried the direction of the agency under Department of Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. “I think the secretary has caused a lot of irreparable harm, and when you look at many of the...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-07-05T22:05:00+00:00",
-    "date_str": "Jul 05, 2026"
-  },
-  {
-    "title": "Lung-Focused Celea Secures $180M for Pivotal Test of Pulmonary Fibrosis Drug",
-    "url": "https://medcitynews.com/2026/07/celea-lung-idiopathic-pulmonary-fibrosis-puretech-ipf-startup-deupirfenidone/",
-    "summary": "PureTech Health spinout Celea Therapeutics will apply the financing toward a Phase 3 test of its idiopathic pulmonary (IPF) drug, deupirfenidone. The pivotal study will test the oral small molecule head-to-head against a standard of care IPF drug. The post Lung-Focused Celea Secures $180M for Pivotal Test of Pulmonary Fibrosis Drug appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-05T17:01:39+00:00",
-    "date_str": "Jul 05, 2026"
-  },
-  {
-    "title": "Modernizing Program Integrity in Medicaid Self-Directed Care",
-    "url": "https://medcitynews.com/2026/07/modernizing-program-integrity-in-medicaid-self-directed-care/",
-    "summary": "States must rethink how program integrity is designed and delivered by focusing on four key priorities that enable oversight to scale alongside these programs. The post Modernizing Program Integrity in Medicaid Self-Directed Care appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-05T14:08:03+00:00",
-    "date_str": "Jul 05, 2026"
-  },
-  {
-    "title": "Construction is a man's game. These women are demolishing the barriers",
-    "url": "https://www.npr.org/2026/07/05/g-s1-129643/construction-business-women-kenya",
-    "summary": "Women make up a miniscule 3% of construction workers in Kenya. But a nonprofit group is offering them a way to get into the game ... and to get ahead.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-05T14:10:38+00:00",
-    "date_str": "Jul 05, 2026"
-  },
-  {
-    "title": "She Struggled to Get Lifesaving Immunodeficiency Drug After Insurers Vowed to Help",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/healthpolicy/122001",
-    "summary": "(MedPage Today) -- LADUE, Mo. -- Over 4 consecutive days in January, Margaret Hvatum ran a 5K, a 10K, a half-marathon, and a full marathon. The 70-year-old covered a combined distance that's nearly equivalent to running the length of Manhattan...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-05T18:00:00+00:00",
-    "date_str": "Jul 05, 2026"
-  },
-  {
-    "title": "Climate Change Is Already at the Bedside. Why Aren't We Learning About It?",
-    "url": "https://www.medpagetoday.com/opinion/climate-checkup/122046",
-    "summary": "(MedPage Today) -- The World Health Organization has identified climate change as the single greatest threat to global health in the 21st century. This crisis spans borders and political sentiment, and increasingly, physicians will be expected...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-05T16:00:00+00:00",
-    "date_str": "Jul 05, 2026"
-  },
-  {
-    "title": "States Consider Charging Companies With Workers on Medicaid",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/medicaid/122032",
-    "summary": "(MedPage Today) -- New Jersey is launching a new fee on companies whose workers have Medicaid health coverage instead of being covered by their employers. Other states are considering it, too. Democratic lawmakers and governors see it as a way...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-05T14:00:00+00:00",
-    "date_str": "Jul 05, 2026"
-  },
-  {
-    "title": "RFK Jr.’s latest overhaul aims to boost preventive care. It could get expensive.",
-    "url": "https://www.politico.com/news/2026/07/05/rfk-preventive-kidney-alzheimers-colon-cancer-00986644",
-    "summary": "The health secretary wants insurers to cover Alzheimer’s tests. Some in the health industry hope he’ll back routine testing for many more diseases.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-05T18:00:00+00:00",
-    "date_str": "Jul 05, 2026"
-  },
-  {
-    "title": "Residents in Congo cling to hope as Ebola treatment trial begins",
-    "url": "https://www.politico.com/news/2026/07/05/residents-in-congo-cling-to-hope-as-ebola-treatment-trial-begins-00987135",
-    "summary": "Survival will be tracked for 28 days after starting treatment",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-05T13:55:00+00:00",
-    "date_str": "Jul 05, 2026"
-  },
-  {
-    "title": "AI in Mental Health: Why Clinicians Need to Be in the Room",
-    "url": "https://medcitynews.com/2026/07/ai-in-mental-health-why-clinicians-need-to-be-in-the-room/",
-    "summary": "As clinicians, we learn not to be agreeable, we learn to challenge and sit in discomfort. We ask the hard questions underneath the one being asked. That is the work these tools are not yet built to do. The post AI in Mental Health: Why Clinicians Need to Be in the Room appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-05T13:24:00+00:00",
-    "date_str": "Jul 05, 2026"
-  },
-  {
-    "title": "When Evidence Gap Becomes a Commercial Liability",
-    "url": "https://medcitynews.com/2026/07/when-evidence-gap-becomes-a-commercial-liability/",
-    "summary": "The MENA evidence gap for selected portfolios is becoming a commercial liability for drugmakers that could have been prevented at the design stage. The post When Evidence Gap Becomes a Commercial Liability appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-05T13:00:00+00:00",
-    "date_str": "Jul 05, 2026"
-  },
-  {
-    "title": "Move over Chutes & Ladders: Schisto & Ladders has educational value plus worms",
-    "url": "https://www.npr.org/2026/07/04/g-s1-129679/chutes-ladders-schistosomiasis-worms-parasites",
-    "summary": "Spread by parasitic worms that can infect via a splash of water, schistosomiasis causes debilitating symptoms. It hits kids hard. A board game teaches how to prevent it.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-04T15:51:49+00:00",
-    "date_str": "Jul 04, 2026"
   }
 ]
