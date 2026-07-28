@@ -1,5 +1,185 @@
 [
   {
+    "title": "Visa time limits on foreign Ph.D. students and postdocs will harm U.S. science, experts warn",
+    "url": "https://www.statnews.com/2026/07/28/dhs-visa-policy-change-international-students-scientific-research-impact/?utm_campaign=rss",
+    "summary": "A Trump administration plan to limit visas for graduate student and postdocs to four years is fueling concerns that the U.S. could lose out on foreign scientists",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-28T17:00:20+00:00",
+    "date_str": "Jul 28, 2026"
+  },
+  {
+    "title": "STAT+: Bracing for another Fauci hearing",
+    "url": "https://www.statnews.com/2026/07/28/anthony-fauci-rand-paul-hearing-democrats-ivf-proposal-dc-diagnosis/?utm_campaign=rss",
+    "summary": "Plus: Democrats take on Trump over IVF, and Trump's White House releases a new science funding blueprint.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-28T16:37:26+00:00",
+    "date_str": "Jul 28, 2026"
+  },
+  {
+    "title": "STAT+: GSK lays out plans to cut costs, pursue more late-stage drug trials",
+    "url": "https://www.statnews.com/2026/07/28/gsk-earnings-report-luke-miels-strategy-late-stage-clinical-trials/?utm_campaign=rss",
+    "summary": "New GSK CEO Luke Miels outlined his strategy to help the company navigate a patent cliff and get on a path toward long-term growth.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-28T14:11:41+00:00",
+    "date_str": "Jul 28, 2026"
+  },
+  {
+    "title": "Amid U.S. funding cuts, the International AIDS Conference faces an uncertain future",
+    "url": "https://www.npr.org/2026/07/28/nx-s1-5909368/international-aids-conference-hiv",
+    "summary": "Dr. Kenneth Ngure, president-elect of the International AIDS Society, says, \"We have had very good scientific advances ... yet the funding cuts have also taken us back.\"",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-28T08:42:02+00:00",
+    "date_str": "Jul 28, 2026"
+  },
+  {
+    "title": "FDA Staff Unconvinced Drug for Melanoma Shows Benefit",
+    "url": "https://www.medpagetoday.com/hematologyoncology/skincancer/122377",
+    "summary": "(MedPage Today) -- Another attempt to win accelerated approval for RP1 (vusolimogene oderparepvec) -- a melanoma drug candidate that's already been rejected twice by the FDA -- could face tough going at a meeting of FDA's outside experts this...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-28T18:44:00+00:00",
+    "date_str": "Jul 28, 2026"
+  },
+  {
+    "title": "Future Studies Could Expand the Reach of Hypercortisolism Treatment",
+    "url": "https://www.medpagetoday.com/meetingcoverage/endovideopearls/122376",
+    "summary": "(MedPage Today) -- At ENDO 2026, the annual meeting of the Endocrine Society, experts highlighted the growing interest in understanding hypercortisolism beyond classic Cushing syndrome and its broader implications for cardiometabolic health. In...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-28T17:50:02+00:00",
+    "date_str": "Jul 28, 2026"
+  },
+  {
+    "title": "The Physician and the Peripheral Brain",
+    "url": "https://www.medpagetoday.com/opinion/patientcenteredmedicalhome/122375",
+    "summary": "(MedPage Today) -- There's been a lot written in the media lately about the risks and benefits of deskilling. Smarter and smarter artificial intelligence (AI) systems are taking over countless tasks across every aspect of society, from the mundane...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-28T17:38:51+00:00",
+    "date_str": "Jul 28, 2026"
+  },
+  {
+    "title": "NIH Funding Flows Slowly to Cancer Centers",
+    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/122374",
+    "summary": "(MedPage Today) -- Last year, National Cancer Institute (NCI)-designated cancer centers were worried about losing their status due to numerous delays in the grantmaking process. More than a year later, leadership at these centers said the situation...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-28T17:10:28+00:00",
+    "date_str": "Jul 28, 2026"
+  },
+  {
+    "title": "Autoinjectable Furosemide OK'd; Sodium Targets Flop; Cardiologist vs OHSU",
+    "url": "https://www.medpagetoday.com/cardiology/generalcardiology/122373",
+    "summary": "(MedPage Today) -- The FDA approved autoinjectable furosemide (Furoscix ReadyFlow) for the treatment of edema in adults with heart failure or chronic kidney disease, MannKind announced. The FIND-AF 2.0 electronic health record-based risk model...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-28T16:21:26+00:00",
+    "date_str": "Jul 28, 2026"
+  },
+  {
+    "title": "Johnson & Johnson Proposes $5.5B Talc Settlement to End Marathon Legal Fight",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/122371",
+    "summary": "(MedPage Today) -- Johnson & Johnson has agreed to pay $5.5 billion to tie up remaining lawsuits that claim its talc products caused ovarian cancer. The drugmaker, which has been fighting talc-related lawsuits for more than a decade, said...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-28T14:12:47+00:00",
+    "date_str": "Jul 28, 2026"
+  },
+  {
+    "title": "Federal Survey Shows Promising Trends for Youth Mental Health and Drug Use",
+    "url": "https://www.medpagetoday.com/psychiatry/generalpsychiatry/122370",
+    "summary": "(MedPage Today) -- A key U.S. government report on mental health, substance use, and addiction showed continued improvements in several metrics, especially among young people. There was some uncertainty about the future of the National Survey...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-28T13:51:08+00:00",
+    "date_str": "Jul 28, 2026"
+  },
+  {
+    "title": "Fauci's Diaries Released; Cold Brew Recalled; Carly Simon's Diagnosis",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/washington-watch/122369",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. As Anthony Fauci, MD, readies to testify before a Senate committee this week, thousands of pages of his diary entries were released by the office of Sen. Rand Paul...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-28T13:26:26+00:00",
+    "date_str": "Jul 28, 2026"
+  },
+  {
+    "title": "‘Back on track’: Centene swings to more than $1B in profit in Q2",
+    "url": "https://www.healthcaredive.com/news/centene-cnc-q2-2026-guidance-hike-aca-medicaid/826286/",
+    "summary": "The managed care giant raised its 2026 earnings outlook for the second time this year following the results, which its CFO called “fantastic.”",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-28T16:19:16+00:00",
+    "date_str": "Jul 28, 2026"
+  },
+  {
+    "title": "Previous vaccinations shouldn’t bar worker’s religious vaccine exemption request, 9th Circuit says",
+    "url": "https://www.healthcaredive.com/news/previous-vaccinations-shouldnt-bar-workers-religious-vaccine-exemption-re/826350/",
+    "summary": "The update is the latest in a COVID-19 vaccine mandate case brought by a former consultant against Kaiser Permanente's medical group.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-27T20:42:00+00:00",
+    "date_str": "Jul 27, 2026"
+  },
+  {
+    "title": "5 takeaways on Fauci's diaries during COVID-19 response",
+    "url": "https://thehill.com/policy/healthcare/5994836-fauci-diary-entries-covid/",
+    "summary": "In years’ worth of journal entries, Dr. Anthony Fauci wrote about the uncertainty surrounding the origins of COVID-19, the media attention he received during the pandemic and his “unique” relationship with President Trump. The office of Sen. Rand Paul (R-Ky.) released the entries, which Fauci wrote while he led the National Institute of Allergy and...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-07-28T18:54:57+00:00",
+    "date_str": "Jul 28, 2026"
+  },
+  {
+    "title": "Study finds alarming level of microplastics in heart attack patients' blood",
+    "url": "https://thehill.com/policy/healthcare/5994113-study-alarming-level-microplastics-heart-attack-patients/",
+    "summary": "Researchers found plastic particles in many heart attack patients' blood, raising new questions about health risks.",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-07-28T17:34:12+00:00",
+    "date_str": "Jul 28, 2026"
+  },
+  {
+    "title": "4 in 5 toddler foods at grocery stores are ultra-processed: Study",
+    "url": "https://thehill.com/policy/healthcare/5994543-ultra-processed-childrens-food/",
+    "summary": "Products most commonly exceeded recommendations for sugar, sodium, fat or calories.",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-07-28T17:02:42+00:00",
+    "date_str": "Jul 28, 2026"
+  },
+  {
+    "title": "Rand Paul on Fauci diary entries: 'Level of dishonesty is really astounding'",
+    "url": "https://thehill.com/homenews/senate/5993885-rand-paul-accuses-fauci-dishonesty-diary/",
+    "summary": "Senate Homeland Security Committee Chair Rand Paul (R-Ky.), who has published Dr. Anthony Fauci’s private diary from when he led the nation’s response to the COVID-19 pandemic in 2020, says that the entries reveal a “level of dishonesty” that is “really astounding.” “One of the biggest items that we found in there was that in...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-07-28T14:09:33+00:00",
+    "date_str": "Jul 28, 2026"
+  },
+  {
     "title": "Newsom Reverses on Long-Sought Paid Leave Benefit for Teachers in California",
     "url": "https://kffhealthnews.org/elections/newsom-california-teacher-paid-maternal-pregnancy-leave-reversal/",
     "summary": "California lawmakers gave public school teachers 14 weeks of paid leave in the state’s new budget, a long-sought benefit for the largely female workforce. Gov. Gavin Newsom previously opposed similar measures.",
@@ -9818,185 +9998,5 @@
     "category_slug": "healthcare-policy",
     "date": "2026-07-07T08:30:00+00:00",
     "date_str": "Jul 07, 2026"
-  },
-  {
-    "title": "STAT+: America’s small businesses are giving up on health insurance",
-    "url": "https://www.statnews.com/2026/07/07/small-business-health-insurance-costs-out-of-pocket-series-part-1/?utm_campaign=rss",
-    "summary": "America's employer-based health insurance system is crumbling. STAT investigates why, in our new series, “Out of Pocket, Out of Reach.”",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-07T08:30:00+00:00",
-    "date_str": "Jul 07, 2026"
-  },
-  {
-    "title": "STAT+: For a Georgia entrepreneur, health coverage has never been affordable",
-    "url": "https://www.statnews.com/2026/07/07/aca-health-insurance-small-business-out-of-pocket-series-part-2/?utm_campaign=rss",
-    "summary": "Amy Bielawski is one of the 30 million people who run their own businesses. She's gone most of her life without health insurance.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-07T08:30:00+00:00",
-    "date_str": "Jul 07, 2026"
-  },
-  {
-    "title": "Opinion: Medicine thinks Gen Z is too soft. It’s wrong",
-    "url": "https://www.statnews.com/2026/07/07/gen-z-doctors-too-soft/?utm_campaign=rss",
-    "summary": "“Gen Z physicians are on a collision course with institutions still built around older assumptions,” writes Frantz M. Berthaud.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-07T08:30:00+00:00",
-    "date_str": "Jul 07, 2026"
-  },
-  {
-    "title": "Trump administration cancels grants aimed at reducing teen pregnancies",
-    "url": "https://www.npr.org/2026/07/07/nx-s1-5875464/trump-administration-cancels-grants-aimed-at-reducing-teen-pregnancies",
-    "summary": "The Trump administration has canceled all but a handful of grants meant to teach teenagers and caregivers about reducing teen pregnancies, arguing they are \"normalizing sexual activity for minors.\"",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-07T08:41:10+00:00",
-    "date_str": "Jul 07, 2026"
-  },
-  {
-    "title": "Report Highlights Private Equity’s Lesser-Known Strategy: Nonprofit Joint Ventures",
-    "url": "https://medcitynews.com/2026/07/report-highlights-private-equitys-lesser-known-strategy-nonprofit-joint-ventures/",
-    "summary": "A new report finds private equity firms are increasingly using joint ventures with nonprofit health systems to expand in healthcare, prompting calls for greater oversight. The post Report Highlights Private Equity’s Lesser-Known Strategy: Nonprofit Joint Ventures appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-06T22:19:28+00:00",
-    "date_str": "Jul 06, 2026"
-  },
-  {
-    "title": "Why Penn Medicine Is Deploying AI Agents for Patient Intake",
-    "url": "https://medcitynews.com/2026/07/penn-medicine-agentic-ai/",
-    "summary": "Penn Medicine is integrating K Health’s AI-powered patient intake agents into its virtual primary care service. The health system says the goal is to free up time for patient care rather than information-gathering. The post Why Penn Medicine Is Deploying AI Agents for Patient Intake appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-06T20:44:38+00:00",
-    "date_str": "Jul 06, 2026"
-  },
-  {
-    "title": "STAT+: Vertex acquires Crinetics Pharmaceuticals for $10 billion as biotech M&A booms",
-    "url": "https://www.statnews.com/2026/07/06/vertex-acquires-crinetics-pharmaceuticals/?utm_campaign=rss",
-    "summary": "Vertex Pharmaceuticals will spend $10 billion to acquire Crinetics Pharmaceuticals and its drug for a rare endocrine disorder, the companies said.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-06T20:52:29+00:00",
-    "date_str": "Jul 06, 2026"
-  },
-  {
-    "title": "Obamacare rolls shrank dramatically in many states over the past year, new federal data shows",
-    "url": "https://www.statnews.com/2026/07/06/obamacare-rolls-shrank-dramatically-affordable-care-act-states/?utm_campaign=rss",
-    "summary": "States across the country saw steep drops in the number of people covered by the Affordable Care Act over the past year, according to new federal data.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-06T19:58:23+00:00",
-    "date_str": "Jul 06, 2026"
-  },
-  {
-    "title": "What a divorce coach wishes couples knew before ending a marriage",
-    "url": "https://www.npr.org/2026/07/07/nx-s1-5877797/end-marriage-good-terms-divorce",
-    "summary": "Divorce is a tool, not a weapon, says Karen McNenny, author of a new book on the subject. She explains how to end a marriage while protecting your family and your mental health.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-07T02:06:13+00:00",
-    "date_str": "Jul 07, 2026"
-  },
-  {
-    "title": "Get your reading glasses... in the post office",
-    "url": "https://www.npr.org/2026/07/06/nx-s1-5876417/get-your-reading-glasses-in-the-post-office",
-    "summary": "In some towns in India, people working for a non profit approach people who appear to have trouble reading small print to get them hooked up with glasses.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-06T20:37:59+00:00",
-    "date_str": "Jul 06, 2026"
-  },
-  {
-    "title": "Alzheimer's Biomarkers Change After Tuberculosis Vaccination",
-    "url": "https://www.medpagetoday.com/neurology/alzheimersdisease/122069",
-    "summary": "(MedPage Today) -- The bacillus Calmette-Guérin (BCG) vaccine, commonly used against tuberculosis, changed how immune cells behaved and altered markers linked to Alzheimer's disease in a pilot study involving two open-label trials. In a year...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-06T21:29:15+00:00",
-    "date_str": "Jul 06, 2026"
-  },
-  {
-    "title": "Chronically Short Sleep May Lead to Weight Gain in Adults With Heart Risks",
-    "url": "https://www.medpagetoday.com/primarycare/sleepdisorders/122056",
-    "summary": "(MedPage Today) -- Shorter periods of sleep over the long term may lead to weight gain in adults at increased risk for cardiometabolic disease, a pooled analysis of two randomized trials suggested. For adults with elevated cardiometabolic risk...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-06T21:00:00+00:00",
-    "date_str": "Jul 06, 2026"
-  },
-  {
-    "title": "Common Meds Linked to Reduced Immunotherapy Benefit in Lung Cancer Trial",
-    "url": "https://www.medpagetoday.com/hematologyoncology/lungcancer/122068",
-    "summary": "(MedPage Today) -- Exposure to proton pump inhibitors (PPIs) was associated with worse progression-free survival (PFS) and overall survival (OS) in patients with locally advanced non-small cell lung cancer (NSCLC) who were treated with durvalumab...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-06T20:38:16+00:00",
-    "date_str": "Jul 06, 2026"
-  },
-  {
-    "title": "ACA Rolls Shrank Dramatically in Many States Over the Past Year, Federal Data Show",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/122067",
-    "summary": "(MedPage Today) -- States across the country saw steep drops in the number of people covered by the Affordable Care Act (ACA) over the past year, with Ohio and Oklahoma each losing nearly one-third of enrollees, according to new federal data that...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-06T20:34:43+00:00",
-    "date_str": "Jul 06, 2026"
-  },
-  {
-    "title": "Medicare Advantage plans set to rake in $13B in 2026 quality bonus payments",
-    "url": "https://www.fiercehealthcare.com/payers/medicare-advantage-plans-set-rake-13b-2026-quality-bonus-payments",
-    "summary": "The feds are set to pay out at least $13.4 billion in Medicare quality bonus payments this year, up slightly year-over-year and reflecting a rapid escalation in spending over the past decade, a new report shows.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-07T03:18:51.773810+00:00",
-    "date_str": "Jul 07, 2026"
-  },
-  {
-    "title": "Elevance Health sues CMS over MA star ratings recalculations",
-    "url": "https://www.fiercehealthcare.com/payers/elevance-health-sues-cms-over-ma-star-ratings-recalculations",
-    "summary": "Elevance Health is suing the feds over its recent recalculations for the 2026 Medicare Advantage star ratings.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-07T03:18:51.773866+00:00",
-    "date_str": "Jul 07, 2026"
-  },
-  {
-    "title": "When Health System Joint Ventures Need Growth Capital, Don’t Overlook the Bank",
-    "url": "https://www.fiercehealthcare.com/sponsored/when-health-system-joint-ventures-need-growth-capital-dont-overlook-bank",
-    "summary": "Physician joint ventures can unlock growth capital through a bankable holding company. Learn how Provident Bank structures these facilities.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-07T03:18:51.773910+00:00",
-    "date_str": "Jul 07, 2026"
-  },
-  {
-    "title": "A $1B Acquisition Gives Novartis a Way to Stand Out in Crowded Area of Cancer",
-    "url": "https://medcitynews.com/2026/07/novartis-myricx-acquisition-cancer-nmt-inhibitor-antibody-drug-conjugate-adc-nvs/",
-    "summary": "Myricx Bio brings to Novartis antibody drug conjugates with a novel cancer-killing payload called an NMT inhibitor. Novartis says Myricx’s drugs could have advantages over currently available ADCs as well as those still in clinical development. The post A $1B Acquisition Gives Novartis a Way to Stand Out in Crowded Area of Cancer appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-06T19:11:41+00:00",
-    "date_str": "Jul 06, 2026"
   }
 ]
