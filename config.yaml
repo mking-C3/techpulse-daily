@@ -2,7 +2,31 @@ site:
   name: "Medicare Monitor"
   tagline: "Tracking Medicare news, policy, and coverage changes."
   base_url: "https://www.MedicareMonitor.co"
-  adsense_publisher_id: "ca-pub-XXXXXXXXXXXXXXXX"  # ← fill in after AdSense approval
+  adsense_publisher_id: "ca-pub-4655632038473484"
+  contact_email: "contact@medicaremonitor.co"
+  footer_disclaimer: >-
+    Medicare Monitor is an independent news aggregation service and is not
+    affiliated with, endorsed by, or connected to the U.S. government, the
+    Centers for Medicare & Medicaid Services (CMS), or the official Medicare
+    program. For official information visit Medicare.gov.
+
+# Static pages rendered with the site chrome and linked from the footer.
+# Each entry needs: slug (URL path), title, description, file (body fragment).
+pages:
+  - slug: privacy
+    title: "Privacy Policy"
+    description: "How Medicare Monitor handles data, cookies, and advertising."
+    file: pages/privacy.html
+
+  - slug: about
+    title: "About"
+    description: "What Medicare Monitor is and how our curation works."
+    file: pages/about.html
+
+  - slug: contact
+    title: "Contact"
+    description: "How to reach the Medicare Monitor team."
+    file: pages/contact.html
 
 feeds:
   - category: "Medicare News"

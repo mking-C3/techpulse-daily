@@ -46,6 +46,9 @@ Open `config.yaml` and fill in:
 | `site.tagline` | Short description shown on the homepage |
 | `site.base_url` | Your Cloudflare Pages URL (e.g. `https://my-site.pages.dev`) — update this after step 4 |
 | `site.adsense_publisher_id` | Your AdSense publisher ID (e.g. `ca-pub-1234567890`) — fill in after AdSense approval |
+| `site.contact_email` | Email shown on the contact page |
+| `site.footer_disclaimer` | Optional disclaimer line rendered in the footer of every page |
+| `pages` | Static pages (privacy, about, contact, …) — each maps a URL slug to a body fragment in `pages/` |
 | `feeds` | Add/remove RSS feed entries (category + url) |
 | `settings.*` | Tune post limits and pagination |
 
@@ -83,9 +86,10 @@ This does the initial fetch and commits `output/`, which triggers a Cloudflare P
 1. Apply at [Google AdSense](https://www.google.com/adsense/)
 2. Once approved, copy your publisher ID (`ca-pub-XXXXXXXXXX`)
 3. Paste it into `config.yaml` → `site.adsense_publisher_id`
-4. Commit — the next build will insert the AdSense script tag and an auto-ad unit
+4. Commit — the next build will insert the AdSense script tag into every page and generate `output/ads.txt`
+5. After approval, enable **Auto ads** in the AdSense dashboard — the script tag already on every page handles placement
 
-The AdSense script is only injected when the publisher ID is set to a real value (not the placeholder).
+The AdSense script and ads.txt are only generated when the publisher ID is set to a real value (not the placeholder).
 
 ---
 
@@ -93,16 +97,20 @@ The AdSense script is only injected when the publisher ID is set to a real value
 
 ```
 .
-├── config.yaml              ← THE ONLY FILE YOU NEED TO EDIT
+├── config.yaml              ← Main config (site, pages, feeds, settings)
 ├── fetch_and_build.py       ← Core script (fetch + build)
 ├── requirements.txt         ← Python dependencies
 ├── seen_urls.json           ← Deduplication state (auto-managed)
 ├── articles.json            ← Article store (auto-managed)
+├── pages/                   ← Static page body fragments (privacy, about, contact)
 ├── output/                  ← Generated site (auto-managed, served by CF Pages)
 │   ├── index.html
 │   ├── page-2.html          ← Homepage pagination
+│   ├── privacy.html         ← Static pages (from pages/ fragments)
+│   ├── 404.html             ← Real 404s on Cloudflare Pages
 │   ├── sitemap.xml
 │   ├── robots.txt
+│   ├── ads.txt              ← Generated when AdSense ID is configured
 │   └── category/
 │       └── {slug}/
 │           ├── index.html
