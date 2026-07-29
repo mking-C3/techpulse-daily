@@ -49,6 +49,7 @@ nav{
 .page-header{margin-bottom:1.4rem;padding-bottom:.9rem;border-bottom:2px solid var(--border)}
 .page-header h1{font-size:1.65rem;color:var(--brand)}
 .page-header p{color:var(--muted);margin-top:.25rem;font-size:.93rem}
+.page-intro{max-width:56rem;color:#475569!important}
 
 /* ── Grid ── */
 .grid{
@@ -163,16 +164,17 @@ footer p{margin:.25rem 0}
     <a class="nav-brand" href="/">Medicare Monitor</a>
     <ul class="nav-links">
       <li><a href="/" class="active" aria-current="page">All</a></li>
-      
-      <li><a href="/category/senior-health/">Senior Health</a></li>
-      
-      <li><a href="/category/medicare-news/">Medicare News</a></li>
+      <li><a href="/guides/">Guides</a></li>
       
       <li><a href="/category/healthcare-policy/">Healthcare Policy</a></li>
+      
+      <li><a href="/category/senior-health/">Senior Health</a></li>
       
       <li><a href="/category/drug-coverage/">Drug Coverage</a></li>
       
       <li><a href="/category/industry-news/">Industry News</a></li>
+      
+      <li><a href="/category/medicare-news/">Medicare News</a></li>
       
     </ul>
   </div>
@@ -189,9 +191,54 @@ footer p{margin:.25rem 0}
   <div class="page-header">
     <h1>Medicare Monitor</h1>
     <p>Tracking Medicare news, policy, and coverage changes.</p>
+    
   </div>
 
   <div class="grid">
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Healthcare Policy</span>
+      <span class="card-source">NPR Topics: Health</span>
+      <time class="card-date" datetime="2026-07-24">Jul 24, 2026</time>
+    </div>
+    <h2><a href="https://www.npr.org/2026/07/24/nx-s1-5904553/a-doctor-shares-how-much-sleep-people-need-to-function-through-the-day" target="_blank" rel="noopener noreferrer nofollow">A doctor shares how much sleep people need to function through the day</a></h2>
+    <p class="card-summary">Japan&#39;s prime minister says she gets just &#34;zero to three hours&#34; of sleep per night. NPR&#39;s Michel Martin asks Johns Hopkins&#39; Dr. Sara Benjamin how much sleep most people need to get through the day.</p>
+    <a class="read-more" href="https://www.npr.org/2026/07/24/nx-s1-5904553/a-doctor-shares-how-much-sleep-people-need-to-function-through-the-day" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Drug Coverage</span>
+      <span class="card-source">Fierce Healthcare</span>
+      <time class="card-date" datetime="2026-07-24">Jul 24, 2026</time>
+    </div>
+    <h2><a href="https://www.fiercehealthcare.com/ai-and-machine-learning/openai-makes-health-chatgpt-widely-available-moving-deeper-consumer-health" target="_blank" rel="noopener noreferrer nofollow">OpenAI makes Health in ChatGPT widely available, moving deeper into consumer health</a></h2>
+    <p class="card-summary">OpenAI on Thursday made its Health in ChatGPT feature broadly available, enabling U.S. users to connect its artificial intelligence chatbot with medical records and wellness apps.</p>
+    <a class="read-more" href="https://www.fiercehealthcare.com/ai-and-machine-learning/openai-makes-health-chatgpt-widely-available-moving-deeper-consumer-health" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Medicare News</span>
+      <span class="card-source">MedCity News</span>
+      <time class="card-date" datetime="2026-07-24">Jul 24, 2026</time>
+    </div>
+    <h2><a href="https://medcitynews.com/2026/07/scribe-therapeutics-ipo-crispr-genetic-medicine-pcsk9-ascvd-sctx/" target="_blank" rel="noopener noreferrer nofollow">CRISPR Biotech Scribe Therapeutics Writes a New Chapter With $129M IPO</a></h2>
+    <p class="card-summary">Scribe Therapeutics’ IPO will support a pipeline led by a genetic medicine that represses expression of its target gene without making permanent changes. Common chronic cardiometabolic conditions are Scribe’s initial focus as the biotech works to bring genetic medicines beyond rare diseases. The post CRISPR Biotech Scribe Therapeutics Writes a New Chapter With $129M IPO appeared first on MedCity News .</p>
+    <a class="read-more" href="https://medcitynews.com/2026/07/scribe-therapeutics-ipo-crispr-genetic-medicine-pcsk9-ascvd-sctx/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
+
+  <article class="card">
+    <div class="card-meta">
+      <span class="badge">Medicare News</span>
+      <span class="card-source">MedCity News</span>
+      <time class="card-date" datetime="2026-07-24">Jul 24, 2026</time>
+    </div>
+    <h2><a href="https://medcitynews.com/2026/07/healthcare-investors-medcity-ai/" target="_blank" rel="noopener noreferrer nofollow">Healthcare Investors Are Rewriting the ROI Playbook from Cost-Cutting to Cash Flow</a></h2>
+    <p class="card-summary">Unlike past healthcare tech waves sold on cost savings, AI is proving it can generate new revenue — with returns as high as 100x, according to a panel of investors at MedCity News’ Bullseye event. The post Healthcare Investors Are Rewriting the ROI Playbook from Cost-Cutting to Cash Flow appeared first on MedCity News .</p>
+    <a class="read-more" href="https://medcitynews.com/2026/07/healthcare-investors-medcity-ai/" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
+  </article>
 
   <article class="card">
     <div class="card-meta">
@@ -279,50 +326,6 @@ footer p{margin:.25rem 0}
     <h2><a href="https://www.medpagetoday.com/publichealthpolicy/publichealth/122325" target="_blank" rel="noopener noreferrer nofollow">Senate Committee Postpones Vote on Whether to Advance CDC Director Nominee</a></h2>
     <p class="card-summary">(MedPage Today) -- The Senate health committee delayed a planned vote Thursday on whether to advance the nomination of Erica Schwartz, MD, MPH, to lead the CDC. The committee plans to vote next week on whether to forward Schwartz&#39;s nomination...</p>
     <a class="read-more" href="https://www.medpagetoday.com/publichealthpolicy/publichealth/122325" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
-  </article>
-
-  <article class="card">
-    <div class="card-meta">
-      <span class="badge">Senior Health</span>
-      <span class="card-source">MedPageToday.com - medical news for physicians</span>
-      <time class="card-date" datetime="2026-07-23">Jul 23, 2026</time>
-    </div>
-    <h2><a href="https://www.medpagetoday.com/popmedicine/popmedicine/122324" target="_blank" rel="noopener noreferrer nofollow">Which Lettuce Is Safe? &#39;Princess of Proper Sun Protection&#39;; Ob/Gyn&#39;s Secret Weapon</a></h2>
-    <p class="card-summary">(MedPage Today) -- The following contains links to social media websites including Bluesky, X, TikTok, Instagram, Facebook, and LinkedIn. Public health professional Alex Sundermann, DrPH, explained that determining which lettuce is safe to eat...</p>
-    <a class="read-more" href="https://www.medpagetoday.com/popmedicine/popmedicine/122324" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
-  </article>
-
-  <article class="card">
-    <div class="card-meta">
-      <span class="badge">Senior Health</span>
-      <span class="card-source">MedPageToday.com - medical news for physicians</span>
-      <time class="card-date" datetime="2026-07-23">Jul 23, 2026</time>
-    </div>
-    <h2><a href="https://www.medpagetoday.com/gastroenterology/generalgastroenterology/122323" target="_blank" rel="noopener noreferrer nofollow">Singing for Chronic Belching; Excess Cancers in Crohn&#39;s; Dual Agonist for Liver Fat</a></h2>
-    <p class="card-summary">(MedPage Today) -- In a Chinese randomized trial, structured singing therapy for supragastric belching led to significantly greater response rates compared with diaphragmatic breathing. (Clinical Gastroenterology and Hepatology) Analysis of FDA...</p>
-    <a class="read-more" href="https://www.medpagetoday.com/gastroenterology/generalgastroenterology/122323" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
-  </article>
-
-  <article class="card">
-    <div class="card-meta">
-      <span class="badge">Senior Health</span>
-      <span class="card-source">MedPageToday.com - medical news for physicians</span>
-      <time class="card-date" datetime="2026-07-23">Jul 23, 2026</time>
-    </div>
-    <h2><a href="https://www.medpagetoday.com/washington-watch/washington-watch/122322" target="_blank" rel="noopener noreferrer nofollow">HHS Changes Two Vaccine Committee Charters</a></h2>
-    <p class="card-summary">(MedPage Today) -- HHS has altered the charters of two vaccine-related committees: the Advisory Commission on Childhood Vaccines (ACCV) and the National Vaccine Advisory Committee (NVAC). The timing isn&#39;t unusual, as both charters are up for renewal...</p>
-    <a class="read-more" href="https://www.medpagetoday.com/washington-watch/washington-watch/122322" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
-  </article>
-
-  <article class="card">
-    <div class="card-meta">
-      <span class="badge">Senior Health</span>
-      <span class="card-source">MedPageToday.com - medical news for physicians</span>
-      <time class="card-date" datetime="2026-07-23">Jul 23, 2026</time>
-    </div>
-    <h2><a href="https://www.medpagetoday.com/dermatology/generaldermatology/122321" target="_blank" rel="noopener noreferrer nofollow">Uncommon Autonomic Tachycardia Syndrome Linked to Classic Dermatomyositis</a></h2>
-    <p class="card-summary">(MedPage Today) -- Autonomic tachycardia has a significantly stronger association with classic dermatomyositis (DM) than previously recognized and may warrant evaluation in symptomatic patients, authors of a retrospective review concluded. Almost...</p>
-    <a class="read-more" href="https://www.medpagetoday.com/dermatology/generaldermatology/122321" target="_blank" rel="noopener noreferrer nofollow">Read full article &#x2192;</a>
   </article>
 
 </div>

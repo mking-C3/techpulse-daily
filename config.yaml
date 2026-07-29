@@ -10,6 +10,66 @@ site:
     Centers for Medicare & Medicaid Services (CMS), or the official Medicare
     program. For official information visit Medicare.gov.
 
+# Original editorial guides — rendered at /guides/<slug>/ with a /guides/ index
+# and a "Guides" link in the nav. Each needs: slug, title, description, file.
+guides_index:
+  title: "Medicare Guides"
+  description: "Plain-English explainers on how Medicare works, written and fact-checked by our editorial team against official sources."
+
+guides:
+  - slug: medicare-parts-explained
+    title: "Medicare Parts A, B, C, and D, Explained Simply"
+    description: "A plain-English guide to what Medicare Parts A, B, C, and D cover, how they fit together, and what the premiums and cost-sharing look like in 2026."
+    file: guides/medicare-parts-explained.html
+
+  - slug: medicare-advantage-vs-original
+    title: "Medicare Advantage vs. Original Medicare: A 2026 Guide"
+    description: "How Medicare Advantage and Original Medicare differ on networks, prior authorization, out-of-pocket caps, and Medigap access — a neutral 2026 guide."
+    file: guides/medicare-advantage-vs-original.html
+
+  - slug: medicare-enrollment-periods
+    title: "Medicare Enrollment Periods Explained: Every Window and Deadline"
+    description: "A plain-English guide to Medicare's enrollment windows — IEP, General Enrollment, MA Open Enrollment, fall Open Enrollment, SEPs, and late penalties."
+    file: guides/medicare-enrollment-periods.html
+
+  - slug: part-d-drug-coverage
+    title: "How Medicare Part D Drug Coverage Works in 2026"
+    description: "A plain-English guide to Medicare Part D in 2026: plan structure, formularies and tiers, the $2,100 out-of-pocket cap, monthly payment option, and Extra Help."
+    file: guides/part-d-drug-coverage.html
+
+  - slug: medigap-basics
+    title: "Medigap Basics: How Medicare Supplement Insurance Works"
+    description: "What Medigap covers, how standardized plan letters work, the one-time 6-month open enrollment window, and why it pairs only with Original Medicare."
+    file: guides/medigap-basics.html
+
+# Editorial intro copy — unique original text shown on the first page of the
+# homepage and each category listing.
+homepage_intro: >-
+  Medicare Monitor tracks Medicare reporting across trusted health-policy
+  newsrooms — including KFF Health News, STAT, MedPage Today, and Politico —
+  and gathers the stories that matter to beneficiaries, caregivers, and
+  professionals in one place, updated several times a day. New to Medicare?
+  Start with our plain-English guides.
+
+category_intros:
+  "Medicare News": >-
+    The latest reporting on the Medicare program itself — coverage changes,
+    plan news, CMS announcements, and what they mean for beneficiaries.
+  "Healthcare Policy": >-
+    Policy decisions in Washington and the states shape what Medicare covers
+    and costs. These stories track the legislation, regulation, and politics
+    behind the program.
+  "Senior Health": >-
+    Health news that matters most to older adults — prevention, treatment,
+    aging research, and the care system seniors rely on.
+  "Drug Coverage": >-
+    Prescription drug prices and Part D coverage are among the fastest-moving
+    parts of Medicare. Follow price negotiations, formulary changes, and
+    out-of-pocket cost news here.
+  "Industry News": >-
+    What hospitals, insurers, and health systems are doing — consolidation,
+    earnings, and strategy moves that ripple into Medicare coverage and access.
+
 # Static pages rendered with the site chrome and linked from the footer.
 # Each entry needs: slug (URL path), title, description, file (body fragment).
 pages:

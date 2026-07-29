@@ -27,7 +27,7 @@ from pathlib import Path
 import feedparser
 import yaml
 from jinja2 import Environment, BaseLoader
-from markupsafe import Markup
+from markupsafe import Markup, escape
 
 # ---------------------------------------------------------------------------
 # Paths
@@ -245,6 +245,7 @@ nav{
 .page-header{margin-bottom:1.4rem;padding-bottom:.9rem;border-bottom:2px solid var(--border)}
 .page-header h1{font-size:1.65rem;color:var(--brand)}
 .page-header p{color:var(--muted);margin-top:.25rem;font-size:.93rem}
+.page-intro{max-width:56rem;color:#475569!important}
 
 /* ── Grid ── */
 .grid{
@@ -382,6 +383,7 @@ PAGE_TMPL = """\
     <a class="nav-brand" href="/">{{ site_name }}</a>
     <ul class="nav-links">
       <li><a href="/"{% if active == 'home' %} class="active" aria-current="page"{% endif %}>All</a></li>
+      {% if has_guides %}<li><a href="/guides/"{% if active == 'guides' %} class="active" aria-current="page"{% endif %}>Guides</a></li>{% endif %}
       {% for cat in categories %}
       <li><a href="/category/{{ cat.slug }}/"{% if active == cat.slug %} class="active" aria-current="page"{% endif %}>{{ cat.name }}</a></li>
       {% endfor %}
@@ -400,6 +402,7 @@ PAGE_TMPL = """\
   <div class="page-header">
     <h1>{{ heading }}</h1>
     {% if subheading %}<p>{{ subheading }}</p>{% endif %}
+    {% if intro %}<p class="page-intro">{{ intro }}</p>{% endif %}
   </div>
 
   {{ grid }}
@@ -512,6 +515,17 @@ def build_site(config: dict, articles: list) -> None:
             raise SystemExit(f"ERROR: page fragment missing: {p['file']}")
     static_links = [{"slug": p["slug"], "title": p["title"]} for p in pages_cfg]
 
+    # Editorial guides declared in config → /guides/ section + nav link
+    guides_cfg = config.get("guides", [])
+    for g in guides_cfg:
+        if not (ROOT / g["file"]).exists():
+            raise SystemExit(f"ERROR: guide fragment missing: {g['file']}")
+    has_guides = bool(guides_cfg)
+
+    # Optional editorial intros (unique original text on listing pages)
+    homepage_intro  = config.get("homepage_intro", "")
+    category_intros = config.get("category_intros", {}) or {}
+
     # Stamp ISO date for <time datetime="…">
     for a in articles:
         d = a.get("date")
@@ -526,7 +540,7 @@ def build_site(config: dict, articles: list) -> None:
         title: str, desc: str, canonical: str,
         heading: str, subheading: str,
         grid_html: str, pagination_html: str,
-        active: str,
+        active: str, intro: str = "",
     ) -> None:
         html_out = page_tmpl.render(
             title      = title,
@@ -534,6 +548,8 @@ def build_site(config: dict, articles: list) -> None:
             canonical  = canonical,
             heading    = heading,
             subheading = subheading,
+            intro      = intro,
+            has_guides = has_guides,
             grid       = Markup(grid_html),
             pagination = Markup(pagination_html),
             active     = active,
@@ -563,6 +579,7 @@ def build_site(config: dict, articles: list) -> None:
             grid_html  = grid_tmpl.render(articles=batch),
             pagination_html = render_pagination("/", pn, len(home_pages)),
             active     = "home",
+            intro      = homepage_intro if pn == 1 else "",
         )
 
     # ------------------------------------------------------------------
@@ -588,6 +605,7 @@ def build_site(config: dict, articles: list) -> None:
                 grid_html  = grid_tmpl.render(articles=batch),
                 pagination_html = render_pagination(cat_base, pn, len(cat_pages)),
                 active     = cat["slug"],
+                intro      = category_intros.get(cat["name"], "") if pn == 1 else "",
             )
 
     # ------------------------------------------------------------------
@@ -611,6 +629,57 @@ def build_site(config: dict, articles: list) -> None:
             grid_html  = body,
             pagination_html = "",
             active     = p["slug"],
+        )
+
+    # ------------------------------------------------------------------
+    # Editorial guides (original content) → /guides/<slug>/ + /guides/ index
+    # ------------------------------------------------------------------
+    if guides_cfg:
+        gi_cfg   = config.get("guides_index", {}) or {}
+        gi_title = gi_cfg.get("title", "Guides")
+        gi_desc  = gi_cfg.get("description", "Original explainers from our editorial team.")
+
+        guides_dir = OUTPUT / "guides"
+        guides_dir.mkdir(exist_ok=True)
+        for g in guides_cfg:
+            body = env.from_string((ROOT / g["file"]).read_text(encoding="utf-8")).render(
+                site_name     = site["name"],
+                base_url      = base_url,
+                year          = year,
+                contact_email = site.get("contact_email", ""),
+            )
+            g_dir = guides_dir / g["slug"]
+            g_dir.mkdir(exist_ok=True)
+            write_page(
+                g_dir / "index.html",
+                title      = f"{g['title']} — {site['name']}",
+                desc       = g.get("description", ""),
+                canonical  = f"{base_url}/guides/{g['slug']}/",
+                heading    = g["title"],
+                subheading = g.get("description", ""),
+                grid_html  = body,
+                pagination_html = "",
+                active     = "guides",
+            )
+
+        cards = "".join(
+            f'<article class="card">'
+            f'<h2><a href="/guides/{g["slug"]}/">{escape(g["title"])}</a></h2>'
+            f'<p class="card-summary">{escape(g.get("description", ""))}</p>'
+            f'<a class="read-more" href="/guides/{g["slug"]}/">Read guide &#x2192;</a>'
+            f'</article>'
+            for g in guides_cfg
+        )
+        write_page(
+            guides_dir / "index.html",
+            title      = f"{gi_title} — {site['name']}",
+            desc       = gi_desc,
+            canonical  = f"{base_url}/guides/",
+            heading    = gi_title,
+            subheading = gi_desc,
+            grid_html  = f'<div class="grid">{cards}</div>',
+            pagination_html = "",
+            active     = "guides",
         )
 
     # ------------------------------------------------------------------
@@ -650,6 +719,18 @@ def build_site(config: dict, articles: list) -> None:
             f"<lastmod>{today}</lastmod><changefreq>monthly</changefreq>"
             f"<priority>0.3</priority></url>"
         )
+    if guides_cfg:
+        locs.append(
+            f"  <url><loc>{base_url}/guides/</loc>"
+            f"<lastmod>{today}</lastmod><changefreq>weekly</changefreq>"
+            f"<priority>0.7</priority></url>"
+        )
+        for g in guides_cfg:
+            locs.append(
+                f"  <url><loc>{base_url}/guides/{g['slug']}/</loc>"
+                f"<lastmod>{today}</lastmod><changefreq>monthly</changefreq>"
+                f"<priority>0.6</priority></url>"
+            )
 
     sitemap = (
         '<?xml version="1.0" encoding="UTF-8"?>\n'

@@ -1,5 +1,45 @@
 [
   {
+    "title": "NSF testing new Ph.D. model giving trainees academic and industry experience",
+    "url": "https://www.statnews.com/2026/07/29/hybrid-academia-industry-phd-program-announced-uidp/?utm_campaign=rss",
+    "summary": "Young life scientists have been increasingly abandoning academia, a seismic shift that has fueled calls for rethinking graduate education. On Wednesday, the Trump administration announced that it’s funding a pilot…",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-29T21:36:13+00:00",
+    "date_str": "Jul 29, 2026"
+  },
+  {
+    "title": "CMS to end subsidies for Medicare drug plan premiums",
+    "url": "https://www.healthcaredive.com/news/cms-end-part-d-premium-stabilization-demonstration-subsidies-drugs/826490/",
+    "summary": "The CMS said the program, which went into effect last year to stabilize Part D premiums and enrollment, isn’t needed anymore. One researcher said some enrollees could see higher premium increases in 2027 as a result.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-29T16:15:31+00:00",
+    "date_str": "Jul 29, 2026"
+  },
+  {
+    "title": "CMS ending Medicare Part D subsidy program",
+    "url": "https://www.fiercehealthcare.com/regulatory/cms-ending-medicare-part-d-subsidy-program",
+    "summary": "The Trump administration announced that it will end a subsidy program that aimed to keep premiums low for Medicare Part D beneficiaries.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-29T22:00:28.189732+00:00",
+    "date_str": "Jul 29, 2026"
+  },
+  {
+    "title": "Fauci's legal protection from pardon, Fifth Amendment is an open question",
+    "url": "https://thehill.com/homenews/5997714-anthony-fauci-fifth-amendment-pardon-contempt-vote-legal-exposure/",
+    "summary": "Former White House medical adviser and COVID-19 czar Dr. Anthony Fauci is set to face a contempt vote in a Senate panel next week after he asserted his Fifth Amendment rights during a hearing about his response to the pandemic. Senate Homeland Security and Governmental Affairs Committee Chair Rand Paul (R-Ky.) said it was an...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-07-29T21:34:26+00:00",
+    "date_str": "Jul 29, 2026"
+  },
+  {
     "title": "CAR T-Cell Therapy in Pregnant Autoimmune Patients: Safe for Baby?",
     "url": "https://www.medpagetoday.com/rheumatology/generalrheumatology/122395",
     "summary": "(MedPage Today) -- So far, pregnancies among the first women treated with chimeric antigen receptor (CAR) T-cell therapy for autoimmune rheumatologic diseases have proceeded without any concerns, researchers reported. With 14 pregnancies occurring...",
@@ -9957,46 +9997,6 @@
     "category": "Drug Coverage",
     "category_slug": "drug-coverage",
     "date": "2026-07-08T19:23:52.725694+00:00",
-    "date_str": "Jul 08, 2026"
-  },
-  {
-    "title": "ACA plans set for another year of premium spikes, preliminary filings show",
-    "url": "https://www.fiercehealthcare.com/payers/aca-plans-set-another-year-premium-spikes-preliminary-filings-show",
-    "summary": "Plans on the Affordable Care Act's exchanges are set for further premium increases next year, a new report shows.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-08T19:23:52.725751+00:00",
-    "date_str": "Jul 08, 2026"
-  },
-  {
-    "title": "Primary care’s AI moment",
-    "url": "https://www.fiercehealthcare.com/providers/primary-cares-ai-moment",
-    "summary": "Artificial intelligence is here to stay, and physicians should be learning how to use it thoughtfully. That’s the argument Shawn Martin, CEO of the American Academy of Family Physicians, makes in a conversation with Senior Writer Anastassia Gliadkovskaya.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-08T19:23:52.725794+00:00",
-    "date_str": "Jul 08, 2026"
-  },
-  {
-    "title": "Abbott orders Texas officials to investigate hospital over 'birth packages' for foreign nationals",
-    "url": "https://thehill.com/homenews/state-watch/5959235-abbott-texas-birth-tourism/",
-    "summary": "Texas Gov. Greg Abbott (R) directed state officials on Tuesday to “immediately” launch an investigation into a state hospital for allegedly seeking to profit from “birth tourism” practices. Abbott said in a letter to Stephanie Muth, the executive commissioner of the Texas Health and Human Services Commission, that Mission Regional Medical Center has advertised “BIRTH...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-07-08T16:16:38+00:00",
-    "date_str": "Jul 08, 2026"
-  },
-  {
-    "title": "Idaho mom charged with murder after blaming vaccines in death of her twins",
-    "url": "https://thehill.com/homenews/state-watch/5955066-idaho-mom-vaccines-deaths/",
-    "summary": "An Idaho mother who allegedly claimed her twins died after receiving three vaccines has been charged with murder in their deaths, officials said last week.",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-07-08T14:59:00+00:00",
     "date_str": "Jul 08, 2026"
   }
 ]
