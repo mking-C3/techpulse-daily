@@ -1,5 +1,65 @@
 [
   {
+    "title": "STAT+: Clinical chatbots are taking medicine by storm. Should doctors trust them?",
+    "url": "https://www.statnews.com/2026/07/29/clinical-ai-vs-generalist-llm-benchmark-study-trust-accuracy-safety/?utm_campaign=rss",
+    "summary": "As LLMs compete for doctors' attention, some developers say the science of benchmarking their AI tools for safety and accuracy is flawed.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-29T08:30:00+00:00",
+    "date_str": "Jul 29, 2026"
+  },
+  {
+    "title": "STAT+: In the biotech industry, a most-wanted fugitive was long hiding in plain sight",
+    "url": "https://www.statnews.com/2026/07/29/ronald-fischer-fugitive-used-alias-forged-cv-held-biotech-executive-jobs/?utm_campaign=rss",
+    "summary": "Ronald Fischer, a most-wanted fugitive, was long hiding in the biotech industry in plain sight, and using an alias more extensively than has been previously reported.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-29T08:30:00+00:00",
+    "date_str": "Jul 29, 2026"
+  },
+  {
+    "title": "Opinion: The VA could help America win the biotechnology race with China",
+    "url": "https://www.statnews.com/2026/07/29/biotech-race-china-veterans-affairs-va/?utm_campaign=rss",
+    "summary": "“Together, HHS, the VA, and the DOD form a strong American innovation ecosystem — one that China and other competitors cannot easily replicate,” writes former VA Secretary David Shulkin.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-29T08:30:00+00:00",
+    "date_str": "Jul 29, 2026"
+  },
+  {
+    "title": "Opinion: Prolonged hospital stays can leave children isolated. It needs to change",
+    "url": "https://www.statnews.com/2026/07/29/long-hospital-stays-children-research-isolation/?utm_campaign=rss",
+    "summary": "“The effects of isolation extend far beyond children’s time in the hospital,” writes medical student Anna Tsioulias.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-29T08:30:00+00:00",
+    "date_str": "Jul 29, 2026"
+  },
+  {
+    "title": "Included Health to acquire Firefly Health",
+    "url": "https://www.healthcaredive.com/news/included-firefly-health-acquisition/826373/",
+    "summary": "Included is hoping that Firefly’s offerings will help set it apart in a crowded employee benefits space, especially as employers become increasingly open to alternative health plan arrangements.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-07-28T16:06:33+00:00",
+    "date_str": "Jul 28, 2026"
+  },
+  {
+    "title": "Collins says State Department will reinstate funding for global humanitarian vaccine alliance",
+    "url": "https://thehill.com/policy/healthcare/5995754-collins-says-gavi-funding-reinstated/",
+    "summary": "Sen. Susan Collins (R-Maine) said Tuesday that the State Department is set to reinstate funding for a global humanitarian vaccine program after the Trump administration previously paused the program. “It is welcome news that following our recent outreach, the State Department has committed to contributing the full $600 million for GAVI, the Vaccine Alliance,” Collins...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-07-29T02:43:09+00:00",
+    "date_str": "Jul 29, 2026"
+  },
+  {
     "title": "Smart Toilet Sensor Startup Is Flush with $10M Funding",
     "url": "https://medcitynews.com/2026/07/toilet-wearable-throne-science-funding/",
     "summary": "Throne Science — a startup selling an AI-powered toilet camera that tracks gut health, hydration and urinary function — closed a $10 million Series A funding round. CEO Scott Hickle said the goal is to become a “smoke detector for colorectal cancer,” filling a monitoring gap he noted the wearables industry has largely ignored. The post Smart Toilet Sensor Startup Is Flush with $10M Funding appeared first on MedCity News .",
@@ -9937,66 +9997,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-07-07T15:14:02+00:00",
-    "date_str": "Jul 07, 2026"
-  },
-  {
-    "title": "AdaptHealth discloses patient data was stolen in cyberattack",
-    "url": "https://www.healthcaredive.com/news/adapthealth-discloses-patient-data-was-stolen-in-cyberattack/824601/",
-    "summary": "The medical device supplier said that a threat actor accessed company systems through a social engineering attack.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-07T15:19:06+00:00",
-    "date_str": "Jul 07, 2026"
-  },
-  {
-    "title": "Ascension to buy Tennessee system Williamson Health in $1B deal",
-    "url": "https://www.healthcaredive.com/news/ascension-williamson-health-deal-value-tennessee-hospital/824561/",
-    "summary": "Ascension beat out other offers, including from HCA and Optum, to give Williamson a financial lifeline amid serious challenges facing regional hospital operators. The deal is expected to be final by 2028 at the latest.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-07T13:06:18+00:00",
-    "date_str": "Jul 07, 2026"
-  },
-  {
-    "title": "Private equity may skirt oversight with nonprofit healthcare joint ventures",
-    "url": "https://www.healthcaredive.com/news/private-equity-firms-may-skirt-healthcare-oversight-joint-ventures-nonprofits-pesp/824556/",
-    "summary": "The investment firms are leaning on joint ventures with nonprofits to expand in the healthcare sector, according to a new report from the Private Equity Stakeholder Project.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-07T11:38:50+00:00",
-    "date_str": "Jul 07, 2026"
-  },
-  {
-    "title": "Ascension plans to acquire independent system Williamson Health for nearly $1B",
-    "url": "https://www.fiercehealthcare.com/providers/ascension-plans-acquire-independent-system-williamson-health-nearly-1b",
-    "summary": "The offer unanimously approved by Williamson's board of trustees includes a $700 million price tag and $250 million of capital support over 10 years, beating out other proposals from HCA Healthcare and Optum. The partners are now working on a nonbinding letter of intent for county board approval.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-07T19:53:38.132782+00:00",
-    "date_str": "Jul 07, 2026"
-  },
-  {
-    "title": "Allegheny Health Network acquires Heritage Valley Health System",
-    "url": "https://www.fiercehealthcare.com/hospitals/allegheny-health-network-heritage-valley-health-system-finalize-acquisition",
-    "summary": "The affiliation agreement brings two new hospitals plus 36 physician offices and multi-specialty outpatient facilities to Allegheny Health Network.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-07T19:53:38.132829+00:00",
-    "date_str": "Jul 07, 2026"
-  },
-  {
-    "title": "Number of Americans taking GLP-1s for weight loss hits record high: Survey",
-    "url": "https://thehill.com/policy/healthcare/5957430-glp-1-drugs-weight-loss-rise/",
-    "summary": "A record number of Americans are taking GLP-1 drugs for weight loss, according to a new Gallup survey released Tuesday — a massive increase over the past two years. According to the poll, 11 percent of Americans currently take a GLP-1 medication for weight loss, compared to just 3 percent in 2024. In addition, 15 percent...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-07-07T18:46:32+00:00",
     "date_str": "Jul 07, 2026"
   }
 ]
