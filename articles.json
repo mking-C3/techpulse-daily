@@ -1,5 +1,225 @@
 [
   {
+    "title": "Abortion Drug Law in Louisiana Heightens Hemorrhage Risk for Pregnant Patients",
+    "url": "https://kffhealthnews.org/courts/abortion-drug-access-misoprostol-louisiana-law-pregnancy-hemorrhage-risk/",
+    "summary": "A 2024 state law reclassified misoprostol and mifepristone as controlled substances. That affects how hospitals can access the drugs in non-abortion emergencies, and other states appear to be taking note.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-30T09:00:00+00:00",
+    "date_str": "Jul 30, 2026"
+  },
+  {
+    "title": "Medicaid Insurers’ Contracts on the Line in Tight Governor’s Race",
+    "url": "https://kffhealthnews.org/health-industry/medicaid-insurer-contracts-iowa-governor-race/",
+    "summary": "The Democratic candidate for governor says he would make Iowa the second state to drop private Medicaid management companies, which he calls “a disaster.”",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-30T09:00:00+00:00",
+    "date_str": "Jul 30, 2026"
+  },
+  {
+    "title": "More Medications, Less Clarity: Strengthening Polypharmacy Support for CKD Patients",
+    "url": "https://medcitynews.com/2026/07/more-medications-less-clarity-strengthening-polypharmacy-support-for-ckd-patients/",
+    "summary": "Interdisciplinary coordination between nephrologists, primary care providers, pharmacists, dieticians, and everyone who interacts with patients is essential to ensure patient education, improve adherence, and reduce medication errors. The post More Medications, Less Clarity: Strengthening Polypharmacy Support for CKD Patients appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-30T13:53:00+00:00",
+    "date_str": "Jul 30, 2026"
+  },
+  {
+    "title": "The Code Gets You Paid — The Variant Gets You Treated",
+    "url": "https://medcitynews.com/2026/07/the-code-gets-you-paid-the-variant-gets-you-treated/",
+    "summary": "The between a code that satisfies a payer and the information a physician needs to treat a person, is what nearly every healthcare AI tool is racing past. As we push these systems toward precision medicine and genomics, that gap stops being an annoyance and becomes a patient safety issue. The post The Code Gets You Paid — The Variant Gets You Treated appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-30T13:45:00+00:00",
+    "date_str": "Jul 30, 2026"
+  },
+  {
+    "title": "Moving Beyond Reactive Healthcare: 5 Traits of Successful Healthcare Organizations",
+    "url": "https://medcitynews.com/2026/07/moving-beyond-reactive-healthcare-5-traits-of-successful-healthcare-organizations/",
+    "summary": "[Sponsored] A new whitepaper by League highlights examples from collaborations with Baptist Health. The post Moving Beyond Reactive Healthcare: 5 Traits of Successful Healthcare Organizations appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-07-30T11:45:00+00:00",
+    "date_str": "Jul 30, 2026"
+  },
+  {
+    "title": "Judge denies states’ motion to postpone Medicaid work requirement",
+    "url": "https://www.statnews.com/2026/07/30/medicaid-work-requirements-judge-declines-states-request-injunction/?utm_campaign=rss",
+    "summary": "Federal judge denied 26 states’ request to postpone the implementation of Medicaid work requirements announced in June.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-30T13:45:55+00:00",
+    "date_str": "Jul 30, 2026"
+  },
+  {
+    "title": "STAT+: Rising oil prices can boost the cost of some medicines. One expert says it’s time to lower reliance on fossil fuels",
+    "url": "https://www.statnews.com/pharmalot/2026/07/30/rising-oil-prices-cost-of-medicines-fosil-fuels/?utm_campaign=rss",
+    "summary": "Unitaid found the rising price of oil could boost the cost of a widely used HIV medicine it reviewed in a detailed analysis.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-30T13:22:30+00:00",
+    "date_str": "Jul 30, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about an FDA panel nixing a Duchenne drug, FTC suing Hims & Hers, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/07/30/fda-panel-nixes-duchenne-drug-ftc-sues-hims-and-hers/?utm_campaign=rss",
+    "summary": "An FDA advisory panel concluded clinical data for a Capricor treatment for Duchenne muscular dystrophy did not provide “substantial evidence” of efficacy",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-30T13:08:40+00:00",
+    "date_str": "Jul 30, 2026"
+  },
+  {
+    "title": "Ebola outbreak nears milestone, but vaccine is close",
+    "url": "https://www.statnews.com/2026/07/30/health-news-ebola-outbreak-nears-milestone-but-vaccine-close/?utm_campaign=rss",
+    "summary": "Medicaid work rules, FTC sues Hims, and more health news from Morning Rounds",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-30T11:49:48+00:00",
+    "date_str": "Jul 30, 2026"
+  },
+  {
+    "title": "STAT+: Tracking the FDA expert review of Replimune’s melanoma treatment",
+    "url": "https://www.statnews.com/2026/07/30/replimune-melanoma-drug-rp1-fda-expert-meeting-live-blog/?utm_campaign=rss",
+    "summary": "STAT is live-blogging a meeting of FDA experts to review Replimune’s experimental melanoma drug, RP1.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-30T10:00:00+00:00",
+    "date_str": "Jul 30, 2026"
+  },
+  {
+    "title": "Chronically ill people face confusion over new Medicaid work rules and ‘medically frail’ exemption",
+    "url": "https://www.statnews.com/2026/07/30/medicaid-work-requirements-medical-frailty-exemption-coverage-loss/?utm_campaign=rss",
+    "summary": "Patients, advocates, and experts fear the difficulty in documenting a frailty exemption to Medicaid work requirements will lead to millions losing coverage.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-30T08:30:00+00:00",
+    "date_str": "Jul 30, 2026"
+  },
+  {
+    "title": "Opinion: U.S. dependence on China is a national security risk",
+    "url": "https://www.statnews.com/2026/07/30/china-us-pharmaceutical-supply-chain-national-security-risk/?utm_campaign=rss",
+    "summary": "“China is overtly seeking to displace U.S. leadership across the innovative biopharmaceutical value chain,” write authors of a Council on Foreign Relations report.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-30T08:30:00+00:00",
+    "date_str": "Jul 30, 2026"
+  },
+  {
+    "title": "Opinion: Ten years after WHO recognition, mycetoma remains one of the world’s most neglected diseases",
+    "url": "https://www.statnews.com/2026/07/30/mycetoma-who-neglected-disease-research-sudan/?utm_campaign=rss",
+    "summary": "“The next 10 years of mycetoma care will determine whether it remains a story of neglect or becomes one of collective action,” writes Borna Nyaoke-Anoke.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-30T08:30:00+00:00",
+    "date_str": "Jul 30, 2026"
+  },
+  {
+    "title": "Digital habits that rob attention and energy — and how to combat them",
+    "url": "https://www.npr.org/2026/07/30/nx-s1-5891818/digital-habits-that-rob-attention-and-energy-and-how-to-combat-them",
+    "summary": "There's a reason why double- or triple-screening your devices makes you feel tired, says NPR's Manoush Zomorodi. She explains the science of information overload and how to reclaim calm and focus.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-30T09:00:00+00:00",
+    "date_str": "Jul 30, 2026"
+  },
+  {
+    "title": "The Lumbee Tribe of N.C. wants better healthcare, but plans to fund it are in limbo",
+    "url": "https://www.npr.org/2026/07/30/nx-s1-5906740/lumbee-tribe-indian-health-service-gambling-north-carolina",
+    "summary": "Robeson County, N.C., where most of the Lumbee Tribe's citizens live, ranks as one of the worst counties in the U.S. for health. The tribe can access the Indian Health Service now, but it's not likely to be sufficient to improve the health of the community.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-30T09:00:00+00:00",
+    "date_str": "Jul 30, 2026"
+  },
+  {
+    "title": "Pediatricians and health officials are sidestepping Trump's CDC on vaccine advice",
+    "url": "https://www.npr.org/2026/07/30/nx-s1-5866740/pediatricians-health-officials-sidestepping-trump-cdc-vaccine-advice",
+    "summary": "The Trump administration's upending of years of vaccine advice puts many pediatricians in a quandary. Some are steering patients away from the CDC to other authoritative websites, including their own.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-07-30T09:00:00+00:00",
+    "date_str": "Jul 30, 2026"
+  },
+  {
+    "title": "Stellarus launches AI-powered health plan customer service representative copilot",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/stellarus-launches-ai-powered-health-plan-customer-service-representative",
+    "summary": "CSR Chat provides health plan representatives with real-time guidance and contextual support during member interactions—and is embedded directly in workflows.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-30T13:58:23.834061+00:00",
+    "date_str": "Jul 30, 2026"
+  },
+  {
+    "title": "Cigna boosts outlook as it posts Q2 beat on earnings, revenue",
+    "url": "https://www.fiercehealthcare.com/payers/cigna-boosts-outlook-it-posts-q2-beat-earnings-revenue",
+    "summary": "Cigna is raising its outlook for the year after beating the Street on both earnings and revenue in the second quarter of 2026.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-07-30T13:58:23.834117+00:00",
+    "date_str": "Jul 30, 2026"
+  },
+  {
+    "title": "Carville says 'we didn't f---ing learn anything' from Fauci diary entries",
+    "url": "https://thehill.com/policy/healthcare/5998948-carville-dr-fauci-diary-rand-paul/",
+    "summary": "Democratic political strategist James Carville said this week that the public “didn’t f---ing learn anything” from the publicly released diary entries of Dr. Anthony Fauci, who helped lead the government's response to the COVID-19 pandemic. “The main thing we learned from the release of his personal texts or emails or whatever it was, is we...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-07-30T13:56:00+00:00",
+    "date_str": "Jul 30, 2026"
+  },
+  {
+    "title": "Fetterman says Fauci was 'a little fixated on his own fame'",
+    "url": "https://thehill.com/homenews/senate/5998831-john-fetterman-anthony-fauci-covid-19-senate-hearing-diary-entries-fame/",
+    "summary": "Sen. John Fetterman (D-Pa.) said Wednesday that Dr. Anthony Fauci, the former chief White House medical adviser, was “a little fixated on his own fame.” “I do think it's entirely appropriate to really hold Fauci accountable, but I don't think it's really appropriate to pound an 85-year-old man, 10 minutes, 10 minutes, 10 minutes, 10...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-07-30T13:01:08+00:00",
+    "date_str": "Jul 30, 2026"
+  },
+  {
+    "title": "Rand Paul surprised Fauci invoked Fifth Amendment despite immunity",
+    "url": "https://thehill.com/homenews/senate/5998781-rand-paul-anthony-fauci-fifth-amendment-covid-19-biden-pardon/",
+    "summary": "Sen. Rand Paul (R-Ky.) said he was surprised Dr. Anthony Fauci invoked the Fifth Amendment during Wednesday's hearing before the Senate Homeland Security and Governmental Affairs Committee, despite a preemptive pardon from former President Biden. “Were you surprised that he decided now to take the Fifth, given you guys have had back-and-forths in testimony previously,...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-07-30T12:11:27+00:00",
+    "date_str": "Jul 30, 2026"
+  },
+  {
+    "title": "Liquid could be answer to stop cavities without drilling, study finds",
+    "url": "https://thehill.com/policy/healthcare/5998277-cavities-dental-care-liquid-fluoride-drilling/",
+    "summary": "A study conducted by the University of Michigan found silver diamine fluoride stopped decay in more than half of treated baby teeth.",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-07-30T10:32:08+00:00",
+    "date_str": "Jul 30, 2026"
+  },
+  {
     "title": "Is it safe to drink Red Bull and vodka? Questionable research tied to energy drink giant has shaped policy",
     "url": "https://www.statnews.com/2026/07/30/red-bull-funded-studies-energy-drinks-alcohol-shape-policy/?utm_campaign=rss",
     "summary": "Studies tied to Red Bull helped block warning labels about drinking alcohol along with energy drinks. Independent studies report risks in mixing the two.",
@@ -9777,226 +9997,6 @@
     "category": "Medicare News",
     "category_slug": "medicare-news",
     "date": "2026-07-08T22:47:25+00:00",
-    "date_str": "Jul 08, 2026"
-  },
-  {
-    "title": "Organ-on-a-chip, Organoids, but Drug Testing on Whole Organs? This Startup is Betting On It",
-    "url": "https://medcitynews.com/2026/07/organ-on-a-chip-organoids-but-drug-testing-on-whole-organs-this-startup-is-betting-on-it/",
-    "summary": "Many startups and established companies focused on drug testing on human data in preclinical studies have been boosted by FDA’s move away from reliance on animal testing towards organoid, organ-on-a-chip, and other in silico technologies. A Connecticut startup believes whole-organ testing should be an essential part of this mix. The post Organ-on-a-chip, Organoids, but Drug Testing on Whole Organs? This Startup is Betting On It appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-08T22:22:19+00:00",
-    "date_str": "Jul 08, 2026"
-  },
-  {
-    "title": "What Can Payers Do to Improve AI Readiness?",
-    "url": "https://medcitynews.com/2026/07/what-can-payers-do-to-improve-ai-readiness/",
-    "summary": "[Sponsored] A webinar by Verato and MedCity News on July 22 will explore how building a trusted data foundation that connects the healthcare ecosystem can improve how payers deploy AI. The post What Can Payers Do to Improve AI Readiness? appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-08T20:25:42+00:00",
-    "date_str": "Jul 08, 2026"
-  },
-  {
-    "title": "STAT+: RFK Jr. plans to create list of injuries caused by Covid-19 vaccines",
-    "url": "https://www.statnews.com/2026/07/08/hhs-to-propose-covid-19-countermeasures-injury-table/?utm_campaign=rss",
-    "summary": "It's not clear what conditions may make the list, but outside experts are watching it closely.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-08T20:41:01+00:00",
-    "date_str": "Jul 08, 2026"
-  },
-  {
-    "title": "A new proposal for organ donation sparks concern",
-    "url": "https://www.npr.org/2026/07/08/nx-s1-5883714/organ-transplant-death-donation",
-    "summary": "Should patients who choose euthanasia be able to die by having their vital organs removed for donation? The ethical concerns are substantial.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-08T21:00:19+00:00",
-    "date_str": "Jul 08, 2026"
-  },
-  {
-    "title": "Republican Senator Blasts Proposed Changes to Federal Grantmaking Process",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/122110",
-    "summary": "(MedPage Today) -- A Republican senator criticized a proposed rule from the White House's budget office that would substantially change how federal grants are managed, arguing that it has the potential to harm patients and set back biomedical research...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-08T21:44:32+00:00",
-    "date_str": "Jul 08, 2026"
-  },
-  {
-    "title": "A Better Idea of When Mild HCM Is Likely to Go Downhill Fast",
-    "url": "https://www.medpagetoday.com/cardiology/generalcardiology/122109",
-    "summary": "(MedPage Today) -- If therapies were to expand to people with mild hypertrophic cardiomyopathy (HCM), the first in line should be specific groups more prone to disease worsening, suggested one registry study. Out of 2,500 people with phenotypically...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-08T21:43:14+00:00",
-    "date_str": "Jul 08, 2026"
-  },
-  {
-    "title": "Outbreak of Cyclosporiasis Grows to More than 1,000 Cases",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/122108",
-    "summary": "(MedPage Today) -- Nearly 1,000 people in Michigan have been diagnosed with Cyclospora infections that can cause weeks of watery diarrhea, making it the largest such outbreak in state history and one of the nation's largest in years. No deaths...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-08T21:34:49+00:00",
-    "date_str": "Jul 08, 2026"
-  },
-  {
-    "title": "Modified Amino Acid Improves Neurologic Symptoms in Rare Genetic Disorder",
-    "url": "https://www.medpagetoday.com/neurology/generalneurology/122107",
-    "summary": "(MedPage Today) -- Levacetylleucine (Aqneursa) improved neurologic symptoms and functioning in adults and children with ataxia-telangiectasia in a phase III, randomized, crossover trial. The primary endpoint was the mean 12-week change in Scale...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-08T21:32:00+00:00",
-    "date_str": "Jul 08, 2026"
-  },
-  {
-    "title": "Chronic Kidney Disease Increasingly Driven By Diabetes",
-    "url": "https://www.medpagetoday.com/nephrology/generalnephrology/122106",
-    "summary": "(MedPage Today) -- The prevalence of chronic kidney disease (CKD) in the U.S. was generally stable over the past decade, but the underlying diagnoses driving the condition changed over time, according to National Health and Nutrition Examination...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-08T21:16:53+00:00",
-    "date_str": "Jul 08, 2026"
-  },
-  {
-    "title": "Study Hints at Survival Benefit With Transplant for Metastatic Lung Cancer",
-    "url": "https://www.medpagetoday.com/hematologyoncology/lungcancer/122105",
-    "summary": "(MedPage Today) -- Lung transplant for selected metastatic non-small cell lung cancer (NSCLC) patients was associated with better early survival outcomes in a prospective, single-center study. Among 98 patients with lung-only involvement despite...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-08T21:01:09+00:00",
-    "date_str": "Jul 08, 2026"
-  },
-  {
-    "title": "Trump Administration Pushes Hospitals to Offer Healthier Food",
-    "url": "https://www.medpagetoday.com/hospitalbasedmedicine/generalhospitalpractice/122104",
-    "summary": "(MedPage Today) -- HHS officials launched their \"Make Hospital Food Healthier\" Pledge campaign Wednesday, saying that the program will promote long-term wellness. \"Patients recovering from serious medical conditions deserve better than ultra-processed...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-08T20:31:14+00:00",
-    "date_str": "Jul 08, 2026"
-  },
-  {
-    "title": "Many Men With LUTS Could Be Candidates to Stop Alpha-Blocker Treatment",
-    "url": "https://www.medpagetoday.com/urology/bph/122103",
-    "summary": "(MedPage Today) -- More than a third of older men with lower urinary tract symptoms (LUTS) derived little or no benefit from an alpha-blocker and might be candidates for \"deprescribing,\" a small, randomized study suggested. During active treatment...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-08T20:09:22+00:00",
-    "date_str": "Jul 08, 2026"
-  },
-  {
-    "title": "Execs Imprisoned for Adderall Scheme; FDA Ketamine Warning; Wellness Cult Psychosis",
-    "url": "https://www.medpagetoday.com/psychiatry/generalpsychiatry/122102",
-    "summary": "(MedPage Today) -- Two executives from the San Francisco-based telehealth provider Done Global were sentenced to years in prison for an alleged $90 million pill-mill scheme involving amphetamine/dextroamphetamine salts (Adderall), the Justice Department...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-08T19:46:23+00:00",
-    "date_str": "Jul 08, 2026"
-  },
-  {
-    "title": "Tampa General Hospital sues Eli Lilly over pulled 340B discounts",
-    "url": "https://www.fiercehealthcare.com/providers/tampa-general-hospital-sues-eli-lilly-over-pulled-340b-discounts",
-    "summary": "The drugmaker's decision to rescind 340B discounts to hospitals that do not submit requested claims data has raised prices at Tampa General Hospital by 25% to 50% on average, it wrote in a complaint.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-09T02:55:23.968382+00:00",
-    "date_str": "Jul 09, 2026"
-  },
-  {
-    "title": "Faith groups urge White House to release funding for HIV/AIDS prevention",
-    "url": "https://thehill.com/policy/healthcare/5959783-faith-groups-call-pepfar-funding/",
-    "summary": "Five faith-based organizations are calling on the White House to release funding for HIV/AIDS prevention abroad that Congress already appropriated. In a letter sent to Office of Management and Budget Director Russell Vought, the groups urged full funding for the President’s Emergency Plan for AIDS Relief (PEPFAR); the Global Fund to Fight AIDS, Tuberculosis and Malaria;...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-07-08T20:16:36+00:00",
-    "date_str": "Jul 08, 2026"
-  },
-  {
-    "title": "Why the Future of IDR Depends on Smarter Technology",
-    "url": "https://medcitynews.com/2026/07/why-the-future-of-idr-depends-on-smarter-technology/",
-    "summary": "Focusing on fringe cases of abuse misses a more immediate and arguably more pervasive problem: many provider organizations are not getting the access to IDR they’re entitled to because the process is too difficult to navigate effectively at scale. The post Why the Future of IDR Depends on Smarter Technology appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-08T14:20:35+00:00",
-    "date_str": "Jul 08, 2026"
-  },
-  {
-    "title": "STAT+: White House reviewing top contenders to lead FDA",
-    "url": "https://www.statnews.com/2026/07/08/new-fda-commissioner-finalists-under-white-house-review/?utm_campaign=rss",
-    "summary": "The White House is reviewing finalists for FDA commissioner, suggesting the highly anticipated decision may come soon.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-08T18:51:54+00:00",
-    "date_str": "Jul 08, 2026"
-  },
-  {
-    "title": "STAT+: Brigham and Women’s Hospital nurses walk out, beginning largest nurses strike in Massachusetts history",
-    "url": "https://www.statnews.com/2026/07/08/brigham-and-womens-hospital-boston-nurses-strike-largest-massachusetts-history/?utm_campaign=rss",
-    "summary": "The Brigham, a nationally renowned Harvard teaching hospital, and MGB have have unsuccessfully been negotiating a new contract for months.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-08T17:32:07+00:00",
-    "date_str": "Jul 08, 2026"
-  },
-  {
-    "title": "STAT+: In private meeting, Trump officials push to onshore generic drugmaking",
-    "url": "https://www.statnews.com/2026/07/08/trump-officials-want-to-make-generic-medicines-in-the-us/?utm_campaign=rss",
-    "summary": "Marco Rubio, RFK Jr., and Chris Klomp are urging industry leaders to make more medicines in the U.S.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-08T16:44:30+00:00",
-    "date_str": "Jul 08, 2026"
-  },
-  {
-    "title": "Bryan Johnson’s chronic disease is notoriously difficult to diagnose",
-    "url": "https://www.statnews.com/2026/07/08/bryan-johnson-autoimmune-gastritis-diagnosis-explained/?utm_campaign=rss",
-    "summary": "Why longevity entrepreneur Bryan Johnson’s chronic disease is notoriously difficult to diagnose.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-08T16:13:21+00:00",
-    "date_str": "Jul 08, 2026"
-  },
-  {
-    "title": "Affordable Care Act insurers want more premium increases as enrollment sags",
-    "url": "https://www.statnews.com/2026/07/08/affordable-care-act-insurers-premium-increases-enrollment-dips/?utm_campaign=rss",
-    "summary": "For the second year in a row, many Affordable Care Act insurers are proposing double-digit premium increases, driven by rising medical costs as well as federal policy changes.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-08T15:31:21+00:00",
-    "date_str": "Jul 08, 2026"
-  },
-  {
-    "title": "Transplants extended survival for patients whose stage 4 lung cancer hadn’t spread, study says",
-    "url": "https://www.statnews.com/2026/07/08/lung-transplant-advanced-cancer-study-results-ethics-jama/?utm_campaign=rss",
-    "summary": "Lung cancer patients hadn't been seen as candidates for organ transplant. Now a study finds patients did well.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-08T15:00:00+00:00",
     "date_str": "Jul 08, 2026"
   }
 ]
