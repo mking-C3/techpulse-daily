@@ -1,5 +1,55 @@
 [
   {
+    "title": "Journalists Catch You Up on Fauci Hearing, Peptides, and Kids’ Caffeine Consumption",
+    "url": "https://kffhealthnews.org/on-air/on-air-august-1-2026-fauci-hearing-fda-peptides-epa-grants-children-caffeine/",
+    "summary": "KFF Health News journalists made the rounds on national or local media recently to discuss topical stories. Here’s a collection of their appearances.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-01T09:00:00+00:00",
+    "date_str": "Aug 01, 2026"
+  },
+  {
+    "title": "Entomologist Stephen Dobson on releasing modified mosquitoes to fight disease",
+    "url": "https://www.npr.org/2026/08/01/nx-s1-5913746/entomologist-stephen-dobson-on-releasing-modified-mosquitoes-to-fight-disease",
+    "summary": "NPR's Scott Simons asks University of Kentucky entomologist Stephen Dobson about mosquito control using modified mosquitoes released into the wild.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-01T11:46:46+00:00",
+    "date_str": "Aug 01, 2026"
+  },
+  {
+    "title": "They call it 'a dream fulfilled' -- new homes designed for (and by) slum residents",
+    "url": "https://www.npr.org/2026/08/01/g-s1-135362/slum-apartments-india-design",
+    "summary": "It's a bold new experiment and it's already won a prize. Residents in a jam-packed slum, many of them living in one-room tin shacks, help design their apartments in a brand new building.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-01T11:14:58+00:00",
+    "date_str": "Aug 01, 2026"
+  },
+  {
+    "title": "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned",
+    "url": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
+    "summary": "The FDA is poised to render a decision on Moderna's mRNA-based flu shot, which could be the first of its kind to market. The decision is expected to reverberate throughout the biotech industry.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-01T11:00:00+00:00",
+    "date_str": "Aug 01, 2026"
+  },
+  {
+    "title": "Nurses chase Cyclospora using grocery receipts, food apps and detailed interviews",
+    "url": "https://www.npr.org/2026/08/01/nx-s1-5915633/cyclosporiasis-washtenaw-michigan-foodborne-illness-cdc",
+    "summary": "Public health nurses have been pulled from other duties in Washtenaw County, MI, to call hundreds of people sick with cyclosporiasis, and try to help them remember everything they ate in recent days.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-01T09:00:00+00:00",
+    "date_str": "Aug 01, 2026"
+  },
+  {
     "title": "Healthcare Moves: A Monthly Summary of Hires, Exits and Layoffs",
     "url": "https://medcitynews.com/2026/07/healthcare-moves-layoffs-2/",
     "summary": "July has seen a slew of executive hires, exits and layoffs across the healthcare industry. For instance, Aledade, Providence and Whoop named new executives. There were also layoffs at organizations including Novartis, Adventist Health and Wellstar Health System. The post Healthcare Moves: A Monthly Summary of Hires, Exits and Layoffs appeared first on MedCity News .",
@@ -9947,56 +9997,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-07-10T19:03:39+00:00",
-    "date_str": "Jul 10, 2026"
-  },
-  {
-    "title": "Viral NeeDoh Trend Leading to Scalding Injuries, Doctors Warn",
-    "url": "https://www.medpagetoday.com/popmedicine/cultureclinic/122146",
-    "summary": "(MedPage Today) -- Physicians are sounding the alarm about a dangerous social media trend involving NeeDoh that has kids being rushed to the hospital for scalding burns. Kids are heating up the sensory toy, even though it's not designed to be...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-10T18:48:06+00:00",
-    "date_str": "Jul 10, 2026"
-  },
-  {
-    "title": "Study Compares GLP-1 Drugs on Their Benefits, Harms",
-    "url": "https://www.medpagetoday.com/primarycare/obesity/122142",
-    "summary": "(MedPage Today) -- Variable weight-loss and cardiovascular benefits were seen with GLP-1 drugs in a systematic review and network meta-analysis, but effects on quality of life were less clear. Across 262 randomized studies published through November...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-10T17:51:54+00:00",
-    "date_str": "Jul 10, 2026"
-  },
-  {
-    "title": "Graham Platner's PTSD Is No Excuse for Sexual Misconduct",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/122140",
-    "summary": "(MedPage Today) -- \"Criminals thrive on the indulgence of society's understanding.\" -- Batman Begins If smearing their victims becomes fruitless, abusive men in the public eye follow a classic playbook: performative contrition and a tearful...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-10T16:13:55+00:00",
-    "date_str": "Jul 10, 2026"
-  },
-  {
-    "title": "Here Are the Groups Impacted by CDC's Chickenpox Vaccine U-Turn",
-    "url": "https://www.medpagetoday.com/pediatrics/vaccines/122139",
-    "summary": "(MedPage Today) -- Children eligible for the Vaccines for Children (VFC) program and minority racial and ethnic groups were more likely to receive the recently shunned varicella-containing measles vaccine as their first dose of either immunization...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-10T15:50:06+00:00",
-    "date_str": "Jul 10, 2026"
-  },
-  {
-    "title": "ADCs Continue to Make First-Line Inroads in Triple-Negative Breast Cancer",
-    "url": "https://www.medpagetoday.com/spotlight/tnbc/122138",
-    "summary": "(MedPage Today) -- Antibody-drug conjugates (ADCs) are becoming an increasingly relevant first-line treatment option for metastatic triple-negative breast cancer (TNBC). \"ADCs are a fairly old class of drug that has really transformed the treatment...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-10T15:11:28+00:00",
     "date_str": "Jul 10, 2026"
   }
 ]
