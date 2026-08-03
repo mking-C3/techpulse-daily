@@ -1,5 +1,135 @@
 [
   {
+    "title": "STAT+: Eli Lilly to allow more patients to apply for special access to unapproved obesity drug",
+    "url": "https://www.statnews.com/2026/08/03/eli-lilly-retatrutide-mystery-patient-doctors-seek-same-access-their-patients/?utm_campaign=rss",
+    "summary": "Doctors are asking how to get retatrutide for their patients, after Eli Lilly gave one man early access.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-03T17:27:38+00:00",
+    "date_str": "Aug 03, 2026"
+  },
+  {
+    "title": "Michigan reports first two U.S. deaths in outbreak of cyclospora",
+    "url": "https://www.statnews.com/2026/08/03/cyclospora-outbreak-two-fatalities-reported-michigan/?utm_campaign=rss",
+    "summary": "Two people have died in the cyclospora outbreak in Michigan in the first confirmed deaths in the U.S. related to the microscopic parasite, state health officials announced.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-03T16:59:11+00:00",
+    "date_str": "Aug 03, 2026"
+  },
+  {
+    "title": "STAT+: Medicare eliminates key pathways used by ‘breakthrough’ devices for extra payments",
+    "url": "https://www.statnews.com/2026/08/03/cms-fda-breakthrough-devices-payment-pathways-eliminated/?utm_campaign=rss",
+    "summary": "Medicare is removing flexibilities that have allowed \"breakthrough\" medical devices to leapfrog qualifications for extra payments.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-03T15:41:43+00:00",
+    "date_str": "Aug 03, 2026"
+  },
+  {
+    "title": "Automated Oxygen Therapy Adjustments in Hospital Improves Oxygenation",
+    "url": "https://www.medpagetoday.com/pulmonology/generalpulmonary/122466",
+    "summary": "(MedPage Today) -- A novel system for autonomous control of supplemental oxygen for adult inpatients who needed it for acute illness or injury improved the proportion of time spent with adequate oxygen levels, the SAVE-O2 AI trial showed. The...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-03T18:06:23+00:00",
+    "date_str": "Aug 03, 2026"
+  },
+  {
+    "title": "Circumcision and Autism: What a New Study Found",
+    "url": "https://www.medpagetoday.com/neurology/autism/122465",
+    "summary": "(MedPage Today) -- A study of U.S. children found no evidence linking neonatal male circumcision with autism spectrum disorder, prospective data from the ECHO cohort showed. Among nearly 2,800 boys in 14 ECHO sites, 6% of those who were circumcised...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-03T18:00:01+00:00",
+    "date_str": "Aug 03, 2026"
+  },
+  {
+    "title": "Surfing Lesson Ends With Unusual Injury",
+    "url": "https://www.medpagetoday.com/casestudies/emergencymedicine/122464",
+    "summary": "(MedPage Today) -- It appeared to be the perfect storm: a man in his 30s was learning to surf. As he stood up on the board and twisted to the left for balance, a wave knocked him over. He instantly felt a sharp pain in his lower back, but managed...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-03T16:53:51+00:00",
+    "date_str": "Aug 03, 2026"
+  },
+  {
+    "title": "Leptomeningeal Disease in HER2-Positive Metastatic Breast Cancer",
+    "url": "https://www.medpagetoday.com/spotlight/asco-metastatic-breast-cancer/122463",
+    "summary": "(MedPage Today) -- About 110,000 new cases of leptomeningeal disease (metastases of cerebrospinal fluid or the thin membranes that surround the brain and spinal cord) are diagnosed each year in the U.S., with the incidence varying among cancer...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-03T16:45:41+00:00",
+    "date_str": "Aug 03, 2026"
+  },
+  {
+    "title": "Here's My Prescription for a Lasting Legacy in Medicine",
+    "url": "https://www.medpagetoday.com/opinion/happy-healer/122462",
+    "summary": "(MedPage Today) -- \"I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.\" -- Maya Angelou Imagine attending your own retirement dinner. Colleagues recount your...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-03T16:36:28+00:00",
+    "date_str": "Aug 03, 2026"
+  },
+  {
+    "title": "Tardive Dyskinesia a 'Silent Driver' of Healthcare Spending",
+    "url": "https://www.medpagetoday.com/spotlight/tardive-dyskinesia/122461",
+    "summary": "(MedPage Today) -- Tardive dyskinesia (TD), a movement disorder characterized by involuntary tics and twitches, exacts a substantial financial toll on patients and the healthcare system. TD \"is a silent driver of healthcare costs and disability...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-03T16:20:12+00:00",
+    "date_str": "Aug 03, 2026"
+  },
+  {
+    "title": "Finding Purpose, Resilience, and Hope in Dementia Care",
+    "url": "https://www.medpagetoday.com/beyond-diagnosis/alzheimers-disease/122459",
+    "summary": "(MedPage Today) -- In \"Beyond Diagnosis: Alzheimer's Disease,\" Cleveland Clinic behavioral neurologist Jagan Pillai, MD, PhD, and host Glenn Campbell conclude their discussions on communicating effectively with patients and families facing a progressive...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-03T14:40:58+00:00",
+    "date_str": "Aug 03, 2026"
+  },
+  {
+    "title": "Medicare finalizes 2.3% hospital inpatient pay raise for 2027",
+    "url": "https://www.healthcaredive.com/news/medicare-finalizes-hospital-inpatient-pay-raise-2027/826794/",
+    "summary": "Regulators also finalized the first nationwide, mandatory payment model to reduce the cost of joint replacements starting in 2028. Hospitals said the pay raise was inadequate, and chafed at the mandatory nature of the new model.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-03T12:33:27+00:00",
+    "date_str": "Aug 03, 2026"
+  },
+  {
+    "title": "2 cyclospora deaths reported in Michigan",
+    "url": "https://thehill.com/policy/healthcare/6006101-michigan-cyclosporiasis-deaths-reported/",
+    "summary": "Two people in Michigan who contracted cyclosporiasis have died, the state’s Department of Health and Human Services said Monday. The department noted both people had “significant underlying health conditions that may have been impacted by cyclosporiasis and dehydration,” citing medical records. Michigan officials as of Monday have reported 11,234 cases of cyclosporiasis, which causes watery...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-03T17:34:45+00:00",
+    "date_str": "Aug 03, 2026"
+  },
+  {
+    "title": "Spending bill blocks Trump plan to politicize grants",
+    "url": "https://thehill.com/homenews/senate/6005660-senate-spending-bill-trump-administration-scientific-grants/",
+    "summary": "A spending bill unveiled Sunday by Senate Republicans would temporarily block the Trump administration's proposal to give political appointees control over hundreds of billions of dollars in scientific grants. The provision contained in the continuing resolution marks a rare instance of congressional Republicans standing up to a controversial Trump administration policy. It emerged from bipartisan...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-03T15:05:05+00:00",
+    "date_str": "Aug 03, 2026"
+  },
+  {
     "title": "From Ethics to Trust: Strategic Guardrails for Safe, Secure, Effective AI in Healthcare",
     "url": "https://medcitynews.com/2026/08/from-ethics-to-trust-strategic-guardrails-for-safe-secure-effective-ai-in-healthcare/",
     "summary": "Ethical AI and trustworthy AI frameworks should be table stakes for healthcare and life sciences organizations seeking to innovate with AI. The post From Ethics to Trust: Strategic Guardrails for Safe, Secure, Effective AI in Healthcare appeared first on MedCity News .",
@@ -9867,136 +9997,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-07-13T14:40:13+00:00",
-    "date_str": "Jul 13, 2026"
-  },
-  {
-    "title": "Payer-backed ad campaign urges lawmakers to reject NSA enforcement bill",
-    "url": "https://www.fiercehealthcare.com/payers/payer-backed-ad-campaign-urges-lawmakers-reject-nsa-enforcement-bill",
-    "summary": "A payer-backed group has launched a campaign challenging a bill that aims to build on the No Surprises Act.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-13T19:22:05.558626+00:00",
-    "date_str": "Jul 13, 2026"
-  },
-  {
-    "title": "Digital health funding hits $7.4B in 2026 as AI investment reshapes the market",
-    "url": "https://www.fiercehealthcare.com/digital-health/digital-health-brought-74b-vc-funding-ai-powered-rebound-fuels-market",
-    "summary": "In the first half of 2026, 19 companies raised 20 megadeals, or financings of $100 million and higher, representing 45% of all capital invested.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-13T19:22:05.558686+00:00",
-    "date_str": "Jul 13, 2026"
-  },
-  {
-    "title": "Insurers set to pay out $759M in 2026 MLR rebates: KFF",
-    "url": "https://www.fiercehealthcare.com/payers/insurers-set-pay-out-759m-2026-mlr-rebates-kff",
-    "summary": "Insurers expect to issue $759.2 million in medical loss ratio rebates this year, according to a new analysis.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-13T19:22:05.558715+00:00",
-    "date_str": "Jul 13, 2026"
-  },
-  {
-    "title": "States sue over planned cuts to school mental health grants",
-    "url": "https://thehill.com/policy/healthcare/5965570-lawsuit-education-department-mental-health/",
-    "summary": "A group of more than a dozen state attorneys general is suing the Department of Education (DOE) for what they claim to be the unlawful termination of congressionally approved mental health grants for public school students. The lawsuit filed on Friday was done so \"protectively\" essentially to back up a prior lawsuit filed by states...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-07-13T15:58:23+00:00",
-    "date_str": "Jul 13, 2026"
-  },
-  {
-    "title": "Second US citizen diagnosed with Ebola transferred to Germany for treatment: WHO",
-    "url": "https://thehill.com/policy/healthcare/5965532-ebola-outbreak-congo-response/",
-    "summary": "A second U.S. citizen was diagnosed with Ebola on Friday and subsequently transferred to Germany for treatment, according to the World Health Organization (WHO). The individual, whose identity was not revealed, is a humanitarian worker and was admitted to Frankfurt University ‌Hospital early on Monday. “As infections among response personnel are not unexpected in an...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-07-13T15:27:57+00:00",
-    "date_str": "Jul 13, 2026"
-  },
-  {
-    "title": "Obesity Is Tied to Hundreds of Gene Variants — Why Are We Only Talking About Two?",
-    "url": "https://medcitynews.com/2026/07/obesity-is-tied-to-hundreds-of-gene-variants-why-are-we-only-talking-about-two/",
-    "summary": "Focusing on two gene variants obscures the more complex gene relationships that drive obesity. Here’s what we miss if we only focus on one gene variant at a time. The post Obesity Is Tied to Hundreds of Gene Variants — Why Are We Only Talking About Two? appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-13T14:03:00+00:00",
-    "date_str": "Jul 13, 2026"
-  },
-  {
-    "title": "To Solve the Nursing Shortage, Our Leaders in Washington Must Invest in Higher Education",
-    "url": "https://medcitynews.com/2026/07/to-solve-the-nursing-shortage-our-leaders-in-washington-must-invest-in-higher-education/",
-    "summary": "If we want more nurses, we need more nursing students, which means creating the educational infrastructure needed to help them succeed. The post To Solve the Nursing Shortage, Our Leaders in Washington Must Invest in Higher Education appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-13T13:39:00+00:00",
-    "date_str": "Jul 13, 2026"
-  },
-  {
-    "title": "STAT+: All eyes on data on Biogen’s tau therapy",
-    "url": "https://www.statnews.com/2026/07/13/biotech-news-all-eyes-on-biogen-tau-therapy-data/?utm_campaign=rss",
-    "summary": "The year of daraxonrasib, a wearable for a myeloma drug, and more biotech news from The Readout",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-13T13:40:08+00:00",
-    "date_str": "Jul 13, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about an RFK Jr. push against psychiatric meds, a Sanofi blood cancer drug, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/07/13/rfk-push-against-ssri-antidepressants-sanofi-blood-cancer-drug/?utm_campaign=rss",
-    "summary": "U.S. health secretary Robert F. Kennedy Jr. is pressing forward with his effort to help Americans stop taking SSRI antidepressants",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-13T13:08:34+00:00",
-    "date_str": "Jul 13, 2026"
-  },
-  {
-    "title": "Caregivers brace for pay cuts, and maybe homelessness",
-    "url": "https://www.statnews.com/2026/07/13/health-news-caregivers-brace-for-pay-cuts-maybe-homelessness/?utm_campaign=rss",
-    "summary": "A game-changer in pancreatic cancer, a vaccine skeptical HHS nom, and more health news from Morning Rounds",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-13T11:46:24+00:00",
-    "date_str": "Jul 13, 2026"
-  },
-  {
-    "title": "Pythons' extreme biology may hold clues for treating human disease",
-    "url": "https://www.npr.org/2026/07/13/nx-s1-5887668/pythons-metabolism-digestion-human-disease-treatment",
-    "summary": "These snakes can go for months without eating, grow and shrink the size of their hearts and jump start their metabolism on a dime.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-13T10:00:00+00:00",
-    "date_str": "Jul 13, 2026"
-  },
-  {
-    "title": "U.S. Citizen Tests Positive for Ebola in Congo",
-    "url": "https://www.medpagetoday.com/infectiousdisease/ebola/122159",
-    "summary": "(MedPage Today) -- A U.S. citizen working for a humanitarian organization in Congo has tested positive for the Ebola virus, the CDC said on Friday, as the Central African country struggles to contain the swelling outbreak. The CDC said it was...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-13T14:01:45+00:00",
-    "date_str": "Jul 13, 2026"
-  },
-  {
-    "title": "Lindsey Graham's Cause of Death; Legionnaires' at the Guggenheim; Renowned Doc Dies",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/122158",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Sen. Lindsey Graham (R-S.C.) died at age 71 on Saturday of aortic dissection due to arteriosclerotic cardiovascular disease, according to a preliminary medical examiner...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-13T13:18:09+00:00",
     "date_str": "Jul 13, 2026"
   }
 ]
