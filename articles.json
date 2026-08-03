@@ -1,5 +1,115 @@
 [
   {
+    "title": "Earlier Lifeline for Rural Hospitals Faces Test Under ‘Big Beautiful’ Law",
+    "url": "https://kffhealthnews.org/rural-health/rural-hospital-closures-emergency-conversion-model-congress-michigan/",
+    "summary": "A century-old rural Michigan hospital converted to a stripped-down model Congress created to help keep small facilities afloat, then it closed. The emergency hospital model, created a few years ago, is stabilizing some hospitals, arrived too late for others, and now faces major challenges under the One Big Beautiful Bill Act.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-03T09:00:00+00:00",
+    "date_str": "Aug 03, 2026"
+  },
+  {
+    "title": "Kennedy, Oz Contend Fraud Crackdown, Not Skyrocketing Prices, Led Millions To Leave Obamacare",
+    "url": "https://kffhealthnews.org/medicaid/aca-fraud-crackdown-skyrocketing-prices-enrollment-decline/",
+    "summary": "Rising premiums forced many people in Affordable Care Act plans to give up their coverage. But the Trump administration claims a huge drop in enrollment is almost entirely due to its fraud crackdown.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-03T09:00:00+00:00",
+    "date_str": "Aug 03, 2026"
+  },
+  {
+    "title": "People With Disabilities Fear Service Cuts as Trump’s DOJ Questions Legal Protections",
+    "url": "https://kffhealthnews.org/syndicate/people-with-disabilities-fear-service-cuts-as-trumps-doj-questions-legal-protections/",
+    "summary": "The Department of Justice in June issued a legal opinion saying states aren’t required to provide services that help people with disabilities remain in their homes. The new position has added momentum to states’ existing legal challenges to the requirement and triggered worries among people who rely on these services.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-03T09:00:00+00:00",
+    "date_str": "Aug 03, 2026"
+  },
+  {
+    "title": "STAT+: Are AI scribes useful tools in medical education, or a crutch that imperils learning?",
+    "url": "https://www.statnews.com/2026/08/03/ai-scribes-medical-education-learning-tool-cognitive-crutch/?utm_campaign=rss",
+    "summary": "Educators want future physicians to be fluent in AI scribes, but they worry what off-loading clinical notes to AI could do to learning.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-03T08:30:00+00:00",
+    "date_str": "Aug 03, 2026"
+  },
+  {
+    "title": "Heart transplants fail if patients get too weak. New program tries inpatient prehab",
+    "url": "https://www.statnews.com/2026/08/03/heart-transplant-prehabilitation-cardiologist-discusses-innovative-project/?utm_campaign=rss",
+    "summary": "Patients often get weaker waiting in the hospital for heart transplant. A cardiologist had an idea: inpatient prehabilitation.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-03T08:30:00+00:00",
+    "date_str": "Aug 03, 2026"
+  },
+  {
+    "title": "Opinion: I’m a neurologist. I’ve delivered ALS diagnoses. Then I received one myself",
+    "url": "https://www.statnews.com/2026/08/03/als-diagnosis-neurologist-research-hope/?utm_campaign=rss",
+    "summary": "“Losing the ability to speak has taught me how quickly society conflates physical dependence with diminished personhood,” writes Dr. Christopher Campos.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-03T08:30:00+00:00",
+    "date_str": "Aug 03, 2026"
+  },
+  {
+    "title": "Opinion: We lead the Federation of State Medical Boards. Here’s what we think about licensing AI to practice medicine",
+    "url": "https://www.statnews.com/2026/08/03/ai-doctors-licensing-state-medical-boards/?utm_campaign=rss",
+    "summary": "The leaders of the Federation of State Medical Boards weigh in on the question of licensing AI to practice medicine.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-03T08:30:00+00:00",
+    "date_str": "Aug 03, 2026"
+  },
+  {
+    "title": "Common advice about kid snacking is outdated. Here's what parents should know",
+    "url": "https://www.npr.org/2026/08/03/nx-s1-5910817/common-advice-about-kid-snacking-is-outdated-heres-what-parents-should-know",
+    "summary": "Pediatricians recommend kids eat about five times a day: three meals and two snacks. Parents often carry snacks so kids can eat on the go. Here's what science says about snacking.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-03T08:44:44+00:00",
+    "date_str": "Aug 03, 2026"
+  },
+  {
+    "title": "Every extra review cycle is a cost center; RAAPID OnePass removes the need",
+    "url": "https://www.healthcaredive.com/spons/every-extra-review-cycle-is-a-cost-center-raapid-onepass-removes-the-need/826317/",
+    "summary": "Why layered review cycles drain budgets and how OnePass delivers audit-ready coding in one review.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-03T09:00:00+00:00",
+    "date_str": "Aug 03, 2026"
+  },
+  {
+    "title": "Out-of-Network claims are costing you more than you think",
+    "url": "https://www.healthcaredive.com/spons/out-of-network-claims-are-costing-you-more-than-you-think/826703/",
+    "summary": "88% of IDR disputes go to providers. See how health plans can fix OON claims first.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-03T09:00:00+00:00",
+    "date_str": "Aug 03, 2026"
+  },
+  {
+    "title": "Consider strategy over rushed implementation: Readying healthcare organizations for AI transformation",
+    "url": "https://www.healthcaredive.com/spons/consider-strategy-over-rushed-implementation-readying-healthcare-organizat/826546/",
+    "summary": "Healthcare leaders must modernize their digital foundations to scale AI investments for long-term success.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-03T09:00:00+00:00",
+    "date_str": "Aug 03, 2026"
+  },
+  {
     "title": "‘We’re Not Going to Be Bullied’: Sentara Digs in on Anthem Contract Fight",
     "url": "https://medcitynews.com/2026/08/sentara-anthem-insurance/",
     "summary": "Sentara Health notified Anthem that it will let its commercial, Medicare and Medicaid contracts expire at year’s end unless the two sides reach a new rate agreement. The dispute puts coverage for an estimated 380,000 Virginians at risk. The post ‘We’re Not Going to Be Bullied’: Sentara Digs in on Anthem Contract Fight appeared first on MedCity News .",
@@ -9888,115 +9998,5 @@
     "category_slug": "medicare-news",
     "date": "2026-07-13T01:36:56+00:00",
     "date_str": "Jul 13, 2026"
-  },
-  {
-    "title": "Does CMS Know What It Is Doing With Its GLP-1 Obesity Coverage Pilot?",
-    "url": "https://medcitynews.com/2026/07/cms-coverage-glp1s-obesity/",
-    "summary": "CMS’s new GLP-1 Bridge program expands Medicare access to obesity drugs but raises concerns about cost, supply and implementation challenges. The post Does CMS Know What It Is Doing With Its GLP-1 Obesity Coverage Pilot? appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-13T00:23:15+00:00",
-    "date_str": "Jul 13, 2026"
-  },
-  {
-    "title": "AstraZeneca Turns to China for Molecule That Might Top New Merck COPD Drug",
-    "url": "https://medcitynews.com/2026/07/astrazeneca-copd-pde3-pde4-inhibitor-sino-biopharmaceutical-respiratory-disorder-azn/",
-    "summary": "AstraZeneca is getting rights to a Sino Biopharmaceutical drug that offers a dual mechanism to treat chronic obstructive pulmonary disease, or COPD. It’s the same approach as an FDA-approved drug that Merck acquired last year in a multi-billion dollar deal. The post AstraZeneca Turns to China for Molecule That Might Top New Merck COPD Drug appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-12T19:35:51+00:00",
-    "date_str": "Jul 12, 2026"
-  },
-  {
-    "title": "STAT+: Tau in the spotlight at Alzheimer’s conference",
-    "url": "https://www.statnews.com/2026/07/12/aaic-in-30-alzheimers-treaatments-focus-on-tau-blood-brain-barrier/?utm_campaign=rss",
-    "summary": "From STAT's AAIC in 30 newsletter: Researchers focus on tau, and progress on crossing the blood-brain barrier.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-12T20:01:45+00:00",
-    "date_str": "Jul 12, 2026"
-  },
-  {
-    "title": "'Do You Want the Toyota or the Lexus?': What We Heard This Week",
-    "url": "https://www.medpagetoday.com/opinion/what-we-heard/122145",
-    "summary": "(MedPage Today) -- \"They said, 'Do you want the Toyota or the Lexus?'\" -- Christina Prescott, MD, PhD, of NYU Langone Health in New York City, discussing how her aunt was sold a pricey multifocal lens for cataract surgery, then learned she wasn...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-12T20:00:00+00:00",
-    "date_str": "Jul 12, 2026"
-  },
-  {
-    "title": "Preliminary findings reveal Graham died of \"aortic dissection\": Medical examiner",
-    "url": "https://thehill.com/homenews/senate/5964972-sen-lindsey-graham-death-cause/",
-    "summary": "Sen. Lindsey Graham (R-S.C.) died on Saturday of an aortic dissection due to arteriosclerotic cardiovascular disease, the office of the Washington, D.C., chief medical examiner said Sunday. “The death certificate will be PENDING until all the toxicological and microscopic testing are finalized and at that point the death certificate will be updated to reflect the...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-07-12T22:00:06+00:00",
-    "date_str": "Jul 12, 2026"
-  },
-  {
-    "title": "Prior Authorization is a Fight and AI Won’t End It — Stop Pretending Otherwise",
-    "url": "https://medcitynews.com/2026/07/prior-authorization-is-a-fight-and-ai-wont-end-it-stop-pretending-otherwise/",
-    "summary": "The honest question is not whether AI will end the fight. It will not. The honest question is what AI does to a fight that has been structurally imbalanced for 30 years. The post Prior Authorization is a Fight and AI Won’t End It — Stop Pretending Otherwise appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-12T14:16:00+00:00",
-    "date_str": "Jul 12, 2026"
-  },
-  {
-    "title": "Medicaid’s Next Performance Test: Can Plans Reach the Members They’re Accountable For?",
-    "url": "https://medcitynews.com/2026/07/medicaids-next-performance-test-can-plans-reach-the-members-theyre-accountable-for/",
-    "summary": "For many of Medicaid’s highest-need members, the problem isn’t that services don’t exist. It’s that the system can’t consistently reach the people who need those services most. The post Medicaid’s Next Performance Test: Can Plans Reach the Members They’re Accountable For? appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-12T13:34:00+00:00",
-    "date_str": "Jul 12, 2026"
-  },
-  {
-    "title": "What to know about the cyclosporiasis outbreak hitting more than half of U.S. states",
-    "url": "https://www.npr.org/2026/07/12/nx-s1-5890935/cyclosporiasis-outbreak-diarrhea-nausea-where-states-us",
-    "summary": "A surge of cases of the intestinal illness that causes diarrhea and nausea has been detected in 31 states, according to federal health authorities, but the source is still under investigation.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-12T16:48:41+00:00",
-    "date_str": "Jul 12, 2026"
-  },
-  {
-    "title": "Dementia Prevention Is Not One-Size-Fits-All, Study Shows",
-    "url": "https://www.medpagetoday.com/meetingcoverage/aaic/122156",
-    "summary": "(MedPage Today) -- Modifiable dementia risk factors varied widely from country to country and a one-size-fits-all approach to dementia prevention will not work everywhere, data from 14 countries and regions showed. Both differences and similarities...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-12T17:30:00+00:00",
-    "date_str": "Jul 12, 2026"
-  },
-  {
-    "title": "We've All Had 'Difficult' Patients. But Do They Really Exist?",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/122143",
-    "summary": "(MedPage Today) -- The chart note was brief: \"Difficult patient. Frequent visits. Demands unnecessary tests.\" Before I met the patient, I already knew how the story was supposed to go. Every physician has encountered some version of this. A colleague...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-12T16:00:00+00:00",
-    "date_str": "Jul 12, 2026"
-  },
-  {
-    "title": "You got the 'explosive' diarrhea parasite. Now what?",
-    "url": "https://thehill.com/policy/healthcare/5961707-you-got-the-explosive-diarrhea-parasite-now-what/",
-    "summary": "(NEXSTAR) – Hundreds of people, and likely more, have fallen ill thanks to a parasite in recent weeks. While authorities continue to search for the source, you may be left fearing any fruit or vegetable you were considering eating. Since May, the Centers for Disease Control and Prevention say there have been at least 145...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-07-12T17:00:00+00:00",
-    "date_str": "Jul 12, 2026"
   }
 ]
