@@ -1,5 +1,225 @@
 [
   {
+    "title": "AI Is Being Used to Boost Medicaid Enrollment, but Not Without Concerns",
+    "url": "https://kffhealthnews.org/medicaid/medicaid-work-requirements-medi-cal-ai-agents-reenroll-careforce-california/",
+    "summary": "Ahead of Medicaid work requirements, a health plan in California hopes to stanch the number of people losing coverage by using an AI program to schedule appointments and remind enrollees to fill out paperwork. The plan says it can do the work of 40 employees at a fraction of the cost.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-04T09:00:00+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "Nurses Chase Cyclospora, Aided by Interviews, Fast-Food Receipts — And the Messy Details",
+    "url": "https://kffhealthnews.org/public-health/cyclospora-cyclosporiasis-outbreak-diarrhea-contact-tracing-michigan/",
+    "summary": "Yes, they’ve heard all the poop jokes. Public health staffers are painstakingly tracing the sources of this massive outbreak, combing through fast-food orders and lettuce purchases as they listen to people’s lengthy, messy stories about their illness.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-04T09:00:00+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "Ebola kills 1,700 in eastern Congo as the fastest-growing outbreak surges",
+    "url": "https://www.statnews.com/2026/08/04/ebola-1700-deaths-eastern-congo-fastest-growing-outbreak/?utm_campaign=rss",
+    "summary": "Ebola has killed more than 1,700 people in eastern Congo in what has become the fastest-growing outbreak of the disease.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-04T19:10:48+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "STAT+: Startup promising to scale custom CRISPR therapies abruptly scraps plans",
+    "url": "https://www.statnews.com/2026/08/04/aurora-therapeutics-ends-program-baby-kj-treatments-beam-therapeutics-jennifer-doudna/?utm_campaign=rss",
+    "summary": "The FDA, while promising flexibility in approving Baby KJ-type gene editing, still has set standards difficult for a small startup to meet.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-04T17:04:10+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "STAT+: Three biotechs with three news updates",
+    "url": "https://www.statnews.com/2026/08/04/biotech-news-gilead-wins-case-that-scrutinized-pace-of-drug-development/?utm_campaign=rss",
+    "summary": "Gilead wins case over its HIV medicine, Eli Lilly to expand retatrutide access, and more biotech news",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-04T15:54:53+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "ADA Reviewing Police Tussle; Obesity Trial Lawsuit; Retatrutide's Early Access",
+    "url": "https://www.medpagetoday.com/endocrinology/generalendocrinology/122484",
+    "summary": "(MedPage Today) -- The American Diabetes Association (ADA) asked for patience as its Audit and Governance Committee reviews the incident at this year's annual meeting -- when five prominent experts were removed by police -- and prepares recommendations...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-04T18:51:10+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "Cardiac Arrest Mid-Bar Exam; Echocardiography Workforce Ills; DCB Inflation Times",
+    "url": "https://www.medpagetoday.com/cardiology/generalcardiology/122483",
+    "summary": "(MedPage Today) -- A woman who suffered a cardiac arrest while taking the New York State bar exam is suing the test site, Hofstra University, claiming that CPR and an automated external defibrillator were not provided in a timely manner by staff...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-04T18:43:11+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "Alzheimer's Paper Retracted; MS Before Epstein-Barr Infection; Brain Aging Map",
+    "url": "https://www.medpagetoday.com/neurology/generalneurology/122482",
+    "summary": "(MedPage Today) -- A 2024 report of a severe Alzheimer's disease patient who improved after an intravenous mesenchymal stem cell transplant was retracted by Case Reports in Neurological Medicine and its publisher John Wiley & Sons. Researchers...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-04T18:31:00+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "Slam the Brakes on Healthcare Consumerism",
+    "url": "https://www.medpagetoday.com/opinion/patientcenteredmedicalhome/122481",
+    "summary": "(MedPage Today) -- The other day I walked past a branch of a gym that had a service for walk-in on-site intravenous (IV) drips. It was made clear that this was an independent business, not a service offered by the gym itself, but a private company...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-04T17:36:02+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "The Manosphere and MAHA Have Merged. I Worry for My Pre-Teen Son.",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/122480",
+    "summary": "(MedPage Today) -- Two thirds of young men in the U.S. regularly engage with online masculinity influencers (\"manfluencers\") who often promote sexism, normalize violence against women, and peddle a narrow view of what it means to be a man. Platforms...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-04T16:14:40+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "About a Quarter of Buprenorphine Prescriptions for OUD Abandoned",
+    "url": "https://www.medpagetoday.com/psychiatry/addictions/122479",
+    "summary": "(MedPage Today) -- The proportion of new buprenorphine prescriptions for opioid use disorder (OUD) that were never dispensed or filled increased from 2020 to 2024, according to a retrospective cohort study. Among over 1,400 patients with commercial...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-04T15:49:40+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "Women's Baseball Team Named for Trailblazing Doctor",
+    "url": "https://www.medpagetoday.com/special-reports/features/122478",
+    "summary": "(MedPage Today) -- All four inaugural teams of the brand-new Women's Pro Baseball League (WPBL) are named after influential women in American history -- with one named after a trailblazing female physician. The New York Heights take inspiration...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-04T15:31:00+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "Balancing Autonomy, Quality of Life, and Long-Term Planning in Multiple Myeloma",
+    "url": "https://www.medpagetoday.com/beyond-diagnosis/multiple-myeloma/122477",
+    "summary": "(MedPage Today) -- In \"Beyond Diagnosis: Multiple Myeloma,\" Cleveland Clinic hematologist Sandra Mazzoni, DO, and host John Mangels continue their discussions on communicating effectively and empathetically with patients facing a complex, chronic...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-04T14:58:52+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "Ebola Kills 1,700 in Eastern Congo as the Fastest-Growing Outbreak Surges",
+    "url": "https://www.medpagetoday.com/infectiousdisease/ebola/122474",
+    "summary": "(MedPage Today) -- Ebola has killed more than 1,700 people in eastern Congo in the fastest-growing outbreak of the disease, data showed. As of Tuesday, 3,802 cases had been recorded, with 1,707 deaths, according to the latest government update...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-04T14:21:35+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "Evolving Landscape for Managing Cardiovascular, Renal and Metabolic Conditions",
+    "url": "https://www.medpagetoday.com/ad-insights/industry-clinic/122318",
+    "summary": "(MedPage Today) -- Boehringer Ingelheim's Brian Hilberdink, President, U.S. Human Pharma, and Neerja Balachander, M.D., Ph.D., VP, U.S. Clinical Development Medical Affairs and Cardiorenal Metabolic Therapeutic Area Head, reflect on key developments...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-04T14:00:00+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "Hackensack Meridian Health first to earn Joint Commission’s responsible health AI certification",
+    "url": "https://www.healthcaredive.com/news/hackensack-meridian-health-first-earn-joint-commissions-responsible-ai/826955/",
+    "summary": "Private consortiums have been attempting to put guardrails around the use of AI as federal regulations lag. HMH has been refining its AI governance structure for years, its medical informatics chief said.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-04T15:46:00+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "Hospitals feel the pinch as more patients lose insurance",
+    "url": "https://www.healthcaredive.com/news/hospitals-feeling-pinch-patients-lose-insurance/826764/",
+    "summary": "Half a year after enhanced Affordable Care Act subsidies expired, hospitals say more patients are going uninsured. That’s starting to drag their finances.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-04T14:49:46+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "HCA nabs 40 urgent care clinics in Texas acquisition",
+    "url": "https://www.healthcaredive.com/news/hca-texas-medclinic-acquisition-urgent-care/826917/",
+    "summary": "The hospital juggernaut is adding Texas MedClinic’s locations to its nationwide portfolio of urgent care clinics amid rising consumer demand for fast and convenient medical attention.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-04T13:01:14+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "A lab-leak proponent is in line for Fauci’s old job",
+    "url": "https://www.politico.com/news/2026/08/04/steven-quay-anthony-fauci-niaid-covid-lab-leak-01024080",
+    "summary": "Steven Quay is in final vetting to run the National Institute of Allergy and Infectious Diseases.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-04T19:30:09+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "Why cyclospora can be deadly for some people",
+    "url": "https://thehill.com/policy/healthcare/6008551-why-cyclospora-can-be-deadly-for-some-people/",
+    "summary": "Michigan health officials reported what appear to be the first deaths in connection with the ongoing cyclospora outbreak on Monday.",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-04T18:27:02+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "Blanche pledges to make Dobbs decision 'permanent' in every state",
+    "url": "https://thehill.com/policy/healthcare/6008603-blanche-plans-abortion-rollback/",
+    "summary": "Acting Attorney General Todd Blanche told faith leaders he is planning to roll back abortion access even in states that have laws protecting it. On a private call last week hosted by the White House Faith Office, Blanche told the religious group Intercessors for America that moves to undo the Biden administration’s efforts to protect...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-04T18:08:18+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "Senate panel to vote on Fauci contempt resolution after tense hearing",
+    "url": "https://thehill.com/policy/healthcare/6008263-senate-schedules-fauci-contempt-vote/",
+    "summary": "The Senate Homeland Security and Governmental Affairs Committee (HSGAC) will vote Thursday on a resolution to hold former top health official Anthony Fauci in contempt following his hearing last week in which he invoked his Fifth Amendment right more than 100 times and refused to answer any questions. The HSGAC will vote Thursday morning on...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-04T17:43:20+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
     "title": "Health Tech Promised Simplicity — Why Does It Feel Like More Work?",
     "url": "https://medcitynews.com/2026/08/health-tech-promised-simplicity-why-does-it-feel-like-more-work/",
     "summary": "The future of health care innovation is technology that carries more of the load, so people don’t have to. The post Health Tech Promised Simplicity — Why Does It Feel Like More Work? appeared first on MedCity News .",
@@ -9777,226 +9997,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-07-14T17:44:04+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "STAT+: Hospital chain HCA warns of lower profits as more patients go uninsured",
-    "url": "https://www.statnews.com/2026/07/14/hca-predicts-treating-uninsured-patients-will-trim-1-billion-in-profits/?utm_campaign=rss",
-    "summary": "It's an early indicator of the fallout from the end of extra ACA subsidies.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-14T17:01:48+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "STAT+: Anthropic’s Claude Science is coming for Kendall Square",
-    "url": "https://www.statnews.com/2026/07/14/anthropic-claude-science-kendall-square/?utm_campaign=rss",
-    "summary": "AI still has the potential to do more than reduce corporate head counts. Watch out, Kendall Square.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-14T15:41:19+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "Majority of new Ebola cases in eastern Congo are from unknown chains, as outbreak outpaces response",
-    "url": "https://www.statnews.com/2026/07/14/ebola-outbreak-congo-new-cases-unknown-chains-of-transmission/?utm_campaign=rss",
-    "summary": "The Ebola outbreak in eastern Congo “continues to outpace the response efforts,” the WHO’s emergencies chief said on Tuesday after returning from a trip to one of the worst hit…",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-14T15:18:50+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "STAT+: Akero team, backed by Fairmount, launches new immunology company",
-    "url": "https://www.statnews.com/2026/07/14/biotech-news-akero-team-launches-new-immunology-company-with-chinese-drug/?utm_campaign=rss",
-    "summary": "FDA approves injectable Leqembi, another post-Makary reversal, and other biotech news from The Readout",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-14T14:42:43+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "Push for Cath Lab Safety; Eplontersen Flops in ATTR-CM; Off-Label Testosterone Risks",
-    "url": "https://www.medpagetoday.com/cardiology/generalcardiology/122181",
-    "summary": "(MedPage Today) -- A multisociety expert consensus statement calls for wider implementation of enhanced radiation protection devices for cath lab operators. (JACC: Cardiovascular Interventions) The FDA approved Johnson & Johnson's Dual Energy...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-14T17:53:10+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "Nurses Are Honored in Hollywood. Reality Often Looks Different.",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/122180",
-    "summary": "(MedPage Today) -- There is something almost too on-the-nose about our recent news cycle. On July 8, \"The Pitt\" -- HBO Max's unflinching, real-time portrait of a Pittsburgh emergency department (ED) -- collected 25 Emmy nominations, 13 of them...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-14T17:40:23+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "Biomarkers for Esophageal Cancer Continue to Evolve",
-    "url": "https://www.medpagetoday.com/spotlight/asco-esophageal-cancer/122178",
-    "summary": "(MedPage Today) -- Biomarker discovery has played an essential role in the development of more effective therapy for multiple types of solid tumors, including esophageal cancer. The applicability of biomarkers in esophageal cancer continues to...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-14T16:40:18+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "Want Real Mentorship in Medicine? Bots Aren't It.",
-    "url": "https://www.medpagetoday.com/opinion/patientcenteredmedicalhome/122177",
-    "summary": "(MedPage Today) -- Thursday mornings at our practice are unique. Historically, no patients. Years ago, Thursday mornings were when the Department of Medicine had its Grand Rounds series, starting at 9 a.m. However, after being in this time slot...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-14T15:50:18+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "Comments Are Closed on OMB's Grantmaking Proposed Rule. Now What?",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/122175",
-    "summary": "(MedPage Today) -- Last night, comments closed on the Office of Management and Budget (OMB)'s proposed rule that would require political appointees to review federal grants and halt those that don't align with Trump administration objectives....",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-14T15:07:03+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "GLP-1s and Blinding Condition; Cyclosporiasis Source Found? Tylenol-Autism Lawsuits",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/122172",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. A cohort study found that diabetes patients taking GLP-1 receptor agonists had a higher risk of anterior ischemic optic neuropathy, a potentially blinding eye condition...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-14T13:45:54+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "HCA cuts 2026 earnings forecast on insurance coverage losses",
-    "url": "https://www.healthcaredive.com/news/hca-cuts-2026-earnings-ACA-coverage-losses/825147/",
-    "summary": "Payer mix changes, mostly from fewer people being enrolled in Affordable Care Act plans, caused HCA to lose $400 million in the second quarter — much more than the company (or its investors) had expected.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-14T15:00:00+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "Hospital M&A sustains momentum in Q2: report",
-    "url": "https://www.healthcaredive.com/news/hospital-health-system-mergers-acquisitions-momentum-kaufman-hall-q2-2026/825114/",
-    "summary": "Hospitals and health systems recorded 18 transactions in the second quarter after a lull in dealmaking early last year as providers look to partner up to bolster their finances.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-13T20:05:55+00:00",
-    "date_str": "Jul 13, 2026"
-  },
-  {
-    "title": "‘The system is undeniably broken’: More insurers sue CMS over Medicare Advantage stars",
-    "url": "https://www.healthcaredive.com/news/scan-alignment-sue-cms-ma-star-ratings-recalculation-clover-lawsuits/825091/",
-    "summary": "SCAN Health Plan and Alignment Healthcare both filed lawsuits against the CMS last week after regulators refused to recalculate industry-wide MA scores using the same methodology as for Clover Health.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-13T17:42:56+00:00",
-    "date_str": "Jul 13, 2026"
-  },
-  {
-    "title": "Startup Sonata launches preventive healthcare membership, linking clinical decisions with AI",
-    "url": "https://www.fiercehealthcare.com/health-tech/new-company-sonata-launches-preventive-healthcare-membership-linking-clinical-decisions",
-    "summary": "Membership includes unlimited, continuous care with licensed physicians, in-home blood testing, clinical AI and genome sequencing, according to the company.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-14T19:17:58.270808+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "HCA Healthcare now expects ACA exchange impacts to exceed $1B in 2026",
-    "url": "https://www.fiercehealthcare.com/providers/hca-healthcare-warns-greater-expected-exchange-disruption-lowers-2026-guidance",
-    "summary": "The country's largest for-profit health system released preliminary second-quarter results highlighting an increase in uninsured volumes. It now expects a $1 billion to $1.2 billion pre-tax hit across the full year due to payer mix shifts among exchange patients.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-14T19:17:58.270895+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "Americans in Congo barred from immediately returning home",
-    "url": "https://www.politico.com/news/2026/07/14/american-ebola-relief-workers-barred-from-returning-home-immediately-00997100",
-    "summary": "U.S. citizens in the Democratic Republic of the Congo will have to spend 21 days in a third country before returning to the U.S., even if they show no signs of disease.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-14T19:12:52+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "Why cyclosporiasis cases are likely way underreported",
-    "url": "https://thehill.com/policy/healthcare/5967777-why-cyclosporiasis-cases-are-likely-way-underreported/",
-    "summary": "Thousands of cases have been confirmed across the U.S., but it's likely the true number of people who have fallen ill is even higher.",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-07-14T18:44:31+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "Senate Democrat requests investigation into whether RFK Jr. broke Hatch Act",
-    "url": "https://thehill.com/homenews/campaign/5967360-senate-democrat-requests-investigation-into-whether-rfk-jr-broke-hatch-act/",
-    "summary": "Sen. Ron Wyden (D-Oreg.) on Monday asked the Office of Special Counsel (OSC) to investigate whether Health and Human Services Secretary Robert F. Kennedy Jr. violated the Hatch Act last month when he spoke with two candidates running for congressional office. In a letter to Acting Special Counsel Jamieson Greer, Wyden requested that he \"immediately...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-07-14T16:44:46+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "Knee Pain? Ragged Cartilage? Research Suggests Surgery’s Not the Best Answer",
-    "url": "https://kffhealthnews.org/health-industry/knee-surgery-arthroscopic-cartilage-meniscus-finnish-study-osteoarthritis/",
-    "summary": "A Finnish study followed patients for 10 years after they had a popular knee surgery. For many, the pain continued or even worsened.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-14T09:00:00+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "Lawmakers Look To Make Abortion Shield Laws Less Dependent on Who’s Governor",
-    "url": "https://kffhealthnews.org/courts/shield-laws-abortion-pills-extradition-doctors-governor-california-newsom-hilton-becerra/",
-    "summary": "California’s laws still leave extradition decisions related to reproductive rights and gender-affirming care to its governor. But as states with abortion bans target California physicians who prescribe abortion pills across state lines, Democrats want to lock in protections for doctors, no matter who the next governor is.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-14T09:00:00+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "Pharmacy Benefit Operations Infrastructure Must Rise to Regulatory Reform Standards",
-    "url": "https://medcitynews.com/2026/07/pharmacy-benefit-operations-infrastructure-must-rise-to-regulatory-reform-standards/",
-    "summary": "The PBM reform efforts are directional, not temporary. Meeting these expectations requires automated systems that can reconstruct claim logic on demand and provide real-time alignment between pricing, rebates and financial outputs. The post Pharmacy Benefit Operations Infrastructure Must Rise to Regulatory Reform Standards appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-14T13:25:00+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "A Roadmap to Real Healthcare AI Execution",
-    "url": "https://medcitynews.com/2026/07/a-roadmap-to-real-healthcare-ai-execution/",
-    "summary": "[Sponsored] This guide is designed to help you identify the environmental constraints that matter most, then address them in a realistic sequence that fits how healthcare IT work actually gets done. The post A Roadmap to Real Healthcare AI Execution appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-14T11:50:00+00:00",
     "date_str": "Jul 14, 2026"
   }
 ]
