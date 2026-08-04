@@ -1,5 +1,55 @@
 [
   {
+    "title": "STAT+: Kennedy and Oz call Medicaid cuts ‘myths.’ It’s more complicated than that",
+    "url": "https://www.statnews.com/2026/08/04/rfk-medicaid-cuts-myth-analysis/?utm_campaign=rss",
+    "summary": "Kennedy and Oz say Medicaid isn't being cut. But state Medicaid directors say new policies are likely to cause many people to lose coverage.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-04T08:30:00+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "STAT+: As Trump administration pushes court-ordered mental health care, a new report raises questions",
+    "url": "https://www.statnews.com/2026/08/04/new-report-questions-new-york-program-court-ordered-mental-healthcare/?utm_campaign=rss",
+    "summary": "A study of New York’s court-ordered care for people with serious mental health conditions adds to the research on this type of involuntary care.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-04T08:30:00+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "Opinion: How Josée became one of the 7.9% of Québécois who die by assisted suicide",
+    "url": "https://www.statnews.com/2026/08/04/assisted-suicide-medical-aid-in-dying-quebec-mental-illness-suffering/?utm_campaign=rss",
+    "summary": "“In focusing on medical aid in dying solely as an end, we’ve missed out on the life that was lived,” writes physician Sai Rajagopal.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-04T08:30:00+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "Opinion: I’m using not-FDA-approved software to manage my diabetes. I’ve never felt better",
+    "url": "https://www.statnews.com/2026/08/04/diabetes-open-source-software-fda-approval/?utm_campaign=rss",
+    "summary": "“It is no longer possible to ask the FDA to keep pace with software development by doing the same reviews faster,” writes Dana Goldman.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-04T08:30:00+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "Here's Who Topped This Year's 'Best Hospitals' List",
+    "url": "https://www.medpagetoday.com/hospitalbasedmedicine/generalhospitalpractice/122467",
+    "summary": "(MedPage Today) -- Familiar hospitals dominated the latest \"Best Hospitals\" rankings from U.S. News & World Report, which also rolled out several changes this year. There were a couple of newcomers to the 2026-2027 Honor Roll, which for 4...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-04T04:01:00+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
     "title": "HHS Is Reviving Its 340B Rebate Push — And Providers Are None Too Pleased",
     "url": "https://medcitynews.com/2026/08/hrsa-hhs-340b-drugs/",
     "summary": "HHS is reviving a rebate program for 340B drug discounts after the previous pilot was blocked in court earlier this year. Providers say the change will burden already cash-strapped providers with new administrative and financial costs. The post HHS Is Reviving Its 340B Rebate Push — And Providers Are None Too Pleased appeared first on MedCity News .",
@@ -9947,56 +9997,6 @@
     "category": "Medicare News",
     "category_slug": "medicare-news",
     "date": "2026-07-13T22:54:55+00:00",
-    "date_str": "Jul 13, 2026"
-  },
-  {
-    "title": "Nearly 200 Organizations Back Bill to Expand Access to Clinical Trials",
-    "url": "https://medcitynews.com/2026/07/nearly-200-organizations-back-bill-seeking-to-increase-access-to-clinical-trials/",
-    "summary": "Nearly 200 healthcare and patient advocacy organizations endorsed the bipartisan Clinical Trial Modernization Act, which seeks to reduce financial barriers and expand access to clinical trials for underrepresented patients. The post Nearly 200 Organizations Back Bill to Expand Access to Clinical Trials appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-13T21:57:33+00:00",
-    "date_str": "Jul 13, 2026"
-  },
-  {
-    "title": "STAT+: AIDS activists slam Biden R&D deal with Gilead over HIV prevention drug patents",
-    "url": "https://www.statnews.com/pharmalot/2026/07/13/aids-activists-slam-biden-deal-with-gilead-over-hiv-prevention-patents/?utm_campaign=rss",
-    "summary": "A group of AIDS activists obtained an R&D pact at the heart of a settlement between the U.S. government and Gilead Sciences over patents for HIV prevention.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-13T20:58:46+00:00",
-    "date_str": "Jul 13, 2026"
-  },
-  {
-    "title": "Trump's HHS abandons threat to withhold Medicare and Medicaid funding over trans care",
-    "url": "https://www.npr.org/2026/07/13/nx-s1-5888586/transgender-gender-affirming-care-medicare-medicaid-hhs",
-    "summary": "NPR has learned that the Department of Health and Human Services will not be finalizing its most aggressive attempt to end gender-affirming care for youth nationally.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-13T20:22:49+00:00",
-    "date_str": "Jul 13, 2026"
-  },
-  {
-    "title": "Lifestyle Changes May Slow Brain Aging in Adults Younger Than 70",
-    "url": "https://www.medpagetoday.com/meetingcoverage/aaic/122170",
-    "summary": "(MedPage Today) -- A structured multidomain lifestyle intervention may help slow changes in brain white matter associated with aging, a secondary analysis of data from the randomized POINTER trial suggested. Compared with a self-guided intervention...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-13T21:22:24+00:00",
-    "date_str": "Jul 13, 2026"
-  },
-  {
-    "title": "Aspirin Alone Gets the Job Done for Clot Prevention After Joint Surgery",
-    "url": "https://www.medpagetoday.com/orthopedics/orthopedics/122169",
-    "summary": "(MedPage Today) -- An aspirin-only approach to postoperative prophylaxis after arthroplasty was as effective and safe as upfront rivaroxaban (Xarelto), according to the EPCAT III randomized trial. Aspirin-only prophylaxis met noninferiority criteria...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-13T21:08:11+00:00",
     "date_str": "Jul 13, 2026"
   }
 ]
