@@ -1,5 +1,65 @@
 [
   {
+    "title": "STAT+: Exemption of rare disease therapies in drug-pricing pilots would wipe out huge savings, analysis finds",
+    "url": "https://www.statnews.com/2026/08/05/cms-drug-pricing-pilot-programs-rare-disease-drugs/?utm_campaign=rss",
+    "summary": "Excluding rare disease therapies from a Medicare pilot program to lower drug prices would wipe out much of the savings from retail drugs, according to new research.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-05T08:30:00+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "STAT+: Senate inquiry suggests Trump administration softened kratom and tobacco policies in quid pro quo",
+    "url": "https://www.statnews.com/2026/08/05/senator-ron-wyden-investigation-kennedy-flavored-vapes-kratom/?utm_campaign=rss",
+    "summary": "The Senate investigation includes RFK Jr. as well as the heads of Reynolds American and kratom company Botanic Tonics, asking for written responses and documentation by Aug. 31.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-05T08:30:00+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "MRI is standard for diagnosing prostate cancer in most western countries. But most U.S. men don’t get them",
+    "url": "https://www.statnews.com/2026/08/05/prostate-cancer-screening-biopsy-vs-mri-debate/?utm_campaign=rss",
+    "summary": "Pre-biopsy MRI is standard outside the U.S., but the latest data show such scans were done in only about a third of U.S. prostate cancer cases in 2022.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-05T08:30:00+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "Opinion: Tear down the wall between M.D. and D.O. education",
+    "url": "https://www.statnews.com/2026/08/05/md-vs-do-medical-education-merge/?utm_campaign=rss",
+    "summary": "Having separate systems for M.D.s and D.O.s “is historical inertia dressed as educational diversity,” write physicians Abigail MacKenzie and Vijay Rajput.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-05T08:30:00+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "Opinion: Something is missing from movies about medical aid in dying",
+    "url": "https://www.statnews.com/2026/08/05/new-york-medical-aid-dying-assisted-suicide-room-next-door-movies/?utm_campaign=rss",
+    "summary": "Films and documentaries about assisted dying can narrow the frame of debate, write Anna Magdalena Elsner and Vanessa Rampton.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-05T08:30:00+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "Appalachia's black lung rates highest in nearly 50 years as miners' protections stall",
+    "url": "https://www.npr.org/2026/08/05/nx-s1-5894884/appalachia-black-lung-coal-miners-silica-dust",
+    "summary": "Rates are now as bad as the 1970s, with thousands of miners sick and dying. Mining experts blame toxic silica dust, now more common in mines.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-05T08:01:00+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
     "title": "QuantHealth Snags $45M to Simulate Clinical Trials Before Patients Ever Enroll",
     "url": "https://medcitynews.com/2026/08/quanthealth-ai-drug-discovery/",
     "summary": "QuantHealth raised $45 million in Series B funding to expand its AI platform, which simulates clinical trials before they run and predicts patient outcomes for pharma companies. The startup is aiming to cut the industry’s 90% trial failure rate and speed up the timelines for effective drugs to reach the market. The post QuantHealth Snags $45M to Simulate Clinical Trials Before Patients Ever Enroll appeared first on MedCity News .",
@@ -9938,65 +9998,5 @@
     "category_slug": "medicare-news",
     "date": "2026-07-15T05:40:36+00:00",
     "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "Ebola is spreading faster in eastern Congo than it can be tracked, as deaths pass 700",
-    "url": "https://www.npr.org/2026/07/15/g-s1-133630/ebola-congo-deaths",
-    "summary": "Eighty percent of new Ebola cases in eastern Congo are emerging from unknown chains of transmission, according to WHO, a sign the outbreak is spreading faster than health officials can track.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-15T05:39:55+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "Coalition Urges Policymakers to Reject No Surprises Act Enforcement Bill",
-    "url": "https://medcitynews.com/2026/07/coalition-urges-policymakers-to-reject-no-surprises-act-enforcement-bill/",
-    "summary": "The Coalition Against Surprise Medical Billing launched a campaign opposing the No Surprises Act Enforcement Act, arguing it would worsen IDR process abuse. The post Coalition Urges Policymakers to Reject No Surprises Act Enforcement Bill appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-14T22:35:20+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "After Antibiotic Approval, Spero Pivots to Immunology Aiming to Rival an Amgen Asset",
-    "url": "https://medcitynews.com/2026/07/spero-pivots-immunology-inflammation-igg4-rd-spro/",
-    "summary": "Spero Therapeutics enters immunology with an antibody licensed from Innovent Biologics. The lead indication is a rare autoimmune condition where Spero aims to offer advantages over the Amgen drug that is currently the only approved treatment. The post After Antibiotic Approval, Spero Pivots to Immunology Aiming to Rival an Amgen Asset appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-14T20:21:22+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "STAT+: FTC settles lawsuit with CVS Caremark over charges it manipulated insulin prices, impeded access",
-    "url": "https://www.statnews.com/pharmalot/2026/07/14/ftc-settles-lawsuit-cvs-caremark-insulin-prices-access/?utm_campaign=rss",
-    "summary": "The FTC settled a lawsuit against CVS Caremark over allegations that the company artificially inflated the price of insulin and impeded access to the diabetes treatment.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-14T20:55:49+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "STAT+: Sales from controversial U.S. drug discount program rose to $100 billion last year",
-    "url": "https://www.statnews.com/pharmalot/2026/07/14/sales-from-controversial-drug-discount-program-rose-to-100-billion-last-year/?utm_campaign=rss",
-    "summary": "Prescription drugs purchased under a controversial government discount program amounted to $100 billion in 2025, a 22.8% increase from the previous year.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-14T19:57:23+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "What to know about cyclosporiasis, the intestinal illness hitting the U.S.",
-    "url": "https://www.npr.org/2026/07/12/nx-s1-5890935/cyclosporiasis-cyclospora-outbreak-diarrhea-states-us",
-    "summary": "A surge of cases of the intestinal illness that causes diarrhea and fatigue has been detected in 34 states. Here's how what to do if you suspect you have it and how to avoid infection.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-12T16:48:41+00:00",
-    "date_str": "Jul 12, 2026"
   }
 ]
