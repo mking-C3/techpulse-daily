@@ -1,5 +1,155 @@
 [
   {
+    "title": "Baltimore Is Rethinking What It Means To Call 911 — And Who Responds",
+    "url": "https://kffhealthnews.org/public-health/baltimore-911-mental-health-calls-police-social-services-mobile-crisis-teams/",
+    "summary": "The city wants to stop health crises before they happen and is creating a new service to do that when people call 911.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-05T09:00:00+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "Pediatricians and Health Departments Sidestep Trump’s CDC on Vaccine Guidance",
+    "url": "https://kffhealthnews.org/public-health/pediatricians-health-departments-vaccine-guidance-cdc-trusted-source/",
+    "summary": "When the Trump administration upended years of vaccine advice, it left pediatricians in a quandary. Many say they can no longer direct families to the CDC as a trusted source of information. So some are creating their own.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-05T09:00:00+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "The Sleep Crisis We May Be Missing: Why Millions of Americans Remain Undiagnosed",
+    "url": "https://medcitynews.com/2026/08/the-sleep-crisis-we-may-be-missing-why-millions-of-americans-remain-undiagnosed/",
+    "summary": "Despite the silk masks, oils, and sleepy girl mocktails swirling around social media, one of the greatest causes of non-restorative sleep is rarely mentioned by wellness influencers online: actual sleep disorders. The post The Sleep Crisis We May Be Missing: Why Millions of Americans Remain Undiagnosed appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-05T13:29:00+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "The Healthcare Leaders Driving Change Need to Get Better at Explaining It",
+    "url": "https://medcitynews.com/2026/08/the-healthcare-leaders-driving-change-need-to-get-better-at-explaining-it/",
+    "summary": "Healthcare leaders who shape that future need more than innovation. They need a visible, credible voice that helps the people around them — patients, clinicians, employees, partners, and investors — understand what the change is, why it matters, and why this is the right person to lead it. The post The Healthcare Leaders Driving Change Need to Get Better at Explaining It appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-05T13:21:00+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "STAT+: Moderna launches early trial of Ebola mRNA vaccine",
+    "url": "https://www.statnews.com/2026/08/05/biotech-news-moderna-launches-early-ebola-mrna-vaccine-trial/?utm_campaign=rss",
+    "summary": "Novo and Lilly earnings are out, Aurora Therapeutics slashing staff, and more biotech news from The Readout",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-05T13:32:45+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "STAT+: Why Schrödinger CEO Ramy Farid changed how he’s thinking about AI",
+    "url": "https://www.statnews.com/2026/08/05/they-changed-their-minds-on-ai-whos-next-ai-prognosis/?utm_campaign=rss",
+    "summary": "In this edition of STAT's AI Prognosis: Why Schrödinger CEO Ramy Farid is rethinking AI, Recursion's neuron map, and more health AI news.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-05T13:29:59+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a Medicare pilot and orphan drugs, Pfizer cutbacks, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/08/05/medicare-pilot-orphan-drugs-pfizer-cutbacks/?utm_campaign=rss",
+    "summary": "In today's Pharmalittle newsletter, a Medicare pilot and orphan drugs, Pfizer cutbacks, and more.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-05T13:26:46+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "The main therapy used for children with autism faces changes under Medicaid",
+    "url": "https://www.statnews.com/2026/08/05/health-news-aba-therapy-for-children-with-autism-faces-changes-under-medicaid/?utm_campaign=rss",
+    "summary": "Quid-pro-quo vaping policies, ebola vaccine efforts, and more health news from Morning Rounds",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-05T11:55:27+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "Nicotine pouches can be marketed as 'lower risk' than cigarettes. Is that dangerous?",
+    "url": "https://www.npr.org/2026/08/05/nx-s1-5919626/smoking-fda-nicotine-cigarettes-tobacco",
+    "summary": "The FDA allowed some Zyn nicotine pouches to be marketed as \"lower risk\" than cigarettes. Public health experts agree they can help current smokers, but worry young people may become addicted.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-05T09:00:00+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "FDA is poised to decide whether to approve the first mRNA flu vaccine",
+    "url": "https://www.npr.org/2026/08/05/nx-s1-5919989/fda-is-poised-to-decide-whether-to-approve-the-first-mrna-flu-vaccine",
+    "summary": "The FDA will soon decide whether to approve the first flu vaccine that uses the same mRNA technology as COVID-19 shots. Health Secretary Robert F. Kennedy Jr. has long questioned mRNA vaccines.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-05T08:43:36+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "Sentara moves to end Anthem contracts in Virginia",
+    "url": "https://www.healthcaredive.com/news/sentara-moves-end-anthem-contracts-virginia/827050/",
+    "summary": "Nearly 380,000 patients could go out of network with the health system if the commercial, Medicare and Medicaid contracts lapse.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-05T13:08:55+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "Closing the gaps in MS care during pregnancy",
+    "url": "https://www.fiercehealthcare.com/providers/closing-gaps-ms-care-during-pregnancy",
+    "summary": "Women with multiple sclerosis can still encounter outdated or conflicting pregnancy guidance, but emerging research is giving providers a clearer path toward more informed, individualized care.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-05T14:06:23.316722+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "Women’s ‘new health ecosystem’ takes shape on Reddit: report",
+    "url": "https://www.fiercehealthcare.com/marketing/womens-new-health-ecosystem-takes-shape-reddit-report",
+    "summary": "Weber Shandwick and Reddit partnered up in a July report that aims to decode the “new health ecosystem” and the modern women’s health content discovery journey, which, as it turns out, takes place on Reddit.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-05T14:06:23.316786+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "CVS raises guidance as it posts nearly $3B in profit, $106B in revenue for Q2",
+    "url": "https://www.fiercehealthcare.com/payers/cvs-raises-guidance-it-posts-3b-profit-106b-revenue-q2",
+    "summary": "CVS Health is raising its guidance for the year as it blew past Wall Street analysts' expectations in the second quarter.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-05T14:06:23.316817+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "Hinge Health to acquire Cylinder Health in a $105M deal to expand into gastrointestinal care",
+    "url": "https://www.fiercehealthcare.com/digital-health/hinge-health-acquire-cylinder-health-105m-deal-expand-digestive-healthcare",
+    "summary": "Hinge Health raised its full-year revenue and profitability expectations for the remainder of 2026 as the company reported another strong quarter and further expands its business beyond muscle and joint pain.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-05T14:06:23.316848+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
     "title": "STAT+: Exemption of rare disease therapies in drug-pricing pilots would wipe out huge savings, analysis finds",
     "url": "https://www.statnews.com/2026/08/05/cms-drug-pricing-pilot-programs-rare-disease-drugs/?utm_campaign=rss",
     "summary": "Excluding rare disease therapies from a Medicare pilot program to lower drug prices would wipe out much of the savings from retail drugs, according to new research.",
@@ -9847,156 +9997,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-07-15T08:30:00+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "STAT+: Swing Therapeutics acquired by medical VR platform XR Health",
-    "url": "https://www.statnews.com/2026/07/15/swing-therapeutics-acquired-by-xr-health/?utm_campaign=rss",
-    "summary": "Swing Therapeutics, developer of a digital treatment for fibromyalgia, has been acquired by medical virtual reality company XR Health.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-15T08:30:00+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "Opinion: Why we still don’t know what foods are the source of the cyclospora outbreak",
-    "url": "https://www.statnews.com/2026/07/15/why-cyclospora-source-remains-unknown-epidemiologist-explains/?utm_campaign=rss",
-    "summary": "“You cannot thin a system, defer the tools that would speed it up, and then wonder why the public is left guessing,” writes epidemiologist Katrine Wallace.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-15T08:30:00+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "STAT+: A new biotech startup tries to tackle obesity, but not in the way you might expect",
-    "url": "https://www.statnews.com/2026/07/15/mwyngil-therapeutics-weight-loss-drugs-startup/?utm_campaign=rss",
-    "summary": "A new startup is making a bold move in the world of obesity drug development: It’s not working with the GLP-1 target that has taken the world by storm.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-15T08:30:00+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "STAT+: Under a new leader, the FDA’s biologics center moves to steady itself after stormy chapter",
-    "url": "https://www.statnews.com/2026/07/15/fda-cber-acting-director-karim-mikhail-return-normal-vinay-prasad/?utm_campaign=rss",
-    "summary": "After his predecessor's turbulent tenure, Karim Mikhail is working to restore staff morale and revisit controversial rejections.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-15T08:30:00+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "How to keep cool in this year's extreme summer heat even without air conditioning",
-    "url": "https://www.npr.org/2026/07/15/g-s1-133383/extreme-summer-heat-air-conditioning",
-    "summary": "\"Extreme heat\" is in the forecast this summer. How do people cope if they don't have air conditioning? Here are suggestions from a heat researcher who grew up in a very hot, AC-less place.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-15T11:19:28+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "CDC director nominee Erica Schwartz faces Senate for confirmation hearing",
-    "url": "https://www.npr.org/2026/07/15/nx-s1-5892482/cdc-director-erica-schwartz-senate-confirmation-hearing",
-    "summary": "Trump's nominee faces the Senate health committee for her confirmation hearing on July 15. If confirmed, she will lead an agency dealing with workforce and leadership shortages and new layers of political review.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-15T09:00:00+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "More than 1,600 cases of intestinal illness cyclosporiasis reported in the U.S.",
-    "url": "https://www.npr.org/2026/07/15/nx-s1-5893635/more-than-1-600-cases-of-intestinal-illness-cyclosporiasis-reported-in-the-u-s",
-    "summary": "The CDC has confirmed more than 1,600 cases of a gastrointestinal parasitic infection. More than 140 people have been hospitalized, as the CDC looks for the source.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-15T08:50:03+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "Wheelchair users say lack of competition in repair market leads to long wait times",
-    "url": "https://www.npr.org/2026/07/15/nx-s1-5893492/wheelchair-users-say-lack-of-competition-in-repair-market-leads-to-long-wait-times",
-    "summary": "People who use wheelchairs say simple repairs can take months to complete and replacement parts can be very expensive. In part, they blame two private equity firms that control most of the market.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-15T08:49:42+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "OpenAI’s health AI chief: ‘Bet on the models getting better’",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/openais-health-ai-chief-bet-models-getting-better",
-    "summary": "Fierce Healthcare Executive Editor Heather Landi speaks with Karan Singhal, OpenAI’s health AI chief, about how the company is improving its health capabilities, working with physicians to evaluate model performance and preparing for a future in which AI becomes a “silent background companion” for patients, clinicians and health systems.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-15T13:41:17.080268+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "Full-body scan startup Neko Health scores $700M to break into the U.S. market",
-    "url": "https://www.fiercehealthcare.com/health-tech/full-body-scan-startup-neko-health-scores-700m-break-us-market",
-    "summary": "Tech-enabled preventive health startup Neko Health banked $700 million to break into the U.S. market with plans to open a New York City clinic later this year.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-15T13:41:17.080321+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "Judi Health rebrands PBM arm as Judi Rx, unveils Judi Care unit",
-    "url": "https://www.fiercehealthcare.com/payers/judi-health-rebrands-pbm-arm-judi-rx-unveils-judi-care-unit",
-    "summary": "Judi Health is continuing on its rebranding journey, and announced on Wednesday that its pharmacy benefit management arm will now operate as Judi Rx.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-15T13:41:17.080354+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "Elevance Health's stock slides premarket even as it beats the Street with $1.5B in Q2 profit",
-    "url": "https://www.fiercehealthcare.com/payers/elevance-healths-stock-slides-premarket-even-it-beats-street-15b-q2-profit",
-    "summary": "Elevance Health is kicking off another round of quarterly earnings results for major insurers, posting $1.5 billion in profit for Q2.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-15T13:41:17.080385+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "‘The innocent are paying for it’: Fraud investigations put Minnesota’s care economy in crisis",
-    "url": "https://www.politico.com/news/2026/07/15/medicaid-fraud-minnesota-oz-trump-autism-00993313",
-    "summary": "The Trump administration’s crackdown on Medicaid fraud in Minnesota has upended finances and disrupted access to care.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-15T08:59:00+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "Study shows a blood test can help identify healthy people at high risk for Alzheimer's disease",
-    "url": "https://thehill.com/policy/healthcare/alzheimers-risk-blood-test-study/",
-    "summary": "WASHINGTON (AP) — A blood test may predict if apparently healthy older adults are likely to develop Alzheimer’s symptoms in the next five or 10 years, researchers reported Wednesday. That information could be reassuring or terrifying, but for now it's a potential tool to speed drug development by helping to identify and enroll high-risk people...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-07-15T04:05:19+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "How Fairview Health Services Turned Around a $315M Loss",
-    "url": "https://medcitynews.com/2026/07/fairview-health-services-hospital-finance/",
-    "summary": "Fairview Health Services turned a $315 million annual loss into a nearly $600 million turnaround in just two years. At the AHA Leadership Summit, CEO James Hereford broke down the strategy behind the comeback, from workforce redesign to frontline-driven process fixes. The post How Fairview Health Services Turned Around a $315M Loss appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-15T05:40:36+00:00",
     "date_str": "Jul 15, 2026"
   }
 ]
