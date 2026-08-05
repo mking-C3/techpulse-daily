@@ -1,5 +1,215 @@
 [
   {
+    "title": "QuantHealth Snags $45M to Simulate Clinical Trials Before Patients Ever Enroll",
+    "url": "https://medcitynews.com/2026/08/quanthealth-ai-drug-discovery/",
+    "summary": "QuantHealth raised $45 million in Series B funding to expand its AI platform, which simulates clinical trials before they run and predicts patient outcomes for pharma companies. The startup is aiming to cut the industry’s 90% trial failure rate and speed up the timelines for effective drugs to reach the market. The post QuantHealth Snags $45M to Simulate Clinical Trials Before Patients Ever Enroll appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-05T00:45:55+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "How Policymakers Can Improve Obesity Treatment and Affordability, Per American College of Physicians",
+    "url": "https://medcitynews.com/2026/08/policymakers-obesity-treatment-affordability/",
+    "summary": "The American College of Physicians is urging policymakers to expand access to obesity treatment and healthy foods while investing in prevention and research. The post How Policymakers Can Improve Obesity Treatment and Affordability, Per American College of Physicians appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-04T23:05:23+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "Pathos Picks Up Two Cancer Drugs Poised for Clinical Development With AI Agents",
+    "url": "https://medcitynews.com/2026/08/pathos-ai-agent-agentic-cancer-alphamab-trop2-her3-bispecific-adc-astrazeneca-azn/",
+    "summary": "Pathos AI struck a deal for rights to a bispecific antibody drug conjugate from Alphamab that could become first in a new class of cancer drugs. Separately, the startup began a partnership with AstraZeneca on a protein degrader from the pharma company’s cancer drug pipeline. The post Pathos Picks Up Two Cancer Drugs Poised for Clinical Development With AI Agents appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-04T20:17:52+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "One Maine community's fight to save a birthing center",
+    "url": "https://www.npr.org/2026/08/04/nx-s1-5910852/maine-birthing-center-fight",
+    "summary": "In mid-coast Maine a grassroots coalition is fighting to prevent the proposed closure of Miles Hospital's labor and delivery center.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-04T20:16:26+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "Common advice about kids' snacking is outdated. Here's what parents should know",
+    "url": "https://www.npr.org/2026/07/31/nx-s1-5910817/kids-snack-doctor-recommend-diet-nutrition",
+    "summary": "The ultraprocessed food industry changed snacking culture for families. There are many options of processed foods that are designed for on-the-go convenience. What should snacking look like for kids?",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-03T08:44:44+00:00",
+    "date_str": "Aug 03, 2026"
+  },
+  {
+    "title": "Medicaid Fraud, Impact of Upcoming Cuts in the Spotlight at Senate Hearing",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/medicaid/122489",
+    "summary": "(MedPage Today) -- At a Senate Budget Committee hearing about the Medicaid program, Sen. John Kennedy (R-La.) asked Andy Schneider, of Georgetown University's Center for Children and Families, whether states should be punished for cheating the...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-04T21:34:20+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "Lindsay Clancy's Diary Chronicled Desperation and 'Brain Fog' Before She Killed Kids",
+    "url": "https://www.medpagetoday.com/nursing/nursing/122488",
+    "summary": "(MedPage Today) -- Editor's Note: This story includes discussion of suicide. If you or someone you know needs help, the national suicide and crisis lifeline in the U.S. is available by calling or texting 988. After an opening week of wrenching...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-04T21:27:57+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "Pancreatic Cancer Vaccine Shows Interception Promise in High-Risk Patients",
+    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/122487",
+    "summary": "(MedPage Today) -- A peptide vaccine targeting KRAS mutations in pancreatic cancer showed preliminary evidence of activity in a small study of high-risk patients. The vaccine elicited KRAS-specific T-cell responses in 18 of 20 patients with mutations...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-04T21:05:10+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "Study: Keep HCQ Blood Levels Up to Avoid Cardiovascular Disease in Lupus",
+    "url": "https://www.medpagetoday.com/rheumatology/lupus/122486",
+    "summary": "(MedPage Today) -- People taking hydroxychloroquine (HCQ) for systemic lupus erythematosus (SLE) showed markedly increased risk for atherosclerotic cardiovascular disease when blood levels of the drug were low and when long-term adherence was poor...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-04T19:26:27+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "HPV Infection and Esophageal Cancer",
+    "url": "https://www.medpagetoday.com/spotlight/asco-esophageal-cancer/122485",
+    "summary": "(MedPage Today) -- In 1976, German virologist Harald zur Hausen, MD, DSc, proposed that human papillomavirus (HPV) causes cervical cancer, countering the widely held belief that herpes simplex virus caused the cancer. Seven years later, he proved...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-04T19:05:41+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "Is 'Gym Penis' Real? Retatrutide Access Expanded; Vitamin D Fails Cancer Test",
+    "url": "https://www.medpagetoday.com/sportsmedicine/generalsportsmedicine/122472",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Is \"gym penis\" -- the phenomenon of shrinkage occurring after a workout session -- real? (New York Post) Health Secretary Robert F. Kennedy Jr. endorsed the...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-04T13:42:15+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "US News' 2025-26 Best Hospitals lists home in on outcomes",
+    "url": "https://www.fiercehealthcare.com/providers/us-news-2025-26-best-hospitals-lists-home-outcomes",
+    "summary": "Among nearly 4,500 evaluated hospitals, the highly watched annual accolades awarded 16% some form of \"Best Hospitals\" designation.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-05T02:26:20.219290+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "Amid spending growth scrutiny, CMS unveils toolkit for states to safeguard autism care",
+    "url": "https://www.fiercehealthcare.com/regulatory/cms-unveils-toolkit-states-safeguard-autism-care-amid-aba-spending-growth",
+    "summary": "The toolkit does not establish new federal requirements or endorse any single treatment approach to applied behavior analysis (ABA). Instead, CMS says it gives states practical tools to ensure every child gets individualized, evidence-based care.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-05T02:26:20.219345+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "HCA Healthcare acquires 40 Texas urgent care centers",
+    "url": "https://www.fiercehealthcare.com/providers/hca-healthcare-acquires-40-texas-urgent-care-centers",
+    "summary": "The deal sees the facilities rebranded as CareNow sites, and many are being tied to the existing footprint of two affiliate systems.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-05T02:26:20.219376+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "Complete Health to pay $14.1M in Medicare Advantage coding misuse allegations settlement",
+    "url": "https://www.fiercehealthcare.com/regulatory/complete-health-pay-141m-medicare-advantage-coding-misuse-allegations-settlement",
+    "summary": "The settlement resolves allegations from 2020 to 2023 that the company submitted HCCs that were \"not clinically valid\" or not supported by medical records or treatment plans.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-05T02:26:20.219406+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "Amae Health teams up with Google Health to integrate wearables data into SMI care",
+    "url": "https://www.fiercehealthcare.com/health-tech/amae-health-teams-google-health-integrate-wearables-data-smi-care",
+    "summary": "Amae’s long-term goal is to develop a predictive model that pulls on wearables and other data to measure disease state and progression and spot early warning signs of clinical decline.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-05T02:26:20.219440+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "Daffodil Health unveils AI-powered payer platform for managing NSA disputes",
+    "url": "https://www.fiercehealthcare.com/payers/daffodil-health-unveils-ai-powered-payer-platform-managing-nsa-disputes",
+    "summary": "AI health tech company Daffodil Health is rolling out a new platform aimed at supporting payers in managing the No Surprises Act dispute process.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-05T02:26:20.219469+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "Ebola deaths top 1,700 in eastern Congo",
+    "url": "https://thehill.com/policy/healthcare/6009286-ebola-deaths-top-1700-in-eastern-congo/",
+    "summary": "New data suggests the death toll of the ongoing Ebola outbreak in eastern Congo has topped 1,700, with health officials struggling to track the disease and identify how the outbreak began. As of Tuesday, the virus has killed 1,707 out of a total 3,802 cases, the Associated Press reported — citing a government update. Africa...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-05T00:00:12+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "FDA authorizes 4 flavored nicotine pouches",
+    "url": "https://thehill.com/policy/healthcare/6009152-fda-authorizes-helix-flavored-nicotine-pouches/",
+    "summary": "The Food and Drug Administration (FDA) on Tuesday granted marketing authorization to four new flavored nicotine pouches as part of the agency's tobacco review pilot program launched last year. Four nicotine pouch products — Rich Berry 2 mg, Cappuccino 2 mg, Cappuccino 4 mg and Autumn Spice 2 mg — from Helix Innovations LLC received...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-04T21:52:22+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "Senate funding bill seeks delay of hemp THC ban",
+    "url": "https://thehill.com/policy/healthcare/6009069-senate-funding-bill-seeks-hemp-thc-ban-delay/",
+    "summary": "Makers of hemp THC products were thrown a lifeline when senators in a stopgap spending bill included a delay of a federal ban on their products. The Senate’s government funding bill set to be considered this week would delay the upcoming prohibition on most hemp-derived THC products until Dec. 11. Hemp industry groups and...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-04T21:11:23+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
+    "title": "Measles outbreak in 2025 cost almost $5.4M to contain: Research",
+    "url": "https://thehill.com/policy/healthcare/6008817-measles-outbreak-containment-costs/",
+    "summary": "The measles outbreak in 2025 cost almost $5.4 million to contain according to new research published Monday in the Annals of Internal Medicine. Authors of the study said $53,522 was spent per measles case, which breaks down to $1,817 per person that came into contact with the viral disease. Numbers for their findings were derived...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-04T19:49:13+00:00",
+    "date_str": "Aug 04, 2026"
+  },
+  {
     "title": "AI Is Being Used to Boost Medicaid Enrollment, but Not Without Concerns",
     "url": "https://kffhealthnews.org/medicaid/medicaid-work-requirements-medi-cal-ai-agents-reenroll-careforce-california/",
     "summary": "Ahead of Medicaid work requirements, a health plan in California hopes to stanch the number of people losing coverage by using an AI program to schedule appointments and remind enrollees to fill out paperwork. The plan says it can do the work of 40 employees at a fraction of the cost.",
@@ -9788,215 +9998,5 @@
     "category_slug": "healthcare-policy",
     "date": "2026-07-12T16:48:41+00:00",
     "date_str": "Jul 12, 2026"
-  },
-  {
-    "title": "Docs in for Another Medicare Pay Cut, CMS Says",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/medicare/122191",
-    "summary": "(MedPage Today) -- Physicians would receive a 1.68% pay cut -- or a 1.19% pay cut for those participating in advanced alternative payment models -- in 2027 under the proposed Medicare Physician Fee Schedule released Tuesday by the Trump administration...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-14T21:42:49+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "PAM Inhibitor Approved for HR-Positive Breast Cancer",
-    "url": "https://www.medpagetoday.com/hematologyoncology/breastcancer/122190",
-    "summary": "(MedPage Today) -- The FDA approved the kinase inhibitor gedatolisib (Revtorpyk) for treating hormone receptor (HR)-positive/HER2-negative breast cancer in patients whose disease has progressed on endocrine therapy in the metastatic setting. Approval...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-14T21:40:37+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "What Do Pediatricians Really Think of Minecraft?",
-    "url": "https://www.medpagetoday.com/popmedicine/cultureclinic/122189",
-    "summary": "(MedPage Today) -- Welcome to Culture Clinic, MedPage Today's collaboration with Northwell Health to offer a healthcare professional's take on the latest viral medical topics. As kids spend more hours in the summer engaged in the digital Lego...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-14T21:39:00+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "Primary Care Needs More Attention and Investment, CMS Officials Say",
-    "url": "https://www.medpagetoday.com/practicemanagement/reimbursement/122187",
-    "summary": "(MedPage Today) -- WASHINGTON -- Healthcare payers, including the federal government, aren't investing enough in primary care, said experts during a conference sponsored by the American Academy of Family Physicians (AAFP) on Tuesday. Without...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-14T21:21:23+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "CDC Says Cyclosporiasis Outbreaks in Multiple States May Be Linked",
-    "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/122188",
-    "summary": "(MedPage Today) -- Cyclosporiasis outbreaks in four states are likely epidemiologically linked, part of an unusually large wave of cases in at least 34 states, CDC officials said. While the agency still hasn't identified a specific culprit behind...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-14T21:17:27+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "Novel Alzheimer's Drug Targeting Tau Shows Promise in Mid-Stage Trial",
-    "url": "https://www.medpagetoday.com/meetingcoverage/aaic/122186",
-    "summary": "(MedPage Today) -- The tau-targeting agent diranersen did not meet the primary endpoint of the phase II CELIA trial, but that isn't stopping the drug from moving forward. The placebo-controlled study is the first to show a cognitive benefit and...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-14T20:28:16+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "Senator Accuses RFK Jr. of Election Interference",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/122185",
-    "summary": "(MedPage Today) -- Sen. Ron Wyden (D-Ore.) filed a Hatch Act complaint, accusing Health Secretary Robert F. Kennedy Jr. of potential election interference. In a letter to the Office of Special Counsel calling for an investigation, the Senate Finance...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-14T19:59:15+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "GLP-1s Good for Marriage Prospects? RFK Jr.'s Diabetes Ads Axed; CGMs for Toddlers",
-    "url": "https://www.medpagetoday.com/endocrinology/generalendocrinology/122184",
-    "summary": "(MedPage Today) -- GLP-1 drugs did not appear to improve diabetes patients' job or marriage prospects, according to a working paper from the National Bureau of Economic Research. (Axios) The U.S. by 2035 will have 57 million overweight individuals...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-14T19:39:22+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "Abortion Rights Are on the Ballot in 4 States. Here's What to Know.",
-    "url": "https://www.medpagetoday.com/obgyn/abortion/122179",
-    "summary": "(MedPage Today) -- Idaho voters will decide whether to roll back the state's abortion ban, the secretary of state told the group behind the initiative in a letter Monday, joining three other states where abortion will be directly on the ballot...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-14T19:31:15+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "Questions Linger About Aging Politicians' Health Transparency After Graham's Death",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/122182",
-    "summary": "(MedPage Today) -- The sudden death of Sen. Lindsey Graham (R-S.C.), a top ally of President Donald Trump and one of Washington's best-known politicians, is renewing focus on the country's aging lawmakers. Graham, who had turned 71 just 2 days...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-14T19:01:50+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "CVS Caremark reaches settlement with FTC over insulin suit",
-    "url": "https://www.healthcaredive.com/news/cvs-caremark-ftc-settlement-insulin-suit/825224/",
-    "summary": "Terms of the deal announced Tuesday are very similar to those the FTC reached with Express Scripts earlier this year, including requiring the PBM to stop preferring higher cost versions of drugs on standard formularies.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-14T19:10:49+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "Whoop tests wearable platform in joint replacement recovery",
-    "url": "https://www.healthcaredive.com/news/whoop-tests-wearable-platform-in-joint-replacement-recovery/825095/",
-    "summary": "The program, a partnership with Kinomatic, will use biometric data and care coordination between visits to support recovery after surgery.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-13T15:32:54+00:00",
-    "date_str": "Jul 13, 2026"
-  },
-  {
-    "title": "CMS proposes major Medicare reforms to shift physician pay, phase out MIPS and expand ACO participation",
-    "url": "https://www.fiercehealthcare.com/regulatory/cms-proposes-major-medicare-reforms-phase-out-traditional-mips-expand-aco-participation",
-    "summary": "The Trump administration is proposing sweeping changes to Medicare payment and value-based care programs it says will expand accountable care, modernize physician payment and help shift the healthcare system toward prevention instead of treatment.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-15T02:23:46.543146+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "AMA interoperability initiative brings structured clinical terminology to CPT codes",
-    "url": "https://www.fiercehealthcare.com/providers/ama-launches-interoperability-initiative-speed-electronic-prior-auths-terminology-mapping",
-    "summary": "A new interoperability initiative will begin by targeting prior authorization cases that have the “greatest potential” to reduce administrative burden and aid patients in receiving timely care, the organization said.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-15T02:23:46.543210+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "Anthropic pushes deeper into healthcare with Optum tie-up, UST integration",
-    "url": "https://www.fiercehealthcare.com/health-tech/tech-services-company-ust-integrates-anthropic-claude",
-    "summary": "UST, a global technology and engineering services company, is integrating Anthropic's Claude into CarePath, an operational platform for health insurers and providers.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-15T02:23:46.543245+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "FTC, CVS unveil settlement in ongoing insulin pricing case",
-    "url": "https://www.fiercehealthcare.com/payers/ftc-cvs-unveil-settlement-ongoing-insulin-pricing-case",
-    "summary": "The Federal Trade Commission has officially inked a second settlement with one of the \"Big Three\" pharmacy benefit managers in an ongoing legal battle over insulin prices.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-15T02:23:46.543275+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "HHS promises its final rule barring pediatric gender care providers from Medicare is still coming",
-    "url": "https://www.fiercehealthcare.com/providers/hhs-promises-its-final-rule-barring-pediatric-gender-care-providers-medicare-still-coming",
-    "summary": "The health department on Tuesday rebuked a report that said an embattled proposal to add pediatric gender-affirming care service restrictions to Medicare and Medicaid conditions of participation was being shelved.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-15T02:23:46.543307+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "Why the Next Era of Sleep Medicine Depends on Better Diagnostics",
-    "url": "https://medcitynews.com/2026/07/why-the-next-era-of-sleep-medicine-depends-on-better-diagnostics/",
-    "summary": "Matching the right patient to the right therapy now requires understanding what’s driving the apnea, not just how often it occurs. Closing that gap means rethinking what sleep apnea testing identifies and where it happens. The post Why the Next Era of Sleep Medicine Depends on Better Diagnostics appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-14T14:16:27+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "Revenue Is a Misleading KPI in Healthcare",
-    "url": "https://medcitynews.com/2026/07/revenue-is-a-misleading-kpi-in-healthcare/",
-    "summary": "It usually tracks some version of value delivered, where more customers lead to more usage and more revenue. However, in healthcare, the blind pursuit of revenue can cause real harm. The post Revenue Is a Misleading KPI in Healthcare appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-14T14:11:00+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "As cyclospora illnesses surge to a record, Michigan officials eye lettuce as a possible cause",
-    "url": "https://www.statnews.com/2026/07/14/cyclosporiasis-outbreak-cases-top-previous-record-4700-cases/?utm_campaign=rss",
-    "summary": "Infections from the diarrhea-causing parasite cyclospora are surging, and officials say early information points to lettuce or salad greens as a possible culprit.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-14T19:13:55+00:00",
-    "date_str": "Jul 14, 2026"
-  },
-  {
-    "title": "STAT+: Top Democrats question RFK Jr.’s health care advisory panel",
-    "url": "https://www.statnews.com/2026/07/14/senators-raise-question-hhs-healthcare-advisory-committee-members/?utm_campaign=rss",
-    "summary": "Democratic senators question presence of Trump donors, Tony Robbins on health care advisory panel.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-14T17:44:04+00:00",
-    "date_str": "Jul 14, 2026"
   }
 ]
