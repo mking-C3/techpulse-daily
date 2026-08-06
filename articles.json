@@ -1,5 +1,215 @@
 [
   {
+    "title": "6 Ways UnityPoint Health Is Trying to Make Clinicians’ Jobs Easier",
+    "url": "https://medcitynews.com/2026/08/unitypoint-health-artificial-intelligence/",
+    "summary": "UnityPoint Health’s chief medical officer, Gregory Johnson, shared several ways the system is using AI to lift administrative burden off clinicians and get them back to patient care — including ambient scribing, real-time capacity tracking and AI-powered chart review. The post 6 Ways UnityPoint Health Is Trying to Make Clinicians’ Jobs Easier appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-05T23:48:31+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "Curative, Wondr Health Team Up for Weight and Metabolic Health Support",
+    "url": "https://medcitynews.com/2026/08/curative-wondr-health-team-up-for-weight-and-metabolic-health-support/",
+    "summary": "Curative Insurance Company partnered with Wondr Health to expand weight management support for its members. The post Curative, Wondr Health Team Up for Weight and Metabolic Health Support appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-05T22:13:20+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "FDA approves Moderna’s mRNA flu vaccine, the first to use the technology",
+    "url": "https://www.statnews.com/2026/08/05/fda-approves-moderna-mflusiva-first-mrna-flu-vaccine/?utm_campaign=rss",
+    "summary": "The FDA has approved Moderna’s influenza vaccine, the first licensed flu shot made using messenger RNA technology.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-06T02:18:37+00:00",
+    "date_str": "Aug 06, 2026"
+  },
+  {
+    "title": "STAT+: Takeda’s narcolepsy drug approved by the FDA, seen as a boon for new class of treatments",
+    "url": "https://www.statnews.com/2026/08/05/takeda-narcolepsy-drug-fda-approval-orzeyful/?utm_campaign=rss",
+    "summary": "The FDA approved a novel type of treatment for narcolepsy made by Takeda, backing a new drug class that scientists hope can be used to treat other conditions.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-05T20:41:35+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "STAT+: Federal regulators invite industry, researchers, and lobbyists to closed-door meetings on clinical AI",
+    "url": "https://www.statnews.com/2026/08/05/federal-regulators-invite-industry-closed-door-meetings-clinical-ai/?utm_campaign=rss",
+    "summary": "Federal health officials invited tech companies and lobbyists to closed-door meetings as they seek to boost adoption of clinical AI.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-05T20:05:08+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "An FDA decision could give us the first mRNA flu vaccine",
+    "url": "https://www.npr.org/2026/08/05/nx-s1-5920365/an-fda-decision-could-give-us-the-first-mrna-flu-vaccine",
+    "summary": "The Food and Drug Administration is expected to decide whether to approve the first mRNA flu vaccine.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-05T20:22:54+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
+    "url": "https://www.npr.org/2026/08/05/nx-s1-5920379/cdc-director-confirmed-erica-schwartz",
+    "summary": "Schwartz takes command of a public health agency that has lost thousands of employees, amid layoffs, resignations and leadership turmoil.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-05T20:00:24+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "Health Plans Losing Court Battles in No Surprises Act Cases",
+    "url": "https://www.medpagetoday.com/practicemanagement/reimbursement/122506",
+    "summary": "(MedPage Today) -- The fate of the No Surprises Act's independent dispute resolution (IDR) clause continues to hang in the balance as it winds its way through the courts. The No Surprises Act, signed into law in 2020 by President Donald Trump...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-05T21:36:20+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "Tool Brings Vax vs Disease Risk Into Stark Contrast",
+    "url": "https://www.medpagetoday.com/infectiousdisease/vaccines/122505",
+    "summary": "(MedPage Today) -- As vaccine hesitancy continues to rise, fueling a record-breaking resurgence of measles, among other public health threats, an online tool launched this week aims to help people better understand vaccine safety. The free and...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-05T21:11:15+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "Senate Confirms Erica Schwartz as CDC Director",
+    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/122504",
+    "summary": "(MedPage Today) -- The Senate on Wednesday confirmed Erica Schwartz, MD, MPH, JD, as director of the CDC, placing her in charge of a public health agency beleaguered by political meddling and low morale. Schwartz was confirmed in a 51-44 vote...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-05T20:39:04+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "Who Is Steven Quay, the Biotech Exec Likely to Take Fauci's Old Job?",
+    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/122503",
+    "summary": "(MedPage Today) -- Steven Quay, MD, PhD, is reportedly in final vetting for the job of director of the National Institute of Allergy and Infectious Diseases (NIAID), a position formerly held by Anthony Fauci, MD, for decades. So, who is he? Quay...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-05T20:23:29+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "'Carrot Maxxing' Is a New Name for an Old Trend",
+    "url": "https://www.medpagetoday.com/popmedicine/cultureclinic/122502",
+    "summary": "(MedPage Today) -- Welcome to Culture Clinic, MedPage Today's collaboration with Northwell Health to offer a healthcare professional's take on the latest viral medical topics. People are touting \"carrot maxxing\" on social media as a natural shortcut...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-05T19:59:21+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "Study Examines Link Between IBD and Psychiatric Disorders",
+    "url": "https://www.medpagetoday.com/gastroenterology/inflammatoryboweldisease/122501",
+    "summary": "(MedPage Today) -- Patients with inflammatory bowel disease (IBD) were at increased risk for several psychiatric disorders both before and after diagnosis, according to results from a Swedish cohort study. The relative rate of any psychiatric...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-05T19:37:07+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "Experts Establish Pillars of Care for Older Adults With HIV",
+    "url": "https://www.medpagetoday.com/meetingcoverage/iac/122500",
+    "summary": "(MedPage Today) -- Faced with an aging population with HIV, clinicians will need to help these older patients navigate a healthy route from antiretroviral therapy (ART) initiation through complex comorbidities to an increased focus on maintaining...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-05T19:29:45+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "Dirty Air Worsens Rheumatoid Arthritis Outcomes, Study Shows",
+    "url": "https://www.medpagetoday.com/rheumatology/arthritis/122499",
+    "summary": "(MedPage Today) -- Koreans with rheumatoid arthritis (RA) showed increased disease activity and higher flare rates when exposed to relatively high levels of small atmospheric particulate matter, researchers reported. Each 6-μg/m3 increment...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-05T19:11:09+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "10 AnMed facilities remain closed a week after cyberattack",
+    "url": "https://www.healthcaredive.com/news/anmed-facilities-remain-closed-week-after-cyberattack/827160/",
+    "summary": "Facilities at the health system AnMed are still operating in a limited capacity as the nonprofit recovers from a cyberattack. Prolonged recovery times have become a problem in the industry, one expert said.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-05T20:23:56+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "HHS announces decertification of Kentucky-based organ procurement organization Network for Hope",
+    "url": "https://www.fiercehealthcare.com/regulatory/hhs-announces-decertification-kentucky-based-organ-procurement-organization-network-hope",
+    "summary": "HHS Secretary Robert F. Kennedy Jr. said the decertification comes after federal reviews found “persistent patient safety failures.”",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-06T02:28:52.309153+00:00",
+    "date_str": "Aug 06, 2026"
+  },
+  {
+    "title": "Ardent Health offsets Q2 volume stumble by tightening costs, renegotiating contracts",
+    "url": "https://www.fiercehealthcare.com/providers/ardent-health-offsets-q2-volume-stumble-tightening-costs-renegotiating-contracts",
+    "summary": "The for-profit health system missed analysts' earnings and revenue targets, but reaffirmed its full-year guidance on the back of fast-moving margin improvement initiatives.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-06T02:28:52.309197+00:00",
+    "date_str": "Aug 06, 2026"
+  },
+  {
+    "title": "Here Now, mental health startup for foster youth, expands to New Mexico Medicaid",
+    "url": "https://www.fiercehealthcare.com/digital-health/here-now-mental-health-provider-foster-youth-expands-new-mexico",
+    "summary": "Here Now Health aims to connect Medicaid-covered youth with mental health services in a fragmented foster care system. Being virtual allows it to maintain access even if a child moves.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-06T02:28:52.309230+00:00",
+    "date_str": "Aug 06, 2026"
+  },
+  {
+    "title": "What to know as Senate panel sets vote to hold Fauci in contempt",
+    "url": "https://thehill.com/policy/healthcare/6012278-senate-to-vote-anthony-fauci-contempt/",
+    "summary": "The Senate Homeland Security and Governmental Affairs Committee is set to vote Thursday on a resolution to hold former top health official Dr. Anthony Fauci in contempt of Congress, a week after he pleaded the Fifth Amendment in refusing to answer questions during a committee hearing. The move raises questions about broader GOP support and the legal risks Fauci may face...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-05T22:00:00+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
+    "title": "Peters argues Fauci can't be punished for pleading Fifth ahead of contempt vote",
+    "url": "https://thehill.com/homenews/senate/6012035-senator-gary-peters-fauci-contempt-vote/",
+    "summary": "COVID czar Anthony Fauci cannot be prosecuted for asserting his Fifth Amendment rights in a recent hearing, Sen. Gary Peters (D-Mich.) wrote in a letter to colleagues, arguing the former government scientist's pardon does not undermine his constitutional protections. The letter comes ahead of a Thursday vote in the Senate Homeland Security and Governmental Affairs...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-05T19:33:59+00:00",
+    "date_str": "Aug 05, 2026"
+  },
+  {
     "title": "Attovia’s Upsized IPO Brings In $289M to Fund New Kind of Biologic for Immune Disorders",
     "url": "https://medcitynews.com/2026/08/attovia-ipo-attobody-biologic-immunology-inflammation-itch-pruritus-atopic-dermatitis-atto/",
     "summary": "Attovia Therapeutics’ biologic medicines could offer advantages over currently available immune disorder drugs, such as Sanofi’s blockbuster medicine Dupixent. The IPO comes as Attovia looks to expand clinical development of its pipeline in 2027. The post Attovia’s Upsized IPO Brings In $289M to Fund New Kind of Biologic for Immune Disorders appeared first on MedCity News .",
@@ -9787,216 +9997,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-07-15T21:07:59+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "Trial Questions Continuous Maintenance in Newly Diagnosed Myeloma",
-    "url": "https://www.medpagetoday.com/hematologyoncology/myeloma/122199",
-    "summary": "(MedPage Today) -- Maintenance therapy with continuous lenalidomide (Revlimid) did not significantly improve overall survival (OS) in patients with standard-risk, newly diagnosed multiple myeloma, the phase III ENDURANCE trial showed. Among patients...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-15T21:00:00+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "We've Seen What Happens in Immigration Detention. It's No Place for a Child.",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/122206",
-    "summary": "(MedPage Today) -- Under a cloudless sky, shrieks of youthful joy pierced the air as a kite took flight. Two children sang as they turned the rope for their jumping companion, smiling when younger ones interrupted the game in pursuit of a runaway...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-15T20:29:10+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "U.S. Troops to Be Tested for 'Testosterone Deficiency,' Hegseth Says",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/militarymedicine/122205",
-    "summary": "(MedPage Today) -- Defense Secretary Pete Hegseth announced Wednesday that he is rolling out a new screening program for \"testosterone deficiency\" among troops, calling it necessary to allow them to operate at their \"absolute best.\" The new screenings...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-15T20:08:41+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "Restarting Selumetinib Promising for Recurrent Low-Grade Glioma in Kids",
-    "url": "https://www.medpagetoday.com/meetingcoverage/ispnovideopearls/122203",
-    "summary": "(MedPage Today) -- At the International Symposium on Pediatric Neuro-Oncology (ISPNO), investigators reported prospective evidence supporting retreatment with the MEK inhibitor selumetinib (Koselugo) in children with recurrent low-grade glioma...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-15T19:34:25+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "Senate HELP committee grills CDC nominee Erica Schwartz on vaccine policy, resistance to political meddling",
-    "url": "https://www.fiercehealthcare.com/providers/senate-help-committee-grills-cdc-nominee-erica-schwartz-vaccine-policy-restoring-trust",
-    "summary": "Erica Schwartz, M.D., the latest nominee to lead the beleaguered CDC, told lawmakers on Wednesday that she was committed to scientific integrity and transparency to restore trust in the country's top public health agency.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-16T02:31:42.806079+00:00",
-    "date_str": "Jul 16, 2026"
-  },
-  {
-    "title": "Bipartisan House bill tying doc pay to inflation earns resounding applause from providers",
-    "url": "https://www.fiercehealthcare.com/providers/bipartisan-house-bill-tying-doc-pay-inflation-earns-resounding-applause-providers",
-    "summary": "Less than a day after a draft rule outlining reimbursement cuts for 2027, heads of the GOP and Democratic Doctors Caucuses introduced a sweeping physician pay overhaul featuring wish list items from primary care capitated payments to mandatory model changes.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-16T02:31:42.806140+00:00",
-    "date_str": "Jul 16, 2026"
-  },
-  {
-    "title": "Amazon Pharmacy partners with eNavvi to provide real-time medication pricing, delivery info to providers",
-    "url": "https://www.fiercehealthcare.com/retail/amazon-pharmacy-partners-enavvi-provide-real-time-medication-pricing-delivery-info-providers",
-    "summary": "The partnership allows providers to see current pricing and stock for prescriptions, including cash pricing versus estimated insurance copays, and delivery estimates.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-16T02:31:42.806171+00:00",
-    "date_str": "Jul 16, 2026"
-  },
-  {
-    "title": "340B drug purchases hit at least $100B in 2025, administrator reports",
-    "url": "https://www.fiercehealthcare.com/providers/340b-drug-purchases-hit-least-100b-2025-administrator-reports",
-    "summary": "The tally reflects a 23% increase over 2024, another substantial escalation in scale for the subsidy program critics say is being abused by large nonprofit hospitals.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-16T02:31:42.806202+00:00",
-    "date_str": "Jul 16, 2026"
-  },
-  {
-    "title": "The GOP senators Trump disrespected are now interrogating his nominees",
-    "url": "https://www.politico.com/news/2026/07/15/trump-attorney-general-cdc-cornyn-tillis-cassidy-blanche-schwartz-00999854",
-    "summary": "John Cornyn, Bill Cassidy and Thom Tillis are leaving the Senate after warring with Trump, but they still can block the president’s appointees.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-15T20:13:41+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "Cassidy, Senate Democrats grill Trump health nominees over vaccine pressures",
-    "url": "https://thehill.com/policy/healthcare/5970727-schwartz-kaufman-cdc-aspr-testimony/",
-    "summary": "Two of President Trump’s most recent health nominees, including his newest pick to be head of the Centers for Disease Control and Prevention (CDC), appeared before the Senate on Wednesday where a reluctance to break with the administration put Democrats and some Republicans on edge. Erica Schwartz, nominee to be the next director of the CDC; and Sean Kaufman, nominee to head the...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-07-15T22:44:37+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "Blanche pledges action on stopping mail order mifepristone",
-    "url": "https://thehill.com/policy/healthcare/5970583-blanche-pledged-stop-mail-mifepristone/",
-    "summary": "Acting attorney general Todd Blanche pledged on Wednesday to take action to stop abortion medication from being available through the mail. Blanche committed to Republican senators he would prioritize taking action on mifepristone if confirmed but declined to go into specifics. He said the Trump administration opposes a Biden-era policy that allowed the abortion...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-07-15T21:29:46+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "CDC: Nearly 7,000 cases of cyclosporiasis being investigated",
-    "url": "https://thehill.com/policy/healthcare/5970492-cdc-investigates-foodborne-illness-outbreak/",
-    "summary": "Nearly 7,000 people in the country may have cyclosporiasis, a parasitic foodborne illness that can cause weeks of intestinal unrest and diarrhea, according to the latest federal figures. There are 1,645 lab-confirmed domestic cases, and the Centers for Disease Control (CDC) and Prevention said an additional 5,100 cases are under investigation, a number substantially higher...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-07-15T20:37:49+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "Answers at the Speed of Thought: Healthcare Analytics in the Era of Agentic AI",
-    "url": "https://medcitynews.com/2026/07/answers-at-the-speed-of-thought-healthcare-analytics-in-the-era-of-agentic-ai/",
-    "summary": "We are moving into an era where we can finally converse with our data. We can ask, “Why are denials spiking in Region X?” or “Show me the safety profile of this cohort,” and receive an answer, not a spreadsheet. The post Answers at the Speed of Thought: Healthcare Analytics in the Era of Agentic AI appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-15T14:30:00+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "STAT+: New study untangles how Epstein-Barr viral infection triggers immune response in multiple sclerosis",
-    "url": "https://www.statnews.com/2026/07/15/epstein-barr-virus-immune-response-multiple-sclerosis-new-study/?utm_campaign=rss",
-    "summary": "A new study claims to have uncovered how Epstein-Barr virus launches immune responses seen in people with multiple sclerosis.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-15T18:17:51+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "STAT+: Improvements in Alzheimer’s testing could make diagnostics more accessible, informative",
-    "url": "https://www.statnews.com/2026/07/15/aaic-in-30-alzheimers-treaatments-dementia-conference-diagnostics-treatments/?utm_campaign=rss",
-    "summary": "Alzheimer's research is moving in new directions, finding ways to make testing much more accessible, and offering more nuanced results.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-15T18:08:44+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "Cassidy grills Trump nominee on past vaccine comments in heated exchange",
-    "url": "https://www.statnews.com/2026/07/15/bill-cassidy-sean-kaufman-confirmation-clash-mrna-hepatitis-b-vaccines/?utm_campaign=rss",
-    "summary": "Sean Kaufman, Trump's pick for a key pandemic preparedness role, has questioned vaccines and criticized the CDC.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-15T17:56:52+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "STAT+: Bipartisan lawmakers want to require U.S. to probe reliance on foreign-made drugs, ingredients",
-    "url": "https://www.statnews.com/pharmalot/2026/07/15/bill-would-require-us-probe-reliance-on-foreign-made-drugs-and-ingredients/?utm_campaign=rss",
-    "summary": "A trio of bipartisan lawmakers reintroduced a bill requiring the FTC and Treasury to investigate whether the U.S. relies too heavily on foreign countries as part of its pharmaceutical supply…",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-15T17:26:49+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "STAT+: Elevance plots a Medicaid retreat as costs remain high",
-    "url": "https://www.statnews.com/2026/07/15/elevance-health-shrink-medicaid-portfolio-high-costs/?utm_campaign=rss",
-    "summary": "Elevance Health, the country’s second-biggest health insurer, said it plans to further shrink its Medicaid portfolio in the coming year, just as states roll out work requirements.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-15T17:12:56+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "STAT+: The whistleblower, The Lab, and the fine print",
-    "url": "https://www.statnews.com/2026/07/15/mayo-whistleblower-sutter-abridge-lawsuit-news-ai-prognosis/?utm_campaign=rss",
-    "summary": "In this AI Prognosis news roundup: Mayo's AI whistleblower, Sutter Health's reply to lawsuit over Abridge scribe, and more.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-15T16:28:32+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "STAT+: Glenmark to pay $29.6 million to settle price-fixing allegations in long-running battle with states",
-    "url": "https://www.statnews.com/pharmalot/2026/07/15/glenmark-pay-29-million-settle-price-fixing-allegations/?utm_campaign=rss",
-    "summary": "Glenmark Pharmaceuticals agreed to pay $29.6 million to settle price-fixing allegations in a long-running battle with dozens of states.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-15T16:21:08+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "STAT+: In a major policy shift, Medicare proposes to ban vendors from providing remote monitoring services",
-    "url": "https://www.statnews.com/2026/07/15/cms-proposes-ban-medicare-remote-patient-monitoring-vendors/?utm_campaign=rss",
-    "summary": "Medicare is proposing to ban vendors from providing remote patient monitoring services on behalf of doctors.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-15T15:41:50+00:00",
     "date_str": "Jul 15, 2026"
   }
 ]
