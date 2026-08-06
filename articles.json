@@ -1,5 +1,45 @@
 [
   {
+    "title": "Opinion: What my colleagues and I will look for as we assess U.S. measles elimination status",
+    "url": "https://www.statnews.com/2026/08/06/measles-elimination-status-2026-paho/?utm_campaign=rss",
+    "summary": "Noel T. Brewer and colleagues will soon decide whether the U.S. has maintained its elimination status. Here’s what they’re looking at.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-06T08:30:00+00:00",
+    "date_str": "Aug 06, 2026"
+  },
+  {
+    "title": "Opinion: Stop asking if AI is good for medicine",
+    "url": "https://www.statnews.com/2026/08/06/ai-health-care-skepticism-advances-nature-medicine-scribe-sepsis/?utm_campaign=rss",
+    "summary": "Overgeneralizations about AI can slow down the adoption of tools that work.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-06T08:30:00+00:00",
+    "date_str": "Aug 06, 2026"
+  },
+  {
+    "title": "CDC warns of Salmonella outbreak linked to jalapeños",
+    "url": "https://thehill.com/policy/healthcare/6012755-cdc-traces-mexican-jalapeno-salmonella/",
+    "summary": "A Salmonella outbreak that has sickened 345 people across 27 states has been linked to jalapeño peppers, the Centers for Disease Control and Prevention (CDC) reported Wednesday. Traceback information found that the affected jalapeños came from Sinaloa, Mexico, and were distributed by Coast Citrus Distributors. There have been no reported deaths and 36 hospitalizations so...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-06T02:47:06+00:00",
+    "date_str": "Aug 06, 2026"
+  },
+  {
+    "title": "Multistate cyclospora outbreak expands to 15 states",
+    "url": "https://thehill.com/policy/healthcare/6012753-fda-cyclospora-lettuce-outbreak/",
+    "summary": "The Food and Drug Administration on Wednesday expanded its investigation into a Cyclospora outbreak linked to recalled iceberg lettuce, after the first two deaths associated with the outbreak were confirmed. The outbreak, which was first identified in July among people who ate shredded iceberg lettuce at Taco Bell restaurants, has since widened to more than...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-06T02:43:40+00:00",
+    "date_str": "Aug 06, 2026"
+  },
+  {
     "title": "6 Ways UnityPoint Health Is Trying to Make Clinicians’ Jobs Easier",
     "url": "https://medcitynews.com/2026/08/unitypoint-health-artificial-intelligence/",
     "summary": "UnityPoint Health’s chief medical officer, Gregory Johnson, shared several ways the system is using AI to lift administrative burden off clinicians and get them back to patient care — including ambient scribing, real-time capacity tracking and AI-powered chart review. The post 6 Ways UnityPoint Health Is Trying to Make Clinicians’ Jobs Easier appeared first on MedCity News .",
@@ -9957,46 +9997,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-07-15T21:47:32+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "Astronauts Obtain First X-Rays in Space",
-    "url": "https://www.medpagetoday.com/radiology/diagnosticradiology/122209",
-    "summary": "(MedPage Today) -- It was feasible to take x-rays in space, potentially improving diagnostic capabilities for crew health, according to a small prospective study. Using a portable radiography system, three crew members on the 3.5-day Fram2 polar...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-15T21:44:51+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "CDC Finds Good News on Hospital-Associated Infections",
-    "url": "https://www.medpagetoday.com/criticalcare/infectioncontrol/122210",
-    "summary": "(MedPage Today) -- Americans were less likely to have a healthcare-associated infection (HAI) in 2023 than in 2015, though reducing surgical-site infections and non-ventilator-associated pneumonia in hospitals remained a challenge, CDC survey findings...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-15T21:43:34+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "Blood Samples Mid-Heart Attack Found With Disproportionately More Microplastics",
-    "url": "https://www.medpagetoday.com/cardiology/generalcardiology/122208",
-    "summary": "(MedPage Today) -- Among people undergoing coronary angiography for suspected coronary artery disease (CAD), heart attack patients stood out for having higher microplastics and nanoplastics in their blood, a small Italian study found. People with...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-15T21:21:07+00:00",
-    "date_str": "Jul 15, 2026"
-  },
-  {
-    "title": "Blood Test May Predict Alzheimer's Symptoms Up to a Decade Early",
-    "url": "https://www.medpagetoday.com/meetingcoverage/aaic/122207",
-    "summary": "(MedPage Today) -- Very high levels of plasma phosphorylated tau 217 (p-tau217), a marker of amyloid burden in the brain, predicted future risk of cognitive impairment among older adults who were initially unimpaired, a multicohort study suggested...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-15T21:07:59+00:00",
     "date_str": "Jul 15, 2026"
   }
 ]
