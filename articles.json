@@ -1,5 +1,35 @@
 [
   {
+    "title": "Journalists Cover Cyclospora and Measles Outbreaks, and Changing Health Policies",
+    "url": "https://kffhealthnews.org/on-air/on-air-august-8-2026-cyclospora-measles-work-requirements-part-d-subsidy/",
+    "summary": "KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here’s a collection of their appearances.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-08T09:00:00+00:00",
+    "date_str": "Aug 08, 2026"
+  },
+  {
+    "title": "Federal funds can't be used to give test strips to drug users, raising overdose fears",
+    "url": "https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears",
+    "summary": "Drug addiction groups are reeling after Trump officials said federal grants cannot be used to hand out test strips to drug users. The strips help users check street drugs for dangerous adulterants.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-08T10:00:00+00:00",
+    "date_str": "Aug 08, 2026"
+  },
+  {
+    "title": "Senate tables hemp amendment at center of funding fight, allowing one-month delay of ban",
+    "url": "https://thehill.com/policy/healthcare/6017926-senate-delays-hemp-thc-ban/",
+    "summary": "A federal ban on most hemp-derived THC products is set to be delayed for a month after a last-minute effort to keep the original timeline failed. The Senate voted 61-32 to table a bipartisan amendment from Sen. Ted Budd (R-N.C.) and about a dozen other senators to strip the delay from a stopgap government funding...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-08T07:42:05+00:00",
+    "date_str": "Aug 08, 2026"
+  },
+  {
     "title": "Bipartisan Lawmakers Are Fighting HHS’ 340B Rebate Push",
     "url": "https://medcitynews.com/2026/08/340b-drugs-senate/",
     "summary": "A bipartisan group of six senators introduced a bill to reform the 340B drug program, locking in hospitals’ use of contract pharmacies and adding new transparency and compliance rules. The legislation would also kill HHS’ contested rebate pilot within a year and replace it with a national data clearinghouse to catch duplicate discounts. The post Bipartisan Lawmakers Are Fighting HHS’ 340B Rebate Push appeared first on MedCity News .",
@@ -9968,35 +9998,5 @@
     "category_slug": "drug-coverage",
     "date": "2026-07-18T02:25:14.400337+00:00",
     "date_str": "Jul 18, 2026"
-  },
-  {
-    "title": "Weekly Rundown: Novant Health rolls out new virtual primary care model; GW RhythmX launches Pulse on Microsoft Marketplace",
-    "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-novant-health-rolls-out-new-virtual-primary-care-model-gw-rhythmx-hits",
-    "summary": "Stay up to date on the latest in health tech, digital health and health AI news with this weekly brief.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-18T02:25:14.400408+00:00",
-    "date_str": "Jul 18, 2026"
-  },
-  {
-    "title": "Americans who responded to Ebola outbreak are quarantined in Kenya, despite court order",
-    "url": "https://www.politico.com/news/2026/07/17/americans-who-responded-to-ebola-outbreak-are-quarantining-in-kenya-despite-court-order-01003525",
-    "summary": "The Trump administration said Monday Americans in Congo, where Ebola is spreading, must spend three weeks in a third country before coming home.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-17T21:06:47+00:00",
-    "date_str": "Jul 17, 2026"
-  },
-  {
-    "title": "Vegetable supplier Taylor Farms to pull some products amid cyclosporiasis outbreak",
-    "url": "https://thehill.com/policy/healthcare/5975363-taylor-farms-iceberg-lettuce-cyclosporiasis/",
-    "summary": "California-based vegetable producer Taylor Farms said Friday that it will remove products potentially linked to a growing cyclosporiasis outbreak across the country. “Based on information provided yesterday by the FDA [Food and Drug Administration], Taylor Farms de Mexico is voluntarily removing all iceberg lettuce sourced from central Mexico,” the company said in its statement. “While...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-07-17T20:52:49+00:00",
-    "date_str": "Jul 17, 2026"
   }
 ]
