@@ -1,5 +1,35 @@
 [
   {
+    "title": "What explains abortions going up despite stricter laws in many states?",
+    "url": "https://www.npr.org/2026/08/09/nx-s1-5887615/what-explains-abortions-going-up-despite-stricter-laws-in-many-states",
+    "summary": "The number of abortions is up in the U.S. Is it because fewer people are using birth control pills?",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-09T12:12:15+00:00",
+    "date_str": "Aug 09, 2026"
+  },
+  {
+    "title": "This rising painter reimagines Renaissance art in a cocoa plantation in Cameroon",
+    "url": "https://www.npr.org/2026/08/09/g-s1-137636/paintings-religious-renaissance-old-masters-marc-padeu-african-cameroon-artist",
+    "summary": "A new gallery show in London features the paintings of Marc Padeu, playing with themes from Renaissance art and bringing them to his homeland of Cameroon.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-09T11:58:02+00:00",
+    "date_str": "Aug 09, 2026"
+  },
+  {
+    "title": "Fauci contempt vote presents DOJ with 'incredibly messy' choices",
+    "url": "https://thehill.com/homenews/administration/6017780-fauci-contempt-doj-rand-paul/",
+    "summary": "The push to charge former COVID czar Anthony Fauci with contempt of Congress is full of pitfalls for prosecutors, should the Justice Department choose to take up the case. The Senate Homeland Security and Governmental Affairs Committee approved the criminal referral Thursday, arguing that Fauci's assertion of his Fifth Amendment rights 111 times during a...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-09T10:00:00+00:00",
+    "date_str": "Aug 09, 2026"
+  },
+  {
     "title": "A Community-Designed Diet for Heart Failure; E-Cigarettes After Smoking Cessation",
     "url": "https://www.medpagetoday.com/podcasts/healthwatch/122531",
     "summary": "(MedPage Today) -- TTHealthWatch is a weekly podcast from Texas Tech. In it, Elizabeth Tracey, director of electronic media for Johns Hopkins Medicine in Baltimore, and Rick Lange, MD, president of Texas Tech Health El Paso, look at the top medical...",
@@ -9967,36 +9997,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-07-17T20:19:26+00:00",
-    "date_str": "Jul 17, 2026"
-  },
-  {
-    "title": "Study Backs NP, PA Prescriptions for Abortion Drugs",
-    "url": "https://www.medpagetoday.com/obgyn/abortion/122256",
-    "summary": "(MedPage Today) -- Medication abortion was just as safe and effective when provided by nurse practitioners (NPs) or physician assistants/associates (PAs) as compared to physicians, a retrospective cohort study suggested. The estimated effectiveness...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-17T21:41:31+00:00",
-    "date_str": "Jul 17, 2026"
-  },
-  {
-    "title": "Anti-VEGF Continuous Delivery Device Preserves Vision, Retinal Anatomy in DME",
-    "url": "https://www.medpagetoday.com/meetingcoverage/asrs/122255",
-    "summary": "(MedPage Today) -- MONTREAL -- Patients with diabetic macular edema (DME) maintained improvements in visual acuity and retinal anatomy for up to 4 years with the ranibizumab port delivery system (PDS; Susvimo), according to updated results from...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-17T21:29:41+00:00",
-    "date_str": "Jul 17, 2026"
-  },
-  {
-    "title": "Bill to Block AI Prior Authorization in Medicare Fails in Senate",
-    "url": "https://www.medpagetoday.com/practicemanagement/reimbursement/122254",
-    "summary": "(MedPage Today) -- Senate Democrats failed Thursday to kill an artificial intelligence (AI)-driven prior authorization demonstration program for traditional Medicare, but they say this isn't the end of the road. \"Democrats tried to stop AI prior...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-17T21:09:32+00:00",
     "date_str": "Jul 17, 2026"
   }
 ]
