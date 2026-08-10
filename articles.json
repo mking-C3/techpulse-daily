@@ -1,5 +1,225 @@
 [
   {
+    "title": "MedCity Pivot: How Aetna is Adopting Agentic AI",
+    "url": "https://medcitynews.com/2026/08/medcity-pivot-podcast-how-aetna-is-adopting-agentic-ai/",
+    "summary": "In this episode of the MedCity Pivot Podcast, CVS Health Aetna’s chief digital and technology officer talks about how the insurance business is using AI, especially agentic AI, in healthcare. Point to note: AI is not used in automatic denials of coverage. The post MedCity Pivot: How Aetna is Adopting Agentic AI appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-10T17:20:44+00:00",
+    "date_str": "Aug 10, 2026"
+  },
+  {
+    "title": "AI in Drug Development is Not a Data Problem — It’s An Evidence Problem",
+    "url": "https://medcitynews.com/2026/08/ai-in-drug-development-is-not-a-data-problem-its-an-evidence-problem/",
+    "summary": "Drug development isn’t limited by the amount of data we collect, but by our ability to preserve the context, meaning and relationships that transform data into evidence. The post AI in Drug Development is Not a Data Problem — It’s An Evidence Problem appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-10T13:09:00+00:00",
+    "date_str": "Aug 10, 2026"
+  },
+  {
+    "title": "STAT+: In surprise decision, FDA rejects radiopharma therapy expected to rival Novartis treatment",
+    "url": "https://www.statnews.com/2026/08/10/itm-radiopharma-fda-rejection/?utm_campaign=rss",
+    "summary": "The FDA has rejected a radiopharmaceutical therapy because of manufacturing issues, halting what would have been a competitor for Novartis.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-10T15:11:07+00:00",
+    "date_str": "Aug 10, 2026"
+  },
+  {
+    "title": "FDA to require notice of additives in food supply for the first time",
+    "url": "https://www.statnews.com/2026/08/10/rfk-jr-proposal-fda-gras-rule-generally-recognized-as-safe/?utm_campaign=rss",
+    "summary": "RFK Jr. is claiming a win with a new proposal on the food industry's GRAS loophole; nutrition advocates give mixed reviews.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-10T15:00:00+00:00",
+    "date_str": "Aug 10, 2026"
+  },
+  {
+    "title": "STAT+: Ban prior auth? And hospitals cut jobs",
+    "url": "https://www.statnews.com/2026/08/10/advocate-ban-prior-authorization-340b-limits-impact-on-hospitals/?utm_campaign=rss",
+    "summary": "We examine a call to reform how health insurers do business, and a look at the impact of 340B restrictions.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-10T14:52:16+00:00",
+    "date_str": "Aug 10, 2026"
+  },
+  {
+    "title": "STAT+: FDA panel to weigh Grail’s Galleri test",
+    "url": "https://www.statnews.com/2026/08/10/biotech-news-fda-panel-to-weigh-grail-galleri-test/?utm_campaign=rss",
+    "summary": "China reins in its biotech innovation engine, radiopharma boom meets unexpected hurdles, and more news from The Readout",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-10T14:48:07+00:00",
+    "date_str": "Aug 10, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a Sanofi drug shortage, a Jazz Pharma deal, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/08/10/sanofi-drug-shortage-jazz-pharma-deal/?utm_campaign=rss",
+    "summary": "Sanofi is experiencing shortages of two medicines used to treat Pompe disease after the FDA warned the company over manufacturing issues",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-10T13:24:23+00:00",
+    "date_str": "Aug 10, 2026"
+  },
+  {
+    "title": "Opinion: We prepared for Ebola — but not this Ebola",
+    "url": "https://www.statnews.com/2026/08/10/ebola-outbreak-zaire-ebolavirus-bundibugyo-diagnostics-therapeutics/?utm_campaign=rss",
+    "summary": "“Preparedness cannot mean optimizing every investment for yesterday's epidemic,” write Krutika Kuppalli and Placide Mbala.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-10T08:30:00+00:00",
+    "date_str": "Aug 10, 2026"
+  },
+  {
+    "title": "Nirsevimab's RSV Protection Didn't Extend to Second Year",
+    "url": "https://www.medpagetoday.com/pediatrics/rsv/122550",
+    "summary": "(MedPage Today) -- The monoclonal antibody nirsevimab (Beyfortus) consistently performed well against respiratory syncytial virus (RSV)-related hospitalization during infants' first year after receipt but without a benefit for other hospitalizations...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-10T17:23:09+00:00",
+    "date_str": "Aug 10, 2026"
+  },
+  {
+    "title": "Trump Officials Propose New Scrutiny of Food Additives and Ingredients",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/fdageneral/122549",
+    "summary": "(MedPage Today) -- U.S. health officials on Monday proposed a rule change that would require food manufacturers to notify regulators before introducing new ingredients or additives into processed or packaged foods. The proposal would change a...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-10T16:50:23+00:00",
+    "date_str": "Aug 10, 2026"
+  },
+  {
+    "title": "Residential Context Matters in Ovarian Cancer Survival",
+    "url": "https://www.medpagetoday.com/obgyn/ovariancancer/122548",
+    "summary": "(MedPage Today) -- Living in areas of greater social vulnerability was linked to worse overall survival among women with epithelial ovarian cancer, particularly Black women, a retrospective cohort study suggested. Overall, living in areas with...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-10T16:35:02+00:00",
+    "date_str": "Aug 10, 2026"
+  },
+  {
+    "title": "A Week After Shaving, She Developed Rare Flesh-Eating Disease",
+    "url": "https://www.medpagetoday.com/casestudies/obgyn/122547",
+    "summary": "(MedPage Today) -- She shaved her perineal area, then applied a topical herbal substance provided by an alternative practitioner -- but a week later, the 40-year-old woman developed aggressive necrotizing fasciitis. What ensued was a 12-week...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-10T16:28:31+00:00",
+    "date_str": "Aug 10, 2026"
+  },
+  {
+    "title": "Despite Progress in TNBC, More Biomarkers Are Needed to Improve Outcomes",
+    "url": "https://www.medpagetoday.com/spotlight/tnbc/122544",
+    "summary": "(MedPage Today) -- Although biomarker testing is playing a greater role in the management of triple-negative breast cancer (TNBC), treatment selection still relies on relatively few validated biomarkers. Markers for Immunotherapy Several new...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-10T15:08:26+00:00",
+    "date_str": "Aug 10, 2026"
+  },
+  {
+    "title": "Amid Flesh-Eating Bacteria Deaths, Health Officials Urge Caution for Beachgoers",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/122543",
+    "summary": "(MedPage Today) -- Health officials in Louisiana are urging beachgoers to take precautions during a summertime surge in infections from a flesh-eating bacteria found in coastal waters. Louisiana has confirmed nine cases of Vibrio vulnificus infections...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-10T14:02:37+00:00",
+    "date_str": "Aug 10, 2026"
+  },
+  {
+    "title": "Biden Cancer Update; Trump on Fauci Prosecution; Cyclosporiasis Rebound Cases",
+    "url": "https://www.medpagetoday.com/hematologyoncology/prostatecancer/122542",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Former President Joe Biden's prostate cancer metastasized to the bone and has become painful and debilitating, his son said. (AP) During his acceptance speech for...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-10T13:30:21+00:00",
+    "date_str": "Aug 10, 2026"
+  },
+  {
+    "title": "Healthcare job growth decelerated in July",
+    "url": "https://www.healthcaredive.com/news/healthcare-job-growth-decelerated-in-july/827457/",
+    "summary": "The sector added 22,000 jobs in July, well below the monthly average of 36,000 new jobs added in the past year. Still, healthcare buoyed what was otherwise a weaker-than-expected report for the economy overall.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-10T15:42:23+00:00",
+    "date_str": "Aug 10, 2026"
+  },
+  {
+    "title": "CVS pharmacists take step towards strike over staffing, burnout",
+    "url": "https://www.healthcaredive.com/news/cvs-pharmacists-approve-strike-sanction-staffing-burnout/827403/",
+    "summary": "Unionized CVS pharmacists in three states greenlit a strike sanction last week as they seek better staffing levels and a seat at the table on CVS’ pharmacy decisions.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-10T12:51:29+00:00",
+    "date_str": "Aug 10, 2026"
+  },
+  {
+    "title": "Experts say healthcare faces cybersecurity crisis: ‘These are patient safety issues’",
+    "url": "https://www.healthcaredive.com/news/healthcare-cybersecurity-crisis-def-con/827428/",
+    "summary": "Regulatory failures, funding constraints and industry consolidation have created serious hacking risks.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-07T17:29:00+00:00",
+    "date_str": "Aug 07, 2026"
+  },
+  {
+    "title": "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-bets-big-hospital-enterprise-ai-platforms-it-ramps-tech-investment",
+    "summary": "Doximity's push to be the leading AI digital assistant for docs",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-10T18:55:37.887300+00:00",
+    "date_str": "Aug 10, 2026"
+  },
+  {
+    "title": "RFK Jr. aims to close loophole that allows new chemicals in food supply",
+    "url": "https://thehill.com/policy/healthcare/6020443-fda-tightens-food-safety-rules/",
+    "summary": "The Trump administration proposed a rule Monday that aims to close a longstanding loophole that allows food and dietary supplement companies to introduce new chemical ingredients in their products without informing the Food and Drug Administration (FDA). The “generally recognized as safe” (GRAS) pathway allows companies to bypass traditional government review by self-certifying that their...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-10T15:57:33+00:00",
+    "date_str": "Aug 10, 2026"
+  },
+  {
+    "title": "Katie Miller defends Ocasio-Cortez’s egg freezing journey: 'We should celebrate that'",
+    "url": "https://thehill.com/homenews/media/6020372-katie-miller-defends-aoc-egg-freezing/",
+    "summary": "Conservative media personality Katie Miller, the wife of White House deputy chief of staff Stephen Miller, praised Rep. Alexandria Ocasio-Cortez’s (D-N.Y.) decision to freeze her eggs. “If one woman wants to preserve her right to have children, which means more than having none—we should celebrate that. If she inspires other women to have babies, we...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-10T15:23:49+00:00",
+    "date_str": "Aug 10, 2026"
+  },
+  {
+    "title": "Watch live: RFK Jr. to host food policy event",
+    "url": "https://thehill.com/policy/healthcare/6019737-rfk-jr-hhs-food-policy/",
+    "summary": "Health and Human Services Secretary Robert F. Kennedy Jr. will host an event Monday morning focused on the Trump administration's food policy initiatives. Efforts to advance his \"Make America Healthy Again\" agenda will also be highlighted. Watch the event, scheduled to begin at 11 a.m. EDT, in the video player above.",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-10T14:00:00+00:00",
+    "date_str": "Aug 10, 2026"
+  },
+  {
     "title": "Same Knee Surgery, Twice the Price: Hospital Monopolies Push Up Healthcare Costs",
     "url": "https://kffhealthnews.org/health-industry/hospital-mergers-monopolies-drive-healthcare-costs-asheville-north-carolina/",
     "summary": "A federal disclosure rule is offering new insight on the effect of healthcare monopolies on pricing, following a wave of U.S. mergers.",
@@ -9777,226 +9997,6 @@
     "category": "Medicare News",
     "category_slug": "medicare-news",
     "date": "2026-07-20T09:00:00+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "Pregnant Woman’s Roadside Death Triggers Push To Reopen Mississippi Delta Hospital",
-    "url": "https://kffhealthnews.org/rural-health/rural-mississippi-delta-hospital-desert-pregnant-woman-dies-emergency-services/",
-    "summary": "The deaths of Harmony Ball-Stribling and her unborn daughter five years ago have galvanized local leaders determined to reopen a Mississippi Delta hospital. But once a rural community loses a hospital, bringing it back can be nearly impossible.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-20T09:00:00+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "The AI Tension in Healthcare: Patent Strategy, FDA Reality, and HIPAA Constraints",
-    "url": "https://medcitynews.com/2026/07/the-ai-tension-in-healthcare-patent-strategy-fda-reality-and-hipaa-constraints/",
-    "summary": "These three legal regimes are pulling in different directions, and the developers that navigate them well will be the ones that plan for all three from the start. The post The AI Tension in Healthcare: Patent Strategy, FDA Reality, and HIPAA Constraints appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-20T13:43:00+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "For Millions in Rural America, Medicine Is Still Far Away",
-    "url": "https://medcitynews.com/2026/07/for-millions-in-rural-america-medicine-is-still-far-away/",
-    "summary": "Rural Health Transformation Program funding gives states broad flexibility and may help address longstanding access gaps. The post For Millions in Rural America, Medicine Is Still Far Away appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-20T13:38:51+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "STAT+: A most-wanted fugitive appears to have been secretly working as a biotech executive",
-    "url": "https://www.statnews.com/2026/07/20/ronald-fischer-rhode-island-fugitive-richard-graydon-biotech/?utm_campaign=rss",
-    "summary": "A former doctor accused of sexual assault but on the run for 20 years appears to have been living a secret life as a biotech executive.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-20T13:34:16+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a telehealth firm and patient safety, PBMs overcharging, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/07/20/telehealth-firm-patient-safety-iowa-medicaid-pbms/?utm_campaign=rss",
-    "summary": "Some former employees say telehealth company LifeMD has sought to maximize the volume of GLP-1 prescriptions at the expense of patient safety",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-20T13:10:10+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "HHS vaccine committee quietly gets new charter",
-    "url": "https://www.statnews.com/2026/07/20/health-news-hhs-vaccine-committee-quietly-gets-new-charter/?utm_campaign=rss",
-    "summary": "Lax clinical oversight for online GLP-1 prescriptions, proposed financial help for people who want to quit smoking, and more health news",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-20T13:01:07+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "STAT+: Bristol Myers Squibb becomes latest company to claim it’s building pharma’s largest NVIDIA AI supercomputer",
-    "url": "https://www.statnews.com/2026/07/20/bms-nvidia-assembling-largest-pharma-ai-supercomputer/?utm_campaign=rss",
-    "summary": "Bristol Myers Squibb is the third drugmaker in nine months to announce it is building the largest AI supercomputer in the life sciences industry.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-20T10:59:00+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "At least 930 people have died in Congo's Ebola outbreak",
-    "url": "https://www.npr.org/2026/07/20/g-s1-134548/ebola-congo-deaths",
-    "summary": "Congo's health ministry said the deaths were recorded out of the 2,344 cases confirmed as of Saturday. Thirty-seven new deaths were recorded in the previous 24 hours in one of the highest totals.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-20T10:36:08+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "So distressed you can't think straight? Lower the intensity with these 4 skills",
-    "url": "https://www.npr.org/2026/07/20/nx-s1-5894845/so-distressed-you-cant-think-straight-lower-the-intensity-with-these-4-skills",
-    "summary": "A clinical psychologist shares effective strategies to quickly de-escalate stress and anxiety. That includes dunking your head into a bowl of ice water to trigger your mammalian dive reflex.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-20T09:00:00+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "Deloitte-run systems denied Medicaid to disabled people. New laws could make it worse",
-    "url": "https://www.npr.org/2026/07/20/nx-s1-5896359/medicaid-disabled-patients-denied-deloitte-michigan",
-    "summary": "Complex computer systems that decide whether people get Medicaid benefits have a history of errors. Now, changes to comply with Trump's tax and domestic policy law are inundating those systems.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-20T09:00:00+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "How Medicare Advantage plans can strengthen Star Ratings through better care transitions",
-    "url": "https://www.healthcaredive.com/spons/how-medicare-advantage-plans-can-strengthen-star-ratings-through-better-car/824551/",
-    "summary": "Why leading Medicare Advantage plans are making care transitions a strategic priority.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-20T09:00:00+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "3 essential capabilities to scale impact and collaboration in VBC",
-    "url": "https://www.healthcaredive.com/spons/3-essential-capabilities-to-scale-impact-and-collaboration-in-vbc/825449/",
-    "summary": "Discover the critical tools you need to succeed in a collaborative, tech-enabled VBC future.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-20T09:00:00+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "The real economics of specialty pharmacy: What your specialty drug trend isn’t telling you",
-    "url": "https://www.healthcaredive.com/spons/the-real-economics-of-specialty-pharmacy-what-your-specialty-drug-trend-is/824801/",
-    "summary": "As specialty drug costs rise, payers with a comprehensive view can better manage them.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-20T09:00:00+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "Employers push health savings plans, nutritional counseling to avoid GLP-1 coverage for weight loss",
-    "url": "https://www.healthcaredive.com/news/employers-push-health-savings-plans-nutritional-counseling-to-avoid-glp-1-coverage/825556/",
-    "summary": "Cost remains a major factor for employers as the popular drug for weight loss represented 11.4% of annual claims for corporations in 2025.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-16T15:50:00+00:00",
-    "date_str": "Jul 16, 2026"
-  },
-  {
-    "title": "Tempus buys out cancer genomics partner Personalis in $1.5 billion deal",
-    "url": "https://www.fiercehealthcare.com/medtech/tempus-buys-out-cancer-genomics-specialist-personalis-15-billion-deal",
-    "summary": "Tempus is boosting its cancer offerings with a deal to buy out Personalis three years after the pair first teamed up in oncology.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-20T14:03:16.709896+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "Why clinician-led IT is the future of care",
-    "url": "https://www.fiercehealthcare.com/sponsored/why-clinician-led-it-future-care",
-    "summary": "athenahealth explores why clinician-led innovation, AI and smarter workflows are redefining what health IT can deliver.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-20T14:03:16.709939+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "Close the Clinical Handoff Gap. Improve Post-Acute Outcomes.",
-    "url": "https://www.fiercehealthcare.com/sponsored/close-clinical-handoff-gap-improve-post-acute-outcomes",
-    "summary": "The biggest risk in care transitions isn't discharge—it's the handoff. Discover how plans can close the gap.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-07-20T14:03:16.709972+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "FDA: Taylor Farms lettuce cyclospora finding was false positive",
-    "url": "https://thehill.com/policy/healthcare/5977729-cdc-cyclospariosis-outbreak-update/",
-    "summary": "The U.S. Food and Drug Administration (FDA) on Sunday said that a follow-up review of a lettuce sample collected from Taylor Farms determined it was a false positive for cyclospora, the parasitic illness that has caused a nationwide outbreak. The FDA previously stated on Saturday that the shredded lettuce sample provided by Taylor Farms from...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-07-20T12:55:16+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "Does the 'pink salt trick' help you lose weight?",
-    "url": "https://thehill.com/policy/healthcare/5976927-tiktok-pink-salt-trick/",
-    "summary": "The drink involves mixing a pinch of Himalayan salt with a glass of water and a squeeze of lemon juice.",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-07-20T11:17:26+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "Sweeteners may slow down growth of gut bacteria",
-    "url": "https://thehill.com/policy/healthcare/5977005-sweeteners-interfere-gut-bacteria/",
-    "summary": "Researchers found that two very important gut bacteria were directly impacted by one particular sweetener.",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-07-20T11:17:00+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "Ohio residents sue Taco Bell, say they got cyclospora after eating at restaurants",
-    "url": "https://thehill.com/homenews/state-watch/5977259-cyclospora-outbreak-taco-bell-lawsuit/",
-    "summary": "The lawsuit also names Taco Bell's lettuce supplier, Taylor Farms.",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-07-20T11:16:48+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "Opinion: It’s time to treat pandemics as threats to national security",
-    "url": "https://www.statnews.com/2026/07/20/pandemics-national-security-threats/?utm_campaign=rss",
-    "summary": "“Pandemics should be viewed and combated as threats to national security,” write David Blumenthal and James A. Morone.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-20T08:30:00+00:00",
     "date_str": "Jul 20, 2026"
   }
 ]
