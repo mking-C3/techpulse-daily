@@ -42,6 +42,41 @@ guides:
     description: "What Medigap covers, how standardized plan letters work, the one-time 6-month open enrollment window, and why it pairs only with Original Medicare."
     file: guides/medigap-basics.html
 
+  - slug: medicare-costs-2026
+    title: "What Medicare Actually Costs in 2026: Every Standard Amount"
+    description: "Every 2026 Medicare number in one place: Part A, B, and D premiums, deductibles, and coinsurance, plus how IRMAA income surcharges really work."
+    file: guides/medicare-costs-2026.html
+
+  - slug: help-paying-for-medicare
+    title: "Help Paying for Medicare: Extra Help, MSPs, Medicaid, and PACE"
+    description: "How Extra Help, the four Medicare Savings Programs, Medicaid dual eligibility, and PACE can lower Medicare costs in 2026 — and where to apply."
+    file: guides/help-paying-for-medicare.html
+
+  - slug: medicare-and-working-past-65
+    title: "Working Past 65: How Medicare Fits With Employer Coverage"
+    description: "How Medicare coordinates with job-based coverage after 65: the 20-employee rule, COBRA and HSA pitfalls, and the enrollment window when work ends."
+    file: guides/medicare-and-working-past-65.html
+
+  - slug: what-medicare-doesnt-cover
+    title: "What Medicare Doesn't Cover: Dental, Vision, Long-Term Care"
+    description: "A plain-English guide to Medicare's biggest coverage gaps — dental, vision, hearing, long-term care, and care abroad — and what actually fills them."
+    file: guides/what-medicare-doesnt-cover.html
+
+  - slug: medicare-preventive-benefits
+    title: "Medicare's Free Preventive Benefits: What's Really $0"
+    description: "Which Medicare preventive visits, screenings, and vaccines truly cost $0 — and how diagnostic vs. preventive coding can turn a free service into a bill."
+    file: guides/medicare-preventive-benefits.html
+
+  - slug: medicare-appeals-denials
+    title: "How to Appeal a Medicare Denial: Levels, Deadlines, Free Help"
+    description: "How Medicare appeals work in 2026: the five appeal levels, Medicare Advantage and Part D plan appeals, fast-track deadlines, and where to get free help."
+    file: guides/medicare-appeals-denials.html
+
+  - slug: avoiding-medicare-scams
+    title: "How to Spot and Avoid Medicare Scams"
+    description: "The most common Medicare scams — fake card calls, genetic-testing fraud, plan-switching pressure, equipment schemes — and how to protect and report your number."
+    file: guides/avoiding-medicare-scams.html
+
 # Editorial intro copy — unique original text shown on the first page of the
 # homepage and each category listing.
 homepage_intro: >-
@@ -118,6 +153,10 @@ feeds:
 
 settings:
   max_posts_per_feed: 10      # articles pulled per feed per run
-  summary_word_limit: 120     # words shown in the card excerpt
+  summary_word_limit: 120     # words stored per article summary
+  card_excerpt_words: 40      # words actually rendered on cards (keep short —
+                              # cards should tease, not republish)
   posts_per_page: 12          # cards per paginated page
-  max_total_articles: 1000    # hard cap on articles.json (oldest trimmed first)
+  max_total_articles: 240     # hard cap on articles.json (oldest trimmed first);
+                              # kept low so thin listing pages don't dominate
+                              # the site's original editorial content
