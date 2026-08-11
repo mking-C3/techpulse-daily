@@ -1,5 +1,165 @@
 [
   {
+    "title": "STAT+: Trump is counting on the health care industry to remake vaccines. It’s pushing back instead",
+    "url": "https://www.statnews.com/2026/08/11/health-care-pharma-industry-pushes-back-trump-vaccine-policy-changes/?utm_campaign=rss",
+    "summary": "Trump wants to change how American kids are vaccinated, but doctors and the pharma industry aren't on board.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-11T16:57:34+00:00",
+    "date_str": "Aug 11, 2026"
+  },
+  {
+    "title": "Opinion: Trump says his executive order should restore trust in vaccines. It does the exact opposite",
+    "url": "https://www.statnews.com/2026/08/11/trump-executive-order-vaccines-undecided-parents-trust/?utm_campaign=rss",
+    "summary": "The White House says Trump’s recent executive order is aimed at restoring trust in vaccines. It will do the opposite, writes an epidemiologist.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-11T16:46:06+00:00",
+    "date_str": "Aug 11, 2026"
+  },
+  {
+    "title": "How we know that splitting up the MMR vaccine could be dangerous",
+    "url": "https://www.statnews.com/2026/08/11/how-we-know-splitting-up-mmr-vaccine-could-be-dangerous/?utm_campaign=rss",
+    "summary": "It's no mystery. History tells us that President Trump’s executive order calling for the MMR to be split into separate shots could do real harm.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-11T14:28:57+00:00",
+    "date_str": "Aug 11, 2026"
+  },
+  {
+    "title": "Nonprofit Hospitals Aren't Acting Like Nonprofits. Congress Should Ask Why.",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/122566",
+    "summary": "(MedPage Today) -- Last September, I (Whaley) testified before the House Ways and Means Subcommittee on Oversight about something that should trouble every American who has ever paid a hospital bill or a health insurance premium: the nonprofit...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-11T18:00:02+00:00",
+    "date_str": "Aug 11, 2026"
+  },
+  {
+    "title": "Ozempic Teeth, Muscle Loss: Some of the Buzziest GLP-1 Side Effects",
+    "url": "https://www.medpagetoday.com/popmedicine/popmedicine/122564",
+    "summary": "(MedPage Today) -- GLP-1 drugs, used for type 2 diabetes and weight loss, have been touted for their many benefits, but it's their side effects that often make headlines, especially those with compelling monikers like \"Ozempic teeth.\" Here, we...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-11T15:45:43+00:00",
+    "date_str": "Aug 11, 2026"
+  },
+  {
+    "title": "I Thought the CDC Shooting Was Rock Bottom. We're Still Sinking.",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/122563",
+    "summary": "(MedPage Today) -- A year ago, a gunman fired 500 rounds at the CDC campus, killing DeKalb County Police Officer David Rose. I was inside the building during the attack. Authorities said the shooter was radicalized by the anti-vaccine conspiracy...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-11T15:31:27+00:00",
+    "date_str": "Aug 11, 2026"
+  },
+  {
+    "title": "BMI Aside, Waist Size Matters for Cardiovascular Risks",
+    "url": "https://www.medpagetoday.com/primarycare/obesity/122562",
+    "summary": "(MedPage Today) -- There were plenty of people whose normal weight belied the higher cardiovascular risk evident in their waist size, according to a pooled analysis of over a dozen cohort studies. Among those with normal weight or overweight measured...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-11T15:14:25+00:00",
+    "date_str": "Aug 11, 2026"
+  },
+  {
+    "title": "Child Dies in Gene-Editing Trial; Wegovy & Dementia Score; RFK Jr. Questions Journal",
+    "url": "https://www.medpagetoday.com/neurology/generalneurology/122561",
+    "summary": "(MedPage Today) -- Shanghai-based biotech company HuidaGene Therapeutics disclosed the death of a child 1 year ago in a trial of an investigational gene-editing therapy for Duchenne muscular dystrophy. Semaglutide (Wegovy) attenuated a proteomics...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-11T14:54:33+00:00",
+    "date_str": "Aug 11, 2026"
+  },
+  {
+    "title": "WHO Says Congo's Ebola Outbreak Started Months Before It Was Declared",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/122560",
+    "summary": "(MedPage Today) -- The fastest-growing Ebola outbreak on record started in February, months before it was officially declared in mid-May, the World Health Organization (WHO) said Monday as responders in eastern Congo struggle to catch up. The...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-11T14:24:08+00:00",
+    "date_str": "Aug 11, 2026"
+  },
+  {
+    "title": "Cassidy, Sanders press DOJ on former Steward CEO’s contempt referral",
+    "url": "https://www.healthcaredive.com/news/cassidy-sanders-press-doj-former-steward-ceos-contempt-referral-ralph-de-la-torre/827566/",
+    "summary": "The Senate referred the former Ralph de la Torre, Steward Health Care’s former CEO, for possible prosecution nearly two years ago after he defied a congressional subpoena. Now, two Senators are asking for an update.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-11T14:49:55+00:00",
+    "date_str": "Aug 11, 2026"
+  },
+  {
+    "title": "DentaQuest breach exposes data of 15M people, a record this year",
+    "url": "https://www.healthcaredive.com/news/Dental-benefits-administrator-discloses-breach/827533/",
+    "summary": "In the aftermath of the breach, the dental and vision benefits administrator said it notified affected individuals in July and bolstered its security controls.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-11T13:05:03+00:00",
+    "date_str": "Aug 11, 2026"
+  },
+  {
+    "title": "CMS' mandatory VBC programs brought substantial administrative costs for hospitals: study",
+    "url": "https://www.fiercehealthcare.com/providers/cms-mandatory-vbc-programs-brought-substantial-administrative-costs-hospitals-study",
+    "summary": "Four mandatory value-based payment programs were associated with more than $3 billion in aggregated administrative costs compared to non-participating hospitals, researchers' analysis of Medicare cost reports found.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-11T19:00:09.935913+00:00",
+    "date_str": "Aug 11, 2026"
+  },
+  {
+    "title": "Flagler Health secures $50M series B for AI-native MSK care platform expansion",
+    "url": "https://www.fiercehealthcare.com/finance/flagler-health-secures-50m-series-b-ai-native-msk-care-platform-expansion",
+    "summary": "The company says its platform is built on one of the largest MSK patient datasets and integrates directly into existing EMRs and workflows.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-11T19:00:09.935970+00:00",
+    "date_str": "Aug 11, 2026"
+  },
+  {
+    "title": "Death toll from flesh-eating bacteria rises: These are the Vibrio warning signs to watch for",
+    "url": "https://thehill.com/policy/healthcare/6021343-death-toll-from-flesh-eating-bacteria-rises-these-are-the-vibrio-warning-signs-to-watch-for/",
+    "summary": "Beachgoers in several southern states have been warned to proceed with caution after several more deaths were reported in people who contracted vibriosis, an infection from a bacteria that can cause \"flesh-eating\" disease.",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-11T18:13:07+00:00",
+    "date_str": "Aug 11, 2026"
+  },
+  {
+    "title": "Texas sterile fly facility set for spring opening",
+    "url": "https://thehill.com/policy/healthcare/6022898-usda-texas-sterile-fly-facility-texas-spring-opening-screwworm/",
+    "summary": "A sterile fly facility is set to open in Texas this spring amid a New World Screwworm (NWS) outbreak that has affected two states, the U.S. Department of Agriculture (USDA) announced Monday. The USDA social media account dedicated to providing updates on the federal response to the NWS spread said the facility will open seven...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-11T17:25:36+00:00",
+    "date_str": "Aug 11, 2026"
+  },
+  {
+    "title": "WHO defends childhood immunization schedules after Trump reduction order",
+    "url": "https://thehill.com/policy/healthcare/6022336-who-immunization-guidelines-trump-order/",
+    "summary": "The World Health Organization (WHO) on Tuesday defended its immunization guidelines amid the Trump administration’s decision to decrease the number of recommended childhood vaccines in the U.S. President Trump signed an executive order Monday that reinforced his administration’s push to reduce the number of recommended vaccines for children from 17 to 11. This new directive...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-11T14:28:25+00:00",
+    "date_str": "Aug 11, 2026"
+  },
+  {
     "title": "From Friction to Fix: Measuring What’s Breaking Payer-Provider Trust",
     "url": "https://medcitynews.com/2026/08/from-friction-to-fix-measuring-whats-breaking-payer-provider-trust/",
     "summary": "Tolerance for this abrasion is gone. It wastes time, drains staff capacity, drives up costs, and affects the patient experience. The post From Friction to Fix: Measuring What’s Breaking Payer-Provider Trust appeared first on MedCity News .",
@@ -2237,166 +2397,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-08-06T02:18:37+00:00",
-    "date_str": "Aug 06, 2026"
-  },
-  {
-    "title": "STAT+: Takeda’s narcolepsy drug approved by the FDA, seen as a boon for new class of treatments",
-    "url": "https://www.statnews.com/2026/08/05/takeda-narcolepsy-drug-fda-approval-orzeyful/?utm_campaign=rss",
-    "summary": "The FDA approved a novel type of treatment for narcolepsy made by Takeda, backing a new drug class that scientists hope can be used to treat other conditions.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-05T20:41:35+00:00",
-    "date_str": "Aug 05, 2026"
-  },
-  {
-    "title": "STAT+: Federal regulators invite industry, researchers, and lobbyists to closed-door meetings on clinical AI",
-    "url": "https://www.statnews.com/2026/08/05/federal-regulators-invite-industry-closed-door-meetings-clinical-ai/?utm_campaign=rss",
-    "summary": "Federal health officials invited tech companies and lobbyists to closed-door meetings as they seek to boost adoption of clinical AI.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-05T20:05:08+00:00",
-    "date_str": "Aug 05, 2026"
-  },
-  {
-    "title": "An FDA decision could give us the first mRNA flu vaccine",
-    "url": "https://www.npr.org/2026/08/05/nx-s1-5920365/an-fda-decision-could-give-us-the-first-mrna-flu-vaccine",
-    "summary": "The Food and Drug Administration is expected to decide whether to approve the first mRNA flu vaccine.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-05T20:22:54+00:00",
-    "date_str": "Aug 05, 2026"
-  },
-  {
-    "title": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
-    "url": "https://www.npr.org/2026/08/05/nx-s1-5920379/cdc-director-confirmed-erica-schwartz",
-    "summary": "Schwartz takes command of a public health agency that has lost thousands of employees, amid layoffs, resignations and leadership turmoil.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-05T20:00:24+00:00",
-    "date_str": "Aug 05, 2026"
-  },
-  {
-    "title": "Health Plans Losing Court Battles in No Surprises Act Cases",
-    "url": "https://www.medpagetoday.com/practicemanagement/reimbursement/122506",
-    "summary": "(MedPage Today) -- The fate of the No Surprises Act's independent dispute resolution (IDR) clause continues to hang in the balance as it winds its way through the courts. The No Surprises Act, signed into law in 2020 by President Donald Trump...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-05T21:36:20+00:00",
-    "date_str": "Aug 05, 2026"
-  },
-  {
-    "title": "Tool Brings Vax vs Disease Risk Into Stark Contrast",
-    "url": "https://www.medpagetoday.com/infectiousdisease/vaccines/122505",
-    "summary": "(MedPage Today) -- As vaccine hesitancy continues to rise, fueling a record-breaking resurgence of measles, among other public health threats, an online tool launched this week aims to help people better understand vaccine safety. The free and...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-05T21:11:15+00:00",
-    "date_str": "Aug 05, 2026"
-  },
-  {
-    "title": "Senate Confirms Erica Schwartz as CDC Director",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/122504",
-    "summary": "(MedPage Today) -- The Senate on Wednesday confirmed Erica Schwartz, MD, MPH, JD, as director of the CDC, placing her in charge of a public health agency beleaguered by political meddling and low morale. Schwartz was confirmed in a 51-44 vote...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-05T20:39:04+00:00",
-    "date_str": "Aug 05, 2026"
-  },
-  {
-    "title": "Who Is Steven Quay, the Biotech Exec Likely to Take Fauci's Old Job?",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/122503",
-    "summary": "(MedPage Today) -- Steven Quay, MD, PhD, is reportedly in final vetting for the job of director of the National Institute of Allergy and Infectious Diseases (NIAID), a position formerly held by Anthony Fauci, MD, for decades. So, who is he? Quay...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-05T20:23:29+00:00",
-    "date_str": "Aug 05, 2026"
-  },
-  {
-    "title": "'Carrot Maxxing' Is a New Name for an Old Trend",
-    "url": "https://www.medpagetoday.com/popmedicine/cultureclinic/122502",
-    "summary": "(MedPage Today) -- Welcome to Culture Clinic, MedPage Today's collaboration with Northwell Health to offer a healthcare professional's take on the latest viral medical topics. People are touting \"carrot maxxing\" on social media as a natural shortcut...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-05T19:59:21+00:00",
-    "date_str": "Aug 05, 2026"
-  },
-  {
-    "title": "Study Examines Link Between IBD and Psychiatric Disorders",
-    "url": "https://www.medpagetoday.com/gastroenterology/inflammatoryboweldisease/122501",
-    "summary": "(MedPage Today) -- Patients with inflammatory bowel disease (IBD) were at increased risk for several psychiatric disorders both before and after diagnosis, according to results from a Swedish cohort study. The relative rate of any psychiatric...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-05T19:37:07+00:00",
-    "date_str": "Aug 05, 2026"
-  },
-  {
-    "title": "Experts Establish Pillars of Care for Older Adults With HIV",
-    "url": "https://www.medpagetoday.com/meetingcoverage/iac/122500",
-    "summary": "(MedPage Today) -- Faced with an aging population with HIV, clinicians will need to help these older patients navigate a healthy route from antiretroviral therapy (ART) initiation through complex comorbidities to an increased focus on maintaining...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-05T19:29:45+00:00",
-    "date_str": "Aug 05, 2026"
-  },
-  {
-    "title": "Dirty Air Worsens Rheumatoid Arthritis Outcomes, Study Shows",
-    "url": "https://www.medpagetoday.com/rheumatology/arthritis/122499",
-    "summary": "(MedPage Today) -- Koreans with rheumatoid arthritis (RA) showed increased disease activity and higher flare rates when exposed to relatively high levels of small atmospheric particulate matter, researchers reported. Each 6-μg/m3 increment...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-05T19:11:09+00:00",
-    "date_str": "Aug 05, 2026"
-  },
-  {
-    "title": "10 AnMed facilities remain closed a week after cyberattack",
-    "url": "https://www.healthcaredive.com/news/anmed-facilities-remain-closed-week-after-cyberattack/827160/",
-    "summary": "Facilities at the health system AnMed are still operating in a limited capacity as the nonprofit recovers from a cyberattack. Prolonged recovery times have become a problem in the industry, one expert said.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-05T20:23:56+00:00",
-    "date_str": "Aug 05, 2026"
-  },
-  {
-    "title": "HHS announces decertification of Kentucky-based organ procurement organization Network for Hope",
-    "url": "https://www.fiercehealthcare.com/regulatory/hhs-announces-decertification-kentucky-based-organ-procurement-organization-network-hope",
-    "summary": "HHS Secretary Robert F. Kennedy Jr. said the decertification comes after federal reviews found “persistent patient safety failures.”",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-06T02:28:52.309153+00:00",
-    "date_str": "Aug 06, 2026"
-  },
-  {
-    "title": "Ardent Health offsets Q2 volume stumble by tightening costs, renegotiating contracts",
-    "url": "https://www.fiercehealthcare.com/providers/ardent-health-offsets-q2-volume-stumble-tightening-costs-renegotiating-contracts",
-    "summary": "The for-profit health system missed analysts' earnings and revenue targets, but reaffirmed its full-year guidance on the back of fast-moving margin improvement initiatives.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-06T02:28:52.309197+00:00",
-    "date_str": "Aug 06, 2026"
-  },
-  {
-    "title": "Here Now, mental health startup for foster youth, expands to New Mexico Medicaid",
-    "url": "https://www.fiercehealthcare.com/digital-health/here-now-mental-health-provider-foster-youth-expands-new-mexico",
-    "summary": "Here Now Health aims to connect Medicaid-covered youth with mental health services in a fragmented foster care system. Being virtual allows it to maintain access even if a child moves.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-06T02:28:52.309230+00:00",
     "date_str": "Aug 06, 2026"
   }
 ]
