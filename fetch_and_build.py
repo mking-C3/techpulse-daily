@@ -850,16 +850,17 @@ def main() -> None:
     new_articles, new_urls = fetch_new_articles(config, seen)
     print(f"      {len(new_articles)} new articles found.")
 
+    # Cap applies whether or not anything new arrived, so a lowered
+    # max_total_articles takes effect on the very next build
+    max_total = config["settings"].get("max_total_articles", 1000)
     if new_articles:
         seen |= new_urls
-        max_total = config["settings"].get("max_total_articles", 1000)
-        merged = new_articles + stored           # newest first
-        merged = merged[:max_total]              # trim oldest
+        merged = (new_articles + stored)[:max_total]   # newest first, oldest trimmed
         save_seen(seen)
         save_store(merged)
         print(f"      Store updated: {len(merged)} total articles.")
     else:
-        merged = stored
+        merged = stored[:max_total]
         print("      Nothing new — rebuilding site from existing store.")
 
     print("\n[4/4] Building static site …")
