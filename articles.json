@@ -1,5 +1,125 @@
 [
   {
+    "title": "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution",
+    "url": "https://kffhealthnews.org/rural-health/rural-healthcare-artificial-intelligence-patients-wary/",
+    "summary": "The $50 billion federal Rural Health Transformation Program is set to flood rural America with new AI health tools. That’s despite little evidence on whether health-related AI can improve access to care and patient health in those communities.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-11T09:00:00+00:00",
+    "date_str": "Aug 11, 2026"
+  },
+  {
+    "title": "A Federal Policy Is Complicating How Organizations Battle the Opioid Crisis",
+    "url": "https://kffhealthnews.org/public-health/baltimore-drug-test-strips-overdose-samhsa-federal-policy-harm-reduction/",
+    "summary": "Drug test strips are credited with saving lives, but a new policy will limit how funds can be used for them. Advocates of harm reduction strategies who responded to a mass overdose in Baltimore say distributing them will get harder. Federal officials say the strips enable drug use.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-11T09:00:00+00:00",
+    "date_str": "Aug 11, 2026"
+  },
+  {
+    "title": "Which Health Tech Companies Are Getting Customer Experience Right?",
+    "url": "https://medcitynews.com/2026/08/which-health-tech-companies-are-getting-customer-experience-right/",
+    "summary": "[Sponsored] A new report from Forrester offers a score card assessing health tech vendors on customer experience for healthcare organizations considering adopting them. The post Which Health Tech Companies Are Getting Customer Experience Right? appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-11T12:50:00+00:00",
+    "date_str": "Aug 11, 2026"
+  },
+  {
+    "title": "STAT+: Skylar Bio kicks off new gene therapy trial for deafness",
+    "url": "https://www.statnews.com/2026/08/11/skylark-bio-gjb2-otoferlin-gene-therapies-for-deafness/?utm_campaign=rss",
+    "summary": "Biotech startups in the U.S., France, and China are racing to bring new gene therapies for deafness by targeting different genetic mutations.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-11T12:00:00+00:00",
+    "date_str": "Aug 11, 2026"
+  },
+  {
+    "title": "STAT+: Why is MoonLake Immunotherapeutics scared of releasing data on its drug candidate?",
+    "url": "https://www.statnews.com/2026/08/11/why-is-moonlake-immunotherapeutics-scared-of-releasing-data/?utm_campaign=rss",
+    "summary": "Biotech companies don’t hide or obfuscate strong data.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-11T08:30:00+00:00",
+    "date_str": "Aug 11, 2026"
+  },
+  {
+    "title": "STAT+: Nurses seek a seat at the table as they fight expanding clinical AI",
+    "url": "https://www.statnews.com/2026/08/11/nurses-seek-involvement-clinical-ai-decisions/?utm_campaign=rss",
+    "summary": "Nurses, who make up the largest part of the health care workforce, say clinical artificial intelligence poses a threat to their jobs, and patients.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-11T08:30:00+00:00",
+    "date_str": "Aug 11, 2026"
+  },
+  {
+    "title": "Opinion: Burdensome Medicare GLP-1 program may keep patients from accessing $50 per month weight loss drugs",
+    "url": "https://www.statnews.com/2026/08/11/medicare-weight-loss-drugs-glp-1s-bridge-program-primary-care/?utm_campaign=rss",
+    "summary": "Medicare’s new weight loss drug program “risks creating barriers at precisely the moment when confidence in broader GLP‑1 coverage is most needed,” writes Jeffrey Millstein.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-11T08:30:00+00:00",
+    "date_str": "Aug 11, 2026"
+  },
+  {
+    "title": "Opinion: The new geography of abortion care",
+    "url": "https://www.statnews.com/2026/08/11/abortion-post-dobbs-clinic-hotline-advice/?utm_campaign=rss",
+    "summary": "Even before Dobbs, patients had “begun reorganizing abortion care outside traditional health care settings,” writes Jennifer Karlin.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-11T08:30:00+00:00",
+    "date_str": "Aug 11, 2026"
+  },
+  {
+    "title": "IRBs have a problem. Can North Star’s nonprofit model save it?",
+    "url": "https://www.statnews.com/2026/08/11/north-star-review-founders-advocate-nonprofit-approach-institutional-oversight/?utm_campaign=rss",
+    "summary": "As institutional review boards face pressure from companies and ethicists, North Star Review Board offers a nonprofit model as more independent.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-11T08:30:00+00:00",
+    "date_str": "Aug 11, 2026"
+  },
+  {
+    "title": "A midwife crosses 'maternity deserts' to make a difference for Black moms and babies",
+    "url": "https://www.npr.org/2026/08/11/nx-s1-5678523/maternity-desert-birth-midwife-black-moms-babies",
+    "summary": "New research from the March of Dimes says more than half of U.S. counties have no labor and delivery hospitals. One Black midwife tries to make a difference for moms in Alabama.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-11T10:00:00+00:00",
+    "date_str": "Aug 11, 2026"
+  },
+  {
+    "title": "Fewer resources and funding cuts contributing to spike in foodborne illnesses",
+    "url": "https://www.npr.org/2026/08/11/nx-s1-5927285/fewer-resources-and-funding-cuts-contributing-to-spike-in-foodborne-illnesses",
+    "summary": "It's been a bad summer for foodborne illnesses -- from a record-breaking cyclosporiasis outbreak tied to iceberg lettuce to salmonella infections linked to jalapeños.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-11T08:31:22+00:00",
+    "date_str": "Aug 11, 2026"
+  },
+  {
+    "title": "Hunter Biden says Joe Biden's cancer has spread. A doctor explains what that means",
+    "url": "https://www.npr.org/2026/08/11/nx-s1-5927282/hunter-biden-says-joe-bidens-cancer-has-spread-a-doctor-explains-what-that-means",
+    "summary": "Former President Joe Biden's cancer has spread to his bones, according to his son Hunter. NPR's A Martinez asks Johns Hopkins Professor Otis Brawley about prostate cancer diagnoses and treatments.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-11T08:29:16+00:00",
+    "date_str": "Aug 11, 2026"
+  },
+  {
     "title": "American Medical Association criticizes Trump executive order on childhood vaccine schedule",
     "url": "https://thehill.com/policy/healthcare/6021625-ama-warns-childhood-immunization-risks/",
     "summary": "The president of the American Medical Association on Monday said President Trump’s new recommendations on childhood immunizations put “children’s health at risk,” joining the chorus of medical experts criticizing the executive order. “Vaccines are among the most thoroughly studied, effective tools we have to protect children from serious vaccine-preventable diseases,” Dr. Willie Underwood III said...",
@@ -9877,126 +9997,6 @@
     "category": "Medicare News",
     "category_slug": "medicare-news",
     "date": "2026-07-20T23:19:19+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "How Should Clinical AI Be Paid For? 3 Takeaways",
-    "url": "https://medcitynews.com/2026/07/how-should-clinical-ai-be-paid-for-3-takeaways/",
-    "summary": "A new report from the Peterson Health Technology Institute argues that today’s healthcare payment models are ill-suited for clinical AI and could drive up costs. The post How Should Clinical AI Be Paid For? 3 Takeaways appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-20T22:26:58+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "Expecting Massive Test Growth in Cancer & More, Tempus AI Strikes $1.5B Deal to Buy Personalis",
-    "url": "https://medcitynews.com/2026/07/tempus-ai-personalis-acquisition-cancer-mrd-diagnostics-detection-tem-psnl/",
-    "summary": "Personalis’s liquid biopsy is part of a growing market for minimal residual disease assays, tests that look for any remaining cancer cells after the initial treatment. Tempus AI has been the commercial partner on this Personalis test since 2023. The post Expecting Massive Test Growth in Cancer & More, Tempus AI Strikes $1.5B Deal to Buy Personalis appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-07-20T21:25:27+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "FDA still focused on lettuce supplier as source of parasite, despite faulty test result",
-    "url": "https://www.statnews.com/2026/07/20/cyclospora-lettuce-tests-continue-restaurant-visits-decline/?utm_campaign=rss",
-    "summary": "The FDA said Monday it is still focused on lettuce from Taylor Farms as the source of a multistate outbreak of a diarrhea-causing parasite, despite a faulty test result.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-20T20:37:59+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
-    "url": "https://www.npr.org/2026/07/20/nx-s1-5901356/fda-focused-taylor-farms-lettuce-cyclospora-source-despite-retracted-test",
-    "summary": "The FDA says lettuce distributed by Taylor Fresh Foods and Taylor Farms de Mexico is still linked to the multistate outbreak of cyclosporiasis. But the source may be difficult to definitively trace.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-21T00:36:28+00:00",
-    "date_str": "Jul 21, 2026"
-  },
-  {
-    "title": "FDA retracts positive cyclospora test on Taylor Farms lettuce",
-    "url": "https://www.npr.org/2026/07/20/nx-s1-5900880/fda-retracts-positive-cyclospora-test-on-taylor-farms-lettuce",
-    "summary": "The FDA says the test identifying cyclospora in Taylor Farms iceberg lettuce was a \"false positive.\" But the lettuce is still linked epidemiologically to cases of the illness in a multistate outbreak.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-07-20T20:03:55+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "Novel Antifungal Shows Activity in Valley Fever",
-    "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/122276",
-    "summary": "(MedPage Today) -- An investigational antifungal was associated with clinical improvements in a majority of patients with disseminated coccidioidomycosis (DCM) who failed standard treatments, according to an open-label phase IIb trial. Among 41...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-20T22:15:00+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "American Heart Association Weighs In on Coffee Drinking",
-    "url": "https://www.medpagetoday.com/cardiology/generalcardiology/122275",
-    "summary": "(MedPage Today) -- Caffeine consumption can be safely tolerated in reasonable amounts in most people, according to a review by the American Heart Association (AHA). \"The convergence of evidence from large cohort studies and small randomized controlled...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-20T21:37:43+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "HHS Agency Cuts Dozens of Grants",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/122274",
-    "summary": "(MedPage Today) -- The Agency for Healthcare Research and Quality (AHRQ) cut dozens of grants last week, issuing what appeared to be batch termination notices to researchers. Termination letters shared with MedPage Today and posted online had...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-20T21:32:06+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "Lettuce Supplier Still the Focus in Cyclospora Outbreak, Despite Faulty Test Result",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/fdageneral/122273",
-    "summary": "(MedPage Today) -- Federal health officials said Monday they remain focused on lettuce from Taylor Farms as the source of a multistate outbreak of the diarrhea-causing parasite Cyclospora, despite inaccurate test results that the government briefly...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-20T21:14:27+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "Novel Drug Shows Promise in Crohn's, Ulcerative Colitis",
-    "url": "https://www.medpagetoday.com/gastroenterology/inflammatoryboweldisease/122272",
-    "summary": "(MedPage Today) -- Treatment with investigational duvakitug appeared to improve remission rates among patients with ulcerative colitis and endoscopic response rates in those with Crohn's disease, results from two cohorts of the phase IIb RELIEVE...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-20T21:06:41+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "One Partner's Dementia May Predict the Other's Future Risk",
-    "url": "https://www.medpagetoday.com/neurology/dementia/122271",
-    "summary": "(MedPage Today) -- Spouses of people with dementia had a higher risk of developing dementia themselves, a matched cohort study of nearly 1 million married people in Taiwan showed. Compared with unexposed spouses, both husbands and wives of dementia...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-20T21:00:17+00:00",
-    "date_str": "Jul 20, 2026"
-  },
-  {
-    "title": "CDC's 'Do Not Board' Rule Undermines the Ebola Response",
-    "url": "https://www.medpagetoday.com/opinion/the-health-docket/122270",
-    "summary": "(MedPage Today) -- Having dismantled the U.S. Agency for International Development and decimated the CDC's global health capacities, the Trump administration has resorted to a blunt instrument to protect the American public from the Bundibugyo...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-07-20T19:44:42+00:00",
     "date_str": "Jul 20, 2026"
   }
 ]
