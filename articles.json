@@ -1,5 +1,205 @@
 [
   {
+    "title": "New Startup Launches to Close the Bedside Communication Gap in Hospitals",
+    "url": "https://medcitynews.com/2026/08/suvi-health-patient-handoff/",
+    "summary": "The 1842 Fund launched a new startup called Suvi Health, which is developing an ambient AI platform that records hospital bedside conversations and turns them into a shared task list for patients and families. The company will pilot the tool with Mayo Clinic starting next month. The post New Startup Launches to Close the Bedside Communication Gap in Hospitals appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-12T23:42:24+00:00",
+    "date_str": "Aug 12, 2026"
+  },
+  {
+    "title": "Report: Employers’ Use of Big Three PBMs Falls in 2026",
+    "url": "https://medcitynews.com/2026/08/report-employers-use-of-big-three-pbms-falls-in-2026/",
+    "summary": "A new survey finds that employers are moving away from the Big Three PBMs while prioritizing healthcare affordability and transparency. The post Report: Employers’ Use of Big Three PBMs Falls in 2026 appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-12T23:41:21+00:00",
+    "date_str": "Aug 12, 2026"
+  },
+  {
+    "title": "Talks on launch of clinical trial of Ebola vaccine in DRC advance, WHO says",
+    "url": "https://www.statnews.com/2026/08/12/ebola-who-drc-ebola-vaccine-trial/?utm_campaign=rss",
+    "summary": "Talks are underway between the Democratic Republic of the Congo and the WHO to expedite the start of a multi-armed Phase 3 clinical trial of Ebola vaccines.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-12T20:46:29+00:00",
+    "date_str": "Aug 12, 2026"
+  },
+  {
+    "title": "Vaping and cannabis hit record highs among young adults in 2025: Survey",
+    "url": "https://www.statnews.com/2026/08/12/vaping-cannabis-use-rates-young-adults/?utm_campaign=rss",
+    "summary": "Young adults’ use of vapes and cannabis hit all-time highs last year, according to a new survey.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-12T20:30:36+00:00",
+    "date_str": "Aug 12, 2026"
+  },
+  {
+    "title": "STAT+: Providers notch No Surprises Act legal win that could boost their pay",
+    "url": "https://www.statnews.com/2026/08/12/texas-medical-association-no-surprises-act-lawsuit-qpa/?utm_campaign=rss",
+    "summary": "The change could boost how much health insurers, and patients, pay for some care.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-12T20:29:03+00:00",
+    "date_str": "Aug 12, 2026"
+  },
+  {
+    "title": "Trump administration’s new ‘treatment first’ addiction toolkit emphasizes faith, abstinence",
+    "url": "https://www.statnews.com/2026/08/12/addiction-homelessness-hhs-toolkit-harm-reduction/?utm_campaign=rss",
+    "summary": "The White House nods to use of addiction medications but moves away from other harm reduction strategies.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-12T19:43:40+00:00",
+    "date_str": "Aug 12, 2026"
+  },
+  {
+    "title": "Boston-area trial draws attention to post-partum psychosis",
+    "url": "https://www.npr.org/2026/08/12/nx-s1-5927479/boston-area-trial-draws-attention-to-post-partum-psychosis",
+    "summary": "A mom is on trial for killing her children. Her defense says she had post-partum psychosis. Psychiatrists hope the case brings attention to the need for better diagnosis and treatment for the illness.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-12T20:59:56+00:00",
+    "date_str": "Aug 12, 2026"
+  },
+  {
+    "title": "Trump's Vax Order Hands Some MAHA Voters a Win, but Gives Democrats an Attack Line",
+    "url": "https://www.medpagetoday.com/washington-watch/electioncoverage/122588",
+    "summary": "(MedPage Today) -- President Donald Trump pivoted the nation's attention back to vaccines this week with an executive order that aims to scale back the childhood immunization schedule and space out shots into separate visits. After acting to overhaul...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-12T21:41:56+00:00",
+    "date_str": "Aug 12, 2026"
+  },
+  {
+    "title": "Experts Flag Potential Safety Concerns in New Prader-Willi Drug",
+    "url": "https://www.medpagetoday.com/endocrinology/growthdisorders/122587",
+    "summary": "(MedPage Today) -- Prader-Willi syndrome experts are warning of potential safety risks associated with extended-release diazoxide choline (Vykat XR), a drug approved last year for treating the extreme bouts of hunger experienced by patients with...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-12T21:27:56+00:00",
+    "date_str": "Aug 12, 2026"
+  },
+  {
+    "title": "Stopping Statins in Trial Didn't Raise Mortality Risk, but ...",
+    "url": "https://www.medpagetoday.com/primarycare/geriatrics/122586",
+    "summary": "(MedPage Today) -- Experts were still unsure whether stopping primary prevention statins in the elderly was a good idea following the report of a modestly sized randomized trial. In Statins in the Elderly (SITE, also known as SAGA), statin discontinuation...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-12T21:04:49+00:00",
+    "date_str": "Aug 12, 2026"
+  },
+  {
+    "title": "Arthritis Pain Management Falls Short in U.S., CDC Study Suggests",
+    "url": "https://www.medpagetoday.com/rheumatology/arthritis/122585",
+    "summary": "(MedPage Today) -- Federal survey data for 2023 showed an estimated prevalence of moderate to severe joint pain among U.S. adults of 58.5%, suggesting that pain management in arthritis has a long way to go. Among the participants saying they had...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-12T20:11:30+00:00",
+    "date_str": "Aug 12, 2026"
+  },
+  {
+    "title": "Alzheimer's Risk Lower for Women on Estrogen-Only Menopausal Hormone Therapy",
+    "url": "https://www.medpagetoday.com/neurology/alzheimersdisease/122575",
+    "summary": "(MedPage Today) -- Women who used estrogen-only menopausal hormone therapy (MHT) had a reduced risk of Alzheimer's disease, according to a retrospective longitudinal study. Estrogen-only MHT users had lower odds of increased Alzheimer's pathology...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-12T20:00:00+00:00",
+    "date_str": "Aug 12, 2026"
+  },
+  {
+    "title": "Psych Meds Scrutinized in Murder Trial; LSD's Phase III Win; Bipolar Mortality Study",
+    "url": "https://www.medpagetoday.com/psychiatry/generalpsychiatry/122583",
+    "summary": "(MedPage Today) -- A focus this week in the murder trial of former nurse Lindsay Clancy turned to the psychiatric medications she was taking prior to killing her three children. (AP) The Department of Veterans Affairs announced the launch of PIVOT...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-12T18:43:53+00:00",
+    "date_str": "Aug 12, 2026"
+  },
+  {
+    "title": "Pediatric Glioma Trials Test Combination Strategies to Overcome Resistance",
+    "url": "https://www.medpagetoday.com/meetingcoverage/ispnovideopearls/122582",
+    "summary": "(MedPage Today) -- At the International Symposium on Pediatric Neuro-Oncology (ISPNO), researchers presented findings from two trials aimed at overcoming resistance to standard BRAF/MEK-targeted therapies in patients with pediatric low-grade gliomas...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-12T18:24:39+00:00",
+    "date_str": "Aug 12, 2026"
+  },
+  {
+    "title": "Doctors Born Outside U.S. Play Big Role in Caring for Underserved Patients",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/workforce/122581",
+    "summary": "(MedPage Today) -- Internal medicine physicians who were not born in the U.S. treated 22 million Medicare beneficiaries in 2024, but Trump administration immigration policies may put a dent in that workforce, exacerbating care shortages for the...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-12T18:09:32+00:00",
+    "date_str": "Aug 12, 2026"
+  },
+  {
+    "title": "Healthcare CFOs face decision readiness gap: Deloitte",
+    "url": "https://www.healthcaredive.com/news/healthcare-cfos-face-decision-readiness-gap-deloitte/827740/",
+    "summary": "The findings could reflect a “mismatch” between expanding expectations for CFOs and the support systems available to finance teams, Deloitte said.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-12T18:08:47+00:00",
+    "date_str": "Aug 12, 2026"
+  },
+  {
+    "title": "UC San Diego Health, West Health launch $40M accelerator for 'tech-forward' coordinated care",
+    "url": "https://www.fiercehealthcare.com/providers/uc-san-diego-health-west-health-launch-40m-accelerator-tech-forward-coordinated-care",
+    "summary": "The academic system and the nonprofit plan to develop a scalable model for timely, personalized care delivery, with an emphasis on care navigation and digital health tools.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-13T01:53:18.544894+00:00",
+    "date_str": "Aug 13, 2026"
+  },
+  {
+    "title": "Appeals court tosses methodology for calculating NSA qualifying payment amounts",
+    "url": "https://www.fiercehealthcare.com/regulatory/appeals-court-tosses-methodology-calculating-nsa-qualifying-payment-amounts",
+    "summary": "A federal appeals court has tossed key methodology used to resolve out-of-network claims under the No Surprises Act.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-13T01:53:18.544942+00:00",
+    "date_str": "Aug 13, 2026"
+  },
+  {
+    "title": "Antelope Recovery, offering SUD care for teens, to expand Spanish services in Colorado",
+    "url": "https://www.fiercehealthcare.com/digital-health/antelope-recovery-gets-colorado-opioid-settlement-funds-expand-spanish-services",
+    "summary": "Antelope Recovery offers mental health treatment for criminal justice-involved teens. The latest funding will also be used to develop additional programming specific to the challenges these youth face.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-13T01:53:18.544976+00:00",
+    "date_str": "Aug 13, 2026"
+  },
+  {
+    "title": "Senators introduce bipartisan legislation to further antimicrobial resistance research",
+    "url": "https://www.fiercehealthcare.com/regulatory/senators-introduce-bipartisan-legislation-further-antimicrobial-resistance-research",
+    "summary": "The bill was introduced alongside a report that found “superbugs” can cost the U.S. at least $5.7 billion each year.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-13T01:53:18.545046+00:00",
+    "date_str": "Aug 13, 2026"
+  },
+  {
     "title": "Startup Boulevard Bio Launches With Immune Reset Pioneer Schett as Co-Founder",
     "url": "https://medcitynews.com/2026/08/deerfield-management-startup-boulevard-bio-georg-schett-immunology-inflammation-immune-reset-3dc/",
     "summary": "Deerfield Management formed Boulevard Bio with scientific co-founders Georg Schett and Frank Nestle. The startup’s lead program is in early clinical development for an autoimmune kidney disorder, and could offer dosing advantages over a recently approved Vera Therapeutics medicine and a Vertex Pharmaceuticals drug currently under FDA review. The post Startup Boulevard Bio Launches With Immune Reset Pioneer Schett as Co-Founder appeared first on MedCity News .",
@@ -2198,205 +2398,5 @@
     "category_slug": "industry-news",
     "date": "2026-08-07T15:03:41+00:00",
     "date_str": "Aug 07, 2026"
-  },
-  {
-    "title": "Budget Battle Erupts in Nation’s Capital Over Opioid Settlement Money",
-    "url": "https://kffhealthnews.org/public-health/washington-dc-opioid-settlements-medicaid-budget-supplantation/",
-    "summary": "Washington, D.C.’s 2027 fiscal-year blueprint reflects a debate playing out around the U.S.: whether opioid settlement money should be used to free up taxpayer dollars by paying for existing responsibilities instead of new programs.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-07T09:00:00+00:00",
-    "date_str": "Aug 07, 2026"
-  },
-  {
-    "title": "Watch: Why Abortions Are on the Rise Since ‘Roe’ Was Overturned",
-    "url": "https://kffhealthnews.org/courts/video-five-things-abortions-increase-since-roe-overturned/",
-    "summary": "The way people undergo abortions has changed. This video details five things to know.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-07T09:00:00+00:00",
-    "date_str": "Aug 07, 2026"
-  },
-  {
-    "title": "INVEST Digital Health Conference Returns with Focus on Consumers",
-    "url": "https://medcitynews.com/2026/08/invest-digital-health-conference-returns-with-focus-on-consumers/",
-    "summary": "Scheduled for October 29 at Pegasus Park in Dallas, the theme of the INVEST Digital Health conference will be consumers in healthcare from d2c diagnostics to GLP-1 drugs and wearables. Register today! The post INVEST Digital Health Conference Returns with Focus on Consumers appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-07T11:30:00+00:00",
-    "date_str": "Aug 07, 2026"
-  },
-  {
-    "title": "Is the biotech capital of the world moving?",
-    "url": "https://www.statnews.com/2026/08/07/biotech-news-boston-kendall-square-losing-ground-in-sf/?utm_campaign=rss",
-    "summary": "Replimune finally wins FDA approval, the role of tau in Alzheimer's, and more biotech news from The Readout",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-07T12:51:05+00:00",
-    "date_str": "Aug 07, 2026"
-  },
-  {
-    "title": "A third clinic settles with DOJ over trans care",
-    "url": "https://www.statnews.com/2026/08/07/health-news-a-third-clinic-settles-with-doj-over-trans-care/?utm_campaign=rss",
-    "summary": "Anthony Fauci held in contempt, crackdowns on the organ donor network, and more health news from Morning Rounds",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-07T12:16:46+00:00",
-    "date_str": "Aug 07, 2026"
-  },
-  {
-    "title": "Opinion: AI won’t enhance physician autonomy. It will further diminish it",
-    "url": "https://www.statnews.com/2026/08/07/medical-ai-doctors-autonomy/?utm_campaign=rss",
-    "summary": "“AI is not the villain here; it is a mirror,” reflecting the diminishment of physician judgment, writes former surgeon Frances Mei Hardin.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-07T08:30:00+00:00",
-    "date_str": "Aug 07, 2026"
-  },
-  {
-    "title": "Opinion: I was in my office when bullets hit the CDC. A year later, the agency remains under attack",
-    "url": "https://www.statnews.com/2026/08/07/cdc-shooting-anniversary-public-health-threats/?utm_campaign=rss",
-    "summary": "“It was briefly more dangerous to sit at a desk in Atlanta than to chase a hemorrhagic fever in the field,” writes Daniel Jernigan.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-07T08:30:00+00:00",
-    "date_str": "Aug 07, 2026"
-  },
-  {
-    "title": "STAT+: He grew up near Boston, went to Harvard, and worked at MIT. Why did he found his startup in California?",
-    "url": "https://www.statnews.com/2026/08/07/why-did-this-boston-entrepreneur-found-his-biotech-startup-in-california/?utm_campaign=rss",
-    "summary": "Boston, with its rising costs, high taxes, and business climate, is losing ground to rivals across the country, sometimes even in biotech.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-07T08:30:00+00:00",
-    "date_str": "Aug 07, 2026"
-  },
-  {
-    "title": "A new vaccine could vanquish a major cause of deadly diarrheal disease",
-    "url": "https://www.npr.org/2026/08/07/g-s1-137456/diarrhea-disease-vaccine-childhood-deaths-shigella",
-    "summary": "Over 1 million people a year die from diarrheal disease. Nearly half are kids under age 5. A new vaccine in trials offers great hope.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-07T11:36:33+00:00",
-    "date_str": "Aug 07, 2026"
-  },
-  {
-    "title": "Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'",
-    "url": "https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials",
-    "summary": "Researchers warn betting on clinical trials could incentivize insider trading and interfere with drug development. But Kalshi and Polymarket say they provide valuable information to patients.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-07T10:00:00+00:00",
-    "date_str": "Aug 07, 2026"
-  },
-  {
-    "title": "Everyone's talking about hormone therapy for menopause. Should I be on it?",
-    "url": "https://www.npr.org/2026/08/07/nx-s1-5922746/menopause-hormone-therapy-hrt-heart",
-    "summary": "For years, doctors advised against hormone therapy for women in the menopausal transition. Now everyone's talking about how great it is. Is it really a wonder drug that women should all be on?",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-07T10:00:00+00:00",
-    "date_str": "Aug 07, 2026"
-  },
-  {
-    "title": "Supplements are a fast-growing industry, but there's little evidence on effectiveness",
-    "url": "https://www.npr.org/2026/08/07/nx-s1-5912179/supplements-are-a-fast-growing-industry-but-theres-little-evidence-on-effectiveness",
-    "summary": "Supplements are a $70 billion industry that's growing fast. But there's little evidence that many supplements actually do what they promise.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-07T08:41:38+00:00",
-    "date_str": "Aug 07, 2026"
-  },
-  {
-    "title": "Best Gastro Hospitals; GI Bleeding in Jehovah's Witnesses; Steroids for DILI",
-    "url": "https://www.medpagetoday.com/gastroenterology/generalgastroenterology/122509",
-    "summary": "(MedPage Today) -- U.S. News & World Report released its 2026 \"Best Hospitals\" list for gastroenterology and gastrointestinal (GI) surgery. Spoiler alert: The Mayo Clinic in Rochester, Minnesota, snagged the top spot. The FDA said the cyclosporiasis...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-06T14:46:25+00:00",
-    "date_str": "Aug 06, 2026"
-  },
-  {
-    "title": "Committee Holds Fauci in Contempt; Outbreak Hospitalizes 36; ICE Detains Nurse",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/122508",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. A Senate committee voted today to hold Anthony Fauci, MD, in contempt of Congress and refer him to the Justice Department for potential prosecution after he declined...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-06T13:46:42+00:00",
-    "date_str": "Aug 06, 2026"
-  },
-  {
-    "title": "Senate Committee Votes to Hold Fauci in Contempt",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/122507",
-    "summary": "(MedPage Today) -- A Senate committee on Thursday voted to hold Anthony Fauci, MD, in contempt of Congress and refer him to the Justice Department for potential prosecution over his refusal to answer questions at a hearing last week focused on...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-06T13:34:14+00:00",
-    "date_str": "Aug 06, 2026"
-  },
-  {
-    "title": "Medicaid Work Rule Leaves Homeless People in the Cold",
-    "url": "https://kffhealthnews.org/medicaid/medicaid-work-requirements-rules-montana-homeless-people-exemption/",
-    "summary": "Conservatives who have long pushed for Medicaid work requirements often said vulnerable people would get a pass. But the federal government’s list of exemptions left off homeless people.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-06T09:00:00+00:00",
-    "date_str": "Aug 06, 2026"
-  },
-  {
-    "title": "Watch: Democratic Senator Proposes a Fix for American Healthcare — Covering All Kids",
-    "url": "https://kffhealthnews.org/health-care-costs/interview-senator-andy-kim-healthcare-fix-children-coverage/",
-    "summary": "Sen. Andy Kim of New Jersey wants to offer universal healthcare until age 26. He sat down with KFF Health News’ Julie Rovner to answer the question: “How Would You Fix It?”",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-06T09:00:00+00:00",
-    "date_str": "Aug 06, 2026"
-  },
-  {
-    "title": "Moderna Gets FDA Approval for mRNA Flu Vaccine, But CDC Input Still Uncertain",
-    "url": "https://medcitynews.com/2026/08/moderna-flu-vaccine-fda-approval-mflusiva-acip-cdc-mrna/",
-    "summary": "The FDA approved Moderna’s flu vaccine mFLUSIVA, a regulatory decision that comes six months after the agency refused to review the mRNA shot and then quickly reversed its position. But a recommendation from a Centers for Disease Control and Prevention advisory committee is key for payer coverage, and that committee has not met all year due to ongoing litigation. The post Moderna Gets FDA Approval for mRNA Flu Vaccine, But CDC Input Still Uncertain appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-06T23:11:39+00:00",
-    "date_str": "Aug 06, 2026"
-  },
-  {
-    "title": "Report: What Employers Think About ICHRAs",
-    "url": "https://medcitynews.com/2026/08/report-what-employers-think-about-ichras/",
-    "summary": "A new survey found that many employers are considering ICHRAs, though concerns about awareness, affordability and the individual insurance market continue to slow adoption. The post Report: What Employers Think About ICHRAs appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-06T22:21:39+00:00",
-    "date_str": "Aug 06, 2026"
-  },
-  {
-    "title": "Debunked Episode 29: CMS GLP-1 Drug Pilot Program, RPM Strategy Raise Questions",
-    "url": "https://medcitynews.com/2026/08/debunked-episode-29-cms-glp-1-drug-pilot-program-rpm-strategy-raise-questions/",
-    "summary": "At MedCity News’ inaugural Bullseye conference in Chicago, Debunked Podcast co-hosts Arundhati Parmar and Samir Batra discussed recent CMS actions and Mayo Clinic’s former research director, who has filed a complaint against the medical center over how it’s deploying AI. The post Debunked Episode 29: CMS GLP-1 Drug Pilot Program, RPM Strategy Raise Questions appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-06T18:28:03+00:00",
-    "date_str": "Aug 06, 2026"
   }
 ]
