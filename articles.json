@@ -1,5 +1,35 @@
 [
   {
+    "title": "New Polymyalgia Rheumatica Treatment; Genetic Treatment for Hypercholesterolemia",
+    "url": "https://www.medpagetoday.com/podcasts/healthwatch/122619",
+    "summary": "(MedPage Today) -- TTHealthWatch is a weekly podcast from Texas Tech. In it, Elizabeth Tracey, director of electronic media for Johns Hopkins Medicine in Baltimore, and Rick Lange, MD, president of Texas Tech Health El Paso, look at the top medical...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-15T18:00:00+00:00",
+    "date_str": "Aug 15, 2026"
+  },
+  {
+    "title": "Doctors Will Bear Witness to the Childhood Suffering",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/122616",
+    "summary": "(MedPage Today) -- We are living in truly unprecedented times. On August 10, President Trump signed an executive order aimed at reshaping the nation's childhood immunization schedule, including directing HHS to pursue separate measles, mumps, and...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-15T16:00:00+00:00",
+    "date_str": "Aug 15, 2026"
+  },
+  {
+    "title": "Before Killing Her Kids, Lindsay Clancy Searched About Hallucinations, Psychosis",
+    "url": "https://www.medpagetoday.com/nursing/nursing/122624",
+    "summary": "(MedPage Today) -- Editor's Note: This story includes discussion of suicide. If you or someone you know needs help, the national suicide and crisis lifeline in the U.S. is available by calling or texting 988. Lindsay Clancy searched online about...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-15T14:00:00+00:00",
+    "date_str": "Aug 15, 2026"
+  },
+  {
     "title": "Gounder Brings Clarity to Egg Freezing, AI Virus Creation, and New Trump Vaccine Order",
     "url": "https://kffhealthnews.org/on-air/on-air-august-15-2026-public-health-vaccines-egg-freezing-organ-donation/",
     "summary": "KFF Health News editor-at-large for public health Céline Gounder made several TV appearances recently to discuss topical stories. Here’s a roundup.",
@@ -2367,36 +2397,6 @@
     "category": "Industry News",
     "category_slug": "industry-news",
     "date": "2026-08-10T23:48:15+00:00",
-    "date_str": "Aug 10, 2026"
-  },
-  {
-    "title": "American Academy of Pediatrics calls Trump vaccine order 'dangerous'",
-    "url": "https://thehill.com/policy/healthcare/6021511-aap-blasts-trump-vaccine-directive/",
-    "summary": "The president of the American Academy of Pediatrics blasted President Trump’s Monday executive order calling for fewer childhood vaccines. \"As measles cases reach a 35-year high in the U.S. and with cold and flu season quickly approaching, today's executive order on vaccines is not only disheartening but dangerous,” Dr. Andrew Racine said in a release. ...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-10T23:03:48+00:00",
-    "date_str": "Aug 10, 2026"
-  },
-  {
-    "title": "What to know about Trump's vaccine executive order",
-    "url": "https://thehill.com/policy/healthcare/6021466-trump-signs-vaccine-order/",
-    "summary": "President Trump signed an executive order Monday advancing \"Make America Healthy Again\" vaccine priorities, issuing recommendations to split up combined vaccines and to reduce the number of childhood immunizations. \"Effective immediately, my administration is recognizing gold standard childhood vaccine recommendations for only 11 core vaccinations against the most serious and dangerous diseases, along with the MMR,...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-10T22:40:28+00:00",
-    "date_str": "Aug 10, 2026"
-  },
-  {
-    "title": "Cassidy blasts vaccine order, saying Trump has no 'expertise to make these changes'",
-    "url": "https://thehill.com/homenews/senate/6021261-cassidy-trump-mmr-vaccine-order/",
-    "summary": "Sen. Bill Cassidy (R-La.) blasted an executive order President Trump signed Monday that splits the measles, mumps and rubella (MMR) shot across three separate visits. “I’m a doctor. This executive order is wrong. The President does not have the expertise to make these changes. Vaccines are overwhelmingly safe. Vaccines are effective. Vaccines DO NOT cause...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-10T20:50:00+00:00",
     "date_str": "Aug 10, 2026"
   }
 ]
