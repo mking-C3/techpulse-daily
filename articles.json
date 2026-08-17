@@ -1,5 +1,45 @@
 [
   {
+    "title": "The Reimbursement Challenges Hurting Women’s Health Companies, Per Milken Institute",
+    "url": "https://medcitynews.com/2026/08/the-reimbursement-challenges-hurting-womens-health-companies-per-milken-institute/",
+    "summary": "Women’s health startups should plan for reimbursement early, as limited research and evidence can make securing coverage difficult, a new report explains. The post The Reimbursement Challenges Hurting Women’s Health Companies, Per Milken Institute appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-16T22:29:50+00:00",
+    "date_str": "Aug 16, 2026"
+  },
+  {
+    "title": "Vogenx IPO Raises $81M for Trial in Metabolic Disease With No Approved Drugs",
+    "url": "https://medcitynews.com/2026/08/vogenx-ipo-post-bariatric-hypoglycemia-pbh-mizagliflozin-metabolic-disorder-vogx/",
+    "summary": "Vogenx’s mizagliflozin is heading into Phase 2b testing for post-bariatric hypoglycemia (PBH). Amylyx Pharmaceuticals and Recordati are developing injectable peptide drugs for this metabolic disorder, but Vogenx aims to stand apart by offering patients a different mechanism of action and oral dosing. The post Vogenx IPO Raises $81M for Trial in Metabolic Disease With No Approved Drugs appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-16T22:03:18+00:00",
+    "date_str": "Aug 16, 2026"
+  },
+  {
+    "title": "'Same Disease, Very Different Access': What We Heard This Week",
+    "url": "https://www.medpagetoday.com/opinion/what-we-heard/122620",
+    "summary": "(MedPage Today) -- \"Same disease, very different access.\" -- Fei Wang, PhD, of Breakthrough T1D in St. Leonards, Australia, discussing the state-by-state disparities in the U.S. in terms of type 1 diabetes incidence and access to pediatric endocrinologists...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-16T20:00:00+00:00",
+    "date_str": "Aug 16, 2026"
+  },
+  {
+    "title": "Cassidy on Trump's vaccine order, 'crazy, stupid' claims: 'This is why the president's poll numbers are going down'",
+    "url": "https://thehill.com/policy/healthcare/6032232-cassidy-slams-trump-vaccine-order/",
+    "summary": "Sen. Bill Cassidy (R-La.) on Sunday said President Trump's executive order that seeks to alter the childhood vaccine schedule is based on \"crazy, stupid\" claims, and that is \"why the president's poll numbers are going down.\" During Cassidy's appearance on CNN's \"State of the Union\" Sunday, host Jake Tapper reiterated the GOP senator's words in saying that...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-16T20:13:41+00:00",
+    "date_str": "Aug 16, 2026"
+  },
+  {
     "title": "Better Models Won’t Fix Pharma’s AI Problem — Better Terminology Will",
     "url": "https://medcitynews.com/2026/08/better-models-wont-fix-pharmas-ai-problem-better-terminology-will/",
     "summary": "The bottleneck in AI-enabled real-world data analysis is not computation, model architecture, or training data volume. It is the semantic layer over which the AI is trying to reason – the place where precise clinical meaning lives. The post Better Models Won’t Fix Pharma’s AI Problem — Better Terminology Will appeared first on MedCity News .",
@@ -2357,46 +2397,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-08-10T19:29:51+00:00",
-    "date_str": "Aug 10, 2026"
-  },
-  {
-    "title": "Trump and RFK Jr. try again to upend vaccines for kids",
-    "url": "https://www.npr.org/2026/08/10/nx-s1-5927313/trump-rfk-jr-vaccines-autism-executive-order",
-    "summary": "President Trump signed an executive order on Monday about vaccines, saying children should get fewer. His administration has been blocked in the courts from changing the vaccine schedule.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-10T20:25:02+00:00",
-    "date_str": "Aug 10, 2026"
-  },
-  {
-    "title": "Trump Issues Controversial Order on Vaccines, Suggests Autism Link",
-    "url": "https://www.medpagetoday.com/pediatrics/vaccines/122557",
-    "summary": "(MedPage Today) -- President Trump signed an executive order that shrinks the number of universally recommended vaccines for children, calls for splitting up the measles, mumps, and rubella (MMR) shot, and says each vaccination should occur at...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-10T21:37:57+00:00",
-    "date_str": "Aug 10, 2026"
-  },
-  {
-    "title": "Post-Transplant Outcomes in Hodgkin Lymphoma Improved Over Time",
-    "url": "https://www.medpagetoday.com/hematologyoncology/lymphoma/122556",
-    "summary": "(MedPage Today) -- Outcomes have substantially improved over time in patients with relapsed or refractory classical Hodgkin lymphoma who underwent hematopoietic cell transplantation (HCT), according to a retrospective, registry-based cohort study...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-10T21:28:20+00:00",
-    "date_str": "Aug 10, 2026"
-  },
-  {
-    "title": "Most Older Diabetics Don't Get Recommended Medication Tweaks",
-    "url": "https://www.medpagetoday.com/endocrinology/diabetes/122555",
-    "summary": "(MedPage Today) -- Most older adults with type 2 diabetes whose HbA1c level was outside the American Diabetes Association (ADA)-recommended target did not have their medications adjusted, a review of electronic health records indicated. Among...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-10T21:11:27+00:00",
     "date_str": "Aug 10, 2026"
   }
 ]
