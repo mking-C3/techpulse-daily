@@ -1,5 +1,15 @@
 [
   {
+    "title": "Four health systems, including Ochsner and Denver Health, go live with Epic's real-time prior authorization checks",
+    "url": "https://www.fiercehealthcare.com/health-tech/ochsner-summit-health-among-health-systems-launch-real-time-prior-authorization-checks",
+    "summary": "UnitedHealthcare, Network Health and Aetna are among the first group of health plans to go live with the API, while Ochsner Health, Froedtert ThedaCare Health, Denver Health and Summit Health are the four health systems now using the real-time prior auth checks.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-18T06:40:30.058844+00:00",
+    "date_str": "Aug 18, 2026"
+  },
+  {
     "title": "KFF: Insurers Denied 12%-18% of Prior Authorization Requests in 2025",
     "url": "https://medcitynews.com/2026/08/kff-insurers-denied-12-18-of-prior-authorization-requests-in-2025/",
     "summary": "KFF found that insurers denied 12%-18% of standard prior authorization requests in 2025, with significant variation among insurers and gaps in transparency. The post KFF: Insurers Denied 12%-18% of Prior Authorization Requests in 2025 appeared first on MedCity News .",
@@ -2387,16 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-08-11T22:30:00+00:00",
-    "date_str": "Aug 11, 2026"
-  },
-  {
-    "title": "CDC Warns of Severe Arboviral Disease With B-Cell Drugs",
-    "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/122572",
-    "summary": "(MedPage Today) -- The CDC on Tuesday warned doctors about the risk for severe arboviral neuroinvasive disease in patients on B cell-depleting or modulating agents, calling out anti-CD20 monoclonal antibodies in particular. Published case reports...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-11T21:39:32+00:00",
     "date_str": "Aug 11, 2026"
   }
 ]
