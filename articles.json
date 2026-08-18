@@ -1,5 +1,105 @@
 [
   {
+    "title": "Drive for Nuclear Power Boosts Uranium Industry — And Tribal Health Concerns in Southwest",
+    "url": "https://kffhealthnews.org/public-health/tribal-health-concerns-utah-uranium-mining-industry/",
+    "summary": "Federal efforts to revive uranium mining in the West and decrease reliance on Russian uranium are raising concerns about drinking water for tribal communities reckoning with the industry’s deadly legacy.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-18T09:00:00+00:00",
+    "date_str": "Aug 18, 2026"
+  },
+  {
+    "title": "What Geriatric Emergency Departments Do Differently",
+    "url": "https://kffhealthnews.org/aging/geriatric-emergency-departments-explained-new-old-age/",
+    "summary": "These specialized units can help keep older patients out of the hospital, lower their healthcare costs, and more.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-18T09:00:00+00:00",
+    "date_str": "Aug 18, 2026"
+  },
+  {
+    "title": "STAT+: Amylyx endocrine drug succeeds in pivotal study",
+    "url": "https://www.statnews.com/2026/08/18/amylyx-endocrine-drug-succeeds-in-pivotal-study-avexitide-bariatric-surgery-patients/?utm_campaign=rss",
+    "summary": "In a Phase 3 trial of people with post-bariatric hypoglycemia, those taking the drug, avexitide, experienced a 55% reduction in the rate of serious low blood sugar events compared with…",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-18T11:01:00+00:00",
+    "date_str": "Aug 18, 2026"
+  },
+  {
+    "title": "STAT+: A pill that mimics exercise? Early results on drug designed to maintain both weight loss and muscle mass",
+    "url": "https://www.statnews.com/2026/08/18/enveda-pill-mimics-exercise-phase-one-trial-leptin-weight-loss-maintenance/?utm_campaign=rss",
+    "summary": "Colorado biotech Enveda reports preliminary results on a drug to help people maintain weight loss after GLP-1 use. Just don't call it exercise in a pill.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-18T10:00:00+00:00",
+    "date_str": "Aug 18, 2026"
+  },
+  {
+    "title": "STAT+: Doritos as farm-to-table snacks? Big Food, under duress, gets creative",
+    "url": "https://www.statnews.com/2026/08/18/farm-to-table-doritos-ultra-processed-food-ad-campaign-healthwashing/?utm_campaign=rss",
+    "summary": "Doritos in the classic nacho cheese flavor have 27 ingredients, including not just familiar ones but also a number of additives and preservatives.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-18T08:30:00+00:00",
+    "date_str": "Aug 18, 2026"
+  },
+  {
+    "title": "Opinion: 8 steps to making surrogacy more ethical for everyone involved",
+    "url": "https://www.statnews.com/2026/08/18/mckenna-west-surrogacy-laws-ethics/?utm_campaign=rss",
+    "summary": "“Everything about the West case shows how miserably surrogacy has been managed in America,” writes Arthur Caplan.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-18T08:30:00+00:00",
+    "date_str": "Aug 18, 2026"
+  },
+  {
+    "title": "Opinion: In parts of the world, antibiotic overuse isn’t the problem — underuse is",
+    "url": "https://www.statnews.com/2026/08/18/antibiotic-underuse-overuse-resistance-aware/?utm_campaign=rss",
+    "summary": "“Like climate change, antimicrobial resistance is a global challenge, but its causes and consequences are unevenly distributed,” writes GARDP’s Peter Beyer.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-18T08:30:00+00:00",
+    "date_str": "Aug 18, 2026"
+  },
+  {
+    "title": "STAT+: How health care costs are undermining America’s public-sector employers",
+    "url": "https://www.statnews.com/2026/08/18/public-sector-employees-health-care-costs-out-of-pocket-series-part-4/?utm_campaign=rss",
+    "summary": "Politicians are contemplating raising taxes and cutting benefits as the cost of health care for government workers surges.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-18T08:30:00+00:00",
+    "date_str": "Aug 18, 2026"
+  },
+  {
+    "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+    "url": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
+    "summary": "A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-18T09:00:00+00:00",
+    "date_str": "Aug 18, 2026"
+  },
+  {
+    "title": "Papa, eternalHealth expand partnership around Plus platform",
+    "url": "https://www.fiercehealthcare.com/payers/papa-eternalhealth-expand-partnership-around-plus-platform",
+    "summary": "Papa is expanding its relationship with eternalHealth, with the Boston-based insurer signing on for three core services from its Papa Plus platform.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-18T12:42:09.800127+00:00",
+    "date_str": "Aug 18, 2026"
+  },
+  {
     "title": "Four health systems, including Ochsner and Denver Health, go live with Epic's real-time prior authorization checks",
     "url": "https://www.fiercehealthcare.com/health-tech/ochsner-summit-health-among-health-systems-launch-real-time-prior-authorization-checks",
     "summary": "UnitedHealthcare, Network Health and Aetna are among the first group of health plans to go live with the API, while Ochsner Health, Froedtert ThedaCare Health, Denver Health and Summit Health are the four health systems now using the real-time prior auth checks.",
@@ -2298,105 +2398,5 @@
     "category_slug": "drug-coverage",
     "date": "2026-08-12T13:06:07.962712+00:00",
     "date_str": "Aug 12, 2026"
-  },
-  {
-    "title": "Healthcare CFOs face growing decision-making expectations. Many say they aren't ready",
-    "url": "https://www.fiercehealthcare.com/finance/healthcare-cfos-face-growing-decision-making-expectations-many-say-they-arent-ready",
-    "summary": "Healthcare chief financial officers often say they are expected to be substantially involved in a broad range of enterprise decision-making, though many don’t believe they are appropriately equipped to contribute.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-12T13:06:07.962752+00:00",
-    "date_str": "Aug 12, 2026"
-  },
-  {
-    "title": "Trump puts vaccines on front burner ahead of crucial midterms for GOP",
-    "url": "https://thehill.com/policy/healthcare/6023575-trump-vaccines-order-gop-risks-midterms/",
-    "summary": "The Trump administration has thrust vaccine policy back into the headlines just three months before the midterm elections, potentially complicating matters for vulnerable Republicans who are hoping to keep control of Congress. President Trump on Monday doubled down on his attempt to overhaul the childhood vaccine schedule with an executive order aimed at reducing...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-12T10:00:00+00:00",
-    "date_str": "Aug 12, 2026"
-  },
-  {
-    "title": "Health IT Vendor’s Data Breach Exposes Nearly 4M Patient Records",
-    "url": "https://medcitynews.com/2026/08/data-breach-cyebrsecurity-healthcare/",
-    "summary": "Revenue cycle vendor Unlimited Technology Systems disclosed a ransomware attack affecting 3.8 million patients — the second-largest healthcare data breach reported to HHS this year. The post Health IT Vendor’s Data Breach Exposes Nearly 4M Patient Records appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-12T03:46:15+00:00",
-    "date_str": "Aug 12, 2026"
-  },
-  {
-    "title": "Claims data transparency empowers employers to act on affordability: survey",
-    "url": "https://www.fiercehealthcare.com/payers/claims-data-transparency-empowers-employers-act-affordability-survey",
-    "summary": "Employers that have access to key data on their healthcare spending and costs are more likely to take steps to address affordability and pharmacy benefit transparency, a new survey shows.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-12T07:22:28.669114+00:00",
-    "date_str": "Aug 12, 2026"
-  },
-  {
-    "title": "NOCD Announces Plans for National Expansion of Intensive Outpatient Therapy",
-    "url": "https://medcitynews.com/2026/08/nocd-announces-plans-for-national-expansion-of-intensive-outpatient-therapy/",
-    "summary": "NOCD, a virtual provider for OCD, announced plans to expand its virtual intensive outpatient program for people with severe OCD nationwide. The post NOCD Announces Plans for National Expansion of Intensive Outpatient Therapy appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-11T23:14:49+00:00",
-    "date_str": "Aug 11, 2026"
-  },
-  {
-    "title": "Infinimmune Secures $75M for a More Human Approach to Developing Better Antibody Drugs",
-    "url": "https://medcitynews.com/2026/08/infinimmune-antibody-startup-immunology-inflammation-atopic-dermatitis-eczema/",
-    "summary": "Immunology startup Infinimmune is developing antibody drugs with potential advantages over traditional monoclonal antibodies. The Series A financing will support two lead programs entering the clinic in atopic dermatitis. The post Infinimmune Secures $75M for a More Human Approach to Developing Better Antibody Drugs appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-11T21:26:28+00:00",
-    "date_str": "Aug 11, 2026"
-  },
-  {
-    "title": "Stopping statins in people over 75 at low risk for heart disease didn’t increase deaths",
-    "url": "https://www.statnews.com/2026/08/11/stop-statins-age-75-lancet-study-suggests-safe-healthy-adults/?utm_campaign=rss",
-    "summary": "Stopping statins in people over 75 at low risk for heart disease didn’t increase deaths, a new study finds.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-11T22:30:00+00:00",
-    "date_str": "Aug 11, 2026"
-  },
-  {
-    "title": "Medicaid will stop paying for some gender-affirming care for transgender minors",
-    "url": "https://www.statnews.com/2026/08/11/medicaid-to-end-funding-gender-affirming-care-transgender-youth/?utm_campaign=rss",
-    "summary": "The Trump administration plans to end federal funding for some care for transgender minors.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-11T22:18:55+00:00",
-    "date_str": "Aug 11, 2026"
-  },
-  {
-    "title": "5 questions parents may have after Trump's latest vaccine move",
-    "url": "https://www.npr.org/2026/08/11/nx-s1-5928121/vaccine-schedule-trump-executive-order-parents-confusion",
-    "summary": "Parents may be confused about the status of vaccines for their kids after President Trump's new executive order. It's important to know nothing is changing right away.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-11T20:20:25+00:00",
-    "date_str": "Aug 11, 2026"
-  },
-  {
-    "title": "COVID Excess Deaths Paper Retracted Over Misinformation",
-    "url": "https://www.medpagetoday.com/infectiousdisease/covid19/122571",
-    "summary": "(MedPage Today) -- BMJ Public Health retracted a study on excess mortality during the COVID-19 pandemic that appeared to suggest vaccination and other countermeasures as a possible explanation, following an investigation by the journal and the...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-11T22:30:00+00:00",
-    "date_str": "Aug 11, 2026"
   }
 ]
