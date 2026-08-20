@@ -1,5 +1,125 @@
 [
   {
+    "title": "Violence Against Healthcare Workers and Staffing Shortages Fuel Hospital Strikes",
+    "url": "https://kffhealthnews.org/health-industry/workplace-violence-healthcare-nurses-hospitals-strikes/",
+    "summary": "Healthcare workers at a Michigan hospital have been on strike since last September. Violence on the job is one reason behind it, with federal data showing hospital workers are seven times as likely to be injured on the job due to violent acts as members of the general working population.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-20T09:00:00+00:00",
+    "date_str": "Aug 20, 2026"
+  },
+  {
+    "title": "How Much of a Cancer Drug Is Too Much? Patients, Researchers Challenge FDA-Approved Dosages",
+    "url": "https://kffhealthnews.org/health-industry/cancer-drug-immunotherapy-fda-approved-dosages-challenged-keytruda-opdivo/",
+    "summary": "Patients and researchers point to evidence that many cancer drug dosages are excessive, and that reducing the amount and frequency could save billions of dollars and prevent some of the worst side effects.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-20T09:00:00+00:00",
+    "date_str": "Aug 20, 2026"
+  },
+  {
+    "title": "STAT+: One of the most consequential years for cancer treatment, ever",
+    "url": "https://www.statnews.com/2026/08/20/cancer-vaccine-merck-moderna-biotech-observations/?utm_campaign=rss",
+    "summary": "Between success with a pancreatic cancer drug and now success with an mRNA neoantigen vaccine, it has been a banner year for developing cancer therapies.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-20T10:30:00+00:00",
+    "date_str": "Aug 20, 2026"
+  },
+  {
+    "title": "STAT+: Capricor Therapeutics’ Duchenne treatment is heading for an FDA rejection",
+    "url": "https://www.statnews.com/2026/08/20/capricor-therapeutics-duchenne-treatment-fda/?utm_campaign=rss",
+    "summary": "Capricor Therapeutics is trying to stave off FDA rejection of its cell therapy for Duchenne muscular dystrophy.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-20T10:30:00+00:00",
+    "date_str": "Aug 20, 2026"
+  },
+  {
+    "title": "STAT+: How health systems are embracing chatbots to query and summarize patient records",
+    "url": "https://www.statnews.com/2026/08/20/health-systems-embrace-ai-chatbots-query-patient-records-ehr/?utm_campaign=rss",
+    "summary": "Several large health systems are rolling out AI chatbots to query patient records, because they can save time and increase diagnostic accuracy.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-20T08:30:00+00:00",
+    "date_str": "Aug 20, 2026"
+  },
+  {
+    "title": "Opinion: Capricor’s Duchenne muscular dystrophy drug and the countless tiny decisions that can make or break a study",
+    "url": "https://www.statnews.com/2026/08/20/capricor-deramiocel-duchenne-muscular-dystrophy-rare-disease-studies-decisions/?utm_campaign=rss",
+    "summary": "“Regulatory flexibility can be exercised in rare disease without sacrificing rigor,” writes Mindy Leffler, whose son has Duchenne muscular dystrophy.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-20T08:30:00+00:00",
+    "date_str": "Aug 20, 2026"
+  },
+  {
+    "title": "Reduce protein to increase longevity? Nutrition experts say that’s a bad idea",
+    "url": "https://www.statnews.com/2026/08/20/reduce-protein-increase-longevity-bad-idea-nutrition-experts/?utm_campaign=rss",
+    "summary": "Reducing protein intake could increase human longevity, researchers recently suggested. That's a bad idea, for several reasons, experts say.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-20T08:30:00+00:00",
+    "date_str": "Aug 20, 2026"
+  },
+  {
+    "title": "Can reclassifying muscle dysmorphia unlock better care for boys and men?",
+    "url": "https://www.statnews.com/2026/08/20/reclassify-muscle-dysmorphia-eating-disorder-uscf-expert-jason-nagata/?utm_campaign=rss",
+    "summary": "Males make up about a third of the population struggling with eating disorders in the United States. While these conditions often start during the teen years, by some estimates, as…",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-20T08:30:00+00:00",
+    "date_str": "Aug 20, 2026"
+  },
+  {
+    "title": "Opinion: The global health aid architecture is collapsing. The faith economy isn’t",
+    "url": "https://www.statnews.com/2026/08/20/global-health-humanitarian-relief-faith-based-organizations-trump/?utm_campaign=rss",
+    "summary": "“Washington has rediscovered faith as a delivery mechanism. The bigger opportunity is faith as a source of capital,” writes Dr. Alaa Murabit.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-20T08:30:00+00:00",
+    "date_str": "Aug 20, 2026"
+  },
+  {
+    "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
+    "url": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
+    "summary": "One of the most famous dishes across West Africa is jollof rice — fragrant rice cooked down with spices, tomatoes and meat. But which version is best? A traveling festival aims to find out.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-20T09:00:00+00:00",
+    "date_str": "Aug 20, 2026"
+  },
+  {
+    "title": "They grew up with disability rights. Now, they're fighting to keep them",
+    "url": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
+    "summary": "Siblings Cody and Kaleigh Brendle have grown up with the right to community integration. Now, they worry those protections for people with disabilities like them are being eroded.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-20T09:00:00+00:00",
+    "date_str": "Aug 20, 2026"
+  },
+  {
+    "title": "New mRNA vaccine could reduce the recurrence and spread of skin cancer",
+    "url": "https://www.npr.org/2026/08/20/nx-s1-5937966/new-mrna-vaccine-could-reduce-the-recurrence-and-spread-of-skin-cancer",
+    "summary": "Merck and Moderna announced a successful late-stage trial for a melanoma vaccine. NPR's Leila Fadel talks to Dr. Robert Vonderheide of Penn Medicine and the American Association for Cancer Research.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-20T08:45:12+00:00",
+    "date_str": "Aug 20, 2026"
+  },
+  {
     "title": "Happy Health Snags $75M to Support Home-Based Care",
     "url": "https://medcitynews.com/2026/08/happy-health-snags-75m-to-support-home-based-care/",
     "summary": "Happy Health’s $75 million round was from ARCH Venture Partners and OpenLoop. The post Happy Health Snags $75M to Support Home-Based Care appeared first on MedCity News .",
@@ -2277,126 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-08-14T13:13:08+00:00",
-    "date_str": "Aug 14, 2026"
-  },
-  {
-    "title": "5th Circuit strikes down No Surprises billing benchmark in win for providers",
-    "url": "https://www.healthcaredive.com/news/5th-circuit-vacates-nsa-qpa-ghost-rate-tma-ruling/827771/",
-    "summary": "The court ruled Tuesday that insurers can’t include ghost rates or exclude bonus payments in calculating a metric used to determine reimbursement for out-of-network bills. That’s set to further inflate payouts to providers.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-13T12:58:19+00:00",
-    "date_str": "Aug 13, 2026"
-  },
-  {
-    "title": "CHAI creates work group to counter frontier AI model cybersecurity risks",
-    "url": "https://www.healthcaredive.com/news/chai-creates-work-group-to-counter-frontier-ai-model-cybersecurity-risks/827769/",
-    "summary": "CHAI plans to create playbooks to help organizations defend against — and leverage — these powerful systems.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-13T12:10:07+00:00",
-    "date_str": "Aug 13, 2026"
-  },
-  {
-    "title": "Insurers denied between 12% to 18% of prior authorization requests in 2025: KFF",
-    "url": "https://www.fiercehealthcare.com/payers/insurers-denied-between-12-18-prior-auth-requests-2025-kff",
-    "summary": "Researchers analyzed data from insurers in Medicare Advantage, Medicaid managed care and ACA Marketplace market segments—representing approximately 71 million enrollees.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-14T18:52:12.602663+00:00",
-    "date_str": "Aug 14, 2026"
-  },
-  {
-    "title": "Patient advocacy group sues AMA for open access to CPT system",
-    "url": "https://www.fiercehealthcare.com/regulatory/patient-advocacy-group-sues-ama-open-access-cpt-system",
-    "summary": "“We are asking the court to affirm a basic principle: No one can charge the public to access standards that are incorporated into state and federal law,\" said PatientRightsAdvocate.org Founder Cynthia Fisher.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-14T18:52:12.602723+00:00",
-    "date_str": "Aug 14, 2026"
-  },
-  {
-    "title": "Luigi Mangione pleads guilty in federal case over murder of UnitedHealthcare CEO Brian Thompson",
-    "url": "https://www.fiercehealthcare.com/payers/luigi-mangione-will-plead-guilty-federal-case-over-murder-unitedhealthcare-ceo-brian",
-    "summary": "The man accused of murdering UnitedHealthcare CEO Brian Thompson has pleaded guilty in the federal trial against him, per media reports.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-14T18:52:12.602753+00:00",
-    "date_str": "Aug 14, 2026"
-  },
-  {
-    "title": "Weekly Rundown: US News rates GLP-1 telehealth platforms; CHAI launches AI cybersecurity work group",
-    "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-us-news-world-report-debuts-glp-1-telehealth-platform-rankings-chai",
-    "summary": "Stay up to date on the latest in health tech, digital health and health AI news with this weekly brief.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-14T18:52:12.602780+00:00",
-    "date_str": "Aug 14, 2026"
-  },
-  {
-    "title": "Hippocratic AI rolls out platform to coordinate teams of conversational voice AI agents",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hippocratic-ai-rolls-out-agentic-orchestrators-coordinate-voice-ai-teams",
-    "summary": "For health plans, the AI teams support functions such as member onboarding, chronic care management and Star Ratings improvement. Provider-focused offerings target patient onboarding, care gap closure and inpatient and ambulatory workflows.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-14T18:52:12.602809+00:00",
-    "date_str": "Aug 14, 2026"
-  },
-  {
-    "title": "How many people actually have cyclosporiasis? Why it's so hard to track",
-    "url": "https://thehill.com/policy/healthcare/6028033-why-cyclosporiasis-cases-are-hard-to-track/",
-    "summary": "The current outbreak has been attributed to contaminated iceberg lettuce from central Mexico.",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-14T15:01:31+00:00",
-    "date_str": "Aug 14, 2026"
-  },
-  {
-    "title": "FDA assigns highest-risk Class I status for recall of nearly 1.6 million cartons of eggs",
-    "url": "https://thehill.com/policy/healthcare/6029894-fda-assigns-highest-risk-class-i-status-for-recall-of-nearly-1-6-million-cartons-of-eggs/",
-    "summary": "A Class I recall indicates “a situation in which there is a reasonable probability that the use of or exposure to a violative product will cause serious adverse health consequences or death,\" according to the FDA.",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-14T14:54:26+00:00",
-    "date_str": "Aug 14, 2026"
-  },
-  {
-    "title": "Vance urges DOJ investigation into hospitals over billing for transgender care",
-    "url": "https://thehill.com/policy/healthcare/6029844-vance-fraudulent-billing-gender-affirming-care/",
-    "summary": "The Trump administration accused dozens of hospitals, clinics and providers on Thursday of fraudulent billing for transgender health procedures and referred them to the Department of Justice (DOJ) for potential prosecution. The effort, led by Vice President Vance, combines two of the Trump administration’s top priorities: cracking down on alleged fraud and restricting gender-affirming care....",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-14T14:28:30+00:00",
-    "date_str": "Aug 14, 2026"
-  },
-  {
-    "title": "Trump Team’s Use of Arcane Budget Rule Threatens Medicaid Coverage",
-    "url": "https://kffhealthnews.org/medicaid/trump-cms-medicaid-expansion-1115-waivers-budget-neutrality-arkansas/",
-    "summary": "Coverage for hundreds of thousands of Arkansas Medicaid enrollees next year is in question after the Trump administration refused to renew a key state waiver. The state might not be the last to have to adjust to an arcane rule change under the One Big Beautiful Bill Act.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-14T09:00:00+00:00",
-    "date_str": "Aug 14, 2026"
-  },
-  {
-    "title": "My Husband Was Kicked Out of Hospice for Dying Too Slowly",
-    "url": "https://kffhealthnews.org/aging/hospice-eligibility-rebound-guide-discharge-appeals/",
-    "summary": "Some seriously ill patients improve on hospice. About 1 in 16 patients enrolled in hospice care lose eligibility as a result. Here’s how to get appropriate care after receiving a terminal diagnosis.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-14T09:00:00+00:00",
     "date_str": "Aug 14, 2026"
   }
 ]
