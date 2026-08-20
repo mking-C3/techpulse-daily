@@ -1,5 +1,215 @@
 [
   {
+    "title": "Happy Health Snags $75M to Support Home-Based Care",
+    "url": "https://medcitynews.com/2026/08/happy-health-snags-75m-to-support-home-based-care/",
+    "summary": "Happy Health’s $75 million round was from ARCH Venture Partners and OpenLoop. The post Happy Health Snags $75M to Support Home-Based Care appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-19T21:22:55+00:00",
+    "date_str": "Aug 19, 2026"
+  },
+  {
+    "title": "STAT+: How Trump loyalist Heidi Overton became the president’s pick to run the FDA",
+    "url": "https://www.statnews.com/2026/08/19/heidi-overton-fda-commissioner-nominee-competing-interests-ahead/?utm_campaign=rss",
+    "summary": "If she wins confirmation as FDA commissioner, Heidi Overton will face plenty of big challenges.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-19T20:03:20+00:00",
+    "date_str": "Aug 19, 2026"
+  },
+  {
+    "title": "STAT+: New CDC director tells staff she is prepared to speak ‘truth to power’",
+    "url": "https://www.statnews.com/2026/08/19/cdc-director-erica-schwartz-staff-meeting-truth-to-power/?utm_campaign=rss",
+    "summary": "Then new CDC director told staff she is “very comfortable and very confident ... [in] speaking truth to power.”",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-19T19:31:45+00:00",
+    "date_str": "Aug 19, 2026"
+  },
+  {
+    "title": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records",
+    "url": "https://www.npr.org/2026/08/19/nx-s1-5936636/covid-research-fauci-morens-foia-guilty",
+    "summary": "Dr. David Morens, a former aide to Dr. Anthony Fauci, has pleaded guilty to violating federal law by trying to conceal emails about the origins of the COVID-1 pandemic.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-19T19:45:11+00:00",
+    "date_str": "Aug 19, 2026"
+  },
+  {
+    "title": "Dramatic Increase in Active Surveillance Use for Prostate Cancer",
+    "url": "https://www.medpagetoday.com/hematologyoncology/prostatecancer/122679",
+    "summary": "(MedPage Today) -- Use of active surveillance for low- and favorable intermediate-risk prostate cancer more than tripled since 2005, according to a large study of veterans. In 2005 active surveillance accounted for 27% of men with low-risk prostate...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-19T20:52:59+00:00",
+    "date_str": "Aug 19, 2026"
+  },
+  {
+    "title": "FDA Approves Activin Signaling Inhibitor for Bone Disorder",
+    "url": "https://www.medpagetoday.com/endocrinology/generalendocrinology/122678",
+    "summary": "(MedPage Today) -- The FDA approved garetosmab (Pasatru) to reduce the formation of new heterotopic ossification lesions and disease flares in adults with fibrodysplasia ossificans progressiva (FOP), the agency announced on Wednesday. A monoclonal...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-19T20:43:27+00:00",
+    "date_str": "Aug 19, 2026"
+  },
+  {
+    "title": "Robotic Phlebotomist Stand-In Gets FDA's Blessing",
+    "url": "https://www.medpagetoday.com/washington-watch/fdageneral/122677",
+    "summary": "(MedPage Today) -- The FDA authorized the first robotic device that can independently draw patients' blood without a hands-on operator, the agency announced on Wednesday. The Aletta device uses near-infrared light and Doppler ultrasound to locate...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-19T20:23:44+00:00",
+    "date_str": "Aug 19, 2026"
+  },
+  {
+    "title": "Here's How One Nephrology Unit Cut Hospital-Acquired C. Diff by 90%",
+    "url": "https://www.medpagetoday.com/hospitalbasedmedicine/infectioncontrol/122676",
+    "summary": "(MedPage Today) -- An inpatient nephrology unit reduced hospital-acquired Clostridioides difficile (C. diff) infections by 90% after implementing nurse-driven protocols. Between January and April 2023, Detroit's Henry Ford Hospital nephrology...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-19T20:22:24+00:00",
+    "date_str": "Aug 19, 2026"
+  },
+  {
+    "title": "Most Physical Activity Is Tied to Lower Dementia Risk, but This Type May Raise It",
+    "url": "https://www.medpagetoday.com/neurology/dementia/122675",
+    "summary": "(MedPage Today) -- The relationship between physical activity and dementia risk may depend on whether the activity is recreational exercise or job-related labor, a study of more than 4.2 million people suggested. High physical activity levels...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-19T19:53:54+00:00",
+    "date_str": "Aug 19, 2026"
+  },
+  {
+    "title": "Former Fauci Aide Pleads Guilty",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/washington-watch/122674",
+    "summary": "(MedPage Today) -- David Morens, MD, a former top advisor at the National Institute of Allergy and Infectious Diseases (NIAID), pled guilty Tuesday in federal court to hiding government communications related to the COVID-19 pandemic. Morens...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-19T19:30:43+00:00",
+    "date_str": "Aug 19, 2026"
+  },
+  {
+    "title": "Trump Picks Heidi Overton for FDA Commissioner: Here's What to Know",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/fdageneral/122673",
+    "summary": "(MedPage Today) -- Heidi Overton, MD, PhD, a top White House aide, has been picked to lead the FDA, President Donald Trump announced Wednesday. Overton is the deputy director of the White House Domestic Policy Council who has worked on several...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-19T19:17:02+00:00",
+    "date_str": "Aug 19, 2026"
+  },
+  {
+    "title": "No Nation Has Escaped Healthcare Rationing. Some Just Hide It Better.",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/122672",
+    "summary": "(MedPage Today) -- The quest for a healthcare system devoid of rationing is, in economic terms, the pursuit of a mirage. While the moral imperative of medicine suggests that care should be a universal right provided without limit, the reality of...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-19T18:46:16+00:00",
+    "date_str": "Aug 19, 2026"
+  },
+  {
+    "title": "Rise of Therapy Speak; Bipolar Treatment Review; White House Addiction Strategy",
+    "url": "https://www.medpagetoday.com/psychiatry/generalpsychiatry/122671",
+    "summary": "(MedPage Today) -- In a New York Times essay, a psychiatrist described how a growing number of teen girls and young women are using \"therapy speak\" to describe their mental distress, sometimes showing up at their first session announcing a diagnosis...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-19T18:43:29+00:00",
+    "date_str": "Aug 19, 2026"
+  },
+  {
+    "title": "Trump nominates policy aide Overton to lead FDA",
+    "url": "https://www.healthcaredive.com/news/overton-fda-commissioner-trump-white-house-appointment-plans/828307/",
+    "summary": "Heidi Overton, a medical doctor and veteran of the America First think tank, currently serves as deputy director of the White House Domestic Policy Council.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-19T15:30:00+00:00",
+    "date_str": "Aug 19, 2026"
+  },
+  {
+    "title": "Many Medicare beneficiaries are confident they understand the program. The data says otherwise",
+    "url": "https://www.fiercehealthcare.com/payers/many-medicare-beneficiaries-are-confident-they-understand-program-theyre-wrong-new-study",
+    "summary": "While many individuals believe they have a firm grasp on their Medicare benefits, the reality is far different, according to a new survey.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-20T01:08:58.457087+00:00",
+    "date_str": "Aug 20, 2026"
+  },
+  {
+    "title": "HHS announces $96.7M in grants for behavioral health services",
+    "url": "https://www.fiercehealthcare.com/regulatory/hhs-announces-967m-grants-behavioral-health-services",
+    "summary": "Services provided include support for homeless individuals with serious mental illness, suicide prevention and early intervention, SUD treatment, peer support and more.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-20T01:08:58.457139+00:00",
+    "date_str": "Aug 20, 2026"
+  },
+  {
+    "title": "Projected healthcare services deal count to be lowest since 2017, PitchBook finds",
+    "url": "https://www.fiercehealthcare.com/finance/projected-healthcare-services-deal-count-be-lowest-2017-pitchbook-finds",
+    "summary": "Three of four segments, except ancillary and outsourced services, face weakness amid macroeconomic headwinds like looming interest rate hikes and low healthcare services utilization.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-20T01:08:58.457170+00:00",
+    "date_str": "Aug 20, 2026"
+  },
+  {
+    "title": "Oracle Health builds out clinical AI agent with coding, chart review tools",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/oracle-health-announces-expansion-clinical-ai-agent-capabilities",
+    "summary": "New capabilities for the clinical AI agent include automated coding, dictation and chart review.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-20T01:08:58.457195+00:00",
+    "date_str": "Aug 20, 2026"
+  },
+  {
+    "title": "Trump picks ‘good soldier’ to lead FDA despite MAHA, industry misgivings",
+    "url": "https://www.politico.com/news/2026/08/19/trump-heidi-overton-fda-maha-makary-01042797",
+    "summary": "Senate Health, Education, Labor and Pensions Committee Chair Bill Cassidy has already signaled her vaccine policy work may cost her his vote.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-19T22:26:11+00:00",
+    "date_str": "Aug 19, 2026"
+  },
+  {
+    "title": "Cassidy criticizes Trump's FDA pick, says her role in vaccine order is 'almost disqualifying'",
+    "url": "https://thehill.com/homenews/senate/6039997-bill-cassidy-heidi-overton-fda-vaccines/",
+    "summary": "Sen. Bill Cassidy (R-La.), who chairs the Senate Health Committee, laid out his concerns over President Trump’s choice to tap Dr. Heidi Overton to lead the Food and Drug Administration (FDA), saying her involvement in the administration’s recent vaccine order is “almost disqualifying.” “While I respect Dr. Overton’s experience as a physician, I have strong...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-19T22:06:45+00:00",
+    "date_str": "Aug 19, 2026"
+  },
+  {
+    "title": "Federal court pauses Trump changes to Teen Pregnancy Prevention program",
+    "url": "https://thehill.com/policy/healthcare/6039782-judge-blocks-trump-teen-pregnancy-program-changes/",
+    "summary": "A federal judge in Washington, D.C., on Wednesday temporarily blocked the Trump administration’s changes to the Teen Pregnancy Prevention (TPP) program that resulted in the abrupt loss of tens of millions of dollars in federal grants. The order from U.S. District Judge Christopher Cooper, who was appointed by former President Obama, pauses the administration's effort...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-19T20:56:23+00:00",
+    "date_str": "Aug 19, 2026"
+  },
+  {
     "title": "Merck, Moderna Personalized mRNA Cancer Therapy Achieves a First for Melanoma",
     "url": "https://medcitynews.com/2026/08/merck-moderna-mrna-cancer-vaccine-neoantigen-intismeran-melanoma-adjuvant-mrk/",
     "summary": "Merck and Moderna said intismeran autogene, an mRNA cancer vaccine that prompts an immune response to proteins expressed by a patient’s tumors, met the main goal of a pivotal test in melanoma. It’s the most advanced trial in a 50/50 partnership evaluating the personalized cancer treatment in a wide range of tumor types. The post Merck, Moderna Personalized mRNA Cancer Therapy Achieves a First for Melanoma appeared first on MedCity News .",
@@ -2188,215 +2398,5 @@
     "category_slug": "medicare-news",
     "date": "2026-08-14T09:00:00+00:00",
     "date_str": "Aug 14, 2026"
-  },
-  {
-    "title": "STAT+: FDA approves Bristol multiple myeloma treatment, marking debut of novel drug class",
-    "url": "https://www.statnews.com/2026/08/14/fda-approves-bristol-multiple-myeloma-drug-zenbexus/?utm_campaign=rss",
-    "summary": "The FDA approved a treatment for advanced multiple myeloma made by Bristol Myers Squibb, marking the debut of a new class of drugs for the blood cancer.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-14T12:03:41+00:00",
-    "date_str": "Aug 14, 2026"
-  },
-  {
-    "title": "How will legal challenges fare against CMS rule on gender-affirming care?",
-    "url": "https://www.statnews.com/2026/08/14/cms-transgender-care-rule-how-will-legal-challenges-fare/?utm_campaign=rss",
-    "summary": "A CMS rule finalized this week may prove more difficult to challenge than previous Trump administration actions to end transgender care for young people.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-14T08:30:00+00:00",
-    "date_str": "Aug 14, 2026"
-  },
-  {
-    "title": "Opinion: MAHA and insurance companies both want to treat human bodies like cars",
-    "url": "https://www.statnews.com/2026/08/14/health-insurance-companies-maha-surveillance/?utm_campaign=rss",
-    "summary": "“If the short history of telematics in the auto insurance taught us anything, it’s to be skeptical of any promises attached to shareable surveillance data.”",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-14T08:30:00+00:00",
-    "date_str": "Aug 14, 2026"
-  },
-  {
-    "title": "Two years after rules overhaul, have methadone clinics really changed?",
-    "url": "https://www.statnews.com/2026/08/14/methadone-clinics-opioid-addiction-new-rules-culture-shift/?utm_campaign=rss",
-    "summary": "Methadone clinics don't have to be as rigid in how they dispense opioid addiction medicine. Some, though not all, are changing their ways.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-14T08:30:00+00:00",
-    "date_str": "Aug 14, 2026"
-  },
-  {
-    "title": "Opinion: U.S., U.K. health care systems share a fatal flaw",
-    "url": "https://www.statnews.com/2026/08/14/us-uk-health-care-systems-loneliness-community-prevention/?utm_campaign=rss",
-    "summary": "“The default to biomedical responses means that clinics and hospitals are increasingly absorbing the costs of social problems,” writes Kyle Vanelli.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-14T08:30:00+00:00",
-    "date_str": "Aug 14, 2026"
-  },
-  {
-    "title": "Record cyclosporiasis outbreak tests agencies hit by Trump administration's cuts",
-    "url": "https://www.npr.org/2026/08/14/nx-s1-5923574/record-cyclosporiasis-outbreak-tests-agencies-hit-by-trump-administrations-cuts",
-    "summary": "Last year's funding cuts to federal agencies that oversee foodborne illness outbreaks are being tested with the record cyclosporiasis outbreak in the U.S.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-14T08:45:23+00:00",
-    "date_str": "Aug 14, 2026"
-  },
-  {
-    "title": "Doctors say Medicaid change to gender-affirming care will harm vulnerable youth",
-    "url": "https://www.npr.org/2026/08/14/nx-s1-5929518/doctors-say-medicaid-change-to-gender-affirming-care-will-harm-vulnerable-youth",
-    "summary": "Federal Medicaid dollars can no longer pay for gender-affirming care for youth. Doctors who treat trans kids say it will harm vulnerable people.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-14T08:43:38+00:00",
-    "date_str": "Aug 14, 2026"
-  },
-  {
-    "title": "Providence reports $400M operating improvement halfway through 2026",
-    "url": "https://www.fiercehealthcare.com/providers/providence-reports-400m-operating-improvement-halfway-through-2026",
-    "summary": "The major nonprofit system has logged its fourth consecutive quarter of operating gains after years in the red—a key milestone for its leaders ahead of OBBBA's expected headwinds.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-14T13:03:20.693024+00:00",
-    "date_str": "Aug 14, 2026"
-  },
-  {
-    "title": "Major PBMs agree to offer TrumpRx pricing information to members",
-    "url": "https://www.fiercehealthcare.com/payers/major-pbms-agree-offer-trumprx-pricing-information-members",
-    "summary": "The Pharmaceutical Care Management Association announced Thursday that its members had reached an agreement with the feds to offer information on cash prices available through TrumpRx.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-14T07:22:14.097969+00:00",
-    "date_str": "Aug 14, 2026"
-  },
-  {
-    "title": "Appeals Court Sides with Providers in No Surprises Act Pay Dispute",
-    "url": "https://medcitynews.com/2026/08/provider-court-surprise-billing/",
-    "summary": "A court ruling struck down key parts of how regulators calculate the No Surprises Act’s qualifying payment amount, siding with the Texas Medical Association’s argument that the formula has historically favored payers in arbitration. The post Appeals Court Sides with Providers in No Surprises Act Pay Dispute appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-13T23:36:38+00:00",
-    "date_str": "Aug 13, 2026"
-  },
-  {
-    "title": "Cotiviti Launches AI Solution to Address Coordination of Benefits Issues",
-    "url": "https://medcitynews.com/2026/08/cotiviti-launches-ai-solution-to-address-coordination-of-benefits-issues/",
-    "summary": "Cotiviti launched an AI-powered coordination of benefits solution that uses enrollment data to identify and resolve coverage issues before claims are submitted. The post Cotiviti Launches AI Solution to Address Coordination of Benefits Issues appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-13T21:57:04+00:00",
-    "date_str": "Aug 13, 2026"
-  },
-  {
-    "title": "PTC Therapeutics’ $211M Bid Wins Bankruptcy Auction for Sangamo Gene Therapy",
-    "url": "https://medcitynews.com/2026/08/ptc-sangamo-therapeutics-bankruptcy-auction-fabry-gene-therapybid-wins-bankruptcy-auction-for-sangamo-gene-therapy-ptct-sgmoq/",
-    "summary": "Sangamo Therapeutics filed for Chapter 11 bankruptcy in June after its search for strategic alternatives failed to find a path forward for the company. PTC Therapeutics’ auction win brings a Sangamo gene therapy candidate for Fabry disease, a rare inherited disorder with few treatment options. The post PTC Therapeutics’ $211M Bid Wins Bankruptcy Auction for Sangamo Gene Therapy appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-13T19:04:35+00:00",
-    "date_str": "Aug 13, 2026"
-  },
-  {
-    "title": "STAT+: Commure terminates payments under its customer referral programs tied to AI products",
-    "url": "https://www.statnews.com/2026/08/13/commure-terminates-payments-under-customer-referral-programs/?utm_campaign=rss",
-    "summary": "Commure, which develops and sells AI products to clinics, has terminated a program that paid for referrals to new customers.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-13T21:49:09+00:00",
-    "date_str": "Aug 13, 2026"
-  },
-  {
-    "title": "FDA Approves First CELMoD Drug for Multiple Myeloma",
-    "url": "https://www.medpagetoday.com/hematologyoncology/myeloma/122608",
-    "summary": "(MedPage Today) -- The FDA granted accelerated approval to the first cereblon E3 ligase modulation (CELMoD) therapy for relapsed or refractory multiple myeloma, the agency announced on Thursday. An oral drug, iberdomide (Zenbexus) is approved...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-13T21:37:51+00:00",
-    "date_str": "Aug 13, 2026"
-  },
-  {
-    "title": "Luigi Mangione Expected to Plead Guilty in UnitedHealthcare CEO Killing, Source Says",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/122607",
-    "summary": "(MedPage Today) -- Luigi Mangione is expected to plead guilty as early as Friday in the federal case accusing him of stalking and killing UnitedHealthcare CEO Brian Thompson, according to a person familiar with the matter. The person, who was...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-13T21:09:11+00:00",
-    "date_str": "Aug 13, 2026"
-  },
-  {
-    "title": "Preoperative GLP-1s Don't Diminish Bariatric Surgery Results, Study Suggests",
-    "url": "https://www.medpagetoday.com/endocrinology/obesity/122606",
-    "summary": "(MedPage Today) -- Bariatric surgery patients who took GLP-1 medications prior to surgery lost the same amount of weight after 1 year as individuals unexposed to the blockbuster class of drugs, a retrospective review indicated. Among 383 patients...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-13T21:00:46+00:00",
-    "date_str": "Aug 13, 2026"
-  },
-  {
-    "title": "Researchers Try to Tie Cannabis to Irregular Heartbeats, Opposite Turns Out True",
-    "url": "https://www.medpagetoday.com/primarycare/smoking/122605",
-    "summary": "(MedPage Today) -- Defying expectations, regular cannabis users had fewer ectopic heartbeats on the days they reached for the joint or vape, a randomized crossover trial showed. On days using cannabis, there was a significant 9% reduction in these...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-13T20:37:03+00:00",
-    "date_str": "Aug 13, 2026"
-  },
-  {
-    "title": "JAK Inhibitor Might Be the Most Effective One Yet for Severe Alopecia",
-    "url": "https://www.medpagetoday.com/dermatology/generaldermatology/122604",
-    "summary": "(MedPage Today) -- The JAK inhibitor upadacitinib (Rinvoq) dramatically improved hair regrowth for patients with severe alopecia areata in two parallel phase III trials, with results that appeared better than previously seen among the class of...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-13T19:55:53+00:00",
-    "date_str": "Aug 13, 2026"
-  },
-  {
-    "title": "Study Questions How Prostate Cancer Focal Therapy Is Being Used",
-    "url": "https://www.medpagetoday.com/hematologyoncology/prostatecancer/122603",
-    "summary": "(MedPage Today) -- While the use of focal therapy for nonmetastatic prostate cancer is limited, half of procedures occurred in settings that are not supported by current guidelines, according to a retrospective study. Among over 1.1 million men...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-13T19:35:28+00:00",
-    "date_str": "Aug 13, 2026"
-  },
-  {
-    "title": "Trump's Vaccine Order Will Show Up in My ICU",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/122602",
-    "summary": "(MedPage Today) -- Any cost-benefit analysis has two columns. President Trump's August 10 executive order on vaccines considers neither. If put into action, it would impose a burden on families in the form of additional medical visits, yet it carries...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-13T19:14:38+00:00",
-    "date_str": "Aug 13, 2026"
-  },
-  {
-    "title": "Are HYROX Athletes Overdoing It?",
-    "url": "https://www.medpagetoday.com/orthopedics/sportsmedicine/122601",
-    "summary": "(MedPage Today) -- Half of participants in a new, increasingly popular fitness competition called HYROX said they had sustained an injury during training for it during the previous year, an international survey found. Among 418 HYROX athletes...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-13T18:32:37+00:00",
-    "date_str": "Aug 13, 2026"
   }
 ]
