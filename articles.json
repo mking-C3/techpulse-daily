@@ -1,5 +1,85 @@
 [
   {
+    "title": "How Louisiana’s New Surgeon General Wants To Transform Public Health",
+    "url": "https://kffhealthnews.org/public-health/louisiana-surgeon-general-evelyn-griffin-transform-public-health/",
+    "summary": "Evelyn Griffin is pushing for more emphasis on wellness and prevention. She has also aligned with the MAHA movement in fighting government mandates and questioning the safety of some vaccines.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-21T09:00:00+00:00",
+    "date_str": "Aug 21, 2026"
+  },
+  {
+    "title": "Watch: Mark Cuban Says You Can’t Fix Healthcare Until Every Price Is Known",
+    "url": "https://kffhealthnews.org/health-care-costs/interview-mark-cuban-fix-healthcare-full-price-transparency/",
+    "summary": "With his online pharmacy, Mark Cuban changed how generic drugs are sold — and he has thoughts about how to fix the healthcare system. The billionaire businessman talks to KFF Health News’ Julie Rovner to answer the question: “How Would You Fix It?”",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-21T09:00:00+00:00",
+    "date_str": "Aug 21, 2026"
+  },
+  {
+    "title": "New DOJ Guidance Could Give States Cover To Cut Disability Services",
+    "url": "https://kffhealthnews.org/medicaid/wamu-health-hub-disability-services-funding-justice-department/",
+    "summary": "A new rule from the Justice Department upends a 25-year-old interpretation of federal disability law. Advocates fear it could result in cuts to services that help many disabled Americans live at home instead of in institutions.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-21T09:00:00+00:00",
+    "date_str": "Aug 21, 2026"
+  },
+  {
+    "title": "Focal therapy for localized prostate cancer has divided physicians. Will new data change minds?",
+    "url": "https://www.statnews.com/2026/08/21/focal-therapy-prostate-cancer-still-experimental-or-viable-alternative/?utm_campaign=rss",
+    "summary": "Urologic oncologists who treat prostate cancer are split over the benefits of focal therapy compared to traditional surgery or radiation.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-21T08:30:00+00:00",
+    "date_str": "Aug 21, 2026"
+  },
+  {
+    "title": "Opinion: Lil Nas X’s bipolar diagnosis and the paradox of treatment",
+    "url": "https://www.statnews.com/2026/08/21/lil-nas-xs-bipolar-diagnosis-treatment-medication-achievement/?utm_campaign=rss",
+    "summary": "We continue to romanticize the symptoms of mental health problems, especially when we talk about achievement.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-21T08:30:00+00:00",
+    "date_str": "Aug 21, 2026"
+  },
+  {
+    "title": "Opinion: A cure for HIV would be a triumph. But it shouldn’t harm survivors",
+    "url": "https://www.statnews.com/2026/08/21/hiv-cure-survivors-harm-benefits-research-ryan-white-hiv-aids-program/?utm_campaign=rss",
+    "summary": "Long-term survivors deserve to see a cure, not fear the losses it might bring.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-21T08:30:00+00:00",
+    "date_str": "Aug 21, 2026"
+  },
+  {
+    "title": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
+    "url": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
+    "summary": "The USS Abraham Lincoln is now on its way home after spending nine months at sea. Experts weigh in on the mental-health challenges of prolonged confinement and isolation aboard an aircraft carrier.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-21T09:00:00+00:00",
+    "date_str": "Aug 21, 2026"
+  },
+  {
+    "title": "Drugmakers still struggling to keep up with spiking estrogen patch demand",
+    "url": "https://thehill.com/policy/healthcare/6042493-estrogen-patch-shortage-demand/",
+    "summary": "The pharmaceutical industry is warning that estrogen patches continue to be in shortage in the U.S. as manufacturers struggle to keep up with increased demand linked to federal policy changes issued earlier this year, even as regulators have yet to recognize a lack in supply. Manufacturers first reported issues with supplying demand earlier this year...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-21T10:00:00+00:00",
+    "date_str": "Aug 21, 2026"
+  },
+  {
     "title": "SCAN, Costco Launch Medicare Partnership",
     "url": "https://medcitynews.com/2026/08/scan-costco-launch-medicare-partnership/",
     "summary": "SCAN Health Plan and Costco are partnering to provide a suite of insurance products for seniors. The post SCAN, Costco Launch Medicare Partnership appeared first on MedCity News .",
@@ -2317,86 +2397,6 @@
     "category": "Industry News",
     "category_slug": "industry-news",
     "date": "2026-08-16T20:13:41+00:00",
-    "date_str": "Aug 16, 2026"
-  },
-  {
-    "title": "Better Models Won’t Fix Pharma’s AI Problem — Better Terminology Will",
-    "url": "https://medcitynews.com/2026/08/better-models-wont-fix-pharmas-ai-problem-better-terminology-will/",
-    "summary": "The bottleneck in AI-enabled real-world data analysis is not computation, model architecture, or training data volume. It is the semantic layer over which the AI is trying to reason – the place where precise clinical meaning lives. The post Better Models Won’t Fix Pharma’s AI Problem — Better Terminology Will appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-16T13:30:00+00:00",
-    "date_str": "Aug 16, 2026"
-  },
-  {
-    "title": "The True Cost of Focusing on Cost Instead of Cost-Effectiveness",
-    "url": "https://medcitynews.com/2026/08/the-true-cost-of-focusing-on-cost-instead-of-cost-effectiveness/",
-    "summary": "When payors consider only the cost of the medication and not the cost and risk to the patient, doctor, and healthcare system, the irony is that not only is this terrible for patient health, it can be more costly in the end. The post The True Cost of Focusing on Cost Instead of Cost-Effectiveness appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-16T13:26:00+00:00",
-    "date_str": "Aug 16, 2026"
-  },
-  {
-    "title": "Health AI Should be Assistive, Not Autonomous",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/122622",
-    "summary": "(MedPage Today) -- A physician signs a progress note generated from an ambient recording. Another accepts a predictive risk score embedded in the electronic health record. A third submits an artificial intelligence (AI)-drafted appeal of an insurance...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-16T16:00:00+00:00",
-    "date_str": "Aug 16, 2026"
-  },
-  {
-    "title": "Have Trouble Sleeping in a New Place? Most Do Because of the First-Night Effect",
-    "url": "https://www.medpagetoday.com/psychiatry/sleepdisorders/122584",
-    "summary": "(MedPage Today) -- The first night in a new place is always the same for Robinson Leoni: He takes longer to fall asleep, wakes up more often during the night, and gets less sleep overall. At home he averages 7 hours. The first night away --...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-16T14:00:00+00:00",
-    "date_str": "Aug 16, 2026"
-  },
-  {
-    "title": "Cassidy: 'Pretty evident' RFK Jr. lied about changing vaccine schedule",
-    "url": "https://thehill.com/homenews/senate/6032102-cassidy-accuses-rfk-broken-pledge/",
-    "summary": "GOP Sen. Bill Cassidy (La.) on Sunday accused Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. of breaking his pledge to not attempt to tweak the childhood vaccine schedule. Discussing President Trump’s recent executive order seeking to alter the schedule on ABC’s “This Week,” Cassidy alluded to “guarantees” Kennedy and the White House...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-16T18:23:40+00:00",
-    "date_str": "Aug 16, 2026"
-  },
-  {
-    "title": "Cassidy predicts Trump's vaccine order will increase insurance costs",
-    "url": "https://thehill.com/homenews/senate/6032064-cassidy-criticizes-trump-vaccine-order/",
-    "summary": "Sen. Bill Cassidy (R-La.) on Sunday reiterated his issues with President Trump’s executive order that seeks to tweak the childhood vaccine schedule, with the directive’s impact on insurance costs among them. “Now instead of your child getting two shots, she has to get six shots,” Cassidy told host Martha Raddatz on ABC’s “This Week,” referring...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-16T17:43:49+00:00",
-    "date_str": "Aug 16, 2026"
-  },
-  {
-    "title": "Outbreaks threaten HHS 'real food' agenda",
-    "url": "https://thehill.com/policy/healthcare/6030799-rfk-jr-real-food-agenda-outbreaks/",
-    "summary": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. wants America to “eat real food” as a solution to the chronic disease epidemic, but that message is being lost amid outbreaks of foodborne illness and a health agency that has struggled with effectively tracking the sources and messaging about safety. This summer has seen...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-16T16:00:00+00:00",
-    "date_str": "Aug 16, 2026"
-  },
-  {
-    "title": "As Trump blocks Medicaid funds, one trans teen's mom asks: What's next?",
-    "url": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
-    "summary": "A longtime Republican living in California says the Trump administration's continuing actions to target transgender youth take a personal toll.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-16T11:54:19+00:00",
     "date_str": "Aug 16, 2026"
   }
 ]
