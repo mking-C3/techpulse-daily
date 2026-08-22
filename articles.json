@@ -1,5 +1,25 @@
 [
   {
+    "title": "Journalists Highlight Innovations in Vaccines and Safeguarding Maternal Health",
+    "url": "https://kffhealthnews.org/on-air/on-air-august-22-2026-melanoma-mrna-vaccine-deloitte-maternal-wristbands-shop-around-for-surgery/",
+    "summary": "KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here’s a collection of their appearances.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-22T09:00:00+00:00",
+    "date_str": "Aug 22, 2026"
+  },
+  {
+    "title": "Data Show How Congo's Ebola Outbreak Is on Track to Surpass History's Largest",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/122715",
+    "summary": "(MedPage Today) -- The Ebola outbreak that is spreading at unprecedented speed in Congo has not peaked yet and could be three times the current known size, according to data from authorities and Africa's top public health agency. It is history...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-22T12:00:00+00:00",
+    "date_str": "Aug 22, 2026"
+  },
+  {
     "title": "This Week In Epic News: FTC Probe, AI Agents & More",
     "url": "https://medcitynews.com/2026/08/epic-ftc-agentic-ai/",
     "summary": "Epic faced an FTC antitrust probe this week, but that didn’t stop the EHR giant from unveiling a wave of new AI tools at its annual conference. The post This Week In Epic News: FTC Probe, AI Agents & More appeared first on MedCity News .",
@@ -2377,26 +2397,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-08-17T14:40:47+00:00",
-    "date_str": "Aug 17, 2026"
-  },
-  {
-    "title": "STAT+: Akeso and Summit’s lung cancer drug shows worsening tumor-progression benefit",
-    "url": "https://www.statnews.com/2026/08/17/biotech-news-akeso-summit-ivonescimabs-worsening-tumor-progression-benefit/?utm_campaign=rss",
-    "summary": "Europe pulls Tavneos over trial integrity concerns, pricing concerns over AstraZeneca's hypertension drug, and more biotech news from The Readout",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-17T13:38:15+00:00",
-    "date_str": "Aug 17, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about an AstraZeneca setback, falling U.S. drug prices, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/08/17/astrazeneca-lung-cancer-setback-falling-drug-prices/?utm_campaign=rss",
-    "summary": "AstraZeneca is discontinuing a late-stage drug trial in patients with metastatic non-small cell lung cancer, extending a run of setbacks",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-17T13:22:17+00:00",
     "date_str": "Aug 17, 2026"
   }
 ]
