@@ -1,5 +1,65 @@
 [
   {
+    "title": "Boarding in the ED; Devices or Manual CPR?",
+    "url": "https://www.medpagetoday.com/podcasts/healthwatch/122713",
+    "summary": "(MedPage Today) -- TTHealthWatch is a weekly podcast from Texas Tech. In it, Elizabeth Tracey, director of electronic media for Johns Hopkins Medicine in Baltimore, and Rick Lange, MD, president of Texas Tech Health El Paso, look at the top medical...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-22T18:00:00+00:00",
+    "date_str": "Aug 22, 2026"
+  },
+  {
+    "title": "What the Measles Betting Market Does Not Measure",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/122705",
+    "summary": "(MedPage Today) -- Polymarket is currently running a $7.8 million betting option on the number of measles cases in the U.S. in 2026. It runs a detailed analysis of the bets. It does not measure the real impact of those numbers. The human impact...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-22T16:00:00+00:00",
+    "date_str": "Aug 22, 2026"
+  },
+  {
+    "title": "Novel Tuberculosis Vaccine Falls Short",
+    "url": "https://www.medpagetoday.com/infectiousdisease/tuberculosis/122708",
+    "summary": "(MedPage Today) -- An investigational tuberculosis (TB) vaccine didn't top the standard bacillus Calmette-Guérin (BCG) vaccine at preventing infections in infants, a multicenter, phase III trial showed. Among nearly 6,900 newborns in sub...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-22T14:00:00+00:00",
+    "date_str": "Aug 22, 2026"
+  },
+  {
+    "title": "Democrats see political gain in Ohio’s health care pain",
+    "url": "https://www.politico.com/news/2026/08/22/democrats-see-political-gain-ohio-health-care-pain-01045704",
+    "summary": "Surging costs and plummeting insurance coverage could give Ohio Democrats their best chance in years to win back power.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-22T18:00:00+00:00",
+    "date_str": "Aug 22, 2026"
+  },
+  {
+    "title": "Cases of 'scromiting' condition tied to cannabis use spike among teens, young adults: New study",
+    "url": "https://thehill.com/policy/healthcare/6036144-cases-of-scromiting-condition-tied-to-cannabis-use-spike-among-teens-young-adults-new-study/",
+    "summary": "The syndrome has long been linked to chronic use of marijuana.",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-22T16:00:00+00:00",
+    "date_str": "Aug 22, 2026"
+  },
+  {
+    "title": "Across the country, Kennedy touts MAHA, but not vaccines",
+    "url": "https://thehill.com/policy/healthcare/6044498-kennedy-vaccine-order-maha-priorities/",
+    "summary": "Health and Human Services Secretary Robert F. Kennedy Jr. stood in the Oval Office last week as President Trump proudly signed an executive order to reduce childhood vaccines, heavily implying a link between vaccines and autism. But when Kennedy made appearances in California and then hit the campaign trail for Republicans in Iowa over the...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-22T16:00:00+00:00",
+    "date_str": "Aug 22, 2026"
+  },
+  {
     "title": "Journalists Highlight Innovations in Vaccines and Safeguarding Maternal Health",
     "url": "https://kffhealthnews.org/on-air/on-air-august-22-2026-melanoma-mrna-vaccine-deloitte-maternal-wristbands-shop-around-for-surgery/",
     "summary": "KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here’s a collection of their appearances.",
@@ -2338,65 +2398,5 @@
     "category_slug": "drug-coverage",
     "date": "2026-08-18T01:08:48.032901+00:00",
     "date_str": "Aug 18, 2026"
-  },
-  {
-    "title": "Innovaccer, Mastek ink strategic partnership to scale agentic AI in healthcare globally",
-    "url": "https://www.fiercehealthcare.com/health-tech/innovaccer-mastek-ink-strategic-partnership-accelerate-global-deployment-agentic",
-    "summary": "Mastek will join Innovaccer’s Platinum GSI program as the company works to expand into the U.K. and Europe.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-18T01:08:48.032935+00:00",
-    "date_str": "Aug 18, 2026"
-  },
-  {
-    "title": "Kindergarten MMR vaccine coverage still below ideal rate to prevent outbreaks: CDC",
-    "url": "https://thehill.com/policy/healthcare/6033790-mmr-vaccine-coverage-falls-below-target/",
-    "summary": "Vaccination coverage for measles, mumps and rubella (MMR) among kindergarteners in the U.S. remains below the ideal rate needed to best prevent widespread outbreaks, according to the latest data from the Centers for Disease Control and Prevention (CDC), with the number of exemptions going up. The CDC on Monday released the latest figures on vaccine...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-17T20:56:40+00:00",
-    "date_str": "Aug 17, 2026"
-  },
-  {
-    "title": "Fauci declines to sit for transcribed interview with Sen. Ron Johnson",
-    "url": "https://thehill.com/policy/healthcare/6033744-fauci-declines-gop-johnson-interview/",
-    "summary": "Former White House COVID-19 czar Dr. Anthony Fauci told Sen. Ron Johnson (R-Wis.) he will not appear for a transcribed interview with the senator's investigations subcommittee regarding Fauci's role in the government’s pandemic response. In a letter sent to Johnson Friday, Fauci’s attorneys said the infectious diseases expert intends to continue asserting his Fifth Amendment...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-17T18:51:57+00:00",
-    "date_str": "Aug 17, 2026"
-  },
-  {
-    "title": "The Rise of Consumer Diagnostics and Emerging Trends",
-    "url": "https://medcitynews.com/2026/08/the-rise-of-consumer-diagnostics-and-emerging-trends/",
-    "summary": "Consumer diagnostics will be one of several discussions at the INVEST Digital Health conference focused on power shifting to the consumer in healthcare. The conference is scheduled for October 29 in Dallas at Pegasus Park, in partnership with Health Wildcatters. Click here to view the agenda and register. The post The Rise of Consumer Diagnostics and Emerging Trends appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-17T17:30:00+00:00",
-    "date_str": "Aug 17, 2026"
-  },
-  {
-    "title": "Healthcare Is Deploying AI Tools — It’s Not Ready for AI Colleagues",
-    "url": "https://medcitynews.com/2026/08/healthcare-is-deploying-ai-tools-its-not-ready-for-ai-colleagues/",
-    "summary": "Most healthcare organizations are experimenting with AI. Few are preparing to manage AI agents as participants in everyday healthcare workflows. The post Healthcare Is Deploying AI Tools — It’s Not Ready for AI Colleagues appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-17T13:45:00+00:00",
-    "date_str": "Aug 17, 2026"
-  },
-  {
-    "title": "STAT+: The IRS is probing UnitedHealth, and a private equity slowdown",
-    "url": "https://www.statnews.com/2026/08/17/irs-probe-unitedhealth-group-taxes-private-equity-deals-physician-groups/?utm_campaign=rss",
-    "summary": "UnitedHealth faces an investigation over tax payments, and we examine why PE deals for doctor groups are slowing.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-17T14:40:47+00:00",
-    "date_str": "Aug 17, 2026"
   }
 ]
