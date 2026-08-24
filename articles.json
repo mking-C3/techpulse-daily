@@ -1,5 +1,25 @@
 [
   {
+    "title": "Americans bought 12% less soda under new SNAP restrictions, study says",
+    "url": "https://www.statnews.com/2026/08/24/snap-restrictions-12-percent-drop-soda-purchases/?utm_campaign=rss",
+    "summary": "The drop in soda purchases is meaningful, but not enormous, one of the study's authors said.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-24T05:00:00+00:00",
+    "date_str": "Aug 24, 2026"
+  },
+  {
+    "title": "Why Earlier CAR-T Conversations Matter in Multiple Myeloma: Perspectives from a Patient and Community Oncologist",
+    "url": "https://www.fiercehealthcare.com/sponsored/why-early-car-t-conversations-matter-multiple-myeloma",
+    "summary": "A patient and community oncologist share how trust, partnership and shared decision-making shaped a CAR-T journey in multiple myeloma.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-24T06:55:26.410544+00:00",
+    "date_str": "Aug 24, 2026"
+  },
+  {
     "title": "Ambient Scribes Improve Clinician Retention, Cleveland Clinic Research Shows",
     "url": "https://medcitynews.com/2026/08/cleveland-clinic-ai-healthcare-ambient-scribes/",
     "summary": "A new paper shows Cleveland Clinic’s AI scribe rollout is paying dividends in clinician satisfaction and retention. These are key metrics for hospitals to track, given they spend millions on recruitment and retention efforts amid an ongoing workforce crisis. The post Ambient Scribes Improve Clinician Retention, Cleveland Clinic Research Shows appeared first on MedCity News .",
@@ -2378,25 +2398,5 @@
     "category_slug": "drug-coverage",
     "date": "2026-08-18T06:40:30.058844+00:00",
     "date_str": "Aug 18, 2026"
-  },
-  {
-    "title": "KFF: Insurers Denied 12%-18% of Prior Authorization Requests in 2025",
-    "url": "https://medcitynews.com/2026/08/kff-insurers-denied-12-18-of-prior-authorization-requests-in-2025/",
-    "summary": "KFF found that insurers denied 12%-18% of standard prior authorization requests in 2025, with significant variation among insurers and gaps in transparency. The post KFF: Insurers Denied 12%-18% of Prior Authorization Requests in 2025 appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-17T21:59:47+00:00",
-    "date_str": "Aug 17, 2026"
-  },
-  {
-    "title": "Slate Medicines’ Merger and $245M Private Placement Fuel Mission in Migraine",
-    "url": "https://medcitynews.com/2026/08/slate-medicines-migraine-prevention-fulcrum-therapeutics-reverse-merger-pacap-vip-antibody-fulc-slte/",
-    "summary": "Migraine drugs developer Slate Medicines is going public in a reverse merger with Fulcrum Therapeutics. The biotech’s lead antibody drug blocks two novel migraine targets, offering the potential for better efficacy compared to other next-generation migraine drugs in R&D. The post Slate Medicines’ Merger and $245M Private Placement Fuel Mission in Migraine appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-17T20:13:47+00:00",
-    "date_str": "Aug 17, 2026"
   }
 ]
