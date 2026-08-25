@@ -1,5 +1,135 @@
 [
   {
+    "title": "Where Florida’s Gun Violence Exacts Its Biggest Toll on Black and Latino Children",
+    "url": "https://kffhealthnews.org/public-health/florida-gun-violence-kids-data-analysis-jacksonville-black-latino-disparities/",
+    "summary": "An analysis of hospital claims data in Florida found that firearm injuries of children disproportionately hit families in a handful of ZIP codes, almost all of them in Jacksonville, Orlando, Miami, or Tampa Bay.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-25T09:00:00+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "The Medicare GLP-1 Discount Has One Big Catch: Some Sick Patients Don’t Qualify",
+    "url": "https://kffhealthnews.org/aging/medicare-glp1-bridge-weight-loss-drugs-coverage-exceptions-cost-access/",
+    "summary": "The new Medicare GLP-1 Bridge program promises eligible beneficiaries access to popular weight loss drugs for as little as $50 a month. But for some, having the very medical conditions these drugs are approved to treat means they don't qualify for the discount.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-25T09:00:00+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "CDC releases latest life expectancy data",
+    "url": "https://www.statnews.com/2026/08/25/health-news-cdc-releases-latest-life-expectancy-data/?utm_campaign=rss",
+    "summary": "Deleted public comments on White House proposals, how Trump cuts are reshaping rural health care, and more Morning Rounds news",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-25T12:04:42+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "STAT+: Comments on OMB research rule mysteriously removed from federal website",
+    "url": "https://www.statnews.com/2026/08/25/russell-vought-omb-funding-comments-daughter-benefited-nih-research/?utm_campaign=rss",
+    "summary": "Some comments on a proposed OMB research rule have been mysteriously removed from a public-facing government webpage.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-25T08:30:00+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "STAT+: AI is good at catching drug theft at hospitals, but only when humans do their part",
+    "url": "https://www.statnews.com/2026/08/25/ai-drug-diversion-software-human-oversight-controlcheck-sentri7/?utm_campaign=rss",
+    "summary": "New AI technology can help hospitals prevent the controlled substances from being stolen, or abused by staff, but those tools aren't foolproof.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-25T08:30:00+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "Opinion: Whale songs: the sounds of love and loss as heard by an OB-GYN",
+    "url": "https://www.statnews.com/2026/08/25/human-whale-songs-of-grief-essay-dr-caroline-cherston/?utm_campaign=rss",
+    "summary": "“I have developed a trained ear for many kinds of ‘humanized’ whale songs especially the types sung by women,” writes physician Caroline Cherston.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-25T08:30:00+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "Opinion: Cancer screening guidelines need to address long-term care facilities",
+    "url": "https://www.statnews.com/2026/08/25/cancer-screening-guidelines-long-term-care-facilities/?utm_campaign=rss",
+    "summary": "After her aunt died, cancer epidemiologist Kim Johnson looked into screening guidelines for long-term care residents — and found almost nothing.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-25T08:30:00+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "How Trump’s cuts are reshaping America’s health system",
+    "url": "https://www.statnews.com/2026/08/25/rural-hospitals-response-medicaid-cuts-part-1-unraveled-series/?utm_campaign=rss",
+    "summary": "A scramble to prepare for massive federal cuts across the health care system is hitting rural states like Maine particularly hard.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-25T08:30:00+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "At least 25% of former NFL players who died between 2016 and 2021 had CTE, study finds",
+    "url": "https://www.npr.org/2026/08/25/nx-s1-5943168/cte-nfl-concussions-deaths-study",
+    "summary": "Playing football has long been linked to the brain disease known as CTE, but how prevalent it is is still unknown. A new study of former NFL players who died recently found that at least 25% had CTE.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-25T09:00:00+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "Kids with brain injuries thrive at this camp. But federal research funding is in flux",
+    "url": "https://www.npr.org/2026/08/25/nx-s1-5936617/camp-cranium-tbi-act-brain-injury-concussion-trauma-cdc",
+    "summary": "A Pennsylvania summer camp helps children who have survived brain injuries. But the future of federal funding for brain injury research, as well as grants to states to help such patients, is in limbo.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-25T09:00:00+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "Spokane wildfire evacuees return home, but it's 'still a hazmat situation'",
+    "url": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
+    "summary": "Most evacuees have been allowed to return to their homes near burn zones in Spokane, despite concerns about lingering toxins.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-25T09:00:00+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "Fullspan Health’s AI agent sees strong early traction with 1.1M views since June launch",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/fullspan-healths-conversational-ai-agent-has-racked-11-million-views-june",
+    "summary": "The conversational AI tool—dubbed Healthline AI—is sourced directly from the publisher’s medically reviewed properties.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-25T12:43:38.019604+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "The Movement: MAHA and anti-abortion groups split on FDA nominee",
+    "url": "https://thehill.com/newsletters/the-movement/6048020-overton-fda-maha-abortion-convention-beef/",
+    "summary": "Anti-abortion groups and other conservatives largely applauded the White House announcement that President Trump would nominate health policy aide Dr. Heidi Overton for Food and Drug Administration (FDA) commissioner, viewing her as their champion for, among other things, bringing an end to medication abortion. But others in the conservative world were less thrilled. Overton is not...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-25T12:00:00+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
     "title": "Moody's: A look at payers' 'diverging' paths for MA, ACA markets",
     "url": "https://www.fiercehealthcare.com/payers/moodys-look-payers-diverging-paths-ma-aca-markets",
     "summary": "Major health insurers saw positive signs in the second quarter, but the pressures they've faced over the past year haven't evaporated, according to a new report from analysts at Moody's.",
@@ -2268,135 +2398,5 @@
     "category_slug": "drug-coverage",
     "date": "2026-08-19T12:42:57.431510+00:00",
     "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Physician group sues Trump administration over dietary guidelines process",
-    "url": "https://www.statnews.com/2026/08/19/physician-group-sues-trump-administration-over-dietary-guidelines-food-pyramid-hhs-usda/?utm_campaign=rss",
-    "summary": "The suit, brought by a nonprofit that advocates for plant-based diets, claims HHS and the USDA used a “secret panel” of scientists to flip the food pyramid.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-19T05:00:00+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "STAT+: Trump expected to pick White House adviser Heidi Overton to lead FDA",
-    "url": "https://www.statnews.com/2026/08/18/heidi-overton-fda-commissioner-nominee-white-house-adviser/?utm_campaign=rss",
-    "summary": "Heidi Overton, a doctor and White House adviser, is expected to be President Trump's pick to lead the FDA.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-19T01:18:25+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Included Health Taps Carrum Health for Value-Based Specialty Care",
-    "url": "https://medcitynews.com/2026/08/included-health-taps-carrum-health-for-value-based-specialty-care/",
-    "summary": "Included Health is partnering with Carrum Health to provide high-quality specialty care while reducing costs for employers. The post Included Health Taps Carrum Health for Value-Based Specialty Care appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-18T22:19:30+00:00",
-    "date_str": "Aug 18, 2026"
-  },
-  {
-    "title": "Amylyx Plans FDA Filing After GLP-1 Drug Hits Trial Goals in Rare Metabolic Condition",
-    "url": "https://medcitynews.com/2026/08/amylyx-phh-avexitide-post-bariatric-hypolycemia-glp-1-antagonist-metabolic-disorder-chronic-disease-amlx/",
-    "summary": "Amylyx Pharmaceuticals’ avexitide led to statistically significant and clinically meaningful reductions in hypoglycemic events in patients with post-bariatric hypoglycemia (PBH). This peptide drug, a GLP-1 antagonist, was acquired from Eiger BioPharmaceuticals in 2024. The post Amylyx Plans FDA Filing After GLP-1 Drug Hits Trial Goals in Rare Metabolic Condition appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-18T19:37:33+00:00",
-    "date_str": "Aug 18, 2026"
-  },
-  {
-    "title": "Fauci adviser David Morens pleads guilty to avoiding records requests, conspiracy to defraud government",
-    "url": "https://www.statnews.com/2026/08/18/david-morens-guilty-plea-niaid-fauci-adviser/?utm_campaign=rss",
-    "summary": "Morens said he had agreed to work to avoid public disclosures and to use his influence to advance a company's interests.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-18T21:25:10+00:00",
-    "date_str": "Aug 18, 2026"
-  },
-  {
-    "title": "STAT+: Nonprofit health system raked in $1.1 billion this year from stake in medical billing firm",
-    "url": "https://www.statnews.com/2026/08/18/bon-secours-mercy-revenue-cycle-firm-ensemble-2026-payouts/?utm_campaign=rss",
-    "summary": "Private equity firms have taken a strong interest in revenue cycle management firms, such as Ensemble.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-18T20:50:23+00:00",
-    "date_str": "Aug 18, 2026"
-  },
-  {
-    "title": "Trump administration sued over visa time limit that would affect grad students, postdocs",
-    "url": "https://www.statnews.com/2026/08/18/dhs-sued-over-visa-time-limit-for-foreign-students/?utm_campaign=rss",
-    "summary": "DHS was sued Tuesday over a sweeping policy change that would limit how long foreign students and scholars can remain in the U.S.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-18T19:54:04+00:00",
-    "date_str": "Aug 18, 2026"
-  },
-  {
-    "title": "STAT+: The White House declares ‘promises made, promises kept’ on lowering drug prices. Nice try",
-    "url": "https://www.statnews.com/2026/08/18/white-house-claims-drug-price-drop-examined-ed-silverman-pharmalot/?utm_campaign=rss",
-    "summary": "In its effort to lower drug prices, the White House has declared \"promises made, promises kept.\" That's a narrative that doesn't reflect the full story.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-18T18:42:00+00:00",
-    "date_str": "Aug 18, 2026"
-  },
-  {
-    "title": "Are you scrolling, instead of sleeping again? Here's when it may be an addiction",
-    "url": "https://www.npr.org/2026/08/18/nx-s1-5936249/are-you-scrolling-instead-of-sleeping-again-heres-when-it-may-be-an-addiction",
-    "summary": "Claims that Meta made its platforms addictive are now being tested in court. But what separates a bad scrolling habit from an addiction, and what can people do about it?",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-18T21:06:56+00:00",
-    "date_str": "Aug 18, 2026"
-  },
-  {
-    "title": "Citing Deaths, Docs Urge NCAA to Limit Energy Drink Marketing to Kids",
-    "url": "https://www.medpagetoday.com/special-reports/exclusives/122662",
-    "summary": "(MedPage Today) -- A group of physicians and scientists are calling on the National Collegiate Athletic Association (NCAA) to make changes to its massive collaboration between Big 12 athletics and Monster Energy, citing potential health risks and...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-18T21:44:22+00:00",
-    "date_str": "Aug 18, 2026"
-  },
-  {
-    "title": "Watchdog Urges HHS to Investigate Conflicts Among FDA's Peptide Panelists",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/fdageneral/122661",
-    "summary": "(MedPage Today) -- A consumer watchdog group is demanding that the HHS Office of Inspector General (OIG) look into potential conflicts of interest among members of an FDA advisory committee that recommended that six peptides be added to the list...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-18T21:20:47+00:00",
-    "date_str": "Aug 18, 2026"
-  },
-  {
-    "title": "The Doctors Who 'Don't See Pregnant Patients'",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/122660",
-    "summary": "(MedPage Today) -- The resident was apologetic over the phone, embarrassed for reasons outside his control. He was transferring, from his hospital to ours, a pregnant patient who required consultation for a non-obstetric illness. This alone was...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-18T21:19:22+00:00",
-    "date_str": "Aug 18, 2026"
-  },
-  {
-    "title": "SBRT Misses the Mark in Prostate Cancer Trial",
-    "url": "https://www.medpagetoday.com/hematologyoncology/prostatecancer/122658",
-    "summary": "(MedPage Today) -- Stereotactic body radiotherapy (SBRT) for localized prostate cancer did not improve urinary irritation or disease-free-survival (DFS) compared with hypofractionated intensity-modulated radiotherapy (IMRT), a large randomized...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-18T20:19:56+00:00",
-    "date_str": "Aug 18, 2026"
   }
 ]
