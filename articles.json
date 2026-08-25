@@ -1,5 +1,245 @@
 [
   {
+    "title": "Before You Sign That AI Contract: 7 Questions Every Healthcare CFO Should Ask",
+    "url": "https://medcitynews.com/2026/08/before-you-sign-that-ai-contract-7-questions-every-healthcare-cfo-should-ask/",
+    "summary": "Here’s how finance leaders can evaluate AI investments in revenue cycle management before committing budget, and the risk exposure most vendor pitches leave out. The post Before You Sign That AI Contract: 7 Questions Every Healthcare CFO Should Ask appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-25T13:08:00+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "Pennsylvania reports first 2 measles deaths in the U.S. this year, both people unvaccinated",
+    "url": "https://www.statnews.com/2026/08/25/two-measles-deaths-reported-pennsylvania-residents-not-vaccinated/?utm_campaign=rss",
+    "summary": "Two unvaccinated Pennsylvania residents have died from measles, state health officials said Tuesday, the first measles-related deaths in the U.S. this year.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-25T16:02:24+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "STAT+: How Trump’s funding cuts are reshaping the health system",
+    "url": "https://www.statnews.com/2026/08/25/how-trumps-funding-cuts-are-reshaping-the-health-system/?utm_campaign=rss",
+    "summary": "STAT examines Republicans’ health care funding cuts, mRNA science defeats politics, and Medicaid tries out a new way to deny drug coverage.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-25T14:51:28+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "STAT+: After a years-long slump, Massachusetts biopharma sector has come roaring back in 2026",
+    "url": "https://www.statnews.com/2026/08/25/massachusetts-biotech-slump-then-turnaround/?utm_campaign=rss",
+    "summary": "The number of people working in Massachusetts’ biotech sector fell last year, for the first time since at least 2002. But 2026 is looking up.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-25T13:58:48+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "STAT+: FDA promises new AI guidance, and what happened at Epic’s UGM",
+    "url": "https://www.statnews.com/2026/08/25/fda-promises-new-ai-guidance-and-epic-ugm-updates/?utm_campaign=rss",
+    "summary": "In this edition of STAT Health Tech: FDA's plans for regulating generative AI-powered devices, and updates from EPIC's UGM.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-25T13:44:43+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "STAT+: Turkish antitrust authorities probe Teva for allegedly gaming the patent system, disparaging rival drugs",
+    "url": "https://www.statnews.com/pharmalot/2026/08/25/turkish-authorities-probe-teva-gaming-patent-system-disparaging-rivals/?utm_campaign=rss",
+    "summary": "Turkish regulators are investigating Teva Pharmaceutical for allegedly manipulating the patent system and disparaging rival drugs.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-25T13:43:50+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about RFK Jr. vaccine disclosures, a Merck loss over Medicare prices, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/08/25/rfk-vaccine-disclosure-merck-court-loss-over-medicare/?utm_campaign=rss",
+    "summary": "Democratic senators said RFK Jr.'s recent explanation of how he disposed of a financial stake in Gardasil litigation conflicts with his earlier answers",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-25T13:23:22+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "Trump Administration Takes Second Swing at Hefty Fees for Visa Applicants",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/washington-watch/122748",
+    "summary": "(MedPage Today) -- The Trump administration has doubled down on its efforts to discourage employers from seeking skilled foreign workers, including physicians, through the H-1B visa program, publishing a new draft rule on Tuesday. The proposed...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-25T17:26:33+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "AI-Flagged PH & Pericarditis; Lagging Cardiology Workforce; Multi-Day Heart Rhythms",
+    "url": "https://www.medpagetoday.com/cardiology/generalcardiology/122746",
+    "summary": "(MedPage Today) -- FDA 510(k) clearance was given to Tempus ECG-PH, an artificial intelligence (AI) software that interprets ECGs for signs of pulmonary hypertension (PH). Researchers also developed p-Cal, an AI-based screening tool for pericarditis...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-25T17:11:06+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "Clearing Out the Clutter, in Our Drawers and in Healthcare",
+    "url": "https://www.medpagetoday.com/opinion/patientcenteredmedicalhome/122745",
+    "summary": "(MedPage Today) -- Over the past week, there have been two large-scale decluttering events in my life. Longtime readers of this column will recall that my wife's family has a small house on a lake in central New Hampshire that's been in their...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-25T16:20:34+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "U.S. Measles Deaths Reported",
+    "url": "https://www.medpagetoday.com/infectiousdisease/publichealth/122744",
+    "summary": "(MedPage Today) -- Pennsylvania confirmed two measles-associated deaths, the state's first in 35 years and the first for the U.S. in a record-breaking 2026. The Pennsylvania Department of Health said both occurred in unvaccinated individuals in...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-25T15:55:46+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "Florida, Hard-Hit by ACA Drop-Off, Feels the Squeeze of Rising Healthcare Costs",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/122743",
+    "summary": "(MedPage Today) -- Florida chef Elijah Button was chopping onions in June when his knife slipped and sliced his middle finger to the bone. It was his worst kitchen accident to date. But having given up his Affordable Care Act (ACA) health insurance...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-25T14:40:57+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "FDA Clears Blood Test to Detect Alzheimer's in Primary and Specialty Care",
+    "url": "https://www.medpagetoday.com/neurology/alzheimersdisease/122742",
+    "summary": "(MedPage Today) -- The FDA cleared the Elecsys pTau217 blood test to identify amyloid-beta pathology associated with Alzheimer's disease in people ages 55 and older with symptoms of cognitive decline, Roche announced Monday. The test, developed...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-25T14:23:16+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "Thyroid Meds Recalled Nationwide; Life Expectancy Rebounds; Cannabis Use Hits Record",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/productalert/122741",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Vitruvias Therapeutics issued a nationwide recall of one lot of thyroid tablets USP 30 mg, used to treat hypothyroidism, due to their potential to be superpotent...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-25T13:47:43+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "Healthcare costs could rise by nearly 10% in 2027",
+    "url": "https://www.healthcaredive.com/news/healthcare-costs-projected-to-rise-in-2027/828719/",
+    "summary": "Employers plan to cover more than 80% of the burden, but employees will also be hit by rising costs, an Aon report found.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-25T15:11:00+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "VA deploys Oracle EHR to 3 medical centers in Indiana",
+    "url": "https://www.healthcaredive.com/news/va-deploys-oracle-ehr-to-3-medical-centers-in-indiana/828682/",
+    "summary": "The Department of Veterans Affairs is closer to its goal of adding the new electronic health record to all of its medical centers. Past deployments have been plagued by technical challenges and delays.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-25T13:32:00+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "Elevance’s behavioral health division nabs new president",
+    "url": "https://www.healthcaredive.com/news/carelon-behavioral-health-new-president-patrick-fox/828690/",
+    "summary": "Dr. Patrick Fox, a forensic psychiatrist and health plan leader, will take the reins at Carelon Behavioral Services effective immediately. His experience will be “invaluable” for the unit, a top Elevance executive said.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-25T13:27:45+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "Samaritan Health Services, MultiCare Health System merger approved by Oregon regulator",
+    "url": "https://www.fiercehealthcare.com/providers/samaritan-health-services-join-multicare-health-system",
+    "summary": "The affiliation approved by the nonprofits' boards would create an 18-hospital system with more than $7.5 billion in revenues—and give MultiCare an acute care foothold in Oregon.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-25T18:37:11.290112+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "AI scribe Suki rolls out AI-driven clinical dictation tool",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-scribe-suki-rolls-out-ai-driven-clinical-dictation-tool",
+    "summary": "The tool—dubbed Suki Dictation—is natively built inside Epic and Meditech electronic health records (EHRs) and can be deployed either independently or alongside Suki for Clinicians.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-25T18:37:11.290166+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "2 unvaccinated people die of measles in Pennsylvania",
+    "url": "https://www.politico.com/news/2026/08/25/2-measles-deaths-vaccines-pennsylvania-01049130",
+    "summary": "The U.S. has reported more than 2,700 measles cases this year, the highest annual count since 1991.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-25T17:25:06+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "Florida moves to end certain school vaccination requirements",
+    "url": "https://thehill.com/policy/healthcare/6049653-florida-religious-vaccination-exemptions/",
+    "summary": "The state of Florida wants to roll back a requirement that public and private school children receive four vaccines before enrolling. A proposed rule from the state's Health Department would allow students to attend school and enroll in daycare without first receiving hepatitis B, varicella (chickenpox), Haemophilus influenzae type B (Hib) and pneumococcal conjugate vaccines. ...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-25T18:05:37+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "What is CTE, and how many former NFL players have been diagnosed with it?",
+    "url": "https://thehill.com/policy/healthcare/6048906-what-is-cte-and-how-many-former-nfl-players-have-been-diagnosed-with-it/",
+    "summary": "So far, the degenerative brain disease has only been diagnosed after a person's death.",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-25T16:36:32+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "Thyroid tablets recalled nationwide over potential 'superpotency': FDA",
+    "url": "https://thehill.com/policy/healthcare/6049169-thyroid-tablets-recalled-nationwide-potential-superpotency-fda/",
+    "summary": "Patients taking the affected lot are advised not to discontinue use without first consulting their health care provider.",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-25T16:10:51+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "2 measles-related deaths reported in Pennsylvania",
+    "url": "https://thehill.com/policy/healthcare/6048989-pennsylvania-measles-deaths-unvaccinated/",
+    "summary": "Two individuals have died from measles in Pennsylvania, the state’s Department of Health said Tuesday. Both individuals, who were unvaccinated, lived in Lancaster County. The state health department said in a release it will not identify the deceased to protect their privacy and that of their families. Their deaths marked the first measles-related deaths in...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-25T14:35:23+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
     "title": "Where Florida’s Gun Violence Exacts Its Biggest Toll on Black and Latino Children",
     "url": "https://kffhealthnews.org/public-health/florida-gun-violence-kids-data-analysis-jacksonville-black-latino-disparities/",
     "summary": "An analysis of hospital claims data in Florida found that firearm injuries of children disproportionately hit families in a handful of ZIP codes, almost all of them in Jacksonville, Orlando, Miami, or Tampa Bay.",
@@ -2157,246 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-08-19T12:52:13+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Bringing preventive care into the home",
-    "url": "https://www.fiercehealthcare.com/health-tech/bringing-preventive-care-home",
-    "summary": "Reperio Health co-founder and CEO Travis Rush joins \"Podnosis\" to discuss how at-home screenings and virtual care could make preventive care more convenient and help patients turn health data into action.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-19T18:32:55.671553+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Judge halts Trump’s abstinence-only overhaul of teen sex ed program",
-    "url": "https://www.politico.com/news/2026/08/19/judge-halts-trumps-abstinence-only-overhaul-of-teen-sex-ed-program-01041688",
-    "summary": "But the ruling will not restore tens of millions in funds cut earlier this summer.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-19T17:09:19+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Trump taps White House adviser Heidi Overton to lead FDA",
-    "url": "https://thehill.com/homenews/administration/6039089-trump-heidi-overton-fda-nominee/",
-    "summary": "President Trump tapped Dr. Heidi Overton to be his new Food and Drug Administration (FDA) commissioner, he announced Wednesday on Truth Social. Overton, a physician, is a top White House domestic policy adviser on health issues. If confirmed, she would take over an agency roiled by an exodus of top staff and viewed by many...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-19T17:25:20+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "As US's cyclosporiasis cases surpass 15,000, these are the hardest-hit states",
-    "url": "https://thehill.com/policy/healthcare/6038986-as-uss-cyclosporiasis-cases-surpass-15000-these-are-the-hardest-hit-states/",
-    "summary": "Not all of the cases have been linked to the lettuce outbreak, either.",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-19T17:23:29+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Cyclosporiasis cases now total 15,716: CDC",
-    "url": "https://thehill.com/policy/healthcare/6038649-cdc-cyclosporiasis-outbreak-cases/",
-    "summary": "The number of cyclosporiasis cases in the U.S. has now climbed to more than 15,000, according to the Centers for Disease Control and Prevention (CDC), as federal health officials continue to investigate an outbreak of the “explosive” diarrhea parasite linked to iceberg lettuce. The CDC confirmed Tuesday that it has received reports of 15,716 laboratory-confirmed...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-19T15:53:55+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Moderna, Merck mRNA cancer vaccine prevents melanoma from returning",
-    "url": "https://thehill.com/policy/healthcare/6038285-merck-moderna-melanoma-vaccine-success/",
-    "summary": "An experimental personalized mRNA-based cancer vaccine from Merck and Moderna was successful at preventing melanoma from returning or spreading in a late-stage trial of high risk patients, the companies announced Wednesday. The positive results mean a potentially life-extending treatment is one step closer to being available on the market. They also herald a significant and...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-19T14:54:50+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Congo’s Ebola outbreak reaches 5,000 cases as it outpaces response efforts at unprecedented speed",
-    "url": "https://thehill.com/policy/international/ebola-congo-outbreak-5000-cases/",
-    "summary": "BUNIA, Congo (AP) — The Ebola outbreak in Congo has reached 5,000 cases, government data showed Wednesday, as responders warn it is spreading at an unprecedented speed outpacing efforts to slow it in one of the country’s remotest regions. Data from Congo’s Ministry of Health showed the outbreak had so far recorded 5,021 cases, including...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-19T09:45:17+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Medicare’s Paying Less for Cataract Surgery. Eye Doctors Are Turning to Lucrative Lasers.",
-    "url": "https://kffhealthnews.org/insurance/medicare-cataract-surgery-scalpel-laser-ophthalmology-iol-lenses/",
-    "summary": "More cataract patients, wanting not only restored but improved vision, are paying extra for their doctors to use a laser when a scalpel would do.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-19T09:00:00+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "You Want To Join a Clinical Trial. Here’s What To Know About the Hurdles.",
-    "url": "https://kffhealthnews.org/health-industry/clinical-trials-patients-hhs-easier-advice-on-how-to-enroll-seriously-ill-cancer/",
-    "summary": "The Department of Health and Human Services has launched an effort to streamline clinical research, and legislation is pending in Congress. But patients and providers face participation challenges.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-19T09:00:00+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Dissecting Chinese trial strategy in wake of deaths",
-    "url": "https://www.statnews.com/2026/08/19/health-news-dissecting-chinese-trial-strategy-in-wake-of-deaths/?utm_campaign=rss",
-    "summary": "Cancer \"vaccine\" successfully slowed melanoma, dissecting Chinese trial strategy in wake of deaths, and more health news from Morning Rounds",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-19T11:47:26+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "STAT+: What Epic did — and didn’t — say about AI at its annual meeting",
-    "url": "https://www.statnews.com/2026/08/19/ai-prognosis-what-epic-did-and-didnt-say-about-ai-at-its-annual-meeting/?utm_campaign=rss",
-    "summary": "At Epic's annual meeting, the prevailing question behind closed doors is “What the heck is going on with Epic?”",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-19T11:25:12+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "STAT+: Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial",
-    "url": "https://www.statnews.com/2026/08/19/mrna-cancer-vaccine-trial-melanoma-merck-moderna/?utm_campaign=rss",
-    "summary": "A personalized mRNA cancer vaccine succeeded in a late-stage melanoma study, results that could herald a new, powerful approach in oncology.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-19T10:45:00+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Accrediting body considers changes to racism curriculum standards for public health schools",
-    "url": "https://www.statnews.com/2026/08/19/public-health-education-accrediting-body-ceph-walks-dei-tightrope/?utm_campaign=rss",
-    "summary": "The accrediting group for schools of public health is weighing the removal of language that specifically requires programs to teach about structural bias and racism.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-19T08:30:00+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "STAT+: In wake of boy’s death, gene editing experts dissect Huidagene’s decisions",
-    "url": "https://www.statnews.com/2026/08/19/huidagene-clinical-trial-deaths-experts-dissect-study-design/?utm_campaign=rss",
-    "summary": "Experts question technical improvements Huidagene tried when using a Duchenne muscular dystrophy treatment strategy largely abandoned by U.S. companies.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-19T08:30:00+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Opinion: I’m a pediatrician. AI chatbots are grooming my patients",
-    "url": "https://www.statnews.com/2026/08/19/ai-chatbots-children-grooming-mental-health/?utm_campaign=rss",
-    "summary": "“At present, the law does not recognize that child abuse is child abuse when it’s perpetrated by an algorithm operated by a corporation,” writes a pediatrician.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-19T08:30:00+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "She grew up unvaccinated. Now she’s a leading voice for science — and empathy",
-    "url": "https://www.statnews.com/2026/08/19/science-communication-liz-marnik-vaccine-advocate/?utm_campaign=rss",
-    "summary": "Immunologist Liz Marnik, who grew up unvaccinated, says shaming people who distrust science will do nothing to improve vaccine acceptance.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-19T08:30:00+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Opinion: AI has created a shadow medical system",
-    "url": "https://www.statnews.com/2026/08/19/ai-doctor-outperforms-chatgpt-oura-quest-ro-hims-medical-system/?utm_campaign=rss",
-    "summary": "Financial incentives – health care makes up nearly one-fifth of the American economy – have driven every major AI company into health care.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-19T08:30:00+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Striking hospital employees sound alarm over workplace violence",
-    "url": "https://www.npr.org/2026/08/19/nx-s1-5930385/nurses-strike-hospital-workplace-violence-patient-attacks",
-    "summary": "In addition to pay, striking hospital workers say patient violence is an issue. Hospital workers are seven times more likely to be injured at work due to violent acts than the general working population.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-19T10:00:00+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Congo's Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
-    "url": "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak",
-    "summary": "Government data showed the outbreak had so far recorded 5,021 cases, including 2,378 deaths. The outbreak has infected and killed more people at a greater speed than any other outbreak in history.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-19T09:29:40+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Feeling restless? Level up your life by starting a side quest",
-    "url": "https://www.npr.org/2026/08/19/nx-s1-5936241/feeling-restless-level-up-your-life-start-side-quest",
-    "summary": "Feeling restless in life? Level up your main quest with an activity that has no other purpose than to add whimsy to your life. Play experts share tips on how to find the perfect side quest.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-19T09:02:00+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "15 states have laws that allow corporal punishment in schools. Here's where, and why",
-    "url": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
-    "summary": "There is broad consensus among psychologists that corporal punishment can be harmful to children, but the U.S. has no federal laws banning it in public schools.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-19T09:00:00+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "'This...impacts everyone': Missouri couple brings dementia care to medical deserts",
-    "url": "https://www.npr.org/2026/08/19/nx-s1-5927463/this-impacts-everyone-missouri-couple-brings-dementia-care-to-medical-deserts",
-    "summary": "An estimated 7.4 million Americans live with dementia. That figure is expected to climb in the coming decades. One Missouri couple is on a mission to bring more dementia care to medical deserts.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-19T08:46:10+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "BMI Alone Questioned for Predicting Mortality Risk in Seniors",
-    "url": "https://www.medpagetoday.com/primarycare/obesity/122659",
-    "summary": "(MedPage Today) -- Central adiposity was linked to a higher mortality risk in older adults, independently of body mass index (BMI), according to longitudinal data from a survey study of Medicare beneficiaries. Over more than a decade of follow...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-19T07:01:00+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Epic expands AI ambitions with agent platform, Cosmos-powered predictions and workflow automation",
-    "url": "https://www.fiercehealthcare.com/health-tech/epic-expands-ai-ambitions-agent-platform-cosmos-powered-predictions-and-deeper-workflow",
-    "summary": "As healthcare organizations rapidly adopt artificial intelligence technologies, electronic health record giant Epic aims to be the foundational layer, embedding AI and automation into clinical, operational and administrative workflows.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-19T12:42:57.431510+00:00",
     "date_str": "Aug 19, 2026"
   }
 ]
