@@ -1,5 +1,185 @@
 [
   {
+    "title": "Why Oura’s Sleep-Tracking Lawsuit Is Really About Trust",
+    "url": "https://medcitynews.com/2026/08/oura-wearable-ring-lawsuit/",
+    "summary": "A new class action lawsuit accuses Oura of overstating its smart ring’s sleep tracking accuracy, arguing the device relies on AI-generated estimates rather than the clinical measurements needed for true sleep staging. The case is reigniting questions about how much precision consumers should expect from AI-powered health wearables. The post Why Oura’s Sleep-Tracking Lawsuit Is Really About Trust appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-26T00:00:02+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "Business Group on Health: Employer Healthcare Costs Projected to Rise 9.2% in 2027",
+    "url": "https://medcitynews.com/2026/08/business-group-on-health-employer-healthcare-costs-projected-to-rise-9-2-in-2027/",
+    "summary": "Employers expect healthcare costs to rise 9.2% in 2027 as they seek ways to curb rising hospital and pharmacy costs. The post Business Group on Health: Employer Healthcare Costs Projected to Rise 9.2% in 2027 appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-25T22:24:17+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "J&J’s Imaavy Becomes First FDA-Approved Therapy for Rare Form of Anemia",
+    "url": "https://medcitynews.com/2026/08/johnson-and-johnson-jnj-imaavy-immunology-anemia-waiha-rare-disease-nipocalimab/",
+    "summary": "Johnson & Johnson antibody drug Imaavy expanded its label to include the treatment of warm autoimmune hemolytic anemia (wAIHA). Projected to become a blockbuster seller across multiple indications, Imaavy was first approved last year for treating generalized myasthenia gravis. The post J&J’s Imaavy Becomes First FDA-Approved Therapy for Rare Form of Anemia appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-25T18:41:11+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "STAT+: Sword Health to acquire Headspace, according to filing",
+    "url": "https://www.statnews.com/2026/08/25/sword-health-to-acquire-headspace-per-regulatory-filing/?utm_campaign=rss",
+    "summary": "Sword Health, a digital health company, plans to acquire mental health services provider Headspace, according to a regulatory filing.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-25T20:46:14+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "First Drug OK'd for Warm Autoimmune Hemolytic Anemia",
+    "url": "https://www.medpagetoday.com/hematologyoncology/anemia/122758",
+    "summary": "(MedPage Today) -- The FDA approved nipocalimab (Imaavy) as the first treatment for warm autoimmune hemolytic anemia (wAIHA), the most common form of autoimmune hemolytic anemia. Approval of the immunoselective neonatal Fc receptor (FcRn) blocker...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-25T21:35:51+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "'Practice-Changing' Data Expand Zanidatamab's Approval to Gastroesophageal Cancer",
+    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/122757",
+    "summary": "(MedPage Today) -- The FDA approved zanidatamab (Ziihera) plus tislelizumab (Tevimbra) and chemotherapy as first-line treatment for unresectable/metastatic HER2-positive gastroesophageal cancer. The approval stipulates use in adults with unresectable...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-25T21:15:20+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "More NFL Players Have CTE Than Previously Thought, Study Suggests",
+    "url": "https://www.medpagetoday.com/neurology/headtrauma/122756",
+    "summary": "(MedPage Today) -- At least one in four former National Football League (NFL) players who died from 2016 to 2021 had chronic traumatic encephalopathy (CTE), a retrospective study suggested. Among all NFL players who died from 2008 to 2021, the...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-25T21:04:46+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "Trump Cuts Mask True Extent of Cyclospora Outbreaks",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/122754",
+    "summary": "(MedPage Today) -- While one major multistate Cyclospora outbreak has been making headlines, there are at least six others simmering -- and the sources haven't yet been identified in those cases. Getting to the bottom of those outbreaks may...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-25T20:30:25+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "FDA Authorizes First Wearable Dual Glucose-Ketone Sensor",
+    "url": "https://www.medpagetoday.com/primarycare/diabetes/122753",
+    "summary": "(MedPage Today) -- The FDA authorized the Libre Duo 10 Day Continuous Dual Glucose-Ketone Monitoring System for people ages 2 years and older with diabetes, the agency announced Tuesday. As the first wearable device to track both ketones and glucose...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-25T20:29:04+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "Monoclonal for Dengue Shows Promise in Hospitalized Cases",
+    "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/122752",
+    "summary": "(MedPage Today) -- An investigational monoclonal antibody targeting dengue virus (Dengue-mAb) safely reduced viral loads and infection symptoms, according to a placebo-controlled phase II trial in India. Among 249 adults hospitalized with dengue...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-25T20:23:21+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "'Gray Market' Retatrutide Study; Menopause and the Brain; Drug Allergy Warnings",
+    "url": "https://www.medpagetoday.com/endocrinology/generalendocrinology/122751",
+    "summary": "(MedPage Today) -- People who took \"gray market\" compounded retatrutide, an investigational triple hormone receptor agonist, achieved less weight loss with up to 12 months of treatment than clinical trial participants, a preprint study suggested...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-25T19:43:54+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "Controversial Neurologist to Lead NIH Unit; Hunter Trial Halted; Dads and Valproate",
+    "url": "https://www.medpagetoday.com/neurology/generalneurology/122750",
+    "summary": "(MedPage Today) -- The NIH named John Gaitanis, MD, a pediatric neurologist with controversial views on autism, to lead the agency's child health institute. (Science) Age at menopause was associated with brain volume trajectory in a cohort study...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-25T19:04:04+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "Dementia Drug Helpful With Lupus Brain Fog",
+    "url": "https://www.medpagetoday.com/rheumatology/lupus/122749",
+    "summary": "(MedPage Today) -- Cognitive dysfunction in people with systemic lupus erythematosus (SLE) -- aka \"lupus brain fog\" -- was significantly relieved with the Alzheimer's dementia drug memantine in a small placebo-controlled trial. Twelve weeks...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-25T18:05:54+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
+    "title": "Pennsylvania reports US' first measles-associated deaths of 2026",
+    "url": "https://www.fiercehealthcare.com/providers/pennsylvania-reports-first-measles-associated-deaths-2026",
+    "summary": "Two unidentified but unvaccinated individuals are the state's first deaths related to the vaccine-preventable disease in 35 years. Pennsylvania hosts 393 of the country's 2,777 confirmed cases in 2026.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-26T01:13:46.698501+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "As costs rise, C-suite is getting more involved in healthcare: Employer survey",
+    "url": "https://www.fiercehealthcare.com/payers/costs-rise-c-suite-getting-more-involved-healthcare-employer-survey",
+    "summary": "Sustained cost pressure is forcing employers to reassess their approach to healthcare, according to a new survey.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-26T01:13:46.698577+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "Switchboard Health acquires Livara Health for value-based MSK care, secures $5M funding round",
+    "url": "https://www.fiercehealthcare.com/digital-health/switchboard-health-acquires-livara-health-value-based-msk-care-secures-5m-funding",
+    "summary": "Switchboard will embed Livara’s MSK program in its automation platform for referral management and care navigation.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-26T01:13:46.698618+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "Trump administration proposes new $103K H-1B visa fee",
+    "url": "https://www.fiercehealthcare.com/regulatory/trump-administration-proposes-new-103k-h-1b-visa-fee",
+    "summary": "The Department of Homeland Security has proposed a new H-1B petition fee months after its prior attempt to raise the bar for visa employment was frozen by the courts.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-26T01:13:46.698652+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "Senate Democrats question RFK Jr. on vaccine settlement divestment",
+    "url": "https://thehill.com/policy/healthcare/6049217-senators-question-kennedy-gardasil-divestment/",
+    "summary": "Several Senate Democrats are questioning whether Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. truly divested his financial interests in a lawsuit he helped spearhead challenging the HPV vaccine Gardasil. Before he was confirmed as HHS secretary, Kennedy was part of a lawsuit led by the firm Wisner Baum against the pharmaceutical company...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-25T20:08:00+00:00",
+    "date_str": "Aug 25, 2026"
+  },
+  {
     "title": "Before You Sign That AI Contract: 7 Questions Every Healthcare CFO Should Ask",
     "url": "https://medcitynews.com/2026/08/before-you-sign-that-ai-contract-7-questions-every-healthcare-cfo-should-ask/",
     "summary": "Here’s how finance leaders can evaluate AI investments in revenue cycle management before committing budget, and the risk exposure most vendor pitches leave out. The post Before You Sign That AI Contract: 7 Questions Every Healthcare CFO Should Ask appeared first on MedCity News .",
@@ -2217,186 +2397,6 @@
     "category": "Medicare News",
     "category_slug": "medicare-news",
     "date": "2026-08-19T17:29:30+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Why Bone Health Is Preventive Healthcare’s Next Big Category",
-    "url": "https://medcitynews.com/2026/08/why-bone-health-is-preventive-healthcares-next-big-category/",
-    "summary": "The next healthcare revolution isn’t about treating osteoporosis, it’s about preserving mobility and healthspan. The post Why Bone Health Is Preventive Healthcare’s Next Big Category appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-19T13:38:00+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Trust in science: A new STAT initiative",
-    "url": "https://www.statnews.com/2026/08/19/trust-in-science-a-new-stat-initiative/?utm_campaign=rss",
-    "summary": "Dear Readers, When we launched STAT more than a decade ago, our mission statement promised that we would deliver \"trusted, tough-minded journalism.'' Little did we know that trust would be…",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-19T17:19:33+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "STAT+: Experts scrutinize Huidagene’s disclosures after patient death",
-    "url": "https://www.statnews.com/2026/08/19/biotech-news-experts-scrutinize-huidagene-disclosures-after-patient-death/?utm_campaign=rss",
-    "summary": "Merck and Moderna's mRNA cancer vaccine, an expected nominee to lead the FDA, and more biotech news from The Readout",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-19T17:09:00+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "STAT+: Regeneron drug for disease that causes dangerous bone growth earns FDA approval",
-    "url": "https://www.statnews.com/2026/08/19/regeneron-fop-garetosmab-fda-approval-pasatru/?utm_campaign=rss",
-    "summary": "A Regeneron drug that treats an ultra-rare disease that causes bone to form where it's not meant to be has won approval.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-19T17:02:11+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "STAT+: American Cancer Society cancels alcohol industry fundraiser",
-    "url": "https://www.statnews.com/2026/08/19/cancer-society-cancels-alcohol-industry-gala-fundraiser-deadliest-drug-series/?utm_campaign=rss",
-    "summary": "The American Cancer Society had an optics problem: its annual Wine and Spirits Industry's Gala. It decided to do something about it.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-19T15:18:01+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "STAT+: Brain organoids, kept alive more than five years, matured like human brains",
-    "url": "https://www.statnews.com/2026/08/19/brain-organoids-alive-5-years-neuroscience-research-harvard/?utm_campaign=rss",
-    "summary": "Brain organoids kept alive more than five years continued to develop and mature, and showed molecular and genetic signatures like those of human brains.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-19T15:00:00+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about an FDA commish nominee, mRNA cancer vaccine results, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/08/19/fda-commissioner-nominee-overton-merck-moderna-cancer-vaccine/?utm_campaign=rss",
-    "summary": "President Trump is expected to nominate Heidi Overton, White House deputy director of domestic policy, to serve as the next FDA commissioner",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-19T13:23:14+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "A real-world study of Oregon's nonmedical psilocybin program shows promise",
-    "url": "https://www.npr.org/2026/08/19/nx-s1-5936443/oregon-psilocybin-ptsd-depression-anxiety",
-    "summary": "Oregon was the first state to establish a legalized and regulated psilocybin industry. Since then, thousands have tried magic mushrooms. Here is the latest data from the state's real-life experiment.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-19T15:22:35+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Nobel Prize Winner's 'Pedophile Operation'; Probe of EHR Giant; NIH K Award Changes",
-    "url": "https://www.medpagetoday.com/special-reports/features/122670",
-    "summary": "(MedPage Today) -- The New Yorker examined the sexual abuse of a famed NIH researcher who for decades brought dozens of young boys back to the U.S. from the Pacific islands. D. Carleton Gajdusek, MD, won the Nobel Prize in 1976 for his work on...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-19T17:24:49+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "How AI and Resilience Support Can Help Manage Suicide Risk in the Military",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/militarymedicine/122669",
-    "summary": "(MedPage Today) -- Reports of harsh living conditions and deployment strain aboard aircraft carriers like the USS Abraham Lincoln have brought renewed attention to military mental health. Addressing these challenges, psychiatrists Ronald Kessler...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-19T16:35:23+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Cannabis Use Disorder Rising Among Adults",
-    "url": "https://www.medpagetoday.com/psychiatry/addictions/122668",
-    "summary": "(MedPage Today) -- The prevalence of cannabis use disorder (CUD) increased in adults from 2021 to 2024, while the prevalence of alcohol use disorder (AUD) remained stable, a cross-sectional study showed. Among over 180,000 participants, past-year...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-19T16:03:25+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Flight Attendants, Pilots Have Highest Risk of Dying From Radiation-Linked Cancers",
-    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/122666",
-    "summary": "(MedPage Today) -- Flight attendants and pilots are at the highest risk of dying from radiation-related cancers -- even more than people who work with radioactive materials, according to a new study. Cosmic radiation comes from space. Only a...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-19T14:12:49+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "4 Deaths Linked to Medical Device; New FDA Chief? Human-Chimp Hybrid Attempt",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/productalert/122664",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. The FDA warned of a Class I recall of Becton Dickinson intraosseous vascular access system needle sets because of a defect linked to 45 serious injuries and four...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-19T12:58:45+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Providence Health Plan to close completely after Medicare Advantage deal falls through",
-    "url": "https://www.healthcaredive.com/news/providence-health-plan-medicare-advantage-deal-fails-closure/828195/",
-    "summary": "The regional health plan was in talks with an unnamed national insurer to keep its MA plans afloat. But the agreement sputtered “despite significant effort on all sides,” a Providence spokesperson said.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-19T16:28:47+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Federal judge vacates Trump admin restrictions on ACA gender-affirming care",
-    "url": "https://www.healthcaredive.com/news/judge-vacates-trump-aca-gender-affirming-care-restrictions/828273/",
-    "summary": "The ruling keeps some protections for gender-affirming care in place, but also upholds several other controversial policies paring back the ACA.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-19T15:37:00+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Mayo Clinic taps new CIO as academic medical center doubles down on AI",
-    "url": "https://www.healthcaredive.com/news/mayo-clinic-taps-new-cio-as-academic-medical-center-doubles-down-on-ai/828256/",
-    "summary": "Arun Kumar Bhaskara-Baba, who previously held leadership roles at Honeywell Aerospace and Defense and Johnson & Johnson, will join the health system as Mayo works to scale its AI capabilities.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-19T14:41:09+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "‘Ultimately it’s going to be a great financial decision’: UHS CEO speaks on Talkspace bet",
-    "url": "https://www.healthcaredive.com/news/uhs-talkspace-acquisition-strategy-marc-miller-interview/828152/",
-    "summary": "The health system closed its $835 million acquisition of the virtual therapy provider on Monday. Healthcare Dive caught up with Marc Miller to discuss the rationale behind the deal.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-19T13:24:50+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Epic targets outpatient visits with new AI tool",
-    "url": "https://www.healthcaredive.com/news/epic-targets-outpatient-visits-with-new-ai-tool/828230/",
-    "summary": "Ochsner Health in Louisiana is the first to go live with Epic’s new outpatient office visit tool, which leans on its artificial intelligence capabilities to pull insights from patient records.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-19T12:52:13+00:00",
     "date_str": "Aug 19, 2026"
   }
 ]
