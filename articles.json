@@ -1,5 +1,125 @@
 [
   {
+    "title": "In Toss-Up House District, Voters Crave Leadership To Fix Broken Healthcare",
+    "url": "https://kffhealthnews.org/elections/california-22nd-congressional-district-valadao-villegas-healthcare-affordability/",
+    "summary": "Voters in California’s 22nd Congressional District call healthcare a top priority in November’s midterm elections. Although challenger Randy Villegas has built a following among residents craving change, undecided voters say they want to hear more from the Democrat and from GOP incumbent Rep. David Valadao on their affordability plans.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-26T12:00:00+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "Her Breast MRI Was Approved, But That Didn’t Mean Her Insurance Would Pay",
+    "url": "https://kffhealthnews.org/health-care-costs/breast-cancer-mri-preventive-care-bill-of-the-month-august-2026/",
+    "summary": "Stephanie Halver’s doctor recommended she get a breast MRI, partly because of her family’s cancer history. Her insurer approved the scan, but unlike mammograms, breast MRIs aren’t universally covered as zero-cost preventive care.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-26T09:00:00+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "Trump Puts Autistic Kids in the Spotlight and Cuts Agencies Built To Protect Them",
+    "url": "https://kffhealthnews.org/race-and-health/education-department-civil-rights-office-autism-diagnosis-support-discrimination/",
+    "summary": "Researchers and disability rights advocates warn that the Trump administration’s dismantling of the Education Department and its erosions of civil rights oversight risk widening the disparities autistic children face in diagnosis, school support, and discrimination protection.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-26T09:00:00+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "Newer shingles vaccine linked to lower heart disease risk, ‘natural experiment’ shows",
+    "url": "https://www.statnews.com/2026/08/26/shingles-vaccine-shingrix-reduces-heart-disease-dementia-risk-oxford-study/?utm_campaign=rss",
+    "summary": "Oxford researchers call shingles shot first vaccine protecting both heart and brain. Lower heart disease risk follows study showing reduced dementia risk.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-26T09:00:00+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "STAT+: New treatments for common cardiovascular risk factor near the market, with billions at stake",
+    "url": "https://www.statnews.com/2026/08/26/lp-a-drugs-novartis-amgen-lilly-potential-heart-disease-blockbuster/?utm_campaign=rss",
+    "summary": "High cholesterol can be managed with medicine, but high Lp(a) levels, another common cardiovascular risk, cannot. Drugmakers are hoping to change that.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-26T08:30:00+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "STAT+: When it comes to women’s health, money talks",
+    "url": "https://www.statnews.com/2026/08/26/womens-health-reverse-pitch-profit-driven-approach-endometriosis-osteoporosis/?utm_campaign=rss",
+    "summary": "Women's health experts suggest a 'reverse pitch' approach to endometriosis, osteoporosis, and autoimmune treatments, stressing the profit potential.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-26T08:30:00+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "Opinion: Many post-Dobbs abortion fears have not come to pass. What does that mean for advocates?",
+    "url": "https://www.statnews.com/2026/08/26/dobbs-abortion-predictions-infant-mortality-data-freedom/?utm_campaign=rss",
+    "summary": "Opposition to abortion restrictions should focus on values, not statistics, writes David N. Hackney, author of “Impossible Choices.”",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-26T08:30:00+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "Opinion: Medical aid in dying and the burden of choosing to live",
+    "url": "https://www.statnews.com/2026/08/26/medical-aid-in-dying-new-york-choice-burden-philosophy-ethics/?utm_campaign=rss",
+    "summary": "“Once medical aid in dying becomes available, the status quo changes,” writes Monika Piotrowska.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-26T08:30:00+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "COMIC: 7 lifestyle habits that may boost your chances of getting pregnant",
+    "url": "https://www.npr.org/2026/08/26/nx-s1-5843276/lifestyle-habits-that-boost-fertility-pregnancy",
+    "summary": "This illustrated guide has evidence-backed advice on how to support fertility for both men and women, including which foods to eat and which activities to avoid.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-26T09:02:00+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "Best Evidence Yet That Shingles Vaccine Is Cardioprotective",
+    "url": "https://www.medpagetoday.com/cardiology/generalcardiology/122755",
+    "summary": "(MedPage Today) -- The idea that herpes zoster (shingles) vaccination may have cardiovascular benefits was backed by the results of a natural experiment, researchers found. Investigators saw clear differences in patient outcomes between those...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-26T09:00:00+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "Primary care’s AI opportunity depends on new payment models",
+    "url": "https://www.fiercehealthcare.com/providers/primary-cares-ai-opportunity-depends-new-payment-models",
+    "summary": "Lumeris’ David Carmouche, M.D., explains how AI could help primary care reach more patients and why new payment models may be needed to support that shift.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-26T12:49:15.589355+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "Costs tied to No Surprises Act's IDR process hit $22B in 2025, study finds",
+    "url": "https://www.fiercehealthcare.com/regulatory/costs-tied-no-surprises-acts-idr-process-hit-22b-2025-study-finds",
+    "summary": "Costs associated with the No Surprises Act's dispute resolution process reached $22.4 billion at the end of 2025, according to a new analysis.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-26T12:49:15.589412+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
     "title": "Why Oura’s Sleep-Tracking Lawsuit Is Really About Trust",
     "url": "https://medcitynews.com/2026/08/oura-wearable-ring-lawsuit/",
     "summary": "A new class action lawsuit accuses Oura of overstating its smart ring’s sleep tracking accuracy, arguing the device relies on AI-generated estimates rather than the clinical measurements needed for true sleep staging. The case is reigniting questions about how much precision consumers should expect from AI-powered health wearables. The post Why Oura’s Sleep-Tracking Lawsuit Is Really About Trust appeared first on MedCity News .",
@@ -2277,126 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-08-19T19:30:43+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Trump Picks Heidi Overton for FDA Commissioner: Here's What to Know",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/fdageneral/122673",
-    "summary": "(MedPage Today) -- Heidi Overton, MD, PhD, a top White House aide, has been picked to lead the FDA, President Donald Trump announced Wednesday. Overton is the deputy director of the White House Domestic Policy Council who has worked on several...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-19T19:17:02+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "No Nation Has Escaped Healthcare Rationing. Some Just Hide It Better.",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/122672",
-    "summary": "(MedPage Today) -- The quest for a healthcare system devoid of rationing is, in economic terms, the pursuit of a mirage. While the moral imperative of medicine suggests that care should be a universal right provided without limit, the reality of...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-19T18:46:16+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Rise of Therapy Speak; Bipolar Treatment Review; White House Addiction Strategy",
-    "url": "https://www.medpagetoday.com/psychiatry/generalpsychiatry/122671",
-    "summary": "(MedPage Today) -- In a New York Times essay, a psychiatrist described how a growing number of teen girls and young women are using \"therapy speak\" to describe their mental distress, sometimes showing up at their first session announcing a diagnosis...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-19T18:43:29+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Trump nominates policy aide Overton to lead FDA",
-    "url": "https://www.healthcaredive.com/news/overton-fda-commissioner-trump-white-house-appointment-plans/828307/",
-    "summary": "Heidi Overton, a medical doctor and veteran of the America First think tank, currently serves as deputy director of the White House Domestic Policy Council.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-19T15:30:00+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Many Medicare beneficiaries are confident they understand the program. The data says otherwise",
-    "url": "https://www.fiercehealthcare.com/payers/many-medicare-beneficiaries-are-confident-they-understand-program-theyre-wrong-new-study",
-    "summary": "While many individuals believe they have a firm grasp on their Medicare benefits, the reality is far different, according to a new survey.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-20T01:08:58.457087+00:00",
-    "date_str": "Aug 20, 2026"
-  },
-  {
-    "title": "HHS announces $96.7M in grants for behavioral health services",
-    "url": "https://www.fiercehealthcare.com/regulatory/hhs-announces-967m-grants-behavioral-health-services",
-    "summary": "Services provided include support for homeless individuals with serious mental illness, suicide prevention and early intervention, SUD treatment, peer support and more.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-20T01:08:58.457139+00:00",
-    "date_str": "Aug 20, 2026"
-  },
-  {
-    "title": "Projected healthcare services deal count to be lowest since 2017, PitchBook finds",
-    "url": "https://www.fiercehealthcare.com/finance/projected-healthcare-services-deal-count-be-lowest-2017-pitchbook-finds",
-    "summary": "Three of four segments, except ancillary and outsourced services, face weakness amid macroeconomic headwinds like looming interest rate hikes and low healthcare services utilization.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-20T01:08:58.457170+00:00",
-    "date_str": "Aug 20, 2026"
-  },
-  {
-    "title": "Oracle Health builds out clinical AI agent with coding, chart review tools",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/oracle-health-announces-expansion-clinical-ai-agent-capabilities",
-    "summary": "New capabilities for the clinical AI agent include automated coding, dictation and chart review.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-20T01:08:58.457195+00:00",
-    "date_str": "Aug 20, 2026"
-  },
-  {
-    "title": "Trump picks ‘good soldier’ to lead FDA despite MAHA, industry misgivings",
-    "url": "https://www.politico.com/news/2026/08/19/trump-heidi-overton-fda-maha-makary-01042797",
-    "summary": "Senate Health, Education, Labor and Pensions Committee Chair Bill Cassidy has already signaled her vaccine policy work may cost her his vote.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-19T22:26:11+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Cassidy criticizes Trump's FDA pick, says her role in vaccine order is 'almost disqualifying'",
-    "url": "https://thehill.com/homenews/senate/6039997-bill-cassidy-heidi-overton-fda-vaccines/",
-    "summary": "Sen. Bill Cassidy (R-La.), who chairs the Senate Health Committee, laid out his concerns over President Trump’s choice to tap Dr. Heidi Overton to lead the Food and Drug Administration (FDA), saying her involvement in the administration’s recent vaccine order is “almost disqualifying.” “While I respect Dr. Overton’s experience as a physician, I have strong...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-19T22:06:45+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Federal court pauses Trump changes to Teen Pregnancy Prevention program",
-    "url": "https://thehill.com/policy/healthcare/6039782-judge-blocks-trump-teen-pregnancy-program-changes/",
-    "summary": "A federal judge in Washington, D.C., on Wednesday temporarily blocked the Trump administration’s changes to the Teen Pregnancy Prevention (TPP) program that resulted in the abrupt loss of tens of millions of dollars in federal grants. The order from U.S. District Judge Christopher Cooper, who was appointed by former President Obama, pauses the administration's effort...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-19T20:56:23+00:00",
-    "date_str": "Aug 19, 2026"
-  },
-  {
-    "title": "Merck, Moderna Personalized mRNA Cancer Therapy Achieves a First for Melanoma",
-    "url": "https://medcitynews.com/2026/08/merck-moderna-mrna-cancer-vaccine-neoantigen-intismeran-melanoma-adjuvant-mrk/",
-    "summary": "Merck and Moderna said intismeran autogene, an mRNA cancer vaccine that prompts an immune response to proteins expressed by a patient’s tumors, met the main goal of a pivotal test in melanoma. It’s the most advanced trial in a 50/50 partnership evaluating the personalized cancer treatment in a wide range of tumor types. The post Merck, Moderna Personalized mRNA Cancer Therapy Achieves a First for Melanoma appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-19T17:29:30+00:00",
     "date_str": "Aug 19, 2026"
   }
 ]
