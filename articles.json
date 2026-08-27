@@ -1,5 +1,205 @@
 [
   {
+    "title": "Onos Health Raises $17M to Expand AI-Powered Behavioral Health Platform",
+    "url": "https://medcitynews.com/2026/08/onos-health-raises-17m-to-expand-ai-powered-behavioral-health-platform/",
+    "summary": "Onos Health’s Series A funding round was led by Costanoa, with support from Flare Capital Partners and CVS Health Ventures. The post Onos Health Raises $17M to Expand AI-Powered Behavioral Health Platform appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-26T21:42:42+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "FDA approves landmark pancreatic cancer drug that's shown to improve survival",
+    "url": "https://www.npr.org/2026/08/27/g-s1-140410/fda-approves-landmark-pancreatic-cancer-drug",
+    "summary": "U.S. health officials have approved a groundbreaking pancreatic cancer drug that offers a new approach to treating the deadly form of cancer, by blocking a protein that fuels tumor growth in the vast majority of cases.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-27T06:54:35+00:00",
+    "date_str": "Aug 27, 2026"
+  },
+  {
+    "title": "Drugstores say Medicare's $50 obesity drug program is catching on",
+    "url": "https://www.npr.org/2026/08/26/nx-s1-5940761/medicare-weight-loss-drugs",
+    "summary": "The Bridge program, which began July 1, makes some Medicare beneficiaries eligible for obesity drugs for $50 a month. CVS and Walgreens say they've each already filled 100,000 such prescriptions.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-26T21:11:42+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "GLP-1 Drugs Could Help Narrow Lifespan Gap in Serious Mental Illness",
+    "url": "https://www.medpagetoday.com/psychiatry/generalpsychiatry/122778",
+    "summary": "(MedPage Today) -- Starting a GLP-1 receptor agonist was associated with significantly lower risks of death and cardiovascular events in adults with serious mental illness (SMI), a target trial emulation showed. Among 195,184 propensity score...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-26T21:42:17+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "AMA Sued Over Its 'Paywalled' Billing Codes",
+    "url": "https://www.medpagetoday.com/practicemanagement/reimbursement/122777",
+    "summary": "(MedPage Today) -- Should Current Procedural Terminology (CPT) codes be free for all patients and clinicians to use? That's the question being asked in a recent lawsuit against the American Medical Association (AMA), which holds the copyright to...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-26T21:36:21+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "Nonsurgical Options for Early Rectal Cancer Continue to Show Promise",
+    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/122776",
+    "summary": "(MedPage Today) -- Almost 80% of patients with early-stage rectal cancer remained surgery-free for a year or longer after treatment with chemoradiation therapy (CRT), a large randomized study showed. Among 341 patients who chose not to have upfront...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-26T21:30:04+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "Skin Problems, Kidney Complaints, and Venous Issues Spike During Heat Waves",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/environmentalhealth/122774",
+    "summary": "(MedPage Today) -- When the temperature heats up, so do emergency rooms, according to a massive study of Chicago hospital and urgent care records, which found increased accidental gunshot wounds, kidney complaints, skin problems, varicose veins...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-26T21:05:12+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "GLP-1s May Offer Benefit in Ulcerative Colitis, Real-World Data Suggest",
+    "url": "https://www.medpagetoday.com/gastroenterology/inflammatoryboweldisease/122775",
+    "summary": "(MedPage Today) -- The use of GLP-1 receptor agonists was linked to improved remission rates in patients with ulcerative colitis, a retrospective cohort study suggested. Among 300 patients with ulcerative colitis, use of liraglutide (Victoza...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-26T20:46:53+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "To Face Scrutiny at ESC: Statins for the Elderly, New Heart Attack Therapies",
+    "url": "https://www.medpagetoday.com/meetingcoverage/esc/122773",
+    "summary": "(MedPage Today) -- The European Society of Cardiology (ESC) meeting this week will unveil the latest findings in cardiovascular medicine, including a highly-anticipated statin trial and several studies poised to advance heart attack triage and...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-26T20:12:16+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "FDA Expands Label of Oral HIV Drug to Newborns",
+    "url": "https://www.medpagetoday.com/infectiousdisease/hivaids/122772",
+    "summary": "(MedPage Today) -- The FDA expanded the approval of dolutegravir tablets for oral suspension (Tivicay PD) to include newborns with HIV infections younger than 4 weeks of age, the agency announced on Tuesday. In combination with other antiretroviral...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-26T19:53:03+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "Deaths at Psychedelic Clinics; AI Mental Health Data; School Corporal Punishment",
+    "url": "https://www.medpagetoday.com/psychiatry/generalpsychiatry/122771",
+    "summary": "(MedPage Today) -- Americans continue to seek unregulated psychedelic treatment abroad despite mounting reports of severe health complications and fatalities. (New York Times) Meanwhile, state-regulated psilocybin services in Oregon have been...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-26T19:43:55+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "Two Doctors, One Infected, Recall Their Fight Against Ebola",
+    "url": "https://www.medpagetoday.com/infectiousdisease/ebola/122770",
+    "summary": "(MedPage Today) -- The current Ebola outbreak in the Democratic Republic of Congo (DRC) has brought renewed attention to global outbreak preparedness and the perilous conditions frontline healthcare workers face. This MedPage Today interview...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-26T19:36:55+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "Meta Reaches $18B Settlement With States in Trial Over Teen Social Media Addiction",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/122769",
+    "summary": "(MedPage Today) -- Meta has agreed to pay $18 billion and add stronger child-safety measures to its Facebook and Instagram platforms to end a landmark trial over teen social media addiction and settle claims filed by 47 states, state attorneys...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-26T19:11:16+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "Sword Health to acquire Headspace",
+    "url": "https://www.healthcaredive.com/news/sword-health-to-acquire-headspace/828873/",
+    "summary": "The all-cash deal is expected to close next month, after which Headspace’s wellness services will live under the same roof as Sword's virtual care platform, according to a filing with Massachusetts regulators.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-26T19:09:31+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "No Surprises dispute resolution has generated $22B in extra costs, research finds",
+    "url": "https://www.healthcaredive.com/news/no-surprises-idr-created-22-billion-costs-georgetown-surprise-billing/828817/",
+    "summary": "Accelerating dispute volumes and sky-high award amounts are inflating how much independent dispute resolution is costing the U.S., according to new Georgetown research. Patients could pay the price with higher premiums.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-26T13:52:17+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
+    "title": "US Attorney's Office scandal yields favorable deal for ex-hospital CEO charged with embezzlement",
+    "url": "https://www.fiercehealthcare.com/providers/us-attorneys-office-scandal-yields-favorable-deal-ex-hospital-ceo-charged-embezzlement",
+    "summary": "\"You got lucky here,\" a federal judge told George Miller, who was CEO of Loretto Hospital from 2017 to 2022.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-27T07:41:34.917591+00:00",
+    "date_str": "Aug 27, 2026"
+  },
+  {
+    "title": "Cigna unveils new plan to bring together medical, supplemental benefits",
+    "url": "https://www.fiercehealthcare.com/payers/cigna-unveils-new-plan-aims-bring-together-medical-supplemental-benefits",
+    "summary": "Cigna is looking to better link medical and supplemental benefits for its members and has unveiled a new employer benefit that aims to further that goal.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-27T07:41:34.917645+00:00",
+    "date_str": "Aug 27, 2026"
+  },
+  {
+    "title": "53% of US adults feel they have no say when AI is used in care",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/53-us-adults-feel-they-dont-have-say-when-ai-used-their-healthcare-pew",
+    "summary": "Alongside wanting more input on AI usage in healthcare, nearly half of respondents (46%) report being unsure whether the technology was even used in their care.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-27T07:41:34.917679+00:00",
+    "date_str": "Aug 27, 2026"
+  },
+  {
+    "title": "University of Houston launches interdisciplinary institute to guide local housing interventions",
+    "url": "https://www.fiercehealthcare.com/providers/university-houston-launches-interdisciplinary-housing-institute-inform-policy",
+    "summary": "The Institute for Housing, Homelessness and Health (IH3) will work alongside community orgs, hospitals, local government and housing providers to help the group scale successful approaches. Its focus will be on data integration.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-27T07:41:34.917712+00:00",
+    "date_str": "Aug 27, 2026"
+  },
+  {
+    "title": "General Mills removes artificial colors from US cereals",
+    "url": "https://thehill.com/policy/healthcare/6053393-general-mills-removes-artificial-dyes/",
+    "summary": "General Mills said Wednesday that it has ended the use of artificial coloring in its United States cereal portfolio with intentions to remove the dyes from its full U.S. retail portfolio by the end of 2027. In a press release, the company stated that 90 percent of General Mills's U.S. retail portfolio had made the...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-26T20:49:56+00:00",
+    "date_str": "Aug 26, 2026"
+  },
+  {
     "title": "Cyberattack Disrupts Boston Scientific’s Operations: 7 Things to Know",
     "url": "https://medcitynews.com/2026/08/cyberattack-boston-scientific/",
     "summary": "Boston Scientific disclosed a cyberattack disrupting its global IT systems and order shipping capabilities, with the company unable to provide a timeline for when normal operations will resume. The disclosure adds the medical device giant to a growing list of medtech companies — including Stryker, Medtronic and Abbott — hit by major cyberattacks this year. The post Cyberattack Disrupts Boston Scientific’s Operations: 7 Things to Know appeared first on MedCity News .",
@@ -2197,206 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-08-20T20:05:36+00:00",
-    "date_str": "Aug 20, 2026"
-  },
-  {
-    "title": "Paul Offit's Take on Trump's Vaccine Order",
-    "url": "https://www.medpagetoday.com/infectiousdisease/vaccines/122692",
-    "summary": "(MedPage Today) -- In this MedPage Today video, Paul Offit, MD, director of the Vaccine Education Center at the Children's Hospital of Philadelphia, responds to claims about childhood immunizations made by President Trump in his recent executive...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-20T19:41:14+00:00",
-    "date_str": "Aug 20, 2026"
-  },
-  {
-    "title": "Sugary Drinks and Stomach Cancer; GLP-1 Use in IBD; Fiber Supplements for IBS",
-    "url": "https://www.medpagetoday.com/gastroenterology/gastriccancer/122691",
-    "summary": "(MedPage Today) -- Prospective data from the U.S. found that people who drank a sugar-sweetened beverage each day had a more than twofold risk of developing gastric cancer. (Gastro Hep Advances) A randomized trial failed to support the routine...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-20T19:05:43+00:00",
-    "date_str": "Aug 20, 2026"
-  },
-  {
-    "title": "From the EHR to a Courtroom; MDs Debunk Uterine Fibroid Misinfo; Which Vax Are You?",
-    "url": "https://www.medpagetoday.com/popmedicine/popmedicine/122689",
-    "summary": "(MedPage Today) -- The following contains links to social media websites including Bluesky, X, TikTok, Instagram, Facebook, and LinkedIn. \"Medical documentation was never designed to be a courtroom transcript.\" The focus on clinical notes in the...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-20T18:31:15+00:00",
-    "date_str": "Aug 20, 2026"
-  },
-  {
-    "title": "Most Urban Youth Already on Bad Path by Cardiovascular-Kidney-Metabolic Standards",
-    "url": "https://www.medpagetoday.com/cardiology/generalcardiology/122688",
-    "summary": "(MedPage Today) -- The relatively new concept of cardiovascular-kidney-metabolic (CKM) staging got further validation for young adults, based on a study in an urban population. Among FF-CHAYA study participants followed from birth, the cardiovascular...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-20T18:05:24+00:00",
-    "date_str": "Aug 20, 2026"
-  },
-  {
-    "title": "UnitedHealthcare expands behavioral coaching program for youths",
-    "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-expands-behavioral-coaching-program-youths",
-    "summary": "UnitedHealthcare is expanding access to its child and family behavioral coaching program, making it available to 13 million commercial members.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-21T01:12:57.441097+00:00",
-    "date_str": "Aug 21, 2026"
-  },
-  {
-    "title": "Radial acquires TMS Health Partners, MSO behind network of brain medicine clinics",
-    "url": "https://www.fiercehealthcare.com/providers/radial-acquires-tms-health-partners-mso-behind-network-brain-medicine-clinics",
-    "summary": "Radial is acquiring the non-clinical assets of a leading interventional psychiatry group with 20 brain medicine clinics. These clinics offer cutting-edge brain medicine treatments, including Spravato and TMS.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-21T01:12:57.441152+00:00",
-    "date_str": "Aug 21, 2026"
-  },
-  {
-    "title": "Cityblock inks deal to acquire Homeward Health to move into rural healthcare, lands $116M funding round",
-    "url": "https://www.fiercehealthcare.com/health-tech/cityblock-acquires-homeward-health-move-rural-healthcare-lands-116m-funding-round",
-    "summary": "Combined, the two companies will serve nearly 250,000 people and are positioned to reach the 120 million people receiving government-funded healthcare in the U.S., Toyin Ajayi, Cityblock Health CEO and co-founder, wrote in a blog post.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-21T01:12:57.441210+00:00",
-    "date_str": "Aug 21, 2026"
-  },
-  {
-    "title": "Americans' drinking remains at record low: Poll",
-    "url": "https://thehill.com/policy/healthcare/6042392-american-drinking-reaches-historic-lows/",
-    "summary": "Americans' drinking remains at historically low levels with a survey released Thursday reporting the lowest levels of alcohol consumption among Americans in its history, dating back to 1939. A new Gallup survey found the share of Americans who consume alcohol held at 54 percent for the second consecutive year. Self-reported drinking has been falling in...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-20T20:59:00+00:00",
-    "date_str": "Aug 20, 2026"
-  },
-  {
-    "title": "The Imperative of Distinguishing Medical-Grade Devices from Wellness Tech",
-    "url": "https://medcitynews.com/2026/08/the-imperative-of-distinguishing-medical-grade-devices-from-wellness-tech/",
-    "summary": "Why the flood of consumer wellness devices demands clear boundaries between lifestyle improvement and clinical diagnostics The post The Imperative of Distinguishing Medical-Grade Devices from Wellness Tech appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-20T16:34:51+00:00",
-    "date_str": "Aug 20, 2026"
-  },
-  {
-    "title": "AI in Pharmacovigilance: Why Governance Will Define Success",
-    "url": "https://medcitynews.com/2026/08/ai-in-pharmacovigilance-why-governance-will-define-success/",
-    "summary": "As adoption accelerates, organizations must ensure that the use of AI strengthens and not weakens accountability and patient safety. The post AI in Pharmacovigilance: Why Governance Will Define Success appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-20T13:54:00+00:00",
-    "date_str": "Aug 20, 2026"
-  },
-  {
-    "title": "STAT+: How a Trump loyalist got the FDA nomination",
-    "url": "https://www.statnews.com/2026/08/20/heidi-overton-fda-commissioner-nominee-erica-schwartz-cdc-speech/?utm_campaign=rss",
-    "summary": "What you need to know about Heidi Overton, and Erica Schwartz's first speech to CDC staff.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-20T14:38:32+00:00",
-    "date_str": "Aug 20, 2026"
-  },
-  {
-    "title": "STAT+: FDA approves Ultragenyx gene therapy",
-    "url": "https://www.statnews.com/2026/08/20/biotech-news-fda-approves-utlragenyx-gene-therapy/?utm_campaign=rss",
-    "summary": "Regeneron wins ultra-rare disease drug approval, a validating win for mRNA research, and more biotech news from The Readout",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-20T13:38:04+00:00",
-    "date_str": "Aug 20, 2026"
-  },
-  {
-    "title": "Contrasting legal decisions on gender-affirming care",
-    "url": "https://www.statnews.com/2026/08/20/health-news-contrasting-legal-decisions-on-gender-affirming-care/?utm_campaign=rss",
-    "summary": "Heidi Overton's rise under Trump, inside a 5-year-old brain organoid, and other health news from Morning Rounds",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-20T13:29:08+00:00",
-    "date_str": "Aug 20, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a Regeneron rare disease drug, an Ultragenyx gene therapy, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/08/20/regeneron-rare-disease-drug-utragenyx-gene-therapy/?utm_campaign=rss",
-    "summary": "A Regeneron drug for an ultra-rare disease that causes bone to grow where it shouldn't won U.S. regulatory approval, capping a three-decade effort",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-20T13:01:05+00:00",
-    "date_str": "Aug 20, 2026"
-  },
-  {
-    "title": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA",
-    "url": "https://www.npr.org/2026/08/20/nx-s1-5939549/heidi-overton-fda-commissioner-trump-senate-nomination",
-    "summary": "Dr. Heidi Overton is currently working as a White House policy aide. If confirmed, she would lead an agency of 18,000 staffers who study and regulate food, drugs, medical devices, tobacco and more.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-20T16:49:11+00:00",
-    "date_str": "Aug 20, 2026"
-  },
-  {
-    "title": "Can Creatine Help Non-Athletes? A Physical Therapist Weighs In",
-    "url": "https://www.medpagetoday.com/popmedicine/cultureclinic/122687",
-    "summary": "(MedPage Today) -- Welcome to Culture Clinic, MedPage Today's collaboration with Northwell Health to offer a healthcare professional's take on the latest viral medical topics. Creatine may help boost athletes' ability to perform high-intensity...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-20T17:49:50+00:00",
-    "date_str": "Aug 20, 2026"
-  },
-  {
-    "title": "We're Former AHRQ Leaders. Patient Safety Must Never be Partisan.",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/122686",
-    "summary": "(MedPage Today) -- Americans understandably worry about affording healthcare. But they should also be concerned about its safety. Every day patients are harmed -- not due to lack of medical advancement, but because our health system too often...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-20T16:57:01+00:00",
-    "date_str": "Aug 20, 2026"
-  },
-  {
-    "title": "Doc Imposter Sold GLP-1s; Fraudster Fugitive Nabbed; Plastic Surgeon's Lawsuits",
-    "url": "https://www.medpagetoday.com/special-reports/features/122684",
-    "summary": "(MedPage Today) -- A Chicago man was charged with a scheme to impersonate doctors to obtain unauthorized GLP-1 medications on behalf of individuals who paid him, the Department of Justice (DOJ) said. A pair of shareholder groups are suing UnitedHealth...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-20T15:23:13+00:00",
-    "date_str": "Aug 20, 2026"
-  },
-  {
-    "title": "New CDC Director Acknowledges Agency Problems in First Large Staff Meeting",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/washington-watch/122683",
-    "summary": "(MedPage Today) -- In her first large staff meeting, the new director of the CDC promised Wednesday to advocate for the agency while acknowledging that congressionally funded programs lacked staff and employees were feeling burned out. Erica Schwartz...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-20T14:18:31+00:00",
-    "date_str": "Aug 20, 2026"
-  },
-  {
-    "title": "Knee Surgery Ends in Paralysis; Cassidy Flags FDA Nominee; Camilla on King's Cancer",
-    "url": "https://www.medpagetoday.com/surgery/orthopedics/122682",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. A routine knee replacement surgery ended in paralysis after a medication mix-up led to a patient reportedly getting \"contaminated vials\" that contained potassium...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-20T13:41:16+00:00",
     "date_str": "Aug 20, 2026"
   }
 ]
