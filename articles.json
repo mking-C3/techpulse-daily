@@ -1,5 +1,205 @@
 [
   {
+    "title": "Trump and Kennedy’s Health Industry Deals Haven’t Been Enforced and Are at Risk of Vanishing",
+    "url": "https://kffhealthnews.org/health-industry/trump-kennedy-food-dyes-price-deals-unenforced-vanishing/",
+    "summary": "The agreements, covering issues like drug pricing, reducing the use of synthetic food dyes, and cutting back on insurance prior authorization rules, were announced with fanfare and touted as victories. But it’s not clear whether they’ll result in lasting change.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-28T09:00:00+00:00",
+    "date_str": "Aug 28, 2026"
+  },
+  {
+    "title": "Why Older Pedestrians Fare Worse in Car Crashes",
+    "url": "https://kffhealthnews.org/aging/older-pedestrians-risk-deaths-new-old-age/",
+    "summary": "People age 65 and up are more likely than other age groups to die after being hit by a vehicle.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-28T09:00:00+00:00",
+    "date_str": "Aug 28, 2026"
+  },
+  {
+    "title": "High Fertility Costs Push Americans Abroad for IVF Treatment",
+    "url": "https://kffhealthnews.org/health-care-costs/ivf-tourism-fertility-in-vitro-fertilization-high-costs-pregnancy-parenthood-greece/",
+    "summary": "Despite President Donald Trump’s promises to make fertility treatment more affordable, the overall costs for one IVF cycle in the U.S. remain in the tens of thousands of dollars. So more Americans than ever are going to Europe to seek IVF treatment for a fraction of the cost.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-28T09:00:00+00:00",
+    "date_str": "Aug 28, 2026"
+  },
+  {
+    "title": "STAT+: In autopsy of failed heart disease study, AstraZeneca raises broader questions about silencer drugs",
+    "url": "https://www.statnews.com/2026/08/28/astrazeneca-ionis-wainua-eplontersen-attr-cm-study-failure-bridgebio-alnylam/?utm_campaign=rss",
+    "summary": "AstraZeneca detailed the surprise failure of a closely watched heart disease trial, a study with ripple effects for a competitive billion-dollar market.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-28T09:23:13+00:00",
+    "date_str": "Aug 28, 2026"
+  },
+  {
+    "title": "STAT+: Vaccines take center stage at federal autism advisory committee",
+    "url": "https://www.statnews.com/2026/08/28/vaccines-autism-advisory-committee-strategic-plan-boost-research-funding/?utm_campaign=rss",
+    "summary": "Comments about vaccines overshadowed an advisory committee meeting to discuss a plan for boosting federal funding for autism research.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-28T08:30:00+00:00",
+    "date_str": "Aug 28, 2026"
+  },
+  {
+    "title": "Opinion: A billing code was supposed to incentivize relationship-based primary care for Medicare patients. It may not be working as hoped",
+    "url": "https://www.statnews.com/2026/08/28/medicare-g2211-code-billing-research-primary-care/?utm_campaign=rss",
+    "summary": "Primary care is much more than what happens during an office visit, writes physician Ishani Ganguli.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-28T08:30:00+00:00",
+    "date_str": "Aug 28, 2026"
+  },
+  {
+    "title": "Opinion: We quit the CDC last year. The problems we protested remain",
+    "url": "https://www.statnews.com/2026/08/28/cdc-protest-resignations-one-year-later-houry-jernigan-daskalakis/?utm_campaign=rss",
+    "summary": "How disease spreads and the risks and benefits of interventions are questions for science, not for ideology.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-28T08:30:00+00:00",
+    "date_str": "Aug 28, 2026"
+  },
+  {
+    "title": "STAT+: The mystery of Moderna’s magic algorithm",
+    "url": "https://www.statnews.com/2026/08/27/moderna-merck-cancer-vaccine-secret-ingredient-an-algorithm/?utm_campaign=rss",
+    "summary": "A personalized cancer vaccine developed by Moderna and Merck may be a triumph of immunology and cancer biology. It might also be the triumph of an algorithm.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-27T08:30:00+00:00",
+    "date_str": "Aug 27, 2026"
+  },
+  {
+    "title": "A state gave sheriffs 20% of its opioid settlement cash. We followed the money",
+    "url": "https://www.statnews.com/2026/08/27/opioid-settlement-funds-enforcement-or-treatment-louisiana-sheriff-investigation/?utm_campaign=rss",
+    "summary": "KFF Health News examines how sheriffs are spending opioid settlement money, finds they're spending millions on police gear.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-27T08:30:00+00:00",
+    "date_str": "Aug 27, 2026"
+  },
+  {
+    "title": "Hospitals are plotting a long-shot push to roll back $1 trillion in Medicaid cuts",
+    "url": "https://www.statnews.com/2026/08/27/hospitals-lobby-reverse-medicaid-cuts-part-2-unraveled-series/?utm_campaign=rss",
+    "summary": "Inside health systems' efforts to mitigate massive funding cuts.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-27T08:30:00+00:00",
+    "date_str": "Aug 27, 2026"
+  },
+  {
+    "title": "Opinion: STAT+: A bill is supposed to protect U.S. biotech from Chinese competition. But there’s a loophole",
+    "url": "https://www.statnews.com/2026/08/27/binsa-biotech-china-eurowashing-geography-clinical-trials/?utm_campaign=rss",
+    "summary": "“Biotech industry leaders must forge a new geographic path before heavy-handed legislation forces the issue,” write executives at Optimapharm.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-27T08:30:00+00:00",
+    "date_str": "Aug 27, 2026"
+  },
+  {
+    "title": "Opinion: I studied Reddit forums on menopause — and found what doctors are missing",
+    "url": "https://www.statnews.com/2026/08/27/menopause-perimenopause-symptoms-reddit-clinical-data-study/?utm_campaign=rss",
+    "summary": "“The menopause symptoms women are discussing online should become the questions researchers ask next,” writes researcher Yulin Hswen.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-27T08:30:00+00:00",
+    "date_str": "Aug 27, 2026"
+  },
+  {
+    "title": "Can't stop fixating on the way you look? These 4 mental exercises may help",
+    "url": "https://www.npr.org/2026/08/28/nx-s1-5946751/cant-stop-fixating-on-the-way-you-look-these-4-mental-exercises-may-help",
+    "summary": "Obsessing over your looks should not take up all your energy, says psychologist Diana Hill. If you're struggling with uncomfortable thoughts about your body, ground yourself with these techniques.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-28T09:01:00+00:00",
+    "date_str": "Aug 28, 2026"
+  },
+  {
+    "title": "RFK Jr. Suggests 'Fabricated' Measles Deaths, Spreads MMR Misinfo",
+    "url": "https://www.medpagetoday.com/infectiousdisease/vaccines/122800",
+    "summary": "(MedPage Today) -- In the wake of two measles-associated deaths in Pennsylvania, including an infant, Health Secretary Robert F. Kennedy Jr. took to social media to suggest the deaths may have been fabricated and to spread debunked claims about...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-27T21:44:08+00:00",
+    "date_str": "Aug 27, 2026"
+  },
+  {
+    "title": "First Oral Option for Dermatomyositis Gets FDA Green Light",
+    "url": "https://www.medpagetoday.com/dermatology/generaldermatology/122799",
+    "summary": "(MedPage Today) -- The FDA approved the first oral treatment option for the autoimmune disorder dermatomyositis. Brepocitinib (Lisraya) is indicated for adults with the rare condition, which causes chronic inflammation, progressive muscle weakness...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-27T21:40:11+00:00",
+    "date_str": "Aug 27, 2026"
+  },
+  {
+    "title": "Dementia Risks Vary by Menopause Hormone Therapy Timing, Study Shows",
+    "url": "https://www.medpagetoday.com/neurology/dementia/122798",
+    "summary": "(MedPage Today) -- Hormone replacement therapy (HRT) was tied to a lower risk of dementia in a prospective study of nearly 185,000 postmenopausal women in the U.K. Biobank. Over 13 years of follow-up, HRT use was associated with a lower risk of...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-27T21:37:25+00:00",
+    "date_str": "Aug 27, 2026"
+  },
+  {
+    "title": "California, Federal Government Battle Over Hospice Fraud, as Victims Lose Coverage",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/122797",
+    "summary": "(MedPage Today) -- At 71 and a few years into retirement, Linda Henry felt like she was in good health, and only went to her doctor in Southern California for the occasional checkup. So it was a shock when she found out in 2024 that she had been...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-27T21:30:46+00:00",
+    "date_str": "Aug 27, 2026"
+  },
+  {
+    "title": "Shapiro won’t say who died of measles. RFK Jr. is exploiting it.",
+    "url": "https://www.politico.com/news/2026/08/27/rfk-jr-josh-shapiro-pennsylvania-measles-deaths-01053553",
+    "summary": "The Health secretary suggested the Pennsylvania governor is hiding something about the deaths’ cause. Shapiro says he can’t say more.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-27T22:21:12+00:00",
+    "date_str": "Aug 27, 2026"
+  },
+  {
+    "title": "FDA approves new COVID-19 shots",
+    "url": "https://thehill.com/policy/healthcare/6056305-fda-approves-updated-covid-vaccines/",
+    "summary": "The Food and Drug Administration approved updated COVID-19 vaccines on Thursday for people at higher risk, clearing the way for manufacturers to begin shipping them to pharmacies and physicians' offices. The agency greenlit new formulations of the mRNA vaccines from Pfizer-BioNTech and Moderna, the companies said. FDA also approved a non-mRNA shot from Sanofi, which...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-27T23:18:49+00:00",
+    "date_str": "Aug 27, 2026"
+  },
+  {
+    "title": "Trump officials cast doubt on Pennsylvania measles death claims",
+    "url": "https://thehill.com/policy/healthcare/6056162-trump-officials-question-pennsylvania-measles/",
+    "summary": "Top Trump administration health officials are openly questioning the circumstances of two deaths that Pennsylvania officials attributed to measles. “We don't know exactly what happened in Pennsylvania yet,” Dr. Mehmet Oz, administrator of the Centers for Medicare and Medicaid Services, said in an interview Thursday on Fox Business. “We don't know if the children died...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-27T22:03:00+00:00",
+    "date_str": "Aug 27, 2026"
+  },
+  {
     "title": "A State Gave Sheriffs 20% of Its Opioid Settlement Cash. We Followed the Money.",
     "url": "https://kffhealthnews.org/public-health/louisiana-sheriffs-opioid-settlement-spending-addiction-law-enforcement/",
     "summary": "Opioid settlement cash was meant to abate the addiction crisis. But a new investigation reveals millions in Louisiana was spent on law enforcement gear and police technology instead of lifesaving treatment.",
@@ -2198,205 +2398,5 @@
     "category_slug": "senior-health",
     "date": "2026-08-22T16:00:00+00:00",
     "date_str": "Aug 22, 2026"
-  },
-  {
-    "title": "Novel Tuberculosis Vaccine Falls Short",
-    "url": "https://www.medpagetoday.com/infectiousdisease/tuberculosis/122708",
-    "summary": "(MedPage Today) -- An investigational tuberculosis (TB) vaccine didn't top the standard bacillus Calmette-Guérin (BCG) vaccine at preventing infections in infants, a multicenter, phase III trial showed. Among nearly 6,900 newborns in sub...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-22T14:00:00+00:00",
-    "date_str": "Aug 22, 2026"
-  },
-  {
-    "title": "Democrats see political gain in Ohio’s health care pain",
-    "url": "https://www.politico.com/news/2026/08/22/democrats-see-political-gain-ohio-health-care-pain-01045704",
-    "summary": "Surging costs and plummeting insurance coverage could give Ohio Democrats their best chance in years to win back power.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-22T18:00:00+00:00",
-    "date_str": "Aug 22, 2026"
-  },
-  {
-    "title": "Cases of 'scromiting' condition tied to cannabis use spike among teens, young adults: New study",
-    "url": "https://thehill.com/policy/healthcare/6036144-cases-of-scromiting-condition-tied-to-cannabis-use-spike-among-teens-young-adults-new-study/",
-    "summary": "The syndrome has long been linked to chronic use of marijuana.",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-22T16:00:00+00:00",
-    "date_str": "Aug 22, 2026"
-  },
-  {
-    "title": "Across the country, Kennedy touts MAHA, but not vaccines",
-    "url": "https://thehill.com/policy/healthcare/6044498-kennedy-vaccine-order-maha-priorities/",
-    "summary": "Health and Human Services Secretary Robert F. Kennedy Jr. stood in the Oval Office last week as President Trump proudly signed an executive order to reduce childhood vaccines, heavily implying a link between vaccines and autism. But when Kennedy made appearances in California and then hit the campaign trail for Republicans in Iowa over the...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-22T16:00:00+00:00",
-    "date_str": "Aug 22, 2026"
-  },
-  {
-    "title": "Journalists Highlight Innovations in Vaccines and Safeguarding Maternal Health",
-    "url": "https://kffhealthnews.org/on-air/on-air-august-22-2026-melanoma-mrna-vaccine-deloitte-maternal-wristbands-shop-around-for-surgery/",
-    "summary": "KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here’s a collection of their appearances.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-22T09:00:00+00:00",
-    "date_str": "Aug 22, 2026"
-  },
-  {
-    "title": "Data Show How Congo's Ebola Outbreak Is on Track to Surpass History's Largest",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/122715",
-    "summary": "(MedPage Today) -- The Ebola outbreak that is spreading at unprecedented speed in Congo has not peaked yet and could be three times the current known size, according to data from authorities and Africa's top public health agency. It is history...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-22T12:00:00+00:00",
-    "date_str": "Aug 22, 2026"
-  },
-  {
-    "title": "This Week In Epic News: FTC Probe, AI Agents & More",
-    "url": "https://medcitynews.com/2026/08/epic-ftc-agentic-ai/",
-    "summary": "Epic faced an FTC antitrust probe this week, but that didn’t stop the EHR giant from unveiling a wave of new AI tools at its annual conference. The post This Week In Epic News: FTC Probe, AI Agents & More appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-22T02:58:44+00:00",
-    "date_str": "Aug 22, 2026"
-  },
-  {
-    "title": "Ambros Therapeutics’ Path for Pain Drug Goes Through Reverse Merger With Werewolf",
-    "url": "https://medcitynews.com/2026/08/ambros-werewolf-therapeutics-reverse-merger-chronic-pain-neridronate-abiogen-crps-1-ambx/",
-    "summary": "Along with Ambros Therapeutics’ merger with Werewolf Therapeutics, the combined company will raise $150 million in a private placement. Ambros is in Phase 3 testing with a drug developed for treating a type of pain that does not respond to currently available medicines, including opioids. The post Ambros Therapeutics’ Path for Pain Drug Goes Through Reverse Merger With Werewolf appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-21T19:37:43+00:00",
-    "date_str": "Aug 21, 2026"
-  },
-  {
-    "title": "How to think about this summer's slate of food safety recalls",
-    "url": "https://www.npr.org/2026/08/21/nx-s1-5940779/how-to-think-about-this-summers-slate-of-food-safety-recalls",
-    "summary": "NPR's David Folkenflik talks with Don Schaffner, a food microbiology specialist and distinguished professor at Rutgers University, about this summer's foodborne illnesses and recalls.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-21T21:33:41+00:00",
-    "date_str": "Aug 21, 2026"
-  },
-  {
-    "title": "Ousting RFK Jr. Among the Priorities for This Doctor Running for Senate",
-    "url": "https://www.medpagetoday.com/washington-watch/electioncoverage/122722",
-    "summary": "(MedPage Today) -- As part of MedPage Today's series on healthcare clinicians running for office, Washington Editor Joyce Frieden spoke with Annie Andrews, MD, a pediatric hospitalist who is running as a Democrat for a U.S. Senate seat in South...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-21T21:28:23+00:00",
-    "date_str": "Aug 21, 2026"
-  },
-  {
-    "title": "Lindsay Clancy's Defense Rests After Postpartum Psychosis Testimony",
-    "url": "https://www.medpagetoday.com/nursing/nursing/122721",
-    "summary": "(MedPage Today) -- The defense rested its case Friday in the Lindsay Clancy murder trial after eliciting several days of testimony about her mental state before and after she strangled her three young children. Prosecutors then began calling rebuttal...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-21T20:52:07+00:00",
-    "date_str": "Aug 21, 2026"
-  },
-  {
-    "title": "Alfalfa Sprouts Linked to 15-State Food-Poisoning Outbreak",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/122720",
-    "summary": "(MedPage Today) -- U.S. health officials say a food-poisoning outbreak tied to alfalfa sprouts and involving both Salmonella and E. coli has sickened people in 15 states. State officials announced the outbreak earlier this week, saying they documented...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-21T20:39:30+00:00",
-    "date_str": "Aug 21, 2026"
-  },
-  {
-    "title": "Risk of Pancreatic Cysts Becoming Cancer Grows as Worrisome Traits Increase",
-    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/122719",
-    "summary": "(MedPage Today) -- An accumulation of worrisome or high-risk traits in pancreatic cysts increased the likelihood of a subsequent pancreatic cancer diagnosis, a prospective single-center study of more than 200 patients showed. During almost 3 years...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-21T20:29:59+00:00",
-    "date_str": "Aug 21, 2026"
-  },
-  {
-    "title": "Popular Diet May Not Help for Weight, but Trial Points to Another Benefit",
-    "url": "https://www.medpagetoday.com/primarycare/dietnutrition/122717",
-    "summary": "(MedPage Today) -- A Mediterranean-style diet program did not lead to greater weight loss compared with a control intervention among primary care patients with obesity, though it did improve diet quality, the DELISH trial showed. Missing the trial...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-21T20:07:25+00:00",
-    "date_str": "Aug 21, 2026"
-  },
-  {
-    "title": "Can Brain Proteins Spread by Blood Transfusions? Early Research Prompts Closer Look.",
-    "url": "https://www.medpagetoday.com/neurology/generalneurology/122716",
-    "summary": "(MedPage Today) -- Blood transfusions could possibly transmit harmful brain proteins like amyloid-beta, a review suggested, and additional research and safety measures may be warranted. \"The risks of transfusion-related transmission of amyloid...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-21T19:40:35+00:00",
-    "date_str": "Aug 21, 2026"
-  },
-  {
-    "title": "Early Sugar Exposure and Cancer Risk; Melanoma Vaccine Win; 'Antifreeze' for CAR-T",
-    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/122712",
-    "summary": "(MedPage Today) -- People who had restricted sugar exposure during the first 2 years of life grew into adults with a lower risk of cancer. (American Journal of Clinical Nutrition) Meanwhile, women who consumed a diet high in antioxidants had a...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-21T18:11:47+00:00",
-    "date_str": "Aug 21, 2026"
-  },
-  {
-    "title": "RFK Jr.’s barnstorming the country for the GOP",
-    "url": "https://www.politico.com/news/2026/08/21/rfk-midterms-maha-vaccines-food-pesticides-01046544",
-    "summary": "The health secretary toured the heartland this week while Trump nominated a loyal aide to lead one of Robert F. Kennedy Jr.’s agencies.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-21T22:50:39+00:00",
-    "date_str": "Aug 21, 2026"
-  },
-  {
-    "title": "Outbreak linked to alfalfa sprouts; people sickened with E. coli and salmonella",
-    "url": "https://thehill.com/policy/healthcare/6044230-cdc-ecoli-salmonella-outbreak-alfalfa-sprouts/",
-    "summary": "The Centers for Disease Control and Prevention (CDC) said Friday that alfalfa sprouts are linked to a current E. coli and salmonella outbreak. The agency has tied several foodborne illness cases to the consumption of alfalfa sold under the Calco and Everything Sprouts brands, also urging Americans who have purchased the affected sprouts to throw...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-21T20:52:04+00:00",
-    "date_str": "Aug 21, 2026"
-  },
-  {
-    "title": "HHS launches autistic missing persons alert initiative",
-    "url": "https://thehill.com/policy/healthcare/6044106-hhs-autism-missing-person-initiative/",
-    "summary": "The Department of Health and Human Services (HHS) announced on Friday a new federal initiative to improve preparedness and response efforts when individuals with autism are reported missing. The agency will partner with the Department of Justice and the Federal Emergency Management Agency to strengthen coordination among emergency management agencies, law enforcement, first responders and...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-21T19:10:49+00:00",
-    "date_str": "Aug 21, 2026"
-  },
-  {
-    "title": "Employer health costs projected to rise 9.5 percent",
-    "url": "https://thehill.com/policy/healthcare/6043869-aon-projects-employee-health-costs-rise/",
-    "summary": "A new risk analysis released by leading insurance broker Aon this week projected that employer health costs in the U.S. will rise by roughly 10 percent in 2027. Aon, the second largest global insurance broker, projected that at the current status quo, employer healthcare costs will rise by 9.5 percent next year. This would mean...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-21T18:57:23+00:00",
-    "date_str": "Aug 21, 2026"
   }
 ]
