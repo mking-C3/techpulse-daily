@@ -1,5 +1,45 @@
 [
   {
+    "title": "STAT+: FDA approves Protagonist and Takeda’s drug for rare blood cancer",
+    "url": "https://www.statnews.com/2026/08/30/fda-approves-mimrylo-takeda-protagonist-treatment-for-polycythemia-vera/?utm_campaign=rss",
+    "summary": "Mimrylo, from Takeda and Protagonist, is a new kind of treatment for the blood cancer polycythemia vera.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-30T18:30:18+00:00",
+    "date_str": "Aug 30, 2026"
+  },
+  {
+    "title": "STAT+: Alnylam defends heart disease drugs after failure of AstraZeneca’s Wainua",
+    "url": "https://www.statnews.com/2026/08/30/alnylam-attr-astrazeneca-wainua-attruby-heart-disease/?utm_campaign=rss",
+    "summary": "An AstraZeneca heart disease trial failure has put Alnylam under pressure. It's mounting a defense of its medicines.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-30T17:29:05+00:00",
+    "date_str": "Aug 30, 2026"
+  },
+  {
+    "title": "'I Really Hoped That I Had Malaria': What We Heard This Week",
+    "url": "https://www.medpagetoday.com/opinion/what-we-heard/122813",
+    "summary": "(MedPage Today) -- \"I really hoped that I had malaria.\" -- Kent Brantly, MD, who served as medical director of an Ebola treatment unit in Liberia, recalling the moment he realized he had contracted Ebola. \"We're weeks and weeks and weeks behind...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-30T20:00:00+00:00",
+    "date_str": "Aug 30, 2026"
+  },
+  {
+    "title": "My Job Has Become Mounds of Paperwork. Work Requirements Will Make it Worse.",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/122801",
+    "summary": "(MedPage Today) -- When I started my career as a pulmonologist, my time was spent caring for patients -- listening to their concerns, researching care, talking through treatment options, and monitoring their progress. Now the profession has devolved...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-30T16:00:00+00:00",
+    "date_str": "Aug 30, 2026"
+  },
+  {
     "title": "Hospitals Are All In on AI, but Testing and Oversight Haven’t Caught Up",
     "url": "https://medcitynews.com/2026/08/upmc-ai-testing-hospital-tech/",
     "summary": "A new report found that while more than 90% of health systems have deployed third-party AI tools, less than half have the infrastructure to properly test and validate them before they become embedded in patient care. The post Hospitals Are All In on AI, but Testing and Oversight Haven’t Caught Up appeared first on MedCity News .",
@@ -2357,46 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-08-24T19:55:31+00:00",
-    "date_str": "Aug 24, 2026"
-  },
-  {
-    "title": "Young Girl Dies From Rare Brain-Eating Amoeba",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/122737",
-    "summary": "(MedPage Today) -- An 8-year-old girl in Louisiana has died after being infected by an extremely rare brain-eating amoeba that is found in warm freshwater, her family says. Lillian Smart died over the weekend after being diagnosed with an infection...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-24T19:25:16+00:00",
-    "date_str": "Aug 24, 2026"
-  },
-  {
-    "title": "Study Offers Reassurance on Inhaled Corticosteroid Use for Asthma in Pregnancy",
-    "url": "https://www.medpagetoday.com/obgyn/pregnancy/122736",
-    "summary": "(MedPage Today) -- Women with asthma who continued taking inhaled corticosteroids during the first trimester of pregnancy did not suffer higher rates of adverse outcomes compared with those who discontinued use, a South Korean nationwide cohort...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-24T18:47:39+00:00",
-    "date_str": "Aug 24, 2026"
-  },
-  {
-    "title": "U.S. Registry Data Confirm Liver Risk With Controversial Vasculitis Drug",
-    "url": "https://www.medpagetoday.com/rheumatology/generalrheumatology/122735",
-    "summary": "(MedPage Today) -- A new study may add fuel to the fire already burning around avacopan (Tavneos), approved in 2021 to treat anti-neutrophil cytoplasmic autoantibody (ANCA)-associated vasculitis (AAV), which the FDA wants drugmaker Amgen to pull...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-24T18:34:53+00:00",
-    "date_str": "Aug 24, 2026"
-  },
-  {
-    "title": "Researchers Could Pay $100M to Comply With NIH Publishing Policy",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/healthpolicy/122734",
-    "summary": "(MedPage Today) -- NIH-funded researchers could pay journal publishers as much as $104 million per year in additional fees to comply with NIH's updated policy that requires manuscripts to be publicly available as soon as they are published. That...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-24T18:19:48+00:00",
     "date_str": "Aug 24, 2026"
   }
 ]
