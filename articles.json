@@ -1,5 +1,25 @@
 [
   {
+    "title": "Medicare's pilot GLP-1 discount program has a catch. Some sick patients don't qualify",
+    "url": "https://www.npr.org/2026/08/30/nx-s1-5931392/medicare-glp-1-discount-program-has-catch-some-sick-patients-dont-qualify",
+    "summary": "Medicare launched a pilot program that could streamline the process to get GLP-1s, with some seniors paying just $50 a month. But many people with the most serious illnesses won't get that discount.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-30T09:00:00+00:00",
+    "date_str": "Aug 30, 2026"
+  },
+  {
+    "title": "GOP gambles on midterm dividends from RFK Jr.’s MAHA",
+    "url": "https://thehill.com/policy/healthcare/6058532-trump-maha-midterm-impact/",
+    "summary": "Less than three months ahead of the midterm elections, the main political organization supporting Robert F. Kennedy Jr.'s Make America Healthy Again (MAHA) movement has barely made a splash to help boost Republican candidates. President Trump and parts of the Republican Party have aligned his Make America Great Again (MAGA) movement with MAHA and Kennedy,...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-08-30T10:00:00+00:00",
+    "date_str": "Aug 30, 2026"
+  },
+  {
     "title": "Factor XIa Inhibitor Shows No Benefit After Acute Coronary Syndrome",
     "url": "https://www.medpagetoday.com/meetingcoverage/esc/122821",
     "summary": "(MedPage Today) -- An investigational factor XIa inhibitor did not reduce the risk of recurrent cardiovascular (CV) events in patients with a recent acute coronary syndrome (ACS) event on top of antiplatelet therapy, although there was no increase...",
@@ -2378,25 +2398,5 @@
     "category_slug": "drug-coverage",
     "date": "2026-08-25T01:11:17.098664+00:00",
     "date_str": "Aug 25, 2026"
-  },
-  {
-    "title": "California weighs penalties for healthcare providers that don't rein in costs",
-    "url": "https://www.fiercehealthcare.com/providers/california-weighs-penalties-healthcare-providers-dont-rein-costs",
-    "summary": "California is weighing stiff penalties for hospitals and other healthcare entities that don’t stay under state spending limits, potentially levying hundreds of millions of dollars in fines if these providers don’t take steps to rein in rising healthcare costs.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-25T01:11:17.098705+00:00",
-    "date_str": "Aug 25, 2026"
-  },
-  {
-    "title": "FDA approves new blood test for Alzheimer’s disease",
-    "url": "https://thehill.com/policy/healthcare/6047899-fda-approves-roche-alzheimers-test/",
-    "summary": "The Food and Drug Administration (FDA) has granted approval for a new test for Alzheimer's disease, marking the fourth time such a blood test has been approved in less than two years. Roche announced Sunday that the FDA had granted approval to its Elecsys Phospho-Tau blood test for diagnosing Alzheimer's disease. It's the fourth such...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-24T22:02:19+00:00",
-    "date_str": "Aug 24, 2026"
   }
 ]
