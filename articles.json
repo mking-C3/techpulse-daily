@@ -1,5 +1,35 @@
 [
   {
+    "title": "Hospitals Are All In on AI, but Testing and Oversight Haven’t Caught Up",
+    "url": "https://medcitynews.com/2026/08/upmc-ai-testing-hospital-tech/",
+    "summary": "A new report found that while more than 90% of health systems have deployed third-party AI tools, less than half have the infrastructure to properly test and validate them before they become embedded in patient care. The post Hospitals Are All In on AI, but Testing and Oversight Haven’t Caught Up appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-30T15:10:07+00:00",
+    "date_str": "Aug 30, 2026"
+  },
+  {
+    "title": "SK Bio Broadens U.S. Prospects, Licensing Late-Stage Epilepsy Drug From Biohaven",
+    "url": "https://medcitynews.com/2026/08/sk-biopharmaceuticals-biohaven-epilepsy-opakalim-kv7-neuroscience-bhvn/",
+    "summary": "Biohaven is outlicensing to SK Biopharmaceuticals global rights to opakalim, a Kv7-targeting small molecule in pivotal clinical testing for epilepsy. Biohaven gets non-dilutive financing for its pipeline while SK Bio gains another asset to potentially commercialize in the U.S. The post SK Bio Broadens U.S. Prospects, Licensing Late-Stage Epilepsy Drug From Biohaven appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-30T14:50:35+00:00",
+    "date_str": "Aug 30, 2026"
+  },
+  {
+    "title": "The Missing Piece in Lowering the Cost of Care: Predictability",
+    "url": "https://medcitynews.com/2026/08/the-missing-piece-in-lowering-the-cost-of-care-predictability/",
+    "summary": "When the healthcare system defaults to uncertainty, people delay care because it feels safer for their wallets. In some cases, people wait too long, leaving an ER visit as the path of least resistance. The post The Missing Piece in Lowering the Cost of Care: Predictability appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-08-30T13:48:00+00:00",
+    "date_str": "Aug 30, 2026"
+  },
+  {
     "title": "Medicare's pilot GLP-1 discount program has a catch. Some sick patients don't qualify",
     "url": "https://www.npr.org/2026/08/30/nx-s1-5931392/medicare-glp-1-discount-program-has-catch-some-sick-patients-dont-qualify",
     "summary": "Medicare launched a pilot program that could streamline the process to get GLP-1s, with some seniors paying just $50 a month. But many people with the most serious illnesses won't get that discount.",
@@ -2368,35 +2398,5 @@
     "category_slug": "senior-health",
     "date": "2026-08-24T18:19:48+00:00",
     "date_str": "Aug 24, 2026"
-  },
-  {
-    "title": "Mass General Brigham hires Vanderbilt exec for inaugural nurse role",
-    "url": "https://www.healthcaredive.com/news/mass-general-brigham-appoints-vanderbilt-exec-inaugural-nurse-role-karen-keady/828564/",
-    "summary": "Karen Keady’s appointment comes a month after about 4,500 clinicians at Mass General Brigham went on strike, hoping to secure better wages and other benefits.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-24T12:39:05+00:00",
-    "date_str": "Aug 24, 2026"
-  },
-  {
-    "title": "Highmark touts health plan turnaround in first half of 2026",
-    "url": "https://www.fiercehealthcare.com/payers/highmark-touts-health-plan-turnaround-first-half-2026",
-    "summary": "Highmark Health closed the first half of the year with $17.5 billion in revenue and $2 billion in net income, bolstered by a significant turnaround at its insurance unit.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-25T01:11:17.098613+00:00",
-    "date_str": "Aug 25, 2026"
-  },
-  {
-    "title": "Alabama awards 138 RHTP grants totaling over $144M",
-    "url": "https://www.fiercehealthcare.com/regulatory/alabama-awards-138-rhtp-grants-totaling-over-144m",
-    "summary": "Grants cover five of 11 planned initiatives from the state’s RHTP, including rural health, rural workforce and collaborative EHR, IT and cybersecurity.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-25T01:11:17.098664+00:00",
-    "date_str": "Aug 25, 2026"
   }
 ]
