@@ -1,5 +1,95 @@
 [
   {
+    "title": "A winner, a loser, and a mid-stage signal from a major cardiology research conference",
+    "url": "https://www.statnews.com/2026/08/31/health-news-mid-stage-results-from-esc-2026-cardiology/?utm_campaign=rss",
+    "summary": "The mental health system after Lindsay Clancy, pushing boundaries for new radiopharmaceuticals, and more health news from Morning Rounds",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-31T12:25:18+00:00",
+    "date_str": "Aug 31, 2026"
+  },
+  {
+    "title": "Opinion: The most shocking thing about the latest statistics on CTE in football is that we find them so shocking",
+    "url": "https://www.statnews.com/2026/08/31/cte-nfl-boston-university-study-football-concussion-history/?utm_campaign=rss",
+    "summary": "The latest study on CTE in football players “quantifies but does not reveal a problem,” writes Emily Harrison, a historian who studies brain injury in football.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-31T08:30:00+00:00",
+    "date_str": "Aug 31, 2026"
+  },
+  {
+    "title": "STAT+: After a rough stretch, mRNA gets a boost — at least for now",
+    "url": "https://www.statnews.com/2026/08/31/mrna-cancer-vaccine-intersects-politics-medicine/?utm_campaign=rss",
+    "summary": "With clinical success on a personalized mRNA vaccine for melanoma, experts are hoping for a more stable future for the technology in other areas.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-31T08:30:00+00:00",
+    "date_str": "Aug 31, 2026"
+  },
+  {
+    "title": "STAT+: Cadre of radiopharmaceuticals experts pushes the bounds in cancer therapy",
+    "url": "https://www.statnews.com/2026/08/31/radiopharmaceuticals-dosing-pushing-bounds-cancer-treatment/?utm_campaign=rss",
+    "summary": "Researchers believe radiopharmaceuticals have great promise as cancer treatments. But are they using them too timidly?",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-31T08:30:00+00:00",
+    "date_str": "Aug 31, 2026"
+  },
+  {
+    "title": "Why too many women are prescribed antibiotics for UTIs they don't have",
+    "url": "https://www.npr.org/2026/08/31/nx-s1-5947249/infection-uti-bladder-antibiotics-hormone-menopause",
+    "summary": "A recent study found that many women treated for recurrent UTIs didn't have UTIs at all. Instead, their symptoms were caused by hormonally driven inflammation and pelvic floor dysfunction.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-31T09:00:00+00:00",
+    "date_str": "Aug 31, 2026"
+  },
+  {
+    "title": "Dry eyes are common among women. Here's why you shouldn't ignore it",
+    "url": "https://www.npr.org/2026/08/31/nx-s1-5943165/dry-eyes-are-common-among-women-heres-why-you-shouldnt-ignore-it",
+    "summary": "Dry eyes are a very common chronic eye condition among women in perimenopause and beyond. Here's why you shouldn't ignore it.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-08-31T08:47:42+00:00",
+    "date_str": "Aug 31, 2026"
+  },
+  {
+    "title": "The first 14 days: How specialty programs set patients up for success",
+    "url": "https://www.healthcaredive.com/spons/the-first-14-days-how-specialty-programs-set-patients-up-for-success/828558/",
+    "summary": "As specialty medicines play a growing role in healthcare, the patient journey that follows is equally critical.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-08-31T09:00:00+00:00",
+    "date_str": "Aug 31, 2026"
+  },
+  {
+    "title": "How Shared Clinical Decision-Making Can Shape the Metastatic Prostate Cancer Journey",
+    "url": "https://www.fiercehealthcare.com/sponsored/how-shared-clinical-decision-making-can-shape-metastatic-prostate-cancer-journey",
+    "summary": "When a patient learns they have metastatic castration-sensitive prostate cancer (mCSPC), it often marks the beginning of a long and uncertain journey. The first conversations that follow can shape how that patient feels about their treatment and their role in it. In those early moments, how we respond matters.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-31T12:47:50.603616+00:00",
+    "date_str": "Aug 31, 2026"
+  },
+  {
+    "title": "In next phase of sustainability, UCI Health, Kaiser Permanente, and others turn to electric hospitals",
+    "url": "https://www.fiercehealthcare.com/hospitals/next-phase-sustainability-uci-health-kaiser-permanente-turn-electric-hospitals",
+    "summary": "The U.S. healthcare sector is responsible for about 9% of the country’s greenhouse gas emissions. A growing number of providers have implemented sustainability agendas, with electrification being the next frontier.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-08-31T12:47:50.603664+00:00",
+    "date_str": "Aug 31, 2026"
+  },
+  {
     "title": "Tricuspid Valve Repair Finally Proven to Keep HF Events At Bay",
     "url": "https://www.medpagetoday.com/meetingcoverage/esc/122822",
     "summary": "(MedPage Today) -- Transcatheter tricuspid valve repair could finally be tied to improved hard outcomes in people with severe tricuspid regurgitation (TR) at high risk for future heart failure (HF) events, a German trial found. With operators...",
@@ -2308,95 +2398,5 @@
     "category_slug": "healthcare-policy",
     "date": "2026-08-25T09:00:00+00:00",
     "date_str": "Aug 25, 2026"
-  },
-  {
-    "title": "Fullspan Health’s AI agent sees strong early traction with 1.1M views since June launch",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/fullspan-healths-conversational-ai-agent-has-racked-11-million-views-june",
-    "summary": "The conversational AI tool—dubbed Healthline AI—is sourced directly from the publisher’s medically reviewed properties.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-25T12:43:38.019604+00:00",
-    "date_str": "Aug 25, 2026"
-  },
-  {
-    "title": "The Movement: MAHA and anti-abortion groups split on FDA nominee",
-    "url": "https://thehill.com/newsletters/the-movement/6048020-overton-fda-maha-abortion-convention-beef/",
-    "summary": "Anti-abortion groups and other conservatives largely applauded the White House announcement that President Trump would nominate health policy aide Dr. Heidi Overton for Food and Drug Administration (FDA) commissioner, viewing her as their champion for, among other things, bringing an end to medication abortion. But others in the conservative world were less thrilled. Overton is not...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-25T12:00:00+00:00",
-    "date_str": "Aug 25, 2026"
-  },
-  {
-    "title": "Moody's: A look at payers' 'diverging' paths for MA, ACA markets",
-    "url": "https://www.fiercehealthcare.com/payers/moodys-look-payers-diverging-paths-ma-aca-markets",
-    "summary": "Major health insurers saw positive signs in the second quarter, but the pressures they've faced over the past year haven't evaporated, according to a new report from analysts at Moody's.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-25T06:42:59.694712+00:00",
-    "date_str": "Aug 25, 2026"
-  },
-  {
-    "title": "4 Patients Injured After Drug Mix-Up at Ascension Hospital in Nashville",
-    "url": "https://medcitynews.com/2026/08/drug-ascension-hospital-nashville/",
-    "summary": "A pharmacy error at an Ascension hospital in Nashville left four joint replacement patients injected with potassium phosphate instead of spinal anesthetic. The mix-up paralyzed one patient and harmed the other three. The Tennessee Bureau of Investigation is now probing the case. The post 4 Patients Injured After Drug Mix-Up at Ascension Hospital in Nashville appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-24T23:07:35+00:00",
-    "date_str": "Aug 24, 2026"
-  },
-  {
-    "title": "Amazon Taps Expressable for Health Benefits Connector",
-    "url": "https://medcitynews.com/2026/08/amazon-taps-expressable-for-health-benefits-connector/",
-    "summary": "Expressable has joined Amazon’s Health Benefits Connector to help families access virtual speech therapy through their insurance. The post Amazon Taps Expressable for Health Benefits Connector appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-24T21:19:40+00:00",
-    "date_str": "Aug 24, 2026"
-  },
-  {
-    "title": "A look at the future of brain research funding, from a kids' camp for TBI survivors",
-    "url": "https://www.npr.org/2026/08/24/nx-s1-5936521/a-look-at-the-future-of-brain-research-funding-from-a-kids-camp-for-tbi-survivors",
-    "summary": "A Pennsylvania summer camp helps children who have survived brain injuries. But the future of federal funding for brain injury research, and grants to states to help such patients, is in limbo.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-24T22:09:37+00:00",
-    "date_str": "Aug 24, 2026"
-  },
-  {
-    "title": "Penn State bust put focus on cocaine but on most campuses the big risk is alcohol",
-    "url": "https://www.npr.org/2026/08/24/nx-s1-5942987/cocaine-use-is-down-but-alcohol-is-still-being-abused-by-young-adults",
-    "summary": "A drug bust involving an alleged cocaine ring at Penn State has drawn attention to drug use on college campuses, but research shows the big risk to students is alcohol.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-24T21:17:31+00:00",
-    "date_str": "Aug 24, 2026"
-  },
-  {
-    "title": "HHS Call for Input May Shed Light on Trump Administration's Vaccine Plans",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/122740",
-    "summary": "(MedPage Today) -- In the wake of a controversial executive order that shrinks the number of universally recommended vaccines for children, HHS is asking the public to weigh in on whether three categories used in federal vaccine recommendations...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-24T21:38:45+00:00",
-    "date_str": "Aug 24, 2026"
-  },
-  {
-    "title": "Are Suicide Attempts Contagious in Young People?",
-    "url": "https://www.medpagetoday.com/pediatrics/generalpediatrics/122739",
-    "summary": "(MedPage Today) -- Knowing someone who had attempted suicide was associated with subsequent attempts in teens and young adults, a cohort study suggested. Among people ages 13 to 22 who did not have a prior suicide attempt, exposure to a suicide...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-24T20:08:24+00:00",
-    "date_str": "Aug 24, 2026"
   }
 ]
