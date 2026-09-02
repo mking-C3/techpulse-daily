@@ -1,5 +1,165 @@
 [
   {
+    "title": "Doctors groups release vaccination guidelines ahead of respiratory illness season",
+    "url": "https://www.statnews.com/2026/09/02/vaccine-integrity-project-fall-winter-guidelines-rsv-covid-flu-shots/?utm_campaign=rss",
+    "summary": "Ahead of respiratory illness season, professional organizations have issued guidance on flu, Covid, and RSV vaccines.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-02T14:00:00+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "STAT+: ARPA-H funds biotechs working on custom RNA therapies",
+    "url": "https://www.statnews.com/2026/09/02/biotech-news-arp-h-funds-biotechs-working-on-custom-rna-therapies/?utm_campaign=rss",
+    "summary": "Roche licenses a tri-specific antibody, new Trump deals may undercut its own goals, and other biotech news",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-02T13:37:50+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "STAT+: How a former ARPA-H director’s startup is tackling AI’s ‘dumb problems’",
+    "url": "https://www.statnews.com/2026/09/02/why-transfyr-tackles-dumb-problems-intersection-bio-ai-prognosis/?utm_campaign=rss",
+    "summary": "In this edition of STAT's AI Prognosis: A startup tackling the 'dumb problems' at the intersection of AI and bio, accuracy of AI scribes, and more.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-02T13:29:52+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a Huntington’s gene therapy, Novo’s challenges, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/09/02/uniqure-huntingtons-fda-novo-nordisk-investors-pharmalittle-newsletter/?utm_campaign=rss",
+    "summary": "UniQure has submitted its Huntington’s gene therapy to the FDA, investors remain unenthusiastic on Novo Nordisk, and more of the latest pharma headlines in today's Pharmalittle newsletter.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-02T13:26:55+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "HHS spins a tale of a would-be content creator child",
+    "url": "https://www.statnews.com/2026/09/02/health-news-hhs-spins-a-tale-of-a-would-be-content-creator/?utm_campaign=rss",
+    "summary": "The next DSM and the algorithm, an unexpected discovery on alpha-gal syndrome, and more health news from Morning Rounds",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-02T11:59:16+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "Medical groups offer vaccine guidance to fill federal vacuum",
+    "url": "https://www.npr.org/2026/09/02/nx-s1-5947884/covid-flu-rsv-vaccine-recommendations",
+    "summary": "In the unprecedented absence of federal guidance, leading medical groups are issuing their own recommendations for who should get the COVID-19, flu and RSV immunizations.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-02T14:00:58+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "Whatever happened to ... children infected with HIV due to failures in healthcare?",
+    "url": "https://www.npr.org/2026/09/02/g-s1-140934/hiv-aids-children-pakistan",
+    "summary": "For years, Pakistan has seen cases of children infected with HIV due to unsafe treatment in clinics and hospitals. A current outbreak numbers hundreds of cases. Why does this problem keep occurring?",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-02T11:58:51+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "Ebola Outbreak Deaths Top 3,000",
+    "url": "https://www.medpagetoday.com/infectiousdisease/ebola/122858",
+    "summary": "(MedPage Today) -- Congo's Ebola outbreak has killed more than 3,000 people out of over 6,100 confirmed cases, the latest government data showed Wednesday, as the disease is spreading at an unprecedented speed, faster than efforts to track and...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-02T14:04:37+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "Pesticide Found in Supplement; Brain-Eating Amoeba Kills Teen; B12 and Birth Defects",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/productalert/122857",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. The FDA said a supplement promoted and sold for weight loss (Lipofit Extreme Fat Burner 2.0) was recalled after an agency analysis showed tablets were tainted with...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-02T13:21:00+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "AAP Releases RSV Prevention, COVID Vax Recommendations for Fall",
+    "url": "https://www.medpagetoday.com/pediatrics/vaccines/122856",
+    "summary": "(MedPage Today) -- The American Academy of Pediatrics (AAP) updated its recommendations for the prevention of respiratory syncytial virus (RSV) and the use of COVID vaccines in kids. Based on a technical report detailing the current evidence on...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-02T11:00:00+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "DaVita agrees to pay $15M to settle claims from data breach",
+    "url": "https://www.healthcaredive.com/news/davita-agrees-to-pay-15m-to-settle-claims-from-data-breach/829445/",
+    "summary": "The dialysis provider has opted to settle a proposed class action lawsuit stemming from a data breach last year that impacted 2.7 million people.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-02T15:23:13+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "McKesson confirms data theft in cyberattack involving third-party apps",
+    "url": "https://www.healthcaredive.com/news/mckesson-confirms-data-theft-cyberattack-involving-third-party-apps/829435/",
+    "summary": "The healthcare distributor said the incident affected a subset of customers in its oncology and medical-surgical businesses.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-02T14:51:16+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "Johns Hopkins Health Plans taps interim CEO as it searches for successor",
+    "url": "https://www.healthcaredive.com/news/johns-hopkins-health-plans-taps-interim-ceo-searches-successor-daniel-chojnowski/829414/",
+    "summary": "Daniel Chojnowski, JHHP’s current CFO, will provide stability so that the Baltimore-area insurer can recruit full-time for its next chief executive, the company said.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-02T13:59:03+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "Employers’ health benefits costs could rise 8.2% in 2027: Marsh survey",
+    "url": "https://www.fiercehealthcare.com/payers/employers-health-benefits-costs-could-rise-82-2027-marsh-survey",
+    "summary": "The projected increase is the highest since 2003 and the fifth consecutive year of rising costs, Marsh analysts noted.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-02T16:00:44.523060+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "The stories behind the 2026 Fierce 50",
+    "url": "https://www.fiercehealthcare.com/providers/stories-behind-2026-fierce-50",
+    "summary": "A Nobel laureate designing proteins from scratch. A public health expert who put retirement plans aside after the 2024 election to help protect vaccine policy and scientific independence. A physician working to make health information easier to understand and rebuild trust with patients. And a Native physician working to train more doctors who share the backgrounds and experiences of the communities they serve. In this episode of “Podnosis,” we tell the stories behind some of the 2026 Fierce 50 honorees and the work that put them on this year’s list.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-02T16:00:44.523129+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "Cureety acquires Reimagine Care for AI-driven precision oncology",
+    "url": "https://www.fiercehealthcare.com/telehealth/cureety-acquires-reimagine-care-ai-driven-precision-oncology",
+    "summary": "The two companies now support more than 250 cancer centers—covering more than 100,000 patients—across five countries, executives say.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-02T16:00:44.523166+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
     "title": "STAT+: How Trump’s latest pharma deals may undermine efforts to rein in drug costs",
     "url": "https://www.statnews.com/2026/09/02/trump-most-favored-nation-drug-pricing-industry-analysts-skeptical/?utm_campaign=rss",
     "summary": "Analysts say private deals involve drugmakers agreeing to lower prices in Medicaid, where prices are low, in return for no price cuts in Medicare.",
@@ -2237,166 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-08-26T21:42:17+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "AMA Sued Over Its 'Paywalled' Billing Codes",
-    "url": "https://www.medpagetoday.com/practicemanagement/reimbursement/122777",
-    "summary": "(MedPage Today) -- Should Current Procedural Terminology (CPT) codes be free for all patients and clinicians to use? That's the question being asked in a recent lawsuit against the American Medical Association (AMA), which holds the copyright to...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-26T21:36:21+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "Nonsurgical Options for Early Rectal Cancer Continue to Show Promise",
-    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/122776",
-    "summary": "(MedPage Today) -- Almost 80% of patients with early-stage rectal cancer remained surgery-free for a year or longer after treatment with chemoradiation therapy (CRT), a large randomized study showed. Among 341 patients who chose not to have upfront...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-26T21:30:04+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "Skin Problems, Kidney Complaints, and Venous Issues Spike During Heat Waves",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/environmentalhealth/122774",
-    "summary": "(MedPage Today) -- When the temperature heats up, so do emergency rooms, according to a massive study of Chicago hospital and urgent care records, which found increased accidental gunshot wounds, kidney complaints, skin problems, varicose veins...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-26T21:05:12+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "GLP-1s May Offer Benefit in Ulcerative Colitis, Real-World Data Suggest",
-    "url": "https://www.medpagetoday.com/gastroenterology/inflammatoryboweldisease/122775",
-    "summary": "(MedPage Today) -- The use of GLP-1 receptor agonists was linked to improved remission rates in patients with ulcerative colitis, a retrospective cohort study suggested. Among 300 patients with ulcerative colitis, use of liraglutide (Victoza...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-26T20:46:53+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "To Face Scrutiny at ESC: Statins for the Elderly, New Heart Attack Therapies",
-    "url": "https://www.medpagetoday.com/meetingcoverage/esc/122773",
-    "summary": "(MedPage Today) -- The European Society of Cardiology (ESC) meeting this week will unveil the latest findings in cardiovascular medicine, including a highly-anticipated statin trial and several studies poised to advance heart attack triage and...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-26T20:12:16+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "FDA Expands Label of Oral HIV Drug to Newborns",
-    "url": "https://www.medpagetoday.com/infectiousdisease/hivaids/122772",
-    "summary": "(MedPage Today) -- The FDA expanded the approval of dolutegravir tablets for oral suspension (Tivicay PD) to include newborns with HIV infections younger than 4 weeks of age, the agency announced on Tuesday. In combination with other antiretroviral...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-26T19:53:03+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "Deaths at Psychedelic Clinics; AI Mental Health Data; School Corporal Punishment",
-    "url": "https://www.medpagetoday.com/psychiatry/generalpsychiatry/122771",
-    "summary": "(MedPage Today) -- Americans continue to seek unregulated psychedelic treatment abroad despite mounting reports of severe health complications and fatalities. (New York Times) Meanwhile, state-regulated psilocybin services in Oregon have been...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-26T19:43:55+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "Two Doctors, One Infected, Recall Their Fight Against Ebola",
-    "url": "https://www.medpagetoday.com/infectiousdisease/ebola/122770",
-    "summary": "(MedPage Today) -- The current Ebola outbreak in the Democratic Republic of Congo (DRC) has brought renewed attention to global outbreak preparedness and the perilous conditions frontline healthcare workers face. This MedPage Today interview...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-26T19:36:55+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "Meta Reaches $18B Settlement With States in Trial Over Teen Social Media Addiction",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/122769",
-    "summary": "(MedPage Today) -- Meta has agreed to pay $18 billion and add stronger child-safety measures to its Facebook and Instagram platforms to end a landmark trial over teen social media addiction and settle claims filed by 47 states, state attorneys...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-26T19:11:16+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "Sword Health to acquire Headspace",
-    "url": "https://www.healthcaredive.com/news/sword-health-to-acquire-headspace/828873/",
-    "summary": "The all-cash deal is expected to close next month, after which Headspace’s wellness services will live under the same roof as Sword's virtual care platform, according to a filing with Massachusetts regulators.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-26T19:09:31+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "No Surprises dispute resolution has generated $22B in extra costs, research finds",
-    "url": "https://www.healthcaredive.com/news/no-surprises-idr-created-22-billion-costs-georgetown-surprise-billing/828817/",
-    "summary": "Accelerating dispute volumes and sky-high award amounts are inflating how much independent dispute resolution is costing the U.S., according to new Georgetown research. Patients could pay the price with higher premiums.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-26T13:52:17+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "US Attorney's Office scandal yields favorable deal for ex-hospital CEO charged with embezzlement",
-    "url": "https://www.fiercehealthcare.com/providers/us-attorneys-office-scandal-yields-favorable-deal-ex-hospital-ceo-charged-embezzlement",
-    "summary": "\"You got lucky here,\" a federal judge told George Miller, who was CEO of Loretto Hospital from 2017 to 2022.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-27T07:41:34.917591+00:00",
-    "date_str": "Aug 27, 2026"
-  },
-  {
-    "title": "Cigna unveils new plan to bring together medical, supplemental benefits",
-    "url": "https://www.fiercehealthcare.com/payers/cigna-unveils-new-plan-aims-bring-together-medical-supplemental-benefits",
-    "summary": "Cigna is looking to better link medical and supplemental benefits for its members and has unveiled a new employer benefit that aims to further that goal.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-27T07:41:34.917645+00:00",
-    "date_str": "Aug 27, 2026"
-  },
-  {
-    "title": "53% of US adults feel they have no say when AI is used in care",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/53-us-adults-feel-they-dont-have-say-when-ai-used-their-healthcare-pew",
-    "summary": "Alongside wanting more input on AI usage in healthcare, nearly half of respondents (46%) report being unsure whether the technology was even used in their care.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-27T07:41:34.917679+00:00",
-    "date_str": "Aug 27, 2026"
-  },
-  {
-    "title": "University of Houston launches interdisciplinary institute to guide local housing interventions",
-    "url": "https://www.fiercehealthcare.com/providers/university-houston-launches-interdisciplinary-housing-institute-inform-policy",
-    "summary": "The Institute for Housing, Homelessness and Health (IH3) will work alongside community orgs, hospitals, local government and housing providers to help the group scale successful approaches. Its focus will be on data integration.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-27T07:41:34.917712+00:00",
-    "date_str": "Aug 27, 2026"
-  },
-  {
-    "title": "General Mills removes artificial colors from US cereals",
-    "url": "https://thehill.com/policy/healthcare/6053393-general-mills-removes-artificial-dyes/",
-    "summary": "General Mills said Wednesday that it has ended the use of artificial coloring in its United States cereal portfolio with intentions to remove the dyes from its full U.S. retail portfolio by the end of 2027. In a press release, the company stated that 90 percent of General Mills's U.S. retail portfolio had made the...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-26T20:49:56+00:00",
     "date_str": "Aug 26, 2026"
   }
 ]
