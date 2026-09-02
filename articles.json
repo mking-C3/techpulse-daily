@@ -1,5 +1,135 @@
 [
   {
+    "title": "This Merger Wants to Prevent Rare Disease Patients from Losing Their Data",
+    "url": "https://medcitynews.com/2026/09/merger-rare-disease-patient-data/",
+    "summary": "Cushla and Clirinx, two Irish startups, are merging to give rare disease patients one continuous health and research record. The deal will pair Cushla’s patient-controlled EHR with Clirinx’s unique patient ID system so data no longer gets lost between doctors, hospitals and clinical trials. The post This Merger Wants to Prevent Rare Disease Patients from Losing Their Data appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-01T23:23:56+00:00",
+    "date_str": "Sep 01, 2026"
+  },
+  {
+    "title": "HHS Provides $77M in Grants for Substance Use Prevention, Mental Health",
+    "url": "https://medcitynews.com/2026/09/hhs-provides-77m-in-grants-for-substance-use-prevention-mental-health/",
+    "summary": "HHS awarded $77 million in SAMHSA grants for substance use prevention and treatment, mental health, suicide prevention and crisis services. The post HHS Provides $77M in Grants for Substance Use Prevention, Mental Health appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-01T21:55:12+00:00",
+    "date_str": "Sep 01, 2026"
+  },
+  {
+    "title": "STAT+: ADA review of members’ expulsion denies group censored opinions, called in police",
+    "url": "https://www.statnews.com/2026/09/01/ada-members-review-june-expulsion-denies-censoring-opinions-calling-new-orleans-police/?utm_campaign=rss",
+    "summary": "A review of findings from a five-person committee is being sent to the ADA board for action, STAT has learned, but it appears unlikely to quiet the controversy.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-01T23:06:00+00:00",
+    "date_str": "Sep 01, 2026"
+  },
+  {
+    "title": "Opinion: Diabetes association CEO: What an independent review says happened at the ADA’s controversial June conference",
+    "url": "https://www.statnews.com/2026/09/01/american-diabetes-association-june-conference-independent-review/?utm_campaign=rss",
+    "summary": "“This is not a moment our community can afford to spend fighting itself,” writes American Diabetes Association CEO Charles “Chuck” Henderson.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-01T23:00:00+00:00",
+    "date_str": "Sep 01, 2026"
+  },
+  {
+    "title": "People With Unexplained Fainting Finally Get Some Answers With Take-Home Device",
+    "url": "https://www.medpagetoday.com/meetingcoverage/esc/122855",
+    "summary": "(MedPage Today) -- For people going to emergency departments (EDs) for syncope, an extended ECG monitoring protocol made an eventual diagnosis more likely even though their fainting frequency was ultimately unchanged, according to the ASPIRED trial...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-01T21:39:45+00:00",
+    "date_str": "Sep 01, 2026"
+  },
+  {
+    "title": "Infective Endocarditis Trial Backs Less Intense Antibiotic Approach",
+    "url": "https://www.medpagetoday.com/meetingcoverage/esc/122854",
+    "summary": "(MedPage Today) -- Shorter antibiotic treatment worked better in clinically stabilized patients with infective endocarditis on the left side of the heart, even though the risk of infection relapse may be greater, according to the open-label randomized...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-01T21:17:28+00:00",
+    "date_str": "Sep 01, 2026"
+  },
+  {
+    "title": "Nurse Who Saved Baby in Pakistan Hospital Fire Wishes She Could Have Saved the Rest",
+    "url": "https://www.medpagetoday.com/nursing/nursing/122853",
+    "summary": "(MedPage Today) -- Razia Noreen and her colleagues had just checked on the 15 newborns in their care at the hospital nursery in Islamabad and were preparing injections for some of them in an adjacent room when she noticed something unusual: flames...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-01T21:04:10+00:00",
+    "date_str": "Sep 01, 2026"
+  },
+  {
+    "title": "As GLP-1 Use Expands Into Dermatology, So Do the Medicolegal Implications",
+    "url": "https://www.medpagetoday.com/dermatology/generaldermatology/122852",
+    "summary": "(MedPage Today) -- Medical liability cases involving GLP-1 receptor agonist use in dermatology have occurred infrequently to date but warrant careful attention as the use increases, a medicolegal review suggests. A review of the LexisNexis legal...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-01T20:50:57+00:00",
+    "date_str": "Sep 01, 2026"
+  },
+  {
+    "title": "Hospital groups rail against CMS' proposed 340B changes, site-neutral payments",
+    "url": "https://www.fiercehealthcare.com/providers/hospital-groups-rail-against-cms-proposed-340b-changes-site-neutral-payments",
+    "summary": "Public comments for the latest OPPS proposed rule saw several major hospital groups all but threatening a court showdown over CMS' planned policy changes.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-02T03:03:18.596497+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "ChatGPT for Healthcare unveils new integrations with Epic, public health data sources",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/chatgpt-healthcare-unveils-new-integrations-epic-ehr-public-health-data",
+    "summary": "OpenAI is expanding ChatGPT's healthcare capabilities with new integrations that connect it more directly with clinical workflows and public healthcare sources.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-02T03:03:18.596553+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "UnitedHealthcare to nix prior auth on 1,700 services on Oct. 1",
+    "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-nix-prior-auth-1700-services-oct-1",
+    "summary": "UnitedHealthcare said earlier this year that it was aiming to eliminate 30% of prior authorization requirements by the end of 2026.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-02T03:03:18.596584+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "Nourish embeds generative AI assistant into patient app for 24/7 support",
+    "url": "https://www.fiercehealthcare.com/digital-health/nourish-embeds-generative-ai-assistant-patient-app-247-support",
+    "summary": "The Health Assistant, which has been in beta and is now rolling out widely, gives patients personalized guidance between visits, including meal planning, lab insights and appointment prep support.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-02T03:03:18.596619+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "Hemp ban set to be delayed a month after House passes funding bill",
+    "url": "https://thehill.com/policy/healthcare/6064552-hemp-ban-delayed-house-funding-bill/",
+    "summary": "The House on Tuesday passed a short-term government funding bill that will buy the intoxicating hemp industry more time to fight off a looming crackdown on its products. The continuing resolution, which funds the government through Dec. 11, passed in the House on a 370-48 vote — with 19 Republicans and 29 Democrats voting in...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-09-01T21:32:12+00:00",
+    "date_str": "Sep 01, 2026"
+  },
+  {
     "title": "GSK’s Pivotal Test for mRNA Flu Vaccine Aims to Show Two Targets Are Better Than One",
     "url": "https://medcitynews.com/2026/09/gsk-mrna-vaccine-seasonal-influenza-flu-infectious-disease/",
     "summary": "GSK’s messenger RNA vaccine for seasonal influenza is designed to prompt an immune response to two proteins on the surface of the virus. That could be an advantage over Moderna’s recently approved mRNA flu shot, which addresses just one of those proteins. The post GSK’s Pivotal Test for mRNA Flu Vaccine Aims to Show Two Targets Are Better Than One appeared first on MedCity News .",
@@ -2267,136 +2397,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-08-26T18:17:16+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "On the fence about a statin? In borderline cases, calcium scans could be a tiebreaker",
-    "url": "https://www.statnews.com/2026/08/26/cac-scans-statin-use-prevent-calculator-heart-disease-risk/?utm_campaign=rss",
-    "summary": "The increasingly popular coronary artery calcium scan is helpful in guiding statin use in only a small share of cases, new studies find.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-26T15:00:00+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "STAT+: FDA approves new pancreatic cancer drug expected to usher in new era of treatment",
-    "url": "https://www.statnews.com/2026/08/26/pancreatic-cancer-drug-rasonque-approved/?utm_campaign=rss",
-    "summary": "The FDA has approved a life-extending treatment for advanced pancreatic cancer — the first such therapy to attack a genetic cause of the highly lethal malignancy.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-26T14:56:13+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "STAT+: Key data on a new class of cardio drugs are coming",
-    "url": "https://www.statnews.com/2026/08/26/biotech-news-key-data-on-new-class-of-cardio-drugs-coming/?utm_campaign=rss",
-    "summary": "GSK's shingles vaccine, new financial investment in women's health, and more biotech news from The Readout",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-26T14:32:51+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "STAT+: AI biotech Insitro’s Daphne Koller on how to speed up clinical trials",
-    "url": "https://www.statnews.com/2026/08/26/biotech-insitro-ceo-daphne-koller-speeding-up-clinical-trials-ai-prognosis/?utm_campaign=rss",
-    "summary": "In this edition of STAT's AI Prognosis: A conversation with Insitro CEO Daphne Koller on artificial intelligence in drug discovery, and other health AI news.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-26T13:46:40+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "Even at big companies, health care costs are increasing",
-    "url": "https://www.statnews.com/2026/08/26/health-news-even-at-big-companies-health-care-costs-increasing/?utm_campaign=rss",
-    "summary": "Two U.S. measles deaths, the profit motive for women's health, and more Morning Rounds news today",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-26T13:29:11+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a GSK shingles shot, U.S. employers dropping GLP-1 coverage, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/08/26/gsk-shingles-shot-us-employers-dropping-glp1-coverage/?utm_campaign=rss",
-    "summary": "About 14% of employers in the U.S. have already or plan to drop coverage of GLP-1 drugs in 2027, as companies see ​rising health care costs",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-26T13:09:25+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "Recalls paint only part of the food safety picture",
-    "url": "https://www.npr.org/2026/08/26/nx-s1-5943195/recalls-paint-only-part-of-the-food-safety-picture",
-    "summary": "Recalls of lettuce, jalapeno peppers and eggs because of foodborne illness outbreaks have put a spotlight on the safety of the U.S. food supply. How much do the recalls tell us?",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-26T19:38:22+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "States try new tactics to bring down high hospital prices",
-    "url": "https://www.npr.org/2026/08/26/nx-s1-5939965/medical-price-hospital-healthcare-indiana",
-    "summary": "Indiana is the latest state to experiment with limiting what hospitals can charge, to try to get a handle on high health costs.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-26T17:29:13+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "BPAP Intervention Flops in Asthma Study",
-    "url": "https://www.medpagetoday.com/pulmonology/asthma/122768",
-    "summary": "(MedPage Today) -- Children with acute asthma exacerbations who received bilevel positive airway pressure (BPAP) in the emergency department (ED) needed continuous albuterol therapy for a similar duration as those receiving sham BPAP with minimal...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-26T18:30:27+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "For Opioid Overdose Survivors, One Treatment May Reduce Risk of Death Over Another",
-    "url": "https://www.medpagetoday.com/psychiatry/opioids/122767",
-    "summary": "(MedPage Today) -- For opioid overdose survivors, starting methadone was associated with a reduced risk of death during the subsequent year compared with starting buprenorphine-naloxone, a retrospective cohort study from Canada suggested. Using...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-26T17:43:04+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "'Grand Slam' Pancreatic Cancer Drug Wins FDA Approval",
-    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/122765",
-    "summary": "(MedPage Today) -- The FDA approved the first-in-class RAS inhibitor daraxonrasib (Rasonque) for metastatic pancreatic ductal adenocarcinoma (PDAC), the most common form of pancreatic cancer. The approval stipulates use in adults with PDAC previously...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-26T16:09:53+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "5 Lessons for Physicians From the World Cup",
-    "url": "https://www.medpagetoday.com/opinion/happy-healer/122764",
-    "summary": "(MedPage Today) -- Like millions of soccer fans around the world, I was glued to many of the matches of the 2026 World Cup. The tournament reminded Americans of something the rest of the world has known for generations: Soccer is more than a game...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-26T15:23:06+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "$500K Measles Outbreak; Vanishing OMB Rule Comments; 'Unsustainable' Health Costs",
-    "url": "https://www.medpagetoday.com/special-reports/features/122763",
-    "summary": "(MedPage Today) -- Public health response to measles outbreaks is an expensive endeavor. It cost almost $500,000 to contain a small, 10-case outbreak in the Denver area, requiring nearly 7,000 hours of labor to track exposed individuals who visited...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-26T15:20:05+00:00",
     "date_str": "Aug 26, 2026"
   }
 ]
