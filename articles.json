@@ -1,5 +1,45 @@
 [
   {
+    "title": "STAT+: How Trump’s latest pharma deals may undermine efforts to rein in drug costs",
+    "url": "https://www.statnews.com/2026/09/02/trump-most-favored-nation-drug-pricing-industry-analysts-skeptical/?utm_campaign=rss",
+    "summary": "Analysts say private deals involve drugmakers agreeing to lower prices in Medicaid, where prices are low, in return for no price cuts in Medicare.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-02T08:30:00+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "STAT+: The Ig Nobel Prizes, long held in the U.S., head to Europe due to Trump policies",
+    "url": "https://www.statnews.com/2026/09/02/ig-nobel-prizes-europe-trump-policies/?utm_campaign=rss",
+    "summary": "For the first time since they began, the Ig Nobel Prizes, a satirical version of the Nobel prizes, is being held overseas.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-02T08:30:00+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "Opinion: The next DSM should address the algorithm’s role in eating disorders",
+    "url": "https://www.statnews.com/2026/09/02/dsm-6-eating-disorders-algorithms-social-media-influence-screening/?utm_campaign=rss",
+    "summary": "The new DSM, expected in 2030, should address the digital environments of eating disorders patients, experts write.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-02T08:30:00+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "Hospitals say coming Trump administration rules are worse than GOP's Medicaid cuts",
+    "url": "https://www.politico.com/news/2026/09/02/hospitals-say-coming-regulations-worse-than-medicaid-cuts-01060086",
+    "summary": "Hospitals have launched a lobbying blitz to stave off Trump administration rules they say will lose them hundreds of billions of dollars.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-02T08:45:00+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
     "title": "This Merger Wants to Prevent Rare Disease Patients from Losing Their Data",
     "url": "https://medcitynews.com/2026/09/merger-rare-disease-patient-data/",
     "summary": "Cushla and Clirinx, two Irish startups, are merging to give rare disease patients one continuous health and research record. The deal will pair Cushla’s patient-controlled EHR with Clirinx’s unique patient ID system so data no longer gets lost between doctors, hospitals and clinical trials. The post This Merger Wants to Prevent Rare Disease Patients from Losing Their Data appeared first on MedCity News .",
@@ -2357,46 +2397,6 @@
     "category": "Industry News",
     "category_slug": "industry-news",
     "date": "2026-08-26T20:49:56+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "Cyberattack Disrupts Boston Scientific’s Operations: 7 Things to Know",
-    "url": "https://medcitynews.com/2026/08/cyberattack-boston-scientific/",
-    "summary": "Boston Scientific disclosed a cyberattack disrupting its global IT systems and order shipping capabilities, with the company unable to provide a timeline for when normal operations will resume. The disclosure adds the medical device giant to a growing list of medtech companies — including Stryker, Medtronic and Abbott — hit by major cyberattacks this year. The post Cyberattack Disrupts Boston Scientific’s Operations: 7 Things to Know appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-26T19:08:42+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "Revolution Medicines Receives Landmark FDA Drug Approval in Pancreatic Cancer",
-    "url": "https://medcitynews.com/2026/08/revolution-medicines-pancreatic-cancer-daraxonrasib-rasonque-ras-inhibitor-fda-approval-pdac-revmed-rvmd/",
-    "summary": "FDA approval of Revolution Medicines’ daraxonrasib, brand name Rasonque, makes the molecule the first RAS inhibitor approved for treating pancreatic adenocarcinoma, the most common type of pancreatic cancer. The speedy regulatory nod specifically covers advanced cases of this type of cancer, which has had limited treatment options. The post Revolution Medicines Receives Landmark FDA Drug Approval in Pancreatic Cancer appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-26T18:02:38+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "Stop Pitching the Institute — Pitch the Stack",
-    "url": "https://medcitynews.com/2026/08/stop-pitching-the-institute-pitch-the-stack/",
-    "summary": "Health-tech pilots don’t usually fail because the product is bad. They fail because the system was never wired to absorb it. The post Stop Pitching the Institute — Pitch the Stack appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-26T13:55:00+00:00",
-    "date_str": "Aug 26, 2026"
-  },
-  {
-    "title": "Kennedy posts vaccine misinformation, spars on social media amid measles deaths",
-    "url": "https://www.statnews.com/2026/08/26/kennedy-vaccine-comments-reaction-josh-shapiro-jerome-adams/?utm_campaign=rss",
-    "summary": "Kennedy has blamed others for declining vaccination rates, and downplayed the dangers of measles.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-26T18:17:16+00:00",
     "date_str": "Aug 26, 2026"
   }
 ]
