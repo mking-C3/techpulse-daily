@@ -1,5 +1,105 @@
 [
   {
+    "title": "This Device Could Prevent Lung Biopsy’s Most Common — and Costly — Complication",
+    "url": "https://medcitynews.com/2026/09/lung-biopsy-pneumothorax/",
+    "summary": "Selio Medical developed an FDA-cleared hydrogel device that seals CT-guided lung biopsy punctures before they can cause pneumothorax — a collapsed lung complication that affects up to a third of the 800,000+ such biopsies performed annually in the U.S. The post This Device Could Prevent Lung Biopsy’s Most Common — and Costly — Complication appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-02T23:19:13+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "Thyme Care Raises $125M, Launches New Oncology Parent Entity",
+    "url": "https://medcitynews.com/2026/09/thyme-care-raises-125m-launches-new-oncology-parent-entity/",
+    "summary": "Thyme Care’s Series E round was led by Morgan Health and included participation from Humana, CVS Health Ventures, AlleyCorp, HealthQuest Capital, Foresite Capital, Concord Health Partners, Frist Cressey Ventures, Town Hall Ventures and a16z Bio + Health. The post Thyme Care Raises $125M, Launches New Oncology Parent Entity appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-02T21:54:49+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "Teva Drug Rises to the Gluten Challenge, Stopping Intestinal Damage in Celiac Disease Trial",
+    "url": "https://medcitynews.com/2026/09/teva-celiac-disease-gluten-il-15-antibody-immunology-inflammation/",
+    "summary": "In a mid-stage study, Teva’s drug prevented intestinal damage in celiac disease patients who underwent a gluten challenge — eating food with gluten to see if it prompts an immune response. There are currently no FDA-approved drugs for celiac disease, but Teva’s antibody is part of a competitive race to bring patients the first one. The post Teva Drug Rises to the Gluten Challenge, Stopping Intestinal Damage in Celiac Disease Trial appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-02T21:32:50+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "STAT+: Ultragenyx drug to treat Angelman syndrome, a rare disease, fails late-stage trial",
+    "url": "https://www.statnews.com/2026/09/02/ultragenyx-drug-angelman-syndrome-clinical-trial/?utm_campaign=rss",
+    "summary": "Ultragenyx said its experimental therapy for Angelman syndrome, a rare disease, showed no benefit compared to a sham treatment in a Phase 3 trial.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-02T20:37:24+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "ADA Says Booted Meeting Attendees Violated Code of Conduct",
+    "url": "https://www.medpagetoday.com/special-reports/features/122872",
+    "summary": "(MedPage Today) -- The American Diabetes Association (ADA) said it concluded its review of events that occurred during its annual meeting in June, but those who were thrown out of the meeting aren't satisfied with the answer. ADA hasn't made its...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-02T21:09:38+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "UnitedHealthcare's 1,700 Prior Auth Cuts Draw Muted Applause",
+    "url": "https://www.medpagetoday.com/practicemanagement/reimbursement/122871",
+    "summary": "(MedPage Today) -- UnitedHealthcare's (UHC) announcement Tuesday that it's removing 1,700 more procedures from its prior authorization list was met with general approval, although some experts questioned how much of a difference it would make...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-02T21:07:50+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "Sad Trial Names: Social Media Thinks Cardiology Is Going Through It",
+    "url": "https://www.medpagetoday.com/cardiology/generalcardiology/122860",
+    "summary": "(MedPage Today) -- Cardiology is going through it -- so say commenters on social media, at least. During last week's European Society of Cardiology (ESC) meeting in Munich, a trial name caught attendees' eyes: SINGLE-AF. The trial, about oral...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-02T16:00:03+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "Medicare spent hundreds of millions of dollars on ineligible drugs, audit finds",
+    "url": "https://www.healthcaredive.com/news/medicare-spending-ineligible-otc-drugs-hhs-oig-audit/829454/",
+    "summary": "Shoddy CMS oversight is to blame, and the agency needs to do better, the HHS Office of the Inspector General said. The CMS concurred.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-02T16:30:35+00:00",
+    "date_str": "Sep 02, 2026"
+  },
+  {
+    "title": "Leading medical groups release flu, COVID vaccine recommendations as CDC guidance lags",
+    "url": "https://www.fiercehealthcare.com/providers/leading-medical-groups-release-flu-covid-vaccine-recommendations-cdc-guidance-lags",
+    "summary": "Several major medical organizations on Wednesday released vaccine recommendations for the 2026-27 respiratory virus season to fill a gap in immunization guidance left by the federal government.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-03T03:06:55.225536+00:00",
+    "date_str": "Sep 03, 2026"
+  },
+  {
+    "title": "Trump signs stopgap funding bill into law, temporarily avoiding shutdown",
+    "url": "https://thehill.com/homenews/administration/6067996-trump-stopgap-funding-law-government-shutdown/",
+    "summary": "President Trump on Wednesday signed a stopgap government funding bill into law, affirming Congress's efforts to temporarily avert a shutdown until at least Dec. 11. By signing the “Continuing Appropriations and Extensions Act, 2027” into law, Trump ensured federal agencies will be funded through November's midterms into December. The measure passed the Senate and House...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-09-03T02:36:47+00:00",
+    "date_str": "Sep 03, 2026"
+  },
+  {
     "title": "Automation Didn’t Dehumanize Care. Bad Systems Did.",
     "url": "https://medcitynews.com/2026/09/automation-didnt-dehumanize-care-bad-systems-did/",
     "summary": "[Sponsored] We have the opportunity to design systems that give people greater capacity for the work where human presence matters most: listening, understanding, reassuring, deciding, and caring. The post Automation Didn’t Dehumanize Care. Bad Systems Did. appeared first on MedCity News .",
@@ -2297,106 +2397,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-08-27T13:00:00+00:00",
-    "date_str": "Aug 27, 2026"
-  },
-  {
-    "title": "STAT+: Alnylam’s heart drug troubles take center stage at a cardiology conference",
-    "url": "https://www.statnews.com/2026/08/27/alnylam-amvuttra-nucresiran-heart-drugs-esc/?utm_campaign=rss",
-    "summary": "The European Society of Cardiology Congress that kicks off Friday in Munich will be a consequential meeting for Alnylam Pharmaceuticals.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-27T10:30:00+00:00",
-    "date_str": "Aug 27, 2026"
-  },
-  {
-    "title": "Rwandans love their milk bars. The health minister wishes they'd drink a little less",
-    "url": "https://www.npr.org/2026/08/27/g-s1-139914/milk-rwanda-milk-bar",
-    "summary": "A big glass of moo juice — no, make that several glasses a day — is common in Rwanda. Is that too much of a good thing?",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-27T10:54:44+00:00",
-    "date_str": "Aug 27, 2026"
-  },
-  {
-    "title": "Record cyclosporiasis outbreak and new food recalls raise concerns about food safety",
-    "url": "https://www.npr.org/2026/08/27/nx-s1-5943196/record-cyclosporiasis-outbreak-and-new-food-recalls-raise-concerns-about-food-safety",
-    "summary": "Amid a record-setting outbreak of the diarrhea-causing parasite, food safety advocates say risks to food production are increasing.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-27T10:45:27+00:00",
-    "date_str": "Aug 27, 2026"
-  },
-  {
-    "title": "U.S. Women Increasingly Not Screened for Cervical Cancer",
-    "url": "https://www.medpagetoday.com/obgyn/cervicalcancer/122796",
-    "summary": "(MedPage Today) -- The proportion of women never screened for cervical cancer increased by more than 5% per year from 2005 to 2023, a cross-sectional study showed. Over this time period, the proportion of women ages 21 to 29 never screened for...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-27T20:54:03+00:00",
-    "date_str": "Aug 27, 2026"
-  },
-  {
-    "title": "Postpartum Psychosis: Who Is Most at Risk?",
-    "url": "https://www.medpagetoday.com/popmedicine/cultureclinic/122794",
-    "summary": "(MedPage Today) -- The trial of Lindsay Clancy, a former nurse who killed her three kids, has brought renewed attention to the most tragic outcomes of postpartum psychosis. However, an expert told MedPage Today that postpartum psychosis is a complicated...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-27T19:59:03+00:00",
-    "date_str": "Aug 27, 2026"
-  },
-  {
-    "title": "Docs Remember Dolly; Influencer Faked Being a PA Student? Top 5 Patient Complaints",
-    "url": "https://www.medpagetoday.com/popmedicine/popmedicine/122793",
-    "summary": "(MedPage Today) -- The following contains links to social media websites including Bluesky, X, TikTok, Instagram, Facebook, and LinkedIn. Following the death of Dolly Parton, the American Public Health Association and American Medical Association...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-27T19:36:41+00:00",
-    "date_str": "Aug 27, 2026"
-  },
-  {
-    "title": "GI Doc Awakes to Bat in Mouth; Stopped Farting? Uh-Oh; FDA Approves GERD Implant",
-    "url": "https://www.medpagetoday.com/gastroenterology/generalgastroenterology/122791",
-    "summary": "(MedPage Today) -- Virginia gastroenterologist Krista Edelman, MD, went viral on social media after revealing she woke up to a bat trying to burrow its way into her mouth. (People) During colonoscopies, a second forward-view examination of the...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-27T18:47:53+00:00",
-    "date_str": "Aug 27, 2026"
-  },
-  {
-    "title": "DEA Schedules Widely Available Opioid Compounds as Controlled Substances",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/opioids/122788",
-    "summary": "(MedPage Today) -- The Drug Enforcement Administration (DEA) announced that it issued a temporary order to schedule three opioid compounds as controlled substances. \"The DEA bases this action on a finding that placing mitragynine pseudoindoxyl...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-27T17:58:28+00:00",
-    "date_str": "Aug 27, 2026"
-  },
-  {
-    "title": "'Transformation' Project Underway at CDC",
-    "url": "https://www.medpagetoday.com/special-reports/exclusives/122786",
-    "summary": "(MedPage Today) -- The CDC has launched a new \"enterprise transformation project\" called CDC Voyager that's left employees wondering exactly what it will mean for the agency's future. Sean Slovenski, CDC's principal deputy director and chief operating...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-27T16:09:14+00:00",
-    "date_str": "Aug 27, 2026"
-  },
-  {
-    "title": "Body of Missing Oncologist Found; Doc Accused of Luggage Theft; Fired Doc's Lawsuit",
-    "url": "https://www.medpagetoday.com/special-reports/features/122785",
-    "summary": "(MedPage Today) -- The body of oncologist Dmitriy Zak, MD, was recovered from an Arkansas lake on Tuesday morning, 2 days after he was reported missing. An autopsy will be performed. (White River Now) A doctor from Brazil was accused of pulling...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-27T15:57:10+00:00",
     "date_str": "Aug 27, 2026"
   }
 ]
