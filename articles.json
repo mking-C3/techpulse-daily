@@ -1,5 +1,165 @@
 [
   {
+    "title": "FDA Approves Ionis Pharma Drug, the First for Ultra-Rare Alexander Disease",
+    "url": "https://medcitynews.com/2026/09/ionis-fda-approval-zilganersen-zanvastro-alexander-disease-ultra-rare-disease-neurology-aso-ions/",
+    "summary": "Ionis Pharmaceuticals’ zilganersen, brand name Zanvastro, is the first disease-modifying therapy approved for the neurological disorder Alexander disease. While Ionis has experience developing medicines for rare neuroscience indications, Zanvastro will be the first neurology product the company brings to the market without a commercialization partner. The post FDA Approves Ionis Pharma Drug, the First for Ultra-Rare Alexander Disease appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-04T18:07:08+00:00",
+    "date_str": "Sep 04, 2026"
+  },
+  {
+    "title": "STAT+: Top Boston hospitals clash over Medicare Advantage network after split",
+    "url": "https://www.statnews.com/2026/09/04/mass-general-brigham-medicare-advantage-network-cancer-treatment-dana-farber/?utm_campaign=rss",
+    "summary": "First, Mass General Brigham split with Dana-Farber. Now its Medicare Advantage plan is dropping the cancer hospital.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-04T16:05:04+00:00",
+    "date_str": "Sep 04, 2026"
+  },
+  {
+    "title": "Whatever happened to the U.S. campaign to ban child marriage?",
+    "url": "https://www.npr.org/2026/09/04/g-s1-141468/child-marriage-united-states-india-global",
+    "summary": "The global effort to end child marriage is in the news. In the U.S., there's a new bill before Congress (but it's controversial). And the U.N. is designating a day dedicated to ending the practice.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-04T17:01:24+00:00",
+    "date_str": "Sep 04, 2026"
+  },
+  {
+    "title": "With jury deadlocked, judge declares a mistrial in Lindsay Clancy's murder case",
+    "url": "https://www.npr.org/2026/09/04/nx-s1-5950421/lindsay-clancy-trial-verdict-mistrial",
+    "summary": "The judge in Lindsay Clancy's murder case has declared a mistrial after the jury was unable to agree on a verdict.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-04T16:20:30+00:00",
+    "date_str": "Sep 04, 2026"
+  },
+  {
+    "title": "Blood Cancer's First New Drug in 29 Years; AI for Mammography? Phase III Myeloma Win",
+    "url": "https://www.medpagetoday.com/hematologyoncology/prostatecancer/122905",
+    "summary": "(MedPage Today) -- The FDA approved ropeginterferon alfa-2b (Besremi) injection to treat adults with essential thrombocythemia, the first new therapy for the chronic blood cancer since the 1997 approval of anagrelide. A national survey showed...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-04T18:41:18+00:00",
+    "date_str": "Sep 04, 2026"
+  },
+  {
+    "title": "Docs Alarmed by NIH Plan to Redirect Medical Research $$ to Pentagon",
+    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/122903",
+    "summary": "(MedPage Today) -- Infectious disease specialists are sounding the alarm about a Trump administration plan to eliminate a clinical research unit at the National Institute of Allergy and Infectious Diseases (NIAID), and Democrats in Congress say...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-04T18:31:09+00:00",
+    "date_str": "Sep 04, 2026"
+  },
+  {
+    "title": "AI System Faster but Not More Accurate Than Docs for Diagnosing Rheum Disease",
+    "url": "https://www.medpagetoday.com/rheumatology/generalrheumatology/122900",
+    "summary": "(MedPage Today) -- Prof. Valmed, a large language model (LLM) cleared by European regulators for medical diagnosis, outperformed human physicians for diagnosing rheumatologic conditions in terms of speed but not accuracy, a randomized trial showed...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-04T17:53:30+00:00",
+    "date_str": "Sep 04, 2026"
+  },
+  {
+    "title": "Rare Brain Disorder Gets Its First FDA Drug Approval",
+    "url": "https://www.medpagetoday.com/neurology/generalneurology/122901",
+    "summary": "(MedPage Today) -- The FDA approved zilganersen (Zanvastro) to treat Alexander disease in pediatric and adult patients, the agency announced Thursday. The antisense oligonucleotide, the first approved treatment for Alexander disease, directly...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-04T17:52:11+00:00",
+    "date_str": "Sep 04, 2026"
+  },
+  {
+    "title": "Alcohol-Linked Cancer Deaths Rising",
+    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/122898",
+    "summary": "(MedPage Today) -- While overall cancer mortality rates have declined steadily over the last few decades, cancer deaths attributed to alcohol have been rising, a population-based observational trend analysis showed. From 1990 to 2023, alcohol...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-04T17:27:24+00:00",
+    "date_str": "Sep 04, 2026"
+  },
+  {
+    "title": "GLP-1s May Be Taking Our Eyes Off the Real Obesity Problem",
+    "url": "https://www.medpagetoday.com/endocrinology/obesity/122895",
+    "summary": "(MedPage Today) -- GLP-1 receptor agonists may be powerful tools for treating obesity and cardiometabolic disease, but relying on medications alone risks overlooking the forces helping drive the obesity epidemic, according to Laura Schmidt, PhD...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-04T16:24:37+00:00",
+    "date_str": "Sep 04, 2026"
+  },
+  {
+    "title": "Transplant Care Can't Evolve Without Research-Informed Policy",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/122890",
+    "summary": "(MedPage Today) -- For clinicians committed to helping patients with end-stage kidney disease (ESKD) receive the care that best meets their needs, care decisions are often constrained by systemic and policy-level factors. While the patient-clinician...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-04T15:24:38+00:00",
+    "date_str": "Sep 04, 2026"
+  },
+  {
+    "title": "Should Optometry Play a Bigger Role in Wet AMD Monitoring?",
+    "url": "https://www.medpagetoday.com/spotlight/wet-amd/122889",
+    "summary": "(MedPage Today) -- As U.S. optometrists push to expand their scope of practice, a recent British randomized trial suggested that community optometrists could safely play a large role in the monitoring of neovascular (wet) age-related macular degeneration...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-04T15:22:22+00:00",
+    "date_str": "Sep 04, 2026"
+  },
+  {
+    "title": "Radio Silence on Mitch McConnell's Health Persists",
+    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/122888",
+    "summary": "(MedPage Today) -- It's been almost a month since Sen. Mitch McConnell (R-Ky.) last shared a health update, leading to another round of speculation about when -- or if -- he will return to Congress, but experts say recovery from pneumonia in...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-04T15:20:29+00:00",
+    "date_str": "Sep 04, 2026"
+  },
+  {
+    "title": "Industry Voices—How AMCs can prevent healthcare deserts through strategic M&A",
+    "url": "https://www.fiercehealthcare.com/providers/industry-voices-how-amcs-can-prevent-healthcare-deserts-through-strategic-ma",
+    "summary": "Academic medical centers have an opportunity to stabilize local access—if they can become disciplined buyers, fast integrators and credible stewards of community hospitals.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-04T20:19:05.664567+00:00",
+    "date_str": "Sep 04, 2026"
+  },
+  {
+    "title": "Mark Cuban's recipe for affordable healthcare includes these 5 policy changes",
+    "url": "https://www.fiercehealthcare.com/regulatory/mark-cubans-recipe-affordable-healthcare-includes-these-5-policy-changes",
+    "summary": "This week, lawmakers in the Texas state House brought in more than a dozen expert speakers to discuss how to make healthcare more affordable. One of those experts was entrepreneur and billionaire Mark Cuban.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-04T20:19:05.664621+00:00",
+    "date_str": "Sep 04, 2026"
+  },
+  {
+    "title": "Epinephrine injection recalled over potentially fatal health risks",
+    "url": "https://thehill.com/policy/healthcare/6071686-epinephrine-injection-recalled-fatal-health-risk-fda/",
+    "summary": "Consumers, retailers and health care facilities should stop using the product and discard or return it, the FDA said.",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-09-04T17:54:20+00:00",
+    "date_str": "Sep 04, 2026"
+  },
+  {
     "title": "Bringing Ski Patrol Lessons to Healthtech Entrepreneurship",
     "url": "https://medcitynews.com/2026/09/bringing-ski-patrol-lessons-to-healthtech-entrepreneurship/",
     "summary": "Three things ski patrol can teach about building a business The post Bringing Ski Patrol Lessons to Healthtech Entrepreneurship appeared first on MedCity News .",
@@ -2238,165 +2398,5 @@
     "category_slug": "senior-health",
     "date": "2026-08-29T20:57:20+00:00",
     "date_str": "Aug 29, 2026"
-  },
-  {
-    "title": "ADHD and CVD; Hospice Care in City vs Country",
-    "url": "https://www.medpagetoday.com/podcasts/healthwatch/122811",
-    "summary": "(MedPage Today) -- TTHealthWatch is a weekly podcast from Texas Tech. In it, Elizabeth Tracey, director of electronic media for Johns Hopkins Medicine in Baltimore, and Rick Lange, MD, president of Texas Tech Health El Paso, look at the top medical...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-29T18:00:00+00:00",
-    "date_str": "Aug 29, 2026"
-  },
-  {
-    "title": "Lost in Translation: We Need More Spanish-Speaking Doctors Now",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/122795",
-    "summary": "(MedPage Today) -- Speaking Spanish as a healthcare provider isn't just a communication skill. It is an act of reassurance at a time when millions of immigrants across the U.S. are afraid of Immigration and Customs Enforcement (ICE). This well...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-29T16:00:00+00:00",
-    "date_str": "Aug 29, 2026"
-  },
-  {
-    "title": "With Midterms Looming, Journalists Consider Measles, Food Recalls, and Obamacare",
-    "url": "https://kffhealthnews.org/on-air/on-air-august-29-2026-measles-vaccination-food-recalls-midterm-elections/",
-    "summary": "KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here’s a collection of their appearances.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-29T09:00:00+00:00",
-    "date_str": "Aug 29, 2026"
-  },
-  {
-    "title": "STAT+: A Novartis drug cut inflammation. Can it improve heart outcomes?",
-    "url": "https://www.statnews.com/2026/08/29/novartis-pacibekitug-inflammation-il6-tourmaline-heart-disease/?utm_campaign=rss",
-    "summary": "A newly acquired Novartis drug cut signs of inflammation. The test will be whether that can improve people's heart health.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-29T07:32:11+00:00",
-    "date_str": "Aug 29, 2026"
-  },
-  {
-    "title": "The bridges of Rwanda open up new worlds",
-    "url": "https://www.npr.org/2026/08/29/nx-s1-5927173/bridges-remote-communities-rwanda",
-    "summary": "A charity built 96 bridges to connect communities separated by rivers and gorges. A new study looks at the life-changing impact of a concrete-and-steel pedestrian crossing.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-29T11:54:36+00:00",
-    "date_str": "Aug 29, 2026"
-  },
-  {
-    "title": "Pennsylvania measles deaths ignite clash over RFK Jr.'s vaccination claims",
-    "url": "https://www.npr.org/2026/08/29/nx-s1-5946842/pennsylvania-measles-deaths-ignite-clash-over-rfk-jr-s-vaccination-claims",
-    "summary": "Two deaths associated with the measles outbreak in Pennsylvania prompted messaging from the health secretary that both encouraged and undermined vaccinations.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-29T11:40:56+00:00",
-    "date_str": "Aug 29, 2026"
-  },
-  {
-    "title": "Lights out, Instagram off? The changes to Meta for teens could be a big deal",
-    "url": "https://www.npr.org/2026/08/29/nx-s1-5947960/instagram-meta-social-media-teens",
-    "summary": "Researchers and advocates are applauding the changes that Meta agreed to make for minors on Instagram and Facebook. Cutting kids off at night and during the school day are two big changes.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-29T11:00:00+00:00",
-    "date_str": "Aug 29, 2026"
-  },
-  {
-    "title": "Trump cuts to science advisory boards have long-lasting consequences, researchers say",
-    "url": "https://www.npr.org/2026/08/29/nx-s1-5945029/trump-cut-science-advisory-committees-consequences",
-    "summary": "The federal government recruits top experts to volunteer to advise on pressing research issues of the day. Since President Trump took office, hundreds of these experts have been dismissed.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-29T10:00:00+00:00",
-    "date_str": "Aug 29, 2026"
-  },
-  {
-    "title": "Statins Handed a Victory in Healthy Older People in STAREE",
-    "url": "https://www.medpagetoday.com/meetingcoverage/esc/122819",
-    "summary": "(MedPage Today) -- For the first time, a major randomized trial was able to show that primary prevention statins did have a place for healthy older adults. Statin therapy with daily atorvastatin 40 mg was clearly favored over placebo in people...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-29T06:15:00+00:00",
-    "date_str": "Aug 29, 2026"
-  },
-  {
-    "title": "Epic MyChart Phishing Scam Hits Health Systems: What Providers Should Do",
-    "url": "https://medcitynews.com/2026/08/epic-mychart-phishing-cybersecurity-hackers-hospitals/",
-    "summary": "More than a dozen health systems are warning patients of a phishing campaign impersonating Epic’s MyChart portal with fake Medicare rewards and faux login pages. Experts say the scam exposes a deeper problem: patients can’t be expected to spot increasingly polished fakes, so the responsibility falls on providers to communicate in ways that build trust. The post Epic MyChart Phishing Scam Hits Health Systems: What Providers Should Do appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-28T23:16:38+00:00",
-    "date_str": "Aug 28, 2026"
-  },
-  {
-    "title": "FDA Says Juul Can Sell Updated Vaping Device With Age-Gating Technology",
-    "url": "https://www.medpagetoday.com/pulmonology/smoking/122818",
-    "summary": "(MedPage Today) -- Vaping company Juul Labs on Friday received federal permission to sell an updated version of its e-cigarette, which includes an optional age-verification system designed to prevent underage use. The FDA decision allows the company...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-28T21:37:20+00:00",
-    "date_str": "Aug 28, 2026"
-  },
-  {
-    "title": "Dietary Guidelines Lawsuit; Expensive NIH Policy; Pediatrician Running for Office",
-    "url": "https://www.medpagetoday.com/podcasts/anamnesis/122805",
-    "summary": "(MedPage Today) -- The following is a transcript of the podcast episode: Rachael Robertson: Hey everybody! Welcome to MedPod Today, podcast series where MedPage Today reporters share deeper insight into the week's biggest healthcare stories. I...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-28T15:09:52+00:00",
-    "date_str": "Aug 28, 2026"
-  },
-  {
-    "title": "Medtronic Reflux Device Linked to 184 Serious Injuries, FDA Warns",
-    "url": "https://www.medpagetoday.com/gastroenterology/gerd/122804",
-    "summary": "(MedPage Today) -- The FDA on Thursday warned of 184 serious injuries linked to recalled Bravo calibration-free (CF) acid-monitoring capsule delivery devices, which are used to help diagnose gastroesophageal reflux. \"Medtronic stated that the...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-28T14:23:47+00:00",
-    "date_str": "Aug 28, 2026"
-  },
-  {
-    "title": "Dolly Parton's Health Struggles; Fauci Prosecution Stalled; Germany's Malaria Deaths",
-    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/122803",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Before her death, Dolly Parton disclosed she had let her own health slide while taking care of her terminally ill husband. (CNN) The Republican effort to hold Anthony...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-28T13:47:58+00:00",
-    "date_str": "Aug 28, 2026"
-  },
-  {
-    "title": "FDA Nod for Inflammation Drug Notches Wins for Rare Disease Patients, Roivant’s Biz Strategy",
-    "url": "https://medcitynews.com/2026/08/roivant-sciences-priovant-brepocitinib-lisraya-dermatomyositis-jak1-tyk2-inhibitor-fda-approval-inflammation-immunology-rare-disease-roiv/",
-    "summary": "Roivant Sciences subsidiary Priovant Therapeutics received FDA approval for Lisraya as a treatment for the rare inflammatory disorder dermatomyositis. Licensed from Pfizer, this once-daily pill designed to block JAK1 and TYK2 proteins is also in clinical development for three additional rare immunological disorders, each with blockbuster potential. The post FDA Nod for Inflammation Drug Notches Wins for Rare Disease Patients, Roivant’s Biz Strategy appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-28T20:19:24+00:00",
-    "date_str": "Aug 28, 2026"
-  },
-  {
-    "title": "The Silent Epidemic: Why Diabetic Foot Ulcers Have Been Overlooked for Three Decades",
-    "url": "https://medcitynews.com/2026/08/the-silent-epidemic-why-diabetic-foot-ulcers-have-been-overlooked-for-three-decades/",
-    "summary": "Chronic wounds demand clinicians willing to act outside of their defined role, not because the system incentivizes it, but because without it, the wound will not heal. The post The Silent Epidemic: Why Diabetic Foot Ulcers Have Been Overlooked for Three Decades appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-08-28T13:15:00+00:00",
-    "date_str": "Aug 28, 2026"
   }
 ]
