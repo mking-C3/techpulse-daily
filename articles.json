@@ -1,5 +1,85 @@
 [
   {
+    "title": "Opinion: Make infectious disease data boring again",
+    "url": "https://www.statnews.com/2026/09/04/pennsylvania-measles-deaths-data-cdc-director-rfk-jr/?utm_campaign=rss",
+    "summary": "“Is CDC now applying different standards to state data depending on who governs the state or what political party won an election?” ask former CDC officials.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-04T08:30:00+00:00",
+    "date_str": "Sep 04, 2026"
+  },
+  {
+    "title": "STAT+: Lindsay Clancy case exposes dangers of fragmented U.S. health system, experts say",
+    "url": "https://www.statnews.com/2026/09/04/lindsay-clancy-health-care-silos-postpartum-care-failures/?utm_campaign=rss",
+    "summary": "In the months before killing her children, Lindsay Clancy repeatedly sought help for her deteriorating mental health.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-04T08:30:00+00:00",
+    "date_str": "Sep 04, 2026"
+  },
+  {
+    "title": "Opinion: The FDA removed the red tape around one of the best drugs for children with schizophrenia. But the fear remains",
+    "url": "https://www.statnews.com/2026/09/04/clozapine-children-schizophrenia-neutrophil-fda-monitoring/?utm_campaign=rss",
+    "summary": "Clozapine “is one of the most underused drugs in all of medicine,” writes Nitin Gogtay.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-04T08:30:00+00:00",
+    "date_str": "Sep 04, 2026"
+  },
+  {
+    "title": "Scientists map key protein interactions linked with profound autism",
+    "url": "https://www.npr.org/2026/09/04/nx-s1-5954823/profound-autism-proteins-genes-map-treatments",
+    "summary": "Research published in the journal Science illuminates a \"missing piece\" in the biological understanding of profound autism and offers new targets for drug development.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-04T10:00:00+00:00",
+    "date_str": "Sep 04, 2026"
+  },
+  {
+    "title": "Federal civil rights data about students is finally out. It's different under Trump",
+    "url": "https://www.npr.org/2026/09/04/nx-s1-5955681/civil-rights-data-schools-trump",
+    "summary": "The Education Department gathers a massive tranche of civil rights data about public school students. It's now available but harder to parse than in the past.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-04T09:00:00+00:00",
+    "date_str": "Sep 04, 2026"
+  },
+  {
+    "title": "Dry eyes are common in women. Here's why you shouldn't ignore them",
+    "url": "https://www.npr.org/2026/09/04/nx-s1-5954560/dry-eyes-women-menopause-perimenopause",
+    "summary": "Research suggests around half of all women in the menopausal transition years experience symptoms, like red, watery or gritty-feeling eyes. Hormonal shifts play a role, as do a lot of other factors.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-04T09:00:00+00:00",
+    "date_str": "Sep 04, 2026"
+  },
+  {
+    "title": "Off-Label GLP-1 Use Skyrockets in Young Kids",
+    "url": "https://www.medpagetoday.com/pediatrics/obesity/122883",
+    "summary": "(MedPage Today) -- Prescribing GLP-1 receptor agonists to children ages 8 to 11 years with obesity surged 310-fold since 2019, despite a lack of FDA approval in kids under 12, a large cross-sectional analysis showed. Among over 3.5 million children...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-04T04:01:00+00:00",
+    "date_str": "Sep 04, 2026"
+  },
+  {
+    "title": "Democrats weigh how big to go on healthcare reform in midterm push",
+    "url": "https://thehill.com/policy/healthcare/6070400-democratic-party-healthcare-vision/",
+    "summary": "Democratic lawmakers and policy groups are all throwing their ideas for healthcare reform in the ring, but it remains to be seen what the party is willing to consider as it seeks to retake control of Congress. After the Affordable Care Act (ACA) enhanced premium tax credits expired last year, and with no momentum to...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-09-04T10:00:00+00:00",
+    "date_str": "Sep 04, 2026"
+  },
+  {
     "title": "Judi Health Taps Color Health, WellTheory, Cylinder for Clinical Ecosystem",
     "url": "https://medcitynews.com/2026/09/judi-health-taps-color-health-welltheory-cylinder-for-clinical-ecosystem/",
     "summary": "Judi Health expanded its healthcare network to offer specialized virtual care for cancer, autoimmune and GI conditions while helping employers reduce overall healthcare costs. The post Judi Health Taps Color Health, WellTheory, Cylinder for Clinical Ecosystem appeared first on MedCity News .",
@@ -2317,86 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-08-28T20:47:01+00:00",
-    "date_str": "Aug 28, 2026"
-  },
-  {
-    "title": "What Vaccine Was Linked to Cardiovascular Benefits?",
-    "url": "https://www.medpagetoday.com/quizzes/news-quiz/122814",
-    "summary": "(MedPage Today) -- You passed medical training, now see if you can pass our weekly quiz",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-28T20:40:29+00:00",
-    "date_str": "Aug 28, 2026"
-  },
-  {
-    "title": "Nonobstructive Heart Enlargement Responds to Aficamten",
-    "url": "https://www.medpagetoday.com/meetingcoverage/esc/122812",
-    "summary": "(MedPage Today) -- Treatment with aficamten (Myqorzo) improved exercise capacity as well as health status and symptoms in patients with symptomatic nonobstructive hypertrophic cardiomyopathy (HCM) in a large, double-blind, placebo-controlled trial...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-28T19:15:16+00:00",
-    "date_str": "Aug 28, 2026"
-  },
-  {
-    "title": "Dolly's Cancer Death; Mammogram Safety Alert; Chemo Drug Shortage Worsens",
-    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/122810",
-    "summary": "(MedPage Today) -- Representatives for entertainer Dolly Parton acknowledged that she died of cancer but did not identify the type of cancer; her sister, Stella, revealed that the singer and actress volunteered to take experimental drugs that might...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-28T18:50:07+00:00",
-    "date_str": "Aug 28, 2026"
-  },
-  {
-    "title": "FDA Approves Four Updated COVID Shots Targeting XFG Variant",
-    "url": "https://www.medpagetoday.com/infectiousdisease/covid19vaccine/122809",
-    "summary": "(MedPage Today) -- The FDA approved four updated COVID-19 vaccines for the 2026-2027 season targeting the SARS-C0V-2 variant that dominated last season. Moderna, Pfizer and BioNTech, and Novavax, Sanofi, and Takeda announced Thursday that their...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-28T18:36:17+00:00",
-    "date_str": "Aug 28, 2026"
-  },
-  {
-    "title": "About a Quarter of Those Who Stop Wegovy Start Again",
-    "url": "https://www.medpagetoday.com/endocrinology/obesity/122808",
-    "summary": "(MedPage Today) -- Nearly half of adults who started semaglutide (Wegovy) for obesity management stopped treatment within a year, a Danish cohort study showed. Among 157,822 first-time semaglutide initiators without diabetes, 49% discontinued...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-28T17:27:33+00:00",
-    "date_str": "Aug 28, 2026"
-  },
-  {
-    "title": "First Major Trial Win for Contemporary DOACs in Lower-Risk Afib",
-    "url": "https://www.medpagetoday.com/meetingcoverage/esc/122807",
-    "summary": "(MedPage Today) -- Emerging randomized data favored oral anticoagulation for lower-risk patients with atrial fibrillation (Afib), researchers found. Among patients with Afib and one thromboembolic risk factor in the SINGLE-AF trial, direct oral...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-28T16:23:53+00:00",
-    "date_str": "Aug 28, 2026"
-  },
-  {
-    "title": "Cyclospora Outbreak Involving Iceberg Lettuce Expands to 3 More States",
-    "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/122806",
-    "summary": "(MedPage Today) -- Parasitic illness cases linked to recalled iceberg lettuce have now been confirmed in 20 states, federal health officials said Thursday, expanding the scope of the largest outbreak of its kind in the U.S. The FDA said government...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-28T15:29:08+00:00",
-    "date_str": "Aug 28, 2026"
-  },
-  {
-    "title": "Physicians want compensation boost from AI productivity gains: survey",
-    "url": "https://www.healthcaredive.com/news/physicians-say-they-should-benefit-financially-from-ais-time-savings-doximity/829046/",
-    "summary": "More than 65% of physicians use AI daily or weekly for clinical or administrative work — and some believe they should be paid more if the tech increases their efficiency, according to a Doximity report.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-28T12:47:50+00:00",
     "date_str": "Aug 28, 2026"
   }
 ]
