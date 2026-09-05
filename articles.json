@@ -1,5 +1,45 @@
 [
   {
+    "title": "Do you hate being middle-aged? NPR's Allison Aubrey wants to change that",
+    "url": "https://www.npr.org/2026/09/04/nx-s1-5750605/do-you-hate-being-middle-aged-nprs-allison-aubrey-wants-to-change-that",
+    "summary": "NPR's Ailsa Chang speaks with Allison Aubrey, health and science correspondent for NPR and the author of Your Turn: How to Create a Midlife You Love . You can share your story of midlife reinvention.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-04T20:52:51+00:00",
+    "date_str": "Sep 04, 2026"
+  },
+  {
+    "title": "Digital Intervention to Protect Cognitive Health; Afib Ablation and Quality of Life",
+    "url": "https://www.medpagetoday.com/podcasts/healthwatch/122899",
+    "summary": "(MedPage Today) -- TTHealthWatch is a weekly podcast from Texas Tech. In it, Elizabeth Tracey, director of electronic media for Johns Hopkins Medicine in Baltimore, and Rick Lange, MD, president of Texas Tech Health El Paso, look at the top medical...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-05T18:00:00+00:00",
+    "date_str": "Sep 05, 2026"
+  },
+  {
+    "title": "You Can Argue With a Machine, Doctor",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/122893",
+    "summary": "(MedPage Today) -- In the \"Star Trek: The Original Series\" episode \"The Deadly Years,\" Captain Kirk isn't defeated by an enemy ship. He's brought down, at least for a while, by medical findings. Radiation poisoning has accelerated his aging. He...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-05T16:00:00+00:00",
+    "date_str": "Sep 05, 2026"
+  },
+  {
+    "title": "RFK Jr. accepts PA child died of measles, says Shapiro hastily 'politicized' death",
+    "url": "https://thehill.com/policy/healthcare/6073118-rfk-acknowledges-pennsylvania-measles-death/",
+    "summary": "Health and Human Services Secretary Robert F. Kennedy Jr. acknowledged Friday that measles caused the death of an infant in Pennsylvania, after previously questioning the state’s reporting of two measles-related deaths amid a growing outbreak. Kennedy pointed to findings from Lancaster County coroner Stephen Diamantoni, who confirmed Friday that the six-week-old child died from measles...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-09-05T15:48:39+00:00",
+    "date_str": "Sep 05, 2026"
+  },
+  {
     "title": "Rewriting the narrative: One man's journey through the new era of lung cancer care",
     "url": "https://www.npr.org/2026/09/05/nx-s1-5850255/rewriting-the-narrative-one-mans-journey-through-the-new-era-of-lung-cancer-care",
     "summary": "Lung cancer is still the top cancer killer. But new developments are shifting what the future might hold for patients, as one man's cancer journey shows.",
@@ -2358,45 +2398,5 @@
     "category_slug": "senior-health",
     "date": "2026-08-31T09:00:00+00:00",
     "date_str": "Aug 31, 2026"
-  },
-  {
-    "title": "How Shared Clinical Decision-Making Can Shape the Metastatic Prostate Cancer Journey",
-    "url": "https://www.fiercehealthcare.com/sponsored/how-shared-clinical-decision-making-can-shape-metastatic-prostate-cancer-journey",
-    "summary": "When a patient learns they have metastatic castration-sensitive prostate cancer (mCSPC), it often marks the beginning of a long and uncertain journey. The first conversations that follow can shape how that patient feels about their treatment and their role in it. In those early moments, how we respond matters.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-31T12:47:50.603616+00:00",
-    "date_str": "Aug 31, 2026"
-  },
-  {
-    "title": "In next phase of sustainability, UCI Health, Kaiser Permanente, and others turn to electric hospitals",
-    "url": "https://www.fiercehealthcare.com/hospitals/next-phase-sustainability-uci-health-kaiser-permanente-turn-electric-hospitals",
-    "summary": "The U.S. healthcare sector is responsible for about 9% of the country’s greenhouse gas emissions. A growing number of providers have implemented sustainability agendas, with electrification being the next frontier.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-31T12:47:50.603664+00:00",
-    "date_str": "Aug 31, 2026"
-  },
-  {
-    "title": "Tricuspid Valve Repair Finally Proven to Keep HF Events At Bay",
-    "url": "https://www.medpagetoday.com/meetingcoverage/esc/122822",
-    "summary": "(MedPage Today) -- Transcatheter tricuspid valve repair could finally be tied to improved hard outcomes in people with severe tricuspid regurgitation (TR) at high risk for future heart failure (HF) events, a German trial found. With operators...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-08-30T20:41:06+00:00",
-    "date_str": "Aug 30, 2026"
-  },
-  {
-    "title": "STAT+: FDA approves Protagonist and Takeda’s drug for rare blood cancer",
-    "url": "https://www.statnews.com/2026/08/30/fda-approves-mimrylo-takeda-protagonist-treatment-for-polycythemia-vera/?utm_campaign=rss",
-    "summary": "Mimrylo, from Takeda and Protagonist, is a new kind of treatment for the blood cancer polycythemia vera.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-08-30T18:30:18+00:00",
-    "date_str": "Aug 30, 2026"
   }
 ]
