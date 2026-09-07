@@ -1,5 +1,45 @@
 [
   {
+    "title": "STAT+: Novo Nordisk stops two cardiovascular trials of drug aimed at lowering inflammation",
+    "url": "https://www.statnews.com/2026/09/07/novo-nordisk-heart-studies-inflammation-ziltivekimab/?utm_campaign=rss",
+    "summary": "Novo Nordisk has stopped two trials of a drug that aims to tame inflammation as a way to improve cardiovascular health, another blow for the approach.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-07T11:13:52+00:00",
+    "date_str": "Sep 07, 2026"
+  },
+  {
+    "title": "The copper peptide trend has gone from creams to injections — ahead of the science",
+    "url": "https://www.npr.org/2026/09/07/nx-s1-5955552/copper-peptides-skin-aging-health-safe",
+    "summary": "The peptide is supposed to deliver flawless and firm skin, promote wound healing and other anti-aging effects. So what's the evidence behind GHK-Cu?",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-07T09:00:00+00:00",
+    "date_str": "Sep 07, 2026"
+  },
+  {
+    "title": "Pig kidneys keep patients alive long enough to get human kidneys for the first time",
+    "url": "https://www.npr.org/2026/09/07/nx-s1-5958008/pig-kidneys-keep-patients-alive-long-enough-to-get-human-kidneys-for-the-first-time",
+    "summary": "For the first time, genetically modified pig kidneys keep two kidney failure patients alive long enough to get human kidneys.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-07T08:42:53+00:00",
+    "date_str": "Sep 07, 2026"
+  },
+  {
+    "title": "Collins's Kavanaugh vote becomes key weapon for opponents",
+    "url": "https://thehill.com/policy/healthcare/6072524-maine-senate-race-abortion-collins/",
+    "summary": "Democrats and reproductive rights groups are zeroing in on Sen. Susan Collins’s (R-Maine) vote to confirm Justice Brett Kavanaugh as a pillar of their campaign to oust her, arguing she paved the way for the Supreme Court’s decision to overturn Roe v. Wade. On Friday, Maine Democratic Senate nominee Troy Jackson released an ad blasting...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-09-07T10:00:00+00:00",
+    "date_str": "Sep 07, 2026"
+  },
+  {
     "title": "STAT+: Not so fast: Diabetes association panel not done reviewing ejections from its June meeting",
     "url": "https://www.statnews.com/2026/09/06/ada-diabetes-association-ejection-conference-review-not-final/?utm_campaign=rss",
     "summary": "The American Diabetes Association “continues to move from crisis to crisis to crisis,” says one of five members ejected from June conference.",
@@ -2357,46 +2397,6 @@
     "category": "Drug Coverage",
     "category_slug": "drug-coverage",
     "date": "2026-08-31T22:30:01.540032+00:00",
-    "date_str": "Aug 31, 2026"
-  },
-  {
-    "title": "Docs are seeing more patients influenced by mis- and disinformation. What can they do about it?",
-    "url": "https://www.fiercehealthcare.com/providers/docs-seeing-more-patients-influenced-misinformation-impacting-care",
-    "summary": "More docs surveyed in March said their patients were influenced by inaccurate info than in 2025, and that it is affecting their care.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-31T22:30:01.540062+00:00",
-    "date_str": "Aug 31, 2026"
-  },
-  {
-    "title": "White House strikes new drug-pricing deals",
-    "url": "https://www.politico.com/news/2026/08/31/white-house-drug-pricing-most-favored-nation-trump-01057840",
-    "summary": "The Trump administration is touting deals with nine drugmakers ahead of the midterm elections.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-08-31T21:00:19+00:00",
-    "date_str": "Aug 31, 2026"
-  },
-  {
-    "title": "Federal judge delays a mifepristone lawsuit until after midterms",
-    "url": "https://thehill.com/policy/healthcare/6062042-judge-pauses-mifepristone-lawsuit/",
-    "summary": "A federal judge on Sunday paused a lawsuit seeking to revoke the Food and Drug Administration’s (FDA) approval of the abortion pill mifepristone until after the midterm elections. Judge Reed O’Connor, of the U.S. District Court for the Northern District of Texas, granted a request by the Department of Justice to delay the lawsuit filed...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-31T21:24:33+00:00",
-    "date_str": "Aug 31, 2026"
-  },
-  {
-    "title": "Trump announces Medicaid drug pricing deals with 9 firms",
-    "url": "https://thehill.com/policy/healthcare/6061821-trump-medicaid-drug-pricing/",
-    "summary": "The Trump administration on Monday announced new Medicaid drug pricing agreements with nine midsize biotechnology and pharmaceutical companies. Every drug “will be at the lowest prices available anywhere in the world,” President Trump said in the Oval Office, surrounded by company executives. Under the agreements, the companies will charge state Medicaid programs the same...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-08-31T20:02:48+00:00",
     "date_str": "Aug 31, 2026"
   }
 ]
