@@ -1,5 +1,225 @@
 [
   {
+    "title": "STAT+: Right before midterms, Trump dangles $500 refunds for select ACA enrollees",
+    "url": "https://www.statnews.com/2026/09/10/trump-affordable-care-act-refund-checks-who-is-eligible/?utm_campaign=rss",
+    "summary": "The legal basis for the $500 checks, and who would get them, isn't entirely clear.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-10T19:57:28+00:00",
+    "date_str": "Sep 10, 2026"
+  },
+  {
+    "title": "Platinum-based chemotherapy in childhood causes mutations that age the liver",
+    "url": "https://www.statnews.com/2026/09/10/childhood-chemotherapy-cisplatin-carboplatin-new-study-liver-impact/?utm_campaign=rss",
+    "summary": "Platinum chemotherapy aged the liver cells of treated children, making them look more like adult liver cells and possibly raising the long-term risk of new tumors",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-10T18:00:00+00:00",
+    "date_str": "Sep 10, 2026"
+  },
+  {
+    "title": "Why two promising heart drugs flopped and what’s next",
+    "url": "https://www.statnews.com/2026/09/10/readout-loud-podcast-heart-disease-drugs-failed-trials/?utm_campaign=rss",
+    "summary": "This week on \"The Readout LOUD\" podcast: Two experimental drugs were heralded as the next era in heart disease treatment — why did they fail?",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-10T17:29:23+00:00",
+    "date_str": "Sep 10, 2026"
+  },
+  {
+    "title": "STAT+: The gifts from pharma companies that keep on giving",
+    "url": "https://www.statnews.com/pharmalot/2026/09/10/many-doctors-still-embrace-pharma-freebies-rely-on-sales-reps/?utm_campaign=rss",
+    "summary": "There has been rancorous debate over doctors accepting free gifts and speaking fees from pharma companies. That doesn't mean doctors have reconsidered.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-10T16:47:22+00:00",
+    "date_str": "Sep 10, 2026"
+  },
+  {
+    "title": "Preschoolers With Cystic Fibrosis Get Close to Normal on Alyftrek",
+    "url": "https://www.medpagetoday.com/meetingcoverage/ers/122955",
+    "summary": "(MedPage Today) -- In cystic fibrosis, vanzacaftor-tezacaftor-deutivacaftor (VTD; Alyftrek) showed great potential for modifying the progression of disease in young children, according to the TIMBERLINE study. Assessing safety and tolerability...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-10T19:41:27+00:00",
+    "date_str": "Sep 10, 2026"
+  },
+  {
+    "title": "Residency Software Developer Sues Doctor Who Helped Launch a Competing Product",
+    "url": "https://www.medpagetoday.com/hospitalbasedmedicine/graduatemedicaleducation/122954",
+    "summary": "(MedPage Today) -- The graduate medical education (GME) software company Thalamus filed a lawsuit against its competitor Liaison International and ob/gyn leader Maya Hammoud, MD, MBA, over alleged anticompetitive conduct. Thalamus brought the...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-10T19:11:14+00:00",
+    "date_str": "Sep 10, 2026"
+  },
+  {
+    "title": "Piping Hot Drinks & Esophagus Cancer; Belching Disorder in GERD; Outbreak Sickens 22",
+    "url": "https://www.medpagetoday.com/gastroenterology/generalgastroenterology/122952",
+    "summary": "(MedPage Today) -- People who consumed their hot beverages at a \"very hot\" temperature had a threefold higher risk for squamous cell carcinoma of the esophagus compared with those who drank them at a \"warm\" temperature, an analysis of two large...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-10T18:21:28+00:00",
+    "date_str": "Sep 10, 2026"
+  },
+  {
+    "title": "Horse or Newborn Baby? First 'I'm a Doctor' Moment; Clean Water Ruling",
+    "url": "https://www.medpagetoday.com/popmedicine/popmedicine/122951",
+    "summary": "(MedPage Today) -- The following contains links to social media websites including Bluesky, X, TikTok, Instagram, Facebook, and LinkedIn. Is this a horse or a newborn baby? Pediatrician Gal Barbut, MD, went to the farm to help suss it out. Is...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-10T18:19:33+00:00",
+    "date_str": "Sep 10, 2026"
+  },
+  {
+    "title": "Making Treatment Decisions in Advanced Prostate Cancer",
+    "url": "https://www.medpagetoday.com/beyond-diagnosis/mcspc/122950",
+    "summary": "(MedPage Today) -- In \"Beyond Diagnosis: Metastatic Castration-Sensitive Prostate Cancer,\" Cleveland Clinic oncologist Christopher Wee, MD, and host John Mangels discuss how clinicians can guide patients through the initial complexities of a metastatic...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-10T18:08:06+00:00",
+    "date_str": "Sep 10, 2026"
+  },
+  {
+    "title": "Trump Promises $500 Obamacare Rebate Checks for 1 Million Enrollees in 30 States",
+    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/122949",
+    "summary": "(MedPage Today) -- The Trump administration is promising $500 rebate checks to an estimated 1 million Affordable Care Act (ACA) enrollees across 30 states, who the White House alleged were overcharged by the Biden administration for exchange fees...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-10T18:02:24+00:00",
+    "date_str": "Sep 10, 2026"
+  },
+  {
+    "title": "9/11's Latest Wave of Cancers, 25 Years On",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/122948",
+    "summary": "(MedPage Today) -- As we mark 25 years since 9/11, it's become clear that the devastation wasn't limited to that day, or even to the first decade after the events. Immediately after 9/11, the first wave of respiratory and mental health conditions...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-10T16:42:52+00:00",
+    "date_str": "Sep 10, 2026"
+  },
+  {
+    "title": "Half of Medicare Advantage stars thresholds harder to reach in 2027",
+    "url": "https://www.healthcaredive.com/news/medicare-advantage-stars-cutpoints-2027-cms/829963/",
+    "summary": "The CMS released draft star ratings, including the thresholds for reaching those ratings, to plans earlier this week. The grading sheet got stricter, which doesn’t bode well for insurers, one MA expert said.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-10T16:18:29+00:00",
+    "date_str": "Sep 10, 2026"
+  },
+  {
+    "title": "Veterans Affairs taps Amwell for telehealth revamp",
+    "url": "https://www.healthcaredive.com/news/veterans-affairs-taps-amwell-telehealth-revamp/830032/",
+    "summary": "It's another prong in the agency's digital health modernization project, which has faced setbacks and delays.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-10T14:11:59+00:00",
+    "date_str": "Sep 10, 2026"
+  },
+  {
+    "title": "Tenet laying off 1,000+ Conifer employees amid CommonSpirit contract breakup",
+    "url": "https://www.fiercehealthcare.com/providers/tenet-laying-1000-conifer-employees-amid-commonspirit-contract-breakup",
+    "summary": "The for-profit healthcare company's revenue cycle subsidiary is in the midst of a pivot with the early conclusion of a long-term outsourcing contract.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-10T20:27:18.872510+00:00",
+    "date_str": "Sep 10, 2026"
+  },
+  {
+    "title": "At CTA event, federal officials outline AI ambitions as clinicians debate risks",
+    "url": "https://www.fiercehealthcare.com/health-tech/ctas-dc-healthcare-event-federal-officials-outline-ai-ambitions-clinicians-debate-risks",
+    "summary": "Federal healthcare agencies are accelerating efforts to expand artificial intelligence's role in healthcare, with clinical AI emerging as a top strategic priority for the Centers for Medicare & Medicaid Services.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-10T20:27:18.872574+00:00",
+    "date_str": "Sep 10, 2026"
+  },
+  {
+    "title": "White House plans $500 refunds for nearly 1M ACA enrollees",
+    "url": "https://www.fiercehealthcare.com/regulatory/white-house-plans-500-refunds-nearly-1m-aca-enrollees",
+    "summary": "The White House announced Thursday that it plans to issue $500 refunds to close to a million people enrolled in Affordable Care Act plans.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-10T20:27:18.872607+00:00",
+    "date_str": "Sep 10, 2026"
+  },
+  {
+    "title": "University of Iowa Health Care calls off $2B+ patient tower build",
+    "url": "https://www.fiercehealthcare.com/providers/university-iowa-health-care-calls-2b-patient-tower-build",
+    "summary": "\"Significant financial challenges” facing the healthcare industry at large have limited Iowa Health Care’s ability to “responsibly” deploy capital toward the five-year build. It is now proposing a $380 million capital plan focused on updating and expanding existing facilities.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-10T20:27:18.872649+00:00",
+    "date_str": "Sep 10, 2026"
+  },
+  {
+    "title": "Trump to give $500 refunds to nearly 1 million Obamacare customers",
+    "url": "https://www.politico.com/news/2026/09/10/trump-obamacare-refunds-aca-subsidies-01070983",
+    "summary": "The refunds comes ahead of the November midterms where high health costs are expected to play a factor.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-10T19:09:29+00:00",
+    "date_str": "Sep 10, 2026"
+  },
+  {
+    "title": "‘Aggressive’ Medicaid crackdowns will hurt children with autism, providers warn",
+    "url": "https://www.politico.com/news/2026/09/10/medicaid-fraud-oz-autism-therapy-01070514",
+    "summary": "The Trump administration and states are policing Medicaid spending on autism therapy. Vulnerable children are losing access.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-10T17:00:00+00:00",
+    "date_str": "Sep 10, 2026"
+  },
+  {
+    "title": "Roughly half of hospitals complying with price transparency rules: Report",
+    "url": "https://thehill.com/policy/healthcare/6081969-pra-report-hospital-pricing-rules/",
+    "summary": "Even though compliance rates have reached a record high, only about half of U.S. hospitals are in full compliance with federal price transparency rules, according to a report released Thursday. The nonprofit group Patient Rights Advocate (PRA) released its eighth hospital price transparency report in which it found 49.4 percent of hospitals it reviewed were...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-09-10T17:20:33+00:00",
+    "date_str": "Sep 10, 2026"
+  },
+  {
+    "title": "Multistate salmonella outbreak linked to broccoli sprouts: FDA",
+    "url": "https://thehill.com/policy/healthcare/6082261-fda-investigates-salmonella-broccoli-sprouts/",
+    "summary": "The Food and Drug Administration (FDA) reported Wednesday it will investigate a multistate outbreak of salmonella linked to recalled broccoli sprouts. The Centers for Disease Control and Prevention (CDC) and state partners found 22 cases in four states. Two people were hospitalized for salmonella-related symptoms, and there have been no reported deaths. Washington has the...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-09-10T17:15:39+00:00",
+    "date_str": "Sep 10, 2026"
+  },
+  {
+    "title": "Trump pledges $500 ObamaCare rebate checks",
+    "url": "https://thehill.com/policy/healthcare/6082253-trump-pledges-healthcare-rebate-checks/",
+    "summary": "The Trump administration is pledging to send $500 rebate checks to nearly 1 million Americans who the White House says were overcharged for ObamaCare coverage. In a recorded message posted Thursday to the White House account on the social platform X, President Trump alleged without evidence that the Biden administration was “massively” overcharging enrollees on the...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-09-10T17:04:08+00:00",
+    "date_str": "Sep 10, 2026"
+  },
+  {
     "title": "What Health Equity Champions Can Learn from Pharmaceutical Sales",
     "url": "https://medcitynews.com/2026/09/what-health-equity-champions-can-learn-from-pharmaceutical-sales/",
     "summary": "The same mechanics can now help people meet new Medicaid work requirements or exemptions, increase referrals to evidence-based health interventions, and dramatically increase enrollment in vital programs that improve health outcomes and reduce inequities. The post What Health Equity Champions Can Learn from Pharmaceutical Sales appeared first on MedCity News .",
@@ -2177,226 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-09-03T16:38:15+00:00",
-    "date_str": "Sep 03, 2026"
-  },
-  {
-    "title": "Surgeon Indicted Over Shootout; $15M Asthma Death Settlement; Ketamine Doc Suspended",
-    "url": "https://www.medpagetoday.com/special-reports/features/122874",
-    "summary": "(MedPage Today) -- Thomas Steffens, DO, the Colorado surgeon accused of shooting at federal agents who were trying to arrest him in Florida, has been indicted on multiple charges, including attempted murder of a federal officer. (WPBF) A New York...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-03T15:24:47+00:00",
-    "date_str": "Sep 03, 2026"
-  },
-  {
-    "title": "Why AI scribes are a malpractice risk, according to experts",
-    "url": "https://www.healthcaredive.com/news/why-ai-scribes-malpractice-risk/829541/",
-    "summary": "The technology can make clinical documentation mistakes that can be hard to detect, leading to potential medical errors and lawsuits as health systems increase their use.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-03T13:15:37+00:00",
-    "date_str": "Sep 03, 2026"
-  },
-  {
-    "title": "HaloMD says No Surprises is lowering spending on emergency care. Researchers aren’t convinced.",
-    "url": "https://www.healthcaredive.com/news/halomd-no-surprises-cut-oon-emergency-medical-spending-research/829466/",
-    "summary": "The NSA has saved at least $1 billion on out-of-network emergency medical spending, according to the billings firm’s new study. But HaloMD’s methodology leaves something to be desired, independent experts said.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-02T17:34:53+00:00",
-    "date_str": "Sep 02, 2026"
-  },
-  {
-    "title": "FTC claims Ohio hospital's acquisition pivot as antitrust victory",
-    "url": "https://www.fiercehealthcare.com/regulatory/ftc-claims-ohio-hospitals-acquisition-pivot-antitrust-victory",
-    "summary": "The regulator said it pushed back on Fairfield Medical Center's proposed combination with OhioHealth, with a subsequent shop process identifying the smaller Adena Health as the hospital's eventual partner.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-03T20:32:35.889406+00:00",
-    "date_str": "Sep 03, 2026"
-  },
-  {
-    "title": "Rep. Pallone probing No Surprises Act arbiters amid concern about IDR costs, volume",
-    "url": "https://www.fiercehealthcare.com/payers/rep-pallone-probing-no-surprises-act-arbiters-amid-concern-about-idr-costs-volume",
-    "summary": "A leading Democrat in the House is probing the behavior of No Surprises Act arbiters.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-03T20:32:35.889458+00:00",
-    "date_str": "Sep 03, 2026"
-  },
-  {
-    "title": "OIG: Medicare Part D plans spent millions on ineligible OTC drugs",
-    "url": "https://www.fiercehealthcare.com/regulatory/oig-medicare-part-d-plans-spent-millions-ineligible-otc-drugs",
-    "summary": "Medicare Part D plans made millions in payments for drugs that were ineligible under the program, according to a new federal audit.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-03T20:32:35.889491+00:00",
-    "date_str": "Sep 03, 2026"
-  },
-  {
-    "title": "GoodRx expands subscription offerings with family plan for prescription meds and healthcare services",
-    "url": "https://www.fiercehealthcare.com/telehealth/goodrx-expands-subscription-offerings-family-plan",
-    "summary": "GoodRx Companion Family Plan covers a primary member and up to four members, with no age restrictions and the inclusion of pets.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-03T20:32:35.889523+00:00",
-    "date_str": "Sep 03, 2026"
-  },
-  {
-    "title": "RFK Jr. is investigating whether troops died of Covid vaccine, Army doctor says",
-    "url": "https://www.politico.com/news/2026/09/03/rfk-jr-covid-vaccines-pentagon-defense-injuries-01063921",
-    "summary": "Theresa Long is one of a few Kennedy advisers examining whether the government covered up vaccine side effects.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-03T19:49:14+00:00",
-    "date_str": "Sep 03, 2026"
-  },
-  {
-    "title": "Bipartisan insulin price cap introduced in House as lawmakers seek affordability win",
-    "url": "https://thehill.com/policy/healthcare/6069932-bipartisan-house-introduces-insulin-cap-legislation/",
-    "summary": "Bipartisan House lawmakers, including two battleground Republicans, introduced legislation Thursday to ensure people with private health insurance don’t pay more than $35 a month for insulin. Lawmakers have discussed the idea of an insulin cap for years but haven’t been able to get legislation over the finish line over GOP resistance to government setting prices....",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-09-03T19:31:53+00:00",
-    "date_str": "Sep 03, 2026"
-  },
-  {
-    "title": "Leading medical groups update flu, COVID vaccine recommendations amid confusion",
-    "url": "https://thehill.com/policy/healthcare/6068925-ama-vip-vaccine-recommendations/",
-    "summary": "A coalition of leading medical groups has released its own vaccine recommendations for the 2026-27 respiratory viral season based on their independent evidence review of existing data. The Vaccine Integrity Project and American Medical Association (AMA) collaborated on evidence reviews for the vaccines targeting COVID-19, respiratory syncytial virus (RSV) and the flu. \"The newest evidence...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-09-03T18:28:09+00:00",
-    "date_str": "Sep 03, 2026"
-  },
-  {
-    "title": "Pentagon temporarily rescinds mandatory testosterone testing guidance",
-    "url": "https://thehill.com/policy/defense/6069728-pentagon-temporarily-rescinds-testosterone-guidance/",
-    "summary": "The Pentagon temporarily rescinded the recently issued guidance instructing mandatory testosterone deficiency screening for male active-duty and ​reserve service members age 30 and older, a Pentagon official told The Hill on Thursday. The guidance, which was unveiled on Wednesday, stated that men over the age of 30 would get testosterone blood tests, while those younger...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-09-03T18:12:01+00:00",
-    "date_str": "Sep 03, 2026"
-  },
-  {
-    "title": "Healing Through Heritage: Why Culturally Grounded Recovery Matters on Tribal Lands",
-    "url": "https://medcitynews.com/2026/09/healing-through-heritage-why-culturally-grounded-recovery-matters-on-tribal-lands/",
-    "summary": "This shift is not about replacing clinical care with tradition. It is about recognizing that healing in Native communities has always been deeply connected to culture. The post Healing Through Heritage: Why Culturally Grounded Recovery Matters on Tribal Lands appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-09-03T13:03:00+00:00",
-    "date_str": "Sep 03, 2026"
-  },
-  {
-    "title": "STAT+: Seattle scientists launch $95 million AI biology effort",
-    "url": "https://www.statnews.com/2026/09/03/biotech-news-seattle-scientists-launch-95-million-ai-biology-effort/?utm_campaign=rss",
-    "summary": "Ultragenyx drug fails pivotal Phase 3, FDA's success at regulating unproven stem cells, and other biotech news",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-03T14:39:05+00:00",
-    "date_str": "Sep 03, 2026"
-  },
-  {
-    "title": "STAT+: Fauci speaks, and writes",
-    "url": "https://www.statnews.com/2026/09/03/anthony-fauci-vaccine-skeptics-book-trump-drug-pricing-deals-medicaid/?utm_campaign=rss",
-    "summary": "Anthony Fauci is working on a book, we unpack Trump's latest drug pricing deals, and more from STAT's D.C. Diagnosis newsletter.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-03T14:11:34+00:00",
-    "date_str": "Sep 03, 2026"
-  },
-  {
-    "title": "HHS flip-flops on disability lawsuit",
-    "url": "https://www.statnews.com/2026/09/03/health-news-hhs-flip-flops-on-disability-lawsuit-community-integration/?utm_campaign=rss",
-    "summary": "Drug overdose deaths decreasing, a path to patients for AI devices, and more health news from Morning Rounds",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-03T13:21:58+00:00",
-    "date_str": "Sep 03, 2026"
-  },
-  {
-    "title": "STAT+: OpenEvidence launches new family of AI models",
-    "url": "https://www.statnews.com/2026/09/03/openevidence-launches-new-ai-models-clinicians-health-tech/?utm_campaign=rss",
-    "summary": "In this edition of STAT Health Tech: What FDA's TEMPO pilot means for AI regulation, OpenEvidence launches new AI models, and more.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-03T13:18:32+00:00",
-    "date_str": "Sep 03, 2026"
-  },
-  {
-    "title": "STAT+: We’re reading about an Ultragenyx failure, RevMed for lung cancer, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/09/03/pharmalittle-ultrangenyx-gene-therapy-failure-rev-med-lung-cancer/?utm_campaign=rss",
-    "summary": "The latest pharma news from the Pharmalot campus via the Pharmalittle newsletter",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-03T13:18:08+00:00",
-    "date_str": "Sep 03, 2026"
-  },
-  {
-    "title": "Nurse Found Dead; New Moms Stirred by Clancy Trial; Tim Curry's Cause of Death",
-    "url": "https://www.medpagetoday.com/nursing/nursing/122873",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. A nurse and her two sons were found dead in their Minnesota home in what is suspected to be a double murder-suicide. (People) The Lindsay Clancy trial remains without...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-03T13:34:11+00:00",
-    "date_str": "Sep 03, 2026"
-  },
-  {
-    "title": "OpenEvidence deepens oncology push to build specialized AI agents, launches new AI model family",
-    "url": "https://www.fiercehealthcare.com/health-tech/openevidence-deepens-oncology-push-expands-ai-decision-support-cancer-care",
-    "summary": "The partnership builds on OpenEvidence's vision to develop “medical super-intelligence” based on agentic artificial intelligence, or a system of AI agents that can be subspecialists in clinical areas.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-03T15:50:19.188501+00:00",
-    "date_str": "Sep 03, 2026"
-  },
-  {
-    "title": "ANA: Individuals, employers share responsibility in tackling nurse fatigue",
-    "url": "https://www.fiercehealthcare.com/providers/ana-individuals-employers-share-responsibility-tackling-nurse-fatigue",
-    "summary": "Acute and chronic nurse fatigue is a risk to patients and nurses alike, and requires \"collective ethical responsibility\" rather than individual resilience, the American Nurses Association wrote in an updated position statement.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-03T15:50:19.188561+00:00",
-    "date_str": "Sep 03, 2026"
-  },
-  {
-    "title": "Judi Health expands clinical partnerships with addition of Color Health, WellTheory, Cylinder",
-    "url": "https://www.fiercehealthcare.com/payers/judi-health-expands-clinical-partnerships-addition-color-health-welltheory-cylinder",
-    "summary": "Judi Health is expanding its list of clinical partners with the addition of Color Health, WellTheory and Cylinder.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-03T15:50:19.188594+00:00",
-    "date_str": "Sep 03, 2026"
-  },
-  {
-    "title": "STAT+: Abivax has still not been acquired. What’s going on?",
-    "url": "https://www.statnews.com/2026/09/03/abivax-acquisition-target-replimune-fda/?utm_campaign=rss",
-    "summary": "Biotech M&A activity is off the charts, yet the French drugmaker Abivax hasn't been picked up yet. There may be some explanations.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-03T10:30:00+00:00",
     "date_str": "Sep 03, 2026"
   }
 ]
