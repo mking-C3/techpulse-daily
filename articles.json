@@ -1,5 +1,95 @@
 [
   {
+    "title": "GenHealth.ai Raises $16.5M to Automate Healthcare Administrative Tasks",
+    "url": "https://medcitynews.com/2026/09/genhealth-ai-raises-16-5m-to-automate-healthcare-administrative-tasks/",
+    "summary": "Flare Capital Partners led the Series A round. Craft, Obvious Ventures, Eniac Ventures, InHealth Ventures, Epsilon Health Investors and ARTIS also participated. The post GenHealth.ai Raises $16.5M to Automate Healthcare Administrative Tasks appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-11T20:52:00+00:00",
+    "date_str": "Sep 11, 2026"
+  },
+  {
+    "title": "STAT+: Scholar Rock wins FDA approval for first drug to target SMA muscle loss",
+    "url": "https://www.statnews.com/2026/09/11/scholar-rock-spinal-muscular-atrophy-isembyld-clinical-trial-fda-approval/?utm_campaign=rss",
+    "summary": "A late-stage clinical trial found that, when combined with an SMN2-targeting drug, Isembyld caused young patients’ motor skills to improve after a year.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-11T23:30:21+00:00",
+    "date_str": "Sep 11, 2026"
+  },
+  {
+    "title": "STAT+: Pharma wins a battle over the cost of wastewater treatment in Europe",
+    "url": "https://www.statnews.com/pharmalot/2026/09/11/pharma-wins-cost-of-wastewater-treatment-fight-europe/?utm_campaign=rss",
+    "summary": "An E.U. AG recommended annulling part of a directive that requires drugmakers to finance 80% of the costs of wastewater treatment.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-11T22:17:19+00:00",
+    "date_str": "Sep 11, 2026"
+  },
+  {
+    "title": "Parasite Infestation Common in Eyelash Extensions, Study Suggests",
+    "url": "https://www.medpagetoday.com/ophthalmology/generalophthalmology/122980",
+    "summary": "(MedPage Today) -- A study of young women with eyelash extensions showed that almost all had some degree of infestation with Demodex folliculorum, spider-like parasites that feed on dead skin cells. Microscopic examination of samples from 25 women...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-11T21:25:29+00:00",
+    "date_str": "Sep 11, 2026"
+  },
+  {
+    "title": "Menopausal Hormone Therapy May Ease Severe Mood Symptoms",
+    "url": "https://www.medpagetoday.com/obgyn/hrt/122979",
+    "summary": "(MedPage Today) -- Use of systemic hormone therapy for menopause was associated with improvements in mood symptoms, a retrospective observational study suggested. At a mean follow-up of 4.5 months, women starting on hormone therapy showed significantly...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-11T21:09:49+00:00",
+    "date_str": "Sep 11, 2026"
+  },
+  {
+    "title": "False and Misleading Claims on Healthcare During the Republican Midterm Convention",
+    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/122978",
+    "summary": "(MedPage Today) -- President Donald Trump, Vice President JD Vance, and other Republican officials came together for a 2-day convention this week to rally voters in advance of the midterm elections in November. But in celebrating their accomplishments...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-11T20:53:11+00:00",
+    "date_str": "Sep 11, 2026"
+  },
+  {
+    "title": "Boycott of the American Diabetes Association Launched",
+    "url": "https://www.medpagetoday.com/endocrinology/diabetes/122977",
+    "summary": "(MedPage Today) -- Members of the American Diabetes Association (ADA) have launched a boycott against the organization, condemning leadership's actions in the aftermath of five researchers being removed by police from its annual meeting in June...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-11T20:50:22+00:00",
+    "date_str": "Sep 11, 2026"
+  },
+  {
+    "title": "'Emergency' Medical Kits Touted by Dr. Drew and Others Draw Criticism",
+    "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/122976",
+    "summary": "(MedPage Today) -- Clinicians are raising concerns about \"medical emergency kits\" containing antibiotics that are being sold for at-home use and promoted by media celebrities like Drew Pinsky, MD, better known as \"Dr. Drew.\" One such kit, sold...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-11T20:24:45+00:00",
+    "date_str": "Sep 11, 2026"
+  },
+  {
+    "title": "SCAN CEO Sachin Jain is publishing a book on ethical healthcare leadership. Here's why",
+    "url": "https://www.fiercehealthcare.com/payers/scan-ceo-sachin-jain-publishing-book-ethical-healthcare-leadership-heres-why",
+    "summary": "Through the book, Sachin Jain, M.D., aims to call on healthcare leaders to acknowledge their role in normalizing what shouldn't be and take a more ethical approach to their positions.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-12T03:17:00.781136+00:00",
+    "date_str": "Sep 12, 2026"
+  },
+  {
     "title": "Nutromics Nabs FDA Breakthrough Status for Antibiotic Monitoring Patch",
     "url": "https://medcitynews.com/2026/09/nutromics-fda-antibiotic/",
     "summary": "Nutromics earned FDA breakthrough device designation for its wearable patch that tracks vancomycin levels in real time. The device aims to replace the periodic blood draws currently used to dose the tricky-to-manage antibiotic. The post Nutromics Nabs FDA Breakthrough Status for Antibiotic Monitoring Patch appeared first on MedCity News .",
@@ -2307,96 +2397,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-09-04T16:20:30+00:00",
-    "date_str": "Sep 04, 2026"
-  },
-  {
-    "title": "Blood Cancer's First New Drug in 29 Years; AI for Mammography? Phase III Myeloma Win",
-    "url": "https://www.medpagetoday.com/hematologyoncology/prostatecancer/122905",
-    "summary": "(MedPage Today) -- The FDA approved ropeginterferon alfa-2b (Besremi) injection to treat adults with essential thrombocythemia, the first new therapy for the chronic blood cancer since the 1997 approval of anagrelide. A national survey showed...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-04T18:41:18+00:00",
-    "date_str": "Sep 04, 2026"
-  },
-  {
-    "title": "Docs Alarmed by NIH Plan to Redirect Medical Research $$ to Pentagon",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/122903",
-    "summary": "(MedPage Today) -- Infectious disease specialists are sounding the alarm about a Trump administration plan to eliminate a clinical research unit at the National Institute of Allergy and Infectious Diseases (NIAID), and Democrats in Congress say...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-04T18:31:09+00:00",
-    "date_str": "Sep 04, 2026"
-  },
-  {
-    "title": "AI System Faster but Not More Accurate Than Docs for Diagnosing Rheum Disease",
-    "url": "https://www.medpagetoday.com/rheumatology/generalrheumatology/122900",
-    "summary": "(MedPage Today) -- Prof. Valmed, a large language model (LLM) cleared by European regulators for medical diagnosis, outperformed human physicians for diagnosing rheumatologic conditions in terms of speed but not accuracy, a randomized trial showed...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-04T17:53:30+00:00",
-    "date_str": "Sep 04, 2026"
-  },
-  {
-    "title": "Rare Brain Disorder Gets Its First FDA Drug Approval",
-    "url": "https://www.medpagetoday.com/neurology/generalneurology/122901",
-    "summary": "(MedPage Today) -- The FDA approved zilganersen (Zanvastro) to treat Alexander disease in pediatric and adult patients, the agency announced Thursday. The antisense oligonucleotide, the first approved treatment for Alexander disease, directly...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-04T17:52:11+00:00",
-    "date_str": "Sep 04, 2026"
-  },
-  {
-    "title": "Alcohol-Linked Cancer Deaths Rising",
-    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/122898",
-    "summary": "(MedPage Today) -- While overall cancer mortality rates have declined steadily over the last few decades, cancer deaths attributed to alcohol have been rising, a population-based observational trend analysis showed. From 1990 to 2023, alcohol...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-04T17:27:24+00:00",
-    "date_str": "Sep 04, 2026"
-  },
-  {
-    "title": "GLP-1s May Be Taking Our Eyes Off the Real Obesity Problem",
-    "url": "https://www.medpagetoday.com/endocrinology/obesity/122895",
-    "summary": "(MedPage Today) -- GLP-1 receptor agonists may be powerful tools for treating obesity and cardiometabolic disease, but relying on medications alone risks overlooking the forces helping drive the obesity epidemic, according to Laura Schmidt, PhD...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-04T16:24:37+00:00",
-    "date_str": "Sep 04, 2026"
-  },
-  {
-    "title": "Transplant Care Can't Evolve Without Research-Informed Policy",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/122890",
-    "summary": "(MedPage Today) -- For clinicians committed to helping patients with end-stage kidney disease (ESKD) receive the care that best meets their needs, care decisions are often constrained by systemic and policy-level factors. While the patient-clinician...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-04T15:24:38+00:00",
-    "date_str": "Sep 04, 2026"
-  },
-  {
-    "title": "Should Optometry Play a Bigger Role in Wet AMD Monitoring?",
-    "url": "https://www.medpagetoday.com/spotlight/wet-amd/122889",
-    "summary": "(MedPage Today) -- As U.S. optometrists push to expand their scope of practice, a recent British randomized trial suggested that community optometrists could safely play a large role in the monitoring of neovascular (wet) age-related macular degeneration...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-04T15:22:22+00:00",
-    "date_str": "Sep 04, 2026"
-  },
-  {
-    "title": "Radio Silence on Mitch McConnell's Health Persists",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/122888",
-    "summary": "(MedPage Today) -- It's been almost a month since Sen. Mitch McConnell (R-Ky.) last shared a health update, leading to another round of speculation about when -- or if -- he will return to Congress, but experts say recovery from pneumonia in...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-04T15:20:29+00:00",
     "date_str": "Sep 04, 2026"
   }
 ]
