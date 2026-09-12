@@ -1,5 +1,25 @@
 [
   {
+    "title": "Journalists Detail Data on Suicide, Primary Care Shortages, and Gun Violence",
+    "url": "https://kffhealthnews.org/on-air/on-air-september-12-2026-opioid-settlements-primary-care-gun-violence/",
+    "summary": "KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here’s a collection of their appearances.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-12T09:00:00+00:00",
+    "date_str": "Sep 12, 2026"
+  },
+  {
+    "title": "STAT+: Breast cancer pill from AstraZeneca misses mark in pivotal trial",
+    "url": "https://www.statnews.com/2026/09/12/astrazeneca-breast-cancer-camizestrant-etcamah-serena-4-trail-failure/?utm_campaign=rss",
+    "summary": "A pill from AstraZeneca failed to improve outcomes in closely watched breast cancer study, a result that could limit the use of the medicine.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-12T07:09:28+00:00",
+    "date_str": "Sep 12, 2026"
+  },
+  {
     "title": "GenHealth.ai Raises $16.5M to Automate Healthcare Administrative Tasks",
     "url": "https://medcitynews.com/2026/09/genhealth-ai-raises-16-5m-to-automate-healthcare-administrative-tasks/",
     "summary": "Flare Capital Partners led the Series A round. Craft, Obvious Ventures, Eniac Ventures, InHealth Ventures, Epsilon Health Investors and ARTIS also participated. The post GenHealth.ai Raises $16.5M to Automate Healthcare Administrative Tasks appeared first on MedCity News .",
@@ -2377,26 +2397,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-09-04T16:05:04+00:00",
-    "date_str": "Sep 04, 2026"
-  },
-  {
-    "title": "Whatever happened to the U.S. campaign to ban child marriage?",
-    "url": "https://www.npr.org/2026/09/04/g-s1-141468/child-marriage-united-states-india-global",
-    "summary": "The global effort to end child marriage is in the news. In the U.S., there's a new bill before Congress (but it's controversial). And the U.N. is designating a day dedicated to ending the practice.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-04T17:01:24+00:00",
-    "date_str": "Sep 04, 2026"
-  },
-  {
-    "title": "With jury deadlocked, judge declares a mistrial in Lindsay Clancy's murder case",
-    "url": "https://www.npr.org/2026/09/04/nx-s1-5950421/lindsay-clancy-trial-verdict-mistrial",
-    "summary": "The judge in Lindsay Clancy's murder case has declared a mistrial after the jury was unable to agree on a verdict.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-04T16:20:30+00:00",
     "date_str": "Sep 04, 2026"
   }
 ]
