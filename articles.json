@@ -1,5 +1,45 @@
 [
   {
+    "title": "Inspiren Rakes In $70M to Scale Its AI-Powered Senior Living Platform",
+    "url": "https://medcitynews.com/2026/09/inspiren-senior-living-ai/",
+    "summary": "Inspiren, a company selling an AI-powered senior living platform, raised $70 million in Series C funding led by NewView Capital. The platform uses ambient sensors and computer vision to predict falls before they happen. The post Inspiren Rakes In $70M to Scale Its AI-Powered Senior Living Platform appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-13T14:36:33+00:00",
+    "date_str": "Sep 13, 2026"
+  },
+  {
+    "title": "Healthcare Needs Software That Handles a Messy Reality",
+    "url": "https://medcitynews.com/2026/09/healthcare-doesnt-need-simpler-software-it-needs-software-that-handles-a-messy-reality/",
+    "summary": "The problem is not that companies have failed to make easy-to-use applications. Rather, it’s that there have been limitations to what software can realistically do in a modern healthcare environment. The post Healthcare Needs Software That Handles a Messy Reality appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-13T13:34:00+00:00",
+    "date_str": "Sep 13, 2026"
+  },
+  {
+    "title": "Actor Tatyana Ali is advocating for Black and Indigenous maternal health",
+    "url": "https://www.npr.org/2026/09/13/nx-s1-5966885/birth-black-and-indigenous-maternal-health",
+    "summary": "Actor Tatyana Ali says her healing journey after a traumatic childbirth has inspired her advocacy for Black maternal health, including support for midwives, doulas and other birth workers.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-13T14:00:00+00:00",
+    "date_str": "Sep 13, 2026"
+  },
+  {
+    "title": "Black women are more likely to experience pregnancy trauma and have their pain ignored",
+    "url": "https://www.npr.org/2026/09/13/nx-s1-5944495/black-women-are-more-likely-to-experience-pregnancy-trauma-and-have-their-pain-ignored",
+    "summary": "Black mothers in the U.S. are three times as likely to die from pregnancy-related causes than white women. Actress Tatyana Ali became an advocate after her own awful experience giving birth.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-13T12:04:21+00:00",
+    "date_str": "Sep 13, 2026"
+  },
+  {
     "title": "CDC director's 'unusual' silence draws scrutiny",
     "url": "https://thehill.com/policy/healthcare/6085687-cdc-erica-schwartz-measles-virus-vaccines/",
     "summary": "Just a month into her tenure, CDC director Erica Schwartz is missing in action. The country is heading into respiratory virus season, and public guidance on COVID-19, flu and RSV vaccines has been muddled, at best. The worst measles epidemic in more than 30 years continues unabated, while the Health and Human Services secretary is...",
@@ -2358,45 +2398,5 @@
     "category_slug": "healthcare-policy",
     "date": "2026-09-05T11:43:23+00:00",
     "date_str": "Sep 05, 2026"
-  },
-  {
-    "title": "Whatever happened to the floating schools of Bangladesh?",
-    "url": "https://www.npr.org/2026/09/05/g-s1-141464/climate-change-floating-schools-bangladesh",
-    "summary": "It was a light bulb moment: If monsoon rains keep kids from safely getting to school, let's create a floating school to pick them up! Bangladesh pioneered the idea. How's it doing?",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-05T11:26:09+00:00",
-    "date_str": "Sep 05, 2026"
-  },
-  {
-    "title": "Opinion: What STAT readers think about M.D. vs. D.O., AI in medicine, surrogacy, and more",
-    "url": "https://www.statnews.com/2026/09/05/md-vs-do-surrogacy-ai-medicine-stat-letters-to-editor/?utm_campaign=rss",
-    "summary": "“A click, signature, or brief review should not magically transfer responsibility from an AI developer or platform to a physician,” a reader tells STAT.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-05T08:30:00+00:00",
-    "date_str": "Sep 05, 2026"
-  },
-  {
-    "title": "Oracle Health Execs Subpoenaed After VA Contract Costs Nearly Triple",
-    "url": "https://medcitynews.com/2026/09/oracle-healthcare-ehr-va/",
-    "summary": "The House VA Committee voted 19-0 to subpoena Oracle Health executives Larry Ellison and Mike Sicilia after learning the VA’s EHR contract ballooned from $10 billion to $27 billion — despite Oracle’s promise to Congress that it would absorb any costs beyond the original cap. The post Oracle Health Execs Subpoenaed After VA Contract Costs Nearly Triple appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-09-04T20:50:28+00:00",
-    "date_str": "Sep 04, 2026"
-  },
-  {
-    "title": "STAT+: Novartis’ experimental cardiovascular drug fails a pivotal study",
-    "url": "https://www.statnews.com/2026/09/04/novartis-therapy-pelacarsen-fails-cardiovascular-trial/?utm_campaign=rss",
-    "summary": "A closely watched cardiovascular drug from Novartis failed in a pivotal study, the company said Friday, a major blow to the firm.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-04T21:07:27+00:00",
-    "date_str": "Sep 04, 2026"
   }
 ]
