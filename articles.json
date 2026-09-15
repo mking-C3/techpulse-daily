@@ -1,5 +1,105 @@
 [
   {
+    "title": "Rising Healthcare Costs Have Hit Georgia’s Most Conservative District. But Its Politics Are Unlikely To Change.",
+    "url": "https://kffhealthnews.org/health-care-costs/high-healthcare-costs-georgia-14th-trump-aca-obamacare-marjorie-taylor-greene/",
+    "summary": "With the expiration of enhanced subsidies for Affordable Care Act health plans, thousands of Georgians are paying more for coverage or going uninsured. In one of the state's reddest districts, the economic impact is growing faster than the political fallout.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-15T09:00:00+00:00",
+    "date_str": "Sep 15, 2026"
+  },
+  {
+    "title": "A Cancer Survivor Hoped To Work — Then She Lost Her Medicaid Disability Coverage",
+    "url": "https://kffhealthnews.org/medicaid/disability-medicaid-work-requirements-cancer-state-reviews-montana/",
+    "summary": "As state governments grapple with how to determine who’s sick enough to be excused from new Medicaid work requirements, some families are already struggling with what illnesses guarantee health coverage because of a disability.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-15T09:00:00+00:00",
+    "date_str": "Sep 15, 2026"
+  },
+  {
+    "title": "STAT+: Vera kidney drug Trutakna shows strong final results in Phase 3 trial",
+    "url": "https://www.statnews.com/2026/09/15/vera-kidney-drug-trutakna-shows-strong-phase-3-results-igan/?utm_campaign=rss",
+    "summary": "The drug stabilized kidney function and reduced the risk of death and other complications in IgAN patients",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-15T10:30:00+00:00",
+    "date_str": "Sep 15, 2026"
+  },
+  {
+    "title": "Exercise — and echocardiograms — in space protected astronauts’ hearts in study",
+    "url": "https://www.statnews.com/2026/09/15/heart-research-in-space-cardiovascular-health-nasa-astronauts-mars-mission/?utm_campaign=rss",
+    "summary": "If humans journey to Mars in 2035, exercise will be critical to keeping their hearts strong in microgravity.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-15T09:00:00+00:00",
+    "date_str": "Sep 15, 2026"
+  },
+  {
+    "title": "STAT+: Medicare’s AI prior authorization pilot was rushed and full of problems, new documents reveal",
+    "url": "https://www.statnews.com/2026/09/15/medicare-wiser-ai-prior-authorization-pilot-rushed-launch-delayed-care/?utm_campaign=rss",
+    "summary": "The rushed launch of a Medicare pilot to use AI for prior authorization led to delayed care in some instances, new documents reveal.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-15T08:30:00+00:00",
+    "date_str": "Sep 15, 2026"
+  },
+  {
+    "title": "Opinion: 3 lessons from the tobacco settlement on how states should use money from Meta",
+    "url": "https://www.statnews.com/2026/09/15/meta-facebook-social-media-addiction-lessons-learned-tobacco-master-settlement/?utm_campaign=rss",
+    "summary": "“Whether it’s nicotine or algorithms, the result is the same: reinforcing a behavior that is harmful to users,” writes Susan Morrisey.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-15T08:30:00+00:00",
+    "date_str": "Sep 15, 2026"
+  },
+  {
+    "title": "Air pollution spiked after the Trump administration stopped embassy monitoring",
+    "url": "https://www.npr.org/2026/09/15/nx-s1-5966503/air-pollution-spiked-after-the-trump-administration-stopped-embassy-monitoring",
+    "summary": "In 2025, the Trump administration ended a long-running program to collecting air pollution data at U.S. embassies. A new study suggests that led to a 24-33% increase in local pollution levels.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-15T10:26:08+00:00",
+    "date_str": "Sep 15, 2026"
+  },
+  {
+    "title": "US News' Best Children's Hospitals: Lurie Children's, UPMC join honor roll, Boston Children's tops specialty ranks",
+    "url": "https://www.fiercehealthcare.com/providers/us-news-best-childrens-hospitals-lurie-childrens-upmc-join-honor-roll-boston-childrens",
+    "summary": "The highly watched annual ranking judges children's hospitals on their structural measures and processes, outcomes and expert opinion.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-15T11:09:25.210744+00:00",
+    "date_str": "Sep 15, 2026"
+  },
+  {
+    "title": "Montana’s giving the biotech industry sweeping authority to sell unapproved drugs",
+    "url": "https://www.politico.com/news/2026/09/15/montana-biotech-prospera-fda-right-to-try-drugs-01075911",
+    "summary": "Americans will soon be able to travel to Big Sky Country to take experimental drugs in defiance of federal regulators.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-15T09:45:00+00:00",
+    "date_str": "Sep 15, 2026"
+  },
+  {
+    "title": "Carrie Hughes: Health and human services director, House Education and the Workforce Committee",
+    "url": "https://thehill.com/the-hill-notable-staffers-2026/6077963-carrie-hughes-health-human-services-director-house-education-workforce-committee/",
+    "summary": "Carrie Hughes knows she is somewhat of a rarity on Capitol Hill. Her first job as a congressional aide was in the office of Rep. Bobby Scott (D-Va.). Eighteen years later, he’s the only member she has worked for. Hughes started in Scott’s personal office and now serves as the director of Health and...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-09-15T10:01:00+00:00",
+    "date_str": "Sep 15, 2026"
+  },
+  {
     "title": "Democratic Senators Slam RFK Jr.'s 'Vanity Projects'",
     "url": "https://www.medpagetoday.com/washington-watch/washington-watch/123002",
     "summary": "(MedPage Today) -- Democratic Senators called out HHS Secretary Robert F. Kennedy Jr. for spending time and resources on his \"vanity projects\" instead of tackling more pressing public health crises. \"We are concerned that, instead of addressing...",
@@ -2297,106 +2397,6 @@
     "category": "Industry News",
     "category_slug": "industry-news",
     "date": "2026-09-08T23:00:17+00:00",
-    "date_str": "Sep 08, 2026"
-  },
-  {
-    "title": "Supreme Court declines to intervene in New York religious vaccine exemption case",
-    "url": "https://thehill.com/regulation/court-battles/6077588-supreme-court-vaccine-religious-exemption-new-york/",
-    "summary": "The Supreme Court on Tuesday declined to intervene in a lawsuit brought by a New York mother who wanted to send her child to kindergarten while a challenge over the state’s vaccine requirements continues to play out. The mother, identified only as Jane Doe, was seeking emergency relief from the high court to keep her...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-09-08T22:37:42+00:00",
-    "date_str": "Sep 08, 2026"
-  },
-  {
-    "title": "Democrats Demand Trump Administration Halt Collection of Patients’ ER Records",
-    "url": "https://kffhealthnews.org/health-industry/patient-privacy-consumer-product-safety-commission-trump-democrats-hospital-records/",
-    "summary": "Senate and House Democrats say the Trump administration’s plan to collect patients’ medical data violates privacy and will discourage people from seeking medical care.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-09-08T16:22:36+00:00",
-    "date_str": "Sep 08, 2026"
-  },
-  {
-    "title": "STAT+: FDA warns an API supplier about residue on walls, a corroded product line, and open-toed sandals",
-    "url": "https://www.statnews.com/pharmalot/2026/09/08/fda-warns-api-supplier-residue-corroded-production-line-sandals/?utm_campaign=rss",
-    "summary": "The FDA warned a supplier of active pharma ingredients about residue on walls, a corroded product line, and open-toed sandals at its facility. It also included photos.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-08T17:38:59+00:00",
-    "date_str": "Sep 08, 2026"
-  },
-  {
-    "title": "Pediatrician recounts experiences treating children with Ebola",
-    "url": "https://www.npr.org/2026/09/08/nx-s1-5948157/pediatrician-recounts-experiences-treating-children-with-ebola",
-    "summary": "Pediatrician Rupa Narra of Doctors Without Borders talks about the challenges of treating children with Ebola, especially because their fatality rate is so high.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-08T20:17:21+00:00",
-    "date_str": "Sep 08, 2026"
-  },
-  {
-    "title": "Gender Gap in Youth Suicide Has Almost Disappeared",
-    "url": "https://www.medpagetoday.com/pediatrics/generalpediatrics/122926",
-    "summary": "(MedPage Today) -- A gender gap long seen in the suicide rates of 10- to 14-year-olds in the U.S. has tightened, new research indicated. In 2017, the suicide rate of boys was twice that of girls (3.28 vs 1.66 per 100,000 population), but by 2024...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-08T19:40:56+00:00",
-    "date_str": "Sep 08, 2026"
-  },
-  {
-    "title": "New GLP-1 Hair Loss Insights; Wegovy in Kids; Are Fitness Trackers Lying to Users?",
-    "url": "https://www.medpagetoday.com/endocrinology/generalendocrinology/122927",
-    "summary": "(MedPage Today) -- Men predisposed to androgenetic alopecia had a higher risk of hair loss when using GLP-1 drugs, a Mendelian randomization study suggested. (Journal of Investigative Dermatology) Truveta data indicated a 19% increase in GLP-1...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-08T19:39:32+00:00",
-    "date_str": "Sep 08, 2026"
-  },
-  {
-    "title": "Navigating Empathy, Burnout, and Long-Term Relationships in Multiple Myeloma",
-    "url": "https://www.medpagetoday.com/beyond-diagnosis/multiple-myeloma/122925",
-    "summary": "(MedPage Today) -- In \"Beyond Diagnosis: Multiple Myeloma,\" Cleveland Clinic hematologist Sandra Mazzoni, DO, and host John Mangels continue their discussions on communicating effectively and empathetically with patients facing a complex, chronic...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-08T19:18:13+00:00",
-    "date_str": "Sep 08, 2026"
-  },
-  {
-    "title": "Iron, Selenium, and Dementia; Epilepsy and Education; Brain Death Conversations",
-    "url": "https://www.medpagetoday.com/neurology/generalneurology/122924",
-    "summary": "(MedPage Today) -- Lower plasma iron and higher plasma selenium levels were each tied to a greater risk of dementia, data from National Alzheimer's Coordinating Center participants showed. (Alzheimer's & Dementia: Diagnosis, Assessment &amp...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-08T18:56:42+00:00",
-    "date_str": "Sep 08, 2026"
-  },
-  {
-    "title": "Menopausal Hormone Therapy May Bolster Heart Health",
-    "url": "https://www.medpagetoday.com/obgyn/menopause/122921",
-    "summary": "(MedPage Today) -- Menopausal hormone therapy (MHT) may have heart benefits for some women with vasomotor symptoms, though effects vary by timing of initiation and race, a target trial emulation of observational data suggested. Among perimenopausal...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-08T18:48:10+00:00",
-    "date_str": "Sep 08, 2026"
-  },
-  {
-    "title": "Breast Cancer Drug Wins Approval Despite Rejection by Agency Advisors",
-    "url": "https://www.medpagetoday.com/hematologyoncology/breastcancer/122920",
-    "summary": "(MedPage Today) -- The FDA on Friday granted accelerated approval to camizestrant (Etcamah) for treating hormone receptor-positive/HER2-negative breast cancer at the first sign of ESR1 resistance mutations during first-line treatment. Camizestrant...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-08T18:16:23+00:00",
     "date_str": "Sep 08, 2026"
   }
 ]
