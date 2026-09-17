@@ -1,5 +1,125 @@
 [
   {
+    "title": "California Eyes Prison Heat Protections That Fall Short of Workplace Standards",
+    "url": "https://kffhealthnews.org/public-health/heat-workplace-standards-california-prisons-lack-safeguards-climate-change/",
+    "summary": "California is crafting weaker heat protections for prisons than other workplaces, citing billions in costs to cool aging institutions as climate and health risks increase. It’s a second-class standard, health and safety advocates say, and would leave correctional workers more susceptible to heat illness.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-17T09:00:00+00:00",
+    "date_str": "Sep 17, 2026"
+  },
+  {
+    "title": "3 Common Drugs Older Adults Might Be Overusing",
+    "url": "https://kffhealthnews.org/aging/3-common-drugs-older-adults-might-overuse-new-old-age-column/",
+    "summary": "Not all older people need benzodiazepines, antibiotics, or daily aspirin — and taking them can carry increased risks.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-17T09:00:00+00:00",
+    "date_str": "Sep 17, 2026"
+  },
+  {
+    "title": "STAT+: A biotech hedge fund births a new immunology company",
+    "url": "https://www.statnews.com/2026/09/17/biotech-hedge-fund-startup-north-immunology/?utm_campaign=rss",
+    "summary": "Why a biotech hedge fund decided to build from the ground up a new company to develop a better, long-acting antibody treatment for atopic dermatitis.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-17T10:30:00+00:00",
+    "date_str": "Sep 17, 2026"
+  },
+  {
+    "title": "STAT+: A Sellas immunotherapy study, long delayed, will end in failure",
+    "url": "https://www.statnews.com/2026/09/17/sellas-immunotherapy-study-acute-myeloid-leukemia/?utm_campaign=rss",
+    "summary": "Why Sellas' experimental immunotherapy study is a blowup waiting to happen.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-17T10:30:00+00:00",
+    "date_str": "Sep 17, 2026"
+  },
+  {
+    "title": "STAT+: The FDA’s rebuilding effort is running into a new challenge",
+    "url": "https://www.statnews.com/2026/09/17/fda-doge-cuts-new-hires-slowed-centralized-hiring-center-short-staffed/?utm_campaign=rss",
+    "summary": "The FDA's plan to hire thousands of new workers is being slowed by an overwhelmed HR center.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-17T08:30:00+00:00",
+    "date_str": "Sep 17, 2026"
+  },
+  {
+    "title": "Opinion: What happened to oppositional defiant disorder?",
+    "url": "https://www.statnews.com/2026/09/17/oppositional-defiant-disorder-use-of-odd-diagnosis-declines-in-children/?utm_campaign=rss",
+    "summary": "Over the past 25 years, there’s been a dramatic change in how we understand children who don’t “listen,” writes behavioral pediatrician Lawrence Diller.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-17T08:30:00+00:00",
+    "date_str": "Sep 17, 2026"
+  },
+  {
+    "title": "STAT+: England to cover AstraZeneca breast cancer drug, a result of U.K.-U.S. drug pricing deal",
+    "url": "https://www.statnews.com/2026/09/17/astrazeneca-enhertu-breast-cancer-england-nice-pricing-agreement-us-trade-deal/?utm_campaign=rss",
+    "summary": "A breast cancer drug from AstraZeneca will now be available in England after a pricing deal was reached, in part a result of the U.S.-U.K. pharma pact.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-17T07:42:48+00:00",
+    "date_str": "Sep 17, 2026"
+  },
+  {
+    "title": "Trump's surgeon general pick faces questions on vaccines and vaping at Senate hearing",
+    "url": "https://www.npr.org/2026/09/17/nx-s1-5971469/trumps-surgeon-general-pick-faces-questions-on-vaccines-and-vaping-at-senate-hearing",
+    "summary": "The Senate committee on health held a confirmation hearing for three top health officials, including surgeon general. Dr. Nicole Saphier is President Trump's third pick to be the nation's top doctor.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-17T10:44:17+00:00",
+    "date_str": "Sep 17, 2026"
+  },
+  {
+    "title": "Why reshaping memories may hold the key to raising self-esteem",
+    "url": "https://www.npr.org/2026/09/17/nx-s1-5971141/boost-self-worth-self-esteem",
+    "summary": "In a new book, psychologist Marisa Franco explains why it's good to feel good about yourself — and shares a helpful memory technique that we've turned into a printable worksheet.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-17T09:02:00+00:00",
+    "date_str": "Sep 17, 2026"
+  },
+  {
+    "title": "Blue Shield of California to expand Virtual Blue program in 2027",
+    "url": "https://www.fiercehealthcare.com/payers/blue-shield-california-expand-virtual-blue-program-2027",
+    "summary": "The upcoming expansion will increase the plan’s total enrollment to more than 410,000 participants, executives say.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-17T11:01:42.780012+00:00",
+    "date_str": "Sep 17, 2026"
+  },
+  {
+    "title": "Sentara Health pilots GW RhythmX's AI precision care platform to support emerging primary care models",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/sentara-health-pilots-gw-rhythmxs-ai-platform-support-emerging-primary-care",
+    "summary": "Not-for-profit health system Sentara Health is moving beyond administrative automation to test artificial intelligence-powered clinical care directly during primary care visits.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-17T11:01:42.780072+00:00",
+    "date_str": "Sep 17, 2026"
+  },
+  {
+    "title": "Industry titans’ warning to Congress: Do what we say or health insurance premiums go up",
+    "url": "https://www.politico.com/news/2026/09/17/health-insurance-premiums-doctors-surprises-01081155",
+    "summary": "Some of America’s biggest companies say a law aimed at protecting patients is about to hurt them instead.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-17T08:45:00+00:00",
+    "date_str": "Sep 17, 2026"
+  },
+  {
     "title": "New lawsuit argues NIH violated First Amendment rights of grant applicants",
     "url": "https://www.statnews.com/2026/09/16/lawsuit-argues-nih-violated-researcher-first-amendment-rights-aclu/?utm_campaign=rss",
     "summary": "The lawsuit seeks to halt the process of searching grant applications for specific terms to determine if they should be rejected.",
@@ -2277,126 +2397,6 @@
     "category": "Medicare News",
     "category_slug": "medicare-news",
     "date": "2026-09-10T21:51:04+00:00",
-    "date_str": "Sep 10, 2026"
-  },
-  {
-    "title": "Novel Two-Prong Biologic Shows Promise in Asthma",
-    "url": "https://www.medpagetoday.com/meetingcoverage/ers/122958",
-    "summary": "(MedPage Today) -- The unique dual inflammation blockade of investigational lunsekimig showed promise for moderate-to-severe asthma in the phase II AIRCULES study. Targeting both thymic stromal lymphopoietin (TSLP) and interleukin (IL)-13, lunsekimig...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-10T21:20:47+00:00",
-    "date_str": "Sep 10, 2026"
-  },
-  {
-    "title": "Study Warns on Venetoclax in Double-Hit Lymphoma",
-    "url": "https://www.medpagetoday.com/hematologyoncology/lymphoma/122957",
-    "summary": "(MedPage Today) -- Adding the BCL2 inhibitor venetoclax (Venclexta) to chemoimmunotherapy led to worse outcomes and excess mortality in patients with newly diagnosed double-hit lymphoma, phase II results from a randomized trial showed. Median...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-10T20:37:58+00:00",
-    "date_str": "Sep 10, 2026"
-  },
-  {
-    "title": "MS Drugs Differ Most on Relapses, Not Disability, Real-World Study Shows",
-    "url": "https://www.medpagetoday.com/neurology/multiplesclerosis/122956",
-    "summary": "(MedPage Today) -- New multiple sclerosis (MS) patients treated with B-cell-depleting drugs or high-efficacy therapies had lower relapse rates and fewer brain lesions than those treated with oral drugs, but at 2 years, disability outcomes were...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-10T20:27:27+00:00",
-    "date_str": "Sep 10, 2026"
-  },
-  {
-    "title": "Trump surgeon general nominee discloses tobacco, pharma investments",
-    "url": "https://thehill.com/policy/healthcare/6083278-trump-surgeon-general-nominee-tobacco-drug-investments/",
-    "summary": "President Trump’s surgeon general nominee reported investments in the tobacco company Philip Morris International as well as beverage companies Monster Beverage Corp., Coca Cola Co. and Pepsi Co., according to financial disclosures released Thursday. Nicole Saphier disclosed these investments in an ethics agreement, where she pledged to completely or partially divest from those companies, as...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-09-10T23:15:19+00:00",
-    "date_str": "Sep 10, 2026"
-  },
-  {
-    "title": "Human rabies exposure cases on the rise, CDC warns",
-    "url": "https://thehill.com/policy/healthcare/6082853-human-rabies-exposure-cases-on-the-rise-cdc-warns/",
-    "summary": "The CDC said it has received a rise in reports of human rabies exposure cases this summer, prompting an alert to healthcare providers.",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-09-10T20:29:44+00:00",
-    "date_str": "Sep 10, 2026"
-  },
-  {
-    "title": "STAT+: Right before midterms, Trump dangles $500 refunds for select ACA enrollees",
-    "url": "https://www.statnews.com/2026/09/10/trump-affordable-care-act-refund-checks-who-is-eligible/?utm_campaign=rss",
-    "summary": "The legal basis for the $500 checks, and who would get them, isn't entirely clear.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-10T19:57:28+00:00",
-    "date_str": "Sep 10, 2026"
-  },
-  {
-    "title": "Platinum-based chemotherapy in childhood causes mutations that age the liver",
-    "url": "https://www.statnews.com/2026/09/10/childhood-chemotherapy-cisplatin-carboplatin-new-study-liver-impact/?utm_campaign=rss",
-    "summary": "Platinum chemotherapy aged the liver cells of treated children, making them look more like adult liver cells and possibly raising the long-term risk of new tumors",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-10T18:00:00+00:00",
-    "date_str": "Sep 10, 2026"
-  },
-  {
-    "title": "Why two promising heart drugs flopped and what’s next",
-    "url": "https://www.statnews.com/2026/09/10/readout-loud-podcast-heart-disease-drugs-failed-trials/?utm_campaign=rss",
-    "summary": "This week on \"The Readout LOUD\" podcast: Two experimental drugs were heralded as the next era in heart disease treatment — why did they fail?",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-10T17:29:23+00:00",
-    "date_str": "Sep 10, 2026"
-  },
-  {
-    "title": "STAT+: The gifts from pharma companies that keep on giving",
-    "url": "https://www.statnews.com/pharmalot/2026/09/10/many-doctors-still-embrace-pharma-freebies-rely-on-sales-reps/?utm_campaign=rss",
-    "summary": "There has been rancorous debate over doctors accepting free gifts and speaking fees from pharma companies. That doesn't mean doctors have reconsidered.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-10T16:47:22+00:00",
-    "date_str": "Sep 10, 2026"
-  },
-  {
-    "title": "Preschoolers With Cystic Fibrosis Get Close to Normal on Alyftrek",
-    "url": "https://www.medpagetoday.com/meetingcoverage/ers/122955",
-    "summary": "(MedPage Today) -- In cystic fibrosis, vanzacaftor-tezacaftor-deutivacaftor (VTD; Alyftrek) showed great potential for modifying the progression of disease in young children, according to the TIMBERLINE study. Assessing safety and tolerability...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-10T19:41:27+00:00",
-    "date_str": "Sep 10, 2026"
-  },
-  {
-    "title": "Residency Software Developer Sues Doctor Who Helped Launch a Competing Product",
-    "url": "https://www.medpagetoday.com/hospitalbasedmedicine/graduatemedicaleducation/122954",
-    "summary": "(MedPage Today) -- The graduate medical education (GME) software company Thalamus filed a lawsuit against its competitor Liaison International and ob/gyn leader Maya Hammoud, MD, MBA, over alleged anticompetitive conduct. Thalamus brought the...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-10T19:11:14+00:00",
-    "date_str": "Sep 10, 2026"
-  },
-  {
-    "title": "Piping Hot Drinks & Esophagus Cancer; Belching Disorder in GERD; Outbreak Sickens 22",
-    "url": "https://www.medpagetoday.com/gastroenterology/generalgastroenterology/122952",
-    "summary": "(MedPage Today) -- People who consumed their hot beverages at a \"very hot\" temperature had a threefold higher risk for squamous cell carcinoma of the esophagus compared with those who drank them at a \"warm\" temperature, an analysis of two large...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-10T18:21:28+00:00",
     "date_str": "Sep 10, 2026"
   }
 ]
