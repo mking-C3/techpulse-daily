@@ -1,5 +1,135 @@
 [
   {
+    "title": "New lawsuit argues NIH violated First Amendment rights of grant applicants",
+    "url": "https://www.statnews.com/2026/09/16/lawsuit-argues-nih-violated-researcher-first-amendment-rights-aclu/?utm_campaign=rss",
+    "summary": "The lawsuit seeks to halt the process of searching grant applications for specific terms to determine if they should be rejected.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-17T00:39:34+00:00",
+    "date_str": "Sep 17, 2026"
+  },
+  {
+    "title": "Here's why an Arizona medical examiner is working to track heat-related deaths",
+    "url": "https://www.npr.org/2024/05/30/nx-s1-4854224/death-heat-arizona-climate-change-medical-examiner",
+    "summary": "No one across the U.S. is consistently tracking climate-fueled deaths. One medical examiner has a new protocol on heat-deaths.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-16T23:07:40+00:00",
+    "date_str": "Sep 16, 2026"
+  },
+  {
+    "title": "Trump's Surgeon General Pick Grilled Over Vaccine Stance",
+    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/123030",
+    "summary": "(MedPage Today) -- Nicole Saphier, MD, President Donald Trump's third surgeon general nominee, was grilled at her confirmation hearing Wednesday about her stance on childhood vaccines, voicing support for immunization as she seeks to serve in an...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-16T21:32:31+00:00",
+    "date_str": "Sep 16, 2026"
+  },
+  {
+    "title": "Less Frequent Colonoscopy After Polyp Removal Could Be the Way to Go, Study Suggests",
+    "url": "https://www.medpagetoday.com/gastroenterology/coloncancer/123027",
+    "summary": "(MedPage Today) -- Surveillance colonoscopy beginning 5 years after removal of high-risk adenomas is just as effective for detecting colorectal cancer (CRC) as a shorter 3-year interval, an interim analysis of an ongoing noninferiority trial showed...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-16T21:00:00+00:00",
+    "date_str": "Sep 16, 2026"
+  },
+  {
+    "title": "Mom's Extra Egg, Peanut Intake Doesn't Reduce Baby's Allergy Risk",
+    "url": "https://www.medpagetoday.com/allergyimmunology/allergy/123026",
+    "summary": "(MedPage Today) -- Women who ate a diet high in eggs and peanuts during pregnancy and lactation did not lower their baby's risk of allergies to those foods at 1 year in a clinical trial among families with a history of allergies. Randomization...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-16T21:00:00+00:00",
+    "date_str": "Sep 16, 2026"
+  },
+  {
+    "title": "Air Pollution May Influence Suicide Risk, Meta-Analysis Suggests",
+    "url": "https://www.medpagetoday.com/psychiatry/generalpsychiatry/123029",
+    "summary": "(MedPage Today) -- Exposure to air pollution showed positive associations with risks for death by suicide, attempted suicide, and suicidal ideation, according to a systematic review and meta-analysis. Across 29 studies, each 10 μg/m3 increase...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-16T20:55:43+00:00",
+    "date_str": "Sep 16, 2026"
+  },
+  {
+    "title": "Contaminated Glutathione Injections Sicken Dozens in U.S.",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/123028",
+    "summary": "(MedPage Today) -- More than 25 people across four states became sick after getting glutathione injections, and at least three were hospitalized, according to the CDC. All three had received intravenous glutathione, and one had to be admitted...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-16T20:46:59+00:00",
+    "date_str": "Sep 16, 2026"
+  },
+  {
+    "title": "Aging Doctors Face a Patchwork of Cognitive Screening Policies, Study Shows",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/generalprofessionalissues/123025",
+    "summary": "(MedPage Today) -- Policies addressing cognitive decline in aging physicians were uncommon in the U.S. and similar countries, a comparative policy analysis showed. Unlike safety-critical fields in other industries, healthcare has historically...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-16T20:16:30+00:00",
+    "date_str": "Sep 16, 2026"
+  },
+  {
+    "title": "SCAN Health Plan, Walmart partner on Medicare Advantage plans",
+    "url": "https://www.fiercehealthcare.com/payers/scan-health-plan-walmart-partner-medicare-advantage-plans",
+    "summary": "The collaboration could offer customers pharmacy and vision services, food and over-the-counter benefits, pending regulatory review and approvals",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-17T03:35:48.556360+00:00",
+    "date_str": "Sep 17, 2026"
+  },
+  {
+    "title": "PHTI report finds limited impact from virtual kidney care solutions, prompting industry pushback",
+    "url": "https://www.fiercehealthcare.com/digital-health/virtual-ckd-management-solutions-dont-slow-disease-progression-or-lower-costs-phti",
+    "summary": "Kidney care companies challenged PHTI's analysis, arguing that it overlooks broader clinical outcomes and value-based care results.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-17T03:35:48.556416+00:00",
+    "date_str": "Sep 17, 2026"
+  },
+  {
+    "title": "Zocdoc to power bookings on payer, tech platforms with enterprise offering",
+    "url": "https://www.fiercehealthcare.com/health-tech/zocdoc-power-bookings-payer-tech-platforms-enterprise-offering",
+    "summary": "The new enterprise offering, Care Access Network, invites payers and tech or consumer platforms to deliver seamless booking directly on their websites. The news coincides with an Amazon Health AI partnership announcement.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-17T03:35:48.556456+00:00",
+    "date_str": "Sep 17, 2026"
+  },
+  {
+    "title": "Family of Texas woman who died while pregnant sues Paxton, doctors over denied abortion",
+    "url": "https://thehill.com/homenews/state-watch/6094214-texas-woman-family-suing-paxton/",
+    "summary": "The family of a Texas woman who died while pregnant filed a lawsuit Wednesday against Texas Attorney General Ken Paxton (R) after doctors denied her an abortion. Tierra Walker, 37, died from preeclampsia in 2024 after she suffered “seizures, blood clots, and one hypertensive crisis” while she was four months pregnant. She asked multiple times...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-09-16T22:38:32+00:00",
+    "date_str": "Sep 16, 2026"
+  },
+  {
+    "title": "Trump health nominees face tame Senate hearing: 3 takeaways",
+    "url": "https://thehill.com/policy/healthcare/6094053-help-committee-surgeon-general-hearing/",
+    "summary": "Senators heard from three of President Trump's health nominees on Wednesday, including his third pick to be U.S. surgeon general, with this recent crop seeming to better align with what lawmakers wanted to hear. The Senate Committee on Health, Education, Labor and Pensions (HELP) held a hearing to go over the nominations of Nicole Saphier...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-09-16T22:00:35+00:00",
+    "date_str": "Sep 16, 2026"
+  },
+  {
     "title": "Novartis Gains a Way to Get Drugs Into the Brain, Buying Sironax Tech for $125M",
     "url": "https://medcitynews.com/2026/09/novartis-sironax-blood-brain-barrier-drug-delivery-neuroscience-bbb-nvs/",
     "summary": "Novartis is acquiring a Sironax platform technology designed to transport a range of drug modalities across the protective blood-brain barrier. The deal comes as Novartis weathers several pipeline setbacks, including trial failures for neuroscience drug candidates. The post Novartis Gains a Way to Get Drugs Into the Brain, Buying Sironax Tech for $125M appeared first on MedCity News .",
@@ -2267,136 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-09-10T18:21:28+00:00",
-    "date_str": "Sep 10, 2026"
-  },
-  {
-    "title": "Horse or Newborn Baby? First 'I'm a Doctor' Moment; Clean Water Ruling",
-    "url": "https://www.medpagetoday.com/popmedicine/popmedicine/122951",
-    "summary": "(MedPage Today) -- The following contains links to social media websites including Bluesky, X, TikTok, Instagram, Facebook, and LinkedIn. Is this a horse or a newborn baby? Pediatrician Gal Barbut, MD, went to the farm to help suss it out. Is...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-10T18:19:33+00:00",
-    "date_str": "Sep 10, 2026"
-  },
-  {
-    "title": "Making Treatment Decisions in Advanced Prostate Cancer",
-    "url": "https://www.medpagetoday.com/beyond-diagnosis/mcspc/122950",
-    "summary": "(MedPage Today) -- In \"Beyond Diagnosis: Metastatic Castration-Sensitive Prostate Cancer,\" Cleveland Clinic oncologist Christopher Wee, MD, and host John Mangels discuss how clinicians can guide patients through the initial complexities of a metastatic...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-10T18:08:06+00:00",
-    "date_str": "Sep 10, 2026"
-  },
-  {
-    "title": "Trump Promises $500 Obamacare Rebate Checks for 1 Million Enrollees in 30 States",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/122949",
-    "summary": "(MedPage Today) -- The Trump administration is promising $500 rebate checks to an estimated 1 million Affordable Care Act (ACA) enrollees across 30 states, who the White House alleged were overcharged by the Biden administration for exchange fees...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-10T18:02:24+00:00",
-    "date_str": "Sep 10, 2026"
-  },
-  {
-    "title": "9/11's Latest Wave of Cancers, 25 Years On",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/122948",
-    "summary": "(MedPage Today) -- As we mark 25 years since 9/11, it's become clear that the devastation wasn't limited to that day, or even to the first decade after the events. Immediately after 9/11, the first wave of respiratory and mental health conditions...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-10T16:42:52+00:00",
-    "date_str": "Sep 10, 2026"
-  },
-  {
-    "title": "Half of Medicare Advantage stars thresholds harder to reach in 2027",
-    "url": "https://www.healthcaredive.com/news/medicare-advantage-stars-cutpoints-2027-cms/829963/",
-    "summary": "The CMS released draft star ratings, including the thresholds for reaching those ratings, to plans earlier this week. The grading sheet got stricter, which doesn’t bode well for insurers, one MA expert said.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-10T16:18:29+00:00",
-    "date_str": "Sep 10, 2026"
-  },
-  {
-    "title": "Veterans Affairs taps Amwell for telehealth revamp",
-    "url": "https://www.healthcaredive.com/news/veterans-affairs-taps-amwell-telehealth-revamp/830032/",
-    "summary": "It's another prong in the agency's digital health modernization project, which has faced setbacks and delays.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-10T14:11:59+00:00",
-    "date_str": "Sep 10, 2026"
-  },
-  {
-    "title": "Tenet laying off 1,000+ Conifer employees amid CommonSpirit contract breakup",
-    "url": "https://www.fiercehealthcare.com/providers/tenet-laying-1000-conifer-employees-amid-commonspirit-contract-breakup",
-    "summary": "The for-profit healthcare company's revenue cycle subsidiary is in the midst of a pivot with the early conclusion of a long-term outsourcing contract.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-10T20:27:18.872510+00:00",
-    "date_str": "Sep 10, 2026"
-  },
-  {
-    "title": "At CTA event, federal officials outline AI ambitions as clinicians debate risks",
-    "url": "https://www.fiercehealthcare.com/health-tech/ctas-dc-healthcare-event-federal-officials-outline-ai-ambitions-clinicians-debate-risks",
-    "summary": "Federal healthcare agencies are accelerating efforts to expand artificial intelligence's role in healthcare, with clinical AI emerging as a top strategic priority for the Centers for Medicare & Medicaid Services.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-10T20:27:18.872574+00:00",
-    "date_str": "Sep 10, 2026"
-  },
-  {
-    "title": "White House plans $500 refunds for nearly 1M ACA enrollees",
-    "url": "https://www.fiercehealthcare.com/regulatory/white-house-plans-500-refunds-nearly-1m-aca-enrollees",
-    "summary": "The White House announced Thursday that it plans to issue $500 refunds to close to a million people enrolled in Affordable Care Act plans.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-10T20:27:18.872607+00:00",
-    "date_str": "Sep 10, 2026"
-  },
-  {
-    "title": "University of Iowa Health Care calls off $2B+ patient tower build",
-    "url": "https://www.fiercehealthcare.com/providers/university-iowa-health-care-calls-2b-patient-tower-build",
-    "summary": "\"Significant financial challenges” facing the healthcare industry at large have limited Iowa Health Care’s ability to “responsibly” deploy capital toward the five-year build. It is now proposing a $380 million capital plan focused on updating and expanding existing facilities.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-10T20:27:18.872649+00:00",
-    "date_str": "Sep 10, 2026"
-  },
-  {
-    "title": "Trump to give $500 refunds to nearly 1 million Obamacare customers",
-    "url": "https://www.politico.com/news/2026/09/10/trump-obamacare-refunds-aca-subsidies-01070983",
-    "summary": "The refunds comes ahead of the November midterms where high health costs are expected to play a factor.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-10T19:09:29+00:00",
-    "date_str": "Sep 10, 2026"
-  },
-  {
-    "title": "‘Aggressive’ Medicaid crackdowns will hurt children with autism, providers warn",
-    "url": "https://www.politico.com/news/2026/09/10/medicaid-fraud-oz-autism-therapy-01070514",
-    "summary": "The Trump administration and states are policing Medicaid spending on autism therapy. Vulnerable children are losing access.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-10T17:00:00+00:00",
-    "date_str": "Sep 10, 2026"
-  },
-  {
-    "title": "Roughly half of hospitals complying with price transparency rules: Report",
-    "url": "https://thehill.com/policy/healthcare/6081969-pra-report-hospital-pricing-rules/",
-    "summary": "Even though compliance rates have reached a record high, only about half of U.S. hospitals are in full compliance with federal price transparency rules, according to a report released Thursday. The nonprofit group Patient Rights Advocate (PRA) released its eighth hospital price transparency report in which it found 49.4 percent of hospitals it reviewed were...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-09-10T17:20:33+00:00",
     "date_str": "Sep 10, 2026"
   }
 ]
