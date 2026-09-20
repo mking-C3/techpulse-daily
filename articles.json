@@ -1,5 +1,65 @@
 [
   {
+    "title": "RFK Jr. Overhauls USPSTF Leadership: 5 Things to Know",
+    "url": "https://medcitynews.com/2026/09/rfk-jr-uspstf-medical/",
+    "summary": "HHS Secretary Robert F. Kennedy Jr. named eight new members to the U.S. Preventive Services Task Force this week, completing the 16-seat panel amid ongoing tension over its leadership. The post RFK Jr. Overhauls USPSTF Leadership: 5 Things to Know appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-20T14:33:00+00:00",
+    "date_str": "Sep 20, 2026"
+  },
+  {
+    "title": "Two Years After the Change Healthcare Cyberattack, Healthcare Still Has a Clearinghouse Redundancy Problem",
+    "url": "https://medcitynews.com/2026/09/two-years-after-the-change-healthcare-cyberattack-healthcare-still-has-a-clearinghouse-redundancy-problem/",
+    "summary": "What happened was not just a cybersecurity failure, it was an infrastructure failure. The post Two Years After the Change Healthcare Cyberattack, Healthcare Still Has a Clearinghouse Redundancy Problem appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-20T13:45:00+00:00",
+    "date_str": "Sep 20, 2026"
+  },
+  {
+    "title": "The Trials Were Always There — Patients Just Couldn’t Find Them",
+    "url": "https://medcitynews.com/2026/09/the-trials-were-always-there-patients-just-couldnt-find-them/",
+    "summary": "This structural problem calls for a structural solution, requiring no new science, regulation, or data. The post The Trials Were Always There — Patients Just Couldn’t Find Them appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-20T13:17:00+00:00",
+    "date_str": "Sep 20, 2026"
+  },
+  {
+    "title": "PHOTOS: The precarious life of fisherfolk",
+    "url": "https://www.npr.org/2026/09/20/g-s1-143447/photos-fishermen-sea-india",
+    "summary": "In the bustling heart of the southern Indian city of Chennai is a market that never sleeps, where residents from the poorest neighborhoods wage a battle of survival with the sea.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-20T12:24:02+00:00",
+    "date_str": "Sep 20, 2026"
+  },
+  {
+    "title": "Remote-Controlled Urinary Sphincter Could Transform Incontinence Treatment for Men",
+    "url": "https://www.medpagetoday.com/urology/urinaryincontinence/123072",
+    "summary": "(MedPage Today) -- A remote-controlled artificial urinary sphincter (AUS) has shown early promise for relieving urinary incontinence after prostate cancer surgery, while addressing one of the most awkward aspects of existing devices. Most currently...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-20T14:00:00+00:00",
+    "date_str": "Sep 20, 2026"
+  },
+  {
+    "title": "Kidney disease of unknown origin spreads in US. Who is at risk?",
+    "url": "https://thehill.com/policy/healthcare/6093346-kidney-disease-of-unknown-origin-spreads-in-us-who-is-at-risk/",
+    "summary": "People with CKDu don't have the classic risk factors of kidney disease, like hypertension or diabetes.",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-09-20T14:30:00+00:00",
+    "date_str": "Sep 20, 2026"
+  },
+  {
     "title": "America's Long History of Falling for Hucksters and Their Outlandish Promises",
     "url": "https://www.medpagetoday.com/publichealthpolicy/generalprofessionalissues/123067",
     "summary": "(MedPage Today) -- America: land of possibility. And also: land of suckers. Our enduring belief that anything is possible -- whether based in reality or not -- has helped the nation become the world's largest economy. It has also led us to...",
@@ -2337,66 +2397,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-09-14T19:18:37+00:00",
-    "date_str": "Sep 14, 2026"
-  },
-  {
-    "title": "Step, stand, stairs",
-    "url": "https://www.npr.org/2026/09/14/nx-s1-5962891-e1/step-stand-stairs",
-    "summary": "When it comes to longevity, lots of research has shown how much you move matters. But a new study finds your pace may also be key -- even if you fall far short of daily step goals.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-14T20:34:24+00:00",
-    "date_str": "Sep 14, 2026"
-  },
-  {
-    "title": "Psychedelics get a hearing at FDA",
-    "url": "https://www.npr.org/2026/09/14/nx-s1-5966636/psychedelics-get-a-hearing-at-fda",
-    "summary": "The Trump administration has signaled it's behind the psychedelic renaissance, but there are still big questions about how these drugs will be administered once they are approved by the FDA.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-14T20:34:22+00:00",
-    "date_str": "Sep 14, 2026"
-  },
-  {
-    "title": "Photodynamic Therapy for the Most Common Skin Cancer Wins Approval",
-    "url": "https://www.medpagetoday.com/dermatology/skincancer/123001",
-    "summary": "(MedPage Today) -- The FDA approved aminolevulinic acid hydrochloride 10% (Ameluz) in combination with photodynamic therapy for treating adults with superficial basal cell carcinoma, maker Biofrontera announced on Monday. The approval represents...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-14T20:51:03+00:00",
-    "date_str": "Sep 14, 2026"
-  },
-  {
-    "title": "Abbott Agrees to Settlement Over Closure of Largest U.S. Baby Formula Plant",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/123000",
-    "summary": "(MedPage Today) -- Abbott Laboratories will pay $385 million to resolve claims tied to an investigation of contamination at a baby formula factory in Sturgis, Michigan, the largest in the country, which led to the supply shortages in 2022. Problems...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-14T20:46:09+00:00",
-    "date_str": "Sep 14, 2026"
-  },
-  {
-    "title": "ROS1-Targeting Lung Cancer Drug Yields 90% Response Rate",
-    "url": "https://www.medpagetoday.com/meetingcoverage/iaslc/122999",
-    "summary": "(MedPage Today) -- Most patients with advanced or metastatic ROS1-positive non-small cell lung cancer (NSCLC) who had not previously received a tyrosine kinase inhibitor (TKI) had an objective response with zidesamtinib (Jideytro), according to...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-14T20:26:40+00:00",
-    "date_str": "Sep 14, 2026"
-  },
-  {
-    "title": "Cancer Drug Shortages Continue With No Immediate Path Toward Relief",
-    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/122998",
-    "summary": "(MedPage Today) -- All members of the National Comprehensive Cancer Network (NCCN) that responded to an annual survey reported shortages of commonly used generic chemotherapy drugs, topped by ifosfamide, which was in critically short supply at...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-14T20:17:21+00:00",
     "date_str": "Sep 14, 2026"
   }
 ]
