@@ -1,5 +1,95 @@
 [
   {
+    "title": "Economic Frustration Tests Trump’s Standing With Rural Voters, New KFF-AP Poll Finds",
+    "url": "https://kffhealthnews.org/rural-health/ap-kff-poll-rural-voters-economy-costs-trump-midterms-senate/",
+    "summary": "Rural voters rank the cost of living and cost of healthcare as top issues they want to hear about from midterm candidates as they face a tightening pocketbook pinch.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-23T10:01:00+00:00",
+    "date_str": "Sep 23, 2026"
+  },
+  {
+    "title": "Nursing Home Beds Are Becoming More Scarce",
+    "url": "https://kffhealthnews.org/aging/new-old-age-nursing-home-beds-scarce-capacity-baby-boomers-workforce/",
+    "summary": "As the oldest baby boomers turn 80, researchers worry there won’t be enough room in nursing facilities for a rapidly graying nation.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-23T09:00:00+00:00",
+    "date_str": "Sep 23, 2026"
+  },
+  {
+    "title": "STAT+: UnitedHealth, CVS push back on Medicare plan to curb remote patient monitoring",
+    "url": "https://www.statnews.com/2026/09/23/unitedhealth-cvs-pushback-medicare-plan-rpm-abuse/?utm_campaign=rss",
+    "summary": "Some health insurers push back on a Medicare proposal that would disrupt how doctors can bill for remotely monitoring patients' health.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-23T08:30:00+00:00",
+    "date_str": "Sep 23, 2026"
+  },
+  {
+    "title": "STAT+: Drugmakers, biotech VCs show ‘reinvigorated’ interest in osteoporosis treatments",
+    "url": "https://www.statnews.com/2026/09/23/biotech-vc-investors-new-opportunity-osteoporosis-treatments/?utm_campaign=rss",
+    "summary": "Medicines for osteoporosis are grabbing the attention of the pharma industry, which has been incentivized by a long-awaited regulatory change.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-23T08:30:00+00:00",
+    "date_str": "Sep 23, 2026"
+  },
+  {
+    "title": "Opinion: Mentally ill women deserve more support to have children",
+    "url": "https://www.statnews.com/2026/09/23/lindsay-clancy-patrick-60-minutes-reproductive-psychiatry-mentally-ill-mothers/?utm_campaign=rss",
+    "summary": "“The maternal mental health needs of women like me have been badly underprioritized in American society,” writes Meg LeDuc.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-23T08:30:00+00:00",
+    "date_str": "Sep 23, 2026"
+  },
+  {
+    "title": "STAT+: A private equity-owned hospital chain is becoming a nonprofit. Is it just a bailout for investors?",
+    "url": "https://www.statnews.com/2026/09/23/quorum-hospitals-nonprofit-conversion-increases-debt-load/?utm_campaign=rss",
+    "summary": "Other private equity-owned hospital chains have collapsed in recent years, so the stakes are high for Quorum.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-23T08:30:00+00:00",
+    "date_str": "Sep 23, 2026"
+  },
+  {
+    "title": "Will FDA advisers recommend a multi-cancer blood test for approval? They'll vote",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5978122/fda-blood-cancer-test-galleri",
+    "summary": "The company Grail says its Galleri blood test can detect up to 50 forms of cancer. An independent panel of experts will decide if the test should be recommended for FDA approval.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-23T10:00:00+00:00",
+    "date_str": "Sep 23, 2026"
+  },
+  {
+    "title": "Trump administration drops 760,000 Americans from ACA coverage, citing fraud",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5978044/trump-administration-drops-760-000-americans-from-aca-coverage-citing-fraud",
+    "summary": "Citing widespread fraud, JD Vance and Dr. Mehmet Oz announced 760,000 Americans had been kicked off health insurance purchased in the federal ACA marketplace. The move raises lots of questions.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-23T08:42:00+00:00",
+    "date_str": "Sep 23, 2026"
+  },
+  {
+    "title": "Trump administration to remove 760,000 Affordable Care Act enrollees over fraud claims",
+    "url": "https://www.npr.org/2026/09/23/g-s1-144623/trump-affordable-care-act",
+    "summary": "White House officials allege these individuals were fraudulently enrolled in the program or do not exist. Vice President Vance said the move would save $2.2 billion.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-23T05:26:31+00:00",
+    "date_str": "Sep 23, 2026"
+  },
+  {
     "title": "Pelago Unveils New Behavioral Health Platform for Substance Use, Mental Health and Behavioral Addiction Care",
     "url": "https://medcitynews.com/2026/09/pelago-unveils-new-behavioral-health-platform-for-substance-use-mental-health-and-behavioral-addiction-care/",
     "summary": "Pelago launched a behavioral health platform that integrates substance use, mental health and behavioral addiction care, using AI-powered triage to connect patients with appropriate treatment. The post Pelago Unveils New Behavioral Health Platform for Substance Use, Mental Health and Behavioral Addiction Care appeared first on MedCity News .",
@@ -2307,96 +2397,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-09-17T10:30:00+00:00",
-    "date_str": "Sep 17, 2026"
-  },
-  {
-    "title": "STAT+: A Sellas immunotherapy study, long delayed, will end in failure",
-    "url": "https://www.statnews.com/2026/09/17/sellas-immunotherapy-study-acute-myeloid-leukemia/?utm_campaign=rss",
-    "summary": "Why Sellas' experimental immunotherapy study is a blowup waiting to happen.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-17T10:30:00+00:00",
-    "date_str": "Sep 17, 2026"
-  },
-  {
-    "title": "STAT+: The FDA’s rebuilding effort is running into a new challenge",
-    "url": "https://www.statnews.com/2026/09/17/fda-doge-cuts-new-hires-slowed-centralized-hiring-center-short-staffed/?utm_campaign=rss",
-    "summary": "The FDA's plan to hire thousands of new workers is being slowed by an overwhelmed HR center.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-17T08:30:00+00:00",
-    "date_str": "Sep 17, 2026"
-  },
-  {
-    "title": "Opinion: What happened to oppositional defiant disorder?",
-    "url": "https://www.statnews.com/2026/09/17/oppositional-defiant-disorder-use-of-odd-diagnosis-declines-in-children/?utm_campaign=rss",
-    "summary": "Over the past 25 years, there’s been a dramatic change in how we understand children who don’t “listen,” writes behavioral pediatrician Lawrence Diller.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-17T08:30:00+00:00",
-    "date_str": "Sep 17, 2026"
-  },
-  {
-    "title": "STAT+: England to cover AstraZeneca breast cancer drug, a result of U.K.-U.S. drug pricing deal",
-    "url": "https://www.statnews.com/2026/09/17/astrazeneca-enhertu-breast-cancer-england-nice-pricing-agreement-us-trade-deal/?utm_campaign=rss",
-    "summary": "A breast cancer drug from AstraZeneca will now be available in England after a pricing deal was reached, in part a result of the U.S.-U.K. pharma pact.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-17T07:42:48+00:00",
-    "date_str": "Sep 17, 2026"
-  },
-  {
-    "title": "Trump's surgeon general pick faces questions on vaccines and vaping at Senate hearing",
-    "url": "https://www.npr.org/2026/09/17/nx-s1-5971469/trumps-surgeon-general-pick-faces-questions-on-vaccines-and-vaping-at-senate-hearing",
-    "summary": "The Senate committee on health held a confirmation hearing for three top health officials, including surgeon general. Dr. Nicole Saphier is President Trump's third pick to be the nation's top doctor.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-17T10:44:17+00:00",
-    "date_str": "Sep 17, 2026"
-  },
-  {
-    "title": "Why reshaping memories may hold the key to raising self-esteem",
-    "url": "https://www.npr.org/2026/09/17/nx-s1-5971141/boost-self-worth-self-esteem",
-    "summary": "In a new book, psychologist Marisa Franco explains why it's good to feel good about yourself — and shares a helpful memory technique that we've turned into a printable worksheet.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-17T09:02:00+00:00",
-    "date_str": "Sep 17, 2026"
-  },
-  {
-    "title": "Blue Shield of California to expand Virtual Blue program in 2027",
-    "url": "https://www.fiercehealthcare.com/payers/blue-shield-california-expand-virtual-blue-program-2027",
-    "summary": "The upcoming expansion will increase the plan’s total enrollment to more than 410,000 participants, executives say.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-17T11:01:42.780012+00:00",
-    "date_str": "Sep 17, 2026"
-  },
-  {
-    "title": "Sentara Health pilots GW RhythmX's AI precision care platform to support emerging primary care models",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/sentara-health-pilots-gw-rhythmxs-ai-platform-support-emerging-primary-care",
-    "summary": "Not-for-profit health system Sentara Health is moving beyond administrative automation to test artificial intelligence-powered clinical care directly during primary care visits.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-17T11:01:42.780072+00:00",
-    "date_str": "Sep 17, 2026"
-  },
-  {
-    "title": "Industry titans’ warning to Congress: Do what we say or health insurance premiums go up",
-    "url": "https://www.politico.com/news/2026/09/17/health-insurance-premiums-doctors-surprises-01081155",
-    "summary": "Some of America’s biggest companies say a law aimed at protecting patients is about to hurt them instead.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-17T08:45:00+00:00",
     "date_str": "Sep 17, 2026"
   }
 ]
