@@ -1,5 +1,185 @@
 [
   {
+    "title": "Black Lung Disease Remains a Threat, but Federal Officials Delay Effort To Address It",
+    "url": "https://kffhealthnews.org/rural-health/coal-miners-black-lung-disease-silicosis-silica-dust-pneumoconiosis-trump-west-virginia/",
+    "summary": "The disease has long been a risk of coal mining, an industry the Trump administration is trying to reinvigorate.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-24T09:00:00+00:00",
+    "date_str": "Sep 24, 2026"
+  },
+  {
+    "title": "STAT+: Why Gilead can’t stop talking about its ambitions in immunology",
+    "url": "https://www.statnews.com/2026/09/24/gilead-immunology-inflammation-biotech-moderna-merck/?utm_campaign=rss",
+    "summary": "Gilead Sciences’ top executives have been emphatically bullish about the biotech’s years-long push to develop drugs for inflammatory and autoimmune diseases.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-24T10:30:00+00:00",
+    "date_str": "Sep 24, 2026"
+  },
+  {
+    "title": "STAT+: How a young doctor rose from rural New Mexico to FDA commissioner nominee",
+    "url": "https://www.statnews.com/2026/09/24/heidi-overton-profile-fda-commissioner-nominee/?utm_campaign=rss",
+    "summary": "What to know about Dr. Heidi Overton, Trump's pick to run the FDA, including her medical background and career trajectory.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-24T08:30:00+00:00",
+    "date_str": "Sep 24, 2026"
+  },
+  {
+    "title": "STAT+: In radiology, AI is blurring the line between technology development and clinical practice",
+    "url": "https://www.statnews.com/2026/09/24/radiology-ai-blurred-line-between-tech-development-clinical-practice/?utm_campaign=rss",
+    "summary": "A new wave of radiology practices are aggressively embracing AI: developing and deploying it in-house, and marketing themselves as 'AI-native.'",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-24T08:30:00+00:00",
+    "date_str": "Sep 24, 2026"
+  },
+  {
+    "title": "STAT+: Momentum is building for a big change to how doctors get paid",
+    "url": "https://www.statnews.com/2026/09/24/patients-first-act-congress-moves-on-doctor-pay-medicare-reform/?utm_campaign=rss",
+    "summary": "Congress is considering linking doctor payment rates to medical inflation under the proposed Patients First Act.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-24T08:30:00+00:00",
+    "date_str": "Sep 24, 2026"
+  },
+  {
+    "title": "STAT+: Trump boast on drug pricing policy overstated state-level interest in federal program",
+    "url": "https://www.statnews.com/2026/09/24/trump-medicaid-generous-model-state-interest/?utm_campaign=rss",
+    "summary": "President Trump and his aides boasted that every U.S. state wanted to participate in a drug pricing initiative through Medicaid. Several states said they weren't sure yet.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-24T08:30:00+00:00",
+    "date_str": "Sep 24, 2026"
+  },
+  {
+    "title": "STAT+: Heidi Overton, Trump’s pick for FDA head, to face questions at Senate hearing",
+    "url": "https://www.statnews.com/2026/09/24/heidi-overton-fda-commissioner-confirmation-hearing-2/?utm_campaign=rss",
+    "summary": "Heidi Overton, Trump's pick for FDA head, will face questions at a Senate hearing. Follow along with our live blog.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-24T08:30:00+00:00",
+    "date_str": "Sep 24, 2026"
+  },
+  {
+    "title": "Opinion: Measles almost killed me. Now I’m a doctor — and I’m scared of what’s happening",
+    "url": "https://www.statnews.com/2026/09/24/measles-outbreak-experience-child-doctor-1961/?utm_campaign=rss",
+    "summary": "Jewel Mullen was in kindergarten in 1961 when she almost died from measles. Now a physician, measles’ return frightens her.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-24T08:30:00+00:00",
+    "date_str": "Sep 24, 2026"
+  },
+  {
+    "title": "Opinion: STAT+: A moment of reckoning for preventive cardiology and the precision medicine revolution",
+    "url": "https://www.statnews.com/2026/09/24/lpa-horizon-zeus-results-pelacarsen-preventive-cardiology-precision-medicine-disappointment/?utm_campaign=rss",
+    "summary": "“The epidemiology and genetics of heart attack and stroke risk, for now, seem to have outpaced what more we can actually do about it,” writes cardiologist Vishal Khetpal.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-24T08:30:00+00:00",
+    "date_str": "Sep 24, 2026"
+  },
+  {
+    "title": "Needy couples got cash and a spending plan. Results were good -- and bad",
+    "url": "https://www.npr.org/2026/09/24/g-s1-144544/cash-transfer-poverty-liberia-partner-violence",
+    "summary": "In Liberia, joint financial planning boosted cash aid's benefits. It also had an unexpected consequence for some families.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-24T10:43:25+00:00",
+    "date_str": "Sep 24, 2026"
+  },
+  {
+    "title": "Under Trump, NIH funding disruptions have evolved. Here's what the numbers show",
+    "url": "https://www.npr.org/2026/09/24/nx-s1-5931971/trump-nih-science-funding-disruptions-charts",
+    "summary": "Stories of science funding being cut, labs shutting down and scientists losing jobs have flooded the media under Trump's administration. These six graphics show how those changes have affected U.S. biomedical research.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-24T09:00:00+00:00",
+    "date_str": "Sep 24, 2026"
+  },
+  {
+    "title": "New research suggests human actions could be driving increase in disease outbreaks",
+    "url": "https://www.npr.org/2026/09/24/nx-s1-5977855/new-research-suggests-human-actions-could-be-driving-increase-in-disease-outbreaks",
+    "summary": "Infectious disease outbreaks are on the rise worldwide. A new analysis finds human actions, from deforestation to climate change, are partly responsible.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-24T08:45:26+00:00",
+    "date_str": "Sep 24, 2026"
+  },
+  {
+    "title": "CMS freezes new ACA broker registrations for 2027, culls ‘unauthorized’ enrollees",
+    "url": "https://www.healthcaredive.com/news/cms-freezes-new-aca-broker-registrations-for-2027/831138/",
+    "summary": "The agency said the pause would help crack down on fraud among new brokers on the exchanges. It also announced on Tuesday it would cancel the enrollments of more than 760,000 people.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-23T14:18:22+00:00",
+    "date_str": "Sep 23, 2026"
+  },
+  {
+    "title": "MedPAC chair defends Medicare Advantage overpayment analysis at insurer lobby event",
+    "url": "https://www.healthcaredive.com/news/medpac-medicare-advantage-overpayment-analysis-defense-bma/831126/",
+    "summary": "Amid growing public debate over how best to analyze spending in MA versus traditional Medicare, Dr. Amol Navathe, the leader of the group behind the most-cited estimate, stepped into the lion’s den to support its work.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-23T13:41:18+00:00",
+    "date_str": "Sep 23, 2026"
+  },
+  {
+    "title": "Trump administration sets preliminary cuts to Medicare lab reimbursement rates",
+    "url": "https://www.healthcaredive.com/news/trump-administration-sets-preliminary-cuts-to-medicare-lab-reimbursement-ra/831154/",
+    "summary": "The American Clinical Laboratory Association warned the steep annual payment cuts threaten patient access to critical lab testing services.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-22T15:23:50+00:00",
+    "date_str": "Sep 22, 2026"
+  },
+  {
+    "title": "Colorado judge: Doctor’s burnout wasn’t a disability",
+    "url": "https://www.healthcaredive.com/news/doctors-burnout-didnt-count-as-disability-colorado-judge/831157/",
+    "summary": "The Americans with Disabilities Act and related federal laws define disability broadly, but recent federal court decisions demonstrate the statute’s limits.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-21T19:58:00+00:00",
+    "date_str": "Sep 21, 2026"
+  },
+  {
+    "title": "Hospitals' use of AI coding tools cost BCBSA plans $942M more for similar care: analysis",
+    "url": "https://www.fiercehealthcare.com/finance/hospitals-use-ai-coding-tools-cost-bcbsa-plans-942m-more-similar-care-analysis",
+    "summary": "“The question that is worth asking is [with] two similarly situated hospitals, treating similar patients, why would one hospital diverge?” Razia Hashmi, BCBSA’s vice president of clinical affairs, told reporters. “There may be an element of correct coding there, but the likelihood that this is technology-enabled upcoding is higher, in my view.”",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-24T11:10:03.066954+00:00",
+    "date_str": "Sep 24, 2026"
+  },
+  {
+    "title": "Trump FDA pick tests Collins on abortion",
+    "url": "https://thehill.com/policy/healthcare/6107415-collins-overton-fda-testimony/",
+    "summary": "Sen. Susan Collins (R-Maine) is in the middle of a fight over a Trump health nominee, presenting a key test of her commitment to being an abortion-rights Republican. Dr. Heidi Overton, President Trump's nominee to lead the Food and Drug Administration (FDA), will testify Thursday in the Senate Health, Education, Labor and Pensions (HELP)...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-09-24T10:00:00+00:00",
+    "date_str": "Sep 24, 2026"
+  },
+  {
     "title": "Phase 3 Data Could Make Roche Drug a Contender to Treat Rare Kidney Disease`",
     "url": "https://medcitynews.com/2026/09/roche-rare-kidney-disease-sefaxersen-nephropathy-igan-aso-rhhby/",
     "summary": "Roche reported the drug sefaxersen achieved statistically significant and clinically meaningful results in a Phase 3 test in immunoglobulin A nephropathy, or IgAN. This antisense oligonucleotide, which came from Ionis Pharmaceuticals, could offer advantages over other drugs currently available for treating this rare chronic disease of the kidneys. The post Phase 3 Data Could Make Roche Drug a Contender to Treat Rare Kidney Disease` appeared first on MedCity News .",
@@ -2218,185 +2398,5 @@
     "category_slug": "healthcare-policy",
     "date": "2026-09-18T08:30:00+00:00",
     "date_str": "Sep 18, 2026"
-  },
-  {
-    "title": "Opinion: More young men are coming to me for plastic surgery. The way I think about them has changed",
-    "url": "https://www.statnews.com/2026/09/18/young-men-plastic-surgery-rates-influencers-lookmaxxing-clavicular/?utm_campaign=rss",
-    "summary": "“The young men in my clinic are responding rationally to a system that was designed for profit,” writes plastic surgeon Kavitha Ranganathan.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-18T08:30:00+00:00",
-    "date_str": "Sep 18, 2026"
-  },
-  {
-    "title": "In Sudan, attacks on hospitals force patients to make dangerous journeys",
-    "url": "https://www.statnews.com/2026/09/18/sudan-civil-war-cancer-treatment-wartime-tom-catena-mother-mercy-hospital/?utm_campaign=rss",
-    "summary": "Amid a civil war in Sudan, it’s now difficult for people with cancer and other long-term illnesses to receive treatment that was once readily available",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-18T08:30:00+00:00",
-    "date_str": "Sep 18, 2026"
-  },
-  {
-    "title": "STAT+: A geriatrician explains why AI for older adults deserves careful scrutiny",
-    "url": "https://www.statnews.com/2026/09/18/geriatrician-explains-why-ai-for-older-adults-deserves-careful-scrutiny/?utm_campaign=rss",
-    "summary": "James Deardorff, a geriatrician at UCSF, talks about the benefits and pitfalls of using AI to make care decisions for older adults.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-18T08:30:00+00:00",
-    "date_str": "Sep 18, 2026"
-  },
-  {
-    "title": "Doctors raise concerns about views and experience of members on federal task force",
-    "url": "https://www.npr.org/2026/09/18/nx-s1-5973135/doctors-raise-concerns-about-views-and-experience-of-members-on-federal-task-force",
-    "summary": "Health Secretary Robert F. Kennedy Jr. names new members to powerful federal task force that plays a key role in determining the kind of preventive case people get. In a major departure, the new members of the U.S. Preventive Services Task Force include specialists instead of experts on preventive care and general medicine, raising fears among many doctors.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-18T08:44:41+00:00",
-    "date_str": "Sep 18, 2026"
-  },
-  {
-    "title": "Bill Cassidy slams RFK Jr. over measles outbreaks but demurs on confirmation vote",
-    "url": "https://www.politico.com/news/2026/09/18/bill-cassidy-rfk-jr-measles-outbreaks-01082785",
-    "summary": "The Louisiana Republican said vaccine skepticism that Kennedy and his MAHA backers promoted led to the recent measles deaths.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-18T09:01:00+00:00",
-    "date_str": "Sep 18, 2026"
-  },
-  {
-    "title": "Trump’s $500 ACA Refunds: ‘We Shouldn’t Confuse a Check With a Healthcare Affordability Strategy’",
-    "url": "https://medcitynews.com/2026/09/trumps-500-aca-refunds-we-shouldnt-confuse-a-check-with-a-healthcare-affordability-strategy/",
-    "summary": "Trump’s $500 ACA refunds offer immediate financial relief to some enrollees, but healthcare experts question whether they address the broader affordability challenges facing Americans. The post Trump’s $500 ACA Refunds: ‘We Shouldn’t Confuse a Check With a Healthcare Affordability Strategy’ appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-09-17T22:15:24+00:00",
-    "date_str": "Sep 17, 2026"
-  },
-  {
-    "title": "Kennedy announces new effort to speed up autism diagnoses",
-    "url": "https://www.statnews.com/2026/09/17/kennedy-announces-new-research-fund-to-improve-autism-diagnoses/?utm_campaign=rss",
-    "summary": "Health secretary Kennedy announced a new effort to improve autism diagnoses, arguing that the current model is outdated",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-17T22:09:30+00:00",
-    "date_str": "Sep 17, 2026"
-  },
-  {
-    "title": "RFK Jr. Bolsters Vaccine Skepticism at Children's Health Defense Conference",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/123051",
-    "summary": "(MedPage Today) -- As the measles outbreak continues to spread in Pennsylvania, HHS Secretary Robert F. Kennedy Jr. on Thursday appeared before the vaccine skeptic group he used to lead and gave a full-throated defense of vaccine skepticism. ...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-17T21:38:20+00:00",
-    "date_str": "Sep 17, 2026"
-  },
-  {
-    "title": "Study Assesses Who's at Risk for Young-Onset MASLD Cirrhosis",
-    "url": "https://www.medpagetoday.com/gastroenterology/generalhepatology/123050",
-    "summary": "(MedPage Today) -- A quarter of patients with cirrhosis from metabolic dysfunction-associated steatotic liver disease (MASLD) presented before the age of 50 and had distinct features, including inherited genetic risk factors and type 2 diabetes...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-17T21:35:51+00:00",
-    "date_str": "Sep 17, 2026"
-  },
-  {
-    "title": "WHO Spots Some 'Encouraging Signs' in Congo Ebola Fight",
-    "url": "https://www.medpagetoday.com/infectiousdisease/ebola/123049",
-    "summary": "(MedPage Today) -- The head of the U.N. health agency is hailing \"encouraging signs\" in the fight against an Ebola outbreak in one part of eastern Congo, while warning that case counts are rising fast in another as officials race to tamp down the...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-17T20:50:09+00:00",
-    "date_str": "Sep 17, 2026"
-  },
-  {
-    "title": "Brain Disorder Due to Vitamin Deficiency Often Goes Unrecognized",
-    "url": "https://www.medpagetoday.com/neurology/dementia/123047",
-    "summary": "(MedPage Today) -- Korsakoff syndrome -- a neurocognitive disorder resulting from thiamine (vitamin B1) deficiency that often develops after untreated Wernicke encephalopathy -- was difficult to diagnose and frequently led to death, a retrospective...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-17T20:33:37+00:00",
-    "date_str": "Sep 17, 2026"
-  },
-  {
-    "title": "RFK Jr. says anti-vaccine group has a 'friend at the White House'",
-    "url": "https://thehill.com/policy/healthcare/6096884-kennedy-trump-administration-anti-vaccination/",
-    "summary": "Speaking to the anti-vaccine group he once led, Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. said Thursday the Trump administration supports its cause. \"You have a strong and steadfast friend at the White House,” Kennedy told dozens of attendees at a one-day conference put on by Children’s Health Defense, the organization he...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-09-17T22:26:48+00:00",
-    "date_str": "Sep 17, 2026"
-  },
-  {
-    "title": "Pennsylvania asks CDC for emergency assistance amid RFK Jr. clash over measles",
-    "url": "https://thehill.com/policy/healthcare/6096824-pennsylvania-measles-outbreak-cdc-emergency-request/",
-    "summary": "Pennsylvania's health department has started the process of requesting emergency assistance from the Centers for Disease Control and Prevention (CDC) to help control a deadly and rapidly spreading measles outbreak, according to a letter sent to the CDC from state officials. But the request for that assistance, known as Epi-Aid, comes on the condition that...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-09-17T21:43:59+00:00",
-    "date_str": "Sep 17, 2026"
-  },
-  {
-    "title": "North Immunology Reverse Merger Comes With $180M for Next-Gen Inflammation Drug",
-    "url": "https://medcitynews.com/2026/09/north-immunology-reverse-merger-aethlon-il-13-1l-18-bispecific-antibody-atopic-dermatitis-eczema-aemd-nrtx/",
-    "summary": "North Immunology is going public in a reverse merger with Aethlon Medical. With eczema as the lead indication, the inflammation and immunology biotech aims to show its bispecific antibody offers efficacy and tolerability advantages over Sanofi’s immune disorder juggernaut, Dupixent. The post North Immunology Reverse Merger Comes With $180M for Next-Gen Inflammation Drug appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-09-17T19:41:13+00:00",
-    "date_str": "Sep 17, 2026"
-  },
-  {
-    "title": "How a Cancer Diagnosis Shaped This VC’s Precision Health Thesis",
-    "url": "https://medcitynews.com/2026/09/precision-medicine-healthcare-investment/",
-    "summary": "After a near-miss with her own breast cancer diagnosis, Ariel Ganz co-founded Arben Ventures, a precision health and longevity fund that has backed 83 early-stage startups in three years. The post How a Cancer Diagnosis Shaped This VC’s Precision Health Thesis appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-09-17T19:25:17+00:00",
-    "date_str": "Sep 17, 2026"
-  },
-  {
-    "title": "Kennedy renews attacks on vaccines at Children’s Health Defense conference",
-    "url": "https://www.statnews.com/2026/09/17/rfk-jr-anti-vaccination-activism-childrens-health-defense-conference/?utm_campaign=rss",
-    "summary": "Health secretary RFK Jr. returned to his roots in a keynote address at a conference hosted by the Children’s Health Defense, an anti-vaccine nonprofit he helped start.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-17T20:40:04+00:00",
-    "date_str": "Sep 17, 2026"
-  },
-  {
-    "title": "STAT+: FDA approves a new gene therapy for Sanfilippo syndrome, an ultra-rare disease",
-    "url": "https://www.statnews.com/2026/09/17/sanfilippo-syndrome-treatment-ultragenyx-approval/?utm_campaign=rss",
-    "summary": "The FDA approved a new gene therapy for Sanfilippo syndrome type A, an ultra-rare disease sometimes known as childhood Alzheimer’s.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-17T19:55:46+00:00",
-    "date_str": "Sep 17, 2026"
-  },
-  {
-    "title": "STAT+: Why do ‘never-smokers’ get lung cancer? In some cases, rare genetic variant may be a factor",
-    "url": "https://www.statnews.com/2026/09/17/rare-gene-variant-boosts-lung-cancer-risk-25-fold-in-non-smokers/?utm_campaign=rss",
-    "summary": "Researchers have identified a very rare genetic variant that is associated with higher odds of lung cancer in \"never smokers.\"",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-17T18:00:00+00:00",
-    "date_str": "Sep 17, 2026"
   }
 ]
