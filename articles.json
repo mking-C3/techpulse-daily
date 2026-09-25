@@ -1,5 +1,95 @@
 [
   {
+    "title": "President Trump's FDA commissioner nom, Dr. Heidi Overton, faces Senators' questions",
+    "url": "https://www.npr.org/2026/09/24/nx-s1-5980057/president-trumps-fda-commissioner-nom-dr-heidi-overton-faces-senators-questions",
+    "summary": "Dr. Heidi Overton has been nominated to be the new FDA commissioner. The Senate HELP committee pressed her on vaccines, mifepristone, food safety and whether she can tell the president he's wrong.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-24T22:55:58+00:00",
+    "date_str": "Sep 24, 2026"
+  },
+  {
+    "title": "How to limit rat numbers? Train humans",
+    "url": "https://www.npr.org/2026/09/24/nx-s1-5950338/how-to-limit-rat-numbers-train-humans",
+    "summary": "No matter how much poison you put out, rats continue to thrive. So D.C.'s Rat Rangers are trying education (of people, not the rats). They take residents into back alleys to illuminate the problem.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-24T21:13:02+00:00",
+    "date_str": "Sep 24, 2026"
+  },
+  {
+    "title": "FDA Nominee Voices Support for Vaccines at Senate Hearing Scrutinizing Trump's Moves",
+    "url": "https://www.medpagetoday.com/washington-watch/fdageneral/123140",
+    "summary": "(MedPage Today) -- President Donald Trump's pick to lead the FDA voiced support for the safety of long-established vaccines at a hearing Thursday, even as senators questioned her about the White House's efforts to upend childhood immunizations...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-24T21:42:11+00:00",
+    "date_str": "Sep 24, 2026"
+  },
+  {
+    "title": "Cirrhosis-Flagging Tool Stands Out for Steatotic Liver Disease in Primary Care",
+    "url": "https://www.medpagetoday.com/primarycare/generalprimarycare/123139",
+    "summary": "(MedPage Today) -- For patients with steatotic liver disease (SLD), one risk calculator showed promise for predicting cirrhosis in the primary care setting, but a good tool for hepatocellular carcinoma (HCC) remained elusive. Among nine risk scores...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-24T21:37:41+00:00",
+    "date_str": "Sep 24, 2026"
+  },
+  {
+    "title": "FDA Approves New Option for Previously Treated Bile Duct Cancer",
+    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/123137",
+    "summary": "(MedPage Today) -- The FDA approved the oral fibroblast growth factor receptor 2 (FGFR2) inhibitor lirafugratinib (Lyrfigtu) for adults with previously treated cholangiocarcinoma (CCA) with FGFR2 fusion or other rearrangements, the agency announced...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-24T20:56:41+00:00",
+    "date_str": "Sep 24, 2026"
+  },
+  {
+    "title": "Short Steroid Bursts Tied to Serious Adverse Events in Diabetes",
+    "url": "https://www.medpagetoday.com/endocrinology/diabetes/123136",
+    "summary": "(MedPage Today) -- For people with type 2 diabetes, short-term bursts of oral corticosteroids (OCS) were linked to certain health risks beyond steroid-induced hyperglycemia in a cohort study. In a self-controlled case series of 36,048 patients...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-24T20:37:29+00:00",
+    "date_str": "Sep 24, 2026"
+  },
+  {
+    "title": "Cigna Group, OpenAI team up to support patients with complex conditions",
+    "url": "https://www.fiercehealthcare.com/payers/cigna-group-openai-team-support-patients-complex-conditions",
+    "summary": "Cigna is teaming up with OpenAI to build out more personalized supports for individuals with complex conditions, starting with a focus on cancer patients.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-25T03:36:46.131315+00:00",
+    "date_str": "Sep 25, 2026"
+  },
+  {
+    "title": "RFK Jr.’s future aides say they disagree with his vaccine views",
+    "url": "https://www.politico.com/news/2026/09/24/rfk-hhs-fda-overton-vaccines-trump-01092514",
+    "summary": "Health Department nominees are distancing themselves from their prospective boss and President Trump by endorsing vaccination.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-24T22:30:32+00:00",
+    "date_str": "Sep 24, 2026"
+  },
+  {
+    "title": "Trump FDA pick dodges vaccine, abortion questions at Senate confirmation hearing",
+    "url": "https://thehill.com/policy/healthcare/6110423-overton-fda-senate-confirmation-hearing/",
+    "summary": "Dr. Heidi Overton, President Trump’s pick to lead the Food and Drug Administration (FDA), walked a fine line Thursday on vaccines and abortion, largely dodging difficult questions from senators. The confirmation hearing in the Senate Health, Education, Labor and Pensions Committee shed light on the priorities of lawmakers but offered little about Overton’s views and...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-09-24T21:14:30+00:00",
+    "date_str": "Sep 24, 2026"
+  },
+  {
     "title": "UHC, Cigna and Centene Sign On to New National Shared Credentialing Program",
     "url": "https://medcitynews.com/2026/09/uhc-cigna-and-centene-sign-on-to-new-national-shared-credentialing-program/",
     "summary": "CertifyOS launched a shared credentialing program that allows providers to submit their information once for multiple health plans. The post UHC, Cigna and Centene Sign On to New National Shared Credentialing Program appeared first on MedCity News .",
@@ -2308,95 +2398,5 @@
     "category_slug": "healthcare-policy",
     "date": "2026-09-19T11:21:56+00:00",
     "date_str": "Sep 19, 2026"
-  },
-  {
-    "title": "Health Journalists Visit Conservative Georgia District and Weigh AI Bioweapon Threat",
-    "url": "https://kffhealthnews.org/on-air/on-air-september-19-2026-cancer-ai-biological-weapons-georgia-14th/",
-    "summary": "KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here’s a collection of their appearances.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-09-19T09:00:00+00:00",
-    "date_str": "Sep 19, 2026"
-  },
-  {
-    "title": "Ayble Health Secures $16M for Virtual Digestive Health Clinic",
-    "url": "https://medcitynews.com/2026/09/ayble-health-secures-16m-for-virtual-digestive-health-clinic/",
-    "summary": "Ayble Health’s Series A round was led by Neon, with participation from Unum Ventures, Upfront Ventures, M13, Cleveland Clinic Ventures, DigiTx and Accomplice. The post Ayble Health Secures $16M for Virtual Digestive Health Clinic appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-09-18T21:32:03+00:00",
-    "date_str": "Sep 18, 2026"
-  },
-  {
-    "title": "Gene Therapy for Sanfilippo Syndrome Gets FDA Nod",
-    "url": "https://www.medpagetoday.com/neurology/generalneurology/123074",
-    "summary": "(MedPage Today) -- The FDA on Thursday approved rebisufligene etisparvovec (Fayuvi) as the first treatment for pediatric patients with mucopolysaccharidosis type IIIA (MPS IIIA), also known as Sanfilippo syndrome type A, the agency announced Thursday...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-18T21:22:26+00:00",
-    "date_str": "Sep 18, 2026"
-  },
-  {
-    "title": "Trial Supports New Method for Easing IUD Insertion Pain",
-    "url": "https://www.medpagetoday.com/obgyn/generalobgyn/123073",
-    "summary": "(MedPage Today) -- Intrauterine instillation of the anesthetic mepivacaine significantly reduced pain during intrauterine device (IUD) insertion, a Swedish randomized trial showed. Mean pain score during IUD placement was 43.8 mm on a visual analog...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-18T21:00:55+00:00",
-    "date_str": "Sep 18, 2026"
-  },
-  {
-    "title": "Trump Announces All 50 States Joining Medicaid Drug Pricing Model",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/medicaid/123071",
-    "summary": "(MedPage Today) -- President Trump announced Friday that all 50 states will join in on a program set to provide \"most favored nation\" (MFN) pricing to some drugs within the Medicaid program, bringing the net price of selected drugs down to prices...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-18T20:41:17+00:00",
-    "date_str": "Sep 18, 2026"
-  },
-  {
-    "title": "Holdout Juror Didn't Doubt Former Nurse Clancy Was Responsible for Killing Her Kids",
-    "url": "https://www.medpagetoday.com/nursing/nursing/123070",
-    "summary": "(MedPage Today) -- The lone juror who wanted to convict Lindsay Clancy of murder for killing her three children said he was certain of her guilt, but that other jurors wouldn't listen to him, according to a statement released by his lawyer Friday...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-18T19:37:17+00:00",
-    "date_str": "Sep 18, 2026"
-  },
-  {
-    "title": "What Injectable Did the FDA Warn About?",
-    "url": "https://www.medpagetoday.com/quizzes/news-quiz/123068",
-    "summary": "(MedPage Today) -- You passed medical training, now see if you can pass our weekly quiz",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-18T19:05:58+00:00",
-    "date_str": "Sep 18, 2026"
-  },
-  {
-    "title": "Ascension sells ownership in Arizona Medicaid plan to Aetna",
-    "url": "https://www.healthcaredive.com/news/ascension-sells-ownership-in-arizona-medicaid-plan-to-aetna/830827/",
-    "summary": "The sale lets Ascension shed insurance risk while Aetna gains a stake in a profitable plan serving high-margin dual-eligible members.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-18T20:49:00+00:00",
-    "date_str": "Sep 18, 2026"
-  },
-  {
-    "title": "Broadband still a barrier to telehealth adoption, study finds",
-    "url": "https://www.healthcaredive.com/news/broadband-barrier-telehealth-adoption-jama-study/830782/",
-    "summary": "About 12 million Americans can’t access telehealth because broadband is unavailable or slow, according to new research. Most live in rural areas, which experts say could benefit heavily from better access to virtual care.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-18T14:57:35+00:00",
-    "date_str": "Sep 18, 2026"
   }
 ]
