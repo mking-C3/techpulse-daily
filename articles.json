@@ -1,5 +1,105 @@
 [
   {
+    "title": "Abortion Is on the Ballot Again as Post-Roe Policies Continue To Evolve",
+    "url": "https://kffhealthnews.org/elections/abortion-state-referenda-2026-november-midterms-roe-dobbs-missouri-nevada/",
+    "summary": "Four states will vote on abortion-related ballot measures in November, marking the fourth time in five years that millions of Americans will weigh in on their states’ abortion rules. The measures follow the Supreme Court’s “Dobbs” decision, which upended federal abortion protections.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-25T09:00:00+00:00",
+    "date_str": "Sep 25, 2026"
+  },
+  {
+    "title": "How Big Tobacco flooded the FDA with public comments to kill a menthol cigarette ban",
+    "url": "https://www.statnews.com/2026/09/25/fake-grassroots-campaign-jama-study-rutgers-researchers-fda-menthol-ban/?utm_campaign=rss",
+    "summary": "Virtually all of the 175,000 public comments on a 2022 FDA proposal to ban menthol cigarettes were form letters, most echoing tobacco industry talking points.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-25T08:30:00+00:00",
+    "date_str": "Sep 25, 2026"
+  },
+  {
+    "title": "At least five candidates vie to become the next WHO leader, as questions over U.S. role loom",
+    "url": "https://www.statnews.com/2026/09/25/world-health-organization-candidates-for-next-director-general/?utm_campaign=rss",
+    "summary": "At least five candidates are in the running to become the next director-general of the WHO, a job that will come with extraordinary challenges.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-25T08:30:00+00:00",
+    "date_str": "Sep 25, 2026"
+  },
+  {
+    "title": "STAT+: The head of Kennedy’s new autism project served in Iraq War, worked with Sesame Street",
+    "url": "https://www.statnews.com/2026/09/25/russell-shilling-leads-arpa-h-spectra-initiative-autism-care/?utm_campaign=rss",
+    "summary": "Advanced Research Projects Agency for Health is planning a total-lifespan research project on autism: A Q&A with its leader, Russell Shilling.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-25T08:30:00+00:00",
+    "date_str": "Sep 25, 2026"
+  },
+  {
+    "title": "Opinion: RFK Jr.’s use of the National Center for Health Statistics will add confusion to measles deaths count",
+    "url": "https://www.statnews.com/2026/09/25/measles-deaths-statistics-pennsylvania-outbreak-cdc-nchs/?utm_campaign=rss",
+    "summary": "“A discrepancy between how federal and state public health officials determine measles deaths will only increase public confusion,” write Denys T. Lau and Jennifer D. Schoendorf.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-25T08:30:00+00:00",
+    "date_str": "Sep 25, 2026"
+  },
+  {
+    "title": "Opinion: The ‘died with’ vs. ‘died of’ measles discussion misses something very important",
+    "url": "https://www.statnews.com/2026/09/25/died-with-not-from-measles-physicians-explain-death-certificate-rules/?utm_campaign=rss",
+    "summary": "“Arguing over whether someone died ‘with’ or ‘of’ a disease gets us stuck on the last thing that happened.” write two Unbiased Science scientists.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-25T08:30:00+00:00",
+    "date_str": "Sep 25, 2026"
+  },
+  {
+    "title": "Mom! Mom! MOM! 3 ways to stay calm in stressful parenting moments",
+    "url": "https://www.npr.org/2026/09/25/nx-s1-5978936/how-to-manage-mom-rage",
+    "summary": "Parenthood can be overwhelming. A therapist and mom of three shares techniques to help calibrate your emotions — so you can show up better for yourself and your family.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-25T09:01:00+00:00",
+    "date_str": "Sep 25, 2026"
+  },
+  {
+    "title": "$100 million in teen pregnancy prevention funds remain unused. What happened?",
+    "url": "https://www.npr.org/2026/09/24/nx-s1-5974336/teen-pregnancy-prevention-unspent-funding",
+    "summary": "With days left to go in the 2026 fiscal year, lawmakers push the health department to spend the money congress allocated to prevent teen pregnancy. An NPR exclusive.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-25T08:40:30+00:00",
+    "date_str": "Sep 25, 2026"
+  },
+  {
+    "title": "Why Generation Z is less likely to view China as a threat",
+    "url": "https://thehill.com/blogs/in-the-know/6110534-gen-z-china-press-freedom-healthcare-employment/",
+    "summary": "Recent research on American attitudes toward China reveal stark generational divides. When asked if China’s growing presence on the world stage is a “critical threat,” 34 percent of Gen Z respondents agreed, compared to 43 percent of Millennials, according to an August survey from the Chicago Council on Global Affairs. Older generations were much warier,...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-09-25T10:00:00+00:00",
+    "date_str": "Sep 25, 2026"
+  },
+  {
+    "title": "Pentagon turns on the jets in $1.5 trillion defense budget push",
+    "url": "https://thehill.com/policy/defense/6110595-pentagon-trump-budget-briefings-senate/",
+    "summary": "Pentagon officials have ramped up their efforts in recent weeks to help Congress carve a path toward President Trump’s record $1.5 trillion Pentagon budget request. But some GOP senators are worried the Defense Department deployed its closed-door offensive too late, undercutting its prospects of building a coalition necessary to move the record-breaking defense budget. Sen....",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-09-25T10:00:00+00:00",
+    "date_str": "Sep 25, 2026"
+  },
+  {
     "title": "President Trump's FDA commissioner nom, Dr. Heidi Overton, faces Senators' questions",
     "url": "https://www.npr.org/2026/09/24/nx-s1-5980057/president-trumps-fda-commissioner-nom-dr-heidi-overton-faces-senators-questions",
     "summary": "Dr. Heidi Overton has been nominated to be the new FDA commissioner. The Senate HELP committee pressed her on vaccines, mifepristone, food safety and whether she can tell the president he's wrong.",
@@ -2298,105 +2398,5 @@
     "category_slug": "medicare-news",
     "date": "2026-09-20T13:45:00+00:00",
     "date_str": "Sep 20, 2026"
-  },
-  {
-    "title": "The Trials Were Always There — Patients Just Couldn’t Find Them",
-    "url": "https://medcitynews.com/2026/09/the-trials-were-always-there-patients-just-couldnt-find-them/",
-    "summary": "This structural problem calls for a structural solution, requiring no new science, regulation, or data. The post The Trials Were Always There — Patients Just Couldn’t Find Them appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-09-20T13:17:00+00:00",
-    "date_str": "Sep 20, 2026"
-  },
-  {
-    "title": "PHOTOS: The precarious life of fisherfolk",
-    "url": "https://www.npr.org/2026/09/20/g-s1-143447/photos-fishermen-sea-india",
-    "summary": "In the bustling heart of the southern Indian city of Chennai is a market that never sleeps, where residents from the poorest neighborhoods wage a battle of survival with the sea.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-20T12:24:02+00:00",
-    "date_str": "Sep 20, 2026"
-  },
-  {
-    "title": "Remote-Controlled Urinary Sphincter Could Transform Incontinence Treatment for Men",
-    "url": "https://www.medpagetoday.com/urology/urinaryincontinence/123072",
-    "summary": "(MedPage Today) -- A remote-controlled artificial urinary sphincter (AUS) has shown early promise for relieving urinary incontinence after prostate cancer surgery, while addressing one of the most awkward aspects of existing devices. Most currently...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-20T14:00:00+00:00",
-    "date_str": "Sep 20, 2026"
-  },
-  {
-    "title": "Kidney disease of unknown origin spreads in US. Who is at risk?",
-    "url": "https://thehill.com/policy/healthcare/6093346-kidney-disease-of-unknown-origin-spreads-in-us-who-is-at-risk/",
-    "summary": "People with CKDu don't have the classic risk factors of kidney disease, like hypertension or diabetes.",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-09-20T14:30:00+00:00",
-    "date_str": "Sep 20, 2026"
-  },
-  {
-    "title": "America's Long History of Falling for Hucksters and Their Outlandish Promises",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/generalprofessionalissues/123067",
-    "summary": "(MedPage Today) -- America: land of possibility. And also: land of suckers. Our enduring belief that anything is possible -- whether based in reality or not -- has helped the nation become the world's largest economy. It has also led us to...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-19T20:00:00+00:00",
-    "date_str": "Sep 19, 2026"
-  },
-  {
-    "title": "Trump asked budget chief to draft order bringing health research funding under his control",
-    "url": "https://www.politico.com/news/2026/09/19/nih-grants-trump-vought-bhattacharya-harvard-01085413",
-    "summary": "The move came after the NIH director refused Trump’s request to cut Harvard grants in an Oval Office meeting.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-20T02:08:50+00:00",
-    "date_str": "Sep 20, 2026"
-  },
-  {
-    "title": "Oxygen for Preterm Infants; Top-Down Therapy in Crohn's",
-    "url": "https://www.medpagetoday.com/podcasts/healthwatch/123064",
-    "summary": "(MedPage Today) -- TTHealthWatch is a weekly podcast from Texas Tech. In it, Elizabeth Tracey, director of electronic media for Johns Hopkins Medicine in Baltimore, and Rick Lange, MD, president of Texas Tech Health El Paso, look at the top medical...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-19T18:00:00+00:00",
-    "date_str": "Sep 19, 2026"
-  },
-  {
-    "title": "Work As an RN First. Then Go to NP School.",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/123062",
-    "summary": "(MedPage Today) -- Before anyone accuses me of being anti-nurse practitioner (NP), let me be clear: I support NPs. I support them enough to worry about what we're doing to the profession. Somewhere along the way, we stopped treating advanced practice...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-19T16:00:00+00:00",
-    "date_str": "Sep 19, 2026"
-  },
-  {
-    "title": "Jehovah’s Witnesses allow blood-derived products but keep ban on whole-blood transfusions",
-    "url": "https://www.statnews.com/2026/09/19/jehovahs-witnesses-blood-derived-products-transfusions/?utm_campaign=rss",
-    "summary": "The Jehovah’s Witnesses have partly eased their longstanding prohibition on the medical use of donated blood.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-19T14:13:11+00:00",
-    "date_str": "Sep 19, 2026"
-  },
-  {
-    "title": "Betel nuts are a top mind-affecting substance. Now there's evidence of ancient use",
-    "url": "https://www.npr.org/2026/09/19/g-s1-144054/ancient-teeth-betel-nuts-mind-altering-drugs",
-    "summary": "New research on ancient human remains suggests the habitual usage of betel nuts, a plant seed with mind-affecting properties that is popular in parts of Asia despite the health risks it presents.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-19T11:21:56+00:00",
-    "date_str": "Sep 19, 2026"
   }
 ]
