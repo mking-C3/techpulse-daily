@@ -1,5 +1,35 @@
 [
   {
+    "title": "Journalists Discuss What RFK Jr. Recently Told the Anti-Vaccine Group He Founded",
+    "url": "https://kffhealthnews.org/on-air/on-air-september-26-2026-aca-fraud-claims-rfk-chd-california-heat-protections/",
+    "summary": "KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here’s a collection of their appearances.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-26T09:00:00+00:00",
+    "date_str": "Sep 26, 2026"
+  },
+  {
+    "title": "The U.S. has more thalidomide survivors than the government admits",
+    "url": "https://www.npr.org/2026/09/26/nx-s1-5979047/us-thalidomide-survivors-want-recognition-government",
+    "summary": "In the 1950s and 1960s, doctors gave the drug thalidomide to pregnant patients without telling them — and without FDA approval. Now those patients' children want recognition.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-26T09:00:00+00:00",
+    "date_str": "Sep 26, 2026"
+  },
+  {
+    "title": "Meal deliveries can save money and improve health. Will they survive Medicaid cuts?",
+    "url": "https://www.npr.org/2026/09/26/nx-s1-5946434/medically-tailored-meal-deliveries-medicaid-cuts",
+    "summary": "Some states deliver meals to Medicaid patients that address their dietary needs. Evidence shows it aids recovery and saves healthcare costs, but federal budget cuts may lead some states to cancel it.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-26T09:00:00+00:00",
+    "date_str": "Sep 26, 2026"
+  },
+  {
     "title": "Report: High Drug Costs Are Creating Hidden Burden for Physicians",
     "url": "https://medcitynews.com/2026/09/report-high-drug-costs-are-creating-hidden-burden-for-physicians/",
     "summary": "When drug prices are too high for patients, physicians take on additional workload to find solutions. A newly released 2026 Physician Drug Cost Survey by RazorMetrics examined how prescription cost pressures affect physicians’ practices. The post Report: High Drug Costs Are Creating Hidden Burden for Physicians appeared first on MedCity News .",
@@ -2367,36 +2397,6 @@
     "category": "Drug Coverage",
     "category_slug": "drug-coverage",
     "date": "2026-09-21T21:43:32.708808+00:00",
-    "date_str": "Sep 21, 2026"
-  },
-  {
-    "title": "Texas judge signs off on bankruptcy plans for CVS' Omnicare unit",
-    "url": "https://www.fiercehealthcare.com/payers/cvs-omnicare-unit-files-bankruptcy-amid-ongoing-legal-fallout",
-    "summary": "CVS Health's Omnicare unit has started voluntary Chapter 11 bankruptcy proceedings as it navigates a series of legal challenges.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-21T21:43:32.708859+00:00",
-    "date_str": "Sep 21, 2026"
-  },
-  {
-    "title": "No Surprises Act IDR arbitration driving high costs for employers, new report finds",
-    "url": "https://www.fiercehealthcare.com/regulatory/no-surprises-act-idr-arbitration-driving-high-costs-employers-eric-report",
-    "summary": "One plan sponsor interviewed for the report saw payments associated with the IDR process increase from approximately $3.5 million in 2025 to more than $6 million during the first half of 2026.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-21T21:43:32.708895+00:00",
-    "date_str": "Sep 21, 2026"
-  },
-  {
-    "title": "All 50 states apply to participate in new Medicaid drug pricing model, White House says",
-    "url": "https://www.fiercehealthcare.com/regulatory/cms-unveils-new-model-aims-bring-most-favored-nation-pricing-medicaid",
-    "summary": "The Trump administration is rolling out a new model that aims to bring most-favored nation pricing to the Medicaid space.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-21T21:43:32.708926+00:00",
     "date_str": "Sep 21, 2026"
   }
 ]
