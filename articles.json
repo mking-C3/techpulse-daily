@@ -1,5 +1,45 @@
 [
   {
+    "title": "Opinion: I worked on the CDC investigation of the anthrax letters. 25 years later, are we ready for the next biothreat?",
+    "url": "https://www.statnews.com/2026/09/26/anthrax-letters-25th-anniversary-cdc-investigation-new-biothreats-ai/?utm_campaign=rss",
+    "summary": "“We’ve come a long way since the fall of 2001, but we find ourselves with recent widening gaps in public health readiness and mitigation,” writes Daniel B. Jernigan.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-26T11:00:00+00:00",
+    "date_str": "Sep 26, 2026"
+  },
+  {
+    "title": "Why this island paradise has the world's fastest-growing HIV epidemic",
+    "url": "https://www.npr.org/2026/09/26/g-s1-144667/hiv-crystal-meth-epidemic-fiji",
+    "summary": "In mid-September, Fiji's government declared a national emergency because of a startling rise in HIV infections. The country's crystal meth epidemic is a strong contributing factor.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-26T11:31:18+00:00",
+    "date_str": "Sep 26, 2026"
+  },
+  {
+    "title": "Democrats Press RFK Jr. on an Ethics Agreement Change Involving Law Firm Fees",
+    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/123154",
+    "summary": "(MedPage Today) -- Congressional Democrats are pressing for answers from Health Secretary Robert F. Kennedy Jr. over what they describe as a previously undisclosed change to the ethics agreement he made before being confirmed, which they say calls...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-26T14:00:00+00:00",
+    "date_str": "Sep 26, 2026"
+  },
+  {
+    "title": "Cost of having a baby: Hospital bills are shockingly high in states you wouldn't expect",
+    "url": "https://thehill.com/policy/healthcare/6106923-cost-of-having-a-baby-hospital-bills-are-shockingly-high-in-states-you-wouldnt-expect/",
+    "summary": "In one video, a woman shows her bill on camera. The grand total was $45,000. \"Thankfully my insurance covered the majority,\" she said. But she still owed $1,982.93.",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-09-26T14:05:00+00:00",
+    "date_str": "Sep 26, 2026"
+  },
+  {
     "title": "Journalists Discuss What RFK Jr. Recently Told the Anti-Vaccine Group He Founded",
     "url": "https://kffhealthnews.org/on-air/on-air-september-26-2026-aca-fraud-claims-rfk-chd-california-heat-protections/",
     "summary": "KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here’s a collection of their appearances.",
@@ -2357,46 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-09-21T15:14:25+00:00",
-    "date_str": "Sep 21, 2026"
-  },
-  {
-    "title": "Gabapentin Use Rose as Restrictions Fell, Study Shows",
-    "url": "https://www.medpagetoday.com/neurology/generalneurology/123076",
-    "summary": "(MedPage Today) -- Gabapentin use jumped quickly in Michigan after the drug was removed from the state's controlled substance schedule in 2024, a cross-sectional study showed. From 2023 through 2025, gabapentin dispensing in the Michigan Medicaid...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-21T15:00:00+00:00",
-    "date_str": "Sep 21, 2026"
-  },
-  {
-    "title": "Kim Kardashian's Diagnosis; Needless Mastectomies; 1 in 3 Docs Retiring",
-    "url": "https://www.medpagetoday.com/gastroenterology/generalgastroenterology/123075",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Kim Kardashian revealed she has esophagitis, an inflammatory condition that may increase the risk of the esophageal cancer that killed her father. (New York Post...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-21T13:27:19+00:00",
-    "date_str": "Sep 21, 2026"
-  },
-  {
-    "title": "Mayo Clinic, Thermo Fisher partner to create biomedical database",
-    "url": "https://www.healthcaredive.com/news/mayo-clinic-thermo-fisher-partner-to-create-biomedical-database/830895/",
-    "summary": "The health system and Thermo Fisher will create a company called Precure to generate population-scale molecular data to inform development of diagnostics, therapies and other healthcare products.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-21T15:00:00+00:00",
-    "date_str": "Sep 21, 2026"
-  },
-  {
-    "title": "Aetna expands bundled prior auths for cancer care",
-    "url": "https://www.fiercehealthcare.com/payers/aetna-expands-bundled-prior-auths-cancer-care",
-    "summary": "Aetna is expanding bundled prior authorizations across all types of cancer for enrollees in its Medicaid plans across eight states.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-21T21:43:32.708808+00:00",
     "date_str": "Sep 21, 2026"
   }
 ]
