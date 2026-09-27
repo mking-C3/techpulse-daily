@@ -1,5 +1,55 @@
 [
   {
+    "title": "When AI Gets Medicine Wrong, Who’s Liable?",
+    "url": "https://medcitynews.com/2026/09/when-ai-gets-medicine-wrong-whos-liable/",
+    "summary": "As AI technology in healthcare becomes more deeply involved in the complex, high-stakes tasks of diagnosis and treatment planning, traditional lines of accountability will become less clear. Where does the buck stop for AI-supported medical care? The post When AI Gets Medicine Wrong, Who’s Liable? appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-27T14:00:00+00:00",
+    "date_str": "Sep 27, 2026"
+  },
+  {
+    "title": "Fifty Years of Pediatric Rheumatology, but Children Still Can’t Access the Treatments They Need",
+    "url": "https://medcitynews.com/2026/09/fifty-years-of-pediatric-rheumatology-but-children-still-cant-access-the-treatments-they-need/",
+    "summary": "As a country, we have developed treatments capable of improving the quality of life and preventing long-term damage for children with rheumatic conditions, yet many children cannot obtain them when they need them most. This needs to change. The post Fifty Years of Pediatric Rheumatology, but Children Still Can’t Access the Treatments They Need appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-27T13:57:00+00:00",
+    "date_str": "Sep 27, 2026"
+  },
+  {
+    "title": "MedTech Commercialization Gap: Moving Beyond Technical Viability",
+    "url": "https://medcitynews.com/2026/09/medtech-commercialization-gap-moving-beyond-technical-viability/",
+    "summary": "What are the common reasons that a prototype fails to make the transition? There are several, but they all boil down to early-stage programs ignoring the business problem in favor of the technology problem. The post MedTech Commercialization Gap: Moving Beyond Technical Viability appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-27T13:41:00+00:00",
+    "date_str": "Sep 27, 2026"
+  },
+  {
+    "title": "Photos: These shepherds climb down a mountain to go to night school",
+    "url": "https://www.npr.org/2026/09/27/g-s1-143582/night-school-shepherds-lesotho",
+    "summary": "Many thousands of boys and men in Lesotho take up the vital profession of herding but have to give up their education. A small network of schools on a shoestring budget is teaching them the ABCs.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-27T11:53:42+00:00",
+    "date_str": "Sep 27, 2026"
+  },
+  {
+    "title": "It's Time for Reimbursement Parity in Anesthesia",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/123147",
+    "summary": "(MedPage Today) -- Should insurers be allowed to pay less for the same service simply because of who provides it? Should patients in rural America lose access to care because an insurer decided one qualified provider is worth less than another...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-27T16:00:00+00:00",
+    "date_str": "Sep 27, 2026"
+  },
+  {
     "title": "From professor to patient: One man's journey on the frontier of lung cancer treatment",
     "url": "https://www.npr.org/2026/09/27/nx-s1-5981264/lung-cancer-treatment-mrna-affordability",
     "summary": "Lung cancer is still the top cancer killer, but new developments are shifting what the future might hold for patients.",
@@ -2347,56 +2397,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-09-21T08:40:49+00:00",
-    "date_str": "Sep 21, 2026"
-  },
-  {
-    "title": "Selution SLR Drug-Eluting Balloon Gets FDA Nod for Coronary In-Stent Restenosis",
-    "url": "https://www.medpagetoday.com/cardiology/interventionalcardiology/123087",
-    "summary": "(MedPage Today) -- The FDA approved the Selution sustained limus release (SLR) drug-eluting balloon (DEB or DCB) to treat coronary in-stent restenosis (ISR), Cordis announced Monday. This makes Selution SLR the only sirolimus-based DEB available...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-21T20:27:48+00:00",
-    "date_str": "Sep 21, 2026"
-  },
-  {
-    "title": "Kennedy's New Autism Research Program Aims to Speed Diagnoses",
-    "url": "https://www.medpagetoday.com/neurology/autism/123086",
-    "summary": "(MedPage Today) -- HHS launched a new research effort on Thursday to change how autism is diagnosed through the Advanced Research Projects Agency for Health (ARPA-H), the agency announced. The Systems for Phenotypic Evaluation, Clinical Trajectories...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-21T19:58:16+00:00",
-    "date_str": "Sep 21, 2026"
-  },
-  {
-    "title": "Meet This Year's Forbes Healthcare Billionaires",
-    "url": "https://www.medpagetoday.com/special-reports/features/123085",
-    "summary": "(MedPage Today) -- Fifteen of the 400 richest people in America made their fortunes in healthcare -- and four of them are physicians, according to Forbes' annual ranking. At the top of the pack is Thomas Frist Jr., MD, and his family, whose...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-21T19:29:53+00:00",
-    "date_str": "Sep 21, 2026"
-  },
-  {
-    "title": "Kidney Transplant Disparities Persist With Intellectual, Developmental Disability",
-    "url": "https://www.medpagetoday.com/nephrology/kidneytransplantation/123084",
-    "summary": "(MedPage Today) -- Despite anti-discrimination laws, patients with end-stage kidney disease (ESKD) and intellectual or developmental disabilities (IDD) were significantly less likely to be evaluated for or receive a kidney transplant, a Medicare...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-21T19:14:42+00:00",
-    "date_str": "Sep 21, 2026"
-  },
-  {
-    "title": "Health Groups Up in Arms About Proposed 'Modifier 25' Rule",
-    "url": "https://www.medpagetoday.com/practicemanagement/reimbursement/123080",
-    "summary": "(MedPage Today) -- A proposal from CMS to cut in half the payment for secondary services performed during outpatient visits is drawing fire from a variety of healthcare groups. \"The damage would be extensive to practices who offer procedures and...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-21T16:42:49+00:00",
     "date_str": "Sep 21, 2026"
   }
 ]
