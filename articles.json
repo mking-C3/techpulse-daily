@@ -1,5 +1,145 @@
 [
   {
+    "title": "Republicans and Democrats Find a Unifying Target: Pharmacy Benefit Managers",
+    "url": "https://kffhealthnews.org/health-industry/pharmacy-benefit-managers-pbms-drug-costs-common-ground-tennessee/",
+    "summary": "Some states have considered barring companies that own a PBM from also owning brick-and-mortar pharmacies, as CVS does. Two states have followed through. A similar proposal at the federal level has gained prominent sponsors, aligning conservative, business-friendly Republicans with Democrats traditionally more open to government regulation.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-28T09:00:00+00:00",
+    "date_str": "Sep 28, 2026"
+  },
+  {
+    "title": "Food Safety Finds a Place Among ‘Kitchen-Table’ Political Issues",
+    "url": "https://kffhealthnews.org/elections/food-safety-concerns-midterms-kitchen-table-politics/",
+    "summary": "Recent outbreaks of foodborne illness and high-profile recalls have made this issue a concern of voters.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-28T09:00:00+00:00",
+    "date_str": "Sep 28, 2026"
+  },
+  {
+    "title": "Hospital and Payer AI Governance Is at a Crossroads",
+    "url": "https://medcitynews.com/2026/09/hospital-and-payer-ai-governance-is-at-a-crossroads/",
+    "summary": "[Sponsored] Research from MedCity News and Cotiviti shows robust AI adoption by payers and providers, but what steps are they taking for AI governance and AI weaponized cybersecurity threats? The post Hospital and Payer AI Governance Is at a Crossroads appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-28T11:30:00+00:00",
+    "date_str": "Sep 28, 2026"
+  },
+  {
+    "title": "Trump uses ‘contested’ power to cut more funding to HHS",
+    "url": "https://www.statnews.com/2026/09/28/health-news-trump-uses-contested-power-to-cut-more-funding-to-hhs/?utm_campaign=rss",
+    "summary": "Late Friday night, the Trump administration clawed back nearly $1 billion in spending approved by Congress, targeting several HHS programs focused on immigrants and diversity",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-28T12:22:37+00:00",
+    "date_str": "Sep 28, 2026"
+  },
+  {
+    "title": "STAT+: Once described as obesity medicines for ‘patients,’ GLP-1s are increasingly lifestyle drugs for ‘customers’",
+    "url": "https://www.statnews.com/2026/09/28/glp1-marketing-shift-obesity-medicine-weight-loss-drug/?utm_campaign=rss",
+    "summary": "Blockbuster GLP-1 drugs have transformed the lives of millions of people. Lately, they’re undergoing a makeover of their own.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-28T08:30:00+00:00",
+    "date_str": "Sep 28, 2026"
+  },
+  {
+    "title": "Opinion: AI is eroding the barriers that kept biological weapons rare",
+    "url": "https://www.statnews.com/2026/09/28/ai-bioweapons-pathogens-guardrails-policy-warning/?utm_campaign=rss",
+    "summary": "“Defenses against AI-created bioweapons will take years to build. We don’t have years to spare,” writes Ashish Jha.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-28T08:30:00+00:00",
+    "date_str": "Sep 28, 2026"
+  },
+  {
+    "title": "Opinion: I discovered a new structure in the heart — just by looking closely",
+    "url": "https://www.statnews.com/2026/09/28/heart-structure-left-atrial-septal-pouch-lasp-anatomy-discovery/?utm_campaign=rss",
+    "summary": "Our finding was remarkable because it had remained hidden within one of the best-studied organs in medical history.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-28T08:30:00+00:00",
+    "date_str": "Sep 28, 2026"
+  },
+  {
+    "title": "5 tips for parents worried about their kids' screen time and online safety",
+    "url": "https://www.npr.org/2026/09/28/nx-s1-5965849/screens-teens-parents-social-media-safety",
+    "summary": "Parental monitoring can help protect kids from the harms of social media and excess screen time. Screen time boundaries plus early and open conversations about online habits can make kids less vulnerable.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-28T09:00:00+00:00",
+    "date_str": "Sep 28, 2026"
+  },
+  {
+    "title": "Building flexibility into the next generation of outpatient care",
+    "url": "https://www.healthcaredive.com/spons/building-flexibility-into-the-next-generation-of-outpatient-care/830623/",
+    "summary": "Higher-acuity outpatient care is reshaping flexible facility planning, design and construction.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-28T09:00:00+00:00",
+    "date_str": "Sep 28, 2026"
+  },
+  {
+    "title": "How to slash the multi-billion dollar RCM Tax™: Leveling the playing field against payer AI",
+    "url": "https://www.healthcaredive.com/spons/how-to-slash-the-multi-billion-dollar-rcm-taxtm-leveling-the-playing-field/830855/",
+    "summary": "Discover how proactive clinical-financial workflows can protect your practice's bottom line.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-28T09:00:00+00:00",
+    "date_str": "Sep 28, 2026"
+  },
+  {
+    "title": "Why utilization management is one of healthcare AI’s hardest problems",
+    "url": "https://www.healthcaredive.com/spons/why-utilization-management-is-one-of-healthcare-ais-hardest-problems/830976/",
+    "summary": "Inside healthcare AI's toughest challenge: Predicting reimbursement before denials occur.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-28T09:00:00+00:00",
+    "date_str": "Sep 28, 2026"
+  },
+  {
+    "title": "Millions of Americans don't have a surgeon in their home county: study",
+    "url": "https://www.fiercehealthcare.com/providers/millions-americans-dont-have-surgeon-their-home-county-study",
+    "summary": "Just over 15 million people live in a county with no general surgeons, and nearly 10 million in a county with no specialty surgeons, according to a new analysis from the American College of Surgeons and the University of North Carolina",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-28T13:00:00.891099+00:00",
+    "date_str": "Sep 28, 2026"
+  },
+  {
+    "title": "Novo Nordisk's next-gen weight loss drug outperforms Zepbound in new trial",
+    "url": "https://thehill.com/policy/healthcare/6114202-novo-nordisk-cagrisema-zepbound-comparison-trial-weight-loss-drugs/",
+    "summary": "Novo Nordisk says its potential Wegovy successor helped patients lose more weight than Zepbound in a major clinical trial.",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-09-28T12:23:31+00:00",
+    "date_str": "Sep 28, 2026"
+  },
+  {
+    "title": "GLP-1 drugs may help sleep apnea, but CPAP remains best treatment: Study",
+    "url": "https://thehill.com/policy/healthcare/6113374-glp-1-weight-loss-drugs-cpap-sleep-apnea-study/",
+    "summary": "Weight-loss drugs may help reduce sleep apnea symptoms, but experts say they still can't match the effectiveness of a CPAP machine.",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-09-28T12:17:04+00:00",
+    "date_str": "Sep 28, 2026"
+  },
+  {
     "title": "Pope blasts assisted dying as ‘false compassion’",
     "url": "https://www.politico.com/news/2026/09/27/pope-assisted-dying-compassion-lourdes-01094549",
     "summary": "He was speaking at a French shrine known for miraculous cures.",
@@ -2258,145 +2398,5 @@
     "category_slug": "healthcare-policy",
     "date": "2026-09-22T08:30:00+00:00",
     "date_str": "Sep 22, 2026"
-  },
-  {
-    "title": "Opinion: The science on relieving cancer symptoms is clear. Why isn’t insurance paying?",
-    "url": "https://www.statnews.com/2026/09/22/integrative-oncology-cancer-symptoms-insurance-asco-sio-pain-fatigue/?utm_campaign=rss",
-    "summary": "Research shows that integrative therapies reduce cancer-related pain, fatigue, anxiety, and nausea. Why won't insurance pay?",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-22T08:30:00+00:00",
-    "date_str": "Sep 22, 2026"
-  },
-  {
-    "title": "Abortion is on the ballot again as post-Roe policies continue to evolve",
-    "url": "https://www.npr.org/2026/09/22/nx-s1-5974318/election-voting-abortion-policies-roe",
-    "summary": "Four states will vote on abortion-related ballot measures in November. The measures follow the Supreme Court's \"Dobbs\" decision, which upended federal abortion protections.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-22T09:00:00+00:00",
-    "date_str": "Sep 22, 2026"
-  },
-  {
-    "title": "Your smartwatch isn't accurately counting how many calories you burn, study says",
-    "url": "https://www.npr.org/2026/09/22/nx-s1-5976782/your-smartwatch-isnt-accurately-counting-how-many-calories-you-burn-study-says",
-    "summary": "A new study finds that consumer-grade fitness wearables are generally inaccurate when calculating calories burned. NPR's Leila Fadel speaks with the study's lead author Jason Kostrna.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-22T08:44:15+00:00",
-    "date_str": "Sep 22, 2026"
-  },
-  {
-    "title": "STAT+: Members of Congress push back on plan to create a commission of political appointees to review NIH grants",
-    "url": "https://www.statnews.com/2026/09/21/trump-plan-for-commission-to-review-nih-grants-push-back/?utm_campaign=rss",
-    "summary": "Several members of Congress voiced strong opposition about a reported plan to create a panel of political appointees to sign off on NIH grants",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-21T22:17:21+00:00",
-    "date_str": "Sep 21, 2026"
-  },
-  {
-    "title": "FDA Staff Find No Major Concerns With Galleri Multicancer Early Detection Test",
-    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/123089",
-    "summary": "(MedPage Today) -- FDA staff members had no major concerns or questions about the safety, accuracy, risks, or benefits of the Galleri multicancer early detection (MCED) blood test ahead of an advisors' meeting that will be held Wednesday. The...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-21T21:40:00+00:00",
-    "date_str": "Sep 21, 2026"
-  },
-  {
-    "title": "Congo Begins Ebola Vaccinations for Health Workers at the Center of the Outbreak",
-    "url": "https://www.medpagetoday.com/infectiousdisease/ebola/123088",
-    "summary": "(MedPage Today) -- Congo on Saturday began vaccinating healthcare staff against Ebola in Bunia, the epicenter of the fastest-growing outbreak of the disease in history as they are \"particularly exposed and deeply involved in the response,\" the...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-21T21:38:16+00:00",
-    "date_str": "Sep 21, 2026"
-  },
-  {
-    "title": "Medical groups, city of Columbus sue to challenge final Medicaid work requirements rule",
-    "url": "https://www.fiercehealthcare.com/payers/medical-groups-city-columbus-sue-challenge-final-medicaid-work-requirements-rule",
-    "summary": "A coalition of physician groups, individual Medicaid enrollees and the city of Columbus are joining forces to sue the feds over regulations governing the rollout of work requirements at the beginning of next year.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-22T03:28:53.060207+00:00",
-    "date_str": "Sep 22, 2026"
-  },
-  {
-    "title": "Democratic senators reintroduce bill outlining stiffer cybersecurity standards, $1.3B hospital implementation assistance",
-    "url": "https://www.fiercehealthcare.com/regulatory/democratic-senators-reintroduce-bill-outlining-stiffer-cybersecurity-standards-13b",
-    "summary": "Legislation reintroduced by Sens. Warner and Wyden set aside voluntary cybersecurity standards for tighter enforcement, but would also give hospitals $1.3 billion to make it happen.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-22T03:28:53.060265+00:00",
-    "date_str": "Sep 22, 2026"
-  },
-  {
-    "title": "One-third of privately insured have medical debt, Commonwealth Fund survey finds",
-    "url": "https://www.fiercehealthcare.com/payers/one-third-privately-insured-have-medical-debt-commonwealth-fund-survey-finds",
-    "summary": "Nearly two thirds said their debt stemmed from hospital care, though many pointed to several accumulating bills rather than a single high-cost procedure for their burdens. Additionally, focus group participants described provider-recommended services that were unexpectedly denied by an insurer.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-22T03:28:53.060305+00:00",
-    "date_str": "Sep 22, 2026"
-  },
-  {
-    "title": "Radiopharmaceutical Dealmaking Continues With Telix’s $1.65B ITM Acquisition",
-    "url": "https://medcitynews.com/2026/09/telix-itm-merger-acquisition-radiopharmaceutical-cancer-gep-nets-tlx/",
-    "summary": "Telix Pharmaceuticals is acquiring Isotope Technologies Munich, or ITM, in a $1.65 billion stock deal that will create a radiopharmaceuticals company with greater global scale. ITM’s lead pipeline asset is in late-stage development for a type of gastrointestinal cancer, where it could compete against Novartis and Curium Pharma products. The post Radiopharmaceutical Dealmaking Continues With Telix’s $1.65B ITM Acquisition appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-09-21T20:36:07+00:00",
-    "date_str": "Sep 21, 2026"
-  },
-  {
-    "title": "Array Behavioral Care Unveils New Triage Model",
-    "url": "https://medcitynews.com/2026/09/array-behavioral-care-unveils-new-triage-model/",
-    "summary": "Array Behavioral Care launched a new service to help providers assess patients with urgent behavioral health needs and connect them to appropriate care. The post Array Behavioral Care Unveils New Triage Model appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-09-21T19:44:25+00:00",
-    "date_str": "Sep 21, 2026"
-  },
-  {
-    "title": "How AI Is Transforming Clinical Documentation at Intermountain Health",
-    "url": "https://medcitynews.com/2026/09/how-ai-is-transforming-clinical-documentation-at-intermountain-health/",
-    "summary": "Since implementing AI clinical documentation improvement (CDI) tools, Intermountain has seen a 22% point increase in inpatient chart completion during or immediately after rounds. The post How AI Is Transforming Clinical Documentation at Intermountain Health appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-09-21T17:20:53+00:00",
-    "date_str": "Sep 21, 2026"
-  },
-  {
-    "title": "The Nurse Is Health Care’s Most Underpriced Founder",
-    "url": "https://medcitynews.com/2026/09/the-nurse-is-health-cares-most-underpriced-founder/",
-    "summary": "They see the problem first, build the fix, and decide whether it is ever adopted. The market has trained them to hide the one credential that de-risks the deal. The post The Nurse Is Health Care’s Most Underpriced Founder appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-09-21T13:31:00+00:00",
-    "date_str": "Sep 21, 2026"
-  },
-  {
-    "title": "STAT+: What a vote on Grail’s cancer detection test could mean for the company, patients, and regulators",
-    "url": "https://www.statnews.com/2026/09/21/grail-galleri-fda-advisory-committee-meeting-documents/?utm_campaign=rss",
-    "summary": "Shares in Grail, the company developing a blood test for cancer, surged Monday after the FDA posted documents ahead of an advisory committee meeting.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-21T17:58:51+00:00",
-    "date_str": "Sep 21, 2026"
   }
 ]
