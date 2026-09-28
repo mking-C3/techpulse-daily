@@ -1,5 +1,15 @@
 [
   {
+    "title": "Pope blasts assisted dying as ‘false compassion’",
+    "url": "https://www.politico.com/news/2026/09/27/pope-assisted-dying-compassion-lourdes-01094549",
+    "summary": "He was speaking at a French shrine known for miraculous cures.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-27T22:30:00+00:00",
+    "date_str": "Sep 27, 2026"
+  },
+  {
     "title": "Mirum Pharma Pill Lands FDA Approval for Ultra-Rare Bone Growth Disorder",
     "url": "https://medcitynews.com/2026/09/mirum-pharmaceuticals-incyte-fda-approval-zilurgisertib-atebrioz-ultra-rare-disease-mirm-incy/",
     "summary": "Mirum Pharmaceuticals’ Atebrioz is the third FDA-approved drug for fibrodysplasia ossificans progressiva (FOP), but it brings advantages over the two other products for this rare disease that leads to bone growth in soft tissue. Mirum acquired Atebrioz from Incyte earlier this year. The post Mirum Pharma Pill Lands FDA Approval for Ultra-Rare Bone Growth Disorder appeared first on MedCity News .",
@@ -2387,16 +2397,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-09-21T17:58:51+00:00",
-    "date_str": "Sep 21, 2026"
-  },
-  {
-    "title": "STAT+: Lilly’s breast cancer combo wins approval",
-    "url": "https://www.statnews.com/2026/09/21/biotech-news-lilly-breast-cancer-combo-wins-approval/?utm_campaign=rss",
-    "summary": "The FDA just approved a new combination drug treatment for patients with an advanced form of breast cancer.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-21T15:08:38+00:00",
     "date_str": "Sep 21, 2026"
   }
 ]
