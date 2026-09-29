@@ -1,5 +1,135 @@
 [
   {
+    "title": "She Left After Waiting Hours in the Emergency Room. The ER Billed Her Anyway.",
+    "url": "https://kffhealthnews.org/health-care-costs/emergency-room-not-treated-still-charged-illinois-bill-of-the-month-september-2026/",
+    "summary": "Autumn Daniels went to the hospital with a severe migraine. After four hours in the waiting room, she left to try a different facility — but the ER still charged her.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-29T09:00:00+00:00",
+    "date_str": "Sep 29, 2026"
+  },
+  {
+    "title": "Confusion and Angst Follow State’s Early Rollout of Medicaid Work Rules",
+    "url": "https://kffhealthnews.org/medicaid/medicaid-work-rules-requirements-worries-dropped-coverage-montana/",
+    "summary": "In most states, people with Medicaid coverage will have to prove they’re working, volunteering, or studying starting Jan. 1. But Montana put the rules into effect early, and they’re sowing uncertainty and anxiety.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-29T09:00:00+00:00",
+    "date_str": "Sep 29, 2026"
+  },
+  {
+    "title": "After Failed Execution, Health Workers Say State’s Rules Flout Medical Ethics",
+    "url": "https://kffhealthnews.org/health-industry/death-penalty-lethal-injection-execution-doctors-tennessee-carruthers-christa-pike/",
+    "summary": "The death penalty is legal in 27 states, and lethal injection is the primary method. That means involving medical professionals to store, test, and inject the drugs. After a botched execution in Tennessee, doctors and nurses there say medical professionals need to be removed from the process completely.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-29T09:00:00+00:00",
+    "date_str": "Sep 29, 2026"
+  },
+  {
+    "title": "The Illegal Drug Marketplace in Your Patients’ Pockets",
+    "url": "https://medcitynews.com/2026/09/the-illegal-drug-marketplace-in-your-patients-pockets/",
+    "summary": "Patients obtaining drugs through social media, medical spas, or telehealth platforms are not the same as patients obtaining drugs through more traditional illicit channels because they often believe what they are receiving is a clinically validated product. This means they may present with unexplained symptoms without realizing their online purchase is even relevant to the conversation The post The Illegal Drug Marketplace in Your Patients’ Pockets appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-29T09:52:38+00:00",
+    "date_str": "Sep 29, 2026"
+  },
+  {
+    "title": "Researchers slow neurodegeneration in mice by barring T cells from the brain",
+    "url": "https://www.statnews.com/2026/09/29/health-news-researchers-slow-neurodegeneration-in-mice-t-cells/?utm_campaign=rss",
+    "summary": "A new study in mice led by Washington University in St. Louis researchers suggests that stopping certain immune cells from entering the brain could limit neurodegeneration.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-29T12:02:41+00:00",
+    "date_str": "Sep 29, 2026"
+  },
+  {
+    "title": "STAT+: UniQure’s gene therapy continues to slow Huntington’s progression after four years",
+    "url": "https://www.statnews.com/2026/09/29/uniqure-huntingtons-gene-therapy-slows-disease-progression-four-years/?utm_campaign=rss",
+    "summary": "UniQure's gene therapy continues to slow Huntington's progression after four years. But the magnitude of the benefit waned compared to a similar analysis from a year ago.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-29T11:05:00+00:00",
+    "date_str": "Sep 29, 2026"
+  },
+  {
+    "title": "Why MAHA wants to make health data much more accessible",
+    "url": "https://www.statnews.com/2026/09/29/why-maha-wants-to-make-health-data-much-more-accessible/?utm_campaign=rss",
+    "summary": "At a MAHA Institute event, Kennedy and others argued that health data should be more accessible to researchers can study vaccines, chronic diseases, and autism",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-29T08:30:00+00:00",
+    "date_str": "Sep 29, 2026"
+  },
+  {
+    "title": "She’s spent two decades talking to parents who don’t vaccinate their children. Here’s what she’s learned",
+    "url": "https://www.statnews.com/2026/09/29/understanding-vaccine-skepticism-in-parents/?utm_campaign=rss",
+    "summary": "Jennifer Reich has spent two decades speaking to families about their immunization decisions. In an interview, she unpacks what she's learned.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-29T08:30:00+00:00",
+    "date_str": "Sep 29, 2026"
+  },
+  {
+    "title": "STAT+: The last ‘breakthrough’ devices to get special treatment from Medicare",
+    "url": "https://www.statnews.com/2026/09/29/fda-breakthrough-medical-devices-special-treatment-medicare/?utm_campaign=rss",
+    "summary": "New medical devices deemed \"breakthrough\" by the FDA are no longer automatically eligible for extra Medicare payments.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-29T08:30:00+00:00",
+    "date_str": "Sep 29, 2026"
+  },
+  {
+    "title": "STAT+: Drug pricing, Medicaid, and research funding: The key policy issues at stake in the midterms",
+    "url": "https://www.statnews.com/2026/09/29/healthcare-industry-midterm-elections-analysis/?utm_campaign=rss",
+    "summary": "Big shifts in health care policy could emerge depending on who wins the midterms, affecting hospitals and pharma companies.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-29T08:30:00+00:00",
+    "date_str": "Sep 29, 2026"
+  },
+  {
+    "title": "Opinion: Child health is the national security crisis we keep ignoring",
+    "url": "https://www.statnews.com/2026/09/29/childrens-health-national-security-military-labor-workforce-policy-fixes/?utm_campaign=rss",
+    "summary": "“National security begins in childhood,” write Tina L. Cheng, Stanley McChrystal, and James M. Perrin.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-29T08:30:00+00:00",
+    "date_str": "Sep 29, 2026"
+  },
+  {
+    "title": "Opinion: Massive SNAP cuts could mean more children are separated from their families",
+    "url": "https://www.statnews.com/2026/09/29/snap-cuts-states-health-child-welfare-cps-foster-care/?utm_campaign=rss",
+    "summary": "\"We should not make families poorer and then punish them for their poverty,\" write Sandy Santana and Kristen Weber of the National Center for Youth Law.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-29T08:30:00+00:00",
+    "date_str": "Sep 29, 2026"
+  },
+  {
+    "title": "Smart ring maker Oura postpones public listing due to 'uncertainty in the IPO market'",
+    "url": "https://www.fiercehealthcare.com/health-tech/smart-ring-maker-oura-postpones-public-listing-due-uncertainty-ipo-market",
+    "summary": "Smart ring maker and health tracking company Oura is postponing its previously announced initial public offering on Nasdaq due to \"uncertainty in the IPO market,\" the company announced Tuesday morning.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-29T12:11:40.015125+00:00",
+    "date_str": "Sep 29, 2026"
+  },
+  {
     "title": "DreaMed Wins FDA Clearance for CGM-Driven Insulin Automation Tool for Both Type 2 Injection Regimens",
     "url": "https://medcitynews.com/2026/09/dreamed-wins-fda-clearance-for-cgm-driven-insulin-automation-tool-for-both-type-2-injection-regimens/",
     "summary": "DreaMed Diabetes has received FDA 510(K) clearance for MODI, a mobile app that uses CGM (continuous glucose monitoring) data to provide insulin dosing recommendations for people with Type 2 diabetes who need both basal insulin and fast-acting injections. The post DreaMed Wins FDA Clearance for CGM-Driven Insulin Automation Tool for Both Type 2 Injection Regimens appeared first on MedCity News .",
@@ -2267,136 +2397,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-09-23T08:30:00+00:00",
-    "date_str": "Sep 23, 2026"
-  },
-  {
-    "title": "STAT+: Drugmakers, biotech VCs show ‘reinvigorated’ interest in osteoporosis treatments",
-    "url": "https://www.statnews.com/2026/09/23/biotech-vc-investors-new-opportunity-osteoporosis-treatments/?utm_campaign=rss",
-    "summary": "Medicines for osteoporosis are grabbing the attention of the pharma industry, which has been incentivized by a long-awaited regulatory change.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-23T08:30:00+00:00",
-    "date_str": "Sep 23, 2026"
-  },
-  {
-    "title": "Opinion: Mentally ill women deserve more support to have children",
-    "url": "https://www.statnews.com/2026/09/23/lindsay-clancy-patrick-60-minutes-reproductive-psychiatry-mentally-ill-mothers/?utm_campaign=rss",
-    "summary": "“The maternal mental health needs of women like me have been badly underprioritized in American society,” writes Meg LeDuc.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-23T08:30:00+00:00",
-    "date_str": "Sep 23, 2026"
-  },
-  {
-    "title": "STAT+: A private equity-owned hospital chain is becoming a nonprofit. Is it just a bailout for investors?",
-    "url": "https://www.statnews.com/2026/09/23/quorum-hospitals-nonprofit-conversion-increases-debt-load/?utm_campaign=rss",
-    "summary": "Other private equity-owned hospital chains have collapsed in recent years, so the stakes are high for Quorum.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-23T08:30:00+00:00",
-    "date_str": "Sep 23, 2026"
-  },
-  {
-    "title": "Will FDA advisers recommend a multi-cancer blood test for approval? They'll vote",
-    "url": "https://www.npr.org/2026/09/23/nx-s1-5978122/fda-blood-cancer-test-galleri",
-    "summary": "The company Grail says its Galleri blood test can detect up to 50 forms of cancer. An independent panel of experts will decide if the test should be recommended for FDA approval.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-23T10:00:00+00:00",
-    "date_str": "Sep 23, 2026"
-  },
-  {
-    "title": "Trump administration drops 760,000 Americans from ACA coverage, citing fraud",
-    "url": "https://www.npr.org/2026/09/23/nx-s1-5978044/trump-administration-drops-760-000-americans-from-aca-coverage-citing-fraud",
-    "summary": "Citing widespread fraud, JD Vance and Dr. Mehmet Oz announced 760,000 Americans had been kicked off health insurance purchased in the federal ACA marketplace. The move raises lots of questions.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-23T08:42:00+00:00",
-    "date_str": "Sep 23, 2026"
-  },
-  {
-    "title": "Trump administration to remove 760,000 Affordable Care Act enrollees over fraud claims",
-    "url": "https://www.npr.org/2026/09/23/g-s1-144623/trump-affordable-care-act",
-    "summary": "White House officials allege these individuals were fraudulently enrolled in the program or do not exist. Vice President Vance said the move would save $2.2 billion.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-23T05:26:31+00:00",
-    "date_str": "Sep 23, 2026"
-  },
-  {
-    "title": "Pelago Unveils New Behavioral Health Platform for Substance Use, Mental Health and Behavioral Addiction Care",
-    "url": "https://medcitynews.com/2026/09/pelago-unveils-new-behavioral-health-platform-for-substance-use-mental-health-and-behavioral-addiction-care/",
-    "summary": "Pelago launched a behavioral health platform that integrates substance use, mental health and behavioral addiction care, using AI-powered triage to connect patients with appropriate treatment. The post Pelago Unveils New Behavioral Health Platform for Substance Use, Mental Health and Behavioral Addiction Care appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-09-22T23:23:17+00:00",
-    "date_str": "Sep 22, 2026"
-  },
-  {
-    "title": "Is produce from a home garden safer than store bought? 'It depends'",
-    "url": "https://www.npr.org/2026/09/22/nx-s1-5972971-e1/is-produce-from-a-home-garden-safer-than-store-bought-it-depends",
-    "summary": "Home gardening is getting a boost, in part, from fears of foodborne illness. But is homegrown safer? Experts weigh in.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-22T20:56:10+00:00",
-    "date_str": "Sep 22, 2026"
-  },
-  {
-    "title": "Pediatric Acute Kidney Injury Cases Increased Tenfold Over Past 25 Years",
-    "url": "https://www.medpagetoday.com/nephrology/generalnephrology/123112",
-    "summary": "(MedPage Today) -- Hospitalizations complicated by acute kidney injury (AKI) surged among patients in pediatric units or children's hospitals over the past 25 years, a large retrospective study indicated. Among more than 24.3 million discharges...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-22T21:05:31+00:00",
-    "date_str": "Sep 22, 2026"
-  },
-  {
-    "title": "U.S. Cancer Mortality Declined 35% Since 1991, AACR Report Shows",
-    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/123111",
-    "summary": "(MedPage Today) -- The overall cancer mortality rate in the U.S. declined by 35% between 1991 and 2024, resulting in almost 5 million cancer deaths averted, according to the 2026 American Association for Cancer Research (AACR) Cancer Progress Report...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-22T20:48:24+00:00",
-    "date_str": "Sep 22, 2026"
-  },
-  {
-    "title": "Trump Administration to Remove 760,000 ACA Enrollees, Claiming Fraud",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/washington-watch/123110",
-    "summary": "(MedPage Today) -- Vice President JD Vance and other Trump administration officials said Tuesday they plan to remove 760,000 Affordable Care Act (ACA) enrollees from public healthcare exchanges, alleging that the individuals were fraudulently enrolled...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-22T20:17:36+00:00",
-    "date_str": "Sep 22, 2026"
-  },
-  {
-    "title": "Heidi lands $340M to build 'AI care partner' for clinicians",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/heidi-lands-340m-build-ai-care-partner-clinicians",
-    "summary": "Healthcare startup Heidi landed $340 million to fuel its push beyond clinical documentation into AI-powered workflow automation and agentic capabilities for clinicians.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-23T03:29:21.904957+00:00",
-    "date_str": "Sep 23, 2026"
-  },
-  {
-    "title": "As CMS overhauls provider tax policy, hospitals plead for minimal administrative burden, uncertainty",
-    "url": "https://www.fiercehealthcare.com/regulatory/cms-overhauls-provider-tax-policy-hospitals-plead-minimal-administrative-burden",
-    "summary": "Public comment letters from hospital associations asked the administration to stick to the status quo where possible, highlighting changes they said offer no benefit and could lead to unnecessary refunds and recoupment.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-23T03:29:21.905015+00:00",
     "date_str": "Sep 23, 2026"
   }
 ]
