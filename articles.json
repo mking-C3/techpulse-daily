@@ -1,5 +1,265 @@
 [
   {
+    "title": "US Poised To Boot Legal Immigrants From Medicaid, Including Refugees and Sex-Trafficking Victims",
+    "url": "https://kffhealthnews.org/medicaid/immigrants-kicked-off-medicaid-refugees-asylum-seekers-trump-big-beautiful-bill-cbo-2/",
+    "summary": "The Congressional Budget Office estimated 100,000 more immigrants will be uninsured by 2034 because of Medicaid eligibility changes under President Trump’s One Big Beautiful Bill Act that take effect Oct. 1. A KFF Health News survey of nine states found many more are at imminent risk of losing health coverage.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-30T09:00:00+00:00",
+    "date_str": "Sep 30, 2026"
+  },
+  {
+    "title": "AI Won’t Fix Social Care, But Could It Help Us Finally Make It Work?",
+    "url": "https://medcitynews.com/2026/09/ai-wont-fix-social-care-but-could-it-help-us-finally-make-it-work/",
+    "summary": "AI could play a meaningful role in advancing social care. Not by replacing people, but by helping them and organizations doing this work move faster, see patterns earlier, and coordinate more effectively. The post AI Won’t Fix Social Care, But Could It Help Us Finally Make It Work? appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-09-30T13:39:00+00:00",
+    "date_str": "Sep 30, 2026"
+  },
+  {
+    "title": "U.S. poised to boot legal immigrants from Medicaid, including refugees and sex-trafficking victims",
+    "url": "https://www.statnews.com/2026/09/30/legal-immigrants-risk-losing-medicaid-coverage-trump/?utm_campaign=rss",
+    "summary": "Hundreds of thousands of immigrants with legal status, including refugees and sex-trafficking victims, are at risk of losing government health coverage starting Oct. 1.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-30T15:50:06+00:00",
+    "date_str": "Sep 30, 2026"
+  },
+  {
+    "title": "STAT+: What health tech leaders are talking about in Washington policy circles",
+    "url": "https://www.statnews.com/2026/09/30/health-tech-policy-conversations-washington-ai-prognosis/?utm_campaign=rss",
+    "summary": "In this edition of AI Prognosis: Dispatches from Health Datapalooza and MAHA Institute Open Data Summit, and other health AI news.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-30T14:37:55+00:00",
+    "date_str": "Sep 30, 2026"
+  },
+  {
+    "title": "STAT+: Eli Lilly’s Zepbound combined with amylin drug led to significant weight loss in mid-stage trial",
+    "url": "https://www.statnews.com/2026/09/30/eli-lilly-zepbound-amylin-combination-drug-study/?utm_campaign=rss",
+    "summary": "An investigational combination therapy from Eli Lilly led to significant weight loss in a mid-stage study, but high discontinuation rates raise questions about tolerability.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-30T14:15:00+00:00",
+    "date_str": "Sep 30, 2026"
+  },
+  {
+    "title": "Rural MAHA followers say Trump hasn’t improved health of their communities, poll finds",
+    "url": "https://www.statnews.com/2026/09/30/rural-maha-followers-poll-trump-hasnt-improved-community-health/?utm_campaign=rss",
+    "summary": "About half of rural voters identify with MAHA movement, but most said President Trump’s health care policies have not benefited their communities, according to a new poll.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-30T14:12:49+00:00",
+    "date_str": "Sep 30, 2026"
+  },
+  {
+    "title": "STAT+: Three biotech updates, including accusations of theft and and a new lobbying leader",
+    "url": "https://www.statnews.com/2026/09/30/biotech-news-updates-accusations-of-theft-new-phrma-guy/?utm_campaign=rss",
+    "summary": "Beam Therapeutics has filed a lawsuit alleging one of its former scientists stole intellectual property and used it to co-found a Chinese company that recently made a deal with prominent VC…",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-30T13:39:27+00:00",
+    "date_str": "Sep 30, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Beam suing over IP theft, a Trump rule on importing meds, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/09/30/beam-sues-over-trade-secret-theft-trump-drug-import-rule/?utm_campaign=rss",
+    "summary": "Gene-editing company Beam Therapeutics is alleging that one of its scientists stole intellectual property and used it to co-found a Chinese company",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-30T13:35:50+00:00",
+    "date_str": "Sep 30, 2026"
+  },
+  {
+    "title": "CDC measles death count still lags Pennsylvania’s",
+    "url": "https://www.statnews.com/2026/09/30/health-news-cdc-measles-death-count-still-lags-pennsylvania/?utm_campaign=rss",
+    "summary": "Pennsylvania officials count four measles-related deaths this year. The CDC only counts two.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-30T11:59:12+00:00",
+    "date_str": "Sep 30, 2026"
+  },
+  {
+    "title": "After failed execution, health workers say Tennessee's method flouts medical ethics",
+    "url": "https://www.npr.org/2026/09/30/nx-s1-5981250/tennessee-execution-tony-carruthers-christa-pike-medical-ethics-lethal-injection",
+    "summary": "After a botched lethal injection in May, dozens of Tennessee medical professionals told the governor that healthcare professionals shouldn't help with executions, no matter the method.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-09-30T14:30:03+00:00",
+    "date_str": "Sep 30, 2026"
+  },
+  {
+    "title": "Safe and Effective Therapies for Unfit Elderly Patients With DLBCL",
+    "url": "https://www.medpagetoday.com/spotlight/dlbcl/123199",
+    "summary": "(MedPage Today) -- The average age at onset of diffuse large B-cell lymphoma (DLBCL) is about 65 years, and a significant proportion of patients will be 80 or older and frail or unfit. While chronologic age and tests to determine fitness or frailty...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-30T16:39:33+00:00",
+    "date_str": "Sep 30, 2026"
+  },
+  {
+    "title": "Treatment Strategies for Richter's Transformation to DLBCL Are Evolving",
+    "url": "https://www.medpagetoday.com/spotlight/dlbcl/123198",
+    "summary": "(MedPage Today) -- Richter's transformation (RT) occurs when chronic lymphocytic leukemia (CLL) changes into an aggressive lymphoma. Approximately 2% to 10% of patients with CLL progress to RT within a median time of 2 to 4 years from diagnosis...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-30T16:35:39+00:00",
+    "date_str": "Sep 30, 2026"
+  },
+  {
+    "title": "Poll: Rural MAHA Followers Say Trump Hasn't Improved Health of Their Communities",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/123197",
+    "summary": "(MedPage Today) -- About half of rural voters identify with Make America Healthy Again (MAHA), a sprawling political movement championed by the Trump administration, but most said President Donald Trump's healthcare policies have not benefited...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-30T16:25:40+00:00",
+    "date_str": "Sep 30, 2026"
+  },
+  {
+    "title": "CDC Raises Measles Death Count Again; MAHA Summit Takeaways; Kennedy's Vax AI Plans",
+    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/123196",
+    "summary": "(MedPage Today) -- The CDC has updated its measles death tally to two, but it remains shy of the four deaths reported by Pennsylvania. (The Hill) The agency has lost more employees during the second Trump administration than previously reported...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-30T15:02:08+00:00",
+    "date_str": "Sep 30, 2026"
+  },
+  {
+    "title": "CAR-T Therapy Shows Durable Benefits in Myasthenia Gravis",
+    "url": "https://www.medpagetoday.com/meetingcoverage/aanem/123195",
+    "summary": "(MedPage Today) -- Mivocabtagene autoleucel (miv-cel), an autologous CD19 chimeric antigen receptor (CAR)-T cell therapy, showed benefits lasting 6 months or longer for generalized myasthenia gravis patients in the phase II portion of the KYSA...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-30T14:47:30+00:00",
+    "date_str": "Sep 30, 2026"
+  },
+  {
+    "title": "Why Earlier Conversations About Long-Acting Injectables for Schizophrenia Matter",
+    "url": "https://www.medpagetoday.com/ad-insights/industry-clinic/123162",
+    "summary": "(MedPage Today) -- Bryce Reynolds, MD, at Carolina Outreach is a paid partner of Teva Pharmaceuticals. One of the biggest paradoxes in schizophrenia care is that some of our most established treatment options are still among the least utilized...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-30T14:00:00+00:00",
+    "date_str": "Sep 30, 2026"
+  },
+  {
+    "title": "RFK Jr. Dumps on U.S. Doctors; New Chief at PhRMA; Physician Wins 'Genius' Grant",
+    "url": "https://www.medpagetoday.com/neurology/parkinsonsdisease/123194",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. HHS Secretary Robert F. Kennedy Jr. said artificial intelligence is \"much better informed than any doctor in the country.\" (New York Times) Meanwhile, only about...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-30T13:34:23+00:00",
+    "date_str": "Sep 30, 2026"
+  },
+  {
+    "title": "Essentia, HealthPartners seek to combine amid wave of Minnesota hospital mergers",
+    "url": "https://www.healthcaredive.com/news/essentia-healthpartners-combine-amid-wave-minnesota-hospital-mergers/831685/",
+    "summary": "Three major health system mergers have been proposed in the state over the past six months, kicking off a rush of public hearings and regulatory reviews. Essentia and HealthPartners hope to close their deal early next year.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-09-30T16:00:48+00:00",
+    "date_str": "Sep 30, 2026"
+  },
+  {
+    "title": "Plan sponsors’ PBM satisfaction stable in 2026: PSG survey",
+    "url": "https://www.fiercehealthcare.com/payers/plan-sponsors-pbm-satisfaction-stable-2026-psg-survey",
+    "summary": "While topline satisfaction was near-even among respondents, the latest survey of 250 leaders saw an increase in scores for the big three and a decline for other PBMs.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-30T17:56:24.268010+00:00",
+    "date_str": "Sep 30, 2026"
+  },
+  {
+    "title": "Ex-Genentech, Meta, AWS AI leaders launch health AI lab with $500M backing",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/ex-genentech-meta-aws-ai-leaders-launch-health-ai-lab-500m-backing",
+    "summary": "The AI startup, Ortet plans to build a full-stack platform for health, spanning compute and data infrastructure, frontier research and model development and deployment.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-30T17:56:24.268058+00:00",
+    "date_str": "Sep 30, 2026"
+  },
+  {
+    "title": "Hospital outpatient departments' higher drug reimbursement rates drive $12.7B in spending: EBRI",
+    "url": "https://www.fiercehealthcare.com/payers/hospital-outpatient-departments-higher-drug-reimbursement-rates-drive-127b-spending-ebri",
+    "summary": "An analysis of commercial claims for 106 physician-administered outpatient drugs suggests $101 of additional plan spending per member per year stemming from site-of-treatment pay differences.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-30T17:56:24.268079+00:00",
+    "date_str": "Sep 30, 2026"
+  },
+  {
+    "title": "How Providence is tackling its climate footprint",
+    "url": "https://www.fiercehealthcare.com/hospitals/how-providence-tackling-its-climate-footprint",
+    "summary": "Senior Writer Anastassia Gliadkovskaya talks with Beth Schenk, Ph.D., chief environmental stewardship officer at Providence, about the climate impacts she has witnessed as a nurse and her health system’s sustainability journey.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-30T17:56:24.268103+00:00",
+    "date_str": "Sep 30, 2026"
+  },
+  {
+    "title": "Heidi launches AI agents to automate clinical administrative tasks",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/heidi-launches-new-platform-tackle-administrative-work-ai-agents",
+    "summary": "Artificial intelligence healthcare startup Heidi unveiled an upgraded version of its AI clinical assistant that moves beyond documenting patient visits to helping complete administrative tasks.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-30T17:56:24.268122+00:00",
+    "date_str": "Sep 30, 2026"
+  },
+  {
+    "title": "4 largest PBMs control 75% of U.S. market, AMA finds",
+    "url": "https://www.fiercehealthcare.com/payers/4-largest-pbms-control-75-national-market-70-2022-american-medical-association",
+    "summary": "The four largest PBMs by national market share were OptumRx (23%), Express Scripts (23%), CVS/Caremark (18%) and Prime Therapeutics (11%).",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-09-30T17:56:24.268139+00:00",
+    "date_str": "Sep 30, 2026"
+  },
+  {
+    "title": "White House begins mailing $500 ObamaCare 'refund' checks",
+    "url": "https://thehill.com/policy/healthcare/6120529-whitehouse-obamacare-refunds-mailing/",
+    "summary": "The White House began mailing $500 refund checks Wednesday to just about 1 million Americans who the administration says were overcharged for their ObamaCare insurance. Treasury Department checks will begin going out to more than 950,000 Americans across 30 states that use healthcare.gov, the federal marketplace where people sign up for ObamaCare health insurance, according...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-09-30T16:02:55+00:00",
+    "date_str": "Sep 30, 2026"
+  },
+  {
+    "title": "Senate panel advances Trump surgeon general nominee",
+    "url": "https://thehill.com/policy/healthcare/6108404-senate-advances-trump-surgeon-general-nominee/",
+    "summary": "President Trump's nominee for U.S. surgeon general advanced through a key Senate committee on Wednesday, setting up a glide path to a floor vote and confirmation. The Senate Health, Education, Labor and Pensions (HELP) Committee voted to advance Nicole Saphier along party lines, 12-11. But because this is the final week the Senate is in session...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-09-30T14:15:14+00:00",
+    "date_str": "Sep 30, 2026"
+  },
+  {
     "title": "Rural MAHA Followers Say Trump Health Policies Haven’t Reached Their Communities",
     "url": "https://kffhealthnews.org/rural-health/kff-ap-poll-rural-voters-maha-make-america-healthy-again-local-impact-midterms/",
     "summary": "President Donald Trump has championed sprawling health policy changes under the Make America Healthy Again movement, but a KFF-Associated Press survey of rural voters found people aren’t seeing the initiatives reach their communities.",
@@ -2137,266 +2397,6 @@
     "category": "Drug Coverage",
     "category_slug": "drug-coverage",
     "date": "2026-09-24T21:10:38.951485+00:00",
-    "date_str": "Sep 24, 2026"
-  },
-  {
-    "title": "Senate Finance Committee advances Klomp's nomination as HHS Deputy Secretary",
-    "url": "https://www.fiercehealthcare.com/regulatory/senate-finance-committee-advances-klomps-nomination-hhs-deputy-secretary",
-    "summary": "The Senate Finance Committee has advanced the nominees for two key Department of Health and Human Services posts.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-24T21:10:38.951512+00:00",
-    "date_str": "Sep 24, 2026"
-  },
-  {
-    "title": "Berry Street, Abbott partner to link Lingo CGM with nutrition coaching",
-    "url": "https://www.fiercehealthcare.com/digital-health/berry-street-abbott-partner-personalized-nutrition-coaching-through-lingo-glucose",
-    "summary": "Through the partnership, Abbott’s Lingo, an over-the-counter continuous glucose monitor, will now feature live nutrition coaching from Berry Street.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-24T21:10:38.951541+00:00",
-    "date_str": "Sep 24, 2026"
-  },
-  {
-    "title": "CDC adds 1 measles death to US tracker, while Pennsylvania reports disease killed 4",
-    "url": "https://thehill.com/policy/healthcare/6110065-cdc-adds-measles-death-pennsylvania/",
-    "summary": "The Centers for Disease Control and Prevention (CDC) added one measles death to its online database, marking the first fatal case the agency has acknowledged tied to the country's 2026 outbreak. While CDC's website does not list when and where the death occurred, the update follows weeks of criticism from Pennsylvania Gov. Josh Shapiro (D)...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-09-24T19:48:38+00:00",
-    "date_str": "Sep 24, 2026"
-  },
-  {
-    "title": "Senate committee advances Klomp as HHS No. 2",
-    "url": "https://thehill.com/policy/healthcare/6110064-senate-advances-chris-klomp-hhs/",
-    "summary": "A key Senate committee Thursday advanced the nomination of Chris Klomp to be deputy secretary of the Department of Health and Human Services (HHS), setting him up for a later floor vote for confirmation. The Senate Finance Committee voted 15-12, with Sen. Sheldon Whitehouse (D-R.I.) joining all Republicans. Klomp is already a powerful senior adviser...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-09-24T19:14:53+00:00",
-    "date_str": "Sep 24, 2026"
-  },
-  {
-    "title": "Anti-abortion group threatens to sue FDA over mifepristone",
-    "url": "https://thehill.com/policy/healthcare/6109450-anti-abortion-group-sues-fda/",
-    "summary": "The anti-abortion group Students for Life of America on Thursday filed a notice of intent to sue the Food and Drug Administration (FDA) over alleged inaction over the Endangered Species Act, an escalation of the group’s years-long effort to use environmental laws to restrict abortion drugs. The organization alleges more than 50 tons of...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-09-24T16:53:14+00:00",
-    "date_str": "Sep 24, 2026"
-  },
-  {
-    "title": "From OpenNotes to “Doc Can I Record You?” Why Physicians Should Embrace Era of Accountability",
-    "url": "https://medcitynews.com/2026/09/from-opennotes-to-doc-can-i-record-you-why-physicians-should-embrace-era-of-accountability/",
-    "summary": "Healthcare has a habit of embracing patient empowerment right up until patients become powerful. The post From OpenNotes to “Doc Can I Record You?” Why Physicians Should Embrace Era of Accountability appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-09-24T15:00:00+00:00",
-    "date_str": "Sep 24, 2026"
-  },
-  {
-    "title": "Modernizing Medicare Advantage for the Next Generation of Seniors",
-    "url": "https://medcitynews.com/2026/09/modernizing-medicare-advantage-for-the-next-generation-of-seniors/",
-    "summary": "The Centers for Medicare & Medicaid Services (CMS) took constructive steps in its 2027 final rule and rate announcement, particularly on payment integrity and quality measurement. But those steps are not the finish line. Policymakers should further modernize MA to strengthen competition, transparency and accountability. Here’s where to start. The post Modernizing Medicare Advantage for the Next Generation of Seniors appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-09-24T13:40:00+00:00",
-    "date_str": "Sep 24, 2026"
-  },
-  {
-    "title": "STAT+: Indonesian ruling against ‘patent evergreening’ by pharma industry sends critical message, patient advocates say",
-    "url": "https://www.statnews.com/pharmalot/2026/09/24/indonesian-court-rules-against-patent-evergreening-boosting-access-medicines/?utm_campaign=rss",
-    "summary": "A recent court decision in Indonesia sends an important message to other countries to challenge the pharma industry's use of \"patent evergreening,\" patient advocates say.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-24T14:57:54+00:00",
-    "date_str": "Sep 24, 2026"
-  },
-  {
-    "title": "STAT+: Kyverna’s cell therapy shows lasting autoimmune benefit",
-    "url": "https://www.statnews.com/2026/09/24/biotech-news-kyverna-cell-therapy-shows-lasting-autoimmune-benefit/?utm_campaign=rss",
-    "summary": "Kyverna Therapeutics is one step closer to launching the first cell therapy for an autoimmune disease, with new data in hand showing many patients remained off of other therapies a…",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-24T13:52:10+00:00",
-    "date_str": "Sep 24, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about the FDA commissioner nominee, a Lilly partnership in China, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/09/24/fda-commissioner-nominee-heidi-overton-lilly-china-partnership/?utm_campaign=rss",
-    "summary": "During a Senate hearing today, Heidi Overton, the nominee to lead the FDA, plans to emphasize the need for speed and efficiency to compete with China",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-24T13:21:50+00:00",
-    "date_str": "Sep 24, 2026"
-  },
-  {
-    "title": "STAT+: The rise of the AI-native radiology practice",
-    "url": "https://www.statnews.com/2026/09/24/the-rise-of-the-ai-native-radiology-practice-health-tech/?utm_campaign=rss",
-    "summary": "In this edition of STAT Health Tech: Radiology startups say owning a practice makes it easier to develop AI tools, and insurers oppose RPM changes.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-24T13:21:14+00:00",
-    "date_str": "Sep 24, 2026"
-  },
-  {
-    "title": "One of the most contagious diseases on the planet is having its worst U.S. outbreak since 1991",
-    "url": "https://www.statnews.com/2026/09/24/health-news-measles-contagious-outbreak-u-s-deaths-1991/?utm_campaign=rss",
-    "summary": "The CDC has added a single measles death to its online counter. In the last few weeks, four unvaccinated people have died from measles in Pennsylvania, according to state officials.…",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-24T11:52:28+00:00",
-    "date_str": "Sep 24, 2026"
-  },
-  {
-    "title": "10-Year Data Back Early Start to Biologics in Arthritic Diseases",
-    "url": "https://www.medpagetoday.com/rheumatology/arthritis/123129",
-    "summary": "(MedPage Today) -- Many patients treated with golimumab (Simponi) for newly diagnosed peripheral spondyloarthritis (pSpA) in a small trial achieved sustained drug-free remission after 10 years of follow-up, researchers found. With 49 of the trial...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-24T15:30:23+00:00",
-    "date_str": "Sep 24, 2026"
-  },
-  {
-    "title": "AI Hacks Health Network; White House Drops NIH Plan; RFK Jr. Makes Millions off MAHA",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/generalprofessionalissues/123128",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. An OpenAI agent hacked into an Australian national healthcare database, marking the first known case of an AI agent breaching a government network. (CNN) The White...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-24T13:33:54+00:00",
-    "date_str": "Sep 24, 2026"
-  },
-  {
-    "title": "FDA Advisors Recommend Galleri Multicancer Blood Test",
-    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/123127",
-    "summary": "(MedPage Today) -- With some trepidation, a majority of an FDA advisory committee Thursday endorsed the Galleri multicancer early detection blood test. By 6-4 and 7-2 (with one abstention) margins, the molecular and clinical genetics panel of...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-24T12:59:20+00:00",
-    "date_str": "Sep 24, 2026"
-  },
-  {
-    "title": "AI will inflate healthcare costs before lowering them, Oz says",
-    "url": "https://www.healthcaredive.com/news/ai-will-inflate-healthcare-costs-before-lowering-them-oz-says/831277/",
-    "summary": "AI will “turbocharge” medical billing and drive up costs in the short term, CMS Administrator Dr. Mehmet Oz warned Wednesday. But he said the pain is worth it for long-term savings.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-24T16:00:27+00:00",
-    "date_str": "Sep 24, 2026"
-  },
-  {
-    "title": "UnitedHealth names first chief administrative officer",
-    "url": "https://www.healthcaredive.com/news/unitedhealth-first-chief-administrative-officer-jodee-kozlak/831247/",
-    "summary": "Jodee Kozlak, a veteran of major multinational corporations, will join UnitedHealth this coming Monday to modernize and align the healthcare behemoth’s operations across its various businesses.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-24T13:22:58+00:00",
-    "date_str": "Sep 24, 2026"
-  },
-  {
-    "title": "Telerobotic surgery is advancing around the world. Will the US embrace it?",
-    "url": "https://www.healthcaredive.com/news/telerobotic-surgery-is-advancing-around-the-world-will-the-us-embrace-it/831238/",
-    "summary": "Medtech companies are preparing for a day when telesurgery, performed by a surgeon often hundreds of miles from the patient, could become a viable option for more people.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-23T13:00:00+00:00",
-    "date_str": "Sep 23, 2026"
-  },
-  {
-    "title": "Oracle Health rolls out AI solutions for RCM, oncology as part of broader healthcare, life sciences strategy",
-    "url": "https://www.fiercehealthcare.com/health-tech/oracle-health-ai-clinical-financial-research",
-    "summary": "Healthcare is entering an AI era, and the industry needs a fundamentally different architecture designed for AI from the start, Oracle Health executives said Wednesday.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-24T16:33:42.811237+00:00",
-    "date_str": "Sep 24, 2026"
-  },
-  {
-    "title": "FDA panel endorses first-of-a-kind cancer blood test from Grail",
-    "url": "https://thehill.com/policy/healthcare/fda-panel-cancer-blood-test-grail/",
-    "summary": "WASHINGTON (AP) — Federal health advisers on Wednesday endorsed a blood test designed to spot signs of various cancers in apparently healthy people while warning that it's far from clear how well the technology works. Grail Inc.’s Galleri test doesn't diagnose cancer but instead, with a single blood draw, looks for a signal that someone...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-09-23T23:10:29+00:00",
-    "date_str": "Sep 23, 2026"
-  },
-  {
-    "title": "Black Lung Disease Remains a Threat, but Federal Officials Delay Effort To Address It",
-    "url": "https://kffhealthnews.org/rural-health/coal-miners-black-lung-disease-silicosis-silica-dust-pneumoconiosis-trump-west-virginia/",
-    "summary": "The disease has long been a risk of coal mining, an industry the Trump administration is trying to reinvigorate.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-09-24T09:00:00+00:00",
-    "date_str": "Sep 24, 2026"
-  },
-  {
-    "title": "STAT+: Why Gilead can’t stop talking about its ambitions in immunology",
-    "url": "https://www.statnews.com/2026/09/24/gilead-immunology-inflammation-biotech-moderna-merck/?utm_campaign=rss",
-    "summary": "Gilead Sciences’ top executives have been emphatically bullish about the biotech’s years-long push to develop drugs for inflammatory and autoimmune diseases.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-24T10:30:00+00:00",
-    "date_str": "Sep 24, 2026"
-  },
-  {
-    "title": "STAT+: How a young doctor rose from rural New Mexico to FDA commissioner nominee",
-    "url": "https://www.statnews.com/2026/09/24/heidi-overton-profile-fda-commissioner-nominee/?utm_campaign=rss",
-    "summary": "What to know about Dr. Heidi Overton, Trump's pick to run the FDA, including her medical background and career trajectory.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-24T08:30:00+00:00",
-    "date_str": "Sep 24, 2026"
-  },
-  {
-    "title": "STAT+: In radiology, AI is blurring the line between technology development and clinical practice",
-    "url": "https://www.statnews.com/2026/09/24/radiology-ai-blurred-line-between-tech-development-clinical-practice/?utm_campaign=rss",
-    "summary": "A new wave of radiology practices are aggressively embracing AI: developing and deploying it in-house, and marketing themselves as 'AI-native.'",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-24T08:30:00+00:00",
-    "date_str": "Sep 24, 2026"
-  },
-  {
-    "title": "STAT+: Momentum is building for a big change to how doctors get paid",
-    "url": "https://www.statnews.com/2026/09/24/patients-first-act-congress-moves-on-doctor-pay-medicare-reform/?utm_campaign=rss",
-    "summary": "Congress is considering linking doctor payment rates to medical inflation under the proposed Patients First Act.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-24T08:30:00+00:00",
-    "date_str": "Sep 24, 2026"
-  },
-  {
-    "title": "STAT+: Trump boast on drug pricing policy overstated state-level interest in federal program",
-    "url": "https://www.statnews.com/2026/09/24/trump-medicaid-generous-model-state-interest/?utm_campaign=rss",
-    "summary": "President Trump and his aides boasted that every U.S. state wanted to participate in a drug pricing initiative through Medicaid. Several states said they weren't sure yet.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-24T08:30:00+00:00",
     "date_str": "Sep 24, 2026"
   }
 ]
