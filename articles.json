@@ -1,5 +1,35 @@
 [
   {
+    "title": "Journalists Evaluate Rural Voter Sentiment, MAHA Movement, and Gene-Editing Finding",
+    "url": "https://kffhealthnews.org/on-air/on-air-october-3-2026-kff-ap-rural-voter-poll-glp1-rfk-maha-summit-claude/",
+    "summary": "KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here’s a collection of their appearances.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-03T09:00:00+00:00",
+    "date_str": "Oct 03, 2026"
+  },
+  {
+    "title": "A hot tip to battle performance anxiety? 'Pretend flush' a mistake down the toilet",
+    "url": "https://www.npr.org/2026/10/03/nx-s1-5989391/a-hot-tip-to-battle-performance-anxiety-pretend-flush-a-mistake-down-the-toilet",
+    "summary": "Worried about stumbling before a high-stakes event, like a race or a job interview? Psychologist Cindra Kamphoff offers creative strategies to overcome the jitters and build confidence in the moment.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-03T09:00:00+00:00",
+    "date_str": "Oct 03, 2026"
+  },
+  {
+    "title": "What to know about Trump's MAHA-backed push for psychedelic research",
+    "url": "https://thehill.com/policy/healthcare/6125285-trump-administration-psychedelic-medicine-maha/",
+    "summary": "The Trump administration, under the influence of the Make America Healthy Again (MAHA) movement, is exploring the potential use of psychedelic substances in medicine — once a fringe topic that is now being heavily researched and invested in. The Food and Drug Administration (FDA) held a public hearing in September in which over 200 people requested...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-10-03T10:00:00+00:00",
+    "date_str": "Oct 03, 2026"
+  },
+  {
     "title": "Non-Covalent BTK Drug Wins Broad Approval in Most Common Leukemia",
     "url": "https://www.medpagetoday.com/hematologyoncology/leukemia/123263",
     "summary": "(MedPage Today) -- The FDA on Friday expanded the approval of pirtobrutinib (Jaypirca) in chronic lymphocytic leukemia or small lymphocytic lymphoma (CLL/SLL) to include the first-line treatment of adults whose cancers have no known 17p deletion...",
@@ -2367,36 +2397,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-09-28T14:55:21+00:00",
-    "date_str": "Sep 28, 2026"
-  },
-  {
-    "title": "STAT+: AbbVie wins FDA nod for Parkinson’s pill",
-    "url": "https://www.statnews.com/2026/09/28/biotech-news-abbvie-wins-fda-nod-for-parkinsons-pill/?utm_campaign=rss",
-    "summary": "The FDA has approved AbbVie’s once-daily Parkinson’s pill for sales, based on a late-stage study that showed the drug helped improve symptoms.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-28T13:40:32+00:00",
-    "date_str": "Sep 28, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about GLP-1s becoming lifestyle drugs, a setback for Merck and Daiichi, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/09/28/glp1-lifestyle-drug-marketing-merck-daiichi-lung-cancer-setback/?utm_campaign=rss",
-    "summary": "Once promoted as tools to address obesity as a medical issue, GLP-1 drugs are increasingly being marketed as a way to look and feel better",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-28T13:06:52+00:00",
-    "date_str": "Sep 28, 2026"
-  },
-  {
-    "title": "Tennessee's failed execution ignites a medical ethics debate",
-    "url": "https://www.npr.org/2026/09/28/nx-s1-5980299/tennessees-failed-execution-ignites-a-medical-ethics-debate",
-    "summary": "After a botched lethal injection in May, dozens of Tennessee medical professionals told the governor that healthcare professionals shouldn't help with executions, ever. No matter the method.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-28T22:26:33+00:00",
     "date_str": "Sep 28, 2026"
   }
 ]
