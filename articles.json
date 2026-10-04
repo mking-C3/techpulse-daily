@@ -1,5 +1,35 @@
 [
   {
+    "title": "Trump announces $90 payments for seniors’ Medicare premium costs ahead of midterm elections",
+    "url": "https://www.statnews.com/2026/10/04/trump-announces-90-dollar-payments-for-medicare-premiums/?utm_campaign=rss",
+    "summary": "President Trump is promising more payments to voters just ahead of the Nov. 3 midterm elections — this time for seniors' Medicare Part B premiums",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-04T16:58:12+00:00",
+    "date_str": "Oct 04, 2026"
+  },
+  {
+    "title": "'Better Informed Than Any Doctor in the Country': What We Heard This Week",
+    "url": "https://www.medpagetoday.com/opinion/what-we-heard/123253",
+    "summary": "(MedPage Today) -- \"It can give you a second opinion that is much better informed than any doctor in the country.\" -- Health Secretary Robert F. Kennedy Jr., appearing to suggest that patients should have more confidence in artificial intelligence...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-04T20:00:00+00:00",
+    "date_str": "Oct 04, 2026"
+  },
+  {
+    "title": "Ocular Myasthenia Gravis Scores Improve With Subcutaneous Treatment",
+    "url": "https://www.medpagetoday.com/meetingcoverage/aanem/123266",
+    "summary": "(MedPage Today) -- Subcutaneous efgartigimod PH20 (Vyvgart Hytrulo) met the primary endpoint in the phase III ADAPT OCULUS trial of people with ocular myasthenia gravis show, interim data showed. At 4 weeks, ocular myasthenia gravis patients treated...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-04T18:45:00+00:00",
+    "date_str": "Oct 04, 2026"
+  },
+  {
     "title": "Closing the Diagnostic Gap: Why Access to Allergy Care Isn’t Equal",
     "url": "https://medcitynews.com/2026/10/closing-the-diagnostic-gap-why-access-to-allergy-care-isnt-equal/",
     "summary": "Rural patients, Medicaid enrollees, and patients from underrepresented racial and ethnic groups are more likely to go undiagnosed, more likely to be misdiagnosed, and more likely to end up in an emergency department rather than an allergist’s office. The post Closing the Diagnostic Gap: Why Access to Allergy Care Isn’t Equal appeared first on MedCity News .",
@@ -2367,36 +2397,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-09-29T08:30:00+00:00",
-    "date_str": "Sep 29, 2026"
-  },
-  {
-    "title": "Opinion: Child health is the national security crisis we keep ignoring",
-    "url": "https://www.statnews.com/2026/09/29/childrens-health-national-security-military-labor-workforce-policy-fixes/?utm_campaign=rss",
-    "summary": "“National security begins in childhood,” write Tina L. Cheng, Stanley McChrystal, and James M. Perrin.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-29T08:30:00+00:00",
-    "date_str": "Sep 29, 2026"
-  },
-  {
-    "title": "Opinion: Massive SNAP cuts could mean more children are separated from their families",
-    "url": "https://www.statnews.com/2026/09/29/snap-cuts-states-health-child-welfare-cps-foster-care/?utm_campaign=rss",
-    "summary": "\"We should not make families poorer and then punish them for their poverty,\" write Sandy Santana and Kristen Weber of the National Center for Youth Law.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-09-29T08:30:00+00:00",
-    "date_str": "Sep 29, 2026"
-  },
-  {
-    "title": "Smart ring maker Oura postpones public listing due to 'uncertainty in the IPO market'",
-    "url": "https://www.fiercehealthcare.com/health-tech/smart-ring-maker-oura-postpones-public-listing-due-uncertainty-ipo-market",
-    "summary": "Smart ring maker and health tracking company Oura is postponing its previously announced initial public offering on Nasdaq due to \"uncertainty in the IPO market,\" the company announced Tuesday morning.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-09-29T12:11:40.015125+00:00",
     "date_str": "Sep 29, 2026"
   }
 ]
