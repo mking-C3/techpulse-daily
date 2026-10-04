@@ -1,5 +1,55 @@
 [
   {
+    "title": "Closing the Diagnostic Gap: Why Access to Allergy Care Isn’t Equal",
+    "url": "https://medcitynews.com/2026/10/closing-the-diagnostic-gap-why-access-to-allergy-care-isnt-equal/",
+    "summary": "Rural patients, Medicaid enrollees, and patients from underrepresented racial and ethnic groups are more likely to go undiagnosed, more likely to be misdiagnosed, and more likely to end up in an emergency department rather than an allergist’s office. The post Closing the Diagnostic Gap: Why Access to Allergy Care Isn’t Equal appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-04T13:48:00+00:00",
+    "date_str": "Oct 04, 2026"
+  },
+  {
+    "title": "Healthcare Privacy Leaders Look to AI to Improve Monitoring and Data Breach Investigations",
+    "url": "https://medcitynews.com/2026/10/healthcare-privacy-leaders-look-to-ai-to-improve-monitoring-and-data-breach-investigations/",
+    "summary": "At a recent symposium on privacy, experts discussed how AI supports a faster and oftentimes more insightful approach to data security, while identifying which privacy risks healthcare organizations must monitor. The post Healthcare Privacy Leaders Look to AI to Improve Monitoring and Data Breach Investigations appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-04T13:00:00+00:00",
+    "date_str": "Oct 04, 2026"
+  },
+  {
+    "title": "We Keep Treating Resistant Infections. We Rarely Ask Where the Resistance Came From.",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/123251",
+    "summary": "(MedPage Today) -- Every clinician who has cultured a resistant organism in the last few years has felt the same small chill: the list of drugs that will still work is shorter than it used to be. We manage it the way we manage most things in medicine...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-04T16:00:00+00:00",
+    "date_str": "Oct 04, 2026"
+  },
+  {
+    "title": "Why Now Is an Ideal Time for Flu Protection",
+    "url": "https://www.medpagetoday.com/infectiousdisease/vaccines/123250",
+    "summary": "(MedPage Today) -- It's October and time for flu shots. Medical experts urge getting a flu vaccination soon, before influenza starts spreading widely -- and to get up to date on protection against other fall respiratory viruses, too. Updated...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-04T14:00:00+00:00",
+    "date_str": "Oct 04, 2026"
+  },
+  {
+    "title": "RFK Jr.’s movement is in disarray",
+    "url": "https://www.politico.com/news/2026/10/04/rfk-kennedy-maha-tony-lyons-healthy-01105844",
+    "summary": "Tony Lyons, the leading organizer of the Make America Healthy Again movement, promised to raise $100 million to support Republicans this year. He’s nowhere close.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-04T14:00:00+00:00",
+    "date_str": "Oct 04, 2026"
+  },
+  {
     "title": "Head Start fight reaches tipping point as advocates push back against proposed Trump changes",
     "url": "https://thehill.com/homenews/education/6126823-head-start-programs-trump-reforms-hhs/",
     "summary": "The Trump administration is moving ahead with big changes to Head Start, the federal early childhood education program that serves low-income families, to the outcry of advocates who say the proposals will limit access to the program, currently serving 700,000 students. Interested parties have until Tuesday to submit their thoughts to the federal government on...",
@@ -2348,55 +2398,5 @@
     "category_slug": "drug-coverage",
     "date": "2026-09-29T12:11:40.015125+00:00",
     "date_str": "Sep 29, 2026"
-  },
-  {
-    "title": "DreaMed Wins FDA Clearance for CGM-Driven Insulin Automation Tool for Both Type 2 Injection Regimens",
-    "url": "https://medcitynews.com/2026/09/dreamed-wins-fda-clearance-for-cgm-driven-insulin-automation-tool-for-both-type-2-injection-regimens/",
-    "summary": "DreaMed Diabetes has received FDA 510(K) clearance for MODI, a mobile app that uses CGM (continuous glucose monitoring) data to provide insulin dosing recommendations for people with Type 2 diabetes who need both basal insulin and fast-acting injections. The post DreaMed Wins FDA Clearance for CGM-Driven Insulin Automation Tool for Both Type 2 Injection Regimens appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-09-28T23:12:46+00:00",
-    "date_str": "Sep 28, 2026"
-  },
-  {
-    "title": "New Coalition Launches to Expand Direct Contracting",
-    "url": "https://medcitynews.com/2026/09/new-coalition-launches-to-expand-direct-contracting/",
-    "summary": "The Association for Direct Care launched a coalition focused on expanding direct contracting to lower healthcare costs. The post New Coalition Launches to Expand Direct Contracting appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-09-28T22:59:02+00:00",
-    "date_str": "Sep 28, 2026"
-  },
-  {
-    "title": "First New Drug Approved for Idiopathic Nephrotic Syndrome in 70 Years",
-    "url": "https://www.medpagetoday.com/nephrology/generalnephrology/123168",
-    "summary": "(MedPage Today) -- The FDA expanded the indications for the B-cell depleter obinutuzumab (Gazyva) to include idiopathic nephrotic syndrome, the agency announced on Friday, the first new option for the rare kidney disease in more than half a century...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-28T17:14:25+00:00",
-    "date_str": "Sep 28, 2026"
-  },
-  {
-    "title": "Trump Uses Rare Authority to Cancel Nearly $1B in HHS Programs Approved by Congress",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/123167",
-    "summary": "(MedPage Today) -- President Donald Trump is canceling nearly $1 billion in spending approved by Congress, the White House announced on Friday, using a rare and contested power to axe funding for immigrant services and diversity-focused initiatives...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-28T16:07:07+00:00",
-    "date_str": "Sep 28, 2026"
-  },
-  {
-    "title": "She Developed a Rare Eye Disease After a Strep Infection",
-    "url": "https://www.medpagetoday.com/casestudies/ophthalmology/123163",
-    "summary": "(MedPage Today) -- A 53-year-old woman with severe eye symptoms had already seen multiple specialists before finally being diagnosed with a rare condition that's more often seen in children and young adults. The woman presented to a retina clinic...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-09-28T15:31:57+00:00",
-    "date_str": "Sep 28, 2026"
   }
 ]
