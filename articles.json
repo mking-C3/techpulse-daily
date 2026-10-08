@@ -1,5 +1,145 @@
 [
   {
+    "title": "‘Medicare for All’ Is Back. Now Comes the Hard Part.",
+    "url": "https://kffhealthnews.org/health-care-costs/medicare-for-all-proposals-universal-healthcare-implementation-difficult/",
+    "summary": "At a time when more than 100 million Americans carry medical debt, it’s easy to get behind a promise of free, or free-ish, no-hassle health care. But turning an inspirational slogan into law gets gnarly.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-08T09:00:00+00:00",
+    "date_str": "Oct 08, 2026"
+  },
+  {
+    "title": "Medical Debt Is Crushing Hospital Patients in Los Angeles. Health Officials May Have a Fix.",
+    "url": "https://kffhealthnews.org/health-industry/medical-debt-hospital-patients-los-angeles-county-charity-care-presumptive-eligibility/",
+    "summary": "In Los Angeles County, the nation’s most populous, a new system could screen hospital patients for financial aid, preventing hundreds of thousands from getting bills they can’t pay.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-08T09:00:00+00:00",
+    "date_str": "Oct 08, 2026"
+  },
+  {
+    "title": "STAT+: Roche inks drug discovery deal with Chinese biotech, focused on molecular glue medicines",
+    "url": "https://www.statnews.com/2026/10/08/roche-defand-therapeutics-drug-development-deal/?utm_campaign=rss",
+    "summary": "Roche has inked a drug discovery deal with Chinese biotech Defand Therapeutics, focused on molecular glue medicines.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-08T12:00:00+00:00",
+    "date_str": "Oct 08, 2026"
+  },
+  {
+    "title": "The Nobel boys club (again)",
+    "url": "https://www.statnews.com/2026/10/08/health-news-nobel-boys-club-again-2026-winners/?utm_campaign=rss",
+    "summary": "All six Nobel awardees in physiology or medicine, physics, and chemistry this year were men. Women make up 4% of laureates since the award’s inception.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-08T11:53:27+00:00",
+    "date_str": "Oct 08, 2026"
+  },
+  {
+    "title": "STAT+: Biotech companies are struggling to navigate Trump’s new tariffs",
+    "url": "https://www.statnews.com/2026/10/08/trump-tariffs-section-232-imported-prescription-drugs-challenge-biotech-companies/?utm_campaign=rss",
+    "summary": "Smaller biotech firms are trying to figure out how to win exemptions from Trump's import taxes.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-08T08:30:00+00:00",
+    "date_str": "Oct 08, 2026"
+  },
+  {
+    "title": "STAT+: Dozens of Democrats vie for slots on key House health committees",
+    "url": "https://www.statnews.com/2026/10/08/midterm-election-democrats-vie-for-roles-house-health-care-committees/?utm_campaign=rss",
+    "summary": "Power House health committees could get a lot of new members after the midterms.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-08T08:30:00+00:00",
+    "date_str": "Oct 08, 2026"
+  },
+  {
+    "title": "Opinion: How CMS plans to fix a major flaw in the 340B drug discount program",
+    "url": "https://www.statnews.com/2026/10/08/340b-drug-discount-program-cms-reform-proposal/?utm_campaign=rss",
+    "summary": "“A small, well-intended discount for safety net hospitals became a large institutional subsidy with expensive unintended consequences,” writes an HHS leader.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-08T08:30:00+00:00",
+    "date_str": "Oct 08, 2026"
+  },
+  {
+    "title": "Opinion: England and other nations are on the path toward eliminating hepatitis C. Why not the U.S.?",
+    "url": "https://www.statnews.com/2026/10/08/us-hepatitis-c-cure-medication-cost-elimination/?utm_campaign=rss",
+    "summary": "Eliminating hepatitis C is achievable — if the U.S. seriously invests in it, experts write.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-08T08:30:00+00:00",
+    "date_str": "Oct 08, 2026"
+  },
+  {
+    "title": "STAT+: Why this startup is taking its AI to predict breast cancer risk directly to patients",
+    "url": "https://www.statnews.com/2026/10/08/why-clairity-took-breast-cancer-risk-prediction-ai-directly-to-patients/?utm_campaign=rss",
+    "summary": "A startup didn't want to wait for doctors and insurers to get behind its breast-cancer risk prediction AI. So it's going directly to patients.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-08T08:30:00+00:00",
+    "date_str": "Oct 08, 2026"
+  },
+  {
+    "title": "Breast cancer can behave differently in older women. This physician is making more tailored treatments a reality",
+    "url": "https://www.statnews.com/2026/10/08/breast-cancer-research-older-women-neil-carleton-stat-wunderkind/?utm_campaign=rss",
+    "summary": "There’s increasing evidence that older women with breast cancer could benefit from more tailored treatments. STAT Wunderkind Neil Carleton is working to make that a reality.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-08T08:30:00+00:00",
+    "date_str": "Oct 08, 2026"
+  },
+  {
+    "title": "A mother-daughter quest to find fellow members of an ultra-rare genetic community",
+    "url": "https://www.statnews.com/2026/10/08/rare-disease-nicolaides-baraitser-syndrome-history-ncbrs-researchers/?utm_campaign=rss",
+    "summary": "“Don’t google,” the pediatric geneticist warned. It took me five years to disobey.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-08T08:30:00+00:00",
+    "date_str": "Oct 08, 2026"
+  },
+  {
+    "title": "Medical debt is crushing hospital patients in LA. Health officials may have a fix",
+    "url": "https://www.npr.org/2026/10/08/nx-s1-5991633/hospital-california-healthcare-medical-debt",
+    "summary": "In Los Angeles County, the nation's most populous, a new system could screen hospital patients for financial aid, preventing hundreds of thousands from getting bills they can't pay.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-08T09:00:00+00:00",
+    "date_str": "Oct 08, 2026"
+  },
+  {
+    "title": "New Maryland law requires radiologists inform patients of heart disease warning sign",
+    "url": "https://www.npr.org/2026/10/08/nx-s1-5993782/new-maryland-law-requires-radiologists-inform-patients-of-heart-disease-warning-sign",
+    "summary": "NPR's Michel Martin speaks with radiologist Dr. Lisa Mullen about a new Maryland law requiring that patients be notified if mammogram results show calcium deposits in blood vessels.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-08T08:44:58+00:00",
+    "date_str": "Oct 08, 2026"
+  },
+  {
+    "title": "PhRMA launches new legal challenge as CMS brings 'most favored nation' pricing to Medicare Part B",
+    "url": "https://www.fiercehealthcare.com/pharma/phrma-launches-new-legal-challenge-cms-brings-most-favored-nation-pricing-medicare-part-b",
+    "summary": "As the Trump administration advances plans to bring its “most favored nation” drug pricing model to Medicare Part B, the pharmaceutical industry’s top lobbying group is pushing back in court.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-08T12:52:10.162233+00:00",
+    "date_str": "Oct 08, 2026"
+  },
+  {
     "title": "Here's Why We're Boycotting the American Diabetes Association",
     "url": "https://www.medpagetoday.com/opinion/second-opinions/123301",
     "summary": "(MedPage Today) -- Why are members of the American Diabetes Association (ADA) boycotting their own professional society? Let me explain. The ADA is a charitable organization, but its thousands of \"members\" are really just subscribers. Professional...",
@@ -2257,146 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-10-02T18:26:05+00:00",
-    "date_str": "Oct 02, 2026"
-  },
-  {
-    "title": "Cancer GoFundMe Shut Down; 'Dialed Down' Drug Price Plan; Binge Drinking and Cancer",
-    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/123254",
-    "summary": "(MedPage Today) -- Citing \"factual misrepresentations,\" GoFundMe has shut down an online fundraiser that collected more than $700,000 for an 81-year-old man working odd jobs to help pay for his wife's cancer treatment. (People) A large study of...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-02T17:41:42+00:00",
-    "date_str": "Oct 02, 2026"
-  },
-  {
-    "title": "How Optum, Owensboro Health teamed up to build a virtual nursing program",
-    "url": "https://www.fiercehealthcare.com/payers/how-optum-owensboro-health-teamed-build-virtual-nursing-program",
-    "summary": "Owensboro Health is teaming up with Optum Insight to pair bedside nurses with virtual nurses to free up frontline clinicians to dedicate more time to patient care.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-02T21:51:19.819880+00:00",
-    "date_str": "Oct 02, 2026"
-  },
-  {
-    "title": "MultiCare Health System to launch new health plan",
-    "url": "https://www.fiercehealthcare.com/payers/multicare-health-system-launch-new-health-plan",
-    "summary": "The plan will be available to Medicare-eligible patients in Washington state’s Pierce, Thurston and Spokane counties, the organization says.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-02T21:51:19.819937+00:00",
-    "date_str": "Oct 02, 2026"
-  },
-  {
-    "title": "Weekly Rundown: Duke University launches digital twin program; Welldoc unveils AI-powered care loop",
-    "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-yosi-health-integrates-scheduling-intake-google-services-grindr-acquires",
-    "summary": "The latest news from Yosi Health, Grindr, K Health, Welldoc, Duke University and more.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-02T21:51:19.819971+00:00",
-    "date_str": "Oct 02, 2026"
-  },
-  {
-    "title": "Grassley calls on Trump administration to ban kratom 'NOW'",
-    "url": "https://thehill.com/homenews/senate/6126476-grassley-urges-trump-kratom-rule/",
-    "summary": "Sen. Chuck Grassley (R-Iowa) on Friday called on the Trump administration to finalize its proposed rule limiting the sale of kratom, a plant with opioid-like properties that can be bought over the counter. \"All Kratom is deadly it should NOT be sold at gas stations/vape stores/ANYWHERE Admin needs 2 put out final 7OH rule NOW...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-10-02T18:43:42+00:00",
-    "date_str": "Oct 02, 2026"
-  },
-  {
-    "title": "It’s Time We Reframe Healthcare Organizational Culture Using Behavioral Science",
-    "url": "https://medcitynews.com/2026/10/its-time-we-reframe-healthcare-organizational-culture-using-behavioral-science/",
-    "summary": "Data, behavioral insights, and experimentation can be used to understand how stress, motivation, and trust shape company culture. Positively changing company culture leads to direct improvements in patient health outcomes, clinician wellbeing, and company performance. The post It’s Time We Reframe Healthcare Organizational Culture Using Behavioral Science appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-02T13:12:00+00:00",
-    "date_str": "Oct 02, 2026"
-  },
-  {
-    "title": "What it’s like to wait for the call from the Nobel Prize committee",
-    "url": "https://www.statnews.com/2026/10/02/nobel-prize-2026-geneticist-mary-claire-king-long-waiting-not-getting-winner-call/?utm_campaign=rss",
-    "summary": "Ahead of this year's Nobel Prize announcements, STAT chatted with Mary-Claire King, who discovered the BRCA cancer mutations and is frequently mentioned in prize predictions.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-02T16:07:11+00:00",
-    "date_str": "Oct 02, 2026"
-  },
-  {
-    "title": "Access to addiction meds for young people has improved — but retention hasn’t",
-    "url": "https://www.statnews.com/2026/10/02/youth-opioid-treatment-retention-study-barriers-to-care/?utm_campaign=rss",
-    "summary": "Only a small fraction of young people with opioid use disorder receive addiction medications, and few stay on them for long, a study finds.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-02T15:00:00+00:00",
-    "date_str": "Oct 02, 2026"
-  },
-  {
-    "title": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000",
-    "url": "https://www.statnews.com/2026/10/02/ebola-outbreak-congo-4000-deaths/?utm_campaign=rss",
-    "summary": "Congo's Ebola outbreak has killed more than 4,000 people, authorities said, as they struggle to contain what has become the fastest-growing Ebola outbreak in history.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-02T14:25:00+00:00",
-    "date_str": "Oct 02, 2026"
-  },
-  {
-    "title": "STAT+: Lilly bypasses Australian pharmacies with DTC model",
-    "url": "https://www.statnews.com/2026/10/02/biotech-news-lilly-bypasses-australian-phramacies-with-dtc-model/?utm_campaign=rss",
-    "summary": "Eli Lilly is launching LillyDirect to deliver Mounjaro straight to Australian patients’ doors — and local doctors and pharmacists aren’t thrilled.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-02T13:58:31+00:00",
-    "date_str": "Oct 02, 2026"
-  },
-  {
-    "title": "STAT+: Up and down the ladder: The latest comings and goings",
-    "url": "https://www.statnews.com/pharmalot/2026/10/02/up-and-down-the-ladder-comings-goings-pharma-biotech-jobs/?utm_campaign=rss",
-    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-02T13:20:02+00:00",
-    "date_str": "Oct 02, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about the 340B drug pilot program, an obesity drug disappointment, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/10/02/340b-drug-pilot-program-boehringer-zealand-obesity-trial/?utm_campaign=rss",
-    "summary": "The U.S. approved 10 drugmakers to participate in a 340B pilot program that will allow them to offer rebates, instead of upfront discounts, to certain providers",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-02T13:11:16+00:00",
-    "date_str": "Oct 02, 2026"
-  },
-  {
-    "title": "AI Research Boot Camp; Work Hour Protections Threatened? Redefining Measles Deaths",
-    "url": "https://www.medpagetoday.com/podcasts/anamnesis/123248",
-    "summary": "(MedPage Today) -- The following is a transcript of the podcast episode: Rachael Robertson: Hey everybody! Welcome to MedPod Today, the podcast series where MedPage Today reporters share deeper insight into the week's biggest healthcare stories...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-02T15:27:23+00:00",
-    "date_str": "Oct 02, 2026"
-  },
-  {
-    "title": "More Evidence for Shorter Radiation Regimen in High-Risk Breast Cancer",
-    "url": "https://www.medpagetoday.com/meetingcoverage/astro/123247",
-    "summary": "(MedPage Today) -- Hypofractionated postmastectomy radiotherapy continued to provide locoregional control for patients with high-risk breast cancer, 10-year data from a phase III trial showed. At 10 years, the cumulative locoregional recurrence...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-02T15:12:23+00:00",
     "date_str": "Oct 02, 2026"
   }
 ]
