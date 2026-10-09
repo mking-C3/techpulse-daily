@@ -1,5 +1,125 @@
 [
   {
+    "title": "AI, Tech Leaders Are Lobbying Trump Health Officials in a Government-Run Chat Room",
+    "url": "https://kffhealthnews.org/health-industry/ai-tech-lobbying-medicare-medical-records-apps-trump-cms-slack-fda/",
+    "summary": "A Slack workspace managed by the Centers for Medicare & Medicaid Services has served as an extraordinary war room for AI industry insiders and Trump administration officials to launch a rapid campaign aimed at persuading Americans to manage their healthcare and medical records on apps.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-09T09:00:00+00:00",
+    "date_str": "Oct 09, 2026"
+  },
+  {
+    "title": "‘We Are Seen as Disposable’: Rural Residents Fight a Proposed Gas Pipeline",
+    "url": "https://kffhealthnews.org/rural-health/pipeline-natural-gas-rural-areas-risks-enbridge-north-carolina-research-triangle/",
+    "summary": "Research shows natural gas pipelines — and the public health risks they carry — are concentrated in low-income and minority areas where people suffer higher rates of poverty and physical disabilities and have fewer means to respond to crises.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-09T09:00:00+00:00",
+    "date_str": "Oct 09, 2026"
+  },
+  {
+    "title": "STAT+: Will MAHA survive the midterms?",
+    "url": "https://www.statnews.com/2026/10/09/maha-movement-rfk-jr-campaign-trail-midterm-elections/?utm_campaign=rss",
+    "summary": "As the midterm elections draw near, the MAHA movement is nearly invisible on the campaign trail and struggling to find a financial or messaging foothold in key races.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-09T08:30:00+00:00",
+    "date_str": "Oct 09, 2026"
+  },
+  {
+    "title": "Opinion: Proposed U.S. census changes could be catastrophic for public health",
+    "url": "https://www.statnews.com/2026/10/09/2030-census-public-health-data-equity-morbidity-mortality/?utm_campaign=rss",
+    "summary": "“Erasing data does not erase need or harm,” writes social epidemiologist Nancy Krieger.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-09T08:30:00+00:00",
+    "date_str": "Oct 09, 2026"
+  },
+  {
+    "title": "Opinion: 50 years ago, my colleagues and I pursued basic research science that became revolutionary",
+    "url": "https://www.statnews.com/2026/10/09/robert-gallo-interleukin-2-human-retroviruses-immunotherapy-basic-science/?utm_campaign=rss",
+    "summary": "“Basic studies led to clinical and translational advances that no one could have predicted,” Robert Gallo writes of his work with interleukin-2.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-09T08:30:00+00:00",
+    "date_str": "Oct 09, 2026"
+  },
+  {
+    "title": "The fall of Roe dramatically changed abortion access. This researcher used Reddit to capture how",
+    "url": "https://www.statnews.com/2026/10/09/betsy-pleasants-stat-wunderkind-abortion-access-reddit-nlp/?utm_campaign=rss",
+    "summary": "With research on abortion access barriers, STAT Wunderkind Betsy Pleasants is defining a framework for using AI tools without losing sight of the people behind the data.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-09T08:30:00+00:00",
+    "date_str": "Oct 09, 2026"
+  },
+  {
+    "title": "Why we remember: One student's journey into memory",
+    "url": "https://www.npr.org/2026/10/09/nx-s1-5986352/memory-family-burger-king-grandfather",
+    "summary": "Why one teen can't let go of the time he ate fries with his great-grandpa.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-09T09:00:00+00:00",
+    "date_str": "Oct 09, 2026"
+  },
+  {
+    "title": "ChatGPT for Teens has special safeguards. A watchdog group finds most don't work",
+    "url": "https://www.npr.org/2026/10/09/nx-s1-5995514/chatgpt-openai-teens-mental-health",
+    "summary": "A study from Common Sense Media says most safeguards in ChatGPT for Teens failed. The chatbot talks to teens like a friend and doesn't alert parents when users talk about self-harm and suicide.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-09T09:00:00+00:00",
+    "date_str": "Oct 09, 2026"
+  },
+  {
+    "title": "A student hated reading for years. Her podcast explores finding the right diagnosis",
+    "url": "https://www.npr.org/2026/10/09/nx-s1-5977043/dyslexia-teenager-diagnosis-reading",
+    "summary": "Middle schooler Cora Walsh of Long Island, N.Y., has won the 2026 NPR Student Podcast Challenge with a story about her journey with dyslexia.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-09T09:00:00+00:00",
+    "date_str": "Oct 09, 2026"
+  },
+  {
+    "title": "RFK Jr. touts vaccine injury initiative, worrying experts",
+    "url": "https://www.npr.org/2026/10/09/nx-s1-5995393/rfk-jr-touts-vaccine-injury-initiative-worrying-experts",
+    "summary": "Heath Secretary Robert F. Kennedy Jr. announces new steps aimed at identifying and treating complications from vaccines.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-09T08:26:30+00:00",
+    "date_str": "Oct 09, 2026"
+  },
+  {
+    "title": "House Dem seeks IG investigation of HHS claims in DOGE lawsuits",
+    "url": "https://thehill.com/policy/healthcare/6138333-democrat-bobby-scott-rfk-jr-hhs-doge-lawsuits-misinformation-claims/",
+    "summary": "A top House Democrat said he is concerned the Department of Health and Human Services (HHS) provided incorrect or fraudulent information as part of ongoing lawsuits into the Department of Government Efficiency’s (DOGE) infiltration of government information systems and wants the agency’s inspector general to investigate. In a letter sent Friday and shared first with...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-10-09T12:00:00+00:00",
+    "date_str": "Oct 09, 2026"
+  },
+  {
+    "title": "GOP frustrates MAHA allies, risking midterm support from key voting bloc",
+    "url": "https://thehill.com/policy/healthcare/6137718-maha-activists-gop-frustrations/",
+    "summary": "Make America Healthy Again (MAHA) activists are growing frustrated with Republican leaders following a series of what many see are serious betrayals of the movement. The growing divide between the two comes just ahead of the midterm elections, where the GOP is already facing headwinds. The latest setback is the farm bill, supported by Republicans...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-10-09T10:00:00+00:00",
+    "date_str": "Oct 09, 2026"
+  },
+  {
     "title": "Trump administration investigates 9 universities for alleged visa fraud",
     "url": "https://www.statnews.com/2026/10/08/trump-administration-investigates-universities-j1-visa-fraud/?utm_campaign=rss",
     "summary": "This story has been updated. The Trump administration announced Thursday that it is investigating nine universities for alleged fraud related to visas commonly used by postdoctoral researchers, a core part…",
@@ -2277,126 +2397,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-10-05T10:00:11+00:00",
-    "date_str": "Oct 05, 2026"
-  },
-  {
-    "title": "STAT+: Are stem cells the next peptides? These advocates think RFK Jr. could make it happen",
-    "url": "https://www.statnews.com/2026/10/05/stem-cell-industry-seeks-fda-regulation-like-peptides/?utm_campaign=rss",
-    "summary": "Peptides gained legitimacy at the FDA after being embraced by MAHA. Advocates hope stem cell treatments will follow the same path.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-05T08:30:00+00:00",
-    "date_str": "Oct 05, 2026"
-  },
-  {
-    "title": "Opinion: Will Claude ever win a Nobel Prize for medicine?",
-    "url": "https://www.statnews.com/2026/10/05/could-ai-win-nobel-prize-medicine/?utm_campaign=rss",
-    "summary": "“Are we entering a world in which some (or all) Nobels will be awarded to Claude, ChatGPT, or their AI successors, rather than human scientists?” asks Jeffrey Flier.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-05T08:30:00+00:00",
-    "date_str": "Oct 05, 2026"
-  },
-  {
-    "title": "STAT+: Divergent trial results on cancer vaccines have the field grappling with hard questions",
-    "url": "https://www.statnews.com/2026/10/05/cancer-vaccines-mrna-clinical-trials/?utm_campaign=rss",
-    "summary": "A melanoma vaccine succeeded in a late-stage clinical trial. The question now is whether other cancer vaccines will work — and whether mRNA is up to the task.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-05T08:30:00+00:00",
-    "date_str": "Oct 05, 2026"
-  },
-  {
-    "title": "STAT+: Hospital and pharmaceutical prices are smothering America’s businesses",
-    "url": "https://www.statnews.com/2026/10/05/hospital-bills-drug-prices-insurance-premiums-spiral-part-5-out-of-pocket-series/?utm_campaign=rss",
-    "summary": "Workers and employers are drowning in their health insurance premiums. The reason for that deluge: the health care industry’s high and inscrutable prices.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-05T08:30:00+00:00",
-    "date_str": "Oct 05, 2026"
-  },
-  {
-    "title": "Opinion: Energy drinks’ new college sports partnerships make them more dangerous than ever",
-    "url": "https://www.statnews.com/2026/10/05/energy-drinks-public-health-college-sports-partnerships-research/?utm_campaign=rss",
-    "summary": "“In the absence of population-based evidence, the energy drink cabal is having an easy time of it,” writes Kent Sepkowitz.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-05T08:30:00+00:00",
-    "date_str": "Oct 05, 2026"
-  },
-  {
-    "title": "Republicans and Democrats find a unifying target: Pharmacy benefit managers",
-    "url": "https://www.npr.org/2026/10/05/nx-s1-5943563/pharmacy-benefit-managers-pbms-tennessee-arkansas-regulation",
-    "summary": "Republicans and Democrats, both patients and politicians, seem united in their disdain for the healthcare companies known as pharmacy benefit managers. Tennessee and Arkansas are regulating them now.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-05T09:00:00+00:00",
-    "date_str": "Oct 05, 2026"
-  },
-  {
-    "title": "From floating saunas to clinical trials: How heat might help mental health",
-    "url": "https://www.npr.org/2026/10/05/nx-s1-5979044/sauna-heat-therapy-mental-health-depression",
-    "summary": "While scientists have a decent understanding of how sauna and other forms of heat exposure exercises our cardiovascular system, they know relatively little about its impact on mental health.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-05T09:00:00+00:00",
-    "date_str": "Oct 05, 2026"
-  },
-  {
-    "title": "Why patient access problems are workflow problems",
-    "url": "https://www.healthcaredive.com/spons/why-patient-access-problems-are-workflow-problems/831721/",
-    "summary": "Patient access problems often start with fragmented workflows, not staffing alone.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-05T09:00:00+00:00",
-    "date_str": "Oct 05, 2026"
-  },
-  {
-    "title": "The real opportunity for agentic AI in health insurance",
-    "url": "https://www.healthcaredive.com/spons/the-real-opportunity-for-agentic-ai-in-health-insurance/831573/",
-    "summary": "The health insurance industry does not simply need another point solution. It needs the connective tissue that allows existing investments to collaborate.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-05T09:00:00+00:00",
-    "date_str": "Oct 05, 2026"
-  },
-  {
-    "title": "Datavant, ID.me partner on digital identity verification for medical records",
-    "url": "https://www.fiercehealthcare.com/health-tech/datavant-idme-partner-digital-identity-verification-medical-records",
-    "summary": "Datavant has teamed up with ID.me to streamline medical records requests, enabling patients to verify their identities digitally and access records faster.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-05T13:42:05.284867+00:00",
-    "date_str": "Oct 05, 2026"
-  },
-  {
-    "title": "The Hidden Cost of Fragmented Provider Data: A shared provider data foundation, finally within reach.",
-    "url": "https://www.fiercehealthcare.com/sponsored/hidden-cost-fragmented-provider-data",
-    "summary": "Fragmented provider data compounds costs, provider burden, and member access gaps in Medicaid. Learn why shared infrastructure matters.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-05T13:42:05.284911+00:00",
-    "date_str": "Oct 05, 2026"
-  },
-  {
-    "title": "Grindr acquires HIV prevention telehealth provider for $250M",
-    "url": "https://www.fiercehealthcare.com/health-tech/grindr-acquires-hiv-prevention-telehealth-provider-250m",
-    "summary": "Executives say the transaction marks the “first major acquisition” since its founding and underscores the company's ambition to evolve beyond dating and expand into health and wellness.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-05T13:42:05.284947+00:00",
     "date_str": "Oct 05, 2026"
   }
 ]
