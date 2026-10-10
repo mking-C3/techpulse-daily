@@ -1,5 +1,35 @@
 [
   {
+    "title": "Journalists Go Behind Health Headlines From Georgia, Michigan, and Russia",
+    "url": "https://kffhealthnews.org/on-air/on-air-october-10-2026-dementia-sedation-drugs-russia-lab-death-rural-voters/",
+    "summary": "KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here’s a collection of their appearances.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-10T09:00:00+00:00",
+    "date_str": "Oct 10, 2026"
+  },
+  {
+    "title": "Ongoing lawsuits allege GLP-1s can cause serious harm. But we don't know how often",
+    "url": "https://www.npr.org/2026/10/10/nx-s1-5996652/glp1-fda-naion-blind-lawsuit-ozempic",
+    "summary": "Scant data about serious adverse effects makes it harder to answer scientific and legal questions about how often the drugs might cause serious harm like blindness or pancreatitis.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-10T11:00:00+00:00",
+    "date_str": "Oct 10, 2026"
+  },
+  {
+    "title": "What to know about 7-OH, MGPI, the synthetic kratom extracts known as 'gas station opioid'",
+    "url": "https://thehill.com/policy/healthcare/6140069-kratom-extracts-federal-authorities/",
+    "summary": "Federal authorities and lawmakers are cracking down on synthetic concentrates of kratom, an herbal product sold legally over the counter in most states, as concerns rise over their risk to public health. The Drug Enforcement Administration (DEA) signaled heightened concerns about kratom-derived extracts earlier this year when it announced plans to temporarily ban products containing concentrations...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-10-10T10:00:00+00:00",
+    "date_str": "Oct 10, 2026"
+  },
+  {
     "title": "Decades-Old Schizophrenia Drug Wins Approval for New Formulation",
     "url": "https://www.medpagetoday.com/psychiatry/schizophrenia/123353",
     "summary": "(MedPage Today) -- The FDA approved an easier-to-use once-monthly subcutaneous injectable form of olanzapine (Weltruza) for schizophrenia in adults, Teva Pharmaceuticals announced on Friday. A decades-old drug, olanzapine in its oral form is the...",
@@ -2367,36 +2397,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-10-05T20:13:42+00:00",
-    "date_str": "Oct 05, 2026"
-  },
-  {
-    "title": "STAT+: Nobel-winning optogenetics research has led to experimental treatments for blindness and Alzheimer’s",
-    "url": "https://www.statnews.com/2026/10/05/2026-nobel-prize-winning-optogenetics-research-explained/?utm_campaign=rss",
-    "summary": "Optogenetics is now the foundational way through which we are able to understand how the brain works",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-05T20:08:24+00:00",
-    "date_str": "Oct 05, 2026"
-  },
-  {
-    "title": "STAT+: New Trump regulations would clean up health care pricing disclosures",
-    "url": "https://www.statnews.com/2026/10/05/trump-kennedy-transparency-in-coverage-regulations-health-care-prices-disclosure/?utm_campaign=rss",
-    "summary": "The Trump administration is continuing its effort to bring more transparency to the cost of health care.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-05T18:33:57+00:00",
-    "date_str": "Oct 05, 2026"
-  },
-  {
-    "title": "STAT+: Prices, prices, prices",
-    "url": "https://www.statnews.com/2026/10/05/health-care-prices-make-care-insurance-expensive-health-care-inc/?utm_campaign=rss",
-    "summary": "Why is health insurance so expensive? Read the latest stort in STAT's \"Out of Pocket, Out of Reach\" series to find out.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-05T16:38:08+00:00",
     "date_str": "Oct 05, 2026"
   }
 ]
