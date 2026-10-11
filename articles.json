@@ -1,5 +1,35 @@
 [
   {
+    "title": "Don't be scared: Being afraid is outright fun, and maybe useful",
+    "url": "https://www.npr.org/2026/10/11/nx-s1-5973128/dont-be-scared-being-afraid-is-outright-fun-and-maybe-useful",
+    "summary": "Listeners of NPR's Weekend Edition Sunday may already know that host Ayesha Rascoe loves horror. But why do scream queens (and kings) like her like what's frightening? The answer may surprise you.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-11T12:00:00+00:00",
+    "date_str": "Oct 11, 2026"
+  },
+  {
+    "title": "A heroic, 7-day bike ride made this teen a global star. Where is she now?",
+    "url": "https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic",
+    "summary": "Her epic ride — carrying her injured dad on her $20 hot pink bicycle — made headlines. Promises were made — financial help, training for a cycling career, even a movie deal. Were any of them kept?",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-11T11:28:15+00:00",
+    "date_str": "Oct 11, 2026"
+  },
+  {
+    "title": "Sweating the details: Sauna's potential health benefits draw scientists' interest",
+    "url": "https://www.npr.org/2026/10/11/nx-s1-5996655/heat-therapy-sauna-thermoregulation-health-benefits",
+    "summary": "A group of international researchers is pushing to rigorously study the potential health benefits of sauna and other heat therapies. They hope to bring scientific legitimacy to the age-old practices.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-11T10:00:00+00:00",
+    "date_str": "Oct 11, 2026"
+  },
+  {
     "title": "Americans trust science more than peers around the world, survey shows",
     "url": "https://www.statnews.com/2026/10/10/u-s-trust-science-higher-than-other-nations-wellcome-survey/?utm_campaign=rss",
     "summary": "Just 40 percent of Americans reported a lot of confidence in U.S. hospitals and health clinics, the same proportion as in Portugal and Uruguay.",
@@ -2368,35 +2398,5 @@
     "category_slug": "healthcare-policy",
     "date": "2026-10-06T09:00:00+00:00",
     "date_str": "Oct 06, 2026"
-  },
-  {
-    "title": "Kenya confirms first Ebola case imported from Congo after patient dies in Nairobi",
-    "url": "https://thehill.com/policy/healthcare/kenya-confirms-first-ebola-case-imported-from-congo/",
-    "summary": "NAIROBI, Kenya (AP) — Kenya’s Health Ministry on Tuesday confirmed the country’s first imported Ebola case from Congo. Health Minister Aden Duale said a Kenyan citizen who arrived in the country on Saturday from Congo via Uganda had been isolated and treated at Nairobi Hospital. The patient tested positive for the Ebola virus after developing...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-10-06T10:55:50+00:00",
-    "date_str": "Oct 06, 2026"
-  },
-  {
-    "title": "Poll: Democrats hold major advantage on health care costs",
-    "url": "https://thehill.com/policy/healthcare/6130630-voters-trust-democrats-health-costs/",
-    "summary": "Health care costs remain a top affordability concern for voters, who trust Democrats over Republicans on the issue by a nearly two-to-one margin, according to a new poll from health research group KFF. Six in 10 voters said they are worried about being able to afford their health care, including the cost of health insurance...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-10-06T09:00:00+00:00",
-    "date_str": "Oct 06, 2026"
-  },
-  {
-    "title": "Nobel Medicine Prize Goes to 3 Scientists for Research Into Brain Activity",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/generalprofessionalissues/123270",
-    "summary": "(MedPage Today) -- STOCKHOLM -- The Nobel Prize in medicine was awarded Monday to three scientists whose work led to a tool that uses light to help unravel how the brain works. Karl Deisseroth, MD, PhD, Peter Hegemann, PhD, and Georg Nagel...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-05T14:46:17+00:00",
-    "date_str": "Oct 05, 2026"
   }
 ]
