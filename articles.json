@@ -1,5 +1,215 @@
 [
   {
+    "title": "Fears About Kids’ Online Safety Unite Democrats and Republicans",
+    "url": "https://kffhealthnews.org/elections/online-safety-children-kosa-legislation-unites-democrats-republicans-big-tech/",
+    "summary": "Amid a decline in youth mental health, momentum builds for a federal crackdown on social media companies over protections for kids.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-13T09:00:00+00:00",
+    "date_str": "Oct 13, 2026"
+  },
+  {
+    "title": "The Sometimes-Awkward Art of Asking for a Second Opinion",
+    "url": "https://kffhealthnews.org/health-industry/healthq-second-opinions-doctors-how-to-ask-for/",
+    "summary": "A doctor has recommended a course of action that is invasive, expensive, or somehow different from what you'd prefer. Is it OK to get a second opinion? The answer is yes. Here’s how to make the ask a little less awkward.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-13T09:00:00+00:00",
+    "date_str": "Oct 13, 2026"
+  },
+  {
+    "title": "People Say These Peptides Hurt Them. Their Stories Are Muffled in MAHA’s Push for Medical Freedom.",
+    "url": "https://kffhealthnews.org/public-health/peptides-experimental-drugs-patient-harms-maha-medical-freedom/",
+    "summary": "People who have taken experimental peptides, such as BPC-157, complain of migraines, eye pain, fatigue, and more. Learning whether these popular but unproven drugs are to blame may become harder if Robert F. Kennedy Jr. fulfills a promise to make them more accessible.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-13T09:00:00+00:00",
+    "date_str": "Oct 13, 2026"
+  },
+  {
+    "title": "What Corporate Venture Funds Get Wrong about Strategic Value",
+    "url": "https://medcitynews.com/2026/10/what-corporate-venture-funds-get-wrong-about-strategic-value/",
+    "summary": "Corporate venture funds often chase financial returns while ignoring strategic value. Here’s what it takes to turn healthcare portfolio investments into lasting business impact. The post What Corporate Venture Funds Get Wrong about Strategic Value appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-13T13:21:00+00:00",
+    "date_str": "Oct 13, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about concerns over a rare disease drug, pharma payments to docs, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/10/13/neurocrine-rare-disease-drug-concerns-pharma-payments-to-doctors/?utm_campaign=rss",
+    "summary": "Patient advocates and some experts are expressing growing alarm over the perceived risks of a Neurocrine Biosciences rare disease drug",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-13T13:29:22+00:00",
+    "date_str": "Oct 13, 2026"
+  },
+  {
+    "title": "STAT+: Takeaways from an evaluation of Google’s diagnostic chatbot, AMIE",
+    "url": "https://www.statnews.com/2026/10/13/google-amie-diagnostic-chatbot-study-lancet-health-tech/?utm_campaign=rss",
+    "summary": "In this edition of STAT Health Tech: A look at a study recently published in The Lancet about Google's diagnostic chatbot, AMIE.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-13T13:13:25+00:00",
+    "date_str": "Oct 13, 2026"
+  },
+  {
+    "title": "How many ways can the Trump administration clamp down on international researchers?",
+    "url": "https://www.statnews.com/2026/10/13/health-news-trump-admin-clamps-down-on-international-researchers/?utm_campaign=rss",
+    "summary": "In the span of two days last week, the Trump administration issued two sweeping announcements meant to crack down on international students and scholars, who make up a sizable portion…",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-13T11:46:54+00:00",
+    "date_str": "Oct 13, 2026"
+  },
+  {
+    "title": "Opinion: Lethal injection will never be the same after Christa Pike’s botched execution",
+    "url": "https://www.statnews.com/2026/10/13/christa-pike-botched-execution-bioethics-end-of-lethal-injection/?utm_campaign=rss",
+    "summary": "“The legal and medical issues in the Christa Pike case are on a collision course,” writes bioethicist M. Sara Rosenthal.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-13T08:30:00+00:00",
+    "date_str": "Oct 13, 2026"
+  },
+  {
+    "title": "STAT+: Concerns grow on safety issues tied to Neurocrine Biosciences rare disease drug",
+    "url": "https://www.statnews.com/2026/10/13/neurocrine-biosciences-prader-willi-vykat-xr/?utm_campaign=rss",
+    "summary": "Patient advocates and some experts are expressing growing alarm over the perceived risks of a rare disease drug sold by Neurocrine Biosciences.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-13T08:30:00+00:00",
+    "date_str": "Oct 13, 2026"
+  },
+  {
+    "title": "Opinion: STAT+: The epidemic of learned helplessness in physicians",
+    "url": "https://www.statnews.com/2026/10/13/doctors-learned-helplessness-chief-complaint-frances-mei-hardin/?utm_campaign=rss",
+    "summary": "“Hordes of brilliant, graduate-degree-holding professionals in their 40s, 50s, and beyond act helpless at work,” writes STAT columnist Frances Mei Hardin.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-13T08:30:00+00:00",
+    "date_str": "Oct 13, 2026"
+  },
+  {
+    "title": "Long COVID Linked With Altered Airway Microbiome",
+    "url": "https://www.medpagetoday.com/infectiousdisease/longcovid/123364",
+    "summary": "(MedPage Today) -- Oral and sputum microbiomes appeared substantially different with long COVID, a large registry study showed. The biggest reduction in richness and evenness of the variety of bacterial genus representation correlated with the...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-12T15:44:22+00:00",
+    "date_str": "Oct 12, 2026"
+  },
+  {
+    "title": "Sleep Apnea in Young Children May Boost Glaucoma Risk",
+    "url": "https://www.medpagetoday.com/meetingcoverage/aao/123365",
+    "summary": "(MedPage Today) -- NEW ORLEANS -- Obstructive sleep apnea (OSA) in young children tripled the likelihood of new-onset glaucoma, a large retrospective analysis showed. Though still an uncommon condition in children, an unadjusted analysis showed...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-12T15:40:37+00:00",
+    "date_str": "Oct 12, 2026"
+  },
+  {
+    "title": "Clinical Obesity Rising Among U.S. Adolescents",
+    "url": "https://www.medpagetoday.com/spotlight/obesity/123363",
+    "summary": "(MedPage Today) -- Clinical obesity increased among U.S. adolescents over the past two decades, underscoring the urgent need for targeted prevention and intervention. According to a serial cross-sectional analysis of National Health and Nutrition...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-12T15:11:21+00:00",
+    "date_str": "Oct 12, 2026"
+  },
+  {
+    "title": "Joint Pain Supplement Tied to Patient's Weight Gain, Stretch Marks",
+    "url": "https://www.medpagetoday.com/casestudies/endocrinology/123362",
+    "summary": "(MedPage Today) -- A supplement marketed for joint pain and arthritis was the likely culprit in one man's iatrogenic Cushing's syndrome, researchers reported. A man in his 40s presented with features of Cushing's syndrome, including rapid weight...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-12T14:16:54+00:00",
+    "date_str": "Oct 12, 2026"
+  },
+  {
+    "title": "Microvascular Measure Gives Clues to Poor Response to Successful Thrombectomy",
+    "url": "https://www.medpagetoday.com/meetingcoverage/asfnr/123361",
+    "summary": "(MedPage Today) -- Microvascular hemodynamics might provide an early marker of poor recovery despite successful large-vessel thrombectomy in acute ischemic stroke, an imaging study suggested. Poor capillary bed perfusion as indicated by relative...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-12T13:49:35+00:00",
+    "date_str": "Oct 12, 2026"
+  },
+  {
+    "title": "Pope to Undergo Surgery; 4,080 U.S. Measles Cases; Ultrasound Issue Tied to 4 Deaths",
+    "url": "https://www.medpagetoday.com/surgery/thoracicsurgery/123360",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Pope Leo XIV announced he will undergo surgery \"in the coming days\" to remove a nodule on his lung, in the first major health event of his 17-month pontificate...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-12T13:25:12+00:00",
+    "date_str": "Oct 12, 2026"
+  },
+  {
+    "title": "New bill would overhaul the No Surprises Act’s arbitration process",
+    "url": "https://www.healthcaredive.com/news/new-bill-would-overhaul-no-surprises-acts-arbitration-process-frank-pallone/832713/",
+    "summary": "Legislation introduced last week by Rep. Frank Pallone, D-N.J., would get rid of the arbitration process set up by the No Surprises Act entirely, the latest sign of growing interest on the Hill to reform the consumer protection law.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-12T13:56:04+00:00",
+    "date_str": "Oct 12, 2026"
+  },
+  {
+    "title": "Suki secures $90M in series E funding to accelerate growth, expand AI capabilities",
+    "url": "https://www.fiercehealthcare.com/finance/suki-secures-90m-series-e-funding-accelerate-growth-expand-ai-capabilities",
+    "summary": "The funding announcement comes less than a week after the company launched its newest AI capability.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-13T13:37:43.185460+00:00",
+    "date_str": "Oct 13, 2026"
+  },
+  {
+    "title": "Johns Hopkins Medicine taps OpenEvidence to bring AI into medical education, clinical care",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/johns-hopkins-medicine-taps-openevidence-design-ai-tools-medical-training",
+    "summary": "Johns Hopkins Medicine is teaming up with OpenEvidence to advance the use of artificial intelligence in medical education and clinical care.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-13T13:37:43.185506+00:00",
+    "date_str": "Oct 13, 2026"
+  },
+  {
+    "title": "UnitedHealth Group beats the Street with $4.1B in profit for Q3",
+    "url": "https://www.fiercehealthcare.com/payers/unitedhealth-group-beats-street-41b-profit-q3",
+    "summary": "Another round of healthcare industry earnings reports kicked off Tuesday morning, with UnitedHealth Group reporting $4.1 billion in profit for the third quarter.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-13T13:37:43.185530+00:00",
+    "date_str": "Oct 13, 2026"
+  },
+  {
+    "title": "Thoreau-backed Ensemble, Penelope Health partner to bring payer policy intelligence into RCM",
+    "url": "https://www.fiercehealthcare.com/health-tech/thoreau-backed-ensemble-penelope-health-partner-tackle-payer-denials-upstream",
+    "summary": "Two Thoreau-backed healthcare companies are partnering to bring real-time payer policy intelligence into revenue cycle workflows. The aim is to move claims denial management upstream into denial prevention, the companies said.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-13T13:37:43.185554+00:00",
+    "date_str": "Oct 13, 2026"
+  },
+  {
     "title": "Asahi Kasei Acquisition Pays Off With FDA Approval for Novel Herpes Drug",
     "url": "https://medcitynews.com/2026/10/herpes-simplex-virus-antiviral-asahi-kasei-pritelivir-hovilpri-hsv/",
     "summary": "Asahi Kasei’s Hovilpri is now approved for treating lesions caused by herpes simplex virus infection. This daily pill came from the $919 million acquisition of AiCuris Anti-Infective Cures. The post Asahi Kasei Acquisition Pays Off With FDA Approval for Novel Herpes Drug appeared first on MedCity News .",
@@ -2188,215 +2398,5 @@
     "category_slug": "healthcare-policy",
     "date": "2026-10-07T09:00:00+00:00",
     "date_str": "Oct 07, 2026"
-  },
-  {
-    "title": "'Medicare for All' message attracts midterm voters buckling under medical bills",
-    "url": "https://www.npr.org/2026/10/07/nx-s1-5992772/medicare-for-all-midterm-voters-medical-bills-affordability",
-    "summary": "Midterm candidates are talking up Medicare for All, and in a poll 2 out of 3 Americans said they support it. The phrase speaks to a desire for radical change, though many don't really know what it is.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-07T09:00:00+00:00",
-    "date_str": "Oct 07, 2026"
-  },
-  {
-    "title": "5 things civil rights data says about public schools",
-    "url": "https://www.npr.org/2026/10/07/nx-s1-5988314/civil-rights-data-public-schools-trump",
-    "summary": "The federal Civil Rights Data Collection, for the first time in decades, tells us about the teacher workforce and reminds us racial disparities are still stark in American public schools.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-07T09:00:00+00:00",
-    "date_str": "Oct 07, 2026"
-  },
-  {
-    "title": "Teladoc unveils remote monitoring, ambient AI features",
-    "url": "https://www.healthcaredive.com/news/teladoc-unveils-remote-monitoring-ambient-ai-features/832328/",
-    "summary": "The company’s virtual care platform has integrated artificial intelligence scribing and camera-based vitals monitoring as it works to recover from significant financial setbacks.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-07T10:02:00+00:00",
-    "date_str": "Oct 07, 2026"
-  },
-  {
-    "title": "Infinitus launches AI agents to help pharma teams reach more providers",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/infinitus-launches-agentic-ai-solution-aid-provider-engagement-pharma",
-    "summary": "The agents—dubbed FieldForce—provide support sales representatives and field reimbursement managers.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-07T12:43:14.937444+00:00",
-    "date_str": "Oct 07, 2026"
-  },
-  {
-    "title": "Teladoc Health unveils new AI capabilities within Solo platform for hospitals",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/teladoc-health-unveils-2-new-ai-capabilities-within-solo-platform",
-    "summary": "The two new tools aim to help health systems surface timely patient insights into their care environments while reducing technology fragmentation, executives say.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-07T12:43:14.937504+00:00",
-    "date_str": "Oct 07, 2026"
-  },
-  {
-    "title": "WHO questions Russia on reported second plague lab death",
-    "url": "https://thehill.com/policy/healthcare/6133282-world-health-organization-russia-plague-lab-death/",
-    "summary": "The World Health Organization is pressing Russia for more information about the unexplained death of a worker at a Siberian plague research institute — and a potential second incident. WHO Director-General Tedros Adhanom Ghebreyesus said in a statement Tuesday that the agency has asked Russian authorities to clarify what caused the severe case of pneumonia...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-10-07T12:33:12+00:00",
-    "date_str": "Oct 07, 2026"
-  },
-  {
-    "title": "As concerns over health costs mount, Trump tries cash",
-    "url": "https://thehill.com/homenews/administration/6132225-trump-medicare-cash-pledge-midterms/",
-    "summary": "With the midterm elections a month away and Republicans struggling to respond to voter frustration over healthcare costs, President Trump is handing out cash. Last week, Trump pledged $90 to more than tens of millions of seniors on Medicare. That announcement came on top of other pledges to send money to Americans, including $500 ObamaCare...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-10-07T10:00:00+00:00",
-    "date_str": "Oct 07, 2026"
-  },
-  {
-    "title": "Cybersecurity Experts to Hospital Leaders: Think Beyond Traditional Disaster-Recovery Planning",
-    "url": "https://medcitynews.com/2026/10/cybersecurity-experts-to-hospital-leaders-think-beyond-traditional-disaster-recovery-planning/",
-    "summary": "Cybersecurity leaders discussed how AI-driven cybersecurity attacks pose a new level of risk for hospitals and health systems at Rubrik’s Healthcare Summit last week. The post Cybersecurity Experts to Hospital Leaders: Think Beyond Traditional Disaster-Recovery Planning appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-06T22:35:23+00:00",
-    "date_str": "Oct 06, 2026"
-  },
-  {
-    "title": "Opinion: Infectious disease expert: The mysterious pneumonia in Russia deserves attention, not panic",
-    "url": "https://www.statnews.com/2026/10/06/russia-plague-reports-pneuomonia-siberia-expert-calm/?utm_campaign=rss",
-    "summary": "Chill out about reports about plague in Siberia, writes infectious disease doctor Krutika Kuppalli.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-06T23:41:30+00:00",
-    "date_str": "Oct 06, 2026"
-  },
-  {
-    "title": "Pennsylvania's Measles Outbreak Is the Largest in Decades in the U.S.",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/123285",
-    "summary": "(MedPage Today) -- Pennsylvania has surpassed 1,000 measles cases this year, state health officials said Monday, making it the largest state outbreak in more than three decades. The U.S. is enduring its worst year for measles since 1991, with...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-06T14:22:59+00:00",
-    "date_str": "Oct 06, 2026"
-  },
-  {
-    "title": "RFK Jr. Launches Vaccine Injury Clinic; Outbreak Spreads; Starbucks Sued Over Claims",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/123284",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Health Secretary Robert F. Kennedy Jr. announced a new research initiative at the NIH to study vaccine injuries on Monday. (Bloomberg News via Union-Bulletin) Pediatricians...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-06T13:41:28+00:00",
-    "date_str": "Oct 06, 2026"
-  },
-  {
-    "title": "Plague in Russia sparks concern, COVID-19 pandemic memories: 5 things to know",
-    "url": "https://thehill.com/policy/healthcare/6132881-russia-lab-worker-plague-death-facts/",
-    "summary": "The death of Russian lab technician researching the plague has set off alarms abroad and at home as observers note resemblances to the conditions that some theorized preceded the COVID-19 pandemic. Reports emerged last week that a laboratory worker at the Irkutsk Anti-Plague Research Institute of Siberia and the Far East had died shortly after being hospitalized. The news...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-10-07T00:10:35+00:00",
-    "date_str": "Oct 07, 2026"
-  },
-  {
-    "title": "Planned Parenthood Votes adds $1M to ad campaigns in Maine, Michigan",
-    "url": "https://thehill.com/homenews/campaign/6132846-planned-parenthood-votes-senate-ads/",
-    "summary": "Planned Parenthood is investing an additional $1 million in ad buys to boost Democratic Senate candidates in Maine and Michigan. The latest investment in the states by Planned Parenthood Votes — a super PAC affiliated with Planned Parenthood — will fund digital ad campaigns targeting Sen. Susan Collins (R-Maine) and former Rep. Mike Rogers (R-Mich.)....",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-10-06T23:22:47+00:00",
-    "date_str": "Oct 06, 2026"
-  },
-  {
-    "title": "FTC Sends Warning Letters to 24 Healthcare Organizations Over Price Transparency",
-    "url": "https://medcitynews.com/2026/10/ftc-sends-warning-letters-to-24-healthcare-organizations-over-price-transparency/",
-    "summary": "The FTC sent warning letters to 24 major healthcare organizations over concerns about inadequate price transparency. The post FTC Sends Warning Letters to 24 Healthcare Organizations Over Price Transparency appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-06T22:13:22+00:00",
-    "date_str": "Oct 06, 2026"
-  },
-  {
-    "title": "Forbion Bucks VC Fundraising Trends, Reeling In €2.3B for Two New Funds",
-    "url": "https://medcitynews.com/2026/10/forbion-venture-capital-life-sciences-biotech-startups-investing-vc/",
-    "summary": "Forbion’s new capital will support two funds that will invest in about 30 companies combined. The new funds for Netherlands-based Forbion come amid a decline in VC fundraising and investments in Europe, according to Pitchbook. The post Forbion Bucks VC Fundraising Trends, Reeling In €2.3B for Two New Funds appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-06T20:22:14+00:00",
-    "date_str": "Oct 06, 2026"
-  },
-  {
-    "title": "Perimenopause Anxiety: Sometimes It’s a Progesterone Deficiency",
-    "url": "https://medcitynews.com/2026/10/perimenopause-anxiety-sometimes-its-a-progesterone-deficiency/",
-    "summary": "Perimenopausal anxiety isn’t simply in our patients’ heads. It’s often the result of complex physiologic changes involving hormones, sleep, metabolism, and the nervous system. The post Perimenopause Anxiety: Sometimes It’s a Progesterone Deficiency appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-06T13:24:00+00:00",
-    "date_str": "Oct 06, 2026"
-  },
-  {
-    "title": "MedTech VC 2026: The Real Story vs. The Thesis",
-    "url": "https://medcitynews.com/2026/10/medtech-vc-2026-the-real-story-vs-the-thesis/",
-    "summary": "I kept hearing “medtech VC is in decline,” so I decided to dig into the data myself. I expected shrinking investor interest, inflated valuations, and a weak exit environment. Instead, I found a more nuanced story. The post MedTech VC 2026: The Real Story vs. The Thesis appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-06T13:00:00+00:00",
-    "date_str": "Oct 06, 2026"
-  },
-  {
-    "title": "STAT+: AstraZeneca opens new Boston site",
-    "url": "https://www.statnews.com/2026/10/06/biotech-news-astrazeneca-opens-new-boston-site/?utm_campaign=rss",
-    "summary": "AstraZeneca opened a new R&D site in Kendall Square yesterday, celebrating a $1 billion investment in the unsettled center of U.S. biotechnology after a spate of Chinese dealmaking.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-06T14:41:00+00:00",
-    "date_str": "Oct 06, 2026"
-  },
-  {
-    "title": "STAT+: Are stem cell treatments about to have their day?",
-    "url": "https://www.statnews.com/2026/10/06/trump-medicare-checks-stem-cell-treatments-fda-dc-diagnosis/?utm_campaign=rss",
-    "summary": "Stem cells might be the next peptides, and how Trump's $90 checks will play out after the election.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-06T14:30:00+00:00",
-    "date_str": "Oct 06, 2026"
-  },
-  {
-    "title": "What are hospital longevity programs, and what can they tell you about your health?",
-    "url": "https://www.statnews.com/2026/10/06/hospital-longevity-programs-health-status-report-alex-hogan/?utm_campaign=rss",
-    "summary": "What can hospital longevity clinics can tell you about your health? STAT's Sarah Todd went to one to find out.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-06T14:13:12+00:00",
-    "date_str": "Oct 06, 2026"
-  },
-  {
-    "title": "STAT+: FDA spells out 2027 AI guidance plans",
-    "url": "https://www.statnews.com/2026/10/06/fda-spells-out-2027-ai-guidance-plans-health-tech/?utm_campaign=rss",
-    "summary": "In this edition of STAT Health Tech: New AI guidances expected from the the FDA in 2027, Utah expanding its AI sandbox, and more.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-06T13:59:08+00:00",
-    "date_str": "Oct 06, 2026"
   }
 ]
