@@ -1,5 +1,225 @@
 [
   {
+    "title": "Why Agentic AI Works in Hospitals When You Strip It Down",
+    "url": "https://medcitynews.com/2026/10/why-agentic-ai-works-in-hospitals-when-you-strip-it-down/",
+    "summary": "Many hospitals are now trying to use AI to automate processes and free up staff time, running simultaneous pilots to perform as many tasks as possible. This quickly leads to pilot sprawl — a state where organizations can no longer even say which agents are still in active use. The post Why Agentic AI Works in Hospitals When You Strip It Down appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-14T13:30:00+00:00",
+    "date_str": "Oct 14, 2026"
+  },
+  {
+    "title": "STAT+: FDA adcomm members’ ties to industry under scrutiny",
+    "url": "https://www.statnews.com/2026/10/14/biotech-news-fda-adcomm-member-ties-to-industry-under-scrutiny/?utm_campaign=rss",
+    "summary": "New research found that nearly 40% of FDA advisory meetings held over a recent 20-year period included either a patient or consumer rep with active ties to an advocacy group…",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-14T14:12:14+00:00",
+    "date_str": "Oct 14, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Sanofi settling an EU antitrust probe, ‘pharma bro’ Shkreli, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/10/14/sanofi-settling-european-antitrust-probe-pharma-bro-shkreli/?utm_campaign=rss",
+    "summary": "The FTC asked a U.S. court to hold Martin Shkreli in contempt for “flagrantly” violating a court order banning him from working in the pharma industry",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-14T13:26:39+00:00",
+    "date_str": "Oct 14, 2026"
+  },
+  {
+    "title": "STAT+: The startup chasing ‘general biological intelligence’",
+    "url": "https://www.statnews.com/2026/10/14/the-startup-chasing-general-biological-intelligence-ai-prognosis/?utm_campaign=rss",
+    "summary": "In this edition of AI Prognosis, Brittany Trang talks to Eric Nguyen, the CEO of Radical Numerics, a startup pursuing \"general biological intelligence.'",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-14T13:17:57+00:00",
+    "date_str": "Oct 14, 2026"
+  },
+  {
+    "title": "STAT+: Sanofi avoids fine as EU accepts offer to end antitrust probe over disparaging rival vaccine",
+    "url": "https://www.statnews.com/pharmalot/2026/10/14/sanofi-avoids-fine-as-eu-accepts-offer-ends-antitrust-probe-over-disparaging-rival-vaccine/?utm_campaign=rss",
+    "summary": "E.U. antitrust regulators accepted concessions from Sanofi to settle a probe into an allegedly “misleading” campaign that disparaged a rival flu vaccine.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-14T12:17:35+00:00",
+    "date_str": "Oct 14, 2026"
+  },
+  {
+    "title": "New study examines GLP-1 impact on interactions with criminal justice system, employment, housing stability",
+    "url": "https://www.statnews.com/2026/10/14/health-news-glp-1-study-impact-interactions-with-criminal-justice-system-employment/?utm_campaign=rss",
+    "summary": "A wave of clinical trials have begun to test the ability of GLP-1 weight loss drugs to quell various substance use disorders, with some promising results. A new trial announced…",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-14T11:53:49+00:00",
+    "date_str": "Oct 14, 2026"
+  },
+  {
+    "title": "Does Stool-Based Test Detect Colorectal Cancer as Well in Women?",
+    "url": "https://www.medpagetoday.com/meetingcoverage/acg/123402",
+    "summary": "(MedPage Today) -- At the standard positivity threshold, fecal immunochemical testing (FIT) is likely to miss more colorectal cancers (CRCs) and advanced precancerous lesions (APLs) in women versus men, a retrospective analysis suggested. Among...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-14T15:23:47+00:00",
+    "date_str": "Oct 14, 2026"
+  },
+  {
+    "title": "NIAID Nominee Nixed; CDC Funds Hep B Vax Study; 'Earth-Shaking' Vax Battle",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/healthpolicy/123401",
+    "summary": "(MedPage Today) -- Steven Quay, MD, PhD, a biopharma executive with no background in infectious diseases, is no longer being considered for director of the National Institute of Allergy and Infectious Diseases. (STAT) The CDC is allocating new...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-14T15:19:53+00:00",
+    "date_str": "Oct 14, 2026"
+  },
+  {
+    "title": "Real-World Treatment Choices for AMD",
+    "url": "https://www.medpagetoday.com/spotlight/wet-amd/123399",
+    "summary": "(MedPage Today) -- Poor adherence to anti-VEGF therapy for neovascular age-related macular degeneration (nAMD) remains a major limitation of existing therapies, a review of a large clinical database showed. Almost 40% of patients stopped treatment...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-14T14:35:30+00:00",
+    "date_str": "Oct 14, 2026"
+  },
+  {
+    "title": "Promising E. Coli Vaccine Fizzles in Late-Stage Trial",
+    "url": "https://www.medpagetoday.com/infectiousdisease/vaccines/123400",
+    "summary": "(MedPage Today) -- An investigational vaccine targeting the Escherichia coli pathogens that commonly cause infections didn't show a protective effect in older adults, the phase III E.mbrace trial found. Among over 17,000 participants ages 60 and...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-14T14:28:43+00:00",
+    "date_str": "Oct 14, 2026"
+  },
+  {
+    "title": "Congo's Confirmed Ebola Cases Exceed 9,000 as Containment Efforts Falter",
+    "url": "https://www.medpagetoday.com/infectiousdisease/ebola/123398",
+    "summary": "(MedPage Today) -- Confirmed cases in Congo's Ebola outbreak have surpassed 9,000, with more than 4,300 deaths, as health authorities struggle to contain an outbreak spreading across seven provinces, according to government figures released Tuesday...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-14T14:17:58+00:00",
+    "date_str": "Oct 14, 2026"
+  },
+  {
+    "title": "Grad Student Allegedly Poisoned a Colleague, Attempted to Flee to China",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/ethics/123397",
+    "summary": "(MedPage Today) -- CHEYENNE, Wyo. -- A Wyoming microbiology graduate student from China has been arrested on accusations she poisoned the tea of a colleague who had pending patents and with whom she didn't get along, then tried to flee the country...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-14T14:07:59+00:00",
+    "date_str": "Oct 14, 2026"
+  },
+  {
+    "title": "Tylenol Recall; 'Pharma Bro' Violated Ban, FTC Says; Mini Organs Launched Into Space",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/productalert/123396",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Nearly 113,000 bottles of generic extra-strength acetaminophen (Tylenol) sold through Amazon were recalled over reports of discolored tablets, according to the FDA...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-14T13:27:14+00:00",
+    "date_str": "Oct 14, 2026"
+  },
+  {
+    "title": "Centene joins insurers waiving prior authorizations for top providers",
+    "url": "https://www.healthcaredive.com/news/centene-joins-insurers-waiving-prior-authorizations-for-top-providers/832975/",
+    "summary": "Centene is the latest insurer to adopt a gold card program as states and the Trump administration push for prior authorization reform.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-14T14:50:52+00:00",
+    "date_str": "Oct 14, 2026"
+  },
+  {
+    "title": "MultiCare, Samaritan combination to close in November",
+    "url": "https://www.healthcaredive.com/news/multicare-samaritan-combination-close-november/832973/",
+    "summary": "The nonprofits will merge on Nov. 1 after securing approval from state regulators, the systems announced this week.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-14T14:49:50+00:00",
+    "date_str": "Oct 14, 2026"
+  },
+  {
+    "title": "CVS to pay $315M to settle opioid prescribing allegations",
+    "url": "https://www.healthcaredive.com/news/cvs-pay-315-million-settle-opioid-prescribing-allegations/832969/",
+    "summary": "Prosecutors say the company filled unnecessary prescriptions that fueled the opioid epidemic. A spokesperson for CVS said the company admitted to no wrongdoing and “strongly disagreed” with the case’s claims.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-14T14:45:52+00:00",
+    "date_str": "Oct 14, 2026"
+  },
+  {
+    "title": "Rush University System for Health, Endeavor Health unveil 12-hospital merger",
+    "url": "https://www.fiercehealthcare.com/providers/rush-university-system-health-endeavor-health-unveil-12-hospital-merger",
+    "summary": "The resulting nonprofit system would be Illinois' largest by hospital count and comprise nearly $11 billion in annual operating revenue.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-14T16:36:41.483491+00:00",
+    "date_str": "Oct 14, 2026"
+  },
+  {
+    "title": "Integrating care for people with serious mental illness",
+    "url": "https://www.fiercehealthcare.com/providers/integrating-care-people-serious-mental-illness",
+    "summary": "People with serious mental illness often face significant barriers to getting the care they need. In this week's episode of \"Podnosis,\" we explore how Amae Health is working to address gaps in the system by bringing psychiatric care, physical healthcare and other support services together under one model.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-14T16:36:41.483538+00:00",
+    "date_str": "Oct 14, 2026"
+  },
+  {
+    "title": "Probably Genetic raises $12M to scale rare disease dataset, support drug discovery",
+    "url": "https://www.fiercehealthcare.com/health-tech/probably-genetic-raises-12m-scale-rare-disease-dataset-support-drug-discovery",
+    "summary": "The company’s core product is a physician-ordered genetic test for undiagnosed rare disease patients, who typically face a seven-year diagnostic odyssey before getting answers.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-14T16:36:41.483560+00:00",
+    "date_str": "Oct 14, 2026"
+  },
+  {
+    "title": "Allara raises $30M to expand virtual women's healthcare across the continuum",
+    "url": "https://www.fiercehealthcare.com/finance/allara-raises-30m-expand-virtual-womens-healthcare-across-continuum",
+    "summary": "Since its expansion nationwide last year, Allara has added urgent care visits, brought on more internal medicine providers and launched more supplements and medication delivery services.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-14T16:36:41.483582+00:00",
+    "date_str": "Oct 14, 2026"
+  },
+  {
+    "title": "Confido Health nabs $12.5M to scale agentic AI across PE-backed medical groups",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/confido-health-expands-beyond-voice-ai-agentic-platform-medical-practices",
+    "summary": "The company secured a $12.5 million series A extension following its $10 million series A round announced in September to continue scaling an AI platform for end-to-end healthcare operations.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-14T16:36:41.483609+00:00",
+    "date_str": "Oct 14, 2026"
+  },
+  {
+    "title": "Minnesota worries it’s not getting back $259 million Trump froze",
+    "url": "https://www.politico.com/news/2026/10/14/minnesota-worries-not-getting-back-frozen-medicaid-funds-01115281",
+    "summary": "The Medicaid funding is supposed to cover health care for low-income people.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-14T14:00:00+00:00",
+    "date_str": "Oct 14, 2026"
+  },
+  {
     "title": "Aging Life Care Managers Can Be a ‘Godsend’ for Families",
     "url": "https://kffhealthnews.org/aging/new-old-age-aging-life-care-managers-geriatric-help/",
     "summary": "These service providers, formerly known as geriatric care managers, can arrange a move to a senior living facility, deal with Medicare and Medicaid, recommend doctors, drive a client to the dentist, and much more.",
@@ -2178,225 +2398,5 @@
     "category_slug": "healthcare-policy",
     "date": "2026-10-08T11:53:27+00:00",
     "date_str": "Oct 08, 2026"
-  },
-  {
-    "title": "STAT+: Biotech companies are struggling to navigate Trump’s new tariffs",
-    "url": "https://www.statnews.com/2026/10/08/trump-tariffs-section-232-imported-prescription-drugs-challenge-biotech-companies/?utm_campaign=rss",
-    "summary": "Smaller biotech firms are trying to figure out how to win exemptions from Trump's import taxes.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-08T08:30:00+00:00",
-    "date_str": "Oct 08, 2026"
-  },
-  {
-    "title": "STAT+: Dozens of Democrats vie for slots on key House health committees",
-    "url": "https://www.statnews.com/2026/10/08/midterm-election-democrats-vie-for-roles-house-health-care-committees/?utm_campaign=rss",
-    "summary": "Power House health committees could get a lot of new members after the midterms.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-08T08:30:00+00:00",
-    "date_str": "Oct 08, 2026"
-  },
-  {
-    "title": "Opinion: How CMS plans to fix a major flaw in the 340B drug discount program",
-    "url": "https://www.statnews.com/2026/10/08/340b-drug-discount-program-cms-reform-proposal/?utm_campaign=rss",
-    "summary": "“A small, well-intended discount for safety net hospitals became a large institutional subsidy with expensive unintended consequences,” writes an HHS leader.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-08T08:30:00+00:00",
-    "date_str": "Oct 08, 2026"
-  },
-  {
-    "title": "Opinion: England and other nations are on the path toward eliminating hepatitis C. Why not the U.S.?",
-    "url": "https://www.statnews.com/2026/10/08/us-hepatitis-c-cure-medication-cost-elimination/?utm_campaign=rss",
-    "summary": "Eliminating hepatitis C is achievable — if the U.S. seriously invests in it, experts write.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-08T08:30:00+00:00",
-    "date_str": "Oct 08, 2026"
-  },
-  {
-    "title": "STAT+: Why this startup is taking its AI to predict breast cancer risk directly to patients",
-    "url": "https://www.statnews.com/2026/10/08/why-clairity-took-breast-cancer-risk-prediction-ai-directly-to-patients/?utm_campaign=rss",
-    "summary": "A startup didn't want to wait for doctors and insurers to get behind its breast-cancer risk prediction AI. So it's going directly to patients.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-08T08:30:00+00:00",
-    "date_str": "Oct 08, 2026"
-  },
-  {
-    "title": "Breast cancer can behave differently in older women. This physician is making more tailored treatments a reality",
-    "url": "https://www.statnews.com/2026/10/08/breast-cancer-research-older-women-neil-carleton-stat-wunderkind/?utm_campaign=rss",
-    "summary": "There’s increasing evidence that older women with breast cancer could benefit from more tailored treatments. STAT Wunderkind Neil Carleton is working to make that a reality.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-08T08:30:00+00:00",
-    "date_str": "Oct 08, 2026"
-  },
-  {
-    "title": "A mother-daughter quest to find fellow members of an ultra-rare genetic community",
-    "url": "https://www.statnews.com/2026/10/08/rare-disease-nicolaides-baraitser-syndrome-history-ncbrs-researchers/?utm_campaign=rss",
-    "summary": "“Don’t google,” the pediatric geneticist warned. It took me five years to disobey.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-08T08:30:00+00:00",
-    "date_str": "Oct 08, 2026"
-  },
-  {
-    "title": "Medical debt is crushing hospital patients in LA. Health officials may have a fix",
-    "url": "https://www.npr.org/2026/10/08/nx-s1-5991633/hospital-california-healthcare-medical-debt",
-    "summary": "In Los Angeles County, the nation's most populous, a new system could screen hospital patients for financial aid, preventing hundreds of thousands from getting bills they can't pay.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-08T09:00:00+00:00",
-    "date_str": "Oct 08, 2026"
-  },
-  {
-    "title": "New Maryland law requires radiologists inform patients of heart disease warning sign",
-    "url": "https://www.npr.org/2026/10/08/nx-s1-5993782/new-maryland-law-requires-radiologists-inform-patients-of-heart-disease-warning-sign",
-    "summary": "NPR's Michel Martin speaks with radiologist Dr. Lisa Mullen about a new Maryland law requiring that patients be notified if mammogram results show calcium deposits in blood vessels.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-08T08:44:58+00:00",
-    "date_str": "Oct 08, 2026"
-  },
-  {
-    "title": "PhRMA launches new legal challenge as CMS brings 'most favored nation' pricing to Medicare Part B",
-    "url": "https://www.fiercehealthcare.com/pharma/phrma-launches-new-legal-challenge-cms-brings-most-favored-nation-pricing-medicare-part-b",
-    "summary": "As the Trump administration advances plans to bring its “most favored nation” drug pricing model to Medicare Part B, the pharmaceutical industry’s top lobbying group is pushing back in court.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-08T12:52:10.162233+00:00",
-    "date_str": "Oct 08, 2026"
-  },
-  {
-    "title": "Here's Why We're Boycotting the American Diabetes Association",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/123301",
-    "summary": "(MedPage Today) -- Why are members of the American Diabetes Association (ADA) boycotting their own professional society? Let me explain. The ADA is a charitable organization, but its thousands of \"members\" are really just subscribers. Professional...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-07T15:01:00+00:00",
-    "date_str": "Oct 07, 2026"
-  },
-  {
-    "title": "Doc's License Suspended After Deaths; CDC Tracks Plague Threat; Statins and Glaucoma",
-    "url": "https://www.medpagetoday.com/surgery/plasticsurgery/123300",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Plastic surgeon Ayoub Sayeg, MD, whose Illinois license was suspended after procedures he took part in were linked to eight patient deaths, now has his Michigan...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-07T13:20:59+00:00",
-    "date_str": "Oct 07, 2026"
-  },
-  {
-    "title": "FDA: Mifepristone review won't be done until March",
-    "url": "https://thehill.com/policy/healthcare/6135515-fda-mifepristone-abortion-pill-review-delay/",
-    "summary": "The Food and Drug Administration (FDA) won’t publish its safety review of the abortion drug mifepristone until March, it disclosed in a Wednesday court filing, adding that it won’t impose any new restrictions on the pill before that point. The revelations are likely to further anger anti-abortion activists, who have been losing patience with the...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-10-08T02:33:30+00:00",
-    "date_str": "Oct 08, 2026"
-  },
-  {
-    "title": "Trilliant Health: Misaligned Incentives Are Undermining US Healthcare",
-    "url": "https://medcitynews.com/2026/10/trilliant-health-misaligned-incentives-are-undermining-us-healthcare/",
-    "summary": "Trilliant Health’s report identifies six trends highlighting how misaligned incentives are contributing to rising costs, poor health outcomes, workforce shortages and other systemic problems in U.S. healthcare. The post Trilliant Health: Misaligned Incentives Are Undermining US Healthcare appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-07T21:50:46+00:00",
-    "date_str": "Oct 07, 2026"
-  },
-  {
-    "title": "Teladoc Health Adds Contactless Vitals and Ambient AI Scribe to Virtual Visit Platform",
-    "url": "https://medcitynews.com/2026/10/teladoc-health-adds-contactless-vitals-and-ambient-ai-scribe-to-virtual-visit-platform/",
-    "summary": "Teladoc Health announced Wednesday that it is launching two new AI-powered capabilities built into its Solo smart care platform for hospitals and health systems to be used during virtual visits. The post Teladoc Health Adds Contactless Vitals and Ambient AI Scribe to Virtual Visit Platform appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-07T21:13:34+00:00",
-    "date_str": "Oct 07, 2026"
-  },
-  {
-    "title": "Caribou Bio’s Journey With Off-the-Shelf Cell Therapy Reaches the End of the Road",
-    "url": "https://medcitynews.com/2026/10/caribou-biosciences-allogeneic-cell-therapy-crispr-cancer-lymphoma-crbu/",
-    "summary": "Caribou Biosciences is stopping work on its two remaining cancer cell therapies and exploring strategic alternatives for the business. The move follows the CRISPR biotech company’s failure to secure financing for its clinical trial plans. The post Caribou Bio’s Journey With Off-the-Shelf Cell Therapy Reaches the End of the Road appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-07T18:21:47+00:00",
-    "date_str": "Oct 07, 2026"
-  },
-  {
-    "title": "Constant Vigilance is the Watchword for Healthcare AI Governance",
-    "url": "https://medcitynews.com/2026/10/constant-vigilance-is-the-watchword-for-healthcare-ai-governance/",
-    "summary": "[Sponsored] Sponsored by Cotiviti, a webinar addressing the challenges of AI implementation and governance offered insights based on findings from the Healthcare AI Readiness Index. The post Constant Vigilance is the Watchword for Healthcare AI Governance appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-07T14:17:19+00:00",
-    "date_str": "Oct 07, 2026"
-  },
-  {
-    "title": "PBM Transparency Is Still Too Opaque — How Can Employers Rein In Drug Costs?",
-    "url": "https://medcitynews.com/2026/10/pbm-transparency-is-still-too-opaque-how-can-employers-rein-in-drug-costs/",
-    "summary": "Employers are trying to comparison shop in a market where all the price tags are hidden. And most can’t simply switch PBMs to find better pricing for their members. The post PBM Transparency Is Still Too Opaque — How Can Employers Rein In Drug Costs? appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-07T13:41:00+00:00",
-    "date_str": "Oct 07, 2026"
-  },
-  {
-    "title": "From Distributor to Disruptor: Amazon’s Healthcare Flex",
-    "url": "https://medcitynews.com/2026/10/from-distributor-to-disruptor-amazons-healthcare-flex/",
-    "summary": "No longer satisfied with buying pharmacies and clinics, it seems intent on owning the healthcare journey, and perhaps redrawing pharma’s commercialization map. The post From Distributor to Disruptor: Amazon’s Healthcare Flex appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-07T13:10:00+00:00",
-    "date_str": "Oct 07, 2026"
-  },
-  {
-    "title": "STAT+: In small trial, optogenetics restores some vision lost to retinitis pigmentosa",
-    "url": "https://www.statnews.com/2026/10/07/optogenetics-restores-some-vision-retinitis-pigmentosa/?utm_campaign=rss",
-    "summary": "About half of the patients in a study regained photosensitivity in their vision, showing the promise of optogenetics.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-07T21:00:00+00:00",
-    "date_str": "Oct 07, 2026"
-  },
-  {
-    "title": "Trump administration proposes $70,000 fee for popular international student work program",
-    "url": "https://www.statnews.com/2026/10/07/trump-administration-proposes-fee-targeting-interational-students-optional-practical-training/?utm_campaign=rss",
-    "summary": "The Trump administration has proposed a $70,000 fee for a popular work authorization program meant to give students professional experience",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-07T19:41:16+00:00",
-    "date_str": "Oct 07, 2026"
-  },
-  {
-    "title": "STAT+: PhRMA sues over Trump policy mandating lower drug prices in Medicare",
-    "url": "https://www.statnews.com/2026/10/07/phrma-sues-over-drug-pricing-model-globe/?utm_campaign=rss",
-    "summary": "The brand drug industry’s main trade group is suing the Trump administration over a pilot program tying Medicare drug prices to those in peer countries.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-07T16:58:32+00:00",
-    "date_str": "Oct 07, 2026"
   }
 ]
