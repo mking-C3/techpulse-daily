@@ -1,5 +1,105 @@
 [
   {
+    "title": "Why Epic Is Launching a Prescription Price Comparison Tool",
+    "url": "https://medcitynews.com/2026/10/why-epic-is-launching-a-prescription-price-comparison-tool/",
+    "summary": "Epic will launch a tool in summer 2027 to help patients compare prescription cash prices and insurance costs across pharmacies. The post Why Epic Is Launching a Prescription Price Comparison Tool appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-16T22:43:52+00:00",
+    "date_str": "Oct 16, 2026"
+  },
+  {
+    "title": "STAT+: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded",
+    "url": "https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/?utm_campaign=rss",
+    "summary": "A jury awarded $6 million in damages to scientist David Sabatini, whose career imploded after he was accused by a much younger colleague of inappropriate sexual conduct in his lab.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-17T02:38:35+00:00",
+    "date_str": "Oct 17, 2026"
+  },
+  {
+    "title": "PAs Hoping to Ease State Restrictions on Their Practice in 2027",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/workforce/123458",
+    "summary": "(MedPage Today) -- As the year comes to a close, the nation's physician associates (PAs) are looking forward to pursuing their state legislative agenda for 2027, including easing scope-of-practice restrictions. \"What's interesting about state...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-16T21:00:51+00:00",
+    "date_str": "Oct 16, 2026"
+  },
+  {
+    "title": "ACOG Guideline Backs Early Hormone Therapy for Menopause Symptoms",
+    "url": "https://www.medpagetoday.com/obgyn/menopause/123457",
+    "summary": "(MedPage Today) -- Updated guidelines from the American College of Obstetricians and Gynecologists (ACOG) expand on previous recommendations and align with a growing cross-specialty consensus on how to manage menopause symptoms. For managing vasomotor...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-16T20:41:42+00:00",
+    "date_str": "Oct 16, 2026"
+  },
+  {
+    "title": "Were Benzos Linked to Birth Defects?",
+    "url": "https://www.medpagetoday.com/quizzes/news-quiz/123456",
+    "summary": "(MedPage Today) -- You passed medical training, now see if you can pass our weekly quiz",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-16T20:24:00+00:00",
+    "date_str": "Oct 16, 2026"
+  },
+  {
+    "title": "OTC Alpha-Agonist Drops for Eye Redness Get FDA Green Light",
+    "url": "https://www.medpagetoday.com/ophthalmology/generalophthalmology/123455",
+    "summary": "(MedPage Today) -- The FDA announced approval of apraclonidine ophthalmic solution 0.125% (Brytly) as an over-the-counter treatment for eye redness related to minor irritations. The approval specifies use of the topical agent by adults and children...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-16T20:10:32+00:00",
+    "date_str": "Oct 16, 2026"
+  },
+  {
+    "title": "CMS proposes MA 'ghost network,' PBM transparency requirements",
+    "url": "https://www.fiercehealthcare.com/regulatory/cms-proposes-ma-ghost-network-pbm-transparency-requirements",
+    "summary": "The administration took steps to codify statutory reforms focused on maintaining accurate Medicare Advantage provider directories and collecting more pricing information from pharmacy benefit managers.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-17T03:08:06.983289+00:00",
+    "date_str": "Oct 17, 2026"
+  },
+  {
+    "title": "Centene to expand CHOICE Arrangements program to its employees in Ohio, Oklahoma",
+    "url": "https://www.fiercehealthcare.com/payers/centene-expand-choice-arrangements-program-ohio-oklahoma-2027",
+    "summary": "Centene is expanding its CHOICE Arrangements benefits program to its employees in Ohio and Oklahoma in the 2027 plan year.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-17T03:08:06.983332+00:00",
+    "date_str": "Oct 17, 2026"
+  },
+  {
+    "title": "American Medical Association rolls out governance framework for agentic AI solutions",
+    "url": "https://www.fiercehealthcare.com/regulatory/american-medical-association-rolls-out-governance-framework-agentic-ai-solutions",
+    "summary": "AMA CEO John Whyte, M.D., told Fierce Healthcare the increasing use of AI in clinical functions is “raising urgent questions about clinical authority, oversight and accountability.”",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-17T03:08:06.983365+00:00",
+    "date_str": "Oct 17, 2026"
+  },
+  {
+    "title": "US measles cases top 4,400, far exceeding last year's totals",
+    "url": "https://thehill.com/policy/healthcare/6154416-us-measles-cases-exceed-4400/",
+    "summary": "National measles cases this year have now exceeded 4,400, all but guaranteeing the country will more than double the number of measles infections confirmed last year, which totaled 2,289. The latest update from the Centers for Disease Control and Prevention (CDC) on Friday recorded 4,410 total cases in 2026 just a week after the U.S....",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-10-16T21:18:03+00:00",
+    "date_str": "Oct 16, 2026"
+  },
+  {
     "title": "City Therapeutics’ Upsized IPO Raises $200M to Bring RNAi Drugs Beyond the Liver",
     "url": "https://medcitynews.com/2026/10/city-therapeutics-ipo-rna-interference-gene-silencing-rnai-sirna-cty/",
     "summary": "City Therapeutics’ lead RNA interference therapy could become an alternative to blockbuster-selling anticoagulants. The company’s technology for designing RNAi drugs and delivering them to tissues throughout the body has already led to partnerships with Bausch + Lomb in eye diseases and Biogen in central nervous system disorders. The post City Therapeutics’ Upsized IPO Raises $200M to Bring RNAi Drugs Beyond the Liver appeared first on MedCity News .",
@@ -2297,106 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-10-12T15:55:37+00:00",
-    "date_str": "Oct 12, 2026"
-  },
-  {
-    "title": "Hospitals sue over revamped 340B rebate pilot",
-    "url": "https://www.healthcaredive.com/news/hospitals-sue-over-revamped-340b-rebate-pilot/832720/",
-    "summary": "It’s the second time the HHS has tried to kickstart a 340B rebate program — and the second time hospitals have sued to block it, alleging rebates will threaten their financial viability.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-12T14:04:31+00:00",
-    "date_str": "Oct 12, 2026"
-  },
-  {
-    "title": "Alignment Healthcare sues CMS over its 2027 Medicare Advantage star ratings",
-    "url": "https://www.fiercehealthcare.com/payers/alignment-healthcare-sues-cms-over-its-2027-medicare-advantage-star-ratings",
-    "summary": "Alignment Healthcare sued federal regulators, alleging that its 2027 Medicare Advantage star ratings were determined \"in flagrant violation\" of statute.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-13T00:11:05.631766+00:00",
-    "date_str": "Oct 13, 2026"
-  },
-  {
-    "title": "Google unveils new Fitbit Edge tracker as tech giant expands health monitoring ambitions",
-    "url": "https://www.fiercehealthcare.com/health-tech/google-unveils-new-fitbit-edge-tracker-tech-giant-expands-health-monitoring-ambitions",
-    "summary": "The new device also builds on Google’s health tracking ambitions by combining advanced health sensors with AI-powered insights designed to identify changes in a user’s health and translate those signals into personalized guidance.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-13T00:11:05.631816+00:00",
-    "date_str": "Oct 13, 2026"
-  },
-  {
-    "title": "Marsh survey examines how health systems are managing capital, investment strategies",
-    "url": "https://www.fiercehealthcare.com/finance/marsh-survey-examines-how-health-orgs-are-managing-capital-investment-strategies",
-    "summary": "Forty-three percent of respondents report expecting to draw on reserves in 2026, up from 37% the year prior.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-13T00:11:05.631840+00:00",
-    "date_str": "Oct 13, 2026"
-  },
-  {
-    "title": "Pennsylvania reports sixth measles death",
-    "url": "https://thehill.com/homenews/state-watch/6143554-pa-leads-nation-measles-cases/",
-    "summary": "Pennsylvania authorities on Monday confirmed the state's sixth death connected to a measles case as the state deals with the highest number of cases nationally. The Franklin County Coroner released an advisory on Monday stating a 39-year-old woman with \"several underlying conditions\" died following a recent measles diagnosis that had been treated. The coroner's office...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-10-12T19:55:40+00:00",
-    "date_str": "Oct 12, 2026"
-  },
-  {
-    "title": "Pediatric Innovation Isn’t a Small-Market Problem, It’s an Incentive Problem",
-    "url": "https://medcitynews.com/2026/10/pediatric-innovation-isnt-a-small-market-problem-its-an-incentive-problem/",
-    "summary": "Investing in pediatric care is not simply a moral imperative. It is one of the most practical long-term investments the healthcare system can make. The post Pediatric Innovation Isn’t a Small-Market Problem, It’s an Incentive Problem appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-12T13:46:00+00:00",
-    "date_str": "Oct 12, 2026"
-  },
-  {
-    "title": "Loneliness And Diabetes: Harnessing an Opportunity for Better Outcomes",
-    "url": "https://medcitynews.com/2026/10/loneliness-and-diabetes-harnessing-an-opportunity-for-better-outcomes/",
-    "summary": "Asking the right questions about community support, caregiving responsibilities, emotional well-being, and the availability of trusted social networks can establish important context for a person’s outcomes — and spark conversations about social needs that might never otherwise take place. The post Loneliness And Diabetes: Harnessing an Opportunity for Better Outcomes appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-12T13:27:00+00:00",
-    "date_str": "Oct 12, 2026"
-  },
-  {
-    "title": "Join Us at INVEST Digital Health for a Conversation on Consumer-Centered Care across the Healthcare Ecosystem",
-    "url": "https://medcitynews.com/2026/10/join-us-at-invest-digital-health-for-a-conversation-on-consumer-centered-care-across-the-healthcare-ecosystem/",
-    "summary": "Register for INVEST Digital Health, scheduled for October 29 in Dallas, for an engaging discussion on the impact of consumer-centered care from diagnostics to employer benefits and more. The post Join Us at INVEST Digital Health for a Conversation on Consumer-Centered Care across the Healthcare Ecosystem appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-12T13:00:15+00:00",
-    "date_str": "Oct 12, 2026"
-  },
-  {
-    "title": "Are Hospital Operating Rooms Ready For FDA’s Expectations for Surgical Robots?",
-    "url": "https://medcitynews.com/2026/10/are-hospital-operating-rooms-ready-for-fdas-expectations-for-surgical-robots/",
-    "summary": "The FDA recently published draft guidance on pre-market testing for robotically-assisted surgical devices, raising timely discussion around whether hospital infrastructures are capable of supporting increasingly complex systems. The post Are Hospital Operating Rooms Ready For FDA’s Expectations for Surgical Robots? appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-12T12:00:00+00:00",
-    "date_str": "Oct 12, 2026"
-  },
-  {
-    "title": "Here's what to know if you're unsure about your measles immunity status",
-    "url": "https://www.npr.org/2026/10/12/nx-s1-5991904/measles-vaccination-status-outbreak-extra-dose",
-    "summary": "Vaccination is the best way to protect yourself against measles. For most adults, one shot of the MMR is considered enough protection. But there are certain situations that call for a second dose.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-12T09:00:00+00:00",
     "date_str": "Oct 12, 2026"
   }
 ]
