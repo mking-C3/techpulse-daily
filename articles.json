@@ -1,5 +1,25 @@
 [
   {
+    "title": "STAT+: Cambridge scientist David Sabatini speaks out after courtroom victory: ‘The hardest years of my life’",
+    "url": "https://www.statnews.com/2026/10/18/david-sabatini-speaks-out-after-courtroom-win-metoo-trial/?utm_campaign=rss",
+    "summary": "\"The hardest years of my life,\" is how Cambridge scientist David Sabatini describes the time since his downfall from MIT.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-19T00:54:03+00:00",
+    "date_str": "Oct 19, 2026"
+  },
+  {
+    "title": "'Tech Is Not Good or Bad, But Neither Is it Neutral': What We Heard This Week",
+    "url": "https://www.medpagetoday.com/opinion/what-we-heard/123452",
+    "summary": "(MedPage Today) -- \"Tech is not good or bad, but neither is it neutral.\" -- Mishal Khan, PhD, of the UC Berkeley Labor Center in California, on artificial intelligence (AI) in healthcare. \"If someone wants to get mFlusiva, they're going to have...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-18T20:00:00+00:00",
+    "date_str": "Oct 18, 2026"
+  },
+  {
     "title": "Startup OMass Secures $310M to Advance Drug for Rare Endocrine Disorder",
     "url": "https://medcitynews.com/2026/10/startup-omass-rare-disease-endocrine-hormone-melanocortin-2-mc2-cah/",
     "summary": "OMass’s molecule is vying to become an alternative to a Neurocrine Biosciences drug that is currently the only FDA-approved therapy for congenital adrenal hyperplasia. But Vertex Pharmaceuticals could also compete with a drug candidate from a recent acquisition. The post Startup OMass Secures $310M to Advance Drug for Rare Endocrine Disorder appeared first on MedCity News .",
@@ -2377,26 +2397,6 @@
     "category": "Drug Coverage",
     "category_slug": "drug-coverage",
     "date": "2026-10-13T13:37:43.185506+00:00",
-    "date_str": "Oct 13, 2026"
-  },
-  {
-    "title": "UnitedHealth Group beats the Street with $4.1B in profit for Q3",
-    "url": "https://www.fiercehealthcare.com/payers/unitedhealth-group-beats-street-41b-profit-q3",
-    "summary": "Another round of healthcare industry earnings reports kicked off Tuesday morning, with UnitedHealth Group reporting $4.1 billion in profit for the third quarter.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-13T13:37:43.185530+00:00",
-    "date_str": "Oct 13, 2026"
-  },
-  {
-    "title": "Thoreau-backed Ensemble, Penelope Health partner to bring payer policy intelligence into RCM",
-    "url": "https://www.fiercehealthcare.com/health-tech/thoreau-backed-ensemble-penelope-health-partner-tackle-payer-denials-upstream",
-    "summary": "Two Thoreau-backed healthcare companies are partnering to bring real-time payer policy intelligence into revenue cycle workflows. The aim is to move claims denial management upstream into denial prevention, the companies said.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-13T13:37:43.185554+00:00",
     "date_str": "Oct 13, 2026"
   }
 ]
