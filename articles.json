@@ -1,5 +1,65 @@
 [
   {
+    "title": "AdvaMed’s 4 Policy Priorities, According to Its CEO",
+    "url": "https://medcitynews.com/2026/10/advameds-4-policy-priorities-according-to-its-ceo/",
+    "summary": "AdvaMed CEO Scott Whitaker outlined four policy priorities at the MedTech Conference: tariffs, FDA user fees, payment and coverage, and cybersecurity. The post AdvaMed’s 4 Policy Priorities, According to Its CEO appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-19T23:20:05+00:00",
+    "date_str": "Oct 19, 2026"
+  },
+  {
+    "title": "The Ebola crisis is far outpacing the response, Congo's IRC director says",
+    "url": "https://www.npr.org/2026/10/19/nx-s1-6005499/the-ebola-crisis-is-far-outpacing-the-response-congos-irc-director-says",
+    "summary": "Health workers battling the ongoing Ebola outbreak in Congo are hindered by lack of data, budget cuts and a fearful community.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-19T22:38:29+00:00",
+    "date_str": "Oct 19, 2026"
+  },
+  {
+    "title": "'Groundbreaking Option' Approved for Rectal Cancer",
+    "url": "https://www.medpagetoday.com/hematologyoncology/coloncancer/123473",
+    "summary": "(MedPage Today) -- The FDA on Monday granted accelerated approval to the PD-1 inhibitor dostarlimab (Jemperli) to help select patients with operable rectal cancer potentially avoid surgery. The approval allows use in stage II/III patients with...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-19T21:42:29+00:00",
+    "date_str": "Oct 19, 2026"
+  },
+  {
+    "title": "White House Doctor Must Be Within 3 Minutes of Trump, Report Says",
+    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/123472",
+    "summary": "(MedPage Today) -- It's not easy being the President's physician, but the Wall Street Journal captured some of the biggest challenges facing Sean Barbabella, DO -- including the need to always be within 3 minutes of the president. At age 80...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-19T21:16:44+00:00",
+    "date_str": "Oct 19, 2026"
+  },
+  {
+    "title": "Study Warns of More Chronic Hepatitis B in the Years Ahead",
+    "url": "https://www.medpagetoday.com/infectiousdisease/hepatitis/123471",
+    "summary": "(MedPage Today) -- Shifting from a universal birth dose of the hepatitis B virus (HBV) vaccine to recently proposed strategies of deferred vaccination or a shared decision-making approach could increase chronic HBV infections, according to projections...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-19T21:15:33+00:00",
+    "date_str": "Oct 19, 2026"
+  },
+  {
+    "title": "ADHD Tied to Higher Mortality Risk",
+    "url": "https://www.medpagetoday.com/neurology/adhd-add/123470",
+    "summary": "(MedPage Today) -- People with attention-deficit hyperactivity disorder (ADHD) had a higher mortality risk compared with others, a study of 16 million people showed. In a systematic review and meta-analysis, ADHD was tied to a 71% increased risk...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-19T21:04:12+00:00",
+    "date_str": "Oct 19, 2026"
+  },
+  {
     "title": "Merck KGaA’s $1.1B Silence Therapeutics Buyout Brings RNA Drug for Rare Blood Cancer",
     "url": "https://medcitynews.com/2026/10/merck-kgaa-silence-therapeutics-acquisition-polycythemia-vera-divesiran-sirna-rna-interference-sln/",
     "summary": "The Silence Therapeutics acquisition gives Merck KGaA a drug ready for a pivotal test in the blood disorder polycythemia vera. Silence’s RNA therapy offers a different approach and a potential dosing advantage over a Takeda Pharmaceutical product recently approved in this indication. The post Merck KGaA’s $1.1B Silence Therapeutics Buyout Brings RNA Drug for Rare Blood Cancer appeared first on MedCity News .",
@@ -2337,66 +2397,6 @@
     "category": "Medicare News",
     "category_slug": "medicare-news",
     "date": "2026-10-13T14:10:00+00:00",
-    "date_str": "Oct 13, 2026"
-  },
-  {
-    "title": "STAT+: BlackRock to buy majority stake in Humana’s CenterWell clinics for $2.8 billion",
-    "url": "https://www.statnews.com/2026/10/13/blackrock-humana-centerwell-deal-senior-care-medicare-clinics/?utm_campaign=rss",
-    "summary": "Humana is swapping out private equity sponsors for its CenterWell Senior Primary Care clinics. Good bye, Welsh, Carson, Anderson & Stowe. Hello, BlackRock.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-13T20:25:40+00:00",
-    "date_str": "Oct 13, 2026"
-  },
-  {
-    "title": "Helen Branswell, whose reporting on infectious diseases and public health drew acclaim, dies at 69",
-    "url": "https://www.statnews.com/2026/10/13/helen-branswell-stat-reporter-obituary/?utm_campaign=rss",
-    "summary": "Helen Branswell, STAT's infectious disease reporter who earned the respect of experts and public health officials with her accessible, prescient dispatches, has died at age 69.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-13T18:11:36+00:00",
-    "date_str": "Oct 13, 2026"
-  },
-  {
-    "title": "STAT+: Many patient, consumer reps on FDA advisory panels have ties to groups funded by pharma, analysis finds",
-    "url": "https://www.statnews.com/pharmalot/2026/10/13/many-patient-and-consumer-reps-on-fda-advisory-committees-ties-to-groups-funded-by-pharma/?utm_campaign=rss",
-    "summary": "Nearly 40% of FDA advisory committee meetings over a 20-year period included either a patient or consumer rep with active ties to an advocacy group funded by pharma companies.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-13T18:00:13+00:00",
-    "date_str": "Oct 13, 2026"
-  },
-  {
-    "title": "STAT+: Animosity in North Carolina, and MA shooting stars",
-    "url": "https://www.statnews.com/2026/10/13/animosity-in-north-carolina-and-ma-shooting-stars-health-care-inc/?utm_campaign=rss",
-    "summary": "In this edition of Health Care Inc., we examine the controversy around the health plan covering North Carolina's public workers and retirees, and more.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-13T16:07:06+00:00",
-    "date_str": "Oct 13, 2026"
-  },
-  {
-    "title": "STAT+: Doctors are giving generously to doctors running for office",
-    "url": "https://www.statnews.com/2026/10/13/health-policy-news-doctor-donations-maha-midterms/?utm_campaign=rss",
-    "summary": "Doctors have a lot on the line in the next couple years, and they are donating big to doctors running for political office.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-13T15:43:56+00:00",
-    "date_str": "Oct 13, 2026"
-  },
-  {
-    "title": "STAT+: FTC demands Martin Shkreli divest his pharma stocks",
-    "url": "https://www.statnews.com/2026/10/13/martin-shkreli-pharma-bro-ftc-contempt-stock-trades/?utm_campaign=rss",
-    "summary": "The FTC asked a federal court to hold Martin Shkreli in contempt for violating a court order banning him from working in the pharmaceutical industry",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-13T14:31:08+00:00",
     "date_str": "Oct 13, 2026"
   }
 ]
