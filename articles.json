@@ -1,5 +1,65 @@
 [
   {
+    "title": "Democrats Demand Tougher Standards for Companies Running Medicaid Systems",
+    "url": "https://kffhealthnews.org/medicaid/medicaid-eligibility-computer-systems-deloitte-democratic-senators-demand-tougher-standards/",
+    "summary": "A year after launching an inquiry into companies, including Deloitte, that receive billions in taxpayer dollars to build complex computer systems determining Medicaid eligibility, senators are urging the federal government to impose stricter rules.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-20T09:01:00+00:00",
+    "date_str": "Oct 20, 2026"
+  },
+  {
+    "title": "More Medications, More Risks. If You’re Worried, Start a Deprescribing Discussion.",
+    "url": "https://kffhealthnews.org/aging/healthq-deprescribing-medication-mix-drug-risks-polypharmacy-talk-to-doctor/",
+    "summary": "As people take a greater number of medications across years or decades, experts say the risk for adverse drug interactions increases. One way to advocate for yourself? Keep a list of your meds handy.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-20T09:00:00+00:00",
+    "date_str": "Oct 20, 2026"
+  },
+  {
+    "title": "As Politicians Argue About China, US Patients Find Cutting-Edge Treatment There",
+    "url": "https://kffhealthnews.org/health-industry/china-cancer-drugs-foreign-travel-pharma-biotech-fda-regulation-clinical-trials/",
+    "summary": "The rapid emergence of the Chinese biotech industry has panicked U.S. politicians, but investors and patients caution that a clampdown on pharmaceutical collaboration could hurt everyone.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-20T09:00:00+00:00",
+    "date_str": "Oct 20, 2026"
+  },
+  {
+    "title": "STAT+: Launch prices for new medicines dipped slightly last year but remain high, analysis finds",
+    "url": "https://www.statnews.com/pharmalot/2026/10/20/launch-price-of-new-medicines-drop-very-slightly-2025/?utm_campaign=rss",
+    "summary": "The median net price for 202 newly launched medicines rose by 35%, to $257,000 last year from $173,000 in 2022.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-20T10:30:00+00:00",
+    "date_str": "Oct 20, 2026"
+  },
+  {
+    "title": "STAT+: The key health care ballot measures we’re watching in the midterms",
+    "url": "https://www.statnews.com/2026/10/20/what-health-policy-battles-reveal-about-america-midterms-2026/?utm_campaign=rss",
+    "summary": "State fights over issues like transgender rights and Medicaid offer clues to where Americans stand on contentious health matters.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-20T08:30:00+00:00",
+    "date_str": "Oct 20, 2026"
+  },
+  {
+    "title": "Opinion: Resident physicians may lose some of their most important work hour protections",
+    "url": "https://www.statnews.com/2026/10/20/acgme-resident-physicians-work-hour-rules-time-off-between-shifts/?utm_campaign=rss",
+    "summary": "“It is important to create barriers between high intensity shifts with physical, intellectual, and emotional burden to avoid burnout” in residents, writes Arifeen Rahman.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-20T08:30:00+00:00",
+    "date_str": "Oct 20, 2026"
+  },
+  {
     "title": "AdvaMed’s 4 Policy Priorities, According to Its CEO",
     "url": "https://medcitynews.com/2026/10/advameds-4-policy-priorities-according-to-its-ceo/",
     "summary": "AdvaMed CEO Scott Whitaker outlined four policy priorities at the MedTech Conference: tariffs, FDA user fees, payment and coverage, and cybersecurity. The post AdvaMed’s 4 Policy Priorities, According to Its CEO appeared first on MedCity News .",
@@ -2337,66 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-10-13T15:30:50+00:00",
-    "date_str": "Oct 13, 2026"
-  },
-  {
-    "title": "Enzyme Supplement May Ease IBS Symptom Severity",
-    "url": "https://www.medpagetoday.com/meetingcoverage/acg/123381",
-    "summary": "(MedPage Today) -- An oral enzyme supplement appeared to reduce symptom severity for adults with irritable bowel syndrome (IBS), a prospective, single-arm study showed. Among over 400 patients taking the enzyme blend targeting FODMAPs (fermentable...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-13T15:10:14+00:00",
-    "date_str": "Oct 13, 2026"
-  },
-  {
-    "title": "Fact Check: Posts Falsely Claim Senate Candidate Talarico Was at a Mental Facility",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/123380",
-    "summary": "(MedPage Today) -- Republican officials and conservative social media users spread unfounded rumors in recent days that state Rep. James Talarico, the Democratic nominee in a competitive Texas Senate race, had suffered a mental health crisis....",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-13T14:37:06+00:00",
-    "date_str": "Oct 13, 2026"
-  },
-  {
-    "title": "Celeb Accused of Assaulting Nurse; 24M New Dementia Cases; Inappropriate Prescribing",
-    "url": "https://www.medpagetoday.com/nursing/nursing/123379",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Actress Selma Blair, who has multiple sclerosis, was accused of kicking a nurse at a hospital following an alleged assault of two flight attendants on a flight from...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-13T13:35:36+00:00",
-    "date_str": "Oct 13, 2026"
-  },
-  {
-    "title": "Happy Health’s Cuffless BP Device Wins FDA Clearance",
-    "url": "https://medcitynews.com/2026/10/happy-healths-cuffless-bp-device-wins-fda-clearance/",
-    "summary": "Happy Health has received FDA clearance for its wearable ring, which continuously measures blood pressure without a cuff or external calibration. The post Happy Health’s Cuffless BP Device Wins FDA Clearance appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-13T22:01:55+00:00",
-    "date_str": "Oct 13, 2026"
-  },
-  {
-    "title": "Roche Puts Up $100M to Pursue Promising But Competitive New Target in Obesity",
-    "url": "https://medcitynews.com/2026/10/roche-rona-therapeutics-obesity-alk7-rna-interference-rnai-sirna-rhhby/",
-    "summary": "Roche gains global rights to a Rona Therapeutics RNA interference drug designed to target ALK7, a genetically validated target for obesity and other metabolic indications. The growing field of companies pursuing ALK7 includes GSK and Arrowhead Pharmaceuticals. The post Roche Puts Up $100M to Pursue Promising But Competitive New Target in Obesity appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-13T20:13:51+00:00",
-    "date_str": "Oct 13, 2026"
-  },
-  {
-    "title": "Medicare Policy Shouldn’t Be Made in the Shadows",
-    "url": "https://medcitynews.com/2026/10/medicare-policy-shouldnt-be-made-in-the-shadows/",
-    "summary": "Medicare policy should be transparent and include appropriate notice and stakeholder input. And when a contractor gets it wrong, there should be a clear and rapid way to stop the harm to patients, their relationship with their doctor and the doctor’s practice. The post Medicare Policy Shouldn’t Be Made in the Shadows appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-13T14:10:00+00:00",
     "date_str": "Oct 13, 2026"
   }
 ]
