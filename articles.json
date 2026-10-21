@@ -1,5 +1,205 @@
 [
   {
+    "title": "Your Product Works — So Why Does It Still Fail in the Real World?",
+    "url": "https://medcitynews.com/2026/10/your-product-works-so-why-does-it-still-fail-in-the-real-world/",
+    "summary": "A patient’s automated risk score was reassuringly green. Pulling from a sparse medical record and infrequent acute visits, the model flagged him as low risk and routed him to the default, low-touch outpatient pathway — so why was the patient actively deteriorating? The post Your Product Works — So Why Does It Still Fail in the Real World? appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-21T13:34:00+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "STAT+: GSK picks up hep B drug approval",
+    "url": "https://www.statnews.com/2026/10/21/biotech-news-gsk-picks-up-hep-b-drug-approval/?utm_campaign=rss",
+    "summary": "GSK has won FDA approval for its hepatitis B drug, which extended functional cures to far more patients than previous methods.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-21T14:24:45+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Mark Cuban eyeing rare disease drugs, a ketamine gold rush, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/10/21/mark-cuban-eyes-rare-disease-drugs-ketamine-gold-rush/?utm_campaign=rss",
+    "summary": "Mark Cuban has a new vision for his company Cost Plus Drugs: shake up the business of custom-made rare disease medicines",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-21T13:26:27+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "STAT+: Roivant says closely watched immune drug succeeded in new eye disease",
+    "url": "https://www.statnews.com/2026/10/21/roivant-immune-drug-lisraya-noninfectious-uveitis-trial-results/?utm_campaign=rss",
+    "summary": "An immune drug from Roivant could be headed to a new market, after the company reported positive trials in the eye disease non-infectious uveitis.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-21T12:05:54+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "Nigeria identifies travel-related Ebola case",
+    "url": "https://www.statnews.com/2026/10/21/health-news-nigeria-travel-related-ebola-case-outbreak/?utm_campaign=rss",
+    "summary": "Nigeria has confirmed an imported Ebola case tied to the ongoing outbreak centered in the Democratic Republic of the Congo, becoming the fifth country to identify a related infection, health…",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-21T11:54:47+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "New human data hints at psychedelics' potential to combat inflammation",
+    "url": "https://www.npr.org/2026/10/21/nx-s1-6009441/psychedelics-brain-inflammation-immune-system",
+    "summary": "Lab studies have shown that psychedelics like psilocybin can lower inflammation and may be protective for a range of illnesses. Now, researchers are publishing some of the first data in humans that signals this holds potential for patients with neurodegenerative diseases like Parkinson's disease.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-21T15:33:18+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "Christina Applegate Says Her Multiple Sclerosis Diagnosis Was Incorrect",
+    "url": "https://www.medpagetoday.com/neurology/multiplesclerosis/123505",
+    "summary": "(MedPage Today) -- Emmy-winning actor Christina Applegate revealed this week that her doctor said her diagnosis of multiple sclerosis (MS), which she first announced in 2021, was incorrect. \"I'm back at square one where I don't know what's going...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-21T16:00:25+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "Another Incretin Drug Proves Mettle in Sleep Apnea",
+    "url": "https://www.medpagetoday.com/pulmonology/sleepdisorders/123504",
+    "summary": "(MedPage Today) -- Treatment with the novel triple agonist retatrutide improved obstructive sleep apnea (OSA) in adults with obesity or overweight regardless of type 2 diabetes, two parallel randomized clinical trials showed. Mean reduction in...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-21T15:43:18+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "Hep B Vax Doses Seized; RFK Jr.'s Brazil Photos; MAHA Advisor's COI Waiver",
+    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/123503",
+    "summary": "(MedPage Today) -- The Guinea-Bissau offices of controversial researchers who were going to use CDC funds to run a trial of a hepatitis B birth dose in that country were raided by judicial police, who seized doses of the vaccine. (The Guardian...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-21T15:03:28+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "Real-World HIV Study Allays Doubts About Long-Acting ART Injectables",
+    "url": "https://www.medpagetoday.com/meetingcoverage/idweek/123502",
+    "summary": "(MedPage Today) -- WASHINGTON -- Long-acting injectable antiretroviral therapy (ART) maintained virologic suppression for HIV patients, with virologic failure rarely observed over more than 5 years, real-world data showed. Among OPERA cohort...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-21T14:55:51+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "A Deep Dive Into Double-Hit Lymphoma",
+    "url": "https://www.medpagetoday.com/spotlight/dlbcl/123500",
+    "summary": "(MedPage Today) -- Double-hit lymphoma -- a rare and aggressive subtype of diffuse large B-cell lymphoma (DLBCL) -- was first categorized as a specific diagnosis 10 years ago. However, it is \"an evolving term,\" explained Jason Westin, MD...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-21T13:46:25+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "Outbreak Hospitalizes 5 Across 12 States; Ob/Gyns Under Pressure; Ebola in Nigeria",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/productalert/123501",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. A Salmonella outbreak linked to raw oysters has sickened 27 people and hospitalized five across a dozen states, the CDC said. Meanwhile, the agency confirmed a...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-21T13:29:39+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "Tele-ICU Program Shortened Hospital Stays",
+    "url": "https://www.medpagetoday.com/meetingcoverage/chest/123499",
+    "summary": "(MedPage Today) -- Hospitals using remote intensivist staffing for their intensive care unit (ICU) saw shorter stays overall without negative safety signals, a longer-term follow-up study showed. Overall mean hospital length of stay dropped by...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-21T12:43:29+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "Centene, Oscar, UnitedHealthcare sidle into some new counties in 2027 ACA plans",
+    "url": "https://www.healthcaredive.com/news/centene-oscar-unitedhealthcare-new-counties-aca-2027/833442/",
+    "summary": "The major insurers are entering new Affordable Care Act markets as others are leaving the exchanges en masse, though in the cases of Centene and UnitedHealthcare, they paper over larger state exits.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-21T13:09:58+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "Cencora to acquire majority stake in $2.4B American Oncology Network",
+    "url": "https://www.fiercehealthcare.com/finance/cencora-acquire-majority-stake-24b-american-oncology-network",
+    "summary": "American Oncology Network spans 21 states and boasts more than 350 oncology providers, further adding to the oncology managed services organization Cencora already bolstered in a $5 billion deal last winter.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-21T16:39:58.878274+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "The hidden and not-so-hidden costs of the patient trust gap",
+    "url": "https://www.fiercehealthcare.com/hospitals/hidden-and-not-so-hidden-costs-patient-trust-gap",
+    "summary": "In this week's episode of \"Podnosis,\" we explore how breakdowns in patient trust can lead to missed care, higher costs and lost revenue, and what healthcare organizations can do to address them.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-21T16:39:58.878333+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "Epic launches Connectors to link its AI tools with third-party apps",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/epic-launches-connectors-link-its-ai-tools-third-party-apps",
+    "summary": "Through \"Connectors,\" developers can connect their apps to Epic's AI tools—Emmie, Art and Penny—as well as custom AI agents organizations create through Agent Factory.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-21T16:39:58.878367+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "Elevance Health posts $1.4B in profit in Q3 earnings beat",
+    "url": "https://www.fiercehealthcare.com/payers/elevance-health-posts-14b-profit-q3-earnings-beat",
+    "summary": "Elevance Health is boosting its outlook for the year as it beat Wall Street analysts' expectations for both profit and revenue in the third quarter.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-21T16:39:58.878393+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "St. Luke’s Health System Selects hellocare.ai for Enterprise AI Assisted Virtual Care Deployment in Southern Idaho",
+    "url": "https://www.fiercehealthcare.com/sponsored/st-lukes-health-system-selects-hellocareai-enterprise-ai-assisted-virtual",
+    "summary": "Clearwater, FL — hellocare.ai, a leading provider of AI assisted virtual care and intelligent hospital room technology, today announced that St. Luke’s Health System has selected hellocare.ai for an enterprise-wide utilization of AI assisted virtual care solutions across its hospitals and inpatient facilities in southern Idaho.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-21T16:39:58.878442+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "Pennsylvania warns doctors about rising rates of rare congenital measles",
+    "url": "https://thehill.com/policy/healthcare/6162533-pennsylvania-congenital-measles-outbreak/",
+    "summary": "The Pennsylvania health department issued a warning to doctors Monday about an increase in measles cases during pregnancy, along with rising concern about congenital measles, a disease rarely seen in the U.S. The department’s alert said congenital measles — a measles infection in a newborn contracted from the mother — was identified “for the first...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-10-21T14:55:12+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
     "title": "States Are Forcing Hospitals To Offer More People Financial Aid. In Oregon, It’s Working.",
     "url": "https://kffhealthnews.org/health-care-costs/oregon-hospitals-presumptive-eligibility-screening-law-medical-debt-tradeoffs/",
     "summary": "Oregon passed a law to require hospitals to proactively screen patients to see if they qualify for financial aid. Patients got immediate relief. Hospitals pushed to roll back the law following federal cuts to Medicaid and Affordable Care Act subsidies.",
@@ -2198,205 +2398,5 @@
     "category_slug": "drug-coverage",
     "date": "2026-10-15T16:22:11.544505+00:00",
     "date_str": "Oct 15, 2026"
-  },
-  {
-    "title": "Mifepristone detection study draws fire from Senate Democrats",
-    "url": "https://thehill.com/policy/healthcare/6151217-senate-democrats-demand-epa-mifepristone/",
-    "summary": "Senate Democrats demanded answers Thursday from Environmental Protection Agency Administrator Lee Zeldin about an agency study to detect the abortion pill mifepristone in drinking water. Led by Sen. Patty Murray (D-Wash.), the entire Senate Democratic caucus signed a letter to Zeldin calling on him to remove mifepristone, misoprostol and their metabolites from the list of emerging contaminants...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-10-15T16:09:46+00:00",
-    "date_str": "Oct 15, 2026"
-  },
-  {
-    "title": "What Texas Reveals About the Obstacles to Getting Hospital Financial Aid",
-    "url": "https://kffhealthnews.org/health-industry/hospital-financial-aid-obstacles-presumptive-eligibility-texas-oregon/",
-    "summary": "Hospitals can prevent medical debt by offering financial help before sending big bills. A Tradeoffs investigation found that nearly half of nonprofit facilities in Texas say they will bill patients before screening them for aid. And most will not offer refunds to patients who pay and are later found to qualify for free care.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-15T09:00:00+00:00",
-    "date_str": "Oct 15, 2026"
-  },
-  {
-    "title": "7 Takeaways From an Investigation Into Financial Aid at Texas Hospitals",
-    "url": "https://kffhealthnews.org/health-care-costs/patient-financial-aid-texas-hospitals-charity-care-seven-takeaways/",
-    "summary": "Hospitals can prevent medical debt by preemptively wiping out a patient’s bill. But a Tradeoffs analysis finds that few nonprofit facilities in Texas use this tool to the maximum benefit of patients.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-15T09:00:00+00:00",
-    "date_str": "Oct 15, 2026"
-  },
-  {
-    "title": "STAT+: On Wall Street, there’s trouble stirring for biotech",
-    "url": "https://www.statnews.com/2026/10/15/wall-street-biotech-trouble-stirring/?utm_campaign=rss",
-    "summary": "On Wall Street, the real trouble for biotech, and the reason for investor angst, lies below the surface.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-15T10:30:00+00:00",
-    "date_str": "Oct 15, 2026"
-  },
-  {
-    "title": "Forty percent of high school students report binge eating in new CDC survey",
-    "url": "https://www.statnews.com/2026/10/15/teenage-binge-eating-cdc-survey-finds-alarming-rate/?utm_campaign=rss",
-    "summary": "About 40% of high school students reported binge-eating in the past month in a new CDC survey, highlighting how widespread this form of disordered eating is among young people.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-15T08:30:00+00:00",
-    "date_str": "Oct 15, 2026"
-  },
-  {
-    "title": "Opinion: MyChart said I could opt out of sharing my health data. Figuring out how was maddening",
-    "url": "https://www.statnews.com/2026/10/15/health-data-privacy-medical-record-opt-out-barriers-investigated/?utm_campaign=rss",
-    "summary": "Want to opt out of sharing your personal health data? You may need a notary, writes Alex Rosenblat.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-15T08:30:00+00:00",
-    "date_str": "Oct 15, 2026"
-  },
-  {
-    "title": "Opinion: My daughter’s death changed how I understood the nursing shortage",
-    "url": "https://www.statnews.com/2026/10/15/nursing-shortage-workforce-direct-support-home-care-workers-group-home/?utm_campaign=rss",
-    "summary": "Health systems invest in training, but lose early-career nurses within a few years.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-15T08:30:00+00:00",
-    "date_str": "Oct 15, 2026"
-  },
-  {
-    "title": "Essential items to stock in your medicine cabinet for cold and flu season",
-    "url": "https://www.npr.org/2026/10/15/nx-s1-6001703/essential-items-to-stock-in-your-medicine-cabinet-for-cold-and-flu-season",
-    "summary": "Cold and flu season is here. Before someone in your household gets hit, make sure you have these essential meds and comfort items in your medicine cabinet.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-15T09:02:00+00:00",
-    "date_str": "Oct 15, 2026"
-  },
-  {
-    "title": "HealthTap Introduces Virtual Primary Care Program for DME Suppliers",
-    "url": "https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/",
-    "summary": "HealthTap launched a virtual care program to support sleep equipment suppliers and patients using PAP therapy. The post HealthTap Introduces Virtual Primary Care Program for DME Suppliers appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-14T22:10:22+00:00",
-    "date_str": "Oct 14, 2026"
-  },
-  {
-    "title": "Ultragenyx Rare Disease Voucher Sales Secure $413M for More Potential Pipeline Building",
-    "url": "https://medcitynews.com/2026/10/ultragenyx-rare-pediatric-disease-priority-review-voucher-prv/",
-    "summary": "Ultragenyx Pharmaceutical sold two priority review vouchers, each from an FDA approval of a gene therapy. Both therapies came from business deals and proceeds from the voucher sales put Ultragenyx in a better financial position to pursue yet another deal for a rare disease asset. The post Ultragenyx Rare Disease Voucher Sales Secure $413M for More Potential Pipeline Building appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-14T21:25:56+00:00",
-    "date_str": "Oct 14, 2026"
-  },
-  {
-    "title": "Compass Pathways CEO: Psychedelics company will ‘go slow before we go fast’",
-    "url": "https://www.statnews.com/2026/10/14/compass-pathways-psychedelics-stat-summit/?utm_campaign=rss",
-    "summary": "The CEO of Compass Pathways said the company, whose psychedelic therapy is set for regulatory review this year, is prepared to “go slow before we go fast.”",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-15T00:01:24+00:00",
-    "date_str": "Oct 15, 2026"
-  },
-  {
-    "title": "Former FDA officials blast DOGE as ‘one of the biggest disasters in American history’",
-    "url": "https://www.statnews.com/2026/10/14/former-fda-commissioners-say-recruit-defend-support-agency-workforce/?utm_campaign=rss",
-    "summary": "Three former FDA chiefs criticized the DOGE cuts to the agency, saying they robbed the FDA of institutional knowledge that will take years to restore.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-14T23:23:20+00:00",
-    "date_str": "Oct 14, 2026"
-  },
-  {
-    "title": "As White House shifts focus toward AI and tech, U.S. science leaders defend role of the American university",
-    "url": "https://www.statnews.com/2026/10/14/american-science-funding-university-industry-shift-stat-summit-boston-2026/?utm_campaign=rss",
-    "summary": "White House planned shift of research funding from universities to industry risks creating a drought in basic research, science leaders say",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-14T22:13:33+00:00",
-    "date_str": "Oct 14, 2026"
-  },
-  {
-    "title": "Rampant Inflammation in Heart Failure: Can Anything Be Done About It?",
-    "url": "https://www.medpagetoday.com/meetingcoverage/hfsa/123415",
-    "summary": "(MedPage Today) -- PHOENIX -- Cardiovascular inflammation was highly prevalent among U.S. heart failure (HF) patients, a registry study found, illustrating the unmet need for good inflammation-targeting pharmacotherapy. In a subanalysis of POSEIDON...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-14T21:42:33+00:00",
-    "date_str": "Oct 14, 2026"
-  },
-  {
-    "title": "Deaths Halt Trial of Hemodialysis for Acute Kidney Injury",
-    "url": "https://www.medpagetoday.com/nephrology/generalnephrology/123414",
-    "summary": "(MedPage Today) -- Intermittent hemodialysis failed to prove noninferior to continuous renal-replacement therapy for critically ill patients with acute kidney injury and was associated with a higher incidence of death, according to findings from...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-14T21:31:29+00:00",
-    "date_str": "Oct 14, 2026"
-  },
-  {
-    "title": "Combination Cuts Kidney Injury Risk Following Septic Shock Procedure",
-    "url": "https://www.medpagetoday.com/criticalcare/sepsis/123403",
-    "summary": "(MedPage Today) -- Adding dobutamine to intraoperative norepinephrine lowered the incidence of acute kidney injury (AKI) in adults with septic shock undergoing surgical source control, an open-label Chinese randomized trial showed. New-onset or...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-14T16:37:31+00:00",
-    "date_str": "Oct 14, 2026"
-  },
-  {
-    "title": "Trump administration boots 189K deceased, duplicate enrollees off ACA subsidies",
-    "url": "https://www.healthcaredive.com/news/trump-administration-boots-189k-deceased-duplicate-enrollees-off-aca-subsi/833037/",
-    "summary": "It comes amid a broader crackdown on the ACA exchanges as the Trump administration continues its efforts to identify “fraud, waste and abuse” in federal programs.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-14T19:40:27+00:00",
-    "date_str": "Oct 14, 2026"
-  },
-  {
-    "title": "KFF: Individual health insurance enrollment fell 18 percent in June",
-    "url": "https://thehill.com/policy/healthcare/6149286-obamacare-enrollment-dropped-millions-kff-report/",
-    "summary": "Enrollment in ObamaCare and other health insurance plans on the individual market dropped by more than 4.5 million people over the past year, according to an analysis by health research organization KFF. Enrollment fell from 25.2 million in 2025 to 20.5 million in June 2026, an 18 percent drop — the largest year-to-year decrease since...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-10-14T21:28:12+00:00",
-    "date_str": "Oct 14, 2026"
-  },
-  {
-    "title": "Healthleap Raises $38M to Expand AI Screening for Overlooked Conditions in Hospitalized Patients",
-    "url": "https://medcitynews.com/2026/10/healthleap-raises-38m-to-expand-ai-screening-for-overlooked-conditions-in-hospitalized-patients/",
-    "summary": "Healthleap, a clinical AI platform that works within the EHR to screen hospitalized patients for conditions that might otherwise go undiagnosed, is supporting hospitals in finding at-risk patients sooner. The post Healthleap Raises $38M to Expand AI Screening for Overlooked Conditions in Hospitalized Patients appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-14T16:52:15+00:00",
-    "date_str": "Oct 14, 2026"
-  },
-  {
-    "title": "STAT+: Trump administration delays new rule that could restrict imported medicines from Canada and overseas",
-    "url": "https://www.statnews.com/pharmalot/2026/10/14/trump-administration-delays-new-rule-that-could-restrict-imported-meds-from-canad-and-overseas/?utm_campaign=rss",
-    "summary": "The Trump administration is delaying by 90 days a federal rule that could prevent Americans from obtaining prescription drugs from licensed international pharmacies.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-14T20:16:59+00:00",
-    "date_str": "Oct 14, 2026"
   }
 ]
