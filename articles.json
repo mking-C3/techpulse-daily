@@ -1,5 +1,115 @@
 [
   {
+    "title": "States Are Forcing Hospitals To Offer More People Financial Aid. In Oregon, It’s Working.",
+    "url": "https://kffhealthnews.org/health-care-costs/oregon-hospitals-presumptive-eligibility-screening-law-medical-debt-tradeoffs/",
+    "summary": "Oregon passed a law to require hospitals to proactively screen patients to see if they qualify for financial aid. Patients got immediate relief. Hospitals pushed to roll back the law following federal cuts to Medicaid and Affordable Care Act subsidies.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-21T09:00:00+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "New Arrivals in the ER? Georgia Gears Up To Solve Rural Maternal Health Crisis",
+    "url": "https://kffhealthnews.org/health-industry/obstetric-carts-georgia-maternal-health-labor-delivery-rural-hospitals-south-carolina/",
+    "summary": "Most of Georgia’s counties are without a labor and delivery unit. To fill the gap, the state is looking to equip emergency rooms to handle obstetric emergencies. Advocates and doctors worry, however, that the ER is being used as a stopgap.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-21T09:00:00+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "A counterintuitive way to build trust in measles vaccines and public health",
+    "url": "https://www.statnews.com/2026/10/21/measles-vaccination-uptake-experts-suggest-messaging-change/?utm_campaign=rss",
+    "summary": "Some experts say public health messaging would be more credible if it focused less on measles deaths and acknowledged that most children survive.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-21T08:30:00+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "STAT+: Mark Cuban wants to crack open the market for rare disease treatments",
+    "url": "https://www.statnews.com/2026/10/21/mark-cuban-cost-plus-drugs-rare-disease-medicines/?utm_campaign=rss",
+    "summary": "Mark Cuban's Cost Plus Drugs says it can reduce manufacturing costs for custom rare disease drugs and n-of-1 gene therapies.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-21T08:30:00+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "Opinion: Replication is necessary even if scientists do everything right",
+    "url": "https://www.statnews.com/2026/10/21/nih-replication-process-type-1-error-bhattacharya/?utm_campaign=rss",
+    "summary": "“Committing a Type 1 error does not reflect poorly on the quality of the science done,” writes Mark Louie F. Ramos",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-21T08:30:00+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "Opinion: How knocking on doors can help beat measles — again",
+    "url": "https://www.statnews.com/2026/10/21/measles-public-health-door-to-door-initiatives/?utm_campaign=rss",
+    "summary": "“As measles outbreaks spread in the U.S., it may be time to learn how other countries get their outbreaks under control,” writes Raj Panjabi.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-21T08:30:00+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "STAT+: A German biotech has big ambitions in cancer. Now it needs to get a medicine approved",
+    "url": "https://www.statnews.com/2026/10/21/immatics-cancer-cell-therapy-targets-prame-protein/?utm_campaign=rss",
+    "summary": "After a quarter century of work, the German biotech Immatics is facing a pivotal moment as it awaits Phase 3 results for its lead candidate in melanoma.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-21T08:30:00+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "Expecting a baby? 5 tips to help you prepare for pregnancy costs",
+    "url": "https://www.npr.org/2026/10/21/nx-s1-5996849/insurance-cost-baby-pregnancy",
+    "summary": "The cost of having a baby is difficult to predict. The amount families pay varies widely. Here are five tips to help you prepare for the often unexpected costs of pregnancy and giving birth.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-21T09:00:00+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "Actor Christina Applegate says she was misdiagnosed with multiple sclerosis",
+    "url": "https://www.npr.org/2026/10/21/nx-s1-6009382/actor-christina-applegate-says-she-was-misdiagnosed-with-multiple-sclerosis",
+    "summary": "Actor Christina Applegate revealed she was misdiagnosed with multiple sclerosis. NPR's A Martínez speaks with neurologist Michael Kornberg about how MS can be misdiagnosed.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-21T08:42:30+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "Study Supports Starting HPV Vaccination at a Younger Age",
+    "url": "https://www.medpagetoday.com/meetingcoverage/idweek/123494",
+    "summary": "(MedPage Today) -- WASHINGTON -- Children who started the two-dose human papillomavirus (HPV) vaccine series at age 9 or 10 years were more than twice as likely to get both shots versus those who began later, a cluster randomized trial showed...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-21T04:01:00+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "Not Just Moms Who Put Unvaccinated Infants at Risk of Hepatitis B, Study Shows",
+    "url": "https://www.medpagetoday.com/meetingcoverage/idweek/123482",
+    "summary": "(MedPage Today) -- WASHINGTON -- For young children, exposure to hepatitis B virus (HBV) mostly came from someone other than their mother in the household, according to a retrospective cohort study. Among over 158,000 children younger than 5...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-21T04:01:00+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
     "title": "FDA Official Believes GenAI-enabled Tools Will Need to Be Assessed Like a Physician",
     "url": "https://medcitynews.com/2026/10/fda-official-believes-genai-enabled-tools-will-need-to-be-assessed-like-a-physician/",
     "summary": "Rick Abramson, a radiologist by training and the director of FDA’s Digital Health Center of Excellence said, “We ended up putting out this idea that maybe these devices are starting to behave a little bit more like me as a physician than a heart valve or a defibrillator.” The post FDA Official Believes GenAI-enabled Tools Will Need to Be Assessed Like a Physician appeared first on MedCity News .",
@@ -2287,116 +2397,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-10-14T20:16:59+00:00",
-    "date_str": "Oct 14, 2026"
-  },
-  {
-    "title": "How consumer tech company Whoop is building for Medicare patients",
-    "url": "https://www.statnews.com/2026/10/14/whoop-ami-bhatt-population-health-stat-summit-boston-2026/?utm_campaign=rss",
-    "summary": "Whoop's chief medical officer, said the company's work with Medicare is an opportunity to prove its ability to improve health at the population level.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-14T18:16:08+00:00",
-    "date_str": "Oct 14, 2026"
-  },
-  {
-    "title": "Medicare Advantage plans are shutting down, leaving millions without coverage",
-    "url": "https://www.npr.org/2026/10/14/nx-s1-6000366/medicare-advantage-plans-are-shutting-down-leaving-millions-without-coverage",
-    "summary": "Medicare open enrollment starts Thursday, Oct. 15. And for several million seniors across the country it will be especially important. That's because some insurers are shutting their Medicare Advantage plans, especially in rural areas.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-14T20:27:53+00:00",
-    "date_str": "Oct 14, 2026"
-  },
-  {
-    "title": "Long-Acting HIV Shot Works Just Fine for Patients With Adherence Issues",
-    "url": "https://www.medpagetoday.com/infectiousdisease/hivaids/123413",
-    "summary": "(MedPage Today) -- Long-acting injectable therapy was similar to daily oral therapy for maintaining viral suppression in people with HIV and adherence challenges in Africa, according to an open-label phase IIIb trial. At 48 weeks, 91% of participants...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-14T21:02:17+00:00",
-    "date_str": "Oct 14, 2026"
-  },
-  {
-    "title": "Oral Peptide Shows Durable Efficacy in Ulcerative Colitis",
-    "url": "https://www.medpagetoday.com/meetingcoverage/acg/123412",
-    "summary": "(MedPage Today) -- An oral peptide that blocks the interleukin-23 receptor demonstrated durable long-term efficacy in patients with moderately to severely active ulcerative colitis, according to results from the phase IIb ANTHEM-UC trial. During...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-14T21:00:00+00:00",
-    "date_str": "Oct 14, 2026"
-  },
-  {
-    "title": "Continuous Glucose Monitoring Beneficial in Type 2 Diabetes Not Treated With Insulin",
-    "url": "https://www.medpagetoday.com/primarycare/diabetes/123405",
-    "summary": "(MedPage Today) -- Use of a continuous glucose monitor (CGM) reduced HbA1c levels in adults with type 2 diabetes not treated with insulin, the randomized CONNECT trial showed. Among 283 patients at primary care practices, mean HbA1c levels decreased...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-14T21:00:00+00:00",
-    "date_str": "Oct 14, 2026"
-  },
-  {
-    "title": "Remembering RJ Mitte: A Reflection on Loss and Men's Mental Health",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/123411",
-    "summary": "(MedPage Today) -- I adored RJ Mitte. As an actor, he possessed a gentleness and a presence on screen that was compelling. Best known for playing Walter White Jr. in \"Breaking Bad,\" Mitte helped transform popular assumptions about disability through...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-14T20:08:16+00:00",
-    "date_str": "Oct 14, 2026"
-  },
-  {
-    "title": "Geographic Atrophy Growth Rate Reduced by Half With Anti-Inflammasome Implant",
-    "url": "https://www.medpagetoday.com/meetingcoverage/aao/123410",
-    "summary": "(MedPage Today) -- NEW ORLEANS -- A new therapeutic approach to geographic atrophy (GA) showed promise for slowing disease progression, according to a preliminary clinical trial. The rate of GA lesion growth decreased by 54% after 6 months with...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-14T19:15:28+00:00",
-    "date_str": "Oct 14, 2026"
-  },
-  {
-    "title": "Streamed Execution Sparks PTSD Concerns; 17% of Teens Anxious; Actor Dies of Suicide",
-    "url": "https://www.medpagetoday.com/psychiatry/generalpsychiatry/123409",
-    "summary": "(MedPage Today) -- Mental health experts warned that livestreaming the firing squad execution of former army psychiatrist Nidal Hasan, MD, who killed 13 people at the Fort Hood military base, could trigger post-traumatic stress disorder (PTSD...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-14T18:48:30+00:00",
-    "date_str": "Oct 14, 2026"
-  },
-  {
-    "title": "Disrespectful Language in Medical Records Isn't Rare, Survey Shows",
-    "url": "https://www.medpagetoday.com/practicemanagement/informationtechnology/123408",
-    "summary": "(MedPage Today) -- A sizeable proportion of patients reported disrespectful or judgmental language in their medical records, a nationally weighted survey showed. More than one in six adults (17.1%) reported such language in their own medical records...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-14T18:15:04+00:00",
-    "date_str": "Oct 14, 2026"
-  },
-  {
-    "title": "Study Reassures on Benzodiazepines in Early Pregnancy",
-    "url": "https://www.medpagetoday.com/obgyn/pregnancy/123407",
-    "summary": "(MedPage Today) -- Benzodiazepine exposure in early pregnancy wasn't associated with congenital malformations, a large cohort study showed. Across more than 4 million pregnancies, children born to women who filled a benzodiazepine prescription...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-14T17:49:39+00:00",
-    "date_str": "Oct 14, 2026"
-  },
-  {
-    "title": "Managing Side Effects of Treatment for Advanced Prostate Cancer",
-    "url": "https://www.medpagetoday.com/beyond-diagnosis/mcspc/123406",
-    "summary": "(MedPage Today) -- In \"Beyond Diagnosis: Metastatic Castration-Sensitive Prostate Cancer,\" Cleveland Clinic oncologist Christopher Wee, MD, and host John Mangels discuss how clinicians can guide patients through the initial complexities of a metastatic...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-14T17:40:34+00:00",
     "date_str": "Oct 14, 2026"
   }
 ]
