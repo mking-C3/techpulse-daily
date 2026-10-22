@@ -1,5 +1,125 @@
 [
   {
+    "title": "Job-Based Health Plan Costs Rise, With Little Relief in Sight",
+    "url": "https://kffhealthnews.org/insurance/kff-survey-employer-based-health-plan-costs-rise-2026-2027/",
+    "summary": "Employers saw their healthcare premiums rise 5% this year — and some passed on that burden to workers — as the cost of family coverage in job-based insurance exceeds $28,000 for family plans.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-22T09:01:00+00:00",
+    "date_str": "Oct 22, 2026"
+  },
+  {
+    "title": "Trump Dangles Rural Health Dollars To Push States To Change Hospital Laws",
+    "url": "https://kffhealthnews.org/rural-health/rhtp-funding-certificate-of-need-con-laws-hospitals-tennessee/",
+    "summary": "The Trump administration has tied billions in rural health funding for states partly to the policy commitments they make, including ending their certificate of need, or CON, laws governing the construction of new hospitals.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-22T09:00:00+00:00",
+    "date_str": "Oct 22, 2026"
+  },
+  {
+    "title": "‘Go to Canada’: Trump Touted Americans’ Access to Cheaper Drugs. A New Rule Threatens It.",
+    "url": "https://kffhealthnews.org/health-care-costs/prescription-drugs-fda-cheaper-imports-trump-canada-new-rule-customs/",
+    "summary": "The Trump administration pushed back a rule — until after the midterm elections — that would complicate Americans’ access to less expensive medication imports from Canada and other countries.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-22T09:00:00+00:00",
+    "date_str": "Oct 22, 2026"
+  },
+  {
+    "title": "STAT+: Workers are paying 9% more for family health coverage this year, a higher jump than in the recent past",
+    "url": "https://www.statnews.com/2026/10/22/kff-2026-benefits-survey-9-percent-premium-increase/?utm_campaign=rss",
+    "summary": "A KFF survey finds that rising healthcare costs are squeezing both employers and workers.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-22T09:00:00+00:00",
+    "date_str": "Oct 22, 2026"
+  },
+  {
+    "title": "Opinion: What I got wrong about the Affordable Care Act — and how to fix it",
+    "url": "https://www.statnews.com/2026/10/22/aca-failure-contain-healthcare-costs-economist-regret/?utm_campaign=rss",
+    "summary": "“The big mistake, ironically, was the ACA’s lack of focus on affordability,” writes Dana Goldman.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-22T08:30:00+00:00",
+    "date_str": "Oct 22, 2026"
+  },
+  {
+    "title": "Opinion: The inherited disease my family called ‘it’ had a name, which changed everything",
+    "url": "https://www.statnews.com/2026/10/22/rare-disease-family-name-fenib-personal-essay/?utm_campaign=rss",
+    "summary": "For 50 years, doctors shrugged about the disease running through Miranda Pappas’ family. Then she discovered something.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-22T08:30:00+00:00",
+    "date_str": "Oct 22, 2026"
+  },
+  {
+    "title": "STAT+: Telehealth leapfrogs FDA approval with off-label GLP-1 prescriptions for addiction",
+    "url": "https://www.statnews.com/2026/10/22/glp-1-drugs-substance-use-disorder-telehealth-off-label-prescription/?utm_campaign=rss",
+    "summary": "As telehealth promotes GLP-1s for addiction, experts worry about fragmented care, and exposing patients to unknown risks.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-22T08:30:00+00:00",
+    "date_str": "Oct 22, 2026"
+  },
+  {
+    "title": "5 simple ways to relieve the aches and pains of sitting at a desk all day",
+    "url": "https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-aches-and-pains-of-sitting-at-a-desk-all-day",
+    "summary": "Sitting at a desk all day hurts. And it isn't good for us. Strategies to make it a little more comfortable, from eye muscle exercises to alleviate eye strain to a back pain-fighting body movement.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-22T09:01:00+00:00",
+    "date_str": "Oct 22, 2026"
+  },
+  {
+    "title": "A GOP congressman voted to cut Medicaid. It covers 62% of his district. Can he win?",
+    "url": "https://www.npr.org/2026/10/22/nx-s1-6002928/republican-congress-midterms-medicaid-cuts-david-valadao-california",
+    "summary": "Republican U.S. Rep. David Valadao is fighting for reelection in central California. 6 in 10 residents of his district are covered by Medicaid, which he voted to cut last year.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-22T09:00:00+00:00",
+    "date_str": "Oct 22, 2026"
+  },
+  {
+    "title": "Can a dream help you solve a problem? Here's how to try tonight",
+    "url": "https://www.npr.org/2026/10/22/nx-s1-6008129/dream-incubation-research-self-discovery",
+    "summary": "What can you learn from dreams and how can you remember them and steer them to the topics you wish to dream about. Allison Aubrey and A Martinez discuss the resurgance in dream research and how dreams are a tool for self-discovery.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-22T09:00:00+00:00",
+    "date_str": "Oct 22, 2026"
+  },
+  {
+    "title": "High health costs squeeze workers, even if you have good insurance through a job",
+    "url": "https://www.npr.org/2026/10/22/nx-s1-6008153/health-insurance-costs-kff-commonwealth",
+    "summary": "About 157 million Americans get their health insurance through work. A survey of employers shows a moderate price uptick this year, but workers still say health costs are a top concern.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-22T09:00:00+00:00",
+    "date_str": "Oct 22, 2026"
+  },
+  {
+    "title": "KFF: Employer family premiums up 5% to $28K in 2026",
+    "url": "https://www.fiercehealthcare.com/payers/kff-employer-family-premiums-5-28k-2026",
+    "summary": "Employer family premiums grew yet again in 2026, increasing by 5% to $28,303 on average, according to a new report from KFF.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-22T11:12:42.491124+00:00",
+    "date_str": "Oct 22, 2026"
+  },
+  {
     "title": "Judi Health Launches Medicare Part D Plan for Employers",
     "url": "https://medcitynews.com/2026/10/judi-health-launches-medicare-part-d-plan-for-employers/",
     "summary": "Judi Health launched Judi Rx Retire, an employer-sponsored Medicare Part D plan designed to improve pricing transparency and streamline benefits administration. The post Judi Health Launches Medicare Part D Plan for Employers appeared first on MedCity News .",
@@ -2277,126 +2397,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-10-15T17:19:50+00:00",
-    "date_str": "Oct 15, 2026"
-  },
-  {
-    "title": "Hit a midlife wall? This test identifies your strengths and what matters to you",
-    "url": "https://www.npr.org/2026/10/15/nx-s1-5996678/hit-a-midlife-wall-this-test-identifies-your-strengths-and-what-matters-to-you",
-    "summary": "Kansas voters could send a Democrat to the Senate for the first time in nearly a century — and flip the governor's office back to Republican control, even in what could be a tough year for the GOP.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-15T20:50:53+00:00",
-    "date_str": "Oct 15, 2026"
-  },
-  {
-    "title": "Extreme Plastic Surgery Makeover Show Panned in New Documentary",
-    "url": "https://www.medpagetoday.com/popmedicine/cultureclinic/123437",
-    "summary": "(MedPage Today) -- Welcome to Culture Clinic, MedPage Today's collaboration with Northwell Health to offer a healthcare professional's take on the latest viral medical topics. Two decades ago, makeover shows dominated reality TV, but one show...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-15T19:47:49+00:00",
-    "date_str": "Oct 15, 2026"
-  },
-  {
-    "title": "Fast-Acting Pill Reduces Heartburn Frequency in Non-Erosive Reflux Disease",
-    "url": "https://www.medpagetoday.com/meetingcoverage/acg/123436",
-    "summary": "(MedPage Today) -- Patients with non-erosive reflux disease (NERD) who took once-daily tegoprazan -- a novel, fast-acting, oral potassium-competitive acid blocker (P-CAB) -- had a significant reduction in heartburn frequency, a phase III trial...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-15T19:44:41+00:00",
-    "date_str": "Oct 15, 2026"
-  },
-  {
-    "title": "Novel Imaging Method for Skin Disease Passes Early Scleroderma Test",
-    "url": "https://www.medpagetoday.com/rheumatology/generalrheumatology/123435",
-    "summary": "(MedPage Today) -- An emerging technique called spatial frequency domain imaging (SFDI) proved its mettle for evaluating skin fibrosis in systemic sclerosis (SSc), also called scleroderma, in an early clinical study. Comparing SFDI parameters...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-15T19:40:12+00:00",
-    "date_str": "Oct 15, 2026"
-  },
-  {
-    "title": "Sickle Cell Disease and Cancer Risk",
-    "url": "https://www.medpagetoday.com/spotlight/sickle-cell-anemia/123432",
-    "summary": "(MedPage Today) -- The issue of cancer risk in patients with sickle cell disease (SCD) continues to attract the attention of researchers and clinicians despite having been studied fairly extensively. Early studies, based primarily on case reports...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-15T18:16:35+00:00",
-    "date_str": "Oct 15, 2026"
-  },
-  {
-    "title": "Where Can I Get an mRNA Flu Shot?",
-    "url": "https://www.medpagetoday.com/infectiousdisease/uritheflu/123431",
-    "summary": "(MedPage Today) -- For those who want to try the new mRNA flu shot (mFlusiva) this season, tracking it down might take some work, experts said. Moderna's shot was only approved in August, for all adults ages 50 and older, long after national retail...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-15T17:55:46+00:00",
-    "date_str": "Oct 15, 2026"
-  },
-  {
-    "title": "Make the Diagnosis: What Caused This Patient’s Painful, Edematous Hand?",
-    "url": "https://www.medpagetoday.com/quizzes/diagnosis/123429",
-    "summary": "(MedPage Today) --",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-15T17:18:39+00:00",
-    "date_str": "Oct 15, 2026"
-  },
-  {
-    "title": "Night Shift Nurse or Ghost? Best Time to Fake a Page; Prior Auth Dark Ages",
-    "url": "https://www.medpagetoday.com/popmedicine/popmedicine/123428",
-    "summary": "(MedPage Today) -- The following contains links to social media websites including Bluesky, X, TikTok, Instagram, Facebook, and LinkedIn. Is that a night shift nurse or a ghost? Intensive care unit nurse Blake Lynch, RN, got in the spooky spirit...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-15T16:51:23+00:00",
-    "date_str": "Oct 15, 2026"
-  },
-  {
-    "title": "A New Medicare Season Begins, but Some Shifts Will Arrive in 2027",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/medicare/123427",
-    "summary": "(MedPage Today) -- Open enrollment for Medicare plans begins Thursday and enrollees will face a slew of changes that go into effect in 2027. During the enrollment period, which ends Dec. 7, people will have the opportunity to choose between traditional...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-15T16:42:49+00:00",
-    "date_str": "Oct 15, 2026"
-  },
-  {
-    "title": "Alzheimer's Drug ARIA Monitoring: Real-World Study Results",
-    "url": "https://www.medpagetoday.com/meetingcoverage/asfnr/123426",
-    "summary": "(MedPage Today) -- Rates of amyloid-related imaging abnormalities (ARIA) in Alzheimer's disease patients treated with lecanemab (Leqembi) in the real world were consistent with those seen in clinical trials, data from the LEADER study showed....",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-15T16:33:25+00:00",
-    "date_str": "Oct 15, 2026"
-  },
-  {
-    "title": "Perfusion Mismatch Ratio Predictive in Medium Vessel Occlusion Strokes",
-    "url": "https://www.medpagetoday.com/meetingcoverage/asfnr/123425",
-    "summary": "(MedPage Today) -- For medium vessel occlusion strokes, perfusion mismatch ratio predicted follow-up infarct volume, a multinational trial showed, supporting a role similar to that in large vessel occlusion. In the 94 isolated M2-segment occlusion...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-15T15:56:11+00:00",
-    "date_str": "Oct 15, 2026"
-  },
-  {
-    "title": "Zocdoc acquires Sohar Health in latest push to scale tech infrastructure",
-    "url": "https://www.healthcaredive.com/news/zocdoc-acquires-sohar-health-in-latest-push-to-scale-tech-infrastructure/833129/",
-    "summary": "It’s Zocdoc’s first acquisition in its nearly 20-year history as the online medical scheduling company works to scale its business. Sohar already provides insurance eligibility checks within Zocdoc’s appointment scheduling platform.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-15T16:16:10+00:00",
     "date_str": "Oct 15, 2026"
   }
 ]
