@@ -1,5 +1,55 @@
 [
   {
+    "title": "Judi Health Launches Medicare Part D Plan for Employers",
+    "url": "https://medcitynews.com/2026/10/judi-health-launches-medicare-part-d-plan-for-employers/",
+    "summary": "Judi Health launched Judi Rx Retire, an employer-sponsored Medicare Part D plan designed to improve pricing transparency and streamline benefits administration. The post Judi Health Launches Medicare Part D Plan for Employers appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-21T22:18:29+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "STAT+: CMS extends fraud crackdown to New York’s adult day care program",
+    "url": "https://www.statnews.com/2026/10/21/cms-medicaid-fraud-nyc-adult-daycare-operators/?utm_campaign=rss",
+    "summary": "CMS is cracking down on adult day cares in New York, part of a broader focus on alleged health care fraud.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-21T21:38:41+00:00",
+    "date_str": "Oct 21, 2026"
+  },
+  {
+    "title": "Integris Health to join Kaiser Permanente's Risant Health",
+    "url": "https://www.fiercehealthcare.com/providers/integris-health-join-kaiser-permanentes-risant-health",
+    "summary": "Pending approvals, Oklahoma's largest nonprofit health system will follow in the footsteps of Geisinger Health and Cone Health in seeking outside investment and tech-enabled value-based care know-how from the Kaiser subsidiary.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-22T03:26:19.788175+00:00",
+    "date_str": "Oct 22, 2026"
+  },
+  {
+    "title": "Amazon, Google among self-funded employers joining CMS' prior auth pledge",
+    "url": "https://www.fiercehealthcare.com/payers/amazon-google-among-self-funded-employers-joining-cms-prior-auth-pledge",
+    "summary": "The Trump administration revealed Wednesday that five of the country's largest employers have signed on to expand electronic prior authorization in self-funded plans.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-22T03:26:19.788236+00:00",
+    "date_str": "Oct 22, 2026"
+  },
+  {
+    "title": "Doximity adds UpToDate to Ask in push to become doctors’ go-to AI platform",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-adds-uptodate-ask-push-become-doctors-go-ai-platform",
+    "summary": "Doximity inked a partnership with Wolters Kluwer to embed UpToDate's evidence-based clinical content directly within Doximity Ask, the company’s AI clinical decision support tool.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-22T03:26:19.788277+00:00",
+    "date_str": "Oct 22, 2026"
+  },
+  {
     "title": "GSK Wins FDA Nod for Novel Hepatitis B Drug Offering a Potential Functional Cure",
     "url": "https://medcitynews.com/2026/10/gsk-chronic-hepatitis-b-fda-approval-bepirovirsen-hibsago-functional-cure-ionis-aso-ions/",
     "summary": "GSK’s Hibsago brings a new mechanism of action to chronic hepatitis B, targeting the genetic instructions the virus uses to make copies of itself and viral proteins. This drug was licensed from antisense oligonucleotide specialist Ionis Pharmaceuticals. The post GSK Wins FDA Nod for Novel Hepatitis B Drug Offering a Potential Functional Cure appeared first on MedCity News .",
@@ -2347,56 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-10-15T16:16:10+00:00",
-    "date_str": "Oct 15, 2026"
-  },
-  {
-    "title": "Rush, Endeavor to merge into Illinois powerhouse",
-    "url": "https://www.healthcaredive.com/news/rush-endeavor-to-merge-illinois-hospital-powerhouse/833089/",
-    "summary": "Joining forces could give the two Chicagoland systems a leg up in the region’s fragmented and competitive hospital market — if regulators approve.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-15T13:22:33+00:00",
-    "date_str": "Oct 15, 2026"
-  },
-  {
-    "title": "Millie to open first of several joint clinics with El Camino Health in the Bay Area",
-    "url": "https://www.fiercehealthcare.com/providers/millie-unveil-first-several-joint-clinics-el-camino-health-bay-area",
-    "summary": "The clinic will combine Millie’s midwifery care model with El Camino’s labor and delivery services and broader specialist network. The goal is to offer an integrated pregnancy, birth and postpartum experience.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-15T20:57:35.363690+00:00",
-    "date_str": "Oct 15, 2026"
-  },
-  {
-    "title": "Groups supporting RFK Jr. are spending nearly $2M in Iowa governor, House races",
-    "url": "https://www.politico.com/news/2026/10/15/maha-groups-spending-iowa-governor-house-races-01120984",
-    "summary": "It’s the first big outlay from Make America Healthy Again groups since they helped take down GOP Sen. Bill Cassidy in May.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-15T19:44:22+00:00",
-    "date_str": "Oct 15, 2026"
-  },
-  {
-    "title": "RFK Jr.-aligned MAHA group spends big on Iowa governor's race",
-    "url": "https://thehill.com/homenews/campaign/6151882-maha-action-pac-iowa-donation/",
-    "summary": "A political action committee associated with Health and Human Services (HHS) Secretary Robert F. Kennedy Jr.’s “Make America Healthy Again” (MAHA) movement announced Thursday it is investing more than $1 million in the Iowa governor’s race — the group’s largest contribution to date. MAHA Action PAC, a federal super PAC run by Kennedy ally and...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-10-15T18:44:16+00:00",
-    "date_str": "Oct 15, 2026"
-  },
-  {
-    "title": "Many popular foods may now use salt substitutes, says FDA",
-    "url": "https://thehill.com/policy/healthcare/6149944-fda-greenlights-salt-substitutes-popular-foods/",
-    "summary": "The FDA has finalized a rule allowing manufacturers to use salt substitutes in dozens of standardized foods.",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-10-15T17:42:58+00:00",
     "date_str": "Oct 15, 2026"
   }
 ]
