@@ -1,5 +1,115 @@
 [
   {
+    "title": "Amazon, Google and Other Major Employers Back CMS Prior Auth Effort",
+    "url": "https://medcitynews.com/2026/10/amazon-google-and-other-major-employers-back-cms-prior-auth-effort/",
+    "summary": "Amazon, Axon Enterprise, Google, Meta and Oracle backed expanding electronic prior authorization to self-funded employer health plans. The post Amazon, Google and Other Major Employers Back CMS Prior Auth Effort appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-22T21:52:36+00:00",
+    "date_str": "Oct 22, 2026"
+  },
+  {
+    "title": "STAT+: Gilead to pay $45 million to settle kickback charges filed by Texas attorney general",
+    "url": "https://www.statnews.com/pharmalot/2026/10/22/gilead-settles-kickback-lawsuit-texas-attorney-general/?utm_campaign=rss",
+    "summary": "Gilead Sciences agreed to pay $45 million to settle allegations of paying kickbacks that improperly influenced prescriptions paid for by the Texas Medicaid program",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-22T23:12:17+00:00",
+    "date_str": "Oct 22, 2026"
+  },
+  {
+    "title": "Donating a Kidney Could Lead to Later Pregnancy Complications",
+    "url": "https://www.medpagetoday.com/meetingcoverage/asn/123521",
+    "summary": "(MedPage Today) -- DENVER -- Donating a kidney was associated with a higher risk of gestational hypertensive disorders during subsequent pregnancy, though complications were rare overall, according to a Canadian matched cohort study. Among women...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-22T23:15:00+00:00",
+    "date_str": "Oct 22, 2026"
+  },
+  {
+    "title": "ADHD Drugs May Alleviate Menopausal Brain Fog",
+    "url": "https://www.medpagetoday.com/meetingcoverage/tms/123539",
+    "summary": "(MedPage Today) -- Attention deficit-hyperactivity disorder (ADHD) medications may improve subjective experiences with menopausal brain fog, but more research is needed, a scoping review suggested. Data from three crossover, randomized controlled...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-22T21:45:46+00:00",
+    "date_str": "Oct 22, 2026"
+  },
+  {
+    "title": "Multiple Sclerosis Diagnostic Delays Linked to Specialist, MRI Access",
+    "url": "https://www.medpagetoday.com/meetingcoverage/ectrims/123538",
+    "summary": "(MedPage Today) -- Disparities in geographic access to neurologists, specialists, and MRI facilities contributed significantly to diagnostic delays in multiple sclerosis (MS), a retrospective study showed. In a sample of nearly 8,300 patients...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-22T21:42:10+00:00",
+    "date_str": "Oct 22, 2026"
+  },
+  {
+    "title": "Fight Continues Against Trump Administration Changes to 340B Drug Discount Program",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/washington-watch/123537",
+    "summary": "(MedPage Today) -- The federal government's 340B program, which provides deeply discounted drugs to hospitals that serve low-income patients, continues to be a source of controversy for hospitals and drug companies. Earlier this month, the American...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-22T21:27:12+00:00",
+    "date_str": "Oct 22, 2026"
+  },
+  {
+    "title": "Second-Season RSV Immunization Worked for Eligible Children",
+    "url": "https://www.medpagetoday.com/meetingcoverage/idweek/123536",
+    "summary": "(MedPage Today) -- WASHINGTON -- Real-world data backed the effectiveness of second-season nirsevimab (Beyfortus) immunizations against hospitalizations for children at high risk for severe respiratory syncytial virus (RSV) illness. In the case...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-22T21:06:30+00:00",
+    "date_str": "Oct 22, 2026"
+  },
+  {
+    "title": "National Plan for Alzheimer's and Dementia Gets an Update From HHS",
+    "url": "https://www.medpagetoday.com/neurology/alzheimersdisease/123535",
+    "summary": "(MedPage Today) -- HHS announced an update Thursday to the National Plan to Address Alzheimer's Disease and Related Dementias that includes investment in projects focused on earlier detection and intervention. \"Under President Trump, HHS is shifting...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-22T20:36:46+00:00",
+    "date_str": "Oct 22, 2026"
+  },
+  {
+    "title": "Non-Hormonal Menopause Drugs Offer Sleep Relief",
+    "url": "https://www.medpagetoday.com/meetingcoverage/tms/123533",
+    "summary": "(MedPage Today) -- Neurokinin (NK)-receptor antagonists improved sleep disturbances in menopausal women, a meta-analysis of randomized controlled trials showed. Among women with moderate-to-severe vasomotor symptoms, the agents were associated...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-22T20:05:48+00:00",
+    "date_str": "Oct 22, 2026"
+  },
+  {
+    "title": "House Democrats demand answers from CDC on African hepatitis B study",
+    "url": "https://thehill.com/policy/healthcare/6166854-cdc-hepatitis-b-vaccine-trial-rfk-hhs/",
+    "summary": "Top Democrats on the House Energy and Commerce Committee demanded answers Thursday from the Centers for Disease Control and Prevention (CDC) about the agency’s funding of a controversial hepatitis B clinical trial in Guinea-Bissau. The CDC awarded $1.6 million last year to Danish researchers to conduct the study in Guinea-Bissau, a small country in West...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-10-22T22:03:54+00:00",
+    "date_str": "Oct 22, 2026"
+  },
+  {
+    "title": "CDC pushes Ebola requirements for international passengers traveling to US",
+    "url": "https://thehill.com/policy/healthcare/6166661-cdc-ebola-travel-requirement/",
+    "summary": "The Centers for Disease Control and Prevention (CDC) will require foreign travelers heading to the U.S. to certify they have not traveled to the Congo in the last three weeks amid a widespread outbreak of Ebola. Reuters first reported on the new requirement Thursday, citing a CDC memo. The CDC initially held rules barring any...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-10-22T21:47:37+00:00",
+    "date_str": "Oct 22, 2026"
+  },
+  {
     "title": "Alcon Expands Its Cell Therapy Ambitions With $550M Neurotech Pharma Acquisition",
     "url": "https://medcitynews.com/2026/10/alcon-expands-its-cell-therapy-ambitions-with-550m-neurotech-pharma-acquisition/",
     "summary": "Alcon’s Neurotech Pharmaceuticals acquisition brings the rare vision disorder cell therapy Encelto as well as the platform technology that developed it. Last year, Alcon acquired a majority stake in Aurion Biotech, a startup developing a corneal cell therapy. The post Alcon Expands Its Cell Therapy Ambitions With $550M Neurotech Pharma Acquisition appeared first on MedCity News .",
@@ -2287,116 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-10-16T20:10:32+00:00",
-    "date_str": "Oct 16, 2026"
-  },
-  {
-    "title": "CMS proposes MA 'ghost network,' PBM transparency requirements",
-    "url": "https://www.fiercehealthcare.com/regulatory/cms-proposes-ma-ghost-network-pbm-transparency-requirements",
-    "summary": "The administration took steps to codify statutory reforms focused on maintaining accurate Medicare Advantage provider directories and collecting more pricing information from pharmacy benefit managers.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-17T03:08:06.983289+00:00",
-    "date_str": "Oct 17, 2026"
-  },
-  {
-    "title": "Centene to expand CHOICE Arrangements program to its employees in Ohio, Oklahoma",
-    "url": "https://www.fiercehealthcare.com/payers/centene-expand-choice-arrangements-program-ohio-oklahoma-2027",
-    "summary": "Centene is expanding its CHOICE Arrangements benefits program to its employees in Ohio and Oklahoma in the 2027 plan year.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-17T03:08:06.983332+00:00",
-    "date_str": "Oct 17, 2026"
-  },
-  {
-    "title": "American Medical Association rolls out governance framework for agentic AI solutions",
-    "url": "https://www.fiercehealthcare.com/regulatory/american-medical-association-rolls-out-governance-framework-agentic-ai-solutions",
-    "summary": "AMA CEO John Whyte, M.D., told Fierce Healthcare the increasing use of AI in clinical functions is “raising urgent questions about clinical authority, oversight and accountability.”",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-17T03:08:06.983365+00:00",
-    "date_str": "Oct 17, 2026"
-  },
-  {
-    "title": "US measles cases top 4,400, far exceeding last year's totals",
-    "url": "https://thehill.com/policy/healthcare/6154416-us-measles-cases-exceed-4400/",
-    "summary": "National measles cases this year have now exceeded 4,400, all but guaranteeing the country will more than double the number of measles infections confirmed last year, which totaled 2,289. The latest update from the Centers for Disease Control and Prevention (CDC) on Friday recorded 4,410 total cases in 2026 just a week after the U.S....",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-10-16T21:18:03+00:00",
-    "date_str": "Oct 16, 2026"
-  },
-  {
-    "title": "City Therapeutics’ Upsized IPO Raises $200M to Bring RNAi Drugs Beyond the Liver",
-    "url": "https://medcitynews.com/2026/10/city-therapeutics-ipo-rna-interference-gene-silencing-rnai-sirna-cty/",
-    "summary": "City Therapeutics’ lead RNA interference therapy could become an alternative to blockbuster-selling anticoagulants. The company’s technology for designing RNAi drugs and delivering them to tissues throughout the body has already led to partnerships with Bausch + Lomb in eye diseases and Biogen in central nervous system disorders. The post City Therapeutics’ Upsized IPO Raises $200M to Bring RNAi Drugs Beyond the Liver appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-16T17:43:30+00:00",
-    "date_str": "Oct 16, 2026"
-  },
-  {
-    "title": "Hot flashes, night sweats, insomnia – OB-GYNS set new rules for menopause treatment",
-    "url": "https://www.npr.org/2026/10/16/nx-s1-6005201/health-treatment-menopause-hot-flash-night-sweats-insomnia",
-    "summary": "For the first time since 2014, the American College of Obstetricians and Gynecologists has updated its guidelines for the treatment of symptoms commonly associated with menopause.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-16T17:45:16+00:00",
-    "date_str": "Oct 16, 2026"
-  },
-  {
-    "title": "Improving Survival for Adults With Sickle Cell Disease",
-    "url": "https://www.medpagetoday.com/spotlight/sickle-cell-anemia/123454",
-    "summary": "(MedPage Today) -- Life expectancy for patients with sickle cell disease (SCD) has more than tripled in the past 50 years. Life expectancy in the 1970s for a person with SCD was less than 20 years, with some estimates as low as 14 years. By 2022...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-16T20:01:20+00:00",
-    "date_str": "Oct 16, 2026"
-  },
-  {
-    "title": "First At-Home Thyroid Eye Disease Shot Approved",
-    "url": "https://www.medpagetoday.com/endocrinology/thyroid/123453",
-    "summary": "(MedPage Today) -- The FDA approved satralizumab (Enspryng), the first and only at-home subcutaneous treatment option for adults with thyroid eye disease (TED), developer Roche announced on Thursday. The first-in-class drug is a humanized monoclonal...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-16T18:34:47+00:00",
-    "date_str": "Oct 16, 2026"
-  },
-  {
-    "title": "Subcutaneous Risankizumab Induction Improved Outcomes in Crohn's Disease",
-    "url": "https://www.medpagetoday.com/meetingcoverage/acg/123451",
-    "summary": "(MedPage Today) -- Subcutaneous risankizumab (Skyrizi) induction therapy significantly improved clinical remission and endoscopic response rates in patients with moderately to severely active Crohn's disease, results from the phase III AFFIRM trial...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-16T17:22:34+00:00",
-    "date_str": "Oct 16, 2026"
-  },
-  {
-    "title": "Keytruda Biosimilar Advances; Oncologist Turned Patient; Will AI Cure Cancer?",
-    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/123448",
-    "summary": "(MedPage Today) -- Zydus Lifesciences and Formycon AG announced FDA acceptance of a biologics license application for FYB206, a biosimilar to the blockbuster cancer drug pembrolizumab (Keytruda). The FDA expanded bladder cancer indications for...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-16T15:40:59+00:00",
-    "date_str": "Oct 16, 2026"
-  },
-  {
-    "title": "Medical Societies Start Pushing Back on RFK Jr.",
-    "url": "https://www.medpagetoday.com/podcasts/anamnesis/123446",
-    "summary": "(MedPage Today) -- The following is a transcript of the podcast episode: Rachael Robertson: Hey everybody! Welcome to MedPod Today, the podcast series where MedPage Today reporters share deeper insight into the week's biggest healthcare stories...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-16T15:10:13+00:00",
     "date_str": "Oct 16, 2026"
   }
 ]
