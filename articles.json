@@ -1,5 +1,125 @@
 [
   {
+    "title": "Medicaid at Risk for Hundreds of Thousands of Lawfully Present Immigrants",
+    "url": "https://kffhealthnews.org/medicaid/wamu-health-hub-medicaid-legal-immigrants-lose-coverage-gop-law/",
+    "summary": "Hundreds of thousands of lawfully present immigrants could lose government health coverage. This change stems from healthcare cuts in a GOP budget law. KFF Health News’ Andrew Jones tells WAMU’s “Health Hub” which Medicaid enrollees are affected and shares resources for newly uninsured people in the Washington, D.C., area.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-23T09:00:00+00:00",
+    "date_str": "Oct 23, 2026"
+  },
+  {
+    "title": "GOP Congressman in California Swing-District Race Defends Vote for Medicaid Cuts",
+    "url": "https://kffhealthnews.org/elections/valadao-villegas-california-22nd-house-district-healthcare-costs-ads-swing/",
+    "summary": "In a race that could help decide control of Congress, Republican U.S. Rep. David Valadao is trying to hold on to his swing-district seat. The congressman didn’t mention healthcare at a recent campaign rally in Bakersfield, but voters can't stop talking about it.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-23T09:00:00+00:00",
+    "date_str": "Oct 23, 2026"
+  },
+  {
+    "title": "Shopping for an ACA Plan This Year? Here’s What You Need To Know",
+    "url": "https://kffhealthnews.org/insurance/aca-obamacare-open-enrollment-marketplace-shopping-tips-premiums-costs-cms-changes/",
+    "summary": "As open enrollment for Affordable Care Act health insurance kicks off, consumers face rising premiums, additional identity checks, and fewer brokers.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-23T09:00:00+00:00",
+    "date_str": "Oct 23, 2026"
+  },
+  {
+    "title": "STAT+: Tango reports 82% tumor response rate in trial of combo therapy for advanced pancreatic cancer",
+    "url": "https://www.statnews.com/2026/10/23/esmo-2026-trial-results-tango-therapeutics-vopimetostat-revolution-medicines-rasonque/?utm_campaign=rss",
+    "summary": "An experimental drug combination led to tumor responses in 82% of patients with a certain type of advanced pancreatic cancer, Tango Therapeutics reported.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-23T10:30:00+00:00",
+    "date_str": "Oct 23, 2026"
+  },
+  {
+    "title": "STAT+: State officials scrambling to implement Medicaid work requirements meet up to swap notes",
+    "url": "https://www.statnews.com/2026/10/23/state-medicaid-officials-prepare-for-new-work-requirements/?utm_campaign=rss",
+    "summary": "What state officials scrambling to implement Medicaid work requirements shared behind closed doors at the National Association of Medicaid Directors conference.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-23T08:30:00+00:00",
+    "date_str": "Oct 23, 2026"
+  },
+  {
+    "title": "Opinion: New Medicare policies will keep important pain relief from some patients",
+    "url": "https://www.statnews.com/2026/10/23/severe-pain-policy-medicare-coverage-macs-nerve-block/?utm_campaign=rss",
+    "summary": "For some people, simply putting on pants can be excruciatingly painful. New policy will put pain relief out of reach for many, doctor writes.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-23T08:30:00+00:00",
+    "date_str": "Oct 23, 2026"
+  },
+  {
+    "title": "Opinion: Overdose deaths have plunged. We need to know why",
+    "url": "https://www.statnews.com/2026/10/23/opioid-deaths-fallen-naloxone-treatment-supply-shock-public-health/?utm_campaign=rss",
+    "summary": "The humbling truth is that forces outside medical care and public health policies must be playing the biggest role in a dramatic drop in opioid overdose deaths, three health experts…",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-23T08:30:00+00:00",
+    "date_str": "Oct 23, 2026"
+  },
+  {
+    "title": "STAT reporters react to the new Elizabeth Holmes documentary",
+    "url": "https://www.statnews.com/2026/10/23/explain-appeal-elizabeth-holmes-doc-status-report/?utm_campaign=rss",
+    "summary": "It seems everyone has a hot take on the new Elizabeth Holmes documentary, \"You Can See Everything.\" STAT reporters went to see the film — here's their review.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-23T08:30:00+00:00",
+    "date_str": "Oct 23, 2026"
+  },
+  {
+    "title": "How a targeted drug kept one patient alive 15 years — but failed to save her friends",
+    "url": "https://www.statnews.com/2026/10/23/lung-cancer-patient-ros1-mutation-on-crizotinib/?utm_campaign=rss",
+    "summary": "A lung cancer patient speaks out about her cutting-edge treatment: “Research is big on tracking survival stats, but quality of life for survivors — not so much.”",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-23T08:30:00+00:00",
+    "date_str": "Oct 23, 2026"
+  },
+  {
+    "title": "One family’s story of a life-extending medicine for pancreatic cancer",
+    "url": "https://www.statnews.com/2026/10/23/patient-story-pancreatic-cancer-drug-daraxonrasib-rasonque/?utm_campaign=rss",
+    "summary": "Bobby Senaha was among the first patients to use daraxonrasib, a new life-extending drug for pancreatic cancer. His wife shares what those extra months meant to his family.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-23T08:30:00+00:00",
+    "date_str": "Oct 23, 2026"
+  },
+  {
+    "title": "STAT+: Alnylam says Huntington’s drug shows promise in early study",
+    "url": "https://www.statnews.com/2026/10/23/huntingtons-alnylam-gene-silencing-brezosiran/?utm_campaign=rss",
+    "summary": "It’s yet to be seen whether Alnylam’s drug will actually slow progression of Huntington’s, but the field is lively.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-23T07:45:00+00:00",
+    "date_str": "Oct 23, 2026"
+  },
+  {
+    "title": "What if you gave yourself a day to cancel all the plans you dread?",
+    "url": "https://www.npr.org/2026/10/23/nx-s1-6011089/how-to-plan-a-say-no-retreat",
+    "summary": "It's a day to think about all the upcoming appointments and commitments you're dreading — and then decline some of them. Writer Caroline Sylge shares a suggested schedule for the day.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-23T09:00:00+00:00",
+    "date_str": "Oct 23, 2026"
+  },
+  {
     "title": "Amazon, Google and Other Major Employers Back CMS Prior Auth Effort",
     "url": "https://medcitynews.com/2026/10/amazon-google-and-other-major-employers-back-cms-prior-auth-effort/",
     "summary": "Amazon, Axon Enterprise, Google, Meta and Oracle backed expanding electronic prior authorization to self-funded employer health plans. The post Amazon, Google and Other Major Employers Back CMS Prior Auth Effort appeared first on MedCity News .",
@@ -2278,125 +2398,5 @@
     "category_slug": "senior-health",
     "date": "2026-10-18T14:00:00+00:00",
     "date_str": "Oct 18, 2026"
-  },
-  {
-    "title": "CDC sends a 'disease detective' to Pennsylvania amid measles outbreak",
-    "url": "https://thehill.com/policy/healthcare/6156261-cdc-assists-pennsylvania-measles-outbreak/",
-    "summary": "The Centers for Disease Control and Prevention (CDC) is sending a disease expert to assist with the response to the ongoing measles outbreak in Pennsylvania. “CDC will continue working closely with Pennsylvania health officials to provide the expertise and support needed to respond to the outbreak and protect public health,” the spokesperson told NBC News. The...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-10-18T01:46:05+00:00",
-    "date_str": "Oct 18, 2026"
-  },
-  {
-    "title": "Adult ADHD; Encouraging Advance Care Planning; Hospital Closures in the U.S.",
-    "url": "https://www.medpagetoday.com/podcasts/healthwatch/123450",
-    "summary": "(MedPage Today) -- TTHealthWatch is a weekly podcast from Texas Tech. In it, Elizabeth Tracey, director of electronic media for Johns Hopkins Medicine in Baltimore, and Rick Lange, MD, president of Texas Tech Health El Paso, look at the top medical...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-17T18:00:00+00:00",
-    "date_str": "Oct 17, 2026"
-  },
-  {
-    "title": "Healthcare Is Still on the Ballot. But the Debate Has Changed.",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/123447",
-    "summary": "(MedPage Today) -- As medical students in New York City, we spend our days witnessing firsthand how economics shapes patient care. Patients struggle to afford needed medications, battle insurance requirements, and wait months for specialty appointments...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-17T16:00:00+00:00",
-    "date_str": "Oct 17, 2026"
-  },
-  {
-    "title": "Iowa Faces a Reckoning Over Water Quality and Cancer Rates in Midterm Campaigns",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/environmentalhealth/123433",
-    "summary": "(MedPage Today) -- Iowa is facing a budget deficit, high costs, and economic strain from trade disputes that have squeezed farmers. But problems that have simmered for decades -- water quality and cancer rates -- have been forced to the forefront...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-17T14:00:00+00:00",
-    "date_str": "Oct 17, 2026"
-  },
-  {
-    "title": "Health insurance is the sleeper midterms issue: Why premiums are spiking",
-    "url": "https://thehill.com/policy/healthcare/6155375-aca-costs-to-spike-next-month/",
-    "summary": "Americans are bracing to pay significantly more for health insurance next month, whether they have Affordable Care Act plans or get insurance through work. Premiums for some people could be the highest in decades, while others may pay more in the form of out-of-pocket costs like copays or deductibles. People are getting squeezed by...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-10-17T10:00:00+00:00",
-    "date_str": "Oct 17, 2026"
-  },
-  {
-    "title": "Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital",
-    "url": "https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk",
-    "summary": "Patients travel miles to be treated at public hospitals in Delhi. Those in need get financial aid for their care. But for overnight accommodations, families are often on their own — and on the street.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-17T09:00:00+00:00",
-    "date_str": "Oct 17, 2026"
-  },
-  {
-    "title": "Why Epic Is Launching a Prescription Price Comparison Tool",
-    "url": "https://medcitynews.com/2026/10/why-epic-is-launching-a-prescription-price-comparison-tool/",
-    "summary": "Epic will launch a tool in summer 2027 to help patients compare prescription cash prices and insurance costs across pharmacies. The post Why Epic Is Launching a Prescription Price Comparison Tool appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-16T22:43:52+00:00",
-    "date_str": "Oct 16, 2026"
-  },
-  {
-    "title": "STAT+: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded",
-    "url": "https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/?utm_campaign=rss",
-    "summary": "A jury awarded $6 million in damages to scientist David Sabatini, whose career imploded after he was accused by a much younger colleague of inappropriate sexual conduct in his lab.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-17T02:38:35+00:00",
-    "date_str": "Oct 17, 2026"
-  },
-  {
-    "title": "PAs Hoping to Ease State Restrictions on Their Practice in 2027",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/workforce/123458",
-    "summary": "(MedPage Today) -- As the year comes to a close, the nation's physician associates (PAs) are looking forward to pursuing their state legislative agenda for 2027, including easing scope-of-practice restrictions. \"What's interesting about state...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-16T21:00:51+00:00",
-    "date_str": "Oct 16, 2026"
-  },
-  {
-    "title": "ACOG Guideline Backs Early Hormone Therapy for Menopause Symptoms",
-    "url": "https://www.medpagetoday.com/obgyn/menopause/123457",
-    "summary": "(MedPage Today) -- Updated guidelines from the American College of Obstetricians and Gynecologists (ACOG) expand on previous recommendations and align with a growing cross-specialty consensus on how to manage menopause symptoms. For managing vasomotor...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-16T20:41:42+00:00",
-    "date_str": "Oct 16, 2026"
-  },
-  {
-    "title": "Were Benzos Linked to Birth Defects?",
-    "url": "https://www.medpagetoday.com/quizzes/news-quiz/123456",
-    "summary": "(MedPage Today) -- You passed medical training, now see if you can pass our weekly quiz",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-16T20:24:00+00:00",
-    "date_str": "Oct 16, 2026"
-  },
-  {
-    "title": "OTC Alpha-Agonist Drops for Eye Redness Get FDA Green Light",
-    "url": "https://www.medpagetoday.com/ophthalmology/generalophthalmology/123455",
-    "summary": "(MedPage Today) -- The FDA announced approval of apraclonidine ophthalmic solution 0.125% (Brytly) as an over-the-counter treatment for eye redness related to minor irritations. The approval specifies use of the topical agent by adults and children...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-16T20:10:32+00:00",
-    "date_str": "Oct 16, 2026"
   }
 ]
