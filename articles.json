@@ -1,5 +1,75 @@
 [
   {
+    "title": "STAT+: The ESMO presentation everyone’s been waiting for",
+    "url": "https://www.statnews.com/2026/10/24/the-esmo-2026-merck-moderna-presentation-amgen-imdelltra-news/?utm_campaign=rss",
+    "summary": "Moderna and Merck's 'presidential' presentation, and other news from Day 2 of the European Society for Medical Oncology meeting in Madrid.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-24T17:00:59+00:00",
+    "date_str": "Oct 24, 2026"
+  },
+  {
+    "title": "Patient Death Reported in Multiple Sclerosis CAR-T Study",
+    "url": "https://www.medpagetoday.com/meetingcoverage/ectrims/123565",
+    "summary": "(MedPage Today) -- The investigational CD19-directed chimeric antigen receptor (CAR) T-cell therapy zolacabtagene autoleucel (zola-cel) showed the potential to treat people with highly active relapsing multiple sclerosis (MS) and progressive MS...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-24T19:19:19+00:00",
+    "date_str": "Oct 24, 2026"
+  },
+  {
+    "title": "Atacicpet, Sibeprenlimab Halt Decline in Kidney Function in IgA Nephropathy",
+    "url": "https://www.medpagetoday.com/meetingcoverage/asn/123564",
+    "summary": "(MedPage Today) -- DENVER -- Two IgA nephropathy drugs -- atacicept (Trutakna) and sibeprenlimab injection (Voyxact) -- showed they were able to slow kidney function decline in final phase III trial efficacy analyses. Atacicept and sibeprenlimab...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-24T19:05:29+00:00",
+    "date_str": "Oct 24, 2026"
+  },
+  {
+    "title": "RSV Hospitalization May Be Taking a Surprising Mortality Toll, CDC Finds",
+    "url": "https://www.medpagetoday.com/meetingcoverage/idweek/123563",
+    "summary": "(MedPage Today) -- WASHINGTON -- Nearly one in 10 adults hospitalized with respiratory syncytial virus (RSV) infection died in the hospital or within 30 days of discharge, according to a CDC analysis of eight RSV seasons. Among 18,301 adults...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-24T18:23:30+00:00",
+    "date_str": "Oct 24, 2026"
+  },
+  {
+    "title": "Clinician AI Use; Predicting Bad Infant Outcomes in Labor; Donor Heart Distribution",
+    "url": "https://www.medpagetoday.com/podcasts/healthwatch/123552",
+    "summary": "(MedPage Today) -- TTHealthWatch is a weekly podcast from Texas Tech. In it, Elizabeth Tracey, director of electronic media for Johns Hopkins Medicine in Baltimore, and Rick Lange, MD, president of Texas Tech Health El Paso, look at the top medical...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-24T18:00:00+00:00",
+    "date_str": "Oct 24, 2026"
+  },
+  {
+    "title": "An Accurate Census Protects Our Health",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/123540",
+    "summary": "(MedPage Today) -- As a physician, I take care of the individual patient in front of me. As a public health leader, communities are my patients. I ask: Who needs care but is not getting it? Where should we focus resources to prevent vaccine-preventable...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-24T16:00:00+00:00",
+    "date_str": "Oct 24, 2026"
+  },
+  {
+    "title": "How MAHA fueled a new wave of doctors running for office",
+    "url": "https://thehill.com/policy/healthcare/6166776-doctors-running-congress-midterms/",
+    "summary": "Dozens of medical professionals are running for Congress and top state offices this midterm season, a direct Democrat-led counteraction to the Make America Healthy Again (MAHA) agenda's outsized influence on national health policy. There are seven physicians running for congressional office in this election, including Democrats Abdul El-Sayed of Michigan, Annie Andrews of South Carolina, Amish Shah...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-10-24T16:00:00+00:00",
+    "date_str": "Oct 24, 2026"
+  },
+  {
     "title": "Opinion: Christina Applegate puts a face on one of the most consequential challenges in neurology",
     "url": "https://www.statnews.com/2026/10/24/christina-applegate-multiple-sclerosis-why-ms-misdiagnosis-happens/?utm_campaign=rss",
     "summary": "“The goal is not simply to diagnose MS faster. It is to get the diagnosis right,” writes Bruce Bebo.",
@@ -2327,76 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-10-19T21:16:44+00:00",
-    "date_str": "Oct 19, 2026"
-  },
-  {
-    "title": "Study Warns of More Chronic Hepatitis B in the Years Ahead",
-    "url": "https://www.medpagetoday.com/infectiousdisease/hepatitis/123471",
-    "summary": "(MedPage Today) -- Shifting from a universal birth dose of the hepatitis B virus (HBV) vaccine to recently proposed strategies of deferred vaccination or a shared decision-making approach could increase chronic HBV infections, according to projections...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-19T21:15:33+00:00",
-    "date_str": "Oct 19, 2026"
-  },
-  {
-    "title": "ADHD Tied to Higher Mortality Risk",
-    "url": "https://www.medpagetoday.com/neurology/adhd-add/123470",
-    "summary": "(MedPage Today) -- People with attention-deficit hyperactivity disorder (ADHD) had a higher mortality risk compared with others, a study of 16 million people showed. In a systematic review and meta-analysis, ADHD was tied to a 71% increased risk...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-19T21:04:12+00:00",
-    "date_str": "Oct 19, 2026"
-  },
-  {
-    "title": "Merck KGaA’s $1.1B Silence Therapeutics Buyout Brings RNA Drug for Rare Blood Cancer",
-    "url": "https://medcitynews.com/2026/10/merck-kgaa-silence-therapeutics-acquisition-polycythemia-vera-divesiran-sirna-rna-interference-sln/",
-    "summary": "The Silence Therapeutics acquisition gives Merck KGaA a drug ready for a pivotal test in the blood disorder polycythemia vera. Silence’s RNA therapy offers a different approach and a potential dosing advantage over a Takeda Pharmaceutical product recently approved in this indication. The post Merck KGaA’s $1.1B Silence Therapeutics Buyout Brings RNA Drug for Rare Blood Cancer appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-19T20:27:34+00:00",
-    "date_str": "Oct 19, 2026"
-  },
-  {
-    "title": "With $5M, Phantom GI Plans to Develop Minimally Invasive Alternative Ostomy Surgery Device",
-    "url": "https://medcitynews.com/2026/10/with-5m-phantom-gi-plans-to-develop-minimally-invasive-alternative-ostomy-surgery-device/",
-    "summary": "Phantom GI, a Tel Aviv-based medical startup, is developing the PercStoma device, a minimally invasive alternative to traditional ostomy surgery. The device would target patients with bowel obstructions who might otherwise be considered ineligible for surgery. The post With $5M, Phantom GI Plans to Develop Minimally Invasive Alternative Ostomy Surgery Device appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-19T18:32:28+00:00",
-    "date_str": "Oct 19, 2026"
-  },
-  {
-    "title": "Diagnosis Is Beside the Point",
-    "url": "https://medcitynews.com/2026/10/diagnosis-is-beside-the-point/",
-    "summary": "Some of the thorniest problems in medicine that AI can improve have nothing to do with diagnosis. They have to do with triage. The post Diagnosis Is Beside the Point appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-19T13:02:00+00:00",
-    "date_str": "Oct 19, 2026"
-  },
-  {
-    "title": "Trump orders creation of NIH division, task force on women’s health",
-    "url": "https://www.statnews.com/2026/10/19/executive-order-melania-trump-nih-division-on-womens-health/?utm_campaign=rss",
-    "summary": "Melania Trump said a new research and policy initiative will set “a new standard for women’s health.”",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-19T17:42:45+00:00",
-    "date_str": "Oct 19, 2026"
-  },
-  {
-    "title": "Opinion: I was a Theranos whistleblower. In ‘You Can See Everything,’ Elizabeth Holmes is still lying",
-    "url": "https://www.statnews.com/2026/10/19/elizabeth-holmes-theranos-whistleblower-tyler-shultz-insider-review/?utm_campaign=rss",
-    "summary": "A more accurate name would be “You Can See Everything That We Chose To Point The Camera At,”Theranos whistleblower Tyler Shultz writes.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-19T17:27:04+00:00",
     "date_str": "Oct 19, 2026"
   }
 ]
