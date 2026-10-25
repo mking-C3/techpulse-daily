@@ -1,5 +1,95 @@
 [
   {
+    "title": "Congress’s Patient Matching Fix Won’t Work — Here’s What Would",
+    "url": "https://medcitynews.com/2026/10/congresss-patient-matching-fix-wont-work-heres-what-would/",
+    "summary": "The MATCH IT Act aims to reduce patient matching errors. But a model used by vital records systems could provide a better solution. The post Congress’s Patient Matching Fix Won’t Work — Here’s What Would appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-25T13:34:00+00:00",
+    "date_str": "Oct 25, 2026"
+  },
+  {
+    "title": "Physician Mental Health and Health System Privacy: Why Doctors Avoid Their Own EHR",
+    "url": "https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/",
+    "summary": "In most organizations the default access model was built for patient care, not for protecting colleagues. A nurse on another unit, a resident who rotated with them, a department administrator: any of them may technically be able to open the record, even when policy says they should not. The post Physician Mental Health and Health System Privacy: Why Doctors Avoid Their Own EHR appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-25T13:21:00+00:00",
+    "date_str": "Oct 25, 2026"
+  },
+  {
+    "title": "Fractyl’s Weight Maintenance Device Meets Clinical Goal, but Shares Nosedive, Layoffs Follow",
+    "url": "https://medcitynews.com/2026/10/fractyl-healths-revita-meets-six-month-trial-goal-but-shares-fall-63/",
+    "summary": "Fractyl Health reported positive six-month trial results from an investigation of its Revita procedure last week, but shares of Fractyl stock dropped steeply on October 16 immediately following the announcement. Despite the positive findings, the stock’s sharp decline highlighted a contrast between the clinical findings and the market’s response. The post Fractyl’s Weight Maintenance Device Meets Clinical Goal, but Shares Nosedive, Layoffs Follow appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-25T12:30:00+00:00",
+    "date_str": "Oct 25, 2026"
+  },
+  {
+    "title": "What people aged 50 and older need to know about flu shots",
+    "url": "https://www.npr.org/2026/10/25/nx-s1-6013576/what-people-aged-50-and-older-need-to-know-about-flu-shots",
+    "summary": "NPR's Ayesha Rascoe asks Dr. Ann Falsey of the University of Rochester Medical School about flu shots for people aged 50 and older.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-25T12:25:36+00:00",
+    "date_str": "Oct 25, 2026"
+  },
+  {
+    "title": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians",
+    "url": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
+    "summary": "The students, many from marginalized communities, learn to conjure up candy, do card tricks — and face the world with a confident, creative and resilient mindset.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-25T11:24:58+00:00",
+    "date_str": "Oct 25, 2026"
+  },
+  {
+    "title": "Execution Staff Warned That Christa Pike's IV Site Might Have 'Blown'",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/ethics/123550",
+    "summary": "(MedPage Today) -- Tennessee execution team members failed multiple times to establish working IV lines in Christa Pike's arms before her attempted execution and warned that some of her veins may have ruptured, or \"blown,\" before she was injected...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-25T14:00:00+00:00",
+    "date_str": "Oct 25, 2026"
+  },
+  {
+    "title": "Another Unprecedented OS Win in Extensive-Stage SCLC With Tarlatamab Maintenance",
+    "url": "https://www.medpagetoday.com/meetingcoverage/esmo/123569",
+    "summary": "(MedPage Today) -- Overall survival (OS) in extensive-stage small-cell lung cancer (ES-SCLC) approached 2 years with tarlatamab (Imdelltra) combination maintenance therapy after first-line chemoimmunotherapy, a large randomized trial showed. Median...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-25T13:41:49+00:00",
+    "date_str": "Oct 25, 2026"
+  },
+  {
+    "title": "SGLT2 Inhibitors Tied to Uptick in Hemoglobin and Hematocrit",
+    "url": "https://www.medpagetoday.com/meetingcoverage/asn/123568",
+    "summary": "(MedPage Today) -- DENVER -- Treatment with SGLT2 inhibitors was linked with modest but statistically significant increases in hemoglobin and hematocrit levels across a broad spectrum of patient populations, according to a systematic review and...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-25T13:29:57+00:00",
+    "date_str": "Oct 25, 2026"
+  },
+  {
+    "title": "The Trump administration moves to treat millions of mentally ill veterans with psychedelics",
+    "url": "https://www.politico.com/news/2026/10/25/trump-psychedelics-veterans-ptsd-01134515",
+    "summary": "No regulator has found the drugs safe or effective, but a VA official says as many as 2.1 million ex-service members could find them helpful.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-25T14:00:00+00:00",
+    "date_str": "Oct 25, 2026"
+  },
+  {
     "title": "STAT+: After a cancer vaccine’s first success, the race is on to expand the impact",
     "url": "https://www.statnews.com/2026/10/25/mrna-cancer-vaccine-merck-moderna-esmo-intismeran-next-applications/?utm_campaign=rss",
     "summary": "After 100 years, there's finally an effective cancer vaccine. Now comes the push to get them to work in more tumor types.",
@@ -2307,96 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-10-20T14:46:17+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "Scientist Wins Defamation Suit; 1.5M Pounds of Meat Recalled; Measles May Cost Votes",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/ethics/123474",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Former MIT biologist David Sabatini, PhD, was awarded $6 million in a sexual harassment defamation suit. (New York Times) More than 1.5 million pounds of ready...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-20T13:40:50+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "5 doctors weigh in on the promise, limitations of a closely watched multicancer blood test",
-    "url": "https://www.healthcaredive.com/news/5-doctors-weigh-in-on-the-promise-limitations-of-a-closely-watched-multica/833455/",
-    "summary": "As a screening test from Grail moves closer to Food and Drug Administration approval, MedTech Dive asked cancer experts what encourages and concerns them most about Galleri.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-19T13:15:00+00:00",
-    "date_str": "Oct 19, 2026"
-  },
-  {
-    "title": "Judi Health launching employer Medicare Part D plan with a focus on transparency",
-    "url": "https://www.fiercehealthcare.com/payers/judi-health-launching-employer-medicare-part-d-plan-focus-transparency",
-    "summary": "Judi Health is launching a new Part D plan that aims to lean on its tech stack to drive transparency and outcomes.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-20T16:23:51.607730+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "Democrats Demand Tougher Standards for Companies Running Medicaid Systems",
-    "url": "https://kffhealthnews.org/medicaid/medicaid-eligibility-computer-systems-deloitte-democratic-senators-demand-tougher-standards/",
-    "summary": "A year after launching an inquiry into companies, including Deloitte, that receive billions in taxpayer dollars to build complex computer systems determining Medicaid eligibility, senators are urging the federal government to impose stricter rules.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-20T09:01:00+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "More Medications, More Risks. If You’re Worried, Start a Deprescribing Discussion.",
-    "url": "https://kffhealthnews.org/aging/healthq-deprescribing-medication-mix-drug-risks-polypharmacy-talk-to-doctor/",
-    "summary": "As people take a greater number of medications across years or decades, experts say the risk for adverse drug interactions increases. One way to advocate for yourself? Keep a list of your meds handy.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-20T09:00:00+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "As Politicians Argue About China, US Patients Find Cutting-Edge Treatment There",
-    "url": "https://kffhealthnews.org/health-industry/china-cancer-drugs-foreign-travel-pharma-biotech-fda-regulation-clinical-trials/",
-    "summary": "The rapid emergence of the Chinese biotech industry has panicked U.S. politicians, but investors and patients caution that a clampdown on pharmaceutical collaboration could hurt everyone.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-20T09:00:00+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "STAT+: Launch prices for new medicines dipped slightly last year but remain high, analysis finds",
-    "url": "https://www.statnews.com/pharmalot/2026/10/20/launch-price-of-new-medicines-drop-very-slightly-2025/?utm_campaign=rss",
-    "summary": "The median net price for 202 newly launched medicines rose by 35%, to $257,000 last year from $173,000 in 2022.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-20T10:30:00+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "STAT+: The key health care ballot measures we’re watching in the midterms",
-    "url": "https://www.statnews.com/2026/10/20/what-health-policy-battles-reveal-about-america-midterms-2026/?utm_campaign=rss",
-    "summary": "State fights over issues like transgender rights and Medicaid offer clues to where Americans stand on contentious health matters.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-20T08:30:00+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "Opinion: Resident physicians may lose some of their most important work hour protections",
-    "url": "https://www.statnews.com/2026/10/20/acgme-resident-physicians-work-hour-rules-time-off-between-shifts/?utm_campaign=rss",
-    "summary": "“It is important to create barriers between high intensity shifts with physical, intellectual, and emotional burden to avoid burnout” in residents, writes Arifeen Rahman.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-20T08:30:00+00:00",
     "date_str": "Oct 20, 2026"
   }
 ]
