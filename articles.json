@@ -1,5 +1,25 @@
 [
   {
+    "title": "STAT+: After a cancer vaccine’s first success, the race is on to expand the impact",
+    "url": "https://www.statnews.com/2026/10/25/mrna-cancer-vaccine-merck-moderna-esmo-intismeran-next-applications/?utm_campaign=rss",
+    "summary": "After 100 years, there's finally an effective cancer vaccine. Now comes the push to get them to work in more tumor types.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-25T08:31:01+00:00",
+    "date_str": "Oct 25, 2026"
+  },
+  {
+    "title": "More dads taking paid family leave for a new baby, sometimes as much as moms are",
+    "url": "https://www.npr.org/2026/10/25/nx-s1-5977810/paid-family-bonding-leave-dads-moms-california-colorado-washington-states",
+    "summary": "The U.S. has no national law for paid parental leave. But in states that do, more dads are using the benefit, sometimes more than moms. The change comes as Americans say having kids is unaffordable.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-25T09:00:00+00:00",
+    "date_str": "Oct 25, 2026"
+  },
+  {
     "title": "Tovecimig-Based Doublet Boosts Response and PFS in Advanced Biliary Tract Cancer",
     "url": "https://www.medpagetoday.com/meetingcoverage/esmo/123567",
     "summary": "(MedPage Today) -- Investigational tovecimig combined with paclitaxel significantly improved the response rate and progression-free survival (PFS) in patients with previously treated advanced or metastatic biliary tract cancer, according to the...",
@@ -2378,25 +2398,5 @@
     "category_slug": "healthcare-policy",
     "date": "2026-10-20T08:30:00+00:00",
     "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "AdvaMed’s 4 Policy Priorities, According to Its CEO",
-    "url": "https://medcitynews.com/2026/10/advameds-4-policy-priorities-according-to-its-ceo/",
-    "summary": "AdvaMed CEO Scott Whitaker outlined four policy priorities at the MedTech Conference: tariffs, FDA user fees, payment and coverage, and cybersecurity. The post AdvaMed’s 4 Policy Priorities, According to Its CEO appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-19T23:20:05+00:00",
-    "date_str": "Oct 19, 2026"
-  },
-  {
-    "title": "The Ebola crisis is far outpacing the response, Congo's IRC director says",
-    "url": "https://www.npr.org/2026/10/19/nx-s1-6005499/the-ebola-crisis-is-far-outpacing-the-response-congos-irc-director-says",
-    "summary": "Health workers battling the ongoing Ebola outbreak in Congo are hindered by lack of data, budget cuts and a fearful community.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-19T22:38:29+00:00",
-    "date_str": "Oct 19, 2026"
   }
 ]
