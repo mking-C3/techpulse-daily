@@ -1,5 +1,65 @@
 [
   {
+    "title": "Digging Into the Money Behind the US Healthcare System",
+    "url": "https://kffhealthnews.org/health-care-costs/money-us-healthcare-system-gdp-economy-nhe-prices-graphics/",
+    "summary": "Healthcare makes up a growing share of the U.S. economy — and household budgets. We break down how much money the nation is spending and on what.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-23T08:00:00+00:00",
+    "date_str": "Oct 23, 2026"
+  },
+  {
+    "title": "CareValidate Launches Expanded HRT Offering",
+    "url": "https://medcitynews.com/2026/10/carevalidate-launches-expanded-hrt-offering/",
+    "summary": "CareValidate expanded its HRT offering for telehealth companies, combining hormone therapy with provider access, pharmacy services and AI-powered care coordination. The post CareValidate Launches Expanded HRT Offering appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-25T23:22:54+00:00",
+    "date_str": "Oct 25, 2026"
+  },
+  {
+    "title": "U.S. measles cases more than double what they were last year as outbreak spreads",
+    "url": "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania",
+    "summary": "Pennsylvania is the worst hit state, with at least 1,338 cases of measles confirmed in 44 counties so far this year, according to the Pennsylvania Department of Health.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-25T20:35:35+00:00",
+    "date_str": "Oct 25, 2026"
+  },
+  {
+    "title": "Remibrutinib Cuts Multiple Sclerosis Relapse Rates in Phase III Trials",
+    "url": "https://www.medpagetoday.com/meetingcoverage/ectrims/123572",
+    "summary": "(MedPage Today) -- Twice daily oral doses of 100 mg of the Bruton's tyrosine kinase (BTK) inhibitor remibrutinib reduced relapses more than teriflunomide (Aubagio) in patients with relapsing multiple sclerosis (MS), data from two identical phase...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-25T20:49:09+00:00",
+    "date_str": "Oct 25, 2026"
+  },
+  {
+    "title": "Weekly Rundown: Quest Diagnostics reports cybersecurity breach; Novant Health launches virtual men’s health clinic",
+    "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-quest-diagnostics-reports-cybersecurity-breach-novant-health-launches",
+    "summary": "The latest news from Novant Health, Function, Withings, Quest Diagnostics and more.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-26T03:23:24.775060+00:00",
+    "date_str": "Oct 26, 2026"
+  },
+  {
+    "title": "Republicans struggle for an answer to Democrats’ Medicaid attacks",
+    "url": "https://thehill.com/homenews/state-watch/6169587-democrats-attack-obbb-medicaid-cuts/",
+    "summary": "Democrats across battleground districts are holding Republicans’ feet to the fire over the Medicaid cuts in their signature One Big Beautiful Bill law. In advertisements and on debate stages, the Democrats are hammering their opponents over their support for a law that will reduce Medicaid funding by nearly $1 trillion to pay for tax cuts primarily...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-10-25T21:00:00+00:00",
+    "date_str": "Oct 25, 2026"
+  },
+  {
     "title": "Lycia Lands a $317M IPO for Inflammation Drugs Based on Nobel Prize-Winning Science",
     "url": "https://medcitynews.com/2026/10/lycia-ipo-protein-degradation-food-allergy-immunology-inflammation-ige-lyca/",
     "summary": "Lycia Therapeutics’ protein-degrading drugs are based on the research of Carolyn Bertozzi, a Stanford chemistry professor and Nobel laureate. Lycia’s lead drug candidate is in development for food allergy, where it could compete against the blockbuster Roche drug Xolair. The post Lycia Lands a $317M IPO for Inflammation Drugs Based on Nobel Prize-Winning Science appeared first on MedCity News .",
@@ -2337,66 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-10-20T15:30:32+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "Centene, Oscar Health outline 2027 ACA marketplace plans",
-    "url": "https://www.fiercehealthcare.com/payers/centene-oscar-health-outline-2027-aca-marketplace-plans",
-    "summary": "Open enrollment for the Affordable Care Act's marketplaces begins on Nov. 1, and with more turbulence on deck, insurers are offering a look at their plans for the coming year.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-20T21:17:09.307406+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "DOJ streamlines voluntary self-disclosure of healthcare fraud",
-    "url": "https://www.fiercehealthcare.com/regulatory/doj-streamlines-voluntary-self-disclosure-healthcare-fraud",
-    "summary": "A policy change directs healthcare organizations seeking lighter repercussions from potentially criminal fraud activity to disclose to DOJ alone, rather than separately between law enforcement and Department of Health and Human Services Office of Inspector General.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-20T21:17:09.307488+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "CDC recognizes third measles death, still short of Pennsylvania count",
-    "url": "https://thehill.com/policy/healthcare/6160524-cdc-confirms-third-measles-death/",
-    "summary": "The Centers for Disease Control and ​Prevention (CDC) has added a third U.S. measles death to its national tracker as total cases for 2026 surpass 4,400. The Department of Health and Human Services (HHS) told Reuters the CDC updated its count after the National Center for Health Statistics received ​a report of a measles-related death...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-10-20T18:18:42+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "A Radical Proposal to Preserve Cell and Gene Therapy Innovation",
-    "url": "https://medcitynews.com/2026/10/a-radical-proposal-to-preserve-cell-and-gene-therapy-innovation/",
-    "summary": "Cell and gene therapies are amazing medical breakthroughs but if we don’t find ways to pay for them, the development pipeline will fail. The post A Radical Proposal to Preserve Cell and Gene Therapy Innovation appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-20T13:09:00+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "Report: Health System M&A Activity Remains Steady in Third Quarter",
-    "url": "https://medcitynews.com/2026/10/health-system-ma-activity-remains-steady-in-q3-2026-vizient-report-shows/",
-    "summary": "A new report on third quarter M&A activity in the healthcare sector found that this quarter’s hospital and health system transactions remained steady, with 2026 potentially set to be a top year for total annual transactions since pre-pandemic times. The post Report: Health System M&A Activity Remains Steady in Third Quarter appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-20T12:13:31+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "Why I wish you didn’t want to see Nathan Fielder’s Elizabeth Holmes documentary",
-    "url": "https://www.statnews.com/2026/10/20/elizabeth-holmes-superpower-authenticity-vs-truth-matt-herper-take/?utm_campaign=rss",
-    "summary": "A reporter who interviewed Elizabeth Holmes on why society confuses authenticity, honesty, and truth, and how she takes advantage.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-20T15:41:10+00:00",
     "date_str": "Oct 20, 2026"
   }
 ]
