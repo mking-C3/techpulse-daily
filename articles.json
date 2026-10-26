@@ -1,5 +1,155 @@
 [
   {
+    "title": "The Cost of Healthcare Is Hitting America Where It Hurts: The Wallet",
+    "url": "https://kffhealthnews.org/health-care-costs/priced-out-healthcare-costs-medical-debt-insurance-disability-chronic-conditions/",
+    "summary": "Rising healthcare costs are upending the lives of Americans. People are forgoing health insurance, rationing medications, cutting back on doctor visits, and putting off health procedures they can’t afford. But bringing the costs down won’t be easy.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-26T09:00:00+00:00",
+    "date_str": "Oct 26, 2026"
+  },
+  {
+    "title": "Many Medicare Patients Could Lose Access to Remote Monitoring Devices",
+    "url": "https://kffhealthnews.org/medicare/remote-patient-monitoring-cms-medicare-rule-reimbursements-access-rural-health/",
+    "summary": "A proposed federal rule could dramatically reduce access to remote patient monitoring programs for people on Medicare. The services aim to keep patients out of the hospital by giving them devices to monitor their health at home, but critics say there isn’t enough oversight.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-26T09:00:00+00:00",
+    "date_str": "Oct 26, 2026"
+  },
+  {
+    "title": "FDA Alignment Is a Starting Point, Not a Rare Disease Strategy for the European Market",
+    "url": "https://medcitynews.com/2026/10/fda-alignment-is-a-starting-point-not-a-rare-disease-strategy-for-the-european-market/",
+    "summary": "[Sponsored] For US biotech companies developing rare disease therapies, decisions about clinical evidence, patient populations and regulatory advice can have consequences in Europe long before a marketing application is submitted. The post FDA Alignment Is a Starting Point, Not a Rare Disease Strategy for the European Market appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-26T11:30:00+00:00",
+    "date_str": "Oct 26, 2026"
+  },
+  {
+    "title": "The 4 stages of women’s heart health: Experts present new framework",
+    "url": "https://www.statnews.com/2026/10/26/heart-health-women-four-life-stages-qa-sadiya-khan/?utm_campaign=rss",
+    "summary": "New guidance is intended to help girls and women — and their doctors — recognize four distinct phases in heart health.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-26T09:00:00+00:00",
+    "date_str": "Oct 26, 2026"
+  },
+  {
+    "title": "STAT+: Moderna CEO on what’s next after success in cancer vaccine",
+    "url": "https://www.statnews.com/2026/10/26/moderna-ceo-stephane-bancel-interview-cancer-vaccine-intismeran/?utm_campaign=rss",
+    "summary": "Moderna's CEO Stéphane Bancel on what's next after the recent success in cancer vaccine, and how that impacts the company's business strategy.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-26T08:30:00+00:00",
+    "date_str": "Oct 26, 2026"
+  },
+  {
+    "title": "STAT+: NIH’s new vaccine injury center has broad goals beyond RFK Jr.’s focus on shots",
+    "url": "https://www.statnews.com/2026/10/26/nih-vaccine-injury-center-probes-post-infection-illness/?utm_campaign=rss",
+    "summary": "The center will study the long-term impact of infections, in addition to RFK Jr.'s focus on vaccines.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-26T08:30:00+00:00",
+    "date_str": "Oct 26, 2026"
+  },
+  {
+    "title": "Opinion: How bad is healthy supposed to feel?",
+    "url": "https://www.statnews.com/2026/10/26/how-bad-should-a-healthy-person-feel/?utm_campaign=rss",
+    "summary": "“We shouldn't confuse illness and the hardships that come with living,” writes family nurse practitioner Kirsten Balin.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-26T08:30:00+00:00",
+    "date_str": "Oct 26, 2026"
+  },
+  {
+    "title": "Opinion: Could long-term AI use lead to isolation? We need to find out — but researchers need better access to data",
+    "url": "https://www.statnews.com/2026/10/26/cumulative-ai-use-isolation-research-data-missing/?utm_campaign=rss",
+    "summary": "“What we don’t know is whether people are disconnecting from one another, gradually, over months of interacting with chatbots,” researchers write.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-26T08:30:00+00:00",
+    "date_str": "Oct 26, 2026"
+  },
+  {
+    "title": "Special ed diaries: Teachers tell NPR about their most joyous, most difficult moments",
+    "url": "https://www.npr.org/2026/10/26/nx-s1-6000653/special-education-teacher-shortage",
+    "summary": "What makes special education teaching jobs so hard to fill? NPR set out to find some answers by talking to more than a dozen teachers who do this work every day.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-26T09:00:00+00:00",
+    "date_str": "Oct 26, 2026"
+  },
+  {
+    "title": "Merck's melanoma vaccine trial shows reduced recurrence or death from skin cancer",
+    "url": "https://www.npr.org/2026/10/26/nx-s1-6013568/mercks-melanoma-vaccine-trial-shows-reduced-recurrence-or-death-from-skin-cancer",
+    "summary": "Merck presented its mRNA melanoma vaccine trial data at a European cancer conference this weekend. Results are promising: The vaccine reduces recurrence and death alongside an immunotherapy drug.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-26T08:42:43+00:00",
+    "date_str": "Oct 26, 2026"
+  },
+  {
+    "title": "Some people with meat allergies from alpha-gal syndrome turn to exotic alternatives",
+    "url": "https://www.npr.org/2026/10/26/nx-s1-6009462/some-people-with-meat-allergies-from-alpha-gal-syndrome-turn-to-exotic-alternatives",
+    "summary": "People with Alpha-Gal Syndrome can have allergic reactions to meat from mammals. Many of those affected change their diets to eat other proteins.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-26T08:42:23+00:00",
+    "date_str": "Oct 26, 2026"
+  },
+  {
+    "title": "Beyond the screen: How AI can give physicians their attention back",
+    "url": "https://www.healthcaredive.com/spons/beyond-the-screen-how-ai-can-give-physicians-their-attention-back/833312/",
+    "summary": "Patients notice when a doctor already knows their story. Smarter charts make that moment possible.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-26T09:00:00+00:00",
+    "date_str": "Oct 26, 2026"
+  },
+  {
+    "title": "Walmart taps startup General Medicine to expand Better Care Services",
+    "url": "https://www.fiercehealthcare.com/health-tech/walmart-taps-startup-general-medicine-expand-better-care-services",
+    "summary": "Walmart is teaming up with startup General Medicine to expand its Better Care Services, turning the digital healthcare platform into a more comprehensive healthcare marketplace.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-26T12:18:54.539082+00:00",
+    "date_str": "Oct 26, 2026"
+  },
+  {
+    "title": "Technology That Personalizes Healthcare Hospitality",
+    "url": "https://www.fiercehealthcare.com/sponsored/technology-personalizes-healthcare-hospitality",
+    "summary": "See how robotics, culinary expertise and human-centered design are expanding personalized nutrition in healthcare.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-26T12:18:54.539138+00:00",
+    "date_str": "Oct 26, 2026"
+  },
+  {
+    "title": "A progress report on Aetna's efforts to bridge trust gaps with providers",
+    "url": "https://www.fiercehealthcare.com/payers/progress-report-aetnas-efforts-bridge-trust-gaps-providers",
+    "summary": "Building stronger bridges between payers and providers will prove critical in addressing the biggest challenges facing healthcare: affordability and access.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-26T12:18:54.539172+00:00",
+    "date_str": "Oct 26, 2026"
+  },
+  {
     "title": "Digging Into the Money Behind the US Healthcare System",
     "url": "https://kffhealthnews.org/health-care-costs/money-us-healthcare-system-gdp-economy-nhe-prices-graphics/",
     "summary": "Healthcare makes up a growing share of the U.S. economy — and household budgets. We break down how much money the nation is spending and on what.",
@@ -2247,156 +2397,6 @@
     "category": "Medicare News",
     "category_slug": "medicare-news",
     "date": "2026-10-20T21:00:26+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "GSK Immunotherapy Gets Accelerated FDA Approval for Treating Rectal Cancer",
-    "url": "https://medcitynews.com/2026/10/gsk-rectal-cancer-immunotherapy-jemperli-dostarlimab-pd-1-msi-h-dmmr/",
-    "summary": "The GSK cancer immunotherapy Jemperli is now approved for treating advanced cases of rectal cancer harboring a particular genetic signature. It’s a label expansion for Jemperli, which was initially approved as a treatment for endometrial cancer The post GSK Immunotherapy Gets Accelerated FDA Approval for Treating Rectal Cancer appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-20T19:21:12+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "STAT+: State regulators move to seize licenses from nursing home chain that was focus of Boston Globe investigation",
-    "url": "https://www.statnews.com/2026/10/20/massachusetts-regulators-move-to-seize-regal-care-nursing-home-licenses-boston-globe-investigation/?utm_campaign=rss",
-    "summary": "A Boston Globe investigation found that RegalCare acquired nursing homes across Massachusetts, then gutted the quality of care.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-20T20:14:29+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "STAT+: A bipartisan group of lawmakers urges the FDA to close a peptide loophole",
-    "url": "https://www.statnews.com/2026/10/20/health-policy-news-bipartisan-group-of-lawmaker-urges-fda-to-close-peptide-loophole/?utm_campaign=rss",
-    "summary": "A bipartisan group of lawmakers is urging the FDA to plug a loophole used to import knockoff retatrutide, an investigational obesity drug made by Eli Lilly.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-20T16:47:02+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "STAT+: Roche continues to look to China for new drugs",
-    "url": "https://www.statnews.com/2026/10/20/biotech-news-roches-15b-hunt-for-new-drugs-in-china/?utm_campaign=rss",
-    "summary": "China's Hansoh Pharmaceutical Group has announced that it struck a massive deal with Roche to develop a portfolio of antibody-drug conjugates.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-20T16:42:06+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
-    "url": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
-    "summary": "Nigeria is the latest country to report an Ebola case as the outbreak spreads across the region. Kenya confirmed its first case earlier this month and has since recorded nine infections.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-20T20:19:16+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "Vanessa Kerry is the new WHO envoy for health resilience. What's on her to-do list?",
-    "url": "https://www.npr.org/2026/10/20/g-s1-147952/vanessa-kerry-resilience-world-health-organization",
-    "summary": "A respected figure in the world of global health, Dr. Kerry takes on a new responsibility. She says it's challenging but not \"daunting.\"",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-20T16:27:01+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "Napping and Dementia Risk; Autism Paper Concern; First NASCAR Driver With CTE",
-    "url": "https://www.medpagetoday.com/neurology/generalneurology/123493",
-    "summary": "(MedPage Today) -- Unintentional napping was associated with a higher incidence of possible or probable dementia, data from the National Health and Aging Trends Study showed. (Journals of Gerontology: Series A) Multiple vascular risk factors and...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-20T19:27:58+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "Generic of Combination Hormone Therapy Patch Approved for Women",
-    "url": "https://www.medpagetoday.com/obgyn/menopause/123487",
-    "summary": "(MedPage Today) -- The FDA on Monday approved the first generic of the once-weekly estradiol and levonorgestrel transdermal system (Climara Pro) to treat moderate to severe vasomotor symptoms and prevent osteoporosis in women. The patch is indicated...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-20T18:53:59+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "As a Nurse With Cancer, I Saw the Value of Patient-Facing Materials",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/123486",
-    "summary": "(MedPage Today) -- When I was diagnosed with head and neck cancer 4 years ago, my radiation oncologist pulled out a copy of the National Comprehensive Cancer Network's (NCCN) treatment recommendations, which oncologists consult to decide what treatment...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-20T18:44:57+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "Novel Immune Modulator Promising in Acute Respiratory Distress Syndrome",
-    "url": "https://www.medpagetoday.com/meetingcoverage/chest/123485",
-    "summary": "(MedPage Today) -- PHOENIX -- A novel exosome-based immunomodulatory agent appeared promising in speeding recovery from acute respiratory distress syndrome (ARDS), a phase IIb trial showed. The inhaled therapy substantially increased the proportion...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-20T18:08:01+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "Novel Breath Test Might Distinguish Fibrotic Lung Conditions",
-    "url": "https://www.medpagetoday.com/meetingcoverage/chest/123484",
-    "summary": "(MedPage Today) -- PHOENIX -- Exhaled sphingolipids appeared to distinguish between idiopathic pulmonary fibrosis (IPF) and fibrotic hypersensitivity pneumonitis, potentially offering a path toward noninvasive testing, researchers reported here...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-20T18:01:30+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "1 in 4 Army Men Have Low T; GLP-1 in Menopause; Retatrutide Side Effects on Reddit",
-    "url": "https://www.medpagetoday.com/endocrinology/generalendocrinology/123483",
-    "summary": "(MedPage Today) -- Roughly a quarter of active-duty U.S. Army men had a single morning testosterone concentration under 300 ng/dL, a commonly used cutoff for low testosterone. (JAMA) Nearly half of American women ages 40 to 60 reported menopausal...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-20T17:50:37+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "Long-Term MINT Data Support Durable Response to Inebilizumab in Myasthenia Gravis",
-    "url": "https://www.medpagetoday.com/meetingcoverage/aanemvideopearls/123480",
-    "summary": "(MedPage Today) -- One-year results from the open-label extension of the phase III MINT trial presented at the American Association of Neuromuscular and Electrodiagnostic Medicine annual meeting showed that the benefits of inebilizumab (Uplizna...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-20T16:27:56+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "Can the Midterms Save Vaccines? Don't Count on It.",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/123479",
-    "summary": "(MedPage Today) -- If the mid-October polls are accurate, the public health community will have many more friends when the new Congress convenes on January 3, 2027. However, even an outcome that brings more pro-vaccine members to Congress will...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-20T16:06:41+00:00",
-    "date_str": "Oct 20, 2026"
-  },
-  {
-    "title": "OpenEvidence, Doximity settle thorny AI legal battle",
-    "url": "https://www.healthcaredive.com/news/openevidence-doximity-settle-explosive-ai-legal-battle/833480/",
-    "summary": "The health AI companies are putting to bed a legal dispute involving dueling lawsuits, claims of corporate espionage and allegations of harassment.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-20T15:30:32+00:00",
     "date_str": "Oct 20, 2026"
   }
 ]
