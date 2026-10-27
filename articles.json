@@ -1,5 +1,55 @@
 [
   {
+    "title": "Jacksonville, Florida’s Gun Violence Is Rooted in Redlining and Homes Built on Toxic Waste",
+    "url": "https://kffhealthnews.org/race-and-health/jacksonville-jax-florida-gun-firearm-violence-redlining-lead-poisoning/",
+    "summary": "Poisons from Jacksonville, Florida’s “Brown’s Dump” seeped into the lifeblood of residents. The harm to their physical and mental health is tied today to another public health crisis: high rates of gun violence among children.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-27T09:00:00+00:00",
+    "date_str": "Oct 27, 2026"
+  },
+  {
+    "title": "Remember This Acronym Next Time You’re Facing a Big Medical Decision: B.R.A.I.N.",
+    "url": "https://kffhealthnews.org/mental-health/healthq-medical-decision-making-help-brain-acronym/",
+    "summary": "If your doctor recommends a big test or procedure, this tool can help you talk through options collaboratively. It works at a routine checkup or in high-stakes medical situations like childbirth.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-27T09:00:00+00:00",
+    "date_str": "Oct 27, 2026"
+  },
+  {
+    "title": "Opinion: Emergency pediatric care is now in permanent crisis mode",
+    "url": "https://www.statnews.com/2026/10/27/pediatric-emergency-care-rural-hospital-closures/?utm_campaign=rss",
+    "summary": "“In 2026, the unprecedented pediatric patient crowding of 2022 has become a normal Tuesday,” write Jonathan Kohler and Mary King.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-27T08:30:00+00:00",
+    "date_str": "Oct 27, 2026"
+  },
+  {
+    "title": "Opinion: Cancer vaccines are finally here. How do we get them to patients?",
+    "url": "https://www.statnews.com/2026/10/27/cancer-vaccines-intismeran-autogene-esmo-results-delivery-access/?utm_campaign=rss",
+    "summary": "“If we want cancer vaccines to reach patients faster than BRCA testing did, there are several challenges to address now,” write Karen E. Knudsen and Othman Laraki.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-27T08:30:00+00:00",
+    "date_str": "Oct 27, 2026"
+  },
+  {
+    "title": "STAT+: Pennsylvania Dutch country, tired of waiting for biopharma, builds drug company of its own",
+    "url": "https://www.statnews.com/2026/10/27/gene-therapy-cow-rare-disease-amish-mennonite-patients-waiting/?utm_campaign=rss",
+    "summary": "A small community tests if it can solve a crisis no one else could, for the simple reason that they have no other choice.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-27T08:30:00+00:00",
+    "date_str": "Oct 27, 2026"
+  },
+  {
     "title": "How Experts Are Reacting to Trump’s Women’s Health Executive Order",
     "url": "https://medcitynews.com/2026/10/how-experts-are-reacting-to-trumps-womens-health-executive-order/",
     "summary": "Women’s health experts had mixed reactions to the Trump administration’s executive order on women’s health. The post How Experts Are Reacting to Trump’s Women’s Health Executive Order appeared first on MedCity News .",
@@ -2347,56 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-10-21T18:02:54+00:00",
-    "date_str": "Oct 21, 2026"
-  },
-  {
-    "title": "Ghost networks haunt mental health access, study finds",
-    "url": "https://www.healthcaredive.com/news/ghost-networks-haunt-mental-health-access-study-finds/833643/",
-    "summary": "A secret shopper study found less than a quarter of calls to mental health clinicians resulted in appointments, with directory errors and unreachable providers driving so-called \"ghost\" networks.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-21T19:18:05+00:00",
-    "date_str": "Oct 21, 2026"
-  },
-  {
-    "title": "Hackensack Meridian, Hunterdon pen merger agreement",
-    "url": "https://www.healthcaredive.com/news/hackensack-meridian-hunterdon-pen-merger-agreement/833610/",
-    "summary": "As part of the deal, which still needs to be approved by regulators, Hackensack will invest about $230 million to improve Hunterdon’s facilities and roll out Epic’s electronic health record.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-21T16:21:14+00:00",
-    "date_str": "Oct 21, 2026"
-  },
-  {
-    "title": "Elevance sees Medicaid momentum in Q3",
-    "url": "https://www.healthcaredive.com/news/elevance-medicaid-momentum-q3-2026-elv/833559/",
-    "summary": "States jacked up their Medicaid rates in July, a positive development for the insurer. Elevance now thinks its Medicaid margin will be better than its prior expectation of -1.75% this year.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-21T11:22:41+00:00",
-    "date_str": "Oct 21, 2026"
-  },
-  {
-    "title": "Baba nabs $40M series A, backed by FirstMark Capital and CVS Health Ventures, for AI-powered Medicare patient navigation",
-    "url": "https://www.fiercehealthcare.com/finance/baba-nabs-40m-series-backed-firstmark-capital-and-cvs-health-ventures-medicare-ai-care",
-    "summary": "The AI company plans to use the funding to further its research, reach more health plans and accelerate value-based arrangements, executives say.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-21T21:16:55.522064+00:00",
-    "date_str": "Oct 21, 2026"
-  },
-  {
-    "title": "HHS launches national kidney care plan focused on disease prevention, dialysis care and reforming the transplant system",
-    "url": "https://www.fiercehealthcare.com/regulatory/hhs-launches-national-kidney-plan-transform-nations-kidney-care",
-    "summary": "The plan has three priorities: preventing kidney failure, improving dialysis care while expanding patient choice and reforming the transplant system.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-21T21:16:55.522128+00:00",
     "date_str": "Oct 21, 2026"
   }
 ]
