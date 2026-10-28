@@ -1,5 +1,115 @@
 [
   {
+    "title": "Hospital Beds for the Nation’s Sickest Kids Are Disappearing",
+    "url": "https://kffhealthnews.org/health-industry/picu-hospital-beds-disappearing-sick-children-intensive-care-montana/",
+    "summary": "Hospitals nationwide are cutting intensive services for kids in critical care. Many cite too few patients, staffing shortages, and money problems. As a result, kids who need lifesaving care must travel farther. Pediatricians expect more cutbacks in the wake of federal Medicaid cuts.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-28T09:00:00+00:00",
+    "date_str": "Oct 28, 2026"
+  },
+  {
+    "title": "In California and Other States, Dads Are Now Even With Moms in Paid Leave Claims",
+    "url": "https://kffhealthnews.org/health-care-costs/paid-parental-leave-dads-popularity-california/",
+    "summary": "The U.S. has no law guaranteeing paid parental leave. But in states with their own programs, more dads are using the benefit, surpassing moms in some states. The growth in popularity comes as Americans increasingly say raising children is unaffordable.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-28T09:00:00+00:00",
+    "date_str": "Oct 28, 2026"
+  },
+  {
+    "title": "What has actually caused the decline in drug overdose deaths?",
+    "url": "https://www.statnews.com/2026/10/28/health-news-why-are-overdose-deaths-declining/?utm_campaign=rss",
+    "summary": "After years of steep increases, especially amid the pandemic, U.S. overdose deaths decreased 27% in 2024, and preliminary data from 2025 show another meaningful drop.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-28T12:01:13+00:00",
+    "date_str": "Oct 28, 2026"
+  },
+  {
+    "title": "STAT+: Lilly says ‘triple-G’ drug beats Novo’s Ozempic in diabetes study",
+    "url": "https://www.statnews.com/2026/10/28/retatrutide-vs-ozempic-lilly-diabetes-study/?utm_campaign=rss",
+    "summary": "Data add to expectations that the drug will be one of Lilly’s greatest growth drivers.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-28T10:45:00+00:00",
+    "date_str": "Oct 28, 2026"
+  },
+  {
+    "title": "Opinion: How pediatricians like me are helping families stay calm and informed about measles",
+    "url": "https://www.statnews.com/2026/10/28/measles-parents-panic-pennsylvania-vaccines-education/?utm_campaign=rss",
+    "summary": "“It is dizzying to have a family clamoring for the MMR vaccine in one room while the room next door adamantly opposes vaccination,” writes a pediatrician.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-28T08:30:00+00:00",
+    "date_str": "Oct 28, 2026"
+  },
+  {
+    "title": "Have you been impacted by Epic’s actions?",
+    "url": "https://www.statnews.com/2026/10/28/epic-systems-electronic-health-records-reader-callout/?utm_campaign=rss",
+    "summary": "STAT is looking to learn, from people with direct knowledge, how Epic's actions impact hospitals' technology choices. Share your story with us.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-28T08:30:00+00:00",
+    "date_str": "Oct 28, 2026"
+  },
+  {
+    "title": "Opinion: Freezing my eggs showed me just how anti-feminist the fertility industry can be",
+    "url": "https://www.statnews.com/2026/10/28/fertility-industry-private-equity-egg-freezing-ethics-costs/?utm_campaign=rss",
+    "summary": "“A few years ago, I froze my eggs — and the experience was anything but empowering,” writes physician Pooja Yerramilli.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-28T08:30:00+00:00",
+    "date_str": "Oct 28, 2026"
+  },
+  {
+    "title": "STAT+: As Epic’s dominance grows, its iron grip is choking innovation in health technology",
+    "url": "https://www.statnews.com/2026/10/28/epic-systems-ehr-dominance-health-tech-antitrust-scrutiny/?utm_campaign=rss",
+    "summary": "A STAT investigation found that Epic selectively withholds access to patient data, disadvantaging rival software developers and stymying innovation.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-28T08:30:00+00:00",
+    "date_str": "Oct 28, 2026"
+  },
+  {
+    "title": "Are you an organ donor? Here are some rule changes you may want to know",
+    "url": "https://www.npr.org/2026/10/28/nx-s1-6019613/organ-donor-ethics-risk",
+    "summary": "Transplant teams can talk to families about organ donation before they've decided whether to continue life-sustaining medical care for loved ones. Until now, that has been forbidden.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-28T09:00:00+00:00",
+    "date_str": "Oct 28, 2026"
+  },
+  {
+    "title": "A look at how employers are approaching AI-enabled benefits solutions",
+    "url": "https://www.fiercehealthcare.com/payers/look-how-employers-are-approaching-ai-enabled-benefits-solutions",
+    "summary": "Most employers are weighing the potential of AI-enabled benefits programs and how best to offer them to workers, according to a new survey.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-28T12:10:26.575027+00:00",
+    "date_str": "Oct 28, 2026"
+  },
+  {
+    "title": "Recalled butter sold in 10 states receives risk warning: FDA",
+    "url": "https://thehill.com/homenews/state-watch/6175447-miyokos-creamery-butter-recalled/",
+    "summary": "A popular plant-based butter has been recalled due to yeast, mold and E. coli, and the U.S. Food and Drug Administration has now assigned it a risk level.",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-10-28T10:29:13+00:00",
+    "date_str": "Oct 28, 2026"
+  },
+  {
     "title": "Willow Acquires 2 Women’s Health Companies",
     "url": "https://medcitynews.com/2026/10/willow-acquires-2-womens-health-companies/",
     "summary": "Willow Innovations acquired Swehl and Momtech to expand its maternal health offerings beyond breast pumps. The post Willow Acquires 2 Women’s Health Companies appeared first on MedCity News .",
@@ -2287,116 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-10-22T16:34:58+00:00",
-    "date_str": "Oct 22, 2026"
-  },
-  {
-    "title": "The Gaps in PrEP Use Are Real. We Can Improve Uptake.",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/123526",
-    "summary": "(MedPage Today) -- No patient today should face the risk of acquiring HIV. That means we need to focus our attention on people who could benefit from HIV preexposure prophylaxis (PrEP) but are not receiving it. Reaching them requires us to look...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-22T16:25:19+00:00",
-    "date_str": "Oct 22, 2026"
-  },
-  {
-    "title": "Few Americans say CDC, FDA are doing a good job: survey",
-    "url": "https://www.fiercehealthcare.com/regulatory/few-americans-say-cdc-fda-are-doing-good-job-survey",
-    "summary": "Public confidence in the CDC and FDA has fallen to record lows, with just 26% and 25% of Americans, respectively, rating the agencies’ performance as excellent or good in a Gallup poll.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-22T21:13:17.878362+00:00",
-    "date_str": "Oct 22, 2026"
-  },
-  {
-    "title": "Redesign Health, ARC Global merge in $2B deal to accelerate health system innovation",
-    "url": "https://www.fiercehealthcare.com/health-tech/redesign-health-arc-global-merge-2b-deal-accelerate-health-system-innovation",
-    "summary": "The three organizations—Redesign Health, ARC Global and AVIA—work with more than 100 health systems on five continents, and the companies and products built across their networks have reached more than 100 million patients worldwide.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-22T21:13:17.878423+00:00",
-    "date_str": "Oct 22, 2026"
-  },
-  {
-    "title": "Uninsured rate climbs to 11.2% in 2026: Commonwealth Fund",
-    "url": "https://www.fiercehealthcare.com/payers/uninsured-rate-climbs-112-2026-commonwealth-fund",
-    "summary": "The uninsured rate has climbed over the past two years as Medicaid work requirements—which are expected to drive their own coverage losses—loom at the beginning of 2027.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-22T21:13:17.878458+00:00",
-    "date_str": "Oct 22, 2026"
-  },
-  {
-    "title": "Molina Healthcare highlights Medicaid bright spots in Q3",
-    "url": "https://www.fiercehealthcare.com/payers/molina-healthcare-highlights-medicaid-bright-spots-q3",
-    "summary": "Molina Healthcare is seeing some bright spots in the Medicaid market heading into 2027, echoing commentary from other payers through several third quarter earnings calls so far.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-22T21:13:17.878492+00:00",
-    "date_str": "Oct 22, 2026"
-  },
-  {
-    "title": "Sentara Health deploys new AI case management tool co-developed with Regard",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/sentara-health-deploys-new-ai-case-management-tool-co-developed-regard",
-    "summary": "Executives say the solution could save nearly 90,000 hours as the system looks to expand across acute care and into ambulatory care.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-22T21:13:17.878521+00:00",
-    "date_str": "Oct 22, 2026"
-  },
-  {
-    "title": "Microsoft, Opella partner on agentic AI content verification platform",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/microsoft-opella-partner-agentic-ai-content-verification-platform",
-    "summary": "The platform—dubbed Lumen—will consist of 14 agents that can perform an array of tasks, from reviewing content product claims and flagging corrections.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-22T21:13:17.878552+00:00",
-    "date_str": "Oct 22, 2026"
-  },
-  {
-    "title": "Biotech investment is the new front in the U.S.-China trade fight",
-    "url": "https://www.politico.com/news/2026/10/22/biotech-investment-is-the-new-front-in-the-u-s-china-trade-fight-01132819",
-    "summary": "The Treasury Department’s proposed restrictions on U.S. investment in Chinese biopharma collide with Beijing’s new export curbs on cutting edge biotech innovations.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-22T21:09:35+00:00",
-    "date_str": "Oct 22, 2026"
-  },
-  {
-    "title": "Calley Means, top RFK Jr. adviser, quits Trump administration",
-    "url": "https://thehill.com/homenews/administration/6166195-calley-means-resigns-hhs-maha-trump-administration/",
-    "summary": "Calley Means, a senior adviser to Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. and an outspoken advocate for the Make America Healthy Again (MAHA) movement, resigned from the Trump administration Thursday, reportedly amid frustrations over delays in the MAHA food agenda. Means’s departure less than two weeks before the midterm elections comes amid...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-10-22T18:31:40+00:00",
-    "date_str": "Oct 22, 2026"
-  },
-  {
-    "title": "Workers hit hard by rising employer health insurance costs",
-    "url": "https://thehill.com/policy/healthcare/6166007-employer-health-insurance-costs-premiums-rise/",
-    "summary": "Costs are spiking for the millions of Americans who rely on workplace-sponsored health insurance, according to a survey released Thursday, with small businesses and their employees being hit especially hard. The average cost of a family plan increased by 5 percent, topping $28,000 this year, according to the annual Employer Health Benefits Survey from KFF....",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-10-22T17:57:28+00:00",
-    "date_str": "Oct 22, 2026"
-  },
-  {
-    "title": "UnitedHealthcare, Humana Medicare Advantage cancellations to affect 1 million",
-    "url": "https://thehill.com/policy/healthcare/6165587-unitedhealthcare-humana-medicare-advantage-cancellations-to-affect-1-million/",
-    "summary": "The plans being discontinued are primarily Preferred Provider Organizations, which offer more flexible provider networks.",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-10-22T16:46:26+00:00",
     "date_str": "Oct 22, 2026"
   }
 ]
