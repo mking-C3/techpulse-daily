@@ -1,5 +1,65 @@
 [
   {
+    "title": "Senators Investigate Insurers’ Role in Removing Thousands from ACA Coverage",
+    "url": "https://medcitynews.com/2026/10/senators-investigate-insurers-role-in-removing-thousands-from-aca-coverage/",
+    "summary": "Democratic senators are investigating 10 insurers’ role in the Trump administration’s termination of 760,000 ACA enrollees’ coverage over suspected fraud. The post Senators Investigate Insurers’ Role in Removing Thousands from ACA Coverage appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-28T23:26:43+00:00",
+    "date_str": "Oct 28, 2026"
+  },
+  {
+    "title": "Trump administration will allow pharmacies to make popular peptides",
+    "url": "https://www.npr.org/2026/10/28/nx-s1-6021030/peptides-compounding-enforcement",
+    "summary": "The Department of Health and Human Services will let small compounding pharmacies make six peptides that haven't been approved by the Food and Drug Administration. It may not be enough to meet demand.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-28T22:26:48+00:00",
+    "date_str": "Oct 28, 2026"
+  },
+  {
+    "title": "Injections for Achilles Tendinopathy Flop in Randomized Trial",
+    "url": "https://www.medpagetoday.com/orthopedics/orthopedics/123614",
+    "summary": "(MedPage Today) -- High-volume injections to relieve pain and disability for patients with Achilles tendinopathy failed to demonstrate significant benefit versus sham injections in a randomized trial. With 192 patients assigned to three arms ...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-28T23:30:00+00:00",
+    "date_str": "Oct 28, 2026"
+  },
+  {
+    "title": "Rare Brain Disorder Linked to Water Pollution Sources",
+    "url": "https://www.medpagetoday.com/neurology/parkinsonsdisease/123633",
+    "summary": "(MedPage Today) -- People living near industrial facilities that polluted the water supply were more likely to develop progressive supranuclear palsy (PSP), a rare and severe neurodegenerative tauopathy, a study of U.K. Biobank participants showed...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-28T21:09:51+00:00",
+    "date_str": "Oct 28, 2026"
+  },
+  {
+    "title": "ADC Scores 'Impressive' Survival Win in Heavily Pretreated Gastroesophageal Cancer",
+    "url": "https://www.medpagetoday.com/meetingcoverage/esmo/123622",
+    "summary": "(MedPage Today) -- Overall survival (OS) in heavily pretreated gastroesophageal carcinoma (GEC) doubled in patients who received an investigational antibody-drug conjugate (ADC) targeting claudin (CLDN) 18.2, a randomized trial showed. Patients...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-28T15:58:02+00:00",
+    "date_str": "Oct 28, 2026"
+  },
+  {
+    "title": "ChatGPT Linked to Death; FDA Flags Cancer Drug Claims; AMA Fights Medicaid Rules",
+    "url": "https://www.medpagetoday.com/practicemanagement/informationtechnology/123613",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. The parents of a 31-year-old software engineer with epilepsy who died in February sued OpenAI, claiming ChatGPT told the engineer to stop taking her seizure medication...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-28T13:31:32+00:00",
+    "date_str": "Oct 28, 2026"
+  },
+  {
     "title": "Eli Lilly’s ‘Triple-G’ Drug Tops Ozempic in Head-to-Head Type 2 Diabetes Trial",
     "url": "https://medcitynews.com/2026/10/eli-lilly-retatrutide-type-2-diabetes-glp-1-gip-glucagon-metabolic-ozempic-lly/",
     "summary": "Topline Phase 3 results show Eli Lilly’s retatrutide beat Novo’s Ozempic on measures of blood sugar and weight loss in adults with type 2 diabetes. Retatrutide is a peptide designed to activate three metabolic targets versus just one hit by Ozempic. The post Eli Lilly’s ‘Triple-G’ Drug Tops Ozempic in Head-to-Head Type 2 Diabetes Trial appeared first on MedCity News .",
@@ -2337,66 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-10-23T13:37:12+00:00",
-    "date_str": "Oct 23, 2026"
-  },
-  {
-    "title": "Five major companies pledge faster, electronic prior authorizations",
-    "url": "https://www.healthcaredive.com/news/five-major-companies-pledge-faster-electronic-prior-authorizations/833848/",
-    "summary": "Amazon, Google, Meta and other employers agreed to reform their prior authorization policies for their self-funded health plans, which provide coverage for millions of Americans.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-23T15:27:05+00:00",
-    "date_str": "Oct 23, 2026"
-  },
-  {
-    "title": "Trump administration sued for second time over ACA broker freeze",
-    "url": "https://www.healthcaredive.com/news/aca-broker-agent-freeze-lawsuit-hafa-hhs-cms/833828/",
-    "summary": "Another trade association is taking the HHS and CMS to court over their decision to lock out new agents and brokers from participating in open enrollment for 2027 Affordable Care Act plans.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-23T13:22:18+00:00",
-    "date_str": "Oct 23, 2026"
-  },
-  {
-    "title": "Quest Diagnostics hit by cyberattack",
-    "url": "https://www.healthcaredive.com/news/quest-diagnostics-hit-by-cyberattack/833822/",
-    "summary": "The testing company believes an unauthorized third party accessed patient records.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-22T20:18:00+00:00",
-    "date_str": "Oct 22, 2026"
-  },
-  {
-    "title": "Op-ed: The case for a primary care triple-double",
-    "url": "https://www.fiercehealthcare.com/providers/op-ed-case-primary-care-triple-double",
-    "summary": "To bolster outcomes at cost, double investment in primary care, double the reach of primary care and double the share of clinicians entering primary care, write heads of the American Academy of Family Physicians and the National Association of Community Health Centers.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-23T16:31:02.916049+00:00",
-    "date_str": "Oct 23, 2026"
-  },
-  {
-    "title": "New Florida counties report dengue cases as statewide total passes 400",
-    "url": "https://thehill.com/policy/healthcare/6168453-new-florida-counties-report-dengue-cases-as-statewide-total-passes-400/",
-    "summary": "Pinellas County is continuing to see a spike in dengue fever cases as the state's dengue fever outbreak shows no sign of slowing.",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-10-23T15:52:14+00:00",
-    "date_str": "Oct 23, 2026"
-  },
-  {
-    "title": "Medicaid at Risk for Hundreds of Thousands of Lawfully Present Immigrants",
-    "url": "https://kffhealthnews.org/medicaid/wamu-health-hub-medicaid-legal-immigrants-lose-coverage-gop-law/",
-    "summary": "Hundreds of thousands of lawfully present immigrants could lose government health coverage. This change stems from healthcare cuts in a GOP budget law. KFF Health News’ Andrew Jones tells WAMU’s “Health Hub” which Medicaid enrollees are affected and shares resources for newly uninsured people in the Washington, D.C., area.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-23T09:00:00+00:00",
     "date_str": "Oct 23, 2026"
   }
 ]
