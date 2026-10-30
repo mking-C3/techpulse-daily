@@ -1,5 +1,125 @@
 [
   {
+    "title": "Medicare Drug Plans Are Hiking Premiums While Trump Claims Victory on Medicine Prices",
+    "url": "https://kffhealthnews.org/medicare/medicare-drug-plans-premium-hikes-affordability-trump-cms/",
+    "summary": "Millions of Medicare enrollees who buy stand-alone prescription drug plans will see their average monthly premiums rise by 50% in 2027, a new analysis finds. But enrollees can avoid the average increase by switching to lower-cost plans.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-30T09:01:00+00:00",
+    "date_str": "Oct 30, 2026"
+  },
+  {
+    "title": "Your Phone Knows You’re at the Doctor, and Data Brokers Do, Too — Then Profit From It",
+    "url": "https://kffhealthnews.org/health-industry/data-brokers-phone-location-tracking-sensitive-medical-data-targeted-ads/",
+    "summary": "The Federal Trade Commission told a data company it could no longer sell data it collected from hundreds of millions of Americans’ mobile devices when people visited hospitals, dialysis clinics, or abortion clinics. But little is stopping other companies from doing so. In the absence of federal protections, some states are passing their own rules.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-30T09:00:00+00:00",
+    "date_str": "Oct 30, 2026"
+  },
+  {
+    "title": "Frights, Fangs, and Healthcare Nightmares in Winning Halloween Haikus",
+    "url": "https://kffhealthnews.org/news/halloween-haiku-winners-2026-healthcare-nightmares/",
+    "summary": "This year’s winning Halloween haikus take on measles, the high cost of dental care, and AI-powered insurance denials.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-30T09:00:00+00:00",
+    "date_str": "Oct 30, 2026"
+  },
+  {
+    "title": "For Californians Drowning in Healthcare Costs, Governor’s Race Offers Few Answers",
+    "url": "https://kffhealthnews.org/elections/california-healthcare-costs-affordability-debt-governor-race-becerra-hilton/",
+    "summary": "In California, healthcare costs are rising faster than income and inflation, and 4 in 10 adults in the state say they’re paying down medical debt. With the governor’s race in full swing, it’s still not clear what the candidates would do to fix it.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-10-30T09:00:00+00:00",
+    "date_str": "Oct 30, 2026"
+  },
+  {
+    "title": "Opinion: What a mother’s 1834 letter about measles tells us about MAHA",
+    "url": "https://www.statnews.com/2026/10/30/maha-measles-letter-1834-pseudoscience-women/?utm_campaign=rss",
+    "summary": "An 1834 letter about a measles outbreak sheds light on today’s anti-vaccine movement, writes a medical historian.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-30T08:30:00+00:00",
+    "date_str": "Oct 30, 2026"
+  },
+  {
+    "title": "STAT+: FDA, CMS scramble to avoid regulatory logjam as more states look to test AI in clinical settings",
+    "url": "https://www.statnews.com/2026/10/30/fda-cms-health-ai-regulation-state-sandboxes-run-into-federal-rules/?utm_campaign=rss",
+    "summary": "Officials are moving behind the scenes to head off a conflict brewing between states and the federal government over regulating AI.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-30T08:30:00+00:00",
+    "date_str": "Oct 30, 2026"
+  },
+  {
+    "title": "The health care issues STAT reporters are watching in the midterms",
+    "url": "https://www.statnews.com/2026/10/30/health-care-policy-midterm-elections-status-report-alex-hogan/?utm_campaign=rss",
+    "summary": "In this week's \"STATus Report,\" STAT reporters break down how the midterms could shape federal health and science policy, and an El-Sayed interview.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-30T08:30:00+00:00",
+    "date_str": "Oct 30, 2026"
+  },
+  {
+    "title": "Opinion: How Congress can fix expert advisory committees",
+    "url": "https://www.statnews.com/2026/10/30/scientific-expert-advisory-committees-fda-hhs-congress/?utm_campaign=rss",
+    "summary": "“This evisceration of scientific advice is untenable,” write C. Joseph Ross Daval and Aaron S. Kesselheim.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-30T08:30:00+00:00",
+    "date_str": "Oct 30, 2026"
+  },
+  {
+    "title": "STAT+: How a simple UTI turns into a $1,756 bill",
+    "url": "https://www.statnews.com/2026/10/30/hybrid-er-urgent-care-clinics-hidden-billing-complaints-intuitive-health/?utm_campaign=rss",
+    "summary": "They visited for what they thought were obvious urgent care issues — coughs, congestion, flu — and were shocked to get bills for ER care instead, totaling thousands of dollars.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-30T08:30:00+00:00",
+    "date_str": "Oct 30, 2026"
+  },
+  {
+    "title": "Nearly 2 out of 3 teens and tweens use AI chatbots, new research shows",
+    "url": "https://www.npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media",
+    "summary": "Most kids say they use chatbots for help with homework and when they're stressed, lonely, or anxious. And how they use chatbots is tied to their mental health.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-30T09:00:00+00:00",
+    "date_str": "Oct 30, 2026"
+  },
+  {
+    "title": "Florida sees spike in dengue fever cases",
+    "url": "https://www.npr.org/2026/10/30/nx-s1-6020514/florida-sees-spike-in-dengue-fever-cases",
+    "summary": "Florida is seeing a record number of dengue fever cases this year as the tropical disease thrives in warming climates.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-30T08:47:21+00:00",
+    "date_str": "Oct 30, 2026"
+  },
+  {
+    "title": "RFK Jr.’s making a lot of friends in Iowa",
+    "url": "https://www.politico.com/news/2026/10/30/rfk-maha-iowa-2028-midterms-01141627",
+    "summary": "The former presidential candidate says he’s not running in 2028, but he’s doing everything he can to help Iowa candidates.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-30T09:00:00+00:00",
+    "date_str": "Oct 30, 2026"
+  },
+  {
     "title": "Nurse's Remains Identified; Surgeon Alleges Retaliation; 20-Year Telehealth Sentence",
     "url": "https://www.medpagetoday.com/special-reports/features/123639",
     "summary": "(MedPage Today) -- Investigators used jewelry to identify the burned remains of missing California nurse Jasmine Gill, RN. Her husband has been arrested and charged with her murder. (People) Texas orthopedic surgeon Thomas DeBerardino, MD, is...",
@@ -2277,126 +2397,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-10-25T16:58:45+00:00",
-    "date_str": "Oct 25, 2026"
-  },
-  {
-    "title": "'The Cat Is Out of the Bag': What We Heard This Week",
-    "url": "https://www.medpagetoday.com/opinion/what-we-heard/123554",
-    "summary": "(MedPage Today) -- \"The cat is out of the bag.\" -- Adam Waickman, PhD, of SUNY Upstate Medical University in Syracuse, New York, discussing the large dengue outbreaks in Florida and warning of further spread across the U.S. \"It's an open question...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-25T20:00:00+00:00",
-    "date_str": "Oct 25, 2026"
-  },
-  {
-    "title": "Trio of IgA Nephropathy Drugs Proves Mettle in Interim Analyses",
-    "url": "https://www.medpagetoday.com/meetingcoverage/asn/123571",
-    "summary": "(MedPage Today) -- DENVER -- Significant proteinuria reductions were reported in phase III interim analyses assessing two investigational IgA nephropathy agents and a third that was recently granted accelerated approval. First, in the RAINIER...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-25T19:53:18+00:00",
-    "date_str": "Oct 25, 2026"
-  },
-  {
-    "title": "A Win for Durvalumab Doublet in Muscle-Invasive Bladder Cancer",
-    "url": "https://www.medpagetoday.com/meetingcoverage/esmo/123570",
-    "summary": "(MedPage Today) -- Perioperative treatment with durvalumab (Imfinzi) plus neoadjuvant enfortumab vedotin (EV) significantly improved event-free survival (EFS) and overall survival (OS) compared with radical cystectomy in patients with muscle-invasive...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-25T19:37:39+00:00",
-    "date_str": "Oct 25, 2026"
-  },
-  {
-    "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It.",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/123553",
-    "summary": "(MedPage Today) -- We are currently in a \"golden age of medical science,\" yet in a \"dark age of healthcare delivery.\" An important illustration is the diagnosis and treatment of America's number one cause of death and disability, coronary artery...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-25T16:00:00+00:00",
-    "date_str": "Oct 25, 2026"
-  },
-  {
-    "title": "Fierce Healthcare Regulatory Recap: New women’s health initiatives in Trump EO; CMS doles out RHTP funding to 3 more states",
-    "url": "https://www.fiercehealthcare.com/regulatory/fierce-healthcare-regulatory-recap-new-womens-health-initiatives-trump-eo-cms-doles-out",
-    "summary": "The latest news from CMS and HHS this week: a new national kidney care plan, more RHTP funding released and more.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-25T20:24:49.821997+00:00",
-    "date_str": "Oct 25, 2026"
-  },
-  {
-    "title": "Congress’s Patient Matching Fix Won’t Work — Here’s What Would",
-    "url": "https://medcitynews.com/2026/10/congresss-patient-matching-fix-wont-work-heres-what-would/",
-    "summary": "The MATCH IT Act aims to reduce patient matching errors. But a model used by vital records systems could provide a better solution. The post Congress’s Patient Matching Fix Won’t Work — Here’s What Would appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-25T13:34:00+00:00",
-    "date_str": "Oct 25, 2026"
-  },
-  {
-    "title": "Physician Mental Health and Health System Privacy: Why Doctors Avoid Their Own EHR",
-    "url": "https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/",
-    "summary": "In most organizations the default access model was built for patient care, not for protecting colleagues. A nurse on another unit, a resident who rotated with them, a department administrator: any of them may technically be able to open the record, even when policy says they should not. The post Physician Mental Health and Health System Privacy: Why Doctors Avoid Their Own EHR appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-25T13:21:00+00:00",
-    "date_str": "Oct 25, 2026"
-  },
-  {
-    "title": "Fractyl’s Weight Maintenance Device Meets Clinical Goal, but Shares Nosedive, Layoffs Follow",
-    "url": "https://medcitynews.com/2026/10/fractyl-healths-revita-meets-six-month-trial-goal-but-shares-fall-63/",
-    "summary": "Fractyl Health reported positive six-month trial results from an investigation of its Revita procedure last week, but shares of Fractyl stock dropped steeply on October 16 immediately following the announcement. Despite the positive findings, the stock’s sharp decline highlighted a contrast between the clinical findings and the market’s response. The post Fractyl’s Weight Maintenance Device Meets Clinical Goal, but Shares Nosedive, Layoffs Follow appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-25T12:30:00+00:00",
-    "date_str": "Oct 25, 2026"
-  },
-  {
-    "title": "What people aged 50 and older need to know about flu shots",
-    "url": "https://www.npr.org/2026/10/25/nx-s1-6013576/what-people-aged-50-and-older-need-to-know-about-flu-shots",
-    "summary": "NPR's Ayesha Rascoe asks Dr. Ann Falsey of the University of Rochester Medical School about flu shots for people aged 50 and older.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-25T12:25:36+00:00",
-    "date_str": "Oct 25, 2026"
-  },
-  {
-    "title": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians",
-    "url": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
-    "summary": "The students, many from marginalized communities, learn to conjure up candy, do card tricks — and face the world with a confident, creative and resilient mindset.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-25T11:24:58+00:00",
-    "date_str": "Oct 25, 2026"
-  },
-  {
-    "title": "Execution Staff Warned That Christa Pike's IV Site Might Have 'Blown'",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/ethics/123550",
-    "summary": "(MedPage Today) -- Tennessee execution team members failed multiple times to establish working IV lines in Christa Pike's arms before her attempted execution and warned that some of her veins may have ruptured, or \"blown,\" before she was injected...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-25T14:00:00+00:00",
-    "date_str": "Oct 25, 2026"
-  },
-  {
-    "title": "Another Unprecedented OS Win in Extensive-Stage SCLC With Tarlatamab Maintenance",
-    "url": "https://www.medpagetoday.com/meetingcoverage/esmo/123569",
-    "summary": "(MedPage Today) -- Overall survival (OS) in extensive-stage small-cell lung cancer (ES-SCLC) approached 2 years with tarlatamab (Imdelltra) combination maintenance therapy after first-line chemoimmunotherapy, a large randomized trial showed. Median...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-25T13:41:49+00:00",
     "date_str": "Oct 25, 2026"
   }
 ]
