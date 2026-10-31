@@ -1,5 +1,35 @@
 [
   {
+    "title": "STAT+: What are the health stakes of the midterms? Policymakers, lobbyists, and experts weigh in",
+    "url": "https://www.statnews.com/2026/10/31/midterm-election-tipping-point-healthcare-policy/?utm_campaign=rss",
+    "summary": "No matter what happens on Election Day, the midterms will have sweeping implications for American health care. More than two dozen experts on what could come next.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-31T11:00:00+00:00",
+    "date_str": "Oct 31, 2026"
+  },
+  {
+    "title": "Do you have seasonal affective disorder? How to tell — and what to do about it",
+    "url": "https://www.npr.org/2026/10/31/nx-s1-6023200/do-you-have-seasonal-affective-disorder-how-to-tell-and-what-to-do-about-it",
+    "summary": "The syndrome can make people feel like a \"hibernating bear,\" says Dr. Norman Rosenthal, who published the first research on SAD. He explains how to identify the symptoms and what to do to feel better.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-31T09:01:00+00:00",
+    "date_str": "Oct 31, 2026"
+  },
+  {
+    "title": "New autism study complicates Trump administration’s search for cause",
+    "url": "https://thehill.com/policy/healthcare/6184086-maternal-health-autism-study/",
+    "summary": "A recently published found associations between certain maternal health conditions during pregnancy and autism diagnoses across racial and ethnic groups, underscoring how much remains unknown as the Trump administration searches for a cause of autism. Researchers from the New York University Grossman School of Medicine and the Kaiser Permanente School of Medicine published a study earlier this...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-10-31T10:00:00+00:00",
+    "date_str": "Oct 31, 2026"
+  },
+  {
     "title": "Fierce Healthcare Policy Brief: HHS launches breast cancer screening initiative; RHTP funds flow to 6 states",
     "url": "https://www.fiercehealthcare.com/regulatory/fierce-healthcare-regulatory-recap",
     "summary": "The latest news from CMS and HHS this week: White House aims to improve breast cancer screening and early detection, PBM transparency rule finalized and six states receive RHTP funding.",
@@ -2367,36 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-10-26T14:05:39+00:00",
-    "date_str": "Oct 26, 2026"
-  },
-  {
-    "title": "Prior authorization in the real world: Takeaways from Epic ahead of looming API deadline",
-    "url": "https://www.healthcaredive.com/news/prior-authorization-takeaways-from-epic-ahead-of-looming-API-deadline/833919/",
-    "summary": "As a Jan. 1 deadline looms for payers to adopt new prior authorization tech, Epic’s Vice President of Value-Based Care Ryan Bohochik breaks down the industry’s progress so far.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-26T12:56:08+00:00",
-    "date_str": "Oct 26, 2026"
-  },
-  {
-    "title": "Centene sues the CMS over 2027 Medicare Advantage star ratings",
-    "url": "https://www.healthcaredive.com/news/centene-medicare-advantage-stars-lawsuit-cms-2027/833922/",
-    "summary": "The St. Louis-based insurer is adding onto a growing pile of lawsuits from insurers trying to get their quality scores recalculated — and nab hundreds of millions of dollars in extra payments as a result.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-26T12:55:44+00:00",
-    "date_str": "Oct 26, 2026"
-  },
-  {
-    "title": "UnitedHealthcare expands AI companion Avery to 21M members",
-    "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-expands-ai-companion-avery-21m-members",
-    "summary": "Earlier this year, UnitedHealthcare unveiled Avery, a generative AI companion aimed at supporting care coordination for its members.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-26T22:19:38.576470+00:00",
     "date_str": "Oct 26, 2026"
   }
 ]
