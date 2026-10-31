@@ -1,5 +1,45 @@
 [
   {
+    "title": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
+    "url": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
+    "summary": "The Siena Drone Photo Awards for 2026 offer breathtaking bird's-eye views of our planet, revealing landscapes, livelihoods and human stories often invisible from the ground.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-10-31T11:56:10+00:00",
+    "date_str": "Oct 31, 2026"
+  },
+  {
+    "title": "Screened for Diabetes at 23 BMI, Denied GLP-1s Until 30 BMI",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/123667",
+    "summary": "(MedPage Today) -- I am a South Asian physician -- Pakistani, to be specific. By the American Diabetes Association's (ADA) own rule, my doctor should begin screening me for diabetes once my body mass index (BMI) passes 23, because Asian Americans...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-31T16:00:00+00:00",
+    "date_str": "Oct 31, 2026"
+  },
+  {
+    "title": "As Measles Outbreak Hits Pennsylvania Amish Country, More Show Openness to Vaccines",
+    "url": "https://www.medpagetoday.com/infectiousdisease/publichealth/123659",
+    "summary": "(MedPage Today) -- EPHRATA, Pa. -- Amish and Mennonite shoppers in conservative dress mingled with shoppers from the wider public on a recent Friday at a vast outdoor market here, where vendors sold colorful pumpkins and mums, fry pies and squash...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-10-31T14:00:00+00:00",
+    "date_str": "Oct 31, 2026"
+  },
+  {
+    "title": "Medicaid work requirements go live in two months. Many states won't be ready.",
+    "url": "https://www.politico.com/news/2026/10/31/medicaid-work-requirements-states-not-ready-01144106",
+    "summary": "Agency rules and a court decision have forced states to change course as they race towards the implementation deadline.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-31T13:00:00+00:00",
+    "date_str": "Oct 31, 2026"
+  },
+  {
     "title": "STAT+: What are the health stakes of the midterms? Policymakers, lobbyists, and experts weigh in",
     "url": "https://www.statnews.com/2026/10/31/midterm-election-tipping-point-healthcare-policy/?utm_campaign=rss",
     "summary": "No matter what happens on Election Day, the midterms will have sweeping implications for American health care. More than two dozen experts on what could come next.",
@@ -2357,46 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-10-26T16:12:19+00:00",
-    "date_str": "Oct 26, 2026"
-  },
-  {
-    "title": "Baby Aspirin Misses Mark for Primary Cardiovascular Prevention in CKD",
-    "url": "https://www.medpagetoday.com/meetingcoverage/asn/123579",
-    "summary": "(MedPage Today) -- DENVER -- Daily low-dose aspirin did not significantly reduce major vascular events in adults with chronic kidney disease (CKD), the randomized ATTACK trial showed. Over a mean follow-up of 3.1 years, 2.4% of adults with CKD...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-26T15:53:07+00:00",
-    "date_str": "Oct 26, 2026"
-  },
-  {
-    "title": "GLP-1s May Interact With Psychiatry Medication, Case Report Suggests",
-    "url": "https://www.medpagetoday.com/casestudies/psychiatry/123577",
-    "summary": "(MedPage Today) -- During an appointment with her psychiatrist, a 50-year-old woman with bipolar disorder reported new symptoms of tremor in both hands, slurred speech, and blurred vision. She was taking lithium, but 3 weeks prior, she had also...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-26T15:34:52+00:00",
-    "date_str": "Oct 26, 2026"
-  },
-  {
-    "title": "CMS proposes heightened standards for ACA financial assistance",
-    "url": "https://www.healthcaredive.com/news/cms-tighten-financial-assistance-aca-enrollees/833917/",
-    "summary": "Enrollees must jump through more hoops to verify their income and residency status before receiving subsidies for Affordable Care Act plans. Over 300,000 enrollees are expected to leave each year as a result.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-26T15:21:00+00:00",
-    "date_str": "Oct 26, 2026"
-  },
-  {
-    "title": "Uninsured rate rises to 11% ahead of Medicaid work requirements",
-    "url": "https://www.healthcaredive.com/news/uninsured-rate-rises-ahead-medicaid-work-requirements/833832/",
-    "summary": "Cuts to federal programs and the loss of enhanced subsidies on the exchanges could deepen an existing healthcare affordability crisis, according to a new report from the Commonwealth Fund.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-26T14:05:39+00:00",
     "date_str": "Oct 26, 2026"
   }
 ]
