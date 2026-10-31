@@ -1,5 +1,35 @@
 [
   {
+    "title": "Fierce Healthcare Policy Brief: HHS launches breast cancer screening initiative; RHTP funds flow to 6 states",
+    "url": "https://www.fiercehealthcare.com/regulatory/fierce-healthcare-regulatory-recap",
+    "summary": "The latest news from CMS and HHS this week: White House aims to improve breast cancer screening and early detection, PBM transparency rule finalized and six states receive RHTP funding.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-10-31T04:14:08.107884+00:00",
+    "date_str": "Oct 31, 2026"
+  },
+  {
+    "title": "Health insurance plan costs on Healthcare.gov to rise by double digits in 2027",
+    "url": "https://thehill.com/policy/healthcare/6185863-obamacare-premiums-set-double-2027-analysis/",
+    "summary": "Obamacare enrollees could see their health insurance premiums rise by double digits for a second year in a row, according to a report published Friday. Health research group KFF found the average cost of Obamacare health insurance will rise by 13 percent in 2027, following a 26 percent hike in rates from 2025 to 2026....",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-10-31T02:06:29+00:00",
+    "date_str": "Oct 31, 2026"
+  },
+  {
+    "title": "Bessent alleges anti-fraud guardrails are 'loosest' in blue states",
+    "url": "https://thehill.com/homenews/administration/6185348-bessent-accuses-democrats-fraud-loose/",
+    "summary": "Treasury Secretary Scott Bessent accused Democratic-led states Friday of having poor fraud prevention mechanisms while at a Minnesota press conference. The state has been at the center of a healthcare fraud scandal for much of this year after the Justice Department indicted more than a dozen people on accusations of defrauding taxpayers, using funds for...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-10-30T21:03:09+00:00",
+    "date_str": "Oct 30, 2026"
+  },
+  {
     "title": "Employer, Pharmacy Advocates Applaud DOL Final Rule on PBMs",
     "url": "https://medcitynews.com/2026/10/employer-pharmacy-advocates-applaud-dol-final-rule-on-pbms/",
     "summary": "The Department of Labor finalized a rule that seeks to bring more transparency into PBM compensation. The post Employer, Pharmacy Advocates Applaud DOL Final Rule on PBMs appeared first on MedCity News .",
@@ -2367,36 +2397,6 @@
     "category": "Drug Coverage",
     "category_slug": "drug-coverage",
     "date": "2026-10-26T22:19:38.576470+00:00",
-    "date_str": "Oct 26, 2026"
-  },
-  {
-    "title": "South Carolina's rural hospitals receiving free cyber support under pilot program",
-    "url": "https://www.fiercehealthcare.com/providers/south-carolinas-rural-hospitals-receiving-free-cyber-support-under-pilot-program",
-    "summary": "A six-month partnership between the state, the White House and tech vendors will bolster rural hospitals' defenses while evaluating technologies for nationwide deployment.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-26T22:19:38.576523+00:00",
-    "date_str": "Oct 26, 2026"
-  },
-  {
-    "title": "Medical societies release female-specific framework for cardiovascular disease prevention, care",
-    "url": "https://www.fiercehealthcare.com/providers/new-female-specific-framework-cardiovascular-disease-prevention-and-care",
-    "summary": "Four major medical societies developed the framework, calling on providers to approach cardiovascular risk through a female-specific lens.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-26T22:19:38.576553+00:00",
-    "date_str": "Oct 26, 2026"
-  },
-  {
-    "title": "Anthropic lays out drug R&D ambitions, risks in mammoth IPO filing",
-    "url": "https://www.fiercehealthcare.com/biotech/anthropic-extols-ais-drug-rd-potential-including-risks-mammoth-ipo-filing",
-    "summary": "Artificial intelligence giant Anthropic is pushing deeper into drug discovery, building its own molecular biology lab and investing in research that could eventually produce drug candidates, according to the company's blockbuster IPO filing.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-26T22:19:38.576589+00:00",
     "date_str": "Oct 26, 2026"
   }
 ]
