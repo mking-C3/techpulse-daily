@@ -1,5 +1,25 @@
 [
   {
+    "title": "It's ACA open enrollment time. Here are the changes for health insurance shoppers",
+    "url": "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance",
+    "summary": "The ACA health insurance marketplaces — find yours at HealthCare.gov — open Nov. 1 for 2027 coverage. Getting an early start may be especially important this year.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-01T12:00:00+00:00",
+    "date_str": "Nov 01, 2026"
+  },
+  {
+    "title": "How one family gave a critical boost to gene therapy research",
+    "url": "https://www.npr.org/2026/11/01/nx-s1-6014739/sanfilippo-gene-therapy-fayuvi",
+    "summary": "A family affected by Sanfilippo syndrome raised millions of dollars for research. The Food and Drug Administration just approved a gene therapy the support helped make possible.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-01T09:00:00+00:00",
+    "date_str": "Nov 01, 2026"
+  },
+  {
     "title": "Pancreatic Cancer Vaccine; AI Collaboration for Managing Epilepsy",
     "url": "https://www.medpagetoday.com/podcasts/healthwatch/123663",
     "summary": "(MedPage Today) -- TTHealthWatch is a weekly podcast from Texas Tech. In it, Elizabeth Tracey, director of electronic media for Johns Hopkins Medicine in Baltimore, and Rick Lange, MD, president of Texas Tech Health El Paso, look at the top medical...",
@@ -2377,26 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-10-26T20:04:10+00:00",
-    "date_str": "Oct 26, 2026"
-  },
-  {
-    "title": "High-Dose Vitamin D Fails to Improve Survival in Dialysis Patients",
-    "url": "https://www.medpagetoday.com/meetingcoverage/asn/123589",
-    "summary": "(MedPage Today) -- DENVER -- Supplementation with high-dose cholecalciferol (vitamin D3) did not improve overall survival in patients receiving dialysis for end-stage kidney disease, according to findings from the SIMPLIFIED trial. Overall survival...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-26T19:44:27+00:00",
-    "date_str": "Oct 26, 2026"
-  },
-  {
-    "title": "'Magic Drug' Reduces Risk of Death by 44% in Lung Cancer Trial",
-    "url": "https://www.medpagetoday.com/meetingcoverage/esmo/123588",
-    "summary": "(MedPage Today) -- A next-generation KRAS G12C inhibitor significantly improved survival outcomes versus first-generation drugs for previously treated advanced or metastatic non-small cell lung cancer, a phase III trial showed. Median progression...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-26T19:26:59+00:00",
     "date_str": "Oct 26, 2026"
   }
 ]
