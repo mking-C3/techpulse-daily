@@ -1,5 +1,175 @@
 [
   {
+    "title": "Trump Administration Delays Awards Slated To Improve Rural America’s Health",
+    "url": "https://kffhealthnews.org/rural-health/rural-health-transformation-program-funding-delays-states-cms/",
+    "summary": "State leaders who scrambled to win and begin spending their first-year shares of Republicans’ five-year, $50 billion fund are in the dark about how much they’ll receive in the Rural Health Transformation Program’s second year after a federal office notified states that more time is needed to make allocations.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-05T10:00:00+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "Midterm Voters Split on Abortion and Trans Healthcare Ballot Questions",
+    "url": "https://kffhealthnews.org/elections/abortion-transgender-healthcare-midterm-ballot-measures-missouri-states/",
+    "summary": "The nationwide blue wave in the midterm election didn’t necessarily carry over to ballot measures on abortion and transgender issues.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-05T10:00:00+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "STAT+: Beyond statins, one drug lowered heart attack risk by 20%",
+    "url": "https://www.statnews.com/2026/11/05/repatha-vs-zetia-cholesterol-study-heart-attack-risk/?utm_campaign=rss",
+    "summary": "A new study could help doctors figure out what medicine to prescribe for cholesterol when statins don't cut it: It's “answering a really challenging clinical question.\"",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-05T14:00:00+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "STAT+: Medicare delays controversial RPM rule update",
+    "url": "https://www.statnews.com/2026/11/05/health-tech-news-medicare-delays-controversial-rpm-rule-update/?utm_campaign=rss",
+    "summary": "Despite widespread opposition, Medicare will finalize a controversial proposal that will prevent providers, such as hospitals, from using third parties to deliver remote patient monitoring services.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-05T13:04:15+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "Single-payer health care system proponents were thrown a big bone this election",
+    "url": "https://www.statnews.com/2026/11/05/morning-rounds-single-payer-health-care-system-after-midterms/?utm_campaign=rss",
+    "summary": "Sen. Bernie Sanders is likely to lead the Senate’s health committee next year, which could grant him a chance to fundamentally alter how the FDA interacts with the companies it…",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-05T12:58:19+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "STAT+: Revolution Medicines’ pancreatic cancer drug has stunning commercial debut",
+    "url": "https://www.statnews.com/2026/11/05/rasonque-revolution-medicines-pancreatic-cancer-commercial-launch/?utm_campaign=rss",
+    "summary": "Rasonque, Revolution Medicines' new pancreatic cancer drug, is off to one of the best oncology drug launches in history.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-05T12:33:01+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "STAT+: A closer look at ProMis Neurosciences and its Alzheimer’s drug",
+    "url": "https://www.statnews.com/2026/11/05/promis-neurosciences-alzheimers-disease-acumen-vertex-kidney-drug/?utm_campaign=rss",
+    "summary": "Shares of ProMis Neurosciences, developer of a treatment for Alzheimer’s disease, sold off sharply last week. A closer look at the reason why — and whether it holds up.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-05T11:30:00+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "STAT+: What the midterms could mean for the future of health AI",
+    "url": "https://www.statnews.com/2026/11/05/midterms-shape-future-ai-in-health-care-fda/?utm_campaign=rss",
+    "summary": "The midterms highlighted the negative sentiment around AI across the U.S. How will those attitudes trickle down to legislating AI use in health care?",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-05T09:30:00+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "STAT+: As more doctors consult chatbots, health systems can block them — or buy in",
+    "url": "https://www.statnews.com/2026/11/05/doctors-use-ai-chatbots-hipaa-compliance-questions/?utm_campaign=rss",
+    "summary": "As hundreds of thousands of doctors consult AI chatbots to make care decisions, health systems see new risks to patients' health data.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-05T09:30:00+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "STAT+: In China, a flood of controversial clinical trials slows to a trickle",
+    "url": "https://www.statnews.com/2026/11/05/china-biotech-restrictions-impact-rare-disease-investigator-initiated-trial/?utm_campaign=rss",
+    "summary": "Following patient deaths, China restricts investigator-initiated biotech trials, leaving rare disease families and US investors facing an uncertain future.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-05T09:30:00+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "Opinion: I’m a neurosurgeon. I’ve learned pain and suffering are very different things",
+    "url": "https://www.statnews.com/2026/11/05/neurosurgeon-difference-between-pain-suffering-assisted-dying/?utm_campaign=rss",
+    "summary": "“The cruelest response to suffering is to attempt to explain it away,” writes neurosurgeon Stephen Doran.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-05T09:30:00+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "Teens worldwide aren't getting enough exercise -- especially girls",
+    "url": "https://www.npr.org/2026/11/05/nx-s1-6027635/exercise-workout-teenagers-adolescents-gender-gap",
+    "summary": "A new study looks at the recommended amount of daily exercise for adolescents — and how few are getting it.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-05T12:24:14+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "Avanlee Care, platform for family caregivers, raises $3.5M, targeting Medicare Advantage plans",
+    "url": "https://www.fiercehealthcare.com/health-tech/avanlee-care-raises-35m-targets-medicare-advantage-plans",
+    "summary": "Avanlee Care helps MA plans and other organizations engage caregivers within their member populations, enabling them to take action and measure what happens as a result.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-05T14:01:38.111182+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "Fairview Health Services Partners with hellocare.ai to Expand Enterprise Virtual Care and Bring Connected Care to the NICU",
+    "url": "https://www.fiercehealthcare.com/sponsored/fairview-health-services-partners-hellocareai-expand-enterprise-virtual-care-and-bring",
+    "summary": "Minneapolis, MN and Clearwater, FL — Fairview Health Services and hellocare.ai today announced an enterprise partnership to expand virtual care capabilities across Fairview’s inpatient environments, including a dedicated deployment designed to connect NICU patients, families, and care teams.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-05T14:01:38.111233+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "Cigna beats the Street with $1.4B in profit, $73.7B in revenue for Q3",
+    "url": "https://www.fiercehealthcare.com/payers/cigna-beats-street-14b-profit-737b-revenue-q3",
+    "summary": "Cigna is the latest health insurance company to boost its guidance for the year on the back of its Q3 results.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-05T14:01:38.111250+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "RFK Jr.'s alliance with Trump is on tenterhooks",
+    "url": "https://www.politico.com/news/2026/11/04/rfk-trump-maha-make-america-healthy-again-midterms-01149150",
+    "summary": "Republican losses threaten the rationale behind the health secretary’s deal with the president.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-05T10:00:00+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "Healthcare powers Democrats’ midterm rout: 4 takeaways",
+    "url": "https://thehill.com/policy/healthcare/6199119-democrats-win-congress-healthcare-takeaways/",
+    "summary": "Voters sent a strong rebuke of the GOP health agenda on Tuesday night as Democrats took control of both chambers of Congress, rejecting Republicans who pushed sweeping healthcare cuts. Here are four takeaways from the results: Health affordability was a winning message Democratic candidates made healthcare affordability a key part of their messages. They...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-11-05T11:00:00+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
     "title": "CVS Health Bids Goodbye to Vertical Integration But Not Conflict of Interest",
     "url": "https://medcitynews.com/2026/11/cvs-health-bids-goodbye-to-vertical-integration-but-not-conflict-of-interest/",
     "summary": "CVS Health plans to split into two companies by 2028, but experts say the move may not resolve conflicts of interest between its insurance and PBM businesses. The post CVS Health Bids Goodbye to Vertical Integration But Not Conflict of Interest appeared first on MedCity News .",
@@ -2228,175 +2398,5 @@
     "category_slug": "drug-coverage",
     "date": "2026-10-30T04:32:10.084680+00:00",
     "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "What’s Driving the Rise of Consumer Diagnostics?",
-    "url": "https://medcitynews.com/2026/10/whats-driving-the-rise-of-consumer-diagnostics/",
-    "summary": "At MedCity INVEST Digital Health, experts from Jona, Labcorp and Evvy discussed the drivers of consumer diagnostics. The post What’s Driving the Rise of Consumer Diagnostics? appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-29T22:06:28+00:00",
-    "date_str": "Oct 29, 2026"
-  },
-  {
-    "title": "BioMarin Expands Again in Enzyme Replacement, Paying $70M for Long-Acting Fabry Drug",
-    "url": "https://medcitynews.com/2026/10/biomarin-fabry-subcutaneous-enzyme-replacement-hanmi-gc-biopharma-gb3-bmrn/",
-    "summary": "BioMarin gains rights to a Fabry disease enzyme replacement therapy with potential dosing advantages over products from Sanofi and Chiesi Group. BioMarin’s new clinical-stage asset could reach patients ineligible for the Fabry drug that came with its Amicus Therapeutics acquisition earlier this year. The post BioMarin Expands Again in Enzyme Replacement, Paying $70M for Long-Acting Fabry Drug appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-29T19:39:36+00:00",
-    "date_str": "Oct 29, 2026"
-  },
-  {
-    "title": "Beyond a Score: Putting The Patient Experience at the Heart of OCD Innovation",
-    "url": "https://medcitynews.com/2026/10/beyond-a-score-putting-the-patient-experience-at-the-heart-of-ocd-innovation/",
-    "summary": "Scientific progress only really matters if it changes what life looks like for those living with OCD. That’s because for someone who has spent years losing hours to their obsessions and compulsions, meaningful progress should mean a significant change in their lives. The post Beyond a Score: Putting The Patient Experience at the Heart of OCD Innovation appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-29T13:36:00+00:00",
-    "date_str": "Oct 29, 2026"
-  },
-  {
-    "title": "STAT+: Federal judge rejects new Medicaid ‘frailty’ definition for work requirements",
-    "url": "https://www.statnews.com/2026/10/29/medicaid-work-requirements-judge-blocks-new-limits-medical-frailty/?utm_campaign=rss",
-    "summary": "A judge ruled that federal regulators exceeded their authority in narrowing the exceptions to Medicaid work requirements for people with medical issues.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-29T18:57:37+00:00",
-    "date_str": "Oct 29, 2026"
-  },
-  {
-    "title": "STAT+: New federal rule will require prescription drug middlemen to share secret payments data",
-    "url": "https://www.statnews.com/2026/10/29/prescription-drug-price-reform-pbm-disclosure-rules-face-challenge/?utm_campaign=rss",
-    "summary": "A Trump administration rule will force pharmacy benefit managers to disclose fees and compensation details currently kept private.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-29T16:44:05+00:00",
-    "date_str": "Oct 29, 2026"
-  },
-  {
-    "title": "STAT+: The EPIC investigation, and a Teladoc surprise",
-    "url": "https://www.statnews.com/2026/10/29/epic-investigation-teladoc-surprise-ai-payment-model-health-tech/?utm_campaign=rss",
-    "summary": "In this edition of STAT Health Tech: An Epic investigation, a Teladoc surprise, and figuring out how to pay for AI.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-29T16:15:20+00:00",
-    "date_str": "Oct 29, 2026"
-  },
-  {
-    "title": "STAT+: Kennedy’s closing arguments for the 2026 midterms: Fraud, vaccines, and MAHA",
-    "url": "https://www.statnews.com/2026/10/29/rfk-jr-midterm-health-care-policy-maha-fraud-vaccines/?utm_campaign=rss",
-    "summary": "RFK Jr. is making his pitch ahead of a midterm election that could shape the fate of his MAHA movement.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-29T14:45:48+00:00",
-    "date_str": "Oct 29, 2026"
-  },
-  {
-    "title": "STAT+: El-Sayed claps back at RFK Jr., and FDA’s ‘enforcement discretion’ on peptides",
-    "url": "https://www.statnews.com/2026/10/29/el-sayed-claps-back-at-rfk-jr-fda-peptide-policy-dc-diagnosis/?utm_campaign=rss",
-    "summary": "Abdul El-Sayed, the Democratic Senate candidate in Michigan, pushes back against the RFK Jr.'s claims, and the new FDA policy around peptides.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-29T14:18:27+00:00",
-    "date_str": "Oct 29, 2026"
-  },
-  {
-    "title": "STAT+: HHS green lights six peptides, despite concerns from FDA scientists",
-    "url": "https://www.statnews.com/2026/10/29/biotech-news-hhs-green-lights-six-peptides-for-now/?utm_campaign=rss",
-    "summary": "Great news for peptide fans: The Trump administration is giving the peptide craze a regulatory boost, despite objections from FDA career scientists.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-29T13:43:44+00:00",
-    "date_str": "Oct 29, 2026"
-  },
-  {
-    "title": "Martin Kulldorff critiques scientific gatekeepers at NIH lecture",
-    "url": "https://www.statnews.com/2026/10/29/health-news-martin-kulldorff-critiques-scientific-gatekeepers-at-nih-lecture/?utm_campaign=rss",
-    "summary": "Martin Kulldorff, the biostatistician who advocated against Covid lockdowns, insisted that the rise in measles cases is caused by a widely disputed claim about said lockdowns:",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-29T13:38:36+00:00",
-    "date_str": "Oct 29, 2026"
-  },
-  {
-    "title": "STAT+: Vertex kidney disease drug scrutinized for infection risk",
-    "url": "https://www.statnews.com/2026/10/29/biotech-news-vertex-kidney-disease-drug-scrutinized-for-infection-risk/?utm_campaign=rss",
-    "summary": "Ahead of its FDA approval decision on Nov 30, Vertex's kidney disease drug is being heavily scrutinized for infection risk.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-29T13:25:01+00:00",
-    "date_str": "Oct 29, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a new policy for compounding peptides, a PBM disclosure rule, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/10/29/peptides-policy-released-by-hhs-pbm-disclosure-requirements/?utm_campaign=rss",
-    "summary": "HHS released a policy that will temporarily allow compounding pharmacies to manufacture some peptide products",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-29T12:52:11+00:00",
-    "date_str": "Oct 29, 2026"
-  },
-  {
-    "title": "What killed 500-plus penguins? How scientists solved the mystery",
-    "url": "https://www.npr.org/2026/10/29/nx-s1-6020451/avian-flu-penguins-pathogen-antarctica-cholera",
-    "summary": "The penguins that perished lived on the Danger Islands in Antarctica. The prime suspect was avian flu. Researchers were surprised by what they found.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-29T20:03:26+00:00",
-    "date_str": "Oct 29, 2026"
-  },
-  {
-    "title": "Lost your spark? The \"silent sister\" of depression, and a quiz to spot her",
-    "url": "https://www.npr.org/2026/10/29/nx-s1-5996687/anhedonia-quiz-high-functioning-depression",
-    "summary": "Always busy, but rarely joyful? Allison Aubrey and Juana Summers discuss a tool to spot \"high functioning depression.\"",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-29T20:00:00+00:00",
-    "date_str": "Oct 29, 2026"
-  },
-  {
-    "title": "Eleven states cut Medicaid coverage for refugees who are pregnant or children",
-    "url": "https://www.npr.org/2026/10/29/nx-s1-5995636/refugees-in-11-states-are-losing-medicaid-coverage",
-    "summary": "When Congress cut Medicaid benefits for refugees who are in the U.S. legally, most states allowed them to continue for children and pregnant women. Arizona and 10 others did not.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-29T08:44:45+00:00",
-    "date_str": "Oct 29, 2026"
-  },
-  {
-    "title": "Here's What Congress Might Do on Healthcare After the Midterms",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/123652",
-    "summary": "(MedPage Today) -- As everyone in the health policy world anxiously awaits the outcome of next week's midterms, some Congress-watchers are looking ahead to the next question: What will be on the healthcare menu when the House and Senate return...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-29T21:29:39+00:00",
-    "date_str": "Oct 29, 2026"
-  },
-  {
-    "title": "Alabama's Frozen Embryo Ruling Didn't Change Disposal Choices, for the Most Part",
-    "url": "https://www.medpagetoday.com/meetingcoverage/asrm/123651",
-    "summary": "(MedPage Today) -- BALTIMORE -- Following the 2024 Alabama Supreme Court ruling that frozen embryos could be considered children in the state, most patients at a clinic in neighboring Georgia didn't make different disposition choices about their...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-29T21:21:19+00:00",
-    "date_str": "Oct 29, 2026"
   }
 ]
