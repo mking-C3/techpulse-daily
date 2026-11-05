@@ -1,5 +1,385 @@
 [
   {
+    "title": "Why the Wealth of Data From Wearables Are Important for Consumers and Clinicians",
+    "url": "https://medcitynews.com/2026/11/why-the-wealth-of-data-from-wearables-are-important-for-consumers-and-clinicians/",
+    "summary": "Growing use of wearable technologies and the data they produce was discussed by a panel at the MedCity News INVEST Digital Health Conference in Dallas. The post Why the Wealth of Data From Wearables Are Important for Consumers and Clinicians appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-05T23:00:36+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "AI Didn’t Reduce Clinician Burden — It Just Moved It",
+    "url": "https://medcitynews.com/2026/11/ai-didnt-reduce-clinician-burden-it-just-moved-it/",
+    "summary": "Documentation tools have value. They solve a visible pain point well. But solving a visible pain point is not the same as solving the right one. The post AI Didn’t Reduce Clinician Burden — It Just Moved It appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-05T14:51:00+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "The Dangerous Illusion of the “Two-Week AI Expert”: A Call to Action Against Superficial Medical Education",
+    "url": "https://medcitynews.com/2026/11/the-dangerous-illusion-of-the-two-week-ai-expert-a-call-to-action-against-superficial-medical-education/",
+    "summary": "If we choose the quick fix, let us be honest about the consequences: when an unexamined algorithm leads to a fatal diagnostic error, the blame will not lie with the black box. It will lie with us, because we were too reckless to teach the fundamentals when we still had the chance. The post The Dangerous Illusion of the “Two-Week AI Expert”: A Call to Action Against Superficial Medical Education appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-05T14:27:00+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "The AI-Native Clinician Is Already Here. Medical Education and Health Systems Need to Catch Up.",
+    "url": "https://medcitynews.com/2026/11/the-ai-native-clinician-is-already-here-medical-education-and-health-systems-need-to-catch-up/",
+    "summary": "[Sponsored] Medical students, residents, and fellows are not waiting for formal guidance on artificial intelligence before putting it to use. The post The AI-Native Clinician Is Already Here. Medical Education and Health Systems Need to Catch Up. appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-05T14:10:00+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "When Medicaid’s Data Can’t Verify Eligibility, Members Shouldn’t Lose Coverage",
+    "url": "https://medcitynews.com/2026/11/when-medicaids-data-cant-verify-eligibility-members-shouldnt-lose-coverage/",
+    "summary": "When verification fails and an eligible member loses coverage, treatment can be interrupted, medications can go unfilled and manageable conditions can become medical emergencies. The post When Medicaid’s Data Can’t Verify Eligibility, Members Shouldn’t Lose Coverage appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-05T14:03:00+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "STAT+: Pharma’s trade group spent heavily on search ads to sway public opinion",
+    "url": "https://www.statnews.com/pharmalot/2026/11/05/phrma-blamed-pbms-high-drug-prices-search-ads/?utm_campaign=rss",
+    "summary": "PhRMA spent an estimated $59 million on search advertising over a recent seven-year period to influence how Americans view prescription drug costs.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-05T21:36:52+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "Ballot measures affirm divisions over abortion and transgender issues",
+    "url": "https://www.statnews.com/2026/11/05/state-health-ballot-measures-abortion-marijuana-transgender-issues/?utm_campaign=rss",
+    "summary": "Voters in 2026 midterm elections decided state health policy ballot measures on abortion rights, marijuana laws, science bonds, and transgender youth care.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-05T20:49:33+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "Child dies of measles in Wisconsin’s first such death since 1990",
+    "url": "https://www.statnews.com/2026/11/05/child-dies-measles-wisconsin-first-death-since-1990/?utm_campaign=rss",
+    "summary": "An infant in southwestern Wisconsin has died after contracting measles, the state’s first death from the disease in 36 years.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-05T20:31:24+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "STAT+: Novartis cites cases of previously unknown tumors possibly tied to its SMA gene therapy",
+    "url": "https://www.statnews.com/pharmalot/2026/11/05/novartis-sma-zolgensma-tumor-case-reports/?utm_campaign=rss",
+    "summary": "Novartis has acknowledged seven previously unknown instances in which tumors were found in children who were treated with its spinal muscular atrophy therapy, Zolgensma.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-05T18:53:34+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "STAT+: Stunning $6M defamation verdict reverberates at MIT campus, global scientific community",
+    "url": "https://www.statnews.com/2026/11/05/david-sabatini-defamation-verdict-reverberates-mit-scientific-community/?utm_campaign=rss",
+    "summary": "The explosive court battle between a former star scientist at the Massachusetts Institute of Technology and a younger colleague continues to roil the campus community.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-05T18:19:08+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "STAT+: Two No Surprises Act arbitrators lose government contracts to decide payment disputes",
+    "url": "https://www.statnews.com/2026/11/05/no-surprises-act-arbitrators-idr-ipro-network-medical-review-lose-contracts/?utm_campaign=rss",
+    "summary": "The Trump administration is cutting off two groups tasked with arbitrating disputes over surprise medical bills, citing a failure “to meet minimum performance standards.”",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-05T18:09:39+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "Opinion: MAHA 1.0 is dead. MAHA 2.0 is born",
+    "url": "https://www.statnews.com/2026/11/05/end-of-maha-2026-midterms-losses-democrats-aoc-cory-booker/?utm_campaign=rss",
+    "summary": "MAHA 1.0 is dead. MAHA 2.0 is born, write “Why Should I Trust You?” hosts Brinda Adhikari and Tom W. Johnson",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-05T18:00:23+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "STAT+: A possible comeback for a failed sickle cell gene therapy",
+    "url": "https://www.statnews.com/2026/11/05/biotech-news-a-possible-comeback-for-failed-sickle-cell-gene-therapy/?utm_campaign=rss",
+    "summary": "Three years ago, a trial for a sickle cell gene-editing therapy a decade in the making ended abruptly after the first patient suffered a serious adverse event. Now, the therapy…",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-05T16:22:53+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "STAT+: Winners, losers, and MAHA",
+    "url": "https://www.statnews.com/2026/11/05/midterm-election-health-care-takeaways-maha-rfk-medicare-for-all/?utm_campaign=rss",
+    "summary": "Democratic doctors won big, MAHA faces an uncertain future, and what the election could mean for Medicare for All.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-05T15:41:24+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about India’s new manufacturing rules, clinical trials in China, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/11/05/india-new-manufacturing-rules-china-clinical-trials/?utm_campaign=rss",
+    "summary": "India proposed rules requiring regulators to immediately suspend manufacturing licenses for drugs that fail quality standards in government testing",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-05T14:49:16+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "Physician Groups Give Mixed Reviews on Medicare Fee Schedule Final Rule",
+    "url": "https://www.medpagetoday.com/practicemanagement/reimbursement/123744",
+    "summary": "(MedPage Today) -- Physician groups had mixed opinions on the final Medicare Physician Fee Schedule rule for 2027, which included slightly increased pay cuts for doctors who treat Medicare beneficiaries, compared to a proposed rule released in...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-05T22:44:48+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "DUOTAP Trial: Postdilation Sets Up TAVR for Success",
+    "url": "https://www.medpagetoday.com/meetingcoverage/tct/123743",
+    "summary": "(MedPage Today) -- Routine postdilation conferred several upsides in transcatheter aortic valve replacement (TAVR) with a balloon-expandable platform, according to emerging trial evidence. In the DUOTAP trial, routine postdilation largely corrected...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-05T22:42:19+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "Infant Bleeding Rises as Newborn Vitamin K Shots Have Fallen",
+    "url": "https://www.medpagetoday.com/pediatrics/preventivecare/123742",
+    "summary": "(MedPage Today) -- Newborns who missed routine vitamin K shots had higher bleeding risks and more than double the risk of intracranial hemorrhage, a nationwide study of over 5 million infants showed. Infants who did not receive prophylactic vitamin...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-05T22:18:21+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "'Forever Chemicals' Linked to Aggressive Breast Cancers",
+    "url": "https://www.medpagetoday.com/hematologyoncology/breastcancer/123741",
+    "summary": "(MedPage Today) -- Two common \"forever chemicals\" were associated with a higher risk of estrogen receptor (ER)-negative breast cancer, a prospective case-cohort study suggested. The highest exposure quartile of perfluoro-n-octanoic acid (PFOA...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-05T21:38:08+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "A State Law Targeted Fentanyl Dealers. Prosecutors Are Using It to Charge Users Too.",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/opioids/123740",
+    "summary": "(MedPage Today) -- When two Idaho lawmakers pitched harsher penalties for people caught with fentanyl, they said the new law would target drug dealers -- not those struggling with addiction. But 2 years after the law was implemented, prosecutors...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-05T21:18:29+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "Most Accurate Medical TV Show; Resident Crashes Epic? APHA's Midterms Watch Party",
+    "url": "https://www.medpagetoday.com/popmedicine/popmedicine/123739",
+    "summary": "(MedPage Today) -- The following contains links to social media websites including Bluesky, X, TikTok, Instagram, Facebook, and LinkedIn. Which medical TV show is most accurate? A nurse ranked \"Grey's Anatomy,\" \"ER,\" \"The Pitt,\" and more. After...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-05T20:49:23+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "146K Gallbladder, Biliary Disease Deaths; Amitriptyline for IBS; Large Rectal Polyps",
+    "url": "https://www.medpagetoday.com/gastroenterology/generalgastroenterology/123738",
+    "summary": "(MedPage Today) -- More than 264 million people globally had gallbladder and biliary diseases such as cholelithiasis, cholecystitis, or cholangitis in 2023, with the diseases together contributing to over 146,000 deaths. (Lancet Gastroenterology...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-05T20:39:43+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "Patients Want 'Deep Plane' Facelifts. Are They Actually Better?",
+    "url": "https://www.medpagetoday.com/popmedicine/cultureclinic/123737",
+    "summary": "(MedPage Today) -- Welcome to Culture Clinic, MedPage Today's collaboration with Northwell Health to offer a healthcare professional's take on the latest viral medical topics. As elective plastic surgery procedures, including facelifts, become...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-05T20:36:20+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "Child Dies of Measles in Wisconsin's First Such Death Since 1990",
+    "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/123735",
+    "summary": "(MedPage Today) -- An infant in southwestern Wisconsin has died after contracting measles, the state's first death from the disease in 36 years, state officials announced Thursday. The Wisconsin Department of Health Services did not specify where...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-05T20:20:11+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "Choosing the Initial Treatment Approach in HER2-Positive Breast Cancer",
+    "url": "https://www.medpagetoday.com/beyond-diagnosis/her2-ebc/123733",
+    "summary": "(MedPage Today) -- In \"Beyond Diagnosis: Early HER2-Positive Breast Cancer,\" Cleveland Clinic breast oncologist Megan Kruse, MD, and host John Mangels discuss how clinicians can navigate increasingly complex treatment decisions while helping patients...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-05T19:48:07+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "Mayo Clinic Platform launches AI tool to streamline clinical decision-making",
+    "url": "https://www.healthcaredive.com/news/mayo-clinic-platform-launches-ai-tool-to-streamline-clinical-decision-makin/873901/",
+    "summary": "Clinicians can now query an AI chatbot built on Mayo Clinic's medical knowledge base to help with diagnosis and care decisions across more than 35 specialties.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-05T18:04:39+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "Cigna boosts 2026 outlook as insurance, specialty pharmacy profits climb",
+    "url": "https://www.healthcaredive.com/news/cigna-boosts-2026-outlook-insurance-specialty-pharmacy-profits-climb/873787/",
+    "summary": "Executives touted the quarter as evidence that Cigna is well positioned for another year of profitable growth in 2027. Though, its pharmacy benefits manager Express Scripts is a drag.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-05T17:18:30+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "The hospital hiding in a strip mall",
+    "url": "https://www.healthcaredive.com/news/the-hospital-hiding-in-a-strip-mall/833249/",
+    "summary": "Mon Marion Neighborhood Hospital in West Virginia is part of a burgeoning trend of micro-hospitals, diminutive facilities with less than 50 beds. The low-cost hospitals are stemming rural care gaps and adding to health systems’ footprints across the country.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-05T15:41:20+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "Medicare finalizes physician pay cut for 2027",
+    "url": "https://www.healthcaredive.com/news/medicare-finalizes-physician-pay-cut-for-2027/873862/",
+    "summary": "Regulators trimmed doctors’ Medicare payments and hammered out other policies to reduce duplicative reimbursement. Providers slammed the cuts, saying they would further destabilize the sector.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-05T15:32:06+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "Medicare will cut billions from 340B, expand site-neutral payments in 2027",
+    "url": "https://www.healthcaredive.com/news/medicare-will-cut-billions-from-340b-expand-site-neutral-payments-in-2027/873846/",
+    "summary": "Regulators finalized a rule Wednesday that would slash payments for drugs in the controversial 340B program and equalize some payments between care sites. Hospitals railed against the rule.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-05T14:29:31+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "Oscar Health boasts ‘strongest year’ in its history after outperforming in Q3",
+    "url": "https://www.fiercehealthcare.com/payers/oscar-health-boasts-strongest-year-its-history-after-outperforming-q3",
+    "summary": "The company also saw a 27% YOY increase in membership, ending Q3 with 2.7 million members.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-05T23:17:06.913799+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "CMS’ final 2027 outpatient pay rule brings hospitals little relief on 340B, site-neutral changes",
+    "url": "https://www.fiercehealthcare.com/regulatory/cms-final-2027-outpatient-pay-rule-brings-hospitals-little-relief-340b-site-neutral",
+    "summary": "The administration finalized its annual outpatient hospital payments rule with a lower-than-proposed rate bump and its major, industry-opposed policy shifts moderated, but largely intact.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-05T23:17:06.913855+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "Clover Health boosts outlook amid continued membership growth, financial momentum in Q3",
+    "url": "https://www.fiercehealthcare.com/payers/clover-health-boosts-outlook-amid-continued-membership-growth-financial-momentum-q3",
+    "summary": "The company posted $130 million in profit, up 77% year-over-year, according to Q3 2026 financial results.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-05T23:17:06.913882+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "RFK Jr. ally Russell Brand found guilty of rape and sexual assault",
+    "url": "https://www.politico.com/news/2026/11/05/rfk-russell-brand-maha-lyons-oz-guilty-rape-01151450",
+    "summary": "Kennedy and the leader of his Make America Healthy Again movement have stood by the British actor.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-05T16:46:46+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "Lawsuit claims AI on Google's school Chromebook helped plan teen's near-suicide",
+    "url": "https://thehill.com/policy/technology/6202466-google-gemini-lawsuit-suicide-claim/",
+    "summary": "Parents are suing technology giant Google, alleging the AI Gemini chatbot offered on school Chromebooks helped a young teen plan her near-suicide and funeral. The lawsuit, filed in California Superior Court on Wednesday, claims a 13-year-old girl, dubbed Emma, chatted with Gemini over the course of several months, prompting a \"severe psychological crisis.\" The complaint...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-11-05T22:42:47+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "MAHA leader open to working with Democrats who won't fight RFK Jr.",
+    "url": "https://thehill.com/policy/healthcare/6202648-maha-leader-willing-work-democrats/",
+    "summary": "A top leader in the Make America Healthy Again (MAHA) movement said he is willing to work with Democrats if they share his vision, after Republicans were trounced out of power in Tuesday’s midterm elections. Tony Lyons, a key ally of Health and Human Services Secretary Robert F. Kennedy Jr. who runs several MAHA political...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-11-05T22:36:16+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "Wisconsin reports first measles death since 1990",
+    "url": "https://thehill.com/policy/healthcare/6202219-wisconsin-infant-measles-death/",
+    "summary": "Wisconsin reported Thursday that an infant died in connection to the ongoing measles outbreak — the state’s first measles-related death in more than 30 years. The state’s Division of Public Health (DPH) with the Department of Health Services said in a statement that the coroner had listed the immediate cause of death as measles. “It...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-11-05T22:20:18+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
+    "title": "Sanders calls for Democrats to pass 'Medicare for All'",
+    "url": "https://thehill.com/homenews/senate/6201914-sanders-calls-medicare-all/",
+    "summary": "Sen. Bernie Sanders (I-Vt.) on Thursday called for Democrats to pass \"Medicare for All\" when they take control of the Senate in January. “Healthcare must be considered as a human right, not a privilege. That means passing Medicare for All legislation now supported by 66 percent of the American people,” Sanders said in a video. Sanders...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-11-05T19:15:49+00:00",
+    "date_str": "Nov 05, 2026"
+  },
+  {
     "title": "Trump Administration Delays Awards Slated To Improve Rural America’s Health",
     "url": "https://kffhealthnews.org/rural-health/rural-health-transformation-program-funding-delays-states-cms/",
     "summary": "State leaders who scrambled to win and begin spending their first-year shares of Republicans’ five-year, $50 billion fund are in the dark about how much they’ll receive in the Rural Health Transformation Program’s second year after a federal office notified states that more time is needed to make allocations.",
@@ -2017,386 +2397,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-10-30T13:33:55+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about AstraZeneca cost-cutting, Sun Pharma facility problems, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/10/30/astrazeneca-cost-cutting-sun-pharma-facility-problems/?utm_campaign=rss",
-    "summary": "AstraZeneca has launched a three-year cost-cutting program that aims to slice off $1.5 billion a year, with the savings reinvested in R&D.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-30T13:22:49+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "The persisting paradox of men’s health",
-    "url": "https://www.statnews.com/2026/10/30/health-news-the-paradox-of-men-health/?utm_campaign=rss",
-    "summary": "A new series in The Lancet argues for the need to investigate a paradox of men’s health: why men experience worse health outcomes than women, even though they hold undeniable…",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-30T13:12:49+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "Does ChatGPT Measure Up to Doctors When It Comes to Questions About IVF?",
-    "url": "https://www.medpagetoday.com/meetingcoverage/asrm/123668",
-    "summary": "(MedPage Today) -- BALTIMORE -- ChatGPT's answers to patient queries about assisted reproductive technology (ART) were generally accurate but less complete than professional society education materials, a comparative analysis showed. On a scale...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-30T20:02:10+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "Christa Pike Says She's in Constant Pain, Blames Failed Execution on 'Incompetence'",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/ethics/123666",
-    "summary": "(MedPage Today) -- Christa Pike said Friday she remains in constant pain, struggles to speak, and has been largely isolated in a prison hospital after surviving a lethal injection in Tennessee last month. In her first public statement since, Pike...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-30T19:27:11+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "Extra Genetic Testing in Young IVF Patients Cut Costs but Came With a Downside",
-    "url": "https://www.medpagetoday.com/meetingcoverage/asrm/123665",
-    "summary": "(MedPage Today) -- BALTIMORE -- Adding a broader genetic test to testing for single-gene disorders among younger patients undergoing in vitro fertilization (IVF) reduced costs -- but it also may lower cumulative live birth rates, a cost-effectiveness...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-30T19:19:16+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "What Was Linked to Early-Onset Cancer?",
-    "url": "https://www.medpagetoday.com/quizzes/news-quiz/123664",
-    "summary": "(MedPage Today) -- You passed medical training, now see if you can pass our weekly quiz",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-30T19:02:46+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "Lonely Cancer Deaths; 'Silence Was Deafening'; Mental Health and Cancer Mortality",
-    "url": "https://www.medpagetoday.com/hematologyoncology/othercancers/123661",
-    "summary": "(MedPage Today) -- People who lived alone had a significantly higher mortality from cancer and multiple other conditions. (American Cancer Society) The FDA warned Amgen that a promotional video for its colorectal cancer drug ​panitumumab...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-30T17:54:55+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "Should AI Replace Doctors? A Conversation With Zeke Emanuel",
-    "url": "https://www.medpagetoday.com/opinion/faustfiles/123660",
-    "summary": "(MedPage Today) -- In this 43-minute MedPage Today webinar, Editor-in-Chief Jeremy Faust, MD, speaks with bioethicist and oncologist Ezekiel J. Emanuel, MD, PhD, of the University of Pennsylvania in Philadelphia, about his argument that medicine...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-30T15:31:28+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "Patrick Stewart's Death Highlights Lewy Body Dementia",
-    "url": "https://www.medpagetoday.com/neurology/dementia/123657",
-    "summary": "(MedPage Today) -- Patrick Stewart, the classically trained stage actor known for his roles in the \"Star Trek\" franchise and \"X-Men\" films, died at age 86, his family announced Thursday. His death followed what his spokesperson called \"a brief...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-30T14:14:24+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "Patrick Stewart's Cause of Death; Halloween Healthcare Nightmares; Surgeon's Brandy",
-    "url": "https://www.medpagetoday.com/neurology/alzheimersdisease/123654",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Patrick Stewart, a classically trained actor who added a touch of Shakespearean panache to characters in the \"Star Trek\" and \"X-Men\" movie franchises, died at age...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-30T13:26:46+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "Novel Sarcoidosis Drug Fails to Improve Steroid Dose Reduction",
-    "url": "https://www.medpagetoday.com/pulmonology/generalpulmonary/123653",
-    "summary": "(MedPage Today) -- The novel immunomodulatory agent efzofitimod failed to reduce steroid use in pulmonary sarcoidosis, a phase III trial showed. Monthly infusions of the fusion protein targeting the neuropilin 2 receptor had no impact on placebo...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-30T12:45:30+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "High-acuity strategy helped Tenet weather surgery, uninsured headwinds in Q3",
-    "url": "https://www.healthcaredive.com/news/high-acuity-strategy-helped-tenet-weather-surgery-uninsured-headwinds-q3/873305/",
-    "summary": "The health system's push into high-acuity procedures like joint replacements and spinal fusions helped offset declining surgical volumes and payer-mix pressures tied to the ACA exchanges.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-30T14:23:00+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "Who’s responsible when clinical AI goes wrong? AMA weighs in",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/whos-responsible-clinical-ai-ama-has-some-thoughts",
-    "summary": "The physician association, in a new framework, outlines its views on how different parties should bear responsibility for decisions, actions and failures involving clinical AI.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-30T21:57:22.233845+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "Why Oscar Health is putting a focus on personalization for ACA exchange plans",
-    "url": "https://www.fiercehealthcare.com/payers/why-oscar-health-putting-focus-personalization-aca-exchange-plans",
-    "summary": "Another open enrollment period is set to begin on the Affordable Care Act's exchanges, and the team at Oscar Health is putting a focus on the unique ways it can innovate in this turbulent market.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-30T21:57:22.233891+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "Weekly Rundown: Doximity launches DoseCheck; AI recommends costlier care than doctors, study finds",
-    "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-doximity-launches-dosecheck-ai-recommends-costlier-care-doctors-study",
-    "summary": "The latest news from Doximity, Hims & Hers, Google, NEJM AI, Eko Health, RevSpring, Symplr and Cleveland Clinic Cancer Institute.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-30T21:57:22.233913+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "Sutter Health calls off flagship hospital build in SF's East Bay, citing regulatory issues",
-    "url": "https://www.fiercehealthcare.com/hospitals/sutter-health-investing-1b-build-new-california-hospital-expand-ambulatory-care-services",
-    "summary": "Sutter Health's planned $1 billion investment in Northern California's East Bay region will no longer include a new flagship medical center, at least for now. Outpatient investments in the community will still be going forward.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-30T21:57:22.233932+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "Alignment Healthcare lowers 2026 outlook as it navigates cost headwinds",
-    "url": "https://www.fiercehealthcare.com/payers/alignment-healthcare-lowers-2026-outlook-it-navigates-cost-headwinds",
-    "summary": "Alignment Healthcare is lowering its guidance for the year as it faces significant headwinds to finish out 2026.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-30T21:57:22.233948+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "Industry Voices—The other AI divide is already opening in healthcare",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/industry-voices-other-ai-divide-already-opening-healthcare",
-    "summary": "Collaboration is necessary to head off the compounding divergence between hospitals that have the money, talent and infrastructure to put AI to work and those that don't, writes Abundant Venture Partners' Amanda DeMano.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-30T21:57:22.233967+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "Teladoc Health beats Q3 expectations as BetterHelp insurance growth accelerates",
-    "url": "https://www.fiercehealthcare.com/health-tech/teladoc-health-beats-q3-expectations-betterhelp-insurance-growth-accelerates",
-    "summary": "Teladoc Health raised its 2026 outlook after better-than-expected third-quarter results, as BetterHelp’s insurance pivot gained traction and Integrated Care profitability improved.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-30T21:57:22.233985+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "Watch live: Trump officials announce new anti-fraud measures in Minnesota",
-    "url": "https://thehill.com/video-clips/6184399-watch-live-bessent-oz-patel-fraud-crackdown-minnesota/",
-    "summary": "Top Trump administration officials are set to announce new anti-fraud measures Friday in Minnesota as the White House steps up its crackdown on fraud involving federal assistance and healthcare programs. Treasury Secretary Scott Bessent, FBI Director Kash Patel, Centers for Medicare and Medicaid Services Administrator Mehmet Oz and Federal Trade Commission Chair Andrew Ferguson will...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-10-30T17:06:09+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "New federal rule requires drug intermediaries to disclose how they're paid",
-    "url": "https://thehill.com/policy/healthcare/6184172-trump-dol-pbm-transparency-rule/",
-    "summary": "The companies that manage billions of dollars in prescription drug spending for employers and workers will soon be required to inform their clients all the different ways they get paid under a new rule released by the Trump administration Thursday. A final rule by the Department of Labor will require pharmacy benefit managers (PBMs) for...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-10-30T15:28:12+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "Medicare Drug Plans Are Hiking Premiums While Trump Claims Victory on Medicine Prices",
-    "url": "https://kffhealthnews.org/medicare/medicare-drug-plans-premium-hikes-affordability-trump-cms/",
-    "summary": "Millions of Medicare enrollees who buy stand-alone prescription drug plans will see their average monthly premiums rise by 50% in 2027, a new analysis finds. But enrollees can avoid the average increase by switching to lower-cost plans.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-30T09:01:00+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "Your Phone Knows You’re at the Doctor, and Data Brokers Do, Too — Then Profit From It",
-    "url": "https://kffhealthnews.org/health-industry/data-brokers-phone-location-tracking-sensitive-medical-data-targeted-ads/",
-    "summary": "The Federal Trade Commission told a data company it could no longer sell data it collected from hundreds of millions of Americans’ mobile devices when people visited hospitals, dialysis clinics, or abortion clinics. But little is stopping other companies from doing so. In the absence of federal protections, some states are passing their own rules.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-30T09:00:00+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "Frights, Fangs, and Healthcare Nightmares in Winning Halloween Haikus",
-    "url": "https://kffhealthnews.org/news/halloween-haiku-winners-2026-healthcare-nightmares/",
-    "summary": "This year’s winning Halloween haikus take on measles, the high cost of dental care, and AI-powered insurance denials.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-30T09:00:00+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "For Californians Drowning in Healthcare Costs, Governor’s Race Offers Few Answers",
-    "url": "https://kffhealthnews.org/elections/california-healthcare-costs-affordability-debt-governor-race-becerra-hilton/",
-    "summary": "In California, healthcare costs are rising faster than income and inflation, and 4 in 10 adults in the state say they’re paying down medical debt. With the governor’s race in full swing, it’s still not clear what the candidates would do to fix it.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-10-30T09:00:00+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "Opinion: What a mother’s 1834 letter about measles tells us about MAHA",
-    "url": "https://www.statnews.com/2026/10/30/maha-measles-letter-1834-pseudoscience-women/?utm_campaign=rss",
-    "summary": "An 1834 letter about a measles outbreak sheds light on today’s anti-vaccine movement, writes a medical historian.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-30T08:30:00+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "STAT+: FDA, CMS scramble to avoid regulatory logjam as more states look to test AI in clinical settings",
-    "url": "https://www.statnews.com/2026/10/30/fda-cms-health-ai-regulation-state-sandboxes-run-into-federal-rules/?utm_campaign=rss",
-    "summary": "Officials are moving behind the scenes to head off a conflict brewing between states and the federal government over regulating AI.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-30T08:30:00+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "The health care issues STAT reporters are watching in the midterms",
-    "url": "https://www.statnews.com/2026/10/30/health-care-policy-midterm-elections-status-report-alex-hogan/?utm_campaign=rss",
-    "summary": "In this week's \"STATus Report,\" STAT reporters break down how the midterms could shape federal health and science policy, and an El-Sayed interview.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-30T08:30:00+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "Opinion: How Congress can fix expert advisory committees",
-    "url": "https://www.statnews.com/2026/10/30/scientific-expert-advisory-committees-fda-hhs-congress/?utm_campaign=rss",
-    "summary": "“This evisceration of scientific advice is untenable,” write C. Joseph Ross Daval and Aaron S. Kesselheim.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-30T08:30:00+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "STAT+: How a simple UTI turns into a $1,756 bill",
-    "url": "https://www.statnews.com/2026/10/30/hybrid-er-urgent-care-clinics-hidden-billing-complaints-intuitive-health/?utm_campaign=rss",
-    "summary": "They visited for what they thought were obvious urgent care issues — coughs, congestion, flu — and were shocked to get bills for ER care instead, totaling thousands of dollars.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-30T08:30:00+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "Nearly 2 out of 3 teens and tweens use AI chatbots, new research shows",
-    "url": "https://www.npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media",
-    "summary": "Most kids say they use chatbots for help with homework and when they're stressed, lonely, or anxious. And how they use chatbots is tied to their mental health.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-30T09:00:00+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "Florida sees spike in dengue fever cases",
-    "url": "https://www.npr.org/2026/10/30/nx-s1-6020514/florida-sees-spike-in-dengue-fever-cases",
-    "summary": "Florida is seeing a record number of dengue fever cases this year as the tropical disease thrives in warming climates.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-30T08:47:21+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "RFK Jr.’s making a lot of friends in Iowa",
-    "url": "https://www.politico.com/news/2026/10/30/rfk-maha-iowa-2028-midterms-01141627",
-    "summary": "The former presidential candidate says he’s not running in 2028, but he’s doing everything he can to help Iowa candidates.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-30T09:00:00+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "Nurse's Remains Identified; Surgeon Alleges Retaliation; 20-Year Telehealth Sentence",
-    "url": "https://www.medpagetoday.com/special-reports/features/123639",
-    "summary": "(MedPage Today) -- Investigators used jewelry to identify the burned remains of missing California nurse Jasmine Gill, RN. Her husband has been arrested and charged with her murder. (People) Texas orthopedic surgeon Thomas DeBerardino, MD, is...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-29T16:32:54+00:00",
-    "date_str": "Oct 29, 2026"
-  },
-  {
-    "title": "Chemo-Free First-Line Treatment Yields Huge PFS Gain in dMMR Endometrial Cancer",
-    "url": "https://www.medpagetoday.com/meetingcoverage/esmo/123637",
-    "summary": "(MedPage Today) -- Single-agent immunotherapy as first-line treatment led to a huge improvement in progression-free survival (PFS) in inoperable recurrent/advanced mismatch repair-deficient (dMMR) endometrial cancer, a large randomized trial showed...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-29T15:59:30+00:00",
-    "date_str": "Oct 29, 2026"
-  },
-  {
-    "title": "Jalen Hurts and the Corporate Compromise of Team Physicians",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/123636",
-    "summary": "(MedPage Today) -- The recent medical crisis involving Philadelphia Eagles quarterback Jalen Hurts has reignited a fierce public debate over sports team transparency and injury reporting. Framing it as a communications issue, however, obscures...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-29T15:27:59+00:00",
-    "date_str": "Oct 29, 2026"
-  },
-  {
-    "title": "Butter Recalled in 10 States; Voters Worry Over Healthcare; New Organ Donation Rules",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/productalert/123635",
-    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Plant-based butter made by Miyoko's Creamery has been recalled in 10 states over concerns for yeast, mold, and E. coli contamination. (ABC News) Meanwhile, a popular...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-29T13:35:17+00:00",
-    "date_str": "Oct 29, 2026"
-  },
-  {
-    "title": "Community Health Systems logs $86M net loss in Q3, hopes for return of 'pent-up' electives in 2027",
-    "url": "https://www.fiercehealthcare.com/providers/community-health-systems-logs-86m-net-loss-q3-hopes-return-pent-electives-2027",
-    "summary": "The for-profit hospital chain landed below internal and analyst expectations in the quarter due to now-familiar hurdles around elective surgeries and uninsured patients.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-10-30T04:32:10.084680+00:00",
     "date_str": "Oct 30, 2026"
   }
 ]
