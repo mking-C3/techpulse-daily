@@ -1,5 +1,395 @@
 [
   {
+    "title": "Bispecific J&J Drug Wins Speedy FDA Approval for Treating Head & Neck Cancer",
+    "url": "https://medcitynews.com/2026/11/johnson-johnson-rybrevant-faspro-fda-approval-bispecific-antibody-egfr-met-head-neck-cancer-oncology-jnj/",
+    "summary": "Accelerated FDA approval of Johnson & Johnson’s Rybrevant Faspro covers advanced cases of head and neck cancer. The bispecific antibody was initially approved for treating certain lung cancers. The post Bispecific J&J Drug Wins Speedy FDA Approval for Treating Head & Neck Cancer appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-06T22:35:32+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "Experian Health Survey: Providers Struggle Amid Increasing Claim Denials",
+    "url": "https://medcitynews.com/2026/11/experian-health-survey-providers-struggle-amid-increasing-claim-denials/",
+    "summary": "A new Experian Health survey finds that healthcare providers’ efforts to prevent claims denials are falling short, with many reporting an increase in denials over last year and increasingly complex payer requirements. The post Experian Health Survey: Providers Struggle Amid Increasing Claim Denials appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-06T19:19:29+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "The Big Challenge for AI in Healthcare Comes After Approval",
+    "url": "https://medcitynews.com/2026/11/the-big-challenge-for-ai-in-healthcare-comes-after-approval/",
+    "summary": "Typically, software placed on the market will undergo changes and updates after its initial release. In the case of healthcare AI, changes can occur, often unexpectedly, even when the developers have not updated the model. The post The Big Challenge for AI in Healthcare Comes After Approval appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-06T14:43:00+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "Why Physician Leadership Is More Important Than Ever",
+    "url": "https://medcitynews.com/2026/11/why-physician-leadership-is-more-important-than-ever/",
+    "summary": "One voice needs to be increasingly present in the rooms where healthcare’s future is being decided: the physician’s. The post Why Physician Leadership Is More Important Than Ever appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-06T14:30:00+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "Myths of Customer Discovery",
+    "url": "https://medcitynews.com/2026/11/myths-of-customer-discovery/",
+    "summary": "Customer discovery is a well accepted idea in any innovation process. At the core of it, it means talking to potential customers about an invention. In reality, it is a more evolved process, and often less understood than it first appears. The post Myths of Customer Discovery appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-06T14:08:00+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "STAT+: States sue Trump administration again to delay Medicaid work requirements",
+    "url": "https://www.statnews.com/2026/11/06/states-sue-trump-delay-medicaid-work-requirements/?utm_campaign=rss",
+    "summary": "The Trump administration is facing another lawsuit over its sweeping changes to Medicaid less than a week after a federal judge ruled that implementation of work requirements would cause “irreparable…",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-06T22:05:39+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "STAT+: MAHA leader Calley Means castigates White House officials as bending to industry",
+    "url": "https://www.statnews.com/2026/11/06/calley-means-joe-rogan-trump-maha-agenda-derailed-by-corporate-influence/?utm_campaign=rss",
+    "summary": "Calley Means, a MAHA leader who just resigned from the Trump administration, says Americans \"are being duped and gaslighted and lied to.\"",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-06T21:55:21+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "Two incoming lawmakers plan to defend health equity from Trump administration cuts",
+    "url": "https://www.statnews.com/2026/11/06/abdul-el-sayed-jasmine-clark-defend-health-equity-from-cuts/?utm_campaign=rss",
+    "summary": "Two newly elected lawmakers with science backgrounds hope to push back against Trump administration cuts to health equity programs.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-06T21:46:55+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "STAT+: Democrats’ midterm landslide spells relief for hospitals",
+    "url": "https://www.statnews.com/2026/11/06/why-democrats-midterm-landslide-helps-hospital-industry/?utm_campaign=rss",
+    "summary": "Democrats are likely to focus on reversing Medicaid cuts and expanding insurance coverage, giving a boost to health care providers.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-06T17:46:16+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "Democrats’ midterm victory, and a questionable fertility procedure",
+    "url": "https://www.statnews.com/2026/11/06/readout-loud-podcast-midterm-elections-fertility-ivf-mrt-therapy/?utm_campaign=rss",
+    "summary": "How will the midterm results affect drug pricing policy? And why are women traveling to fertility clinics abroad? Find out on the new episode of \"The Readout LOUD\" podcast.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-06T17:02:18+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "STAT+: Up and down the ladder: The latest comings and goings",
+    "url": "https://www.statnews.com/pharmalot/2026/11/06/pharma-biotech-jobs-ladder-pfizer-amgen-astrazeneca-novonordisk/?utm_campaign=rss",
+    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-06T16:43:49+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "STAT+: New tumor cases show common gene therapy tool can come with risk",
+    "url": "https://www.statnews.com/2026/11/06/novartis-zolgensma-gene-therapy-tumor-risk/?utm_campaign=rss",
+    "summary": "New cases show AAV gene therapies like Zolgensma carry tumor risks, raising key concerns for SMA patients and gene therapy researchers in general.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-06T16:14:40+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "STAT+: Amgen’s Repatha linked to fewer heart attacks",
+    "url": "https://www.statnews.com/2026/11/06/biotech-news-amgen-repatha-linked-to-fewer-heart-attacks/?utm_campaign=rss",
+    "summary": "Pithy intro text about the biopharma milieu. Novartis cites more tumor reports after Zolgensma Novartis has disclosed seven previously unreported cases of tumors in children who received Zolgensma, its gene therapy…",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-06T15:14:53+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "New evidence for ancient cannabis use",
+    "url": "https://www.statnews.com/2026/11/06/health-news-new-evidence-for-ancient-cannabis-use/?utm_campaign=rss",
+    "summary": "A new paper, published yesterday in Science, offers compelling evidence of ritual cannabis use in a 2,800-year-old Siberian tomb.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-06T14:59:42+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a Novartis gene therapy, faster U.K. drug reviews, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/11/06/novartis-gene-therapy-tumors-found-faster-uk-drug-reviews/?utm_campaign=rss",
+    "summary": "Novartis acknowledged seven instances of tumors being found in children who were treated with Zolgensma for spinal muscular atrophy",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-06T14:41:03+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "Trump's global health strategy is emerging. What will the Democratic Congress say?",
+    "url": "https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress",
+    "summary": "The Trump Administration has ushered in a fundamental shift in the U.S. approach to global health aid. How will the newly elected Democratic Congress weigh in?",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-06T20:09:58+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
+    "url": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare",
+    "summary": "A healthcare intelligence-sharing organization is warning its members to lock down systems following cyberattacks on cold storage systems, including a French blood bank.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-06T19:00:21+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "Hawaii Doctors May Soon Start Prescribing Fresh Food",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/123767",
+    "summary": "(MedPage Today) -- More than 100,000 Hawaii residents who qualify for Medicaid may soon find their doctors prescribing them fresh food as medicine. The script could be for fresh fruit and vegetables, even ahi, beef, chicken, and eggs. The federally...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-06T21:57:02+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "Oral Food Challenge Clears Many Infants Thought to Have Peanut Allergy",
+    "url": "https://www.medpagetoday.com/allergyimmunology/allergy/123766",
+    "summary": "(MedPage Today) -- More than a third of infants thought to be allergic to peanuts were not actually allergic, an oral food challenge study showed. With the aim of treating peanut allergy among babies who reacted to peanut before 1 year of age...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-06T20:58:26+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "AHA to Put Aggressive BP Control in the Hot Seat for SPRINT-Excluded Groups",
+    "url": "https://www.medpagetoday.com/meetingcoverage/aha/123765",
+    "summary": "(MedPage Today) -- At this weekend's American Heart Association (AHA) meeting, intensive blood pressure (BP) lowering and other mainstays in cardiovascular medicine have a lot to prove, as do innovations related to GLP-1 receptor agonists and artificial...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-06T20:36:31+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "Here's How the Blue Tsunami Will Turn the Healthcare Tide",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/123764",
+    "summary": "(MedPage Today) -- Hubris played such a central role in the 2026 midterm election that the ancient Greeks would surely have loved it. The midterms featured a mortal who promised to avoid war, lower prices, expel immigrants who had committed crimes...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-06T20:17:44+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "Lumateperone Brings Rapid Relief in Bipolar Mania",
+    "url": "https://www.medpagetoday.com/meetingcoverage/neicongress/123763",
+    "summary": "(MedPage Today) -- Lumateperone (Caplyta) rapidly improved symptoms of acute mania associated with bipolar I disorder, a phase III trial showed. Among 351 patients with or without mixed features, lumateperone demonstrated superiority over placebo...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-06T20:07:27+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "Hormone Therapy and Cancer Risk; Oncology Pay Cut; Mammograms Post-Double Mastectomy",
+    "url": "https://www.medpagetoday.com/hematologyoncology/breastcancer/123761",
+    "summary": "(MedPage Today) -- Doctors are warning not to overlook the small increase in breast cancer risk associated with certain hormonal therapies for treating menopause symptoms. (New York Times) In related news, the FDA removed boxed warnings about...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-06T19:25:53+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "What Was Linked to Aggressive Breast Cancer?",
+    "url": "https://www.medpagetoday.com/quizzes/news-quiz/123758",
+    "summary": "(MedPage Today) -- You passed medical training, now see if you can pass our weekly quiz",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-06T18:31:10+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "Booze, Tobacco Together in Pregnancy May Worsen Baby's Facial Abnormalities",
+    "url": "https://www.medpagetoday.com/pediatrics/growthdisorders/123756",
+    "summary": "(MedPage Today) -- Prenatal exposure to both alcohol and tobacco smoke impacted the baby's facial development more than either alone, a longitudinal study from South Africa showed. Three-dimensional facial scans at 1 month and 1 year of age showed...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-06T17:32:10+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "'ER' and 'The Pitt' Similar Enough for Lawsuit to Move Forward, Appeals Court Says",
+    "url": "https://www.medpagetoday.com/emergencymedicine/emergencymedicine/123754",
+    "summary": "(MedPage Today) -- A California appeals court has found that \"ER\" and \"The Pitt\" have enough similarity that a lawsuit brought by the widow and estate of \"ER\" creator Michael Crichton alleging \"The Pitt\" is an unauthorized reboot can move forward...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-06T17:09:12+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "Elizabeth Holmes Documentary: Doctors Weigh In",
+    "url": "https://www.medpagetoday.com/podcasts/anamnesis/123753",
+    "summary": "(MedPage Today) -- The following is a transcript of the podcast episode: Rachael Robertson: Hey everybody! Welcome to MedPod Today, the podcast series where MedPage Today reporters share deeper insight into the week's biggest healthcare stories...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-06T16:55:02+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "Judge sides with ACA brokers, lifts moratorium on new registrations",
+    "url": "https://www.healthcaredive.com/news/judge-sides-with-aca-brokers-lifts-moratorium-on-new-registrations/873994/",
+    "summary": "A federal judge agreed with brokers’ arguments that the moratorium, instituted by the CMS to combat fraud on the exchanges, would cause irreparable harm to agents. The injunction paves the way for new brokers to begin training and facilitating enrollments immediately.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-06T15:22:53+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "CMS ousts 2 No Surprises arbiters as critics question impartiality",
+    "url": "https://www.healthcaredive.com/news/cms-ousts-two-no-surprises-arbiters-island-peer-network-medical/873896/",
+    "summary": "Earlier this week, the Trump administration denied recertification requests from Island Peer Review Organization and Network Medical Review Company. Insurers cheered the decision, though both arbiters said they were considering appeals.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-06T14:53:23+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "New CMS rule ties Medicare billing privileges to owners’ misconduct",
+    "url": "https://www.healthcaredive.com/news/new-cms-rule-ties-medicare-billing-privileges-to-owners-misconduct/873975/",
+    "summary": "Regulators have expanded powers to revoke providers’ Medicare certification, including for parent companies that violate federal rules.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-06T14:28:53+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "Hims & Hers inks deal with Eli Lilly to offer branded weight loss drugs",
+    "url": "https://www.fiercehealthcare.com/health-tech/hims-hers-inks-deal-eli-lilly-offer-branded-weight-loss-drugs",
+    "summary": "Hims & Hers struck a deal with Eli Lilly to offer the drugmaker’s branded obesity treatments through its online health and wellness platform.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-06T22:44:09.729129+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "CMS makes it official, codifying Medicare drug price negotiations established under IRA",
+    "url": "https://www.fiercehealthcare.com/pharma/cms-makes-it-official-codifying-medicare-drug-price-negotiations-rolled-out-under-ira",
+    "summary": "Against a backdrop of repeated industry challenges in court, the Centers for Medicare and Medicaid Services is locking in the drug price negotiation framework established under the Biden-era Inflation Reduction Act.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-06T22:44:09.729168+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "Omada Health hikes 2026 outlook after ‘strongest quarter ever’ in Q3",
+    "url": "https://www.fiercehealthcare.com/finance/omada-health-hikes-2026-outlook-after-strongest-quarter-ever-q3",
+    "summary": "Omada Health saw its \"strongest quarter ever\" in the third quarter of 2026, CEO and co-founder Sean Duffy told investors and analysts during a Thursday evening earnings call.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-06T22:44:09.729188+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "Equiti acquires Lexi AI to combine AI, human medical interpretation",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/equiti-acquires-lexi-ai-combine-ai-human-medical-interpretation",
+    "summary": "The acquisition deal merges Lexi's immediate AI language support, covering over 35 languages and dialects, with Martti and its network of qualified medical interpreters to help healthcare organizations expand language access.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-06T22:44:09.729205+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "Healthcare Dealmakers—Chicago's $11B hospital merger, another health system ASC deal and more",
+    "url": "https://www.fiercehealthcare.com/finance/healthcare-dealmakers-chicagos-11b-hospital-merger-another-health-system-asc-deal-and-more",
+    "summary": "Kaiser Permanente's next regional health system acquisition, Redesign Health's merger with Sheba Medical Center's innovation arm and more merger and acquisition news from a busy October.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-06T22:44:09.729222+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "Mayo Clinic Platform launches AI-driven clinical decision support tool",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/mayo-clinic-launches-ai-driven-clinical-decision-support-tool",
+    "summary": "Beginning in November, eligible clinicians will have access to two key capabilities: a specialty-specific chat that covers more than 35 specialties and 22 clinical calculators available via chat or voice dictation.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-06T22:44:09.729239+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "Industry Voices—New majority, new targets: Where healthcare fraud enforcement goes next",
+    "url": "https://www.fiercehealthcare.com/regulatory/industry-voices-new-majority-new-targets-where-healthcare-fraud-enforcement-goes-next",
+    "summary": "A new Congress may bring closer scrutiny of how the healthcare industry is organized, owned and paid, writes Miller & Chevalier member and former Department of Justice fraud head Kevin Lowell.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-06T22:44:09.729267+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "CMS proposes rollbacks of 'excessively burdensome' Conditions of Participation",
+    "url": "https://www.fiercehealthcare.com/providers/cms-proposes-rollbacks-excessively-burdensome-conditions-participation",
+    "summary": "The proposed changes, estimated to save $320 million, include reversals of Biden-era requirements for hospital emergency departments related to obstetric care.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-06T22:44:09.729281+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "Humana pacing ahead of expectations during Medicare enrollment window, CEO says",
+    "url": "https://www.fiercehealthcare.com/payers/humana-boosts-guidance-it-beats-street-both-profit-revenue-q3",
+    "summary": "Humana beat the Street for both earnings and revenue in the third quarter. The company reported $162 million in profit and $41.2 billion in revenue for Q3, both of which surpassed analysts' predictions, per Zacks Investment Research.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-06T22:44:09.729298+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
     "title": "Healthcare Cuts Fuel Democrats’ Election Blowout",
     "url": "https://kffhealthnews.org/elections/healthcare-cuts-fuel-democratic-midterm-blue-wave-agenda/",
     "summary": "Climbing healthcare costs drove a blue wave this election season. Julie Rovner, KFF Health News' chief Washington correspondent, breaks down the midterms and how the results could shape future healthcare debates.",
@@ -2008,395 +2398,5 @@
     "category_slug": "drug-coverage",
     "date": "2026-11-03T00:33:35.454558+00:00",
     "date_str": "Nov 03, 2026"
-  },
-  {
-    "title": "Fitness program cut transplant waitlist death risk by half, study finds",
-    "url": "https://thehill.com/policy/healthcare/6187658-fitness-program-cut-transplant-waitlist-death-risk-study/",
-    "summary": "Patients who improved their fitness while waiting for a transplant were about 50% less likely to die before receiving an organ, researchers found.",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-11-02T19:44:42+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "Georgia Helped Inspire the Medicaid Work Rules. Its Own Rules Could Soon End.",
-    "url": "https://kffhealthnews.org/medicaid/medicaid-work-requirements-federal-rules-georgia-pathways-expiration/",
-    "summary": "For years, Georgia was the only state to require some Medicaid enrollees to work to obtain and keep coverage. Those rules could expire just as the federal Medicaid work requirements they helped inspire roll out across most of the country.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-02T10:00:00+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "A GOP Congressman Backed Medicaid Work Requirements. His Voters Might Be Exempt.",
-    "url": "https://kffhealthnews.org/elections/medicaid-work-rules-california-valadao-villegas-22nd-district-unemployment-exempt/",
-    "summary": "A California congressman voted for the GOP’s One Big Beautiful Bill, which is projected to reduce Medicaid spending by $900 billion. Now Rep. David Valadao, whose House race will help decide control of Congress, is telling his constituents they may not have to follow the new rules.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-02T10:00:00+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "How Innovation in BTK Inhibitor Development Is Improving Treatment Outcomes",
-    "url": "https://medcitynews.com/2026/11/how-innovation-in-btk-inhibitor-development-is-improving-treatment-outcomes/",
-    "summary": "[Sponsored] BTK inhibitor has become an important treatment option for certain B-cell malignancies. The post How Innovation in BTK Inhibitor Development Is Improving Treatment Outcomes appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-02T14:15:32+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "Mental Health Care Was Never Built for Everyone — AI Won’t Fix That",
-    "url": "https://medcitynews.com/2026/11/mental-health-care-was-never-built-for-everyone-ai-wont-fix-that/",
-    "summary": "Companies aren’t slowing down to ask if AI is ready for mental health; they’re racing to build it in. Encoding the same unexamined standards into these tools means repeating the systemic issues marginalized groups have lived with for far too long. The post Mental Health Care Was Never Built for Everyone — AI Won’t Fix That appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-02T14:07:00+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about payments to Russian middlemen, a possible Dupixent rival, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/11/02/drugmaker-payments-to-russian-middlemen-possible-dupixent-rival/?utm_campaign=rss",
-    "summary": "Four big drugmakers allegedly paid tens of millions of dollars to middlemen to supply lifesaving drugs to Russian government entities",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-02T14:22:08+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "A STAT reporter on covering MRT as an experimental fertility treatment",
-    "url": "https://www.statnews.com/2026/11/02/health-news-stat-reporter-qa-on-mit-as-experimental-fertility-treatment/?utm_campaign=rss",
-    "summary": "Inside the global fertility industry using women as \"guinea pigs\":",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-02T13:08:42+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "Are you pursuing MRT as a treatment for infertility? Tell us about your experience",
-    "url": "https://www.statnews.com/2026/11/02/mrt-fertility-treatment-advanced-maternal-age-three-parent-ivf-reader-callout/?utm_campaign=rss",
-    "summary": "Are you pursuing MRT as a treatment for infertility? STAT wants to hear from you",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-02T09:30:00+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "STAT+: Coming readout of Kymera eczema trial is a high-stakes moment in a bid to rival Dupixent",
-    "url": "https://www.statnews.com/2026/11/02/kymera-therapeutics-trial-results-eczema-dupixent-rival/?utm_campaign=rss",
-    "summary": "Investors and doctors are intensely awaiting mid-stage results of an experimental Kymera therapy positioned to rival Dupixent.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-02T09:30:00+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "Opinion: Cancer patients are often pressured to end a pregnancy early. They shouldn’t be",
-    "url": "https://www.statnews.com/2026/11/02/pregnant-cancer-patients-abortion-early-labor-research/?utm_campaign=rss",
-    "summary": "Women can be safely treated for many cancers during pregnancy, a maternal fetal medicine specialist writes.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-02T09:30:00+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "Opinion: The economics of the U.S. health care system are broken",
-    "url": "https://www.statnews.com/2026/11/02/american-health-care-costs-broken-economics-solutions/?utm_campaign=rss",
-    "summary": "“The economics of the U.S. health care system are broken,” writes Paul Markovich, president and CEO of Ascendiun.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-02T09:30:00+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "Women travel thousands of miles for a reproductive moonshot. Scientists say they’ve been misled",
-    "url": "https://www.statnews.com/2026/11/02/three-parent-ivf-fertility-tourism-investigation-mrt-therapy/?utm_campaign=rss",
-    "summary": "Pioneering IVF technique to reduce the risk of children inheriting mitochondrial diseases is being marketed as a fertility procedure for older women, despite little evidence it works.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-02T09:30:00+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "How does this fluoride-free toothpaste compare when it comes to oral health?",
-    "url": "https://www.npr.org/2026/11/02/nx-s1-5955806/fluoride-toothpaste-hydroxyapatite-dental-oral-health",
-    "summary": "Many people are swapping out their fluoride dental products for ones made with a mineral called hydroxyapatite. What do dentists say about it?",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-02T10:00:00+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "A lot of Floridians lost their healthcare this year. Now, they're heading to the polls",
-    "url": "https://www.npr.org/2026/10/30/nx-s1-5995422/2026-midterms-florida-healthcare-aca",
-    "summary": "When federal subsidies for Affordable Care Act health insurance expired last year, Florida was hit particularly hard. Now, as the election and open enrollment coincide, healthcare is a major issue.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-10-31T11:46:45+00:00",
-    "date_str": "Oct 31, 2026"
-  },
-  {
-    "title": "What happens to a health plan’s payment operation when volume triples",
-    "url": "https://www.healthcaredive.com/spons/what-happens-to-a-health-plans-payment-operation-when-volume-triples/873363/",
-    "summary": "Exception volume, return rate and digital share show whether a plan bought capacity or architecture.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-02T10:00:00+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "Healthcare employers are planning for growth. Are they watching the right roles?",
-    "url": "https://www.healthcaredive.com/spons/healthcare-employers-are-planning-for-growth-are-they-watching-the-right-r/873127/",
-    "summary": "Healthcare growth depends on more than high-profile roles. Is your workforce plan ready?",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-02T10:00:00+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "Athenahealth launches tool to bring patient health records into Anthropic's Claude",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/athenahealth-launches-tool-bring-patient-health-records-anthropics-claude",
-    "summary": "Athenahealth is opening up patient health records to outside AI assistants, starting with Anthropic’s Claude, through a new MCP connection designed to give patients personalized answers based on their clinical data.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-02T14:50:54.544182+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "Midstream Health nabs $20M series A to help hospitals recover lost margin",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/midstream-health-nabs-20m-ai-financial-platform-improve-hospital-margins",
-    "summary": "Health systems are losing margins they’ve already earned, according to Sumit Kadakia, CEO and co-founder of Midstream Health. The startup bets artificial intelligence can improve hospital margins by finding money that is already embedded in contracts and transactions.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-02T14:50:54.544245+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "From Transparency to Defensibility: The Standard Mid–Revenue Cycle AI Requires",
-    "url": "https://www.fiercehealthcare.com/sponsored/transparency-defensibility-standard-mid-revenue-cycle-ai-requires",
-    "summary": "Healthcare AI needs more than transparency. Discover why clinical and coding integrity sets the standard for trusted, defensible mid-revenue cycle AI.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-02T14:50:54.544280+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "How MRD is powering the next wave of precision oncology",
-    "url": "https://www.fiercehealthcare.com/sponsored/how-mrd-powering-next-wave-precision-oncology",
-    "summary": "The Oncodetect® molecular residual disease test is giving clinicians insights that can reshape cancer treatment and monitoring.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-02T14:50:54.544311+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "The Confidence Trap: What a New Survey Reveals About AI and Health Decisions",
-    "url": "https://www.fiercehealthcare.com/sponsored/confidence-trap-what-new-survey-reveals-about-ai-and-health-decisions",
-    "summary": "A new survey explores how people use general-purpose AI tools for health decisions, and how it’s influencing when and where they seek care.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-02T14:50:54.544343+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "Post-midterms, hospitals still face a long road to policy relief, advisers warn",
-    "url": "https://www.fiercehealthcare.com/providers/hospitals-cant-wait-friendlier-washington-solve-policy-headwinds-brg",
-    "summary": "Regardless of where this week's midterms land, hospitals have their work cut out for them in navigating impending policy headwinds unlikely to vanish in 2027 and beyond, consultants and health system heads warn.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-02T14:50:54.544375+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "Iowa’s cancer crisis could reshape the state’s biggest midterm races",
-    "url": "https://thehill.com/policy/healthcare/6185631-iowa-cancer-crisis-big-ag-maha-agenda-2026-midterms/",
-    "summary": "Rising cancer rates and their potential link to farm pollution are causing a crisis in Iowa, throwing uncertainty into the midterm elections in a state that has shifted ruby-red in recent years. Iowa suffers from the second-highest rate of new cancer cases in the U.S., and it’s one of the few states where the number...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-11-02T11:00:00+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "Midstream Health Snags $20M to Provide Health Systems More Financial Stability",
-    "url": "https://medcitynews.com/2026/11/midstream-health-snags-20m-to-provide-health-systems-more-financial-stability/",
-    "summary": "Midstream’s Series A round was led by Valtruis, and included participation from Andreessen Horowitz (a16z), Foundry and CommonSpirit Ventures. The post Midstream Health Snags $20M to Provide Health Systems More Financial Stability appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-01T23:19:35+00:00",
-    "date_str": "Nov 01, 2026"
-  },
-  {
-    "title": "Do you know signs of a stroke? BE FAST are the words to remember",
-    "url": "https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast",
-    "summary": "Sen. Chris Murphy is expected to fully recover from his stroke. The acronym BE FAST can help you remember the symptoms of stroke and what to do when it happens: Call 911 quickly.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-01T22:22:12+00:00",
-    "date_str": "Nov 01, 2026"
-  },
-  {
-    "title": "Rare Disease Biotech Setara Starts Out With $90M and a Lead Drug in the Clinic",
-    "url": "https://medcitynews.com/2026/11/setara-biosciences-startup-jazz-actio-charcot-marie-tooth-cmt2c-overactive-bladder-trvp4-ion-channel/",
-    "summary": "Setara Biosciences’ lead program is a potential treatment for the rare neuromuscular disorder Charcot-Marie-Tooth disease type 2C and the prevalent condition overactive bladder. This small molecule came from Actio Biosciences, which was recently acquired by Jazz Pharmaceuticals. The post Rare Disease Biotech Setara Starts Out With $90M and a Lead Drug in the Clinic appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-01T15:59:16+00:00",
-    "date_str": "Nov 01, 2026"
-  },
-  {
-    "title": "MMI Raises $125M to Expand Robotic Microsurgery and Explore New Treatments",
-    "url": "https://medcitynews.com/2026/11/mmi-raises-125m-to-expand-robotic-microsurgery-and-explore-new-treatments/",
-    "summary": "Medical Microinstruments (MMI) has raised $125 million in Series D financing to expand the reach of its Symani Surgical System and investigate new applications for microsurgery, including an experimental approach to treat Alzheimer’s disease. The post MMI Raises $125M to Expand Robotic Microsurgery and Explore New Treatments appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-01T15:41:00+00:00",
-    "date_str": "Nov 01, 2026"
-  },
-  {
-    "title": "What the Midterms Mean for Healthcare and the Investors Betting on It",
-    "url": "https://medcitynews.com/2026/11/what-the-midterms-mean-for-healthcare-and-the-investors-betting-on-it/",
-    "summary": "One question on everyone’s mind is what the impact of the midterm elections will be on the US healthcare system in the near and long term – here are 3 possible outcomes The post What the Midterms Mean for Healthcare and the Investors Betting on It appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-01T14:36:00+00:00",
-    "date_str": "Nov 01, 2026"
-  },
-  {
-    "title": "Prestige Is a Business Model",
-    "url": "https://medcitynews.com/2026/11/prestige-is-a-business-model/",
-    "summary": "An employer that treats board disclosure, community benefit reporting, and contracting terms as three separate conversations is missing that they are the same conversation. The post Prestige Is a Business Model appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-01T14:34:00+00:00",
-    "date_str": "Nov 01, 2026"
-  },
-  {
-    "title": "Has Trump kept his promises to the MAHA movement?",
-    "url": "https://www.npr.org/2026/11/01/nx-s1-6022240/has-trump-kept-his-promises-to-the-maha-movement",
-    "summary": "It's been just over two years since the rise of Make America Healthy Again, or MAHA. How well is the Trump administration meeting its promises?",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-01T13:07:54+00:00",
-    "date_str": "Nov 01, 2026"
-  },
-  {
-    "title": "'They're Looking for Scapegoats': What We Heard This Week",
-    "url": "https://www.medpagetoday.com/opinion/what-we-heard/123662",
-    "summary": "(MedPage Today) -- \"They're looking for scapegoats.\" -- Aaron Kelly, PhD, of the University of Minnesota in Minneapolis, on the American Diabetes Association's final report about five scientists ousted from this year's annual meeting. \"So 130...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-01T21:00:00+00:00",
-    "date_str": "Nov 01, 2026"
-  },
-  {
-    "title": "Do We Diagnose Too Much Normal Distress?",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/123669",
-    "summary": "(MedPage Today) -- A relationship ends, and she cannot sleep. A parent dies, and his appetite disappears. She loses her job and spends weeks feeling anxious and struggling to concentrate. Some of these patients will arrive in our offices. They...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-01T17:00:00+00:00",
-    "date_str": "Nov 01, 2026"
-  },
-  {
-    "title": "Judge strikes down CMS ‘medical frailty’ policy for Medicaid work requirements",
-    "url": "https://www.healthcaredive.com/news/judge-strikes-down-cms-medical-frailty-policy-medicaid-work-requirements/873284/",
-    "summary": "It’s a victory for more than two dozen states that had sued to block the definition, along with providers, consumer advocates and other critics that had opposed it. The CMS could still appeal the decision.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-10-30T12:53:47+00:00",
-    "date_str": "Oct 30, 2026"
-  },
-  {
-    "title": "The trust-busters going after CVS are Republicans",
-    "url": "https://www.politico.com/news/2026/11/01/trust-busters-going-after-cvs-are-republicans-01144204",
-    "summary": "The GOP has joined Democrats in blaming pharmacy conglomerates for high drug prices.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-01T19:00:00+00:00",
-    "date_str": "Nov 01, 2026"
-  },
-  {
-    "title": "Shapiro's strategy for tackling measles outbreak: Don't listen to RFK Jr.",
-    "url": "https://www.politico.com/news/2026/11/01/josh-shapiro-measles-outbreak-rfk-kennedy-01144693",
-    "summary": "Pennsylvania is home to one of the worst measles outbreaks in decades.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-01T17:48:03+00:00",
-    "date_str": "Nov 01, 2026"
-  },
-  {
-    "title": "Why a MAHA mom who loves RFK Jr. is backing Democrats who don’t",
-    "url": "https://www.politico.com/news/2026/11/01/why-a-maha-mom-who-loves-rfk-jr-is-backing-democrats-who-dont-01142503",
-    "summary": "Zen Honeycutt of Moms Across America endorsed 10 Democrats in the closing days of the campaign, then campaigned with the health secretary.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-01T15:00:00+00:00",
-    "date_str": "Nov 01, 2026"
-  },
-  {
-    "title": "Sen. Chris Murphy hospitalized following stroke",
-    "url": "https://thehill.com/homenews/senate/6186954-senator-chris-murphy-stroke/",
-    "summary": "Sen. Chris Murphy (D-Conn.) had a stroke, his office said in a Sunday statement, adding that he is “responding well to treatment.” “Yesterday afternoon, Senator Murphy started experiencing numbness in his arm while at his son’s hockey game. He was taken to a local hospital, where it was discovered he had experienced a stroke,” Allison...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-11-01T18:11:35+00:00",
-    "date_str": "Nov 01, 2026"
-  },
-  {
-    "title": "It's ACA open enrollment time. Here are the changes for health insurance shoppers",
-    "url": "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance",
-    "summary": "The ACA health insurance marketplaces — find yours at HealthCare.gov — open Nov. 1 for 2027 coverage. Getting an early start may be especially important this year.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-01T12:00:00+00:00",
-    "date_str": "Nov 01, 2026"
-  },
-  {
-    "title": "How one family gave a critical boost to gene therapy research",
-    "url": "https://www.npr.org/2026/11/01/nx-s1-6014739/sanfilippo-gene-therapy-fayuvi",
-    "summary": "A family affected by Sanfilippo syndrome raised millions of dollars for research. The Food and Drug Administration just approved a gene therapy the support helped make possible.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-01T09:00:00+00:00",
-    "date_str": "Nov 01, 2026"
   }
 ]
