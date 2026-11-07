@@ -1,5 +1,45 @@
 [
   {
+    "title": "Our Reporters Discuss Healthcare Costs — And What Changes the Midterms May Portend",
+    "url": "https://kffhealthnews.org/on-air/on-air-november-7-2026-midterm-election-healthcare-costs-reform-media-appearances/",
+    "summary": "KFF Health News journalists made the rounds on national and local media in recent weeks to discuss topical stories. Here’s a collection of their appearances.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-07T10:00:00+00:00",
+    "date_str": "Nov 07, 2026"
+  },
+  {
+    "title": "This teen boy set out to get people talking about periods. He's now a Diana honoree",
+    "url": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma",
+    "summary": "This year's the Princess Diana honor roll highlights 198 inspiring young activists and advocates — including an 18-year-old guy in India who founded Team Period.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-07T11:50:21+00:00",
+    "date_str": "Nov 07, 2026"
+  },
+  {
+    "title": "New CMS rule ties Medicare billing privileges to owner conduct",
+    "url": "https://www.healthcaredive.com/news/new-cms-rule-ties-medicare-billing-privileges-to-owner-conduct/873975/",
+    "summary": "Regulators have expanded powers to revoke providers’ Medicare certification, including for parent companies that violate federal rules.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-06T14:28:53+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
+    "title": "Humana expects another year of Medicare Advantage membership growth in 2027",
+    "url": "https://www.healthcaredive.com/news/humana-expects-medicare-advantage-membership-growth-2027-hum-q3/873966/",
+    "summary": "More seniors than expected signing up for Humana’s plans in 2026 was a major concern for investors. But Humana is in a much better position to absorb future growing pains, executives said.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-06T12:23:39+00:00",
+    "date_str": "Nov 06, 2026"
+  },
+  {
     "title": "Texas Democrats Swept Statewide Races. Now Comes the Hard Part of Solving Healthcare Angst.",
     "url": "https://kffhealthnews.org/elections/texas-democrats-state-healthcare-agenda-election-blue-wave-hinojosa-goodwin/",
     "summary": "The blue wave in the state on Nov. 3 now runs headlong into the reality of Texas politics and a compressed legislative calendar.",
@@ -2357,46 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-11-02T22:44:49+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "Study Strengthens Case for Stent-Free PCI in De Novo Coronary Lesions",
-    "url": "https://www.medpagetoday.com/meetingcoverage/tct/123694",
-    "summary": "(MedPage Today) -- For de novo coronary lesions, drug-coated balloons (DCBs) were just as effective as standard drug-eluting stents, the TRANSFORM II trial showed. Among patients with native coronary lesions undergoing percutaneous coronary intervention...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-02T22:41:40+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "Late-Stage Sickle Cell Disease Study Splits on Main Goals",
-    "url": "https://www.medpagetoday.com/hematologyoncology/hematology/123693",
-    "summary": "(MedPage Today) -- The thalassemia drug mitapivat (Aqvesme) significantly improved hemoglobin response in patients with sickle cell disease but failed to top placebo when it came to reducing pain crises in a phase III trial that aims to support...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-02T22:32:15+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "Washington State Resident Dies From Bird Flu Following Exposure to Infected Cattle",
-    "url": "https://www.medpagetoday.com/infectiousdisease/birdflu/123692",
-    "summary": "(MedPage Today) -- A person in Washington state has died from complications of the bird flu, the first such U.S. death in a year. The Yakima County resident, who had previous health conditions, was exposed to avian influenza at a dairy with infected...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-02T22:14:49+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "CTE in NFL Players: What a New Study Tells Us -- And What It Doesn't",
-    "url": "https://www.medpagetoday.com/neurology/headtrauma/123691",
-    "summary": "(MedPage Today) -- A statistical model that extrapolated data from deceased National Football League (NFL) brain donors to include all former NFL players who died from 2008 through 2023 estimated that nearly three in four had chronic traumatic...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-02T22:02:18+00:00",
     "date_str": "Nov 02, 2026"
   }
 ]
