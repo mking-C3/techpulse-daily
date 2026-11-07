@@ -1,5 +1,85 @@
 [
   {
+    "title": "STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries",
+    "url": "https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss",
+    "summary": "The model is a test of Trump's most-favored nation approach to drug pricing, though its impact is likely to be limited.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-07T16:57:13+00:00",
+    "date_str": "Nov 07, 2026"
+  },
+  {
+    "title": "STAT+: Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy",
+    "url": "https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/?utm_campaign=rss",
+    "summary": "Medical mystery at the AHA conference: A Novartis drug lowered a risk marker for cardiovascular disease but did not lower chance of heart attack or stroke.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-07T14:50:00+00:00",
+    "date_str": "Nov 07, 2026"
+  },
+  {
+    "title": "STAT+: Despite Novo drug’s failure, cardiologists say they will still pursue anti-inflammatories",
+    "url": "https://www.statnews.com/2026/11/07/aha-2026-conference-novo-nordisk-zeus-trial-ziltivekimab-results/?utm_campaign=rss",
+    "summary": "“These results, the fact that they're negative, does not invalidate that inflammation plays a very important role in cardiovascular disease.\"",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-07T14:35:00+00:00",
+    "date_str": "Nov 07, 2026"
+  },
+  {
+    "title": "A promising new medicine against heart disease fails unexpectedly",
+    "url": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
+    "summary": "Doctors expected an experimental drug that lowers a common risk factor for heart attacks would save patients' lives. The medicine made no difference.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-07T14:50:00+00:00",
+    "date_str": "Nov 07, 2026"
+  },
+  {
+    "title": "Avoiding Chemo in Breast Cancer; Psychedelic Medication for Depression",
+    "url": "https://www.medpagetoday.com/podcasts/healthwatch/123762",
+    "summary": "(MedPage Today) -- TTHealthWatch is a weekly podcast from Texas Tech. In it, Elizabeth Tracey, director of electronic media for Johns Hopkins Medicine in Baltimore, and Rick Lange, MD, president of Texas Tech Health El Paso, look at the top medical...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-07T19:00:00+00:00",
+    "date_str": "Nov 07, 2026"
+  },
+  {
+    "title": "Lp(a)-Lowering Pelacarsen Shows Huge Disconnect With Cardiovascular Outcomes",
+    "url": "https://www.medpagetoday.com/meetingcoverage/aha/123771",
+    "summary": "(MedPage Today) -- Lowering lipoprotein(a), or Lp(a), did not translate into better cardiovascular outcomes in a secondary prevention population, at least not with pelacarsen in the Lp(a) HORIZON trial. Among people with elevated lipoprotein(a...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-07T18:24:51+00:00",
+    "date_str": "Nov 07, 2026"
+  },
+  {
+    "title": "Retatrutide Is One Click Away. That Doesn't Make it Safe.",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/123757",
+    "summary": "(MedPage Today) -- A few clicks, a credit card, and a package arrives at your door. The same technology that has expanded access to information and consumer goods has also made it easier than ever for unregulated products to reach consumers while...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-07T17:00:00+00:00",
+    "date_str": "Nov 07, 2026"
+  },
+  {
+    "title": "Study Finds Evidence of Cannabis Use 2,800 Years Ago",
+    "url": "https://www.medpagetoday.com/psychiatry/generalpsychiatry/123750",
+    "summary": "(MedPage Today) -- People may have been getting high off cannabis earlier than previously thought -- at least 2,800 years ago, a new study suggests. Archaeologists who led a dig at a monumental tomb in Siberia said they turned up evidence of...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-07T15:00:00+00:00",
+    "date_str": "Nov 07, 2026"
+  },
+  {
     "title": "Our Reporters Discuss Healthcare Costs — And What Changes the Midterms May Portend",
     "url": "https://kffhealthnews.org/on-air/on-air-november-7-2026-midterm-election-healthcare-costs-reform-media-appearances/",
     "summary": "KFF Health News journalists made the rounds on national and local media in recent weeks to discuss topical stories. Here’s a collection of their appearances.",
@@ -2317,86 +2397,6 @@
     "category": "Medicare News",
     "category_slug": "medicare-news",
     "date": "2026-11-02T20:39:45+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "Integris Health to Join Risant Health as Health System Dealmaking Stays Active",
-    "url": "https://medcitynews.com/2026/11/integris-health-to-join-risant-health-as-health-system-dealmaking-stays-active/",
-    "summary": "As health system dealmaking stays steady in 2026, Integris Health is joining Risant Health to accelerate value-based care. The partnership represents an integration of Risant Health’s capabilities into Integris’ existing system, rather than a traditional merger. The post Integris Health to Join Risant Health as Health System Dealmaking Stays Active appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-02T16:42:46+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "CMS Is Regulating the Wrong Thing — Here’s How to Fix Remote Patient Monitoring Without Losing the Care",
-    "url": "https://medcitynews.com/2026/11/cms-is-regulating-the-wrong-thing-heres-how-to-fix-remote-patient-monitoring-without-losing-the-care/",
-    "summary": "Why should Medicare determine who is qualified to provide remote monitoring by asking who employs the nurse, rather than who is accountable for the patient’s care? The post CMS Is Regulating the Wrong Thing — Here’s How to Fix Remote Patient Monitoring Without Losing the Care appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-02T14:54:00+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "Washington state resident dies from bird flu following exposure to infected cattle",
-    "url": "https://www.statnews.com/2026/11/02/bird-flu-washington-state-resident-dies-infected-cattle-exposure/?utm_campaign=rss",
-    "summary": "A person in Washington state has died from complications of the bird flu, the first such U.S. death in a year.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-02T20:44:40+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "STAT+: The health care affordability midterms, and billing urgent care as ER",
-    "url": "https://www.statnews.com/2026/11/02/health-care-affordability-midterms-hybrid-er-urgent-care-clinics-health-care-inc/?utm_campaign=rss",
-    "summary": "Health care affordability is a major issue for voters, and a new kind of medical clinic sticks some patients with big bills.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-02T17:05:28+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "STAT+: Psilocybin’s lasting benefits prove elusive in mice",
-    "url": "https://www.statnews.com/2026/11/02/biotech-news-psilocybin-lasting-benefits-prove-elusive-in-mice/?utm_campaign=rss",
-    "summary": "Five Bay Area labs teamed up to compare lasting effects of psilocybin on anxiety and depression-like behavior in mice, with limited results:",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-02T16:47:33+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "STAT+: FDA OKs generic HIV prevention shot, widening access for lower-income countries",
-    "url": "https://www.statnews.com/pharmalot/2026/11/02/lenacapavir-generic-version-approved-fda-hiv-prevention-dr-reddys/?utm_campaign=rss",
-    "summary": "The FDA has approved a generic HIV prevention shot, a key step in widening access for dozens of lower-income countries.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-02T16:13:46+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "What the latest on mRNA vaccines means for cancer",
-    "url": "https://www.npr.org/2026/11/02/nx-s1-6009085/what-the-latest-on-mrna-vaccines-means-for-cancer",
-    "summary": "One patient in a small trial is experiencing the fantasy results so far with an mRNA pancreatic cancer vaccine. She shows no evidence of the cancer that was supposed to kill her years ago.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-02T21:31:10+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "Novel Therapy Lands Speedy Approval for Wart-Like Airway Disease",
-    "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/123695",
-    "summary": "(MedPage Today) -- The FDA granted accelerated approval to doruxapapogene ralaplasmid and lalikinogene sifuplasmid (Voceryq) to reduce the frequency of surgical papilloma excisions in adults with recurrent respiratory papillomatosis (RRP), the...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-02T22:44:49+00:00",
     "date_str": "Nov 02, 2026"
   }
 ]
