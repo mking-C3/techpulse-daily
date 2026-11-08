@@ -1,5 +1,45 @@
 [
   {
+    "title": "STAT+: Why the latest heart drug failures should make us all more skeptical of AI hype",
+    "url": "https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/?utm_campaign=rss",
+    "summary": "Once again, a hot new technology that was supposed to speed up drug research has fallen flat.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-08T09:30:00+00:00",
+    "date_str": "Nov 08, 2026"
+  },
+  {
+    "title": "In Maine, a new approach to practicing medicine in the sky",
+    "url": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
+    "summary": "Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare workers first.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-08T11:00:00+00:00",
+    "date_str": "Nov 08, 2026"
+  },
+  {
+    "title": "Weekly Rundown: Hims & Hers adds new partners for benefits program; Hippocratic unveils updates to healthcare-focused AI model",
+    "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-hims-hers-adds-new-partners-benefits-program-hippocratic-ai-debuts",
+    "summary": "Stay up to date on the latest in health tech, digital health and health AI news with this weekly brief.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-08T12:48:32.915265+00:00",
+    "date_str": "Nov 08, 2026"
+  },
+  {
+    "title": "Midterm results deliver ‘youth quake’ to American politics",
+    "url": "https://thehill.com/policy/healthcare/6205511-younger-candidates-win-midterm-wave/",
+    "summary": "The 2026 midterm elections delivered a solid blue wave for Democrats along with a new class of noticeably younger candidates across the board, beating out both new and incumbent senior opponents. Whether it was James Talarico and Gina Hinojosa in Texas, Abdul El-Sayed in Michigan, Annie Andrews in South Carolina, Melat Kiros in Colorado or Josh Turek in...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-11-08T11:00:00+00:00",
+    "date_str": "Nov 08, 2026"
+  },
+  {
     "title": "Lowering blood pressure after stroke or with diabetes poses challenges, in research and practice",
     "url": "https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/?utm_campaign=rss",
     "summary": "High blood pressure is known as the silent killer. Researchers are finding new ways to fight back.",
@@ -2357,46 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-11-02T15:55:22+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "She Had a Life-Threatening Reaction After Sex",
-    "url": "https://www.medpagetoday.com/casestudies/emergencymedicine/123677",
-    "summary": "(MedPage Today) -- A young woman with a known allergy to penicillin had a severe allergic reaction immediately after intercourse with her husband, who was taking amoxicillin. The case underscores the fact that sexual contact can lead to mucosal...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-02T15:53:49+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "Obamacare Premiums to Rise by Double Digits in 2027",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/repeal-and-replace/123673",
-    "summary": "(MedPage Today) -- People heading into the Affordable Care Act (ACA) open enrollment period with plans to sign up for insurance should expect a variety of changes in 2027, including double-digit increases in premiums and fewer coverage options...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-02T15:26:35+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "LeanTaaS expands iQueue into ambient intelligence with LookDeep acquisition",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/leantaas-expands-iqueue-ambient-intelligence-lookdeep-acquisition",
-    "summary": "LeanTaaS is expanding iQueue beyond hospital capacity management into ambient intelligence, using its acquisition of LookDeep Health to add computer vision that monitors patient rooms and turns real-time signals into prioritized actions for care teams.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-03T13:40:29.825275+00:00",
-    "date_str": "Nov 03, 2026"
-  },
-  {
-    "title": "4 Notable Health Tech Funding Announcements in October",
-    "url": "https://medcitynews.com/2026/11/4-notable-health-tech-funding-announcements-in-october-2/",
-    "summary": "Health tech companies made several major funding announcements in October. Here is a list of some of the biggest funding rounds. The post 4 Notable Health Tech Funding Announcements in October appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-02T22:31:07+00:00",
     "date_str": "Nov 02, 2026"
   }
 ]
