@@ -1,5 +1,35 @@
 [
   {
+    "title": "Lowering blood pressure after stroke or with diabetes poses challenges, in research and practice",
+    "url": "https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/?utm_campaign=rss",
+    "summary": "High blood pressure is known as the silent killer. Researchers are finding new ways to fight back.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-07T21:39:02+00:00",
+    "date_str": "Nov 07, 2026"
+  },
+  {
+    "title": "Ziltivekimab Falls Short for Cutting Cardiovascular Events in ASCVD, CKD",
+    "url": "https://www.medpagetoday.com/meetingcoverage/aha/123773",
+    "summary": "(MedPage Today) -- Despite lowering inflammatory markers, treatment with the monoclonal antibody ziltivekimab did not reduce cardiovascular events in patients with atherosclerotic cardiovascular disease (ASCVD), chronic kidney disease (CKD), and...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-07T22:15:26+00:00",
+    "date_str": "Nov 07, 2026"
+  },
+  {
+    "title": "Oral LSD Drug Hits Phase III Endpoints in Anxiety, Depression",
+    "url": "https://www.medpagetoday.com/meetingcoverage/neicongress/123772",
+    "summary": "(MedPage Today) -- DT120, an investigational orally disintegrating tablet (ODT) formulation of the psychedelic lysergide (LSD), met the primary endpoints in a pair of phase III trials for generalized anxiety disorder (GAD) and major depressive...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-07T21:46:40+00:00",
+    "date_str": "Nov 07, 2026"
+  },
+  {
     "title": "STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries",
     "url": "https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss",
     "summary": "The model is a test of Trump's most-favored nation approach to drug pricing, though its impact is likely to be limited.",
@@ -2367,36 +2397,6 @@
     "category": "Medicare News",
     "category_slug": "medicare-news",
     "date": "2026-11-02T22:31:07+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "MedCity FemFwd: The Gaps in Endometriosis Care",
-    "url": "https://medcitynews.com/2026/11/medcity-femfwd-the-gaps-in-endometriosis-care/",
-    "summary": "In this episode, we’re joined by Dr. Rani Aravamudhan, senior medical director of Artemis at Nomi Health. We discuss Nomi Health’s new research on endometriosis. The post MedCity FemFwd: The Gaps in Endometriosis Care appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-02T21:15:31+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "Inovio’s DNA-Based Immunotherapy Lands Speedy FDA Nod for Rare Type of Tumor",
-    "url": "https://medcitynews.com/2026/11/inovio-voceryq-fda-approval-dna-immunotherapy-human-papillomavirus-papilloma-hpv-rrp-ino/",
-    "summary": "Inovio’s Voceryq will compete with a Precigen product that last year became the first FDA-approved drug for recurrent respiratory papillomatosis, or RRP. While the two immunotherapies carry the same $460,000 list price, Inovio executives claim their product has another competitive advantage. The post Inovio’s DNA-Based Immunotherapy Lands Speedy FDA Nod for Rare Type of Tumor appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-02T20:45:15+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "7 Potential Problems with Medicare’s AI Prior Authorization Experiment",
-    "url": "https://medcitynews.com/2026/11/7-potential-problems-with-medicares-ai-prior-authorization-experiment/",
-    "summary": "The federal government is testing whether artificial intelligence can help Medicare identify unnecessary medical care, speed up the prior authorization process, and reduce healthcare spending. But a new report based on evidence recovered from a lawsuit raises concerns about the AI experiment. The post 7 Potential Problems with Medicare’s AI Prior Authorization Experiment appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-02T20:39:45+00:00",
     "date_str": "Nov 02, 2026"
   }
 ]
