@@ -1,5 +1,95 @@
 [
   {
+    "title": "Missing the Point: Isolation Alone Will Not Build AI Safety",
+    "url": "https://medcitynews.com/2026/11/imprivata-ceo-is-missing-the-point-isolation-alone-will-not-build-ai-safety/",
+    "summary": "Treating AI agents like contract nurses and minimizing their access to critical patient information certainly reduces potential risk. But, it also minimizes key opportunities. The post Missing the Point: Isolation Alone Will Not Build AI Safety appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-08T14:17:00+00:00",
+    "date_str": "Nov 08, 2026"
+  },
+  {
+    "title": "'They Don’t Know the Questions to Ask': What We Heard This Week",
+    "url": "https://www.medpagetoday.com/opinion/what-we-heard/123755",
+    "summary": "(MedPage Today) -- \"They have the best of intentions and want to help, but they don't know the questions to ask.\" -- Anthea Gray, PsyD, of the Ohio State University Comprehensive Cancer Center in Columbus, discussing the first guidelines for...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-08T21:00:00+00:00",
+    "date_str": "Nov 08, 2026"
+  },
+  {
+    "title": "Triple-Target Incretin Drug Kills Knee Osteoarthritis Pain in Obesity",
+    "url": "https://www.medpagetoday.com/meetingcoverage/acr/123776",
+    "summary": "(MedPage Today) -- ORLANDO -- The investigational obesity drug retatrutide was highly effective in reducing pain and improving disability in knee osteoarthritis (OA) associated with obesity, according to the TRIUMPH-4 trial. Among patients in...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-08T20:37:43+00:00",
+    "date_str": "Nov 08, 2026"
+  },
+  {
+    "title": "Adjunctive L-Methylfolate Tied to Executive Function Gains in Psychiatric Patients",
+    "url": "https://www.medpagetoday.com/meetingcoverage/neicongress/123775",
+    "summary": "(MedPage Today) -- In treatment-experienced psychiatric patients receiving established pharmacotherapy, adjunctive L-methylfolate (Deplin) was linked with significant reductions in overall symptom burden and improvements in executive function...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-08T20:07:04+00:00",
+    "date_str": "Nov 08, 2026"
+  },
+  {
+    "title": "Lost in the Labyrinth of Nicotine Products",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/123759",
+    "summary": "(MedPage Today) -- Americans increasingly navigate a fast-changing marketplace of nicotine and tobacco products. Walk into a convenience store today and you will encounter a dizzying array of products: cigarettes, e-cigarettes, nicotine pouches...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-08T17:00:00+00:00",
+    "date_str": "Nov 08, 2026"
+  },
+  {
+    "title": "Student Loan Limits for PAs, Other Health Workers Steering Many to Private Lenders",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/medicaleducation/123760",
+    "summary": "(MedPage Today) -- New limits on federal student loans filled Chloe Frabotta with anxiety as she began studying in New York City to become a physician assistant. The changes that took effect this fall include caps on loans for particular programs...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-08T15:00:00+00:00",
+    "date_str": "Nov 08, 2026"
+  },
+  {
+    "title": "Ditching Primary Prevention Statins in Old Age? Technically 'Safe' With Caveats",
+    "url": "https://www.medpagetoday.com/meetingcoverage/aha/123774",
+    "summary": "(MedPage Today) -- Long-time statin users over age 70 were arguably fine stopping therapy in the STREAM randomized trial, but the results hardly boded well for longer-term cardiovascular safety, and there was no upside in quality of life. A strategy...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-08T13:58:55+00:00",
+    "date_str": "Nov 08, 2026"
+  },
+  {
+    "title": "In America’s measles epidemic, RFK Jr. is now on trial",
+    "url": "https://www.politico.com/news/2026/11/08/americas-measles-epidemic-rfk-jr-now-on-trial-01155295",
+    "summary": "A UN body will consider this week whether America can continue to say it’s eliminated measles. Its decision will be a legacy-defining moment for the health secretary.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-08T21:00:00+00:00",
+    "date_str": "Nov 08, 2026"
+  },
+  {
+    "title": "Ex-RFK Jr adviser requests records on Wiles's health policy influence",
+    "url": "https://thehill.com/policy/healthcare/6206661-calley-means-susie-wiles-records/",
+    "summary": "Calley Means, a former top adviser to Health and Human Services (HHS) Secretary Robert F. Kennedy Jr., requested records on former White House chief of staff Susie Wiles’s health policy influence be preserved following allegations he made that she led the Trump administration to consistently bow to corporate interests on health policy. “In light of...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-11-08T17:13:43+00:00",
+    "date_str": "Nov 08, 2026"
+  },
+  {
     "title": "STAT+: Why the latest heart drug failures should make us all more skeptical of AI hype",
     "url": "https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/?utm_campaign=rss",
     "summary": "Once again, a hot new technology that was supposed to speed up drug research has fallen flat.",
@@ -2308,95 +2398,5 @@
     "category_slug": "healthcare-policy",
     "date": "2026-11-03T09:30:00+00:00",
     "date_str": "Nov 03, 2026"
-  },
-  {
-    "title": "This woman defied lethal cancer. Can mRNA vaccines make that possible for others?",
-    "url": "https://www.npr.org/2026/11/02/nx-s1-6009085/mrna-cancer-vaccine-pancreatic-skin",
-    "summary": "Researchers have been chasing the dream of a cancer vaccine for decades. Some recent successes with mRNA technology are garnering excitement from patients, doctors, government and investors.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-02T21:31:10+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "Incretin Drug May Improve Menstrual Regularity",
-    "url": "https://www.medpagetoday.com/meetingcoverage/asrm/123686",
-    "summary": "(MedPage Today) -- BALTIMORE -- Use of a combined GLP-1/GIP receptor agonist was associated with improved menstrual regularity, an analysis of a prospective cohort showed. Women taking the combination incretin drug had a reduction in cycle length...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-02T18:52:49+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "How Did History's Deadliest Pathogen Infect a Private High School?",
-    "url": "https://www.medpagetoday.com/opinion/calamities/123684",
-    "summary": "(MedPage Today) -- We heard about the outbreak by accident. In December 2025, I (Meyer) was chatting with a friend who has a teenager in a rival San Francisco high school. Our conversation turned to football first, then to prom. \"It's going great...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-02T18:14:25+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "Residual Disease in Spondyloarthritis: What's Being Missed by DMARDs?",
-    "url": "https://www.medpagetoday.com/spotlight/acr-spa/123683",
-    "summary": "(MedPage Today) -- In spondyloarthritis (SpA), the wealth of biologic and disease-modifying anti-rheumatic drug (DMARD) options still leaves some patients unsatisfied with their treatment outcomes, most likely due to residual disease. This year...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-02T17:26:00+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "Spondyloarthritis Biologics 'Game-Changing' for Juvenile Disease",
-    "url": "https://www.medpagetoday.com/spotlight/acr-spa/123682",
-    "summary": "(MedPage Today) -- Researchers continue to lay the groundwork for expanding treatment in juvenile spondyloarthritis (SpA), borrowing from advances in disease-modifying anti-rheumatic drugs (DMARDs) in adults. Earlier this year, the interleukin...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-02T17:25:43+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "Frontline Treatment in Multiple Myeloma Is Changing",
-    "url": "https://www.medpagetoday.com/meetingcoverage/ashroundtablemm/123681",
-    "summary": "(MedPage Today) -- Ahead of the American Society of Hematology (ASH) annual meeting, frontline treatment for multiple myeloma continues to evolve, with quadruplet regimens increasingly becoming standard for both transplant-eligible and -ineligible...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-02T17:14:44+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "CT Images Facilitate PCI's 'New Era': Planning Before Catheterization",
-    "url": "https://www.medpagetoday.com/meetingcoverage/tct/123680",
-    "summary": "(MedPage Today) -- Coronary CT angiography (CCTA) made it feasible and safe to plan percutaneous coronary intervention (PCI) procedures before cardiac catheterization, as shown by the open-label randomized P4 trial. At 12 months, a CCTA-guided...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-02T16:29:38+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "Rising Health Costs, Coverage Changes Worry Older Adults as Election Day Nears",
-    "url": "https://www.medpagetoday.com/washington-watch/electioncoverage/123679",
-    "summary": "(MedPage Today) -- Barbara Weigand could not have prepared more for retirement. She stayed healthy and saved diligently for years. This year, though, a shoulder surgery and a bladder cancer diagnosis have really tested her finances. She recently...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-02T16:20:36+00:00",
-    "date_str": "Nov 02, 2026"
-  },
-  {
-    "title": "These Doctors Are on the Ballot",
-    "url": "https://www.medpagetoday.com/washington-watch/electioncoverage/123678",
-    "summary": "(MedPage Today) -- As the nation gears up for Tuesday's midterms, healthcare is on many voters' minds -- and some voters will see physicians on their ballots this time around, including in congressional and statewide races. In addition to one...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-02T15:55:22+00:00",
-    "date_str": "Nov 02, 2026"
   }
 ]
