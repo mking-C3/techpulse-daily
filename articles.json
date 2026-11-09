@@ -1,5 +1,35 @@
 [
   {
+    "title": "What’s Driving the Consumerization of Healthcare?",
+    "url": "https://medcitynews.com/2026/11/whats-driving-the-consumerization-of-healthcare/",
+    "summary": "Patients increasingly expect convenient, consumer-focused healthcare experiences, panelists said at the recent MedCity INVEST Digital Health Conference. The post What’s Driving the Consumerization of Healthcare? appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-09T01:57:01+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "Survival after sudden cardiac arrest didn’t improve despite training bystanders, emergency responders",
+    "url": "https://www.statnews.com/2026/11/08/sudden-cardiac-arrest-survival-cpr-defibrillation-training/?utm_campaign=rss",
+    "summary": "A new study found survival after sudden cardiac arrest didn’t improve with advance training of responders — but researchers aren't ready to shut the door on the possibility.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-08T22:15:00+00:00",
+    "date_str": "Nov 08, 2026"
+  },
+  {
+    "title": "What Do Patients With Sleep Disorder Really Mean by 'Brain Fog'?",
+    "url": "https://www.medpagetoday.com/meetingcoverage/neicongress/123777",
+    "summary": "(MedPage Today) -- Brain fog among individuals with sleep disorders was primarily characterized by memory impairment, difficulty concentrating, and forgetfulness, according to a lexicon analysis of social media posts. Among 554,312 posts and comments...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-08T21:26:27+00:00",
+    "date_str": "Nov 08, 2026"
+  },
+  {
     "title": "Missing the Point: Isolation Alone Will Not Build AI Safety",
     "url": "https://medcitynews.com/2026/11/imprivata-ceo-is-missing-the-point-isolation-alone-will-not-build-ai-safety/",
     "summary": "Treating AI agents like contract nurses and minimizing their access to critical patient information certainly reduces potential risk. But, it also minimizes key opportunities. The post Missing the Point: Isolation Alone Will Not Build AI Safety appeared first on MedCity News .",
@@ -2367,36 +2397,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-11-03T12:52:30+00:00",
-    "date_str": "Nov 03, 2026"
-  },
-  {
-    "title": "Opinion: What the 2024 electoral map reveals about America’s mortality divide",
-    "url": "https://www.statnews.com/2026/11/03/electoral-map-reveals-red-state-blue-state-mortality-gap/?utm_campaign=rss",
-    "summary": "Leading drivers of mortality look different according to political geography, experts write.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-03T09:30:00+00:00",
-    "date_str": "Nov 03, 2026"
-  },
-  {
-    "title": "Opinion: How meditation helped me become a better doctor overnight",
-    "url": "https://www.statnews.com/2026/11/03/traumatic-eye-injuries-ophthalmologist-meditation-psychology/?utm_campaign=rss",
-    "summary": "“The inner work of meditation and self-inquiry can support the outer work of patient care,” writes a physician.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-03T09:30:00+00:00",
-    "date_str": "Nov 03, 2026"
-  },
-  {
-    "title": "‘Three-parent IVF’ was supposed to prevent mitochondrial disease. Studies are raising doubts",
-    "url": "https://www.statnews.com/2026/11/03/three-parent-ivf-safety-ethics-questions-mitochondrial-replacement-technology/?utm_campaign=rss",
-    "summary": "Scientists and ethicists are rethinking the potential risks and benefits of a technology to prevent babies from inheriting rare mitochondrial diseases.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-03T09:30:00+00:00",
     "date_str": "Nov 03, 2026"
   }
 ]
