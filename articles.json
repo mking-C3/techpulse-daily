@@ -1,5 +1,315 @@
 [
   {
+    "title": "Startup Supporting Caregivers Raises $3.5M in Seed Funding",
+    "url": "https://medcitynews.com/2026/11/startup-supporting-caregivers-raises-3-5m-in-seed-funding/",
+    "summary": "Avanlee Care’s seed round was led by BEA Venture Fund, with participation from existing investors, including Board Chair Esther Dyson, Chrysalis Ventures and FairBridge VC. The post Startup Supporting Caregivers Raises $3.5M in Seed Funding appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-09T23:55:26+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "Digital Health’s GLP-1 Strategy: “You Didn’t Come for the Drug. You Came for Health”",
+    "url": "https://medcitynews.com/2026/11/digital-healths-glp-1-strategy-you-didnt-come-for-the-drug-you-came-for-health/",
+    "summary": "In a panel discussion, executives from Noom, Omada, Virta and Twin Health discussed how they are going beyond the pill in their GLP-1 strategy and responded to a question about whether they will exist two-to-three years from now. The post Digital Health’s GLP-1 Strategy: “You Didn’t Come for the Drug. You Came for Health” appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-09T22:22:40+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "Argenx Adds Oral Peptides to Its Immunology Strategy With $550M UNP Acquisition",
+    "url": "https://medcitynews.com/2026/11/argenx-unnatural-products-acquisition-macrocyclic-oral-peptides-immunology-inflammation-unp-argx/",
+    "summary": "Argenx’s Unnatural Products acquisition brings a macrocyclic peptides discovery platform for developing oral peptide drugs. The deal brings a new modality to Argenx, whose immunology R&D had focused on antibodies. The post Argenx Adds Oral Peptides to Its Immunology Strategy With $550M UNP Acquisition appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-09T21:42:18+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "STAT+: Ionis Pharmaceuticals shares plummet after slow rollout of biotech’s triglyceride-lowering drug",
+    "url": "https://www.statnews.com/2026/11/09/ionis-pharmaceuticals-shares-plummet-after-tryngolza-slow-rollout/?utm_campaign=rss",
+    "summary": "Ionis Pharmaceuticals lost more than $1 billion in market value on Monday after the company slashed sales projections for a triglyceride-lowering drug.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-10T00:50:50+00:00",
+    "date_str": "Nov 10, 2026"
+  },
+  {
+    "title": "STAT+: FDA approves novel Bayer drug to reduce recurrence of stroke",
+    "url": "https://www.statnews.com/2026/11/09/cardiovascular-stroke-recurrence-bayer-drug-fda-approval/?utm_campaign=rss",
+    "summary": "Bayer's drug is the first in a novel class of medications designed to prevent blood clots without increasing risk of bleeding.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-09T22:28:43+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "STAT+: Trump administration removes WuXi AppTec from its Chinese military list",
+    "url": "https://www.statnews.com/pharmalot/2026/11/09/trump-administration-removes-wuxi-apptec-from-its-chinese-military-list/?utm_campaign=rss",
+    "summary": "The Trump administration has removed WuXi AppTec, a key partner for the pharma industry, from its list of “Chinese military companies” operating in the U.S.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-09T20:51:50+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "STAT+: Bill Ackman’s bold plan to transform brain research",
+    "url": "https://www.statnews.com/2026/11/09/bill-ackman-launches-new-brain-research-institute/?utm_campaign=rss",
+    "summary": "Billionaire Bill Ackman as a bold plan to transform brain research, spurred by a tragic backstory.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-09T19:21:55+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "STAT+: Hospitals win the midterms, and Chopping Very Strategically",
+    "url": "https://www.statnews.com/2026/11/09/midterm-elections-good-news-for-hospitals-cvs-breakup-explained/?utm_campaign=rss",
+    "summary": "We explain the CVS breakup, and why Democrats' election victories are good news for hospitals.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-09T17:54:13+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "STAT+: Heart association meeting’s readout is trending ‘neutral’",
+    "url": "https://www.statnews.com/2026/11/09/aha-2026-news-neutral-clinical-trials-lessons-learned/?utm_campaign=rss",
+    "summary": "The theme of the American Heart Association meetings was \"neutral\" results. Yet no one wants to stop pursuing inflammation or Lp(a) lowering.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-09T16:53:21+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "STAT+: FDA warns GLP-1 drugs carry potential risk of rare eye condition",
+    "url": "https://www.statnews.com/2026/11/09/glp-1-drugs-potential-risk-rare-eye-condition-naion-fda/?utm_campaign=rss",
+    "summary": "The FDA on Monday warned that GLP-1 drugs carry a potential risk for a rare but serious eye condition that's sometimes referred to as an \"eye stroke.\"",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-09T15:56:55+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "Common Antibiotic Tied to Pregnancy Loss Risk",
+    "url": "https://www.medpagetoday.com/obgyn/pregnancy/123801",
+    "summary": "(MedPage Today) -- Women exposed to doxycycline in early pregnancy had an increased risk of pregnancy loss compared to other antibiotics, a cohort study showed. Doxycycline use for respiratory tract infection was linked with increased pregnancy...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-09T22:44:51+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "Smartwatch Detection of Reduced LVEF? Not So Fast, Study Says.",
+    "url": "https://www.medpagetoday.com/meetingcoverage/aha/123800",
+    "summary": "(MedPage Today) -- The enthusiasm for smartwatch detection of left ventricular systolic dysfunction (LVSD) was tempered by a Korean study indicating difficulties with the technology in its current state. Using an artificial intelligence (AI)-ECG...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-09T22:44:05+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "Police Investigate After 25 Half-Marathon Runners Seek Medical Care",
+    "url": "https://www.medpagetoday.com/emergencymedicine/emergencymedicine/123799",
+    "summary": "(MedPage Today) -- Police in California are investigating after at least two dozen participants in the Santa Barbara Half Marathon ended up at the hospital on Sunday. The Santa Barbara Police Department said in a statement it opened an investigation...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-09T22:40:04+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "Early Response to MASH Drug Linked to Resolution, Fibrosis Improvement",
+    "url": "https://www.medpagetoday.com/meetingcoverage/aasld/123798",
+    "summary": "(MedPage Today) -- In patients treated with resmetirom (Rezdiffra), early responses in blood and imaging biomarkers were associated with resolution of metabolic dysfunction-associated steatohepatitis (MASH) and fibrosis improvement, according to...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-09T22:33:40+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "Feud Between Former Trump Officials Exposes Divisions Over MAHA Movement",
+    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/123797",
+    "summary": "(MedPage Today) -- A public spat between former Trump administration officials over alleged corruption in public health policymaking is the latest front in Republicans' postelection recriminations, a battle that has exposed fault lines within the...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-09T22:23:16+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "Autism Risk Myths: 1 in 4 Adults Cite Vaccines or Tylenol",
+    "url": "https://www.medpagetoday.com/neurology/autism/123796",
+    "summary": "(MedPage Today) -- About one in four U.S. adults endorsed childhood vaccinations or acetaminophen (Tylenol) use during pregnancy as an autism risk factor, a cross-sectional study showed. In a nationwide survey of 30,000 adults, 26.6% endorsed...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-09T22:12:34+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "M1/M4 Agonist Relieved Schizophrenia Symptoms in Mid-Stage Trial",
+    "url": "https://www.medpagetoday.com/meetingcoverage/neicongress/123795",
+    "summary": "(MedPage Today) -- ML-007C-MA, an investigational muscarinic M1/M4 receptor agonist that combines betovumeline and fesoterodine fumarate, significantly improved schizophrenia symptoms in adults who had an acute exacerbation of psychosis, data from...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-09T22:04:47+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "Trial Stopped Early for Superiority of LBBP-Tuned Pacemakers",
+    "url": "https://www.medpagetoday.com/meetingcoverage/aha/123794",
+    "summary": "(MedPage Today) -- Left bundle branch pacing (LBBP) drastically reduced clinical events among patients with atrioventricular (AV) block, with results good enough to stop the OptimPacing trial early. In that international randomized trial of patients...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-09T20:37:41+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "Safety of Controversial Vasculitis Drug Bolstered in Dedicated Trial",
+    "url": "https://www.medpagetoday.com/meetingcoverage/acr/123793",
+    "summary": "(MedPage Today) -- ORLANDO -- Interim results from a prospective trial designed to evaluate safety of avacopan (Tavneos), the embattled drug for antineutrophil cytoplasmic antibody-associated vasculitis (AAV), indicated that the product could...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-09T20:14:04+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "Valbenazine for Tardive Dyskinesia Tied to Less Antipsychotic Drop-Off",
+    "url": "https://www.medpagetoday.com/meetingcoverage/neicongress/123792",
+    "summary": "(MedPage Today) -- Starting valbenazine (Ingrezza) to treat tardive dyskinesia might reduce antipsychotic discontinuation in patients newly diagnosed with the side effect, a retrospective cohort study of Medicare claims indicated. Among patients...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-09T19:46:19+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "Hospitals write off $132B as AI fails to move the needle with finances",
+    "url": "https://www.healthcaredive.com/news/hospitals-write-off-132b-ai-fails-to-move-needle-with-finances/874161/",
+    "summary": "Hospitals are losing more money from bad debt and write-offs despite investing billions into automation to improve financial performance and remain competitive in the AI arms race.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-09T19:30:52+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "AWS pledges $100M in cloud, AI credits to close health equity gaps",
+    "url": "https://www.healthcaredive.com/news/aws-pledges-100m-in-cloud-ai-credits-to-close-health-equity-gaps/874103/",
+    "summary": "Amazon Web Services will distribute the funds as credits rather than cash to organizations working on care access, women's and children's health and food insecurity.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-09T14:59:09+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "Trump administration announces $10B in awards for Rural Health Transformation Program’s second year",
+    "url": "https://www.fiercehealthcare.com/regulatory/trump-administration-announces-10b-awards-rural-health-transformation-programs-second",
+    "summary": "In part, funding was determined based on how states have implemented RHTP plans thus far.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-10T01:12:14.691518+00:00",
+    "date_str": "Nov 10, 2026"
+  },
+  {
+    "title": "HealthTap unveils virtual primary care program for Medicare Advantage plans",
+    "url": "https://www.fiercehealthcare.com/health-tech/healthtap-unveils-virtual-primary-care-program-medicare-advantage-plans",
+    "summary": "HealthTap is rolling out a new program for Medicare Advantage plans that seeks to help members form a connection with a primary care doctor that carries forward.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-10T01:12:14.691572+00:00",
+    "date_str": "Nov 10, 2026"
+  },
+  {
+    "title": "AI-enabled virtual mental health startup Siggy launches from stealth",
+    "url": "https://www.fiercehealthcare.com/digital-health/ai-enabled-virtual-mental-health-startup-siggy-launches-stealth",
+    "summary": "Siggy combines therapy, prescription management and AI for intake and between-visits support.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-10T01:12:14.691601+00:00",
+    "date_str": "Nov 10, 2026"
+  },
+  {
+    "title": "Advocate Health to increase total employee compensation by $846M for 2027",
+    "url": "https://www.fiercehealthcare.com/providers/advocate-health-increase-total-employee-compensation-846m-2027",
+    "summary": "The nonprofit will also invest an additional $390 million towards incremental benefits.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-10T01:12:14.691625+00:00",
+    "date_str": "Nov 10, 2026"
+  },
+  {
+    "title": "University of Texas MD Anderson Cancer Center unveils $3.4B expansion plans",
+    "url": "https://www.fiercehealthcare.com/providers/university-texas-md-anderson-cancer-center-unveils-34b-expansion-plans",
+    "summary": "The new facilities, dubbed Inspiration Tower and Prism, will make up nearly two million square feet.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-10T01:12:14.691649+00:00",
+    "date_str": "Nov 10, 2026"
+  },
+  {
+    "title": "How to Evaluate Clinical AI Beyond the Demo",
+    "url": "https://www.fiercehealthcare.com/sponsored/how-evaluate-clinical-ai-beyond-demo",
+    "summary": "A practical framework for assessing AI governance, evidence, transparency and post-deployment performance in clinical workflows.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-10T01:12:14.691678+00:00",
+    "date_str": "Nov 10, 2026"
+  },
+  {
+    "title": "States get another $10B for rural health as far bigger Medicaid cuts loom",
+    "url": "https://www.politico.com/news/2026/11/09/states-ten-billion-rural-health-fund-medicaid-cuts-01157119",
+    "summary": "The Trump administration rewarded some states and penalized others based on their 2025 record on MAHA and other priorities.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-09T21:52:31+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "FDA warns of rare 'eye stroke' risk from GLP-1 drugs",
+    "url": "https://thehill.com/policy/healthcare/6209047-fda-glp1-drug-nainon-risk/",
+    "summary": "The Food and Drug Administration (FDA) ‌on Monday required pharmaceutical companies to warn patients and healthcare providers of a potential increased risk of a serious eye condition associated with the use of GLP-1 drugs for weight loss and diabetes. Non-arteritic anterior ischemic optic neuropathy (NAION), often referred to as an \"eye stroke,” is a rare condition...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-11-09T21:33:48+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "Biden scaling back book tour after cancer diagnosis",
+    "url": "https://thehill.com/homenews/administration/6207934-joe-biden-book-tour-scaled-back-cancer/",
+    "summary": "Former President Biden on Sunday said he was scaling back the book tour for his upcoming presidential memoir due to his ongoing cancer diagnosis. \"While writing the book, I was diagnosed with cancer, a disease known all too well to millions of Americans and their families,\" the former president said in a statement about the...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-11-09T16:40:32+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
     "title": "Simulation-Guided Clinical Trials: Is EU Law Ready?",
     "url": "https://medcitynews.com/2026/11/simulation-guided-clinical-trials-is-eu-law-ready/",
     "summary": "Simulations do not replace human judgment: they inform it, making transparent what would otherwise remain a “black box.” EU law does not require them today; but a proportionate embrace, in the right legislative vehicle, with clear methodological standards, and without crushing noncommercial research, could make trials safer, faster, cheaper, and more reliable, without sacrificing rigor. The post Simulation-Guided Clinical Trials: Is EU Law Ready? appeared first on MedCity News .",
@@ -2088,315 +2398,5 @@
     "category_slug": "senior-health",
     "date": "2026-11-04T15:47:46+00:00",
     "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "Patients want a human in the loop for AI healthcare tools",
-    "url": "https://www.healthcaredive.com/news/patients-want-human-in-loop-ai-healthcare-tools/873704/",
-    "summary": "Patients are open to doctors using AI for more administrative tasks, but they’re less enthusiastic about using it for diagnosing or claims adjudication, according to a new survey.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-04T14:24:08+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "America’s hospital brand deserts: Why clinicians keep pointing to the same few regions",
-    "url": "https://www.healthcaredive.com/spons/americas-hospital-brand-deserts-why-clinicians-keep-pointing-to-the-same/873696/",
-    "summary": "Doctors keep recommending hospitals in the same few US regions. The rest of the map pays a price.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-04T14:00:00+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "How should the FDA regulate generative AI in medtech? Here are 5 takes",
-    "url": "https://www.healthcaredive.com/news/how-should-the-fda-regulate-generative-ai-in-medtech-here-are-5-takes/873708/",
-    "summary": "Patients, providers and medtech firms submitted hundreds of comments to the Food and Drug Administration on how the agency should approach generative AI in medical devices.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-03T17:09:14+00:00",
-    "date_str": "Nov 03, 2026"
-  },
-  {
-    "title": "Amwell bets AI boom will boost demand for its unified care platform",
-    "url": "https://www.fiercehealthcare.com/finance/amwell-boosts-2026-guidance-after-strong-q3-boasts-government-business",
-    "summary": "As health plans and employers contend with a growing array of virtual care and AI-enabled tools, Amwell is positioning its digital health platform as the infrastructure layer for AI-enabled care.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-04T23:14:51.797440+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "CommonSpirit Health signs definitive agreement to sell 3 more N.D. hospitals to Altru Health System",
-    "url": "https://www.fiercehealthcare.com/providers/commonspirit-health-talks-hand-3-more-north-dakota-hospitals-altru-health-system",
-    "summary": "The nonprofits' deal, expected to close early next year, is the latest in a string of hospital divestitures from CommonSpirit Health.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-04T23:14:51.797495+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "What Democratic control of Congress means for healthcare in 2027",
-    "url": "https://www.fiercehealthcare.com/regulatory/what-does-blue-wave-mean-healthcare-policy",
-    "summary": "Tuesday’s forecast-busting blue wave puts wind in the sails of Democrats who have promised a stark departure from Trump-era healthcare policy—though whether or not the shifts will be incremental or seismic hinges on intra-party debates and the president’s veto.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-04T23:14:51.797537+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "Waystar touts bigger health system wins and growing AI pipeline",
-    "url": "https://www.fiercehealthcare.com/finance/waystar-touts-expansion-across-client-base-ai-capabilities-q3-2026",
-    "summary": "Waystar again outperformed analysts’ estimates in the third quarter as the company builds out new AI capabilities and drives growth by adding new customers and selling more of its platform to existing clients.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-04T23:14:51.797572+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "Wearables, AI and women's heart health",
-    "url": "https://www.fiercehealthcare.com/digital-health/wearables-ai-and-womens-heart-health",
-    "summary": "Wearables are giving us more health data than ever before. But can that data actually improve care? This week on \"Podnosis,\" we explore the promise of wearables and AI for women's heart health, and what it takes to turn information into better outcomes.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-04T23:14:51.797605+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "Abortion resurfaces as a decisive issue amid blue wave",
-    "url": "https://www.politico.com/news/2026/11/04/abortion-resurfaces-as-a-decisive-issue-amid-blue-wave-01148984",
-    "summary": "Voters overwhelming backed pro-abortion rights ballot measures and candidates Tuesday night. The GOP remained largely silent on the issue.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-04T17:03:15+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "3M settles 'forever chemical' personal injury claims for $7B",
-    "url": "https://thehill.com/policy/energy-environment/6199690-3m-forever-chemical-pfas-injury-claims/",
-    "summary": "Manufacturing giant 3M has agreed to a $7.35 billion settlement over personal injury claims related to its manufacture of “forever chemicals” used in firefighting foam. The settlement comes as the company has faced thousands of lawsuits over these chemicals, which have been linked to health issues including cancer and problems related to the immune system,...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-11-04T23:11:10+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "Stuck in Shelters for Months, Some Migrant Children Abandon Hopes of Staying in US",
-    "url": "https://kffhealthnews.org/public-health/trump-deportation-immigration-unaccompanied-children-stuck-in-shelters-ice-texas/",
-    "summary": "The federal Office of Refugee Resettlement is supposed to care for migrant children who arrive in the country alone. But new policies are stranding kids in shelters and undermining their mental health. Some children have chosen to return to the countries they fled.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-04T10:00:00+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "IVF Patients, Doctors Navigate Fetal Personhood Laws’ Unknowns",
-    "url": "https://kffhealthnews.org/courts/ivf-fertility-abortion-bans-fetal-personhood-laws-dobbs-roe-v-wade/",
-    "summary": "People trying to start families and clinics trying to help them have been left confused and worried since the Supreme Court overturned Roe v. Wade, triggering fetal personhood laws in several states.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-04T10:00:00+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "STAT+: Sens. Wyden and Sanders, backers of Medicare for All, set to take charge of key committees",
-    "url": "https://www.statnews.com/2026/11/04/democratic-wins-medicare-for-all-momentum/?utm_campaign=rss",
-    "summary": "The Democratic flip of the Senate is expected to put two Democrats who support Medicare for All in charge of key committees.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-04T13:38:17+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "STAT+: The biotech startups skipping AI for drug discovery",
-    "url": "https://www.statnews.com/2026/11/04/the-biotech-startups-skipping-ai-for-drug-discovery-ai-prognosis/?utm_campaign=rss",
-    "summary": "In this edition of AI Prognosis: These biotech startups don't think drug discovery is where AI can make the biggest difference.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-04T13:01:33+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "STAT+: Former Madrigal Pharmaceuticals executive alleges coverup of safety issues tied to its drug",
-    "url": "https://www.statnews.com/2026/11/04/former-madrigal-pharmaceuticals-executive-rezdiffra-lawsuit/?utm_campaign=rss",
-    "summary": "A top former executive at Madrigal Pharmaceuticals has filed a lawsuit in federal court alleging a coverup of drug safety issues.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-04T12:30:43+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "Top health takeaways from the midterm elections",
-    "url": "https://www.statnews.com/2026/11/04/health-news-midterm-elections-2026-democrats-control-congress/?utm_campaign=rss",
-    "summary": "Democrats gained control of both chambers of Congress, and doctors and scientists won key seats. Here are the top health takeaways from the midterms.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-04T12:15:08+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "Opinion: I moved to Europe for free health care. I miss my patient portal",
-    "url": "https://www.statnews.com/2026/11/04/moving-to-europe-free-health-care-differences/?utm_campaign=rss",
-    "summary": "“To be honest, in Malta, I pay for medical care all the time. I just pay differently,” writes Mariska Breland.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-04T09:30:00+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "CVS Health plans to split pharmacy business from Aetna, Caremark",
-    "url": "https://www.fiercehealthcare.com/payers/cvs-reveals-plans-split-two-companies",
-    "summary": "CVS Health is splitting up. The healthcare giant announced Wednesday morning that it would divide its business units into two companies.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-04T13:49:20.579013+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "Idaho rejects ballot measure adding abortion access protection",
-    "url": "https://thehill.com/homenews/campaign/6191184-idaho-rejects-ballot-measure-adding-abortion-access-protection-2026/",
-    "summary": "A ballot measure that would legalize abortion access up until fetal viability in Idaho, reversing the state’s current ban, is projected to fail, according to Decision Desk HQ. Voters rejected the ballot measure, which sought to establish protections around reproductive access in the Gem State up to viability, around 23 to 24 weeks, when the...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-11-04T08:35:27+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "Nevada approves abortion rights amendment",
-    "url": "https://thehill.com/homenews/campaign/6185144-nevada-approves-abortion-rights-amendment/",
-    "summary": "Nevada voters have approved a ballot measure protecting abortion up to the point of viability, officially adding the protection to the state constitution, Decision Desk HQ has projected. The measure allows the state to enact restrictions after viability is reached, which is usually around the 24-week mark, except when necessary to protect the life or health...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-11-04T08:20:36+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "Missouri rejects ballot measure to overturn abortion protections",
-    "url": "https://thehill.com/homenews/campaign/6173213-voters-deny-gop-abortion-ban-measure/",
-    "summary": "Missouri voted to protect abortion access Tuesday, Decision Desk HQ projects, narrowly rejecting a ballot measure that would have reinstated a near-total abortion ban just two years after it was overturned. Missouri in 2024 became the first state to use a ballot measure to overturn a near-total abortion ban and put a reproductive freedom amendment...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-11-04T06:56:35+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "Virginia passes 'reproductive freedom' ballot measure",
-    "url": "https://thehill.com/homenews/campaign/6173294-virginia-voters-pass-reproductive-freedom/",
-    "summary": "Virginia voters passed a “reproductive freedom” ballot measure Tuesday, enshrining current protections — including abortion — into the state constitution, Decision Desk HQ projects. The amendment puts protections for abortion, birth control, and in-vitro fertilization into the state constitution. It also protects fertility care, pregnancy-related care, and miscarriage care. The amendment makes abortion legal...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-11-04T05:28:49+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "The FTC Is Flexing Its Muscle in Healthcare",
-    "url": "https://medcitynews.com/2026/11/the-ftc-is-flexing-its-muscle-in-healthcare/",
-    "summary": "The FTC sent warning letters to 25 health plan marketers over potentially deceptive marketing practices, following its earlier letters to healthcare services companies about price transparency. The post The FTC Is Flexing Its Muscle in Healthcare appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-03T23:30:20+00:00",
-    "date_str": "Nov 03, 2026"
-  },
-  {
-    "title": "Flagship Merges 3 Startups to Turn Cause and Effect Insights Into Novel Medicines",
-    "url": "https://medcitynews.com/2026/11/flagship-pioneering-startup-etcelera-causal-intelligence-ai-ml-drug-discovery/",
-    "summary": "Flagship Pioneering unveiled Etcelera, a new startup formed by combining three of the firm’s portfolio companies. Etcelera’s approach to drug R&D focuses on “causal intelligence,” which Flagship defines as predicting and understanding cause and effect in biology. The post Flagship Merges 3 Startups to Turn Cause and Effect Insights Into Novel Medicines appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-03T23:09:45+00:00",
-    "date_str": "Nov 03, 2026"
-  },
-  {
-    "title": "STAT+: Democrats win power to push back on Trump’s health care moves",
-    "url": "https://www.statnews.com/2026/11/03/midterm-elections-what-democratic-control-senate-means-healthcare/?utm_campaign=rss",
-    "summary": "Democrats win Senate control, and with it the power to push back on Trump’s health care moves.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-04T04:38:26+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "Upfront TAVR May Be the Way Forward in Moderate Aortic Stenosis, Trial Suggests",
-    "url": "https://www.medpagetoday.com/meetingcoverage/tct/123709",
-    "summary": "(MedPage Today) -- Upfront transcatheter aortic valve replacement (TAVR) was more protective against death and heart failure events compared with clinical surveillance among patients with moderate aortic stenosis (AS) with at least one at-risk...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-03T22:21:59+00:00",
-    "date_str": "Nov 03, 2026"
-  },
-  {
-    "title": "Medicare Part D premiums projected to rise 50% in 2027 without plan switching: KFF",
-    "url": "https://www.fiercehealthcare.com/payers/medicare-part-d-premiums-projected-rise-50-2027-without-plan-switching-kff",
-    "summary": "Medicare beneficiaries who stay in their current stand-alone Part D plans could face sharply higher premiums, deductibles and other out-of-pocket costs in 2027, a KFF analysis found.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-04T04:57:33.815437+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "Healthcare’s Trust Crisis Is an Experience Crisis",
-    "url": "https://medcitynews.com/2026/11/healthcares-trust-crisis-is-an-experience-crisis/",
-    "summary": "Rebuilding trust across a fragmented healthcare landscape demands that payers and providers alike move beyond transactional relationships and prioritize transparency, empathy, and tailored communication. The post Healthcare’s Trust Crisis Is an Experience Crisis appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-03T14:33:00+00:00",
-    "date_str": "Nov 03, 2026"
-  },
-  {
-    "title": "Looser Health IT Certification Requirements Shift Oversight to Health Systems",
-    "url": "https://medcitynews.com/2026/11/looser-health-it-certification-requirements-shift-oversight-to-health-systems/",
-    "summary": "The U.S. Department of Health and Human Services (HHS) is rolling back several health IT certification requirements that could reduce certification costs for technology developers. But they may leave hospitals and health systems holding more responsibility for evaluating the safety and performance of the AI tools they purchase. The post Looser Health IT Certification Requirements Shift Oversight to Health Systems appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-03T14:00:00+00:00",
-    "date_str": "Nov 03, 2026"
-  },
-  {
-    "title": "STAT+: Servier’s $1.55 billion muscular dystrophy drug fails first major test",
-    "url": "https://www.statnews.com/2026/11/03/becker-muscular-dystrophy-servier-edgewise-sevasemten-fail/?utm_campaign=rss",
-    "summary": "Servier reports a surprise setback for a drug being tested for a form of muscular dystrophy that lacks treatment.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-03T20:53:20+00:00",
-    "date_str": "Nov 03, 2026"
-  },
-  {
-    "title": "STAT+: Amid Mass General Brigham layoffs, CEO pens vague letter, stirring staff anxiety",
-    "url": "https://www.statnews.com/2026/11/03/mass-general-brigham-layoffs-ceo-letter-staff-anxiety/?utm_campaign=rss",
-    "summary": "A cryptic email sent to Mass General Brigham employees by the health system's CEO is stirring staff anxiety less than two weeks after a round of layoffs.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-03T20:33:22+00:00",
-    "date_str": "Nov 03, 2026"
   }
 ]
