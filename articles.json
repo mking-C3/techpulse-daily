@@ -1,5 +1,255 @@
 [
   {
+    "title": "The Ultimate Adulting Task: Signing Up for Health Insurance",
+    "url": "https://kffhealthnews.org/insurance/healthq-beginners-guide-buying-insurance-aca-marketplace-obamacare-free-assisters/",
+    "summary": "Buying health insurance can be overwhelming, but there are people who can help you figure it out — free of charge. HealthQ sits in as one 22-year-old speaks with an “independent assister.”",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-10T10:00:00+00:00",
+    "date_str": "Nov 10, 2026"
+  },
+  {
+    "title": "Nebraska Rushed Medicaid Work Rules. Then a Cancer Patient Was Told He’d Lost Coverage.",
+    "url": "https://kffhealthnews.org/medicaid/medicaid-work-requirements-lost-coverage-nebraska-early-rollout/",
+    "summary": "Nebraska budgeted $8.2 million for contractors to comply with Medicaid changes under President Donald Trump’s One Big Beautiful Bill Act. Health clinics and organizations advocating for poor and working-class Nebraskans say the rollout of Medicaid work requirements has been rife with problems.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-10T10:00:00+00:00",
+    "date_str": "Nov 10, 2026"
+  },
+  {
+    "title": "When a Gun Owner Shows Early Signs of Dementia",
+    "url": "https://kffhealthnews.org/aging/new-old-age-guns-firearms-safety-dementia-weapons-suicide/",
+    "summary": "Public health experts are finding ways to encourage firearm safety practices for older adults who own guns, especially when there are indications of cognitive decline.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-10T10:00:00+00:00",
+    "date_str": "Nov 10, 2026"
+  },
+  {
+    "title": "STAT+: Dutch antitrust regulators probe Biogen over test for its MS drug",
+    "url": "https://www.statnews.com/pharmalot/2026/11/10/dutch-antitrust-regulators-probe-biogen-over-multiple-sclerosis-drug-test/?utm_campaign=rss",
+    "summary": "Dutch anti-trust regulators are investigating allegations that Biogen may have abused its dominant position in the market for MS treatments and associated blood tests.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-10T13:38:35+00:00",
+    "date_str": "Nov 10, 2026"
+  },
+  {
+    "title": "STAT+: Pharma is a ‘mixed bag’ when providing drug access to low- and middle-income countries, analysis finds",
+    "url": "https://www.statnews.com/pharmalot/2026/11/10/access-to-key-drugs-mixed-in-poor-countries-cancer-diabetes/?utm_campaign=rss",
+    "summary": "Many large pharmaceutical companies are taking steps to improve access to their medicines in low- and middle-income countries, but progress has been mixed.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-10T13:00:00+00:00",
+    "date_str": "Nov 10, 2026"
+  },
+  {
+    "title": "Why this year’s flu season could be hitting teens and young adults hard",
+    "url": "https://www.statnews.com/2026/11/10/health-news-why-flu-season-could-hit-teens-and-young-adults-hard/?utm_campaign=rss",
+    "summary": "At least 1.7 million cases of flu have been reported so far this year. Here's what experts are expecting for the rest of flu season:",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-10T12:49:35+00:00",
+    "date_str": "Nov 10, 2026"
+  },
+  {
+    "title": "STAT+: PepGen says early trial for muscular dystrophy drug looks promising",
+    "url": "https://www.statnews.com/2026/11/10/muscular-dystrophy-dm1-pepgen-pgn-edodm1-early-results/?utm_campaign=rss",
+    "summary": "PepGen says its candidate is correcting more of the genetic stutter found in myotonic dystrophy type 1.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-10T12:05:00+00:00",
+    "date_str": "Nov 10, 2026"
+  },
+  {
+    "title": "STAT+: State Democratic wins make Medicaid expansion a possibility for more than a million people",
+    "url": "https://www.statnews.com/2026/11/10/medicaid-expansion-holdout-states-midterm-election-power-shift/?utm_campaign=rss",
+    "summary": "Texas, Georgia, and Wisconsin may expand their Medicaid programs when Democrats take power.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-10T09:30:00+00:00",
+    "date_str": "Nov 10, 2026"
+  },
+  {
+    "title": "Opinion: AI’s health advice can be accurate and still make us sicker",
+    "url": "https://www.statnews.com/2026/11/10/ai-health-advice-accuracy-messaging-risk-behavioral-benchmarking/?utm_campaign=rss",
+    "summary": "“Even a factually accurate health message can change behavior in ways that make people less healthy,” researchers write.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-10T09:30:00+00:00",
+    "date_str": "Nov 10, 2026"
+  },
+  {
+    "title": "Opinion: STAT+: BIO CEO: American biotech needs a coordinated plan to beat China — now",
+    "url": "https://www.statnews.com/2026/11/10/china-biotech-bio-plan-space-race/?utm_campaign=rss",
+    "summary": "BIO CEO: “Today’s biotech race is our generation’s Space Race.”",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-10T09:30:00+00:00",
+    "date_str": "Nov 10, 2026"
+  },
+  {
+    "title": "Seven days of chaos in the ER: How this country's healthcare system is unraveling",
+    "url": "https://www.npr.org/2026/11/10/g-s1-152693/healthcare-ethiopia-conflict-emergency-room",
+    "summary": "Renewed fighting has pushed Ethiopia's healthcare system close to collapse: \"The whole emergency (room) was flooded with war trauma patients,\" one surgeon says of a brutal week in September.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-10T12:48:48+00:00",
+    "date_str": "Nov 10, 2026"
+  },
+  {
+    "title": "Get in, loser: Broadway's newest 'Mean Girls' are ready to insult (and enlighten) you",
+    "url": "https://www.npr.org/2026/11/10/g-s1-152641/get-in-loser-broadways-newest-mean-girls-are-ready-to-insult-and-enlighten-you",
+    "summary": "\"School Girls; Or, The African Mean Girls Play,\" is ending a Broadway run this week and celebrating with livestream broadcasts. We interviewed the Tony-nominated playwright, Jocelyn Bioh.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-10T12:28:36+00:00",
+    "date_str": "Nov 10, 2026"
+  },
+  {
+    "title": "How word of mouth is helping an Amish community's fight against measles",
+    "url": "https://www.npr.org/2026/11/10/nx-s1-6021511/pennsylvania-amish-measles-vaccine-trust",
+    "summary": "In Pennsylvania, health officials use a quiet vaccination campaign designed to win the trust of the state's Amish community, which has been hit hard by the measles outbreak.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-10T10:00:00+00:00",
+    "date_str": "Nov 10, 2026"
+  },
+  {
+    "title": "Is honesty always the best policy? When to speak up — or stay silent",
+    "url": "https://www.npr.org/2026/11/10/nx-s1-6034519/is-honesty-always-the-best-policy-when-to-speak-up-or-stay-silent",
+    "summary": "Should you tell your boss she's got food on her face? Your partner you hate their outfit? Social psychologist Vanessa Bohns shares advice on when to tell someone the truth — or keep your mouth shut.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-10T10:00:00+00:00",
+    "date_str": "Nov 10, 2026"
+  },
+  {
+    "title": "AMA Steps Into the Debunking Ring",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/123802",
+    "summary": "(MedPage Today) -- I've spent a lot of time writing about the importance of science communication, especially for physicians. I've also spent time publicly musing about the importance of our professional societies weighing in on the dangers of...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-10T13:19:53+00:00",
+    "date_str": "Nov 10, 2026"
+  },
+  {
+    "title": "Intensive Blood Pressure Control Gets a Win in Stroke Survivors",
+    "url": "https://www.medpagetoday.com/meetingcoverage/aha/123791",
+    "summary": "(MedPage Today) -- Two large trials conducted in Brazil in different patient populations came to somewhat divergent conclusions on the cardiovascular benefits of intensive blood pressure (BP) lowering. Over roughly 4 years of median follow-up...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-09T19:32:54+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "Why Not Sirolimus for Active Lupus?",
+    "url": "https://www.medpagetoday.com/meetingcoverage/acr/123790",
+    "summary": "(MedPage Today) -- ORLANDO -- Patients with systemic lupus erythematosus (SLE) that is uncontrolled despite standard therapy did well with a daily oral dose of sirolimus in a trial from China, although safety concerns weren't entirely relieved...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-09T18:41:18+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "Bulevirtide Linked to Less Decompensation in Chronic Hep D With Cirrhosis",
+    "url": "https://www.medpagetoday.com/meetingcoverage/aasld/123789",
+    "summary": "(MedPage Today) -- In patients with chronic hepatitis delta (CHD) with cirrhosis, treatment with bulevirtide (Hepcludex) was associated with lower risk of liver decompensation, according to results from a European retrospective study. Among more...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-09T17:54:02+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "The Flu Shots Are Here! The Flu Shots Are Here!",
+    "url": "https://www.medpagetoday.com/opinion/patientcenteredmedicalhome/123788",
+    "summary": "(MedPage Today) -- Every year, we wait on the arrival of this season's annual flu vaccine, patiently biding our time and explaining to our patients that it's coming, any day now, while the manufacturers finish their processes of selecting the candidate...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-09T17:20:27+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "Was Superglue to Blame for His Lung Nodule?",
+    "url": "https://www.medpagetoday.com/casestudies/pulmonology/123785",
+    "summary": "(MedPage Today) -- A CT scan turned up an incidental nodule in the lung of a patient being evaluated for kidney stones, and clinicians' best guess is that it had something to do with superglue. The patient, a man in his 40s, presented to an emergency...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-09T16:55:49+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "FDA Slaps New Safety Warning on GLP-1 Drugs",
+    "url": "https://www.medpagetoday.com/ophthalmology/generalophthalmology/123783",
+    "summary": "(MedPage Today) -- The FDA is requiring manufacturers of all GLP-1 drugs to update their prescribing information to include a warning about the potential risk of non-arteritic anterior ischemic optic neuropathy (NAION), a rare but potentially blinding...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-09T16:29:19+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "FBI Investigates Doc's Death; Measles Cases Top 5,000; Can Flu Shot Fight Cancer?",
+    "url": "https://www.medpagetoday.com/primarycare/generalprimarycare/123781",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. The FBI is aiding in an investigation over the death of Heather Kovich, MD, a prominent family medicine physician in New Mexico who died last month on the Navajo...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-09T14:28:02+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "Trial Finds Tangible Results From Yoga as Cardiac Rehab",
+    "url": "https://www.medpagetoday.com/meetingcoverage/aha/123780",
+    "summary": "(MedPage Today) -- Yoga-based cardiac rehabilitation did not change cardiac outcomes for people with heart failure and reduced ejection fraction (HFrEF), though there were big boosts in exercise capacity and quality of life in an Indian randomized...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-09T14:19:31+00:00",
+    "date_str": "Nov 09, 2026"
+  },
+  {
+    "title": "Personify Health launches updated wellbeing platform experience with 2 new capabilities",
+    "url": "https://www.fiercehealthcare.com/digital-health/personify-health-launches-updated-wellbeing-platform-experience-2-new-capabilities",
+    "summary": "The updated platform experience features two new capabilities: adherence and digital navigation.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-10T14:23:27.230219+00:00",
+    "date_str": "Nov 10, 2026"
+  },
+  {
+    "title": "Watch live: The Hill’s Health Next Summit 2026",
+    "url": "https://thehill.com/policy/healthcare/6207944-watch-live-the-hill-health-next-summit-2026/",
+    "summary": "The Hill’s Health Next Summit returns to Washington on Nov. 10 for a timely, post-midterm deep dive into the future of healthcare. Join us as we bring together key lawmakers, health system leaders, White House Cabinet officials and policy innovators to unpack the structural shifts redefining American care delivery. This high-level bipartisan forum will tackle...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-11-10T11:00:00+00:00",
+    "date_str": "Nov 10, 2026"
+  },
+  {
     "title": "Startup Supporting Caregivers Raises $3.5M in Seed Funding",
     "url": "https://medcitynews.com/2026/11/startup-supporting-caregivers-raises-3-5m-in-seed-funding/",
     "summary": "Avanlee Care’s seed round was led by BEA Venture Fund, with participation from existing investors, including Board Chair Esther Dyson, Chrysalis Ventures and FairBridge VC. The post Startup Supporting Caregivers Raises $3.5M in Seed Funding appeared first on MedCity News .",
@@ -2147,256 +2397,6 @@
     "category": "Medicare News",
     "category_slug": "medicare-news",
     "date": "2026-11-04T21:54:39+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "Servier Stumbles in Muscle Disease as Drug From $1.5B Deal Fails Pivotal Test",
-    "url": "https://medcitynews.com/2026/11/servier-becker-muscular-dystrophy-sevasemten-myosin-inhibitor-rare-disease/",
-    "summary": "Servier’s sevasemten came from the acquisition of the muscular dystrophy assets of Edgewise Therapeutics. While the small molecule had met the goal of a Phase 2 test in Becker muscular dystrophy, Servier said new results in a pivotal cohort do not show statistically significant benefit. The post Servier Stumbles in Muscle Disease as Drug From $1.5B Deal Fails Pivotal Test appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-04T18:52:15+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "When Patients Become Consumers: The New Care Stack Collides With Legacy Healthcare",
-    "url": "https://medcitynews.com/2026/11/when-patients-become-consumers-the-new-care-stack-collides-with-legacy-healthcare/",
-    "summary": "To succeed, our healthcare system must fully embrace consumer-focused product design to address demands of scale, access, and daily usability that the market is revealing. The post When Patients Become Consumers: The New Care Stack Collides With Legacy Healthcare appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-04T14:48:00+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "Breast Cancer Survivorship Is a Menopause Problem Nobody Owns",
-    "url": "https://medcitynews.com/2026/11/breast-cancer-survivorship-is-a-menopause-problem-nobody-owns/",
-    "summary": "For all the pink ribbons we see, women with breast cancer are abandoning one of the most effective treatments they have because of symptoms no one in their care team is clearly responsible for. The post Breast Cancer Survivorship Is a Menopause Problem Nobody Owns appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-04T14:21:00+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "STAT+: Pharma critic Bernie Sanders is set to hold major sway over FDA funding bill",
-    "url": "https://www.statnews.com/2026/11/04/bernie-sanders-senate-help-key-role-pdufa-reauthorization/?utm_campaign=rss",
-    "summary": "Sanders could use his role in crafting the FDA funding bill to push for reforms.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-04T21:17:19+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "STAT+: Mass. marijuana consumers, workers high on victory after repeal of recreational weed sales fails in a rout",
-    "url": "https://www.statnews.com/2026/11/04/massachusetts-marijuana-question-8-results-recreational-cannabis/?utm_campaign=rss",
-    "summary": "Massachusetts voters decisively shot down a ballot initiative that would have dismantled the state’s recreational cannabis industry.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-04T19:40:32+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "STAT+: Democratic doctors and scientists ride the blue wave",
-    "url": "https://www.statnews.com/2026/11/04/midterms-democrat-winners-doctors-scientists-medical-professionals/?utm_campaign=rss",
-    "summary": "The clinicians and researchers who will take office are ready to tackle the U.S. health care system.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-04T18:46:45+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "STAT+: Where does MAHA go from here? 3 possible futures",
-    "url": "https://www.statnews.com/2026/11/04/maha-movement-future-after-midterm-losses/?utm_campaign=rss",
-    "summary": "Republican losses leave Robert F. Kennedy Jr.’s MAHA movement with three possible futures.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-04T17:09:44+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "STAT+: CVS Health to split, reversing years of deal-making to combine pharmacies and insurance",
-    "url": "https://www.statnews.com/2026/11/04/cvs-splits-pharmacy-from-insurance/?utm_campaign=rss",
-    "summary": "CVS Health’s decision to split comes amid federal and state scrutiny over vertical integration.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-04T16:30:06+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "STAT+: A looming deadline to fund the government will shape Congress’ unusual lame duck session",
-    "url": "https://www.statnews.com/2026/11/04/lame-duck-session-congress-health-policy-aca-subsidies-medicaid-funding/?utm_campaign=rss",
-    "summary": "Before Democrats take control, Congress must fund expiring health care programs and confirm HHS nominees.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-04T15:55:54+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "STAT+: Five midterm winners and losers: MAHA mowed down, Dem docs scrub in, ‘Medicare for All’ returns",
-    "url": "https://www.statnews.com/2026/11/04/midterm-health-policy-winners-losers-medicare-for-all-rfk-jr/?utm_campaign=rss",
-    "summary": "Democratic doctors were among the winners in the midterm elections, while the MAHA movement and President Trump's health agenda were losers.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-04T15:15:21+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "STAT+: Ultragenyx cuts staff after another study fails",
-    "url": "https://www.statnews.com/2026/11/04/biotech-news-ultragenyx-cuts-staff-after-another-study-fails/?utm_campaign=rss",
-    "summary": "Ultragenyx announced that it's laying off about 20% of its staff as it ends development of two rare disease drugs.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-04T14:46:46+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about CVS plans to split up, FDA inspections in India and China and more",
-    "url": "https://www.statnews.com/pharmalot/2026/11/04/cvs-plans-to-split-up-fda-inspections-in-india-and-china/?utm_campaign=rss",
-    "summary": "The Trump administration will survey key components of pharmaceutical production in order to identify domestic supply chain vulnerabilities.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-04T14:20:46+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "It was a big night for doctors to win seats in Congress, riding the blue wave",
-    "url": "https://www.npr.org/2026/11/04/nx-s1-6017757/democrats-republicans-doctors-acton-andrews-blue-wave",
-    "summary": "Historically, most physicians who served in the House or Senate have been Republicans. In the next Congress, physicians who are Democrats made significant gains.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-04T20:46:26+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "Is It Over for DAPT After Left Atrial Appendage Closure?",
-    "url": "https://www.medpagetoday.com/meetingcoverage/tct/123723",
-    "summary": "(MedPage Today) -- Antithrombotic monotherapy was similar to dual antiplatelet therapy (DAPT) for 6-month outcomes after left atrial appendage (LAA) closure, the SIMPLAAFY trial showed. The incidence rate of combined all-cause death, stroke, systemic...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-04T22:02:42+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "A Pediatrician, a Pastor, and a Paralympian Just Did Wonders for Kids’ Mental Health",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/123722",
-    "summary": "(MedPage Today) -- My son is 32. Early Wednesday morning he forwarded me a New York Times story about the new faces Tuesday's midterm elections sent to Washington and to statehouses. He added a note: \"Some themes for your next article, like the...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-04T21:45:48+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "Brain Health Linked With Longer Lifetime Estrogen Exposure",
-    "url": "https://www.medpagetoday.com/neurology/dementia/123721",
-    "summary": "(MedPage Today) -- Women with higher lifetime estrogen exposure had less cerebrovascular pathology, a cohort study in Sweden showed. A longer reproductive span was associated with 8% lower odds of having two or more signs of cerebral small vessel...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-04T21:07:20+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "CD38-Targeted Immuno-PET Tracer Can Detect Overlooked Multiple Myeloma",
-    "url": "https://www.medpagetoday.com/hematologyoncology/myeloma/123720",
-    "summary": "(MedPage Today) -- A novel CD38-targeted immuno-PET tracer could help detect multiple myeloma in some patients with no signs of disease, according to results from a phase II trial. While there was no overall difference in disease detection with...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-04T20:40:36+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "Why Are Medical Students Learning About Physician Unions?",
-    "url": "https://www.medpagetoday.com/special-reports/features/123718",
-    "summary": "(MedPage Today) -- Medical students are taught how poverty, access to care, and other systemic factors affect patients' health, but many struggle with a fundamental question: What can one physician realistically do about problems that extend far...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-04T19:45:58+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "Cancer Vaccines Show Promise. But We Have More Work to Do.",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/123717",
-    "summary": "(MedPage Today) -- The controversy surrounding the premature disclosure of Moderna and Merck's mRNA melanoma vaccine results risks overshadowing a more consequential clinical discussion: how individualized cancer vaccines might fit into an increasingly...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-04T19:04:33+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "Abdakibart Shows Strong Early Efficacy in Hidradenitis Suppurativa",
-    "url": "https://www.medpagetoday.com/meetingcoverage/eadvvideopearls/123716",
-    "summary": "(MedPage Today) -- Phase II findings presented at the European Academy of Dermatology and Venereology meeting in Vienna showed promising early efficacy with abdakibart, an investigational interleukin (IL)-1 beta inhibitor, in patients with hidradenitis...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-04T18:46:22+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "Pascal Tricuspid TEER Handed Soft Victory in 'Hamstrung' CLASP II TR Trial",
-    "url": "https://www.medpagetoday.com/meetingcoverage/tct/123715",
-    "summary": "(MedPage Today) -- The Pascal Precision transcatheter edge-to-edge repair (TEER) system eked out a win in symptomatic severe tricuspid regurgitation (TR) in its pivotal randomized trial. In CLASP II TR, there was significant clinical improvement...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-04T18:26:41+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "Shorter Days and Dark Afternoons Can Trigger Depression",
-    "url": "https://www.medpagetoday.com/psychiatry/generalpsychiatry/123714",
-    "summary": "(MedPage Today) -- As winter approaches and daylight hours grow shorter, people prone to seasonal depression can feel it in their bodies and brains. The millions of people estimated to have seasonal affective disorder, or SAD, typically have episodes...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-04T17:52:27+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "PubMed Pauses Major Journal; CDC Alert Blocked; DOGE Chief's Spouse Hired at HHS",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/healthpolicy/123713",
-    "summary": "(MedPage Today) -- The National Library of Medicine has stopped indexing articles from Scientific Reports in Medline while the journal is under review. Articles from the publication will not appear in PubMed during the pause. (Retraction Watch...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-04T17:47:36+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "Medicare spends more on hospices owned by private equity firms, study finds",
-    "url": "https://www.healthcaredive.com/news/medicare-spends-more-hospices-owned-private-equity-firms-study-finds/873773/",
-    "summary": "Medicare is footing a bigger bill for hospices bought by private equity firms, spending nearly $1,000 more per stay. Researchers said PE firms may be boosting inappropriate admissions to maximize reimbursement.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-04T19:12:42+00:00",
-    "date_str": "Nov 04, 2026"
-  },
-  {
-    "title": "CVS to split into two companies in stunning strategic about-face",
-    "url": "https://www.healthcaredive.com/news/cvs-split-two-companies-strategic-about-face/873660/",
-    "summary": "The breakup, which will separate Aetna and Caremark from CVS’ retail pharmacies, is an indictment of the dogma that bigger is always better in the healthcare industry.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-04T15:47:46+00:00",
     "date_str": "Nov 04, 2026"
   }
 ]
