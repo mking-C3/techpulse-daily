@@ -1,5 +1,205 @@
 [
   {
+    "title": "Dubious Buys Raise Alarm Over Local Control of Opioid Cash",
+    "url": "https://kffhealthnews.org/public-health/opioid-settlements-database-local-spending-control-addiction-advocates-2025/",
+    "summary": "Much of the questionable opioid settlement spending in 2025 occurred at the county and city level, where decision-makers often have no background in addiction policy.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-12T10:00:00+00:00",
+    "date_str": "Nov 12, 2026"
+  },
+  {
+    "title": "Opioid Settlement Cash and Homelessness: It’s Not Always Clear How Addiction Fits In",
+    "url": "https://kffhealthnews.org/public-health/opioid-settlements-housing-homelessness-addiction-substance-use-state-local/",
+    "summary": "State and local governments are using some of their opioid settlement dollars for initiatives to curb homelessness. The spending raises concerns that those investments don’t always focus on addiction, as many believe the money is meant to.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-12T10:00:00+00:00",
+    "date_str": "Nov 12, 2026"
+  },
+  {
+    "title": "Beyond Metrics: How to Repair Our Relationship With Wearables",
+    "url": "https://medcitynews.com/2026/11/beyond-metrics-how-to-repair-our-relationship-with-wearables/",
+    "summary": "Users are, rightfully, upset that the devices they bought are not delivering the results they were promised. But is that indignation pointed at the right flaw? The post Beyond Metrics: How to Repair Our Relationship With Wearables appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-12T14:06:00+00:00",
+    "date_str": "Nov 12, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about FDA shelving fast-track review, a Canadian importer arrested, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/11/12/fda-fast-track-review-shelved-canadian-importer-arrested/?utm_campaign=rss",
+    "summary": "The FDA has shelved the fast-track drug review initiative launched in June 2025 by former Commissioner Marty Makary",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-12T14:14:55+00:00",
+    "date_str": "Nov 12, 2026"
+  },
+  {
+    "title": "Experts update prostate cancer screening guidelines for men",
+    "url": "https://www.statnews.com/2026/11/12/health-news-experts-update-prostate-cancer-screening-guidelines-for-men/?utm_campaign=rss",
+    "summary": "Are you an American man between 50 and 69? You might want to get checked for prostate cancer, ACS says in reversal of previous guidelines.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-12T12:32:57+00:00",
+    "date_str": "Nov 12, 2026"
+  },
+  {
+    "title": "American Cancer Society revises guidelines, urges routine PSA screening for prostate cancer",
+    "url": "https://www.statnews.com/2026/11/12/prostate-cancer-screening-guidelines-updated-acs/?utm_campaign=rss",
+    "summary": "The American Cancer Society recommended routine PSA screening for prostate cancer, changing guidelines in place since 2010.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-12T12:00:00+00:00",
+    "date_str": "Nov 12, 2026"
+  },
+  {
+    "title": "STAT+: Alnylam, once in the hunt to be a $100 billion biotech, needs to solve its heart drug problem",
+    "url": "https://www.statnews.com/2026/11/12/alnylam-amvuttra-heart-drug-growth/?utm_campaign=rss",
+    "summary": "Alnylam is heavily dependent on its heart drug Amvuttra for growth — and sales have been slowing.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-12T11:30:00+00:00",
+    "date_str": "Nov 12, 2026"
+  },
+  {
+    "title": "STAT+: What to know about Biogen’s big lupus study readout",
+    "url": "https://www.statnews.com/2026/11/12/biogen-lupus-litifilimab-what-to-know/?utm_campaign=rss",
+    "summary": "Biogen is expected to soon release the results of pivotal clinical trials of an experimental therapy for lupus.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-12T11:30:00+00:00",
+    "date_str": "Nov 12, 2026"
+  },
+  {
+    "title": "Opinion: 3 things new governors must do to lead on health",
+    "url": "https://www.statnews.com/2026/11/12/new-governors-2027-health-priorities-agenda/?utm_campaign=rss",
+    "summary": "“On day one, governors should know kindergarten vaccination rates by county,” write Mandy Cohen and Ellen Montz.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-12T09:30:00+00:00",
+    "date_str": "Nov 12, 2026"
+  },
+  {
+    "title": "Opinion: I research MAHA and Black Americans. The relationship is complicated — and fascinating",
+    "url": "https://www.statnews.com/2026/11/12/maha-black-american-activists-voters-health-care-midterms/?utm_campaign=rss",
+    "summary": "“Even as Kennedy and MAHA have cribbed from the Black activist playbook, they’ve actively undermined” Black Americans, writes Jerel Ezell.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-12T09:30:00+00:00",
+    "date_str": "Nov 12, 2026"
+  },
+  {
+    "title": "Newly elected doctors and scientists hope to restore trust in science. It won’t be easy",
+    "url": "https://www.statnews.com/2026/11/12/trust-in-science-physician-lawmakers-rebuild-belief/?utm_campaign=rss",
+    "summary": "Scores of doctors and scientists were elected last week. Will trust in science follow?",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-12T09:30:00+00:00",
+    "date_str": "Nov 12, 2026"
+  },
+  {
+    "title": "Novel Glucagon/GLP-1 Agonist Meets Cardiovascular Safety Endpoint",
+    "url": "https://www.medpagetoday.com/meetingcoverage/aha/123835",
+    "summary": "(MedPage Today) -- Survodutide, an investigational glucagon receptor and GLP-1 receptor dual agonist, was safe for patients with obesity and either established cardiovascular disease (CVD), chronic kidney disease (CKD), or increased risk of CVD...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-11T18:07:05+00:00",
+    "date_str": "Nov 11, 2026"
+  },
+  {
+    "title": "Assessing and Managing HIV's Higher Heart Disease Risks",
+    "url": "https://www.medpagetoday.com/spotlight/idweek-hiv/123834",
+    "summary": "(MedPage Today) -- Understanding how HIV can shape cardiovascular disease risk may help clinicians tailor care to patients' needs, which starts with statins for most adults with HIV. \"HIV holds its own as a risk factor for developing cardiovascular...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-11T18:01:54+00:00",
+    "date_str": "Nov 11, 2026"
+  },
+  {
+    "title": "Don't Overlook Cancer Risks in People With HIV, Experts Say",
+    "url": "https://www.medpagetoday.com/spotlight/idweek-hiv/123833",
+    "summary": "(MedPage Today) -- Preventing and screening for common cancers seen in the general population should be a key component of HIV care, experts said at the recent IDWeek annual meeting. Given cancer risks, \"prevention becomes a key part of HIV care...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-11T18:01:42+00:00",
+    "date_str": "Nov 11, 2026"
+  },
+  {
+    "title": "After CAR-T Failure in Diffuse Large B-Cell Lymphoma, What Comes Next?",
+    "url": "https://www.medpagetoday.com/spotlight/dlbcl/123832",
+    "summary": "(MedPage Today) -- CD19-targeted chimeric antigen receptor (CAR) T-cells have emerged as a second- and later-line treatment strategy for patients with diffuse large B-cell lymphoma (DLBCL), with three FDA-approved products. \"Across CAR T-cell...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-11T17:41:09+00:00",
+    "date_str": "Nov 11, 2026"
+  },
+  {
+    "title": "What the VA Gets Right About Death",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/123828",
+    "summary": "(MedPage Today) -- On November 11, 1991, I called my father, a taciturn 24-year senior non-commissioned officer, to wish him a happy Veterans Day. I was a newly minted second lieutenant, and his pride in my becoming an officer and first-generation...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-11T17:07:09+00:00",
+    "date_str": "Nov 11, 2026"
+  },
+  {
+    "title": "Ex-FDA Chief Saw 'Corruption'; RFK Jr.'s Power Play; MAHA Defends Russell Brand",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/healthpolicy/123827",
+    "summary": "(MedPage Today) -- Former FDA chief Marty Makary, MD, MPH, accused the White House and HHS aides of caving to industry — just days after former advisor Calley Means did the same — saying, “every time I saw government corruption...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-11T16:44:38+00:00",
+    "date_str": "Nov 11, 2026"
+  },
+  {
+    "title": "5,387 Dead in Outbreak; Cheese Recall Expands; Breast Cancer Chemo May Speed Aging",
+    "url": "https://www.medpagetoday.com/infectiousdisease/ebola/123826",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. According to the latest data, 11,042 confirmed cases have been recorded in Congo's record-breaking Ebola outbreak, including 5,387 deaths. (AP) Ahead of a formal...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-11T14:22:16+00:00",
+    "date_str": "Nov 11, 2026"
+  },
+  {
+    "title": "Two Biologics for Psoriatic Arthritis Square Off in Big Trial",
+    "url": "https://www.medpagetoday.com/meetingcoverage/acr/123825",
+    "summary": "(MedPage Today) -- ORLANDO -- A large head-to-head trial reported here that pitted bimekizumab (Bimzelx) against risankizumab (Skyrizi) as treatment for psoriatic arthritis (PsA) yielded a winner, albeit with a couple caveats. Arthritic symptoms...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-11T13:30:37+00:00",
+    "date_str": "Nov 11, 2026"
+  },
+  {
+    "title": "Duet nabs $15M series A, plans to launch first NP-led ACO in 2027",
+    "url": "https://www.fiercehealthcare.com/finance/duet-nabs-15m-series-plans-launch-first-np-led-aco-2027",
+    "summary": "Alongside the funding round, Duet announced it plans to launch the first-ever NP-led Medicare Accountable Care Organization in 2027.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-12T14:40:51.794539+00:00",
+    "date_str": "Nov 12, 2026"
+  },
+  {
     "title": "Drug Approval Marks Another Win for Merck KGaA’s Rare Tumor Strategy",
     "url": "https://medcitynews.com/2026/11/merck-kgaa-emd-serono-pimicotinib-pimjetmi-fda-approval-tgct-rare-tumor/",
     "summary": "Merck KGaA drug Pimjetmi is now FDA approved for treating tenosynovial giant cell tumor. This drug complements other rare tumor assets the Germany-based drugmaker has acquired in a series of business deals. The post Drug Approval Marks Another Win for Merck KGaA’s Rare Tumor Strategy appeared first on MedCity News .",
@@ -2197,206 +2397,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-11-06T21:55:21+00:00",
-    "date_str": "Nov 06, 2026"
-  },
-  {
-    "title": "Two incoming lawmakers plan to defend health equity from Trump administration cuts",
-    "url": "https://www.statnews.com/2026/11/06/abdul-el-sayed-jasmine-clark-defend-health-equity-from-cuts/?utm_campaign=rss",
-    "summary": "Two newly elected lawmakers with science backgrounds hope to push back against Trump administration cuts to health equity programs.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-06T21:46:55+00:00",
-    "date_str": "Nov 06, 2026"
-  },
-  {
-    "title": "STAT+: Democrats’ midterm landslide spells relief for hospitals",
-    "url": "https://www.statnews.com/2026/11/06/why-democrats-midterm-landslide-helps-hospital-industry/?utm_campaign=rss",
-    "summary": "Democrats are likely to focus on reversing Medicaid cuts and expanding insurance coverage, giving a boost to health care providers.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-06T17:46:16+00:00",
-    "date_str": "Nov 06, 2026"
-  },
-  {
-    "title": "Democrats’ midterm victory, and a questionable fertility procedure",
-    "url": "https://www.statnews.com/2026/11/06/readout-loud-podcast-midterm-elections-fertility-ivf-mrt-therapy/?utm_campaign=rss",
-    "summary": "How will the midterm results affect drug pricing policy? And why are women traveling to fertility clinics abroad? Find out on the new episode of \"The Readout LOUD\" podcast.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-06T17:02:18+00:00",
-    "date_str": "Nov 06, 2026"
-  },
-  {
-    "title": "STAT+: Up and down the ladder: The latest comings and goings",
-    "url": "https://www.statnews.com/pharmalot/2026/11/06/pharma-biotech-jobs-ladder-pfizer-amgen-astrazeneca-novonordisk/?utm_campaign=rss",
-    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-06T16:43:49+00:00",
-    "date_str": "Nov 06, 2026"
-  },
-  {
-    "title": "STAT+: New tumor cases show common gene therapy tool can come with risk",
-    "url": "https://www.statnews.com/2026/11/06/novartis-zolgensma-gene-therapy-tumor-risk/?utm_campaign=rss",
-    "summary": "New cases show AAV gene therapies like Zolgensma carry tumor risks, raising key concerns for SMA patients and gene therapy researchers in general.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-06T16:14:40+00:00",
-    "date_str": "Nov 06, 2026"
-  },
-  {
-    "title": "STAT+: Amgen’s Repatha linked to fewer heart attacks",
-    "url": "https://www.statnews.com/2026/11/06/biotech-news-amgen-repatha-linked-to-fewer-heart-attacks/?utm_campaign=rss",
-    "summary": "Pithy intro text about the biopharma milieu. Novartis cites more tumor reports after Zolgensma Novartis has disclosed seven previously unreported cases of tumors in children who received Zolgensma, its gene therapy…",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-06T15:14:53+00:00",
-    "date_str": "Nov 06, 2026"
-  },
-  {
-    "title": "New evidence for ancient cannabis use",
-    "url": "https://www.statnews.com/2026/11/06/health-news-new-evidence-for-ancient-cannabis-use/?utm_campaign=rss",
-    "summary": "A new paper, published yesterday in Science, offers compelling evidence of ritual cannabis use in a 2,800-year-old Siberian tomb.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-06T14:59:42+00:00",
-    "date_str": "Nov 06, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a Novartis gene therapy, faster U.K. drug reviews, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/11/06/novartis-gene-therapy-tumors-found-faster-uk-drug-reviews/?utm_campaign=rss",
-    "summary": "Novartis acknowledged seven instances of tumors being found in children who were treated with Zolgensma for spinal muscular atrophy",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-06T14:41:03+00:00",
-    "date_str": "Nov 06, 2026"
-  },
-  {
-    "title": "Trump's global health strategy is emerging. What will the Democratic Congress say?",
-    "url": "https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress",
-    "summary": "The Trump Administration has ushered in a fundamental shift in the U.S. approach to global health aid. How will the newly elected Democratic Congress weigh in?",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-06T20:09:58+00:00",
-    "date_str": "Nov 06, 2026"
-  },
-  {
-    "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
-    "url": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare",
-    "summary": "A healthcare intelligence-sharing organization is warning its members to lock down systems following cyberattacks on cold storage systems, including a French blood bank.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-06T19:00:21+00:00",
-    "date_str": "Nov 06, 2026"
-  },
-  {
-    "title": "Hawaii Doctors May Soon Start Prescribing Fresh Food",
-    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/123767",
-    "summary": "(MedPage Today) -- More than 100,000 Hawaii residents who qualify for Medicaid may soon find their doctors prescribing them fresh food as medicine. The script could be for fresh fruit and vegetables, even ahi, beef, chicken, and eggs. The federally...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-06T21:57:02+00:00",
-    "date_str": "Nov 06, 2026"
-  },
-  {
-    "title": "Oral Food Challenge Clears Many Infants Thought to Have Peanut Allergy",
-    "url": "https://www.medpagetoday.com/allergyimmunology/allergy/123766",
-    "summary": "(MedPage Today) -- More than a third of infants thought to be allergic to peanuts were not actually allergic, an oral food challenge study showed. With the aim of treating peanut allergy among babies who reacted to peanut before 1 year of age...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-06T20:58:26+00:00",
-    "date_str": "Nov 06, 2026"
-  },
-  {
-    "title": "AHA to Put Aggressive BP Control in the Hot Seat for SPRINT-Excluded Groups",
-    "url": "https://www.medpagetoday.com/meetingcoverage/aha/123765",
-    "summary": "(MedPage Today) -- At this weekend's American Heart Association (AHA) meeting, intensive blood pressure (BP) lowering and other mainstays in cardiovascular medicine have a lot to prove, as do innovations related to GLP-1 receptor agonists and artificial...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-06T20:36:31+00:00",
-    "date_str": "Nov 06, 2026"
-  },
-  {
-    "title": "Here's How the Blue Tsunami Will Turn the Healthcare Tide",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/123764",
-    "summary": "(MedPage Today) -- Hubris played such a central role in the 2026 midterm election that the ancient Greeks would surely have loved it. The midterms featured a mortal who promised to avoid war, lower prices, expel immigrants who had committed crimes...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-06T20:17:44+00:00",
-    "date_str": "Nov 06, 2026"
-  },
-  {
-    "title": "Lumateperone Brings Rapid Relief in Bipolar Mania",
-    "url": "https://www.medpagetoday.com/meetingcoverage/neicongress/123763",
-    "summary": "(MedPage Today) -- Lumateperone (Caplyta) rapidly improved symptoms of acute mania associated with bipolar I disorder, a phase III trial showed. Among 351 patients with or without mixed features, lumateperone demonstrated superiority over placebo...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-06T20:07:27+00:00",
-    "date_str": "Nov 06, 2026"
-  },
-  {
-    "title": "Hormone Therapy and Cancer Risk; Oncology Pay Cut; Mammograms Post-Double Mastectomy",
-    "url": "https://www.medpagetoday.com/hematologyoncology/breastcancer/123761",
-    "summary": "(MedPage Today) -- Doctors are warning not to overlook the small increase in breast cancer risk associated with certain hormonal therapies for treating menopause symptoms. (New York Times) In related news, the FDA removed boxed warnings about...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-06T19:25:53+00:00",
-    "date_str": "Nov 06, 2026"
-  },
-  {
-    "title": "What Was Linked to Aggressive Breast Cancer?",
-    "url": "https://www.medpagetoday.com/quizzes/news-quiz/123758",
-    "summary": "(MedPage Today) -- You passed medical training, now see if you can pass our weekly quiz",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-06T18:31:10+00:00",
-    "date_str": "Nov 06, 2026"
-  },
-  {
-    "title": "Booze, Tobacco Together in Pregnancy May Worsen Baby's Facial Abnormalities",
-    "url": "https://www.medpagetoday.com/pediatrics/growthdisorders/123756",
-    "summary": "(MedPage Today) -- Prenatal exposure to both alcohol and tobacco smoke impacted the baby's facial development more than either alone, a longitudinal study from South Africa showed. Three-dimensional facial scans at 1 month and 1 year of age showed...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-06T17:32:10+00:00",
-    "date_str": "Nov 06, 2026"
-  },
-  {
-    "title": "'ER' and 'The Pitt' Similar Enough for Lawsuit to Move Forward, Appeals Court Says",
-    "url": "https://www.medpagetoday.com/emergencymedicine/emergencymedicine/123754",
-    "summary": "(MedPage Today) -- A California appeals court has found that \"ER\" and \"The Pitt\" have enough similarity that a lawsuit brought by the widow and estate of \"ER\" creator Michael Crichton alleging \"The Pitt\" is an unauthorized reboot can move forward...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-06T17:09:12+00:00",
-    "date_str": "Nov 06, 2026"
-  },
-  {
-    "title": "Elizabeth Holmes Documentary: Doctors Weigh In",
-    "url": "https://www.medpagetoday.com/podcasts/anamnesis/123753",
-    "summary": "(MedPage Today) -- The following is a transcript of the podcast episode: Rachael Robertson: Hey everybody! Welcome to MedPod Today, the podcast series where MedPage Today reporters share deeper insight into the week's biggest healthcare stories...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-06T16:55:02+00:00",
     "date_str": "Nov 06, 2026"
   }
 ]
