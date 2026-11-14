@@ -1,5 +1,25 @@
 [
   {
+    "title": "It’s Open Enrollment Season. Hear Reporters Discuss ACA Sign-Ups, High Costs, and More.",
+    "url": "https://kffhealthnews.org/on-air/on-air-november-14-2026-obamacare-aca-open-enrollment-measles-midterms/",
+    "summary": "KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here’s a collection of their appearances.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-14T10:00:00+00:00",
+    "date_str": "Nov 14, 2026"
+  },
+  {
+    "title": "An organ transplant controversy tests 'the dead donor rule'",
+    "url": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
+    "summary": "New guidelines are supposed to protect organ donors in a retrieval procedure that keeps blood flowing through livers, kidneys, lungs and hearts. But bioethicists have troubling questions.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-14T10:00:00+00:00",
+    "date_str": "Nov 14, 2026"
+  },
+  {
     "title": "More Measles Deaths Reported as U.S. Cases Top 5,400",
     "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/123886",
     "summary": "(MedPage Today) -- Wisconsin and Pennsylvania reported two more measles-associated deaths on Friday, as the U.S. stands on the brink of losing its measles elimination status with more than 5,400 cases. Wisconsin health officials reported a measles...",
@@ -2377,26 +2397,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-11-09T15:56:55+00:00",
-    "date_str": "Nov 09, 2026"
-  },
-  {
-    "title": "Common Antibiotic Tied to Pregnancy Loss Risk",
-    "url": "https://www.medpagetoday.com/obgyn/pregnancy/123801",
-    "summary": "(MedPage Today) -- Women exposed to doxycycline in early pregnancy had an increased risk of pregnancy loss compared to other antibiotics, a cohort study showed. Doxycycline use for respiratory tract infection was linked with increased pregnancy...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-09T22:44:51+00:00",
-    "date_str": "Nov 09, 2026"
-  },
-  {
-    "title": "Smartwatch Detection of Reduced LVEF? Not So Fast, Study Says.",
-    "url": "https://www.medpagetoday.com/meetingcoverage/aha/123800",
-    "summary": "(MedPage Today) -- The enthusiasm for smartwatch detection of left ventricular systolic dysfunction (LVSD) was tempered by a Korean study indicating difficulties with the technology in its current state. Using an artificial intelligence (AI)-ECG...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-09T22:44:05+00:00",
     "date_str": "Nov 09, 2026"
   }
 ]
