@@ -1,5 +1,65 @@
 [
   {
+    "title": "US Has Lost Measles Elimination Status, Global Health Authorities Say",
+    "url": "https://kffhealthnews.org/public-health/us-measles-elimination-status-lost-outbreaks-continuous-spread-year-paho-cdc/",
+    "summary": "All but vanquished a quarter century ago, measles has taken root again in the U.S. Compared with prior administrations, President Donald Trump’s second term has been marred by misinformation and actions that stifle public health.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-14T14:20:01+00:00",
+    "date_str": "Nov 14, 2026"
+  },
+  {
+    "title": "Israeli Strike on Hospital Highlights the Devastation to Gaza's Healthcare System",
+    "url": "https://www.medpagetoday.com/hospitalbasedmedicine/hospitalists/123869",
+    "summary": "(MedPage Today) -- BEIRUT -- A deadly airstrike on the biggest hospital in the southern Gaza Strip highlighted the devastation that Israel's campaign has wreaked on the Palestinian territory's healthcare system over the past 3 years. The strike...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-14T21:00:00+00:00",
+    "date_str": "Nov 14, 2026"
+  },
+  {
+    "title": "Early-Onset Colorectal Cancer; AI-Enabled Prior Auth; Type 1 Diabetes Subtypes",
+    "url": "https://www.medpagetoday.com/podcasts/healthwatch/123879",
+    "summary": "(MedPage Today) -- TTHealthWatch is a weekly podcast from Texas Tech. In it, Elizabeth Tracey, director of electronic media for Johns Hopkins Medicine in Baltimore, and Rick Lange, MD, president of Texas Tech Health El Paso, look at the top medical...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-14T19:00:00+00:00",
+    "date_str": "Nov 14, 2026"
+  },
+  {
+    "title": "Trump Admin Pauses Enforcement of Its Medicaid Work Rules",
+    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/123887",
+    "summary": "(MedPage Today) -- President Donald Trump's administration told states Friday that they can wait until July before removing people from Medicaid for failing to meet a work requirement. The requirement is scheduled to take effect nationally on...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-14T18:09:09+00:00",
+    "date_str": "Nov 14, 2026"
+  },
+  {
+    "title": "Are AI Data Centers a Health Concern?",
+    "url": "https://www.medpagetoday.com/opinion/climate-checkup/123882",
+    "summary": "(MedPage Today) -- With the public release of ChatGPT in late 2022, artificial intelligence (AI) has been thrust into the mainstream -- incorporated into various industries as well as our personal lives. In healthcare, AI scribes are prominent...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-14T17:00:00+00:00",
+    "date_str": "Nov 14, 2026"
+  },
+  {
+    "title": "Pennsylvania, Wisconsin report additional deaths linked to measles",
+    "url": "https://thehill.com/policy/healthcare/6220695-measles-cases-increase-pennsylvania-wisconsin/",
+    "summary": "The U.S. reached 10 measles deaths this year after additional deaths reported in Pennsylvania and Wisconsin, a concerning sign as the previously eradicated disease makes a resurgence worldwide and in the U.S. Measles cases have already reached more than 5,400 this year, according to the Centers for Disease Control and Prevention (CDC) dashboard — more...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-11-14T16:33:02+00:00",
+    "date_str": "Nov 14, 2026"
+  },
+  {
     "title": "It’s Open Enrollment Season. Hear Reporters Discuss ACA Sign-Ups, High Costs, and More.",
     "url": "https://kffhealthnews.org/on-air/on-air-november-14-2026-obamacare-aca-open-enrollment-measles-midterms/",
     "summary": "KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here’s a collection of their appearances.",
@@ -2338,65 +2398,5 @@
     "category_slug": "healthcare-policy",
     "date": "2026-11-10T00:50:50+00:00",
     "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "STAT+: FDA approves novel Bayer drug to reduce recurrence of stroke",
-    "url": "https://www.statnews.com/2026/11/09/cardiovascular-stroke-recurrence-bayer-drug-fda-approval/?utm_campaign=rss",
-    "summary": "Bayer's drug is the first in a novel class of medications designed to prevent blood clots without increasing risk of bleeding.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-09T22:28:43+00:00",
-    "date_str": "Nov 09, 2026"
-  },
-  {
-    "title": "STAT+: Trump administration removes WuXi AppTec from its Chinese military list",
-    "url": "https://www.statnews.com/pharmalot/2026/11/09/trump-administration-removes-wuxi-apptec-from-its-chinese-military-list/?utm_campaign=rss",
-    "summary": "The Trump administration has removed WuXi AppTec, a key partner for the pharma industry, from its list of “Chinese military companies” operating in the U.S.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-09T20:51:50+00:00",
-    "date_str": "Nov 09, 2026"
-  },
-  {
-    "title": "STAT+: Bill Ackman’s bold plan to transform brain research",
-    "url": "https://www.statnews.com/2026/11/09/bill-ackman-launches-new-brain-research-institute/?utm_campaign=rss",
-    "summary": "Billionaire Bill Ackman as a bold plan to transform brain research, spurred by a tragic backstory.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-09T19:21:55+00:00",
-    "date_str": "Nov 09, 2026"
-  },
-  {
-    "title": "STAT+: Hospitals win the midterms, and Chopping Very Strategically",
-    "url": "https://www.statnews.com/2026/11/09/midterm-elections-good-news-for-hospitals-cvs-breakup-explained/?utm_campaign=rss",
-    "summary": "We explain the CVS breakup, and why Democrats' election victories are good news for hospitals.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-09T17:54:13+00:00",
-    "date_str": "Nov 09, 2026"
-  },
-  {
-    "title": "STAT+: Heart association meeting’s readout is trending ‘neutral’",
-    "url": "https://www.statnews.com/2026/11/09/aha-2026-news-neutral-clinical-trials-lessons-learned/?utm_campaign=rss",
-    "summary": "The theme of the American Heart Association meetings was \"neutral\" results. Yet no one wants to stop pursuing inflammation or Lp(a) lowering.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-09T16:53:21+00:00",
-    "date_str": "Nov 09, 2026"
-  },
-  {
-    "title": "STAT+: FDA warns GLP-1 drugs carry potential risk of rare eye condition",
-    "url": "https://www.statnews.com/2026/11/09/glp-1-drugs-potential-risk-rare-eye-condition-naion-fda/?utm_campaign=rss",
-    "summary": "The FDA on Monday warned that GLP-1 drugs carry a potential risk for a rare but serious eye condition that's sometimes referred to as an \"eye stroke.\"",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-09T15:56:55+00:00",
-    "date_str": "Nov 09, 2026"
   }
 ]
