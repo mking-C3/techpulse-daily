@@ -1,5 +1,35 @@
 [
   {
+    "title": "More Measles Deaths Reported as U.S. Cases Top 5,400",
+    "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/123886",
+    "summary": "(MedPage Today) -- Wisconsin and Pennsylvania reported two more measles-associated deaths on Friday, as the U.S. stands on the brink of losing its measles elimination status with more than 5,400 cases. Wisconsin health officials reported a measles...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-13T22:38:46+00:00",
+    "date_str": "Nov 13, 2026"
+  },
+  {
+    "title": "Injectable Nanobody Wins FDA Approval for Myasthenia Gravis",
+    "url": "https://www.medpagetoday.com/neurology/generalneurology/123885",
+    "summary": "(MedPage Today) -- The FDA on Friday approved injectable gefurulimab (Klygefa), a dual-binding nanobody that blocks complement component 5 (C5) activation, to treat generalized myasthenia gravis in adults who are anti-acetylcholine receptor (AChR...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-13T22:24:00+00:00",
+    "date_str": "Nov 13, 2026"
+  },
+  {
+    "title": "Trump administration delays Medicaid work requirement enforcement",
+    "url": "https://thehill.com/policy/healthcare/6220069-trump-delays-medicaid-work-requirements/",
+    "summary": "The Trump administration is delaying the implementation of controversial Medicaid work requirements, giving states an extra six months to prepare. The work requirements, which Republicans established in the One Big Beautiful Bill Act last year, will still technically go into effect Jan. 1. But states will have an optional “hold harmless” transition period that will...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-11-13T23:19:17+00:00",
+    "date_str": "Nov 13, 2026"
+  },
+  {
     "title": "Zus Health Raises $33M to Make Healthcare More Connected",
     "url": "https://medcitynews.com/2026/11/zus-health-raises-33m-to-make-healthcare-more-connected/",
     "summary": "The Series B round was led by Drive Capital, with participation from Sanofi Ventures, HealthX Ventures, Alumni Ventures, Andreessen Horowitz (a16z), F-Prime, Maverick Ventures and JAZZ Venture Partners. The post Zus Health Raises $33M to Make Healthcare More Connected appeared first on MedCity News .",
@@ -2367,36 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-11-09T22:44:05+00:00",
-    "date_str": "Nov 09, 2026"
-  },
-  {
-    "title": "Police Investigate After 25 Half-Marathon Runners Seek Medical Care",
-    "url": "https://www.medpagetoday.com/emergencymedicine/emergencymedicine/123799",
-    "summary": "(MedPage Today) -- Police in California are investigating after at least two dozen participants in the Santa Barbara Half Marathon ended up at the hospital on Sunday. The Santa Barbara Police Department said in a statement it opened an investigation...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-09T22:40:04+00:00",
-    "date_str": "Nov 09, 2026"
-  },
-  {
-    "title": "Early Response to MASH Drug Linked to Resolution, Fibrosis Improvement",
-    "url": "https://www.medpagetoday.com/meetingcoverage/aasld/123798",
-    "summary": "(MedPage Today) -- In patients treated with resmetirom (Rezdiffra), early responses in blood and imaging biomarkers were associated with resolution of metabolic dysfunction-associated steatohepatitis (MASH) and fibrosis improvement, according to...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-09T22:33:40+00:00",
-    "date_str": "Nov 09, 2026"
-  },
-  {
-    "title": "Feud Between Former Trump Officials Exposes Divisions Over MAHA Movement",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/123797",
-    "summary": "(MedPage Today) -- A public spat between former Trump administration officials over alleged corruption in public health policymaking is the latest front in Republicans' postelection recriminations, a battle that has exposed fault lines within the...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-09T22:23:16+00:00",
     "date_str": "Nov 09, 2026"
   }
 ]
