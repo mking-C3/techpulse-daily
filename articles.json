@@ -1,5 +1,235 @@
 [
   {
+    "title": "These Governors-Elect Campaigned on Expanding Medicaid. It Won’t Be Easy.",
+    "url": "https://kffhealthnews.org/medicaid/democrats-medicaid-expansion-governors-lance-bottoms-hinojosa-crowley-georgia-texas-wisconsin/",
+    "summary": "A handful of states that haven’t fully expanded Medicaid just elected Democratic candidates for governor who campaigned on broadening access to the government health insurance program for low-income people. But doing so won’t be so simple given recent changes to Medicaid, including looming work requirements.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-16T10:00:00+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
+    "title": "States Offer Perks To Attract Healthcare Workers to Rural Areas — With a Catch",
+    "url": "https://kffhealthnews.org/rural-health/rural-healthcare-provider-shortage-incentives-service-requirement-hawaii/",
+    "summary": "States are using some of the $50 billion from the Rural Health Transformation Program to provide incentives to healthcare providers to practice in rural America. But the money comes with strings attached: a five-year service commitment.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-16T10:00:00+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
+    "title": "A Complete Medical Record Still Won’t Fix Prior Authorization",
+    "url": "https://medcitynews.com/2026/11/a-complete-medical-record-still-wont-fix-prior-authorization/",
+    "summary": "The chart may be complete, and two parties may still reach different conclusions. The issue is not always what they know; it is how the organization interprets what it knows. The post A Complete Medical Record Still Won’t Fix Prior Authorization appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-16T14:49:00+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
+    "title": "Safety and Regulation Must Lead the Way in Healthcare AI Innovation",
+    "url": "https://medcitynews.com/2026/11/safety-and-regulation-must-lead-the-way-in-healthcare-ai-innovation/",
+    "summary": "By applying proven and enforceable guardrails, coupled with smart financial incentives, we can ensure AI elevates medical care while maintaining the trust that holds our health system together. The post Safety and Regulation Must Lead the Way in Healthcare AI Innovation appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-16T14:47:00+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
+    "title": "Ongoing Check-Ins Can Help More Postpartum Mothers Get the Care They Need",
+    "url": "https://medcitynews.com/2026/11/ongoing-check-ins-can-help-more-postpartum-mothers-get-the-care-they-need/",
+    "summary": "Engaging with mothers earlier gives us the best chance of catching PPD, PPA, and PPP before they escalate. It won’t be perfect, but it will help more moms and their families. The post Ongoing Check-Ins Can Help More Postpartum Mothers Get the Care They Need appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-16T14:39:00+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
+    "title": "ARPA-H Spotlights Innovative Health Tech and MedTech at INVEST Digital Health",
+    "url": "https://medcitynews.com/2026/11/arpa-h-spotlights-innovative-health-tech-and-medtech-at-invest-digital-health/",
+    "summary": "[Sponsored] The Innovation Showcase at the Dallas conference included technology to objectively assess pain, as well as startups seeking to speed up diagnosis of endometriosis, improve the way we communicate and precision nutrition. The post ARPA-H Spotlights Innovative Health Tech and MedTech at INVEST Digital Health appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-16T12:30:00+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about GLP-1 use, Covid-19 vaccine investment returns, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/11/16/glp1-use-covid-19-vaccines-return-on-investment/?utm_campaign=rss",
+    "summary": "During July and August 2025, approximately 1 in 10 U.S. adults reported taking a GLP-1 medication during the previous year",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-16T14:17:01+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
+    "title": "Democrats settle on a message: ‘Medicare for More’",
+    "url": "https://www.statnews.com/2026/11/16/health-news-democrats-settle-on-medicare-for-more-message/?utm_campaign=rss",
+    "summary": "It doesn’t have quite the same ring to it as “Medicare for All.” But House Dems have coalesced around a policy priority to expand health care access:",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-16T13:37:10+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
+    "title": "STAT+: Helus’ psychedelic drug improved depression in study but faces safety questions",
+    "url": "https://www.statnews.com/2026/11/16/helus-psychedelics-depression-phase-3-trial/?utm_campaign=rss",
+    "summary": "A psychedelic drug from Helus Pharma improved depression in a study, but is facing safety questions with a number of serious adverse events reported.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-16T13:07:47+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
+    "title": "STAT+: Bladder cancer immunotherapy from CG Oncology reduced risk of tumor recurrence",
+    "url": "https://www.statnews.com/2026/11/16/bladder-cancer-immunotherapy-reduced-tumor-recurrence-cg-oncology/?utm_campaign=rss",
+    "summary": "CG Oncology's bladder cancer immunotherapy reduced risk of tumor recurrence by 68% — results that may change how physicians treat certain patients.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-16T13:00:00+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
+    "title": "STAT+: Venture capitalist John Doerr says AI company, named for his late brother, could help fix primary care",
+    "url": "https://www.statnews.com/2026/11/16/ai-company-tom-health-fix-primary-care-new-tool/?utm_campaign=rss",
+    "summary": "Venture capitalist John Doerr on Tom Health, a new AI tool for primary care: \"I think this is one of the best possible uses of AI.\"",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-16T11:00:00+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
+    "title": "STAT+: Versant, Lilly put $100 million behind new startup aimed at solving one of gene therapy’s thorniest issues",
+    "url": "https://www.statnews.com/2026/11/16/versant-lilly-put-100-million-behind-new-startup-aimed-at-solving-one-of-gene-therapys-thorniest-issues/?utm_campaign=rss",
+    "summary": "Versant Ventures, Eli Lilly, and a handful of other investors will pour $100 million into a new startup devoted to solving a thorny gene therapy challenge.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-16T10:00:00+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
+    "title": "STAT+: With Stephen Miller as chief of staff, Kennedy’s MAHA agenda is reinvigorated",
+    "url": "https://www.statnews.com/2026/11/16/stephen-miller-chief-of-staff-boosts-power-of-kennedy-maha/?utm_campaign=rss",
+    "summary": "The appointment of Stephen Miller as White House chief of staff has health secretary RFK Jr. invigorated. A top deputy is telling people it's go time for MAHA.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-16T09:30:00+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
+    "title": "Opinion: Medical school should start after students take the Step 1 exam",
+    "url": "https://www.statnews.com/2026/11/16/medical-school-step-1-exam-redesign-proposal/?utm_campaign=rss",
+    "summary": "“It’s time for a radical reimagining of medical education,” write Rachel Fabi and Amy Caruso Brown.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-16T09:30:00+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
+    "title": "After difficult two years, medical school group’s leadership isn’t letting its guard down post midterms",
+    "url": "https://www.statnews.com/2026/11/16/aamc-ceo-david-skorton-qa-challenges-academic-medicine/?utm_campaign=rss",
+    "summary": "After a tumultuous two years entangled in many consequential health and science policy debates, AAMCs isn’t ready to let its guard down.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-16T09:30:00+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
+    "title": "BeOne, Hengrui top list of China’s most powerful drugmakers",
+    "url": "https://www.statnews.com/2026/11/16/beone-hengrui-top-list-of-chinas-most-powerful-drugmakers/?utm_campaign=rss",
+    "summary": "A new STAT-WireScreen index ranks China's most valuable publicly traded biotech companies. See which one topped the list.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-16T09:30:00+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
+    "title": "Why sleep matters when it comes to weight gain and loss",
+    "url": "https://www.npr.org/2026/11/16/nx-s1-6037761/sleep-weight-gain-loss",
+    "summary": "Sleep can have a powerful impact on weight. Research shows it can affect appetite. There is also a two-way relationship between sleep quality and diet.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-16T10:00:00+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
+    "title": "FDA OKs First Drug for Primary Membranous Nephropathy",
+    "url": "https://www.medpagetoday.com/nephrology/generalnephrology/123892",
+    "summary": "(MedPage Today) -- The FDA has once again expanded the label for the B-cell depleter obinutuzumab (Gazyva), this time to include treatment of primary membranous nephropathy. The new indication, announced by the agency on Friday, stipulates use...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-16T14:03:10+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
+    "title": "Apple, OpenEvidence launch conversational health AI study and app",
+    "url": "https://www.healthcaredive.com/news/apple-openevidence-conversational-health-ai-study-app/874714/",
+    "summary": "The tech juggernaut and clinical AI company will research what drives consumer trust and the quality of health AI responses, among other areas. Apple could use the findings to inform product development.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-16T14:32:50+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
+    "title": "Healthcare struggles to scale AI past pilot stage: Google report",
+    "url": "https://www.healthcaredive.com/news/healthcare-struggles-to-scale-ai-past-pilot-stage-google-report/874609/",
+    "summary": "Healthcare bet big on AI pilots. Now, unpredictable costs and mounting technical complexity are threatening to prevent organizations from scaling the tech, according to Google Cloud’s Aashima Gupta.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-16T14:03:00+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
+    "title": "EVS procurement in senior living: 3 ways to manage cost and ensure quality",
+    "url": "https://www.healthcaredive.com/spons/evs-procurement-in-senior-living-3-ways-to-manage-cost-and-ensure-quality/874226/",
+    "summary": "For leaders of senior living and skilled nursing facilities, it’s not a matter of if prices and product availability will change, but when and by how much.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-16T10:00:00+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
+    "title": "Healthcare cybersecurity and compliance: Why HIPAA alone isn’t enough",
+    "url": "https://www.healthcaredive.com/spons/healthcare-cybersecurity-and-compliance-why-hipaa-alone-isnt-enough/874037/",
+    "summary": "How healthcare leaders are building resilience beyond HIPAA requirements.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-16T10:00:00+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
+    "title": "Emergency medicine has every right to IDR — and every reason to do it right",
+    "url": "https://www.healthcaredive.com/spons/emergency-medicine-has-every-right-to-idr-and-every-reason-to-do-it-right/874064/",
+    "summary": "Few specialties have more riding on Independent Dispute Resolution (IDR) than emergency medicine.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-16T10:00:00+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
     "title": "Duet Secures $15M to Grow Network of Nurse Practitioner-Owned Clinics",
     "url": "https://medcitynews.com/2026/11/duet-secures-15m-to-grow-network-of-nurse-practitioner-owned-clinics/",
     "summary": "Duet’s Series A round was led by Kairos, with participation from Lerer Hippeau. The post Duet Secures $15M to Grow Network of Nurse Practitioner-Owned Clinics appeared first on MedCity News .",
@@ -2167,236 +2397,6 @@
     "category": "Senior Health",
     "category_slug": "senior-health",
     "date": "2026-11-10T16:50:23+00:00",
-    "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "4 states sue HHS to stop Medicaid work requirements",
-    "url": "https://www.healthcaredive.com/news/4-states-sue-hhs-to-stop-medicaid-work-requirements/874191/",
-    "summary": "Four states have filed a lawsuit asking the court to delay implementation of Medicaid work requirements less than 60 days ahead of the implementation deadline.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-09T21:12:31+00:00",
-    "date_str": "Nov 09, 2026"
-  },
-  {
-    "title": "Hims & Hers reports $890.4M Q3 revenue, tightens 2026 outlook",
-    "url": "https://www.fiercehealthcare.com/finance/hims-hers-reports-8904m-q3-revenue-tightens-2026-outlook",
-    "summary": "Net loss for the digital health and wellness company was $33 million, compared to $15.8 million in profit during the same quarter a year ago.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-10T22:52:22.043343+00:00",
-    "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "Oura to acquire AI virtual primary care partner Counsel Health for $625M",
-    "url": "https://www.fiercehealthcare.com/digital-health/oura-acquire-ai-virtual-primary-care-partner-counsel-health-625m",
-    "summary": "The companies have worked together since June, and more recently had shared plans to partner on CMS' 10-year ACCESS Model.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-10T22:52:22.043396+00:00",
-    "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "Positive Medicaid signals, open enrollment trends: Recapping major payers' Q3 results",
-    "url": "https://www.fiercehealthcare.com/payers/positive-medicaid-signals-open-enrollment-trends-recapping-major-payers-q3-results",
-    "summary": "While medical cost trend remains a pressure point for health insurers, leading companies cited some positive trends, too, heading into the final months of 2026.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-10T22:52:22.043431+00:00",
-    "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "Google Cloud rolls out Gemini for healthcare",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/google-cloud-rolls-out-gemini-healthcare",
-    "summary": "The platform was developed alongside clinical and health plan leaders and is built to support HIPAA compliance, the tech giant says.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-10T22:52:22.043460+00:00",
-    "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "Kaiser Permanente grows revenue 9%, doubles operating margin in Q3 2026",
-    "url": "https://www.fiercehealthcare.com/providers/kaiser-permanente-grows-revenue-9-doubles-operating-margin-q3-2026",
-    "summary": "The country’s largest nonprofit health system and its subsidiaries grew operating revenues to $34.7 billion and padded its operating margin, though a $1.8 billion bottom line came up short compared to last year.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-10T22:52:22.043523+00:00",
-    "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "Calley Means accuses Susie Wiles of interfering in hemp policy",
-    "url": "https://www.politico.com/news/2026/11/10/calley-means-susie-wiles-hemp-01158751",
-    "summary": "Wiles’ son-in-law is an executive at companies that sell and distribute intoxicating hemp products.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-10T19:09:16+00:00",
-    "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "Democrats escalate probe of Trump admin drug pricing deals",
-    "url": "https://thehill.com/policy/healthcare/6212045-democrats-demand-mfn-drug-details/",
-    "summary": "Congressional Democrats are demanding pharmaceutical companies immediately disclose the un-redacted details of their “most favored nation” agreements with the Trump administration, according to a source familiar with the effort. The request to drugmakers comes from the potential health policy leaders in Congress next year — Democratic Reps. Frank Pallone Jr. (N.J.) of the Energy and...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-11-10T22:12:41+00:00",
-    "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "More daylight linked to lower chance of dementia: Study",
-    "url": "https://thehill.com/policy/healthcare/6209469-daylight-exposure-lower-dementia-link-study/",
-    "summary": "All of the nearly 90,000 participants were free of diagnosed dementia when they entered the study.",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-11-10T18:35:46+00:00",
-    "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "Ruiz: 'Medicare for All' not a 'realistic expectation' in next Congress",
-    "url": "https://thehill.com/policy/healthcare/6211265-ruiz-medicare-all-unrealistic/",
-    "summary": "Rep. Raul Ruiz (D-Calif.) indicated on Tuesday that passing “Medicare for All” may not be an attainable goal for the next Congress, despite a progressive push to institute a universal single-payer health insurance system after Democrats take control of both chambers in January. “I don’t think it’s going to be realistic, and I don’t think...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-11-10T18:21:24+00:00",
-    "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "Trump administration disburses $10 billion in rural healthcare funds",
-    "url": "https://thehill.com/policy/healthcare/6210858-rural-health-transformation-funds/",
-    "summary": "The Trump administration announced Monday that it is going to roll out $10 billion to 50 states in its second installment of the $50 billion rural healthcare fund which was created as part of the administration’s One Big Beautiful Act last year. “President Trump made a historic investment in rural America, and HHS is putting...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-11-10T16:17:42+00:00",
-    "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "Former GOP lawmaker, surgeon general say 'transactional' Trump might not veto bipartisan health legislation",
-    "url": "https://thehill.com/policy/healthcare/6210263-trump-healthcare-veto-chances/",
-    "summary": "Former Republican Rep. Larry Bucshon (Ind.) and former Surgeon General Jerome Adams both believe President Trump may hold off on vetoing any bipartisan healthcare legislation passed by a Democratic-controlled Congress, saying on Tuesday that Trump's \"transactional\" nature and the final two years of his time in office could sway his decisions. At The Hill's Health...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-11-10T15:05:29+00:00",
-    "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "Blunt Rochester backs Democratic legislative push in face of Trump's veto threat",
-    "url": "https://thehill.com/policy/healthcare/6210155-blunt-rochester-healthcare-priorities-trump-veto/",
-    "summary": "While Democrats will have to contend with President Trump's threats to veto legislation when they take control of Congress in January, Sen. Lisa Blunt Rochester (D-Del.) on Tuesday argued that reality should not be a deterrent to passing legislative priorities. Speaking at The Hill's Health Next Summit in Washington, Blunt Rochester touched on healthcare priorities...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-11-10T14:52:34+00:00",
-    "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "The Ultimate Adulting Task: Signing Up for Health Insurance",
-    "url": "https://kffhealthnews.org/insurance/healthq-beginners-guide-buying-insurance-aca-marketplace-obamacare-free-assisters/",
-    "summary": "Buying health insurance can be overwhelming, but there are people who can help you figure it out — free of charge. HealthQ sits in as one 22-year-old speaks with an “independent assister.”",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-10T10:00:00+00:00",
-    "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "Nebraska Rushed Medicaid Work Rules. Then a Cancer Patient Was Told He’d Lost Coverage.",
-    "url": "https://kffhealthnews.org/medicaid/medicaid-work-requirements-lost-coverage-nebraska-early-rollout/",
-    "summary": "Nebraska budgeted $8.2 million for contractors to comply with Medicaid changes under President Donald Trump’s One Big Beautiful Bill Act. Health clinics and organizations advocating for poor and working-class Nebraskans say the rollout of Medicaid work requirements has been rife with problems.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-10T10:00:00+00:00",
-    "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "When a Gun Owner Shows Early Signs of Dementia",
-    "url": "https://kffhealthnews.org/aging/new-old-age-guns-firearms-safety-dementia-weapons-suicide/",
-    "summary": "Public health experts are finding ways to encourage firearm safety practices for older adults who own guns, especially when there are indications of cognitive decline.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-10T10:00:00+00:00",
-    "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "STAT+: Dutch antitrust regulators probe Biogen over test for its MS drug",
-    "url": "https://www.statnews.com/pharmalot/2026/11/10/dutch-antitrust-regulators-probe-biogen-over-multiple-sclerosis-drug-test/?utm_campaign=rss",
-    "summary": "Dutch anti-trust regulators are investigating allegations that Biogen may have abused its dominant position in the market for MS treatments and associated blood tests.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-10T13:38:35+00:00",
-    "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "STAT+: Pharma is a ‘mixed bag’ when providing drug access to low- and middle-income countries, analysis finds",
-    "url": "https://www.statnews.com/pharmalot/2026/11/10/access-to-key-drugs-mixed-in-poor-countries-cancer-diabetes/?utm_campaign=rss",
-    "summary": "Many large pharmaceutical companies are taking steps to improve access to their medicines in low- and middle-income countries, but progress has been mixed.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-10T13:00:00+00:00",
-    "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "Why this year’s flu season could be hitting teens and young adults hard",
-    "url": "https://www.statnews.com/2026/11/10/health-news-why-flu-season-could-hit-teens-and-young-adults-hard/?utm_campaign=rss",
-    "summary": "At least 1.7 million cases of flu have been reported so far this year. Here's what experts are expecting for the rest of flu season:",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-10T12:49:35+00:00",
-    "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "STAT+: PepGen says early trial for muscular dystrophy drug looks promising",
-    "url": "https://www.statnews.com/2026/11/10/muscular-dystrophy-dm1-pepgen-pgn-edodm1-early-results/?utm_campaign=rss",
-    "summary": "PepGen says its candidate is correcting more of the genetic stutter found in myotonic dystrophy type 1.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-10T12:05:00+00:00",
-    "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "STAT+: State Democratic wins make Medicaid expansion a possibility for more than a million people",
-    "url": "https://www.statnews.com/2026/11/10/medicaid-expansion-holdout-states-midterm-election-power-shift/?utm_campaign=rss",
-    "summary": "Texas, Georgia, and Wisconsin may expand their Medicaid programs when Democrats take power.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-10T09:30:00+00:00",
-    "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "Opinion: AI’s health advice can be accurate and still make us sicker",
-    "url": "https://www.statnews.com/2026/11/10/ai-health-advice-accuracy-messaging-risk-behavioral-benchmarking/?utm_campaign=rss",
-    "summary": "“Even a factually accurate health message can change behavior in ways that make people less healthy,” researchers write.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-10T09:30:00+00:00",
-    "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "Opinion: STAT+: BIO CEO: American biotech needs a coordinated plan to beat China — now",
-    "url": "https://www.statnews.com/2026/11/10/china-biotech-bio-plan-space-race/?utm_campaign=rss",
-    "summary": "BIO CEO: “Today’s biotech race is our generation’s Space Race.”",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-10T09:30:00+00:00",
     "date_str": "Nov 10, 2026"
   }
 ]
