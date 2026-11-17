@@ -1,5 +1,395 @@
 [
   {
+    "title": "Moving to a New State? Your Healthcare Might Get More Complicated",
+    "url": "https://kffhealthnews.org/insurance/healthq-moving-new-state-new-healthcare-access-insurance/",
+    "summary": "New apartment, new friends, new … healthcare hurdles? Medical matters might not be at the top of your list when moving to a new state. But planning ahead will help you get the health insurance, doctors, and healthcare access you need.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-17T10:00:00+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "‘A Hard Time’ as Federal Cuts Hobble Efforts To Stop Overdoses From Tainted Drugs",
+    "url": "https://kffhealthnews.org/public-health/fentanyl-test-strips-federal-cuts-samhsa-street-drugs-overdose-harm-reduction/",
+    "summary": "Harm reduction proponents say testing street drugs prevents overdoses by allowing people to make more informed decisions about what they’re using, but the Trump administration contends that it promotes drug use.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-17T10:00:00+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "Your AI Vendor’s Medical Exam Score Doesn’t Mean What You Think It Does",
+    "url": "https://medcitynews.com/2026/11/your-ai-vendors-medical-exam-score-doesnt-mean-what-you-think-it-does/",
+    "summary": "If health systems want to adopt AI at scale, they need evaluation that is open, reproducible, and continuously updated. That’s also much harder to build in healthcare than in general-purpose AI, for these 3 reasons. The post Your AI Vendor’s Medical Exam Score Doesn’t Mean What You Think It Does appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-17T14:48:00+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "The BCI Race Everyone is Watching May Be the Wrong One",
+    "url": "https://medcitynews.com/2026/11/the-bci-race-everyone-is-watching-may-be-the-wrong-one/",
+    "summary": "The technology race gets the attention. Another race may determine what becomes the new standard of care. The post The BCI Race Everyone is Watching May Be the Wrong One appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-17T14:22:00+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "Medicare Pays For the AI Eye Scan — Nobody Pays For What Comes Next",
+    "url": "https://medcitynews.com/2026/11/medicare-pays-for-the-ai-eye-scan-nobody-pays-for-what-comes-next/",
+    "summary": "Payment isn’t the only barrier, but it shapes all the others. The post Medicare Pays For the AI Eye Scan — Nobody Pays For What Comes Next appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-17T14:18:00+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "Healthcare Startups Highlight Direct-to-Consumer Diagnostics, Digital Twins, and Managing Pharmacy Costs at INVEST Digital Health Conference",
+    "url": "https://medcitynews.com/2026/11/healthcare-startups-highlight-direct-to-consumer-diagnostics-digital-twins-and-managing-pharmacy-costs-at-invest-digital-health-conference/",
+    "summary": "[Sponsored] MedCity News Editor-in-Chief Arundhati Parmar and Reporter Marissa Plescia interviewed a wide range of healthcare startups seeking to address painpoints in healthcare, from digital twin technology to support oncology drug development to alternative payment plans. The post Healthcare Startups Highlight Direct-to-Consumer Diagnostics, Digital Twins, and Managing Pharmacy Costs at INVEST Digital Health Conference appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-17T12:30:00+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "Doc at HLTH: I Can’t Imagine Seeing Patients Without AI",
+    "url": "https://medcitynews.com/2026/11/doc-at-hlth-i-cant-imagine-seeing-patients-without-ai/",
+    "summary": "A part-time urgent care doctor who runs healthcare and life sciences projects at Anthropic as well as other AI experts discussed how AI can boost primary care. The post Doc at HLTH: I Can’t Imagine Seeing Patients Without AI appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-17T05:22:47+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "Noom Introduces Wearable to Support Obesity Care Programs",
+    "url": "https://medcitynews.com/2026/11/noom-introduces-wearable-to-support-obesity-care-programs/",
+    "summary": "Noom is launching a wearable in 2027 to support weight management and metabolic health through health tracking and personalized coaching. The post Noom Introduces Wearable to Support Obesity Care Programs appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-17T03:47:49+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "STAT+: ‘Medicare for More’ gains traction",
+    "url": "https://www.statnews.com/2026/11/17/democrats-new-health-policy-medicare-for-more-stephen-miller-embraces-maha/?utm_campaign=rss",
+    "summary": "Democrats coalesce around a new health care policy, and Trump's new chief of staff embraces MAHA.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-17T15:27:50+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a Roche breast cancer pill, obesity drugs in children, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/11/17/roche-breast-cancer-pill-obesity-drugs-in-children/?utm_campaign=rss",
+    "summary": "The FDA approved a breast cancer drug from Roche, teeing up the launch of what the company has said could become its top-selling product",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-17T14:25:41+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "NIH’s infectious disease unit has a new head at last",
+    "url": "https://www.statnews.com/2026/11/17/health-news-nih-infectious-disease-unit-has-a-new-head-at-last/?utm_campaign=rss",
+    "summary": "The NIH has been without a permanent director since 2025. Now officials announce that acting director John Powers III will take the helm.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-17T13:27:01+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "STAT+: With $173 million, new startup takes aim at sickle cell",
+    "url": "https://www.statnews.com/2026/11/17/new-startup-developing-novel-sickle-cell-anemia-infusion-no-gene-therapy/?utm_campaign=rss",
+    "summary": "Researchers are seeking a sickle cell treatment as effective as gene therapy, without the drawbacks. This entrepreneur thinks he might have one.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-17T12:00:00+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "STAT+: Sellas’ experimental blood cancer immunotherapy reduced risk of death in clinical trial",
+    "url": "https://www.statnews.com/2026/11/17/sellas-blood-cancer-immunotherapy-succeeds-clinical-trial/?utm_campaign=rss",
+    "summary": "Sellas' experimental blood cancer immunotherapy reduced the risk of death in clinical trial.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-17T12:00:00+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "STAT+: After death in gene therapy trial for a brain disease, progress is reported",
+    "url": "https://www.statnews.com/2026/11/17/capsida-gene-therapy-trial-death-follow-up-investigation/?utm_campaign=rss",
+    "summary": "An unexpected patient death rattled researchers who sought to pierce the blood-brain barrier. Now some think they have a better way of mitigating risks.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-17T09:30:00+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "Flavored nicotine tablets, the tobacco industry’s latest product, worry public health advocates",
+    "url": "https://www.statnews.com/2026/11/17/zyn-melts-tobacco-firms-test-market-nicotine-pouch-alternatives/?utm_campaign=rss",
+    "summary": "The latest product from the tobacco industry is a flavorful nicotine tablet that melts in your mouth, allowing users to get a buzz as discreetly as popping a mint",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-17T09:30:00+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "Opinion: The problem with ‘zero tolerance for bad behavior’ signs at hospitals",
+    "url": "https://www.statnews.com/2026/11/17/hospital-signs-violence-health-care-workers-research-stigma/?utm_campaign=rss",
+    "summary": "“Hospitals do not have to choose between protecting hospital staff and preserving patient/family trust in the institution.”",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-17T09:30:00+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "Faith-based addiction recovery groups don’t often get federal funding. RFK Jr. wants to change that",
+    "url": "https://www.statnews.com/2026/11/17/rfk-jr-federal-funding-faith-based-recovery-groups/?utm_campaign=rss",
+    "summary": "As RFK Jr. pushes federal support for faith-based recovery groups, medical experts express concern over access to addiction medications.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-17T09:30:00+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
+    "url": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
+    "summary": "Has your doctor asked whether they can use artificial intelligence to take notes during an exam? It's very popular, and here's how to think through the pros and the cons of the new technology.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-17T11:00:00+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "More people are getting the flu. Should you get a flu shot before you travel?",
+    "url": "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster",
+    "summary": "Thanksgiving is just around the corner, just as millions of Americans are expected to travel for the holidays. Another thing that's upon us? Cold and flu season.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-17T10:00:00+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "Health organization to announce that the U.S. has lost its measles elimination status",
+    "url": "https://www.npr.org/2026/11/17/nx-s1-6042892/health-organization-to-announce-that-the-u-s-has-lost-its-measles-elimination-status",
+    "summary": "The Pan American Health Organization is expected to announce that measles is no longer eliminated in the U.S. Record cases, lower vaccination rates and uncontained outbreaks led to the resurgence.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-17T09:46:43+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "Serious Events Linked to GLP-1s; Implicit Bias Training in Medicine; Ebola in Kids",
+    "url": "https://www.medpagetoday.com/endocrinology/obesity/123913",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Ischemic optic neuropathy, gastroparesis, thyroid C-cell tumors, gall stones, pancreatitis, and more -- the Washington Post looks at some of the rare but serious...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-17T14:43:13+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "Lawmakers Unveil Bipartisan Bill to Give NICU Parents More Time Off From Work",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/washington-watch/123899",
+    "summary": "(MedPage Today) -- A bipartisan group of U.S. lawmakers unveiled a bill Monday that would significantly expand unpaid leave for working parents with newborns in intensive care, as momentum builds for similar policies at companies and state governments...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-16T16:49:00+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
+    "title": "Live Webinar Nov. 17: Measles Elimination Status Revoked",
+    "url": "https://www.medpagetoday.com/infectiousdisease/publichealth/123898",
+    "summary": "(MedPage Today) -- The U.S. has just lost its measles elimination status. Beginning with the West Texas outbreak in January 2025, major outbreaks have emerged across the country. Case counts for the vaccine preventable illness have broken records...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-16T16:32:42+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
+    "title": "CDC Still Lacks Key Center Leadership",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/washington-watch/123897",
+    "summary": "(MedPage Today) -- Since Erica Schwartz, MD, MPH, JD, became CDC director in August, the agency has named only one permanent center director, but has wasted no time making what some perceive as \"political\" appointments. Last month, Ermias Belay...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-16T16:09:11+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
+    "title": "GLP-1 Antagonist Shows Clinically Meaningful Results in Post-Bariatric Hypoglycemia",
+    "url": "https://www.medpagetoday.com/meetingcoverage/obesityweek/123896",
+    "summary": "(MedPage Today) -- NATIONAL HARBOR, Md. -- An investigational first-in-class GLP-1 receptor antagonist significantly reduced hypoglycemic events after bariatric surgery in the phase III LUCIDITY trial. From a baseline mean of 2.39 events per...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-16T15:48:21+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
+    "title": "Energy Drink's Surprising Ingredient Likely Sparked Severe Reaction",
+    "url": "https://www.medpagetoday.com/meetingcoverage/acaai/123895",
+    "summary": "(MedPage Today) -- A 15-year-old boy with eczema, asthma, idiopathic pulmonary hemosiderosis, and allergic rhinitis developed widespread hives, wheezing, and difficulty breathing within minutes of trying a new energy drink. The energy drink contained...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-16T15:27:32+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
+    "title": "Controversial Capitol Doc Quits; Vaccine Injury Reimbursement? Cheese Outbreak Ends",
+    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/123894",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Brian Monahan, MD, the attending physician for Congress, resigned in the face of allegations that include giving lawmakers and their staff medications without prescriptions...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-16T14:37:36+00:00",
+    "date_str": "Nov 16, 2026"
+  },
+  {
+    "title": "From pilot to platform: Johns Hopkins researcher on healthcare AI’s next chapter",
+    "url": "https://www.healthcaredive.com/news/from-pilot-to-platform-johns-hopkins-researcher-on-healthcare-ais-next-ch/874708/",
+    "summary": "Ritu Agarwal, a professor of information systems and health at the Johns Hopkins Carey Business School, shares her take on how healthcare organizations can realize AI’s true potential.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-17T15:14:14+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "Humana launches national provider Gold Card program",
+    "url": "https://www.fiercehealthcare.com/payers/humana-launches-provider-gold-card-program",
+    "summary": "Humana is continuing its push to reform prior authorization with the launch of a national provider gold card program, which will initially focus on MRI, CT and MRA imaging as well as physical and occupational therapy.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-17T15:31:29.117235+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "HLTH 2026: GLP-1 costs remain a challenge. A new CVS study aims to identify the right price",
+    "url": "https://www.fiercehealthcare.com/payers/hlth-2026-glp-1-costs-remain-challenge-new-cvs-study-aims-identify-right-price",
+    "summary": "Cost and access to GLP-1s remains a challenge, but the benefits of these drugs aren't in doubt. A new study from CVS Health aims to quantify at what price a GLP-1 drug has generated enough savings elsewhere through improved clinical outcomes",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-17T15:31:29.117278+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "HHS finalizes updates to HIPAA privacy rule to ease patient access to health information",
+    "url": "https://www.fiercehealthcare.com/health-tech/hhs-finalizes-updates-hipaa-privacy-rule-ease-patient-access-health-information",
+    "summary": "The Trump administration finalized a major update to the HIPAA Privacy Rule designed to give patients easier, faster access to their health records and streamline care coordination.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-17T15:31:29.117297+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "Most nonprofit hospitals' tax breaks outpaced their community spending in 2023: Lown Institute",
+    "url": "https://www.fiercehealthcare.com/providers/most-nonprofit-hospitals-tax-breaks-outpaced-their-community-spending-2023-lown-institue",
+    "summary": "The differences between tax exemptions and community benefit amounts vary substantially from hospital to hospital, with some of the country's biggest names logging a \"fair share deficit\" of hundreds of millions in 2023, the think tank found.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-17T15:31:29.117314+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "hellocare.ai Named to the 2026 CB Insights’ 50 Most Promising Digital Health Startups",
+    "url": "https://www.fiercehealthcare.com/sponsored/hellocareai-named-2026-cb-insights-50-most-promising-digital-health-startups",
+    "summary": "NEW YORK, November 16, 2026 – CB Insights today named hellocare.ai to its eighth annual Digital Health 50, showcasing the 50 most promising Digital Health startups in the world.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-17T15:31:29.117335+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "HLTH 2026 Daily Tracker: HHS' Chris Klomp on the leap from startups to Medicare",
+    "url": "https://www.fiercehealthcare.com/health-tech/hlth26-daily-tracker-health-techs-ai-powered-pitch-falling-flat-survey-finds-vynca",
+    "summary": "The Fierce Healthcare team is on the ground at HLTH 2026. Stick with this news tracker to catch all the highlights from the show floor, and click here for additional coverage from the conference.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-17T15:31:29.117353+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "The Permanente Medical Group launches tech incubation company",
+    "url": "https://www.fiercehealthcare.com/health-tech/permanente-medical-group-launches-tech-incubation-company",
+    "summary": "Kaiser Permanente's 10,000-strong physician group will co-develop, validate and help launch home-grown and partner health technologies via Permanentech, a new wholly owned subsidiary.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-17T15:31:29.117370+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "HLTH 2026: CVS Health, Cigna and Abridge collaborating with OpenAI to test computer-use agents",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hlth26-cvs-health-cigna-and-ambience-collaborating-openai-test-computer-use",
+    "summary": "OpenAI is expanding computer-use agents for healthcare, enabling AI to navigate electronic health record systems, payer portals and other software to tackle repetitive and manual tasks.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-17T15:31:29.117385+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "HLTH 2026: Calibrate, Withings study finds wraparound care boosts GLP-1 weight loss by more than 60%",
+    "url": "https://www.fiercehealthcare.com/payers/calibrate-health-withings-glp-1-study",
+    "summary": "A two-year real-world study from Withings Health Solutions and Calibrate Health suggests that pairing GLP-1 medications with Calibrate’s integrated obesity care program produced substantially greater weight loss than GLP-1 treatment alone.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-17T15:31:29.117409+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "HLTH 2026: Viz.ai, Wolters Kluwer partner on platform integration",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/vizai-wolters-kluwer-partner-platform-integration",
+    "summary": "The companies say it is the first integration to bring UpToDate into AI-driven care coordination workflows.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-17T15:31:29.117422+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
+    "title": "Georgia, Kansas and Texas eye Medicaid expansion after midterms romp",
+    "url": "https://www.politico.com/news/2026/11/17/democrats-medicaid-expansion-holdout-states-01168769",
+    "summary": "The Trump admin made expansion harder and more expensive. The states Democrats flipped are trying anyway.",
+    "source": "Health Care",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-17T10:00:00+00:00",
+    "date_str": "Nov 17, 2026"
+  },
+  {
     "title": "J&J’s $2.2B Ollin Buyout Brings Late-Stage Eye Drug; Blackstone Deal Adds Trial Funding",
     "url": "https://medcitynews.com/2026/11/johnson-johnson-jnj-ollin-biosciences-acquisition-bispecific-antibody-vegf-ang2-wet-amd-dme/",
     "summary": "Johnson & Johnson’s Ollin Biosciences acquisition comes with a Phase 3-ready bispecific antibody. The companies say this eye drug offers advantages over Vabysmo, a Roche drug approved for wet age-related macular degeneration and diabetic macular edema. The post J&J’s $2.2B Ollin Buyout Brings Late-Stage Eye Drug; Blackstone Deal Adds Trial Funding appeared first on MedCity News .",
@@ -2008,395 +2398,5 @@
     "category_slug": "senior-health",
     "date": "2026-11-11T22:00:00+00:00",
     "date_str": "Nov 11, 2026"
-  },
-  {
-    "title": "Last Batch of New Residency Spots Doled Out by CMS",
-    "url": "https://www.medpagetoday.com/hospitalbasedmedicine/graduatemedicaleducation/123843",
-    "summary": "(MedPage Today) -- As the Centers for Medicare & Medicaid Services (CMS) doled out the final 200 of an additional 1,000 residency positions created by Congress 5 years ago, medical groups called for more federally funded spots to mitigate workforce...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-11T21:37:23+00:00",
-    "date_str": "Nov 11, 2026"
-  },
-  {
-    "title": "Ibuprofen and Kidney Injury: Study Reveals Who Is Most at Risk",
-    "url": "https://www.medpagetoday.com/nephrology/generalnephrology/123842",
-    "summary": "(MedPage Today) -- Use of ibuprofen was associated with higher rates of acute kidney injury (AKI) among hospitalized adults, but the excess risk was concentrated almost entirely in certain patients, according to a retrospective active-comparator...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-11T21:04:03+00:00",
-    "date_str": "Nov 11, 2026"
-  },
-  {
-    "title": "Biden Says He Wouldn't Have Run for a Second Term in 2024 If He Knew He Had Cancer",
-    "url": "https://www.medpagetoday.com/washington-watch/washington-watch/123841",
-    "summary": "(MedPage Today) -- Joe Biden says he did not know he had cancer while he was president and would not have sought a second term if he already had been diagnosed. The former Democratic president's comments came in an interview with People magazine...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-11T20:41:52+00:00",
-    "date_str": "Nov 11, 2026"
-  },
-  {
-    "title": "Cell Therapy for Knee Osteoarthritis Reverses Damage in Early Trial",
-    "url": "https://www.medpagetoday.com/meetingcoverage/acr/123839",
-    "summary": "(MedPage Today) -- ORLANDO -- A cell-based therapy for knee osteoarthritis (OA) called OSCA not only improved patients' symptoms in a phase IIa trial and appeared safe, but also showed signs of reversing joint damage within a few months, a researcher...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-11T19:08:42+00:00",
-    "date_str": "Nov 11, 2026"
-  },
-  {
-    "title": "Is There Still a Place for Antibiotics in Modern Hidradenitis Suppurativa Treatment?",
-    "url": "https://www.medpagetoday.com/meetingcoverage/eadvvideopearls/123838",
-    "summary": "(MedPage Today) -- As treatment options for hidradenitis suppurativa (HS) continue to expand, one of the questions discussed at the European Academy of Dermatology and Venereology meeting in Vienna was how antibiotics can still be beneficial in...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-11T18:52:02+00:00",
-    "date_str": "Nov 11, 2026"
-  },
-  {
-    "title": "AI Suicide Lawsuit; School Phone Ban Results; Kudzu for Binge Drinking?",
-    "url": "https://www.medpagetoday.com/psychiatry/generalpsychiatry/123837",
-    "summary": "(MedPage Today) -- Google's artificial intelligence (AI) chatbot Gemini helped a 13-year-old girl prepare a suicide plan, according to a lawsuit in California that alleges the company released the chatbot knowing it could be dangerous. (The Hill...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-11T18:41:53+00:00",
-    "date_str": "Nov 11, 2026"
-  },
-  {
-    "title": "Impeach and Remove RFK Jr.",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/123836",
-    "summary": "(MedPage Today) -- When the new Congress convenes on January 3, 2027, Secretary of HHS Robert F. Kennedy Jr. should be impeached by the House of Representatives and then removed by the Senate. Can this be done? Yes. Although classically associated...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-11T18:21:37+00:00",
-    "date_str": "Nov 11, 2026"
-  },
-  {
-    "title": "Novant COO tapped to lead system after CEO retires",
-    "url": "https://www.healthcaredive.com/news/novant-coo-tapped-to-lead-system-after-ceo-retires/874428/",
-    "summary": "Carl Armato is retiring after over a dozen years leading the North Carolina-based system. COO John Gizdic is taking the reins.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-11T18:55:08+00:00",
-    "date_str": "Nov 11, 2026"
-  },
-  {
-    "title": "Oura makes bet on AI in healthcare with $625M Counsel Health buy",
-    "url": "https://www.healthcaredive.com/news/oura-makes-bet-on-ai-in-healthcare-with-625m-counsel-health-buy/874401/",
-    "summary": "The planned acquisition comes as wearable firms push to up their healthcare offerings.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-11T16:38:51+00:00",
-    "date_str": "Nov 11, 2026"
-  },
-  {
-    "title": "Google Cloud debuts Gemini for healthcare",
-    "url": "https://www.healthcaredive.com/news/google-cloud-debuts-gemini-for-healthcare/874371/",
-    "summary": "Google is the latest big tech company to launch a healthcare-specific agentic AI platform. The company touts the platform’s ability to integrate with third-party tools and automate clinical and administrative tasks.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-11T14:55:28+00:00",
-    "date_str": "Nov 11, 2026"
-  },
-  {
-    "title": "UnitedHealth adds children’s hospital executive to board",
-    "url": "https://www.healthcaredive.com/news/unitedhealth-board-adds-childrens-hospital-ceo-madeline-bell/874367/",
-    "summary": "It’s the healthcare behemoth’s second board appointment since launching a financial and operational turnaround under CEO Stephen Hemsley. Madeline Bell’s experience adds an “important perspective,” Hemsley said.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-11T14:24:11+00:00",
-    "date_str": "Nov 11, 2026"
-  },
-  {
-    "title": "BJC Health, St. Luke's reveal plans to merge",
-    "url": "https://www.fiercehealthcare.com/hospitals/bjc-health-st-lukes-reveal-plans-merge",
-    "summary": "The providers announced on Wednesday that they have signed a letter of intent to come together, bringing the community hospital into the fold with the Show Me State's largest health system.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-12T00:04:57.309388+00:00",
-    "date_str": "Nov 12, 2026"
-  },
-  {
-    "title": "Carelon agrees to pay $10M to settle ghost network, coverage denial allegations in New York",
-    "url": "https://www.fiercehealthcare.com/payers/carelon-agrees-pay-10m-settle-ghost-network-coverage-denial-allegations-new-york",
-    "summary": "Carelon will pay more than $10 million across two settlements in New York over mental health networks and coverage denials.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-12T00:04:57.309418+00:00",
-    "date_str": "Nov 12, 2026"
-  },
-  {
-    "title": "CareSource launches $1M grant program to support AI-powered solutions",
-    "url": "https://www.fiercehealthcare.com/payers/caresource-launches-1m-grant-program-support-ai-powered-solutions",
-    "summary": "Nonprofit insurer CareSource is launching a $1 million program that aims to back responsible AI solutions in healthcare.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-12T00:04:57.309433+00:00",
-    "date_str": "Nov 12, 2026"
-  },
-  {
-    "title": "Recapping the headwinds and tailwinds from Q3",
-    "url": "https://www.fiercehealthcare.com/payers/recapping-headwinds-and-tailwinds-q3",
-    "summary": "The Fierce Healthcare team breaks down Q3 earnings for insurers and health systems, plus what the latest trends signal for 2027, on \"Podnosis.\"",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-12T00:04:57.309448+00:00",
-    "date_str": "Nov 12, 2026"
-  },
-  {
-    "title": "Maven Clinic takes new DTC vertical in-network with 475+ commercial plans",
-    "url": "https://www.fiercehealthcare.com/digital-health/maven-clinic-takes-new-dtc-vertical-network-475-commercial-plans",
-    "summary": "The fee-for-service contracts represent about 80% of commercially insured lives, according to the company. It is able to tap into the vast network through direct contracts and a third-party partner that it can’t name on the record.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-12T00:04:57.309468+00:00",
-    "date_str": "Nov 12, 2026"
-  },
-  {
-    "title": "Democrats investigate RFK Jr, donor over expensive gifts",
-    "url": "https://thehill.com/homenews/senate/6214362-senate-investigation-rfk-gift-acceptance/",
-    "summary": "Two Democratic senators launched a probe into Health and Human Services Secretary (HHS) Robert F. Kennedy Jr. this week after financial reports revealed he received over $250,000 in gifts last year from a former donor to his presidential campaign. In a letter addressed to the HHS secretary on Tuesday, Sens. Angela Alsobrooks (Md.) and Robert...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-11-11T21:01:16+00:00",
-    "date_str": "Nov 11, 2026"
-  },
-  {
-    "title": "Rand Paul plans to be top Republican on Senate health committee",
-    "url": "https://thehill.com/the-120/6214202-rand-paul-seeks-gop-help-leadership/",
-    "summary": "Sen. Rand Paul (R-Ky.) said Wednesday he is seeking the top GOP spot on the powerful Senate health committee next Congress, a move that would likely signal a major shift for the focus of Republicans on the panel. Paul, an ophthalmologist, is the most senior Republican on the panel. He is currently the chair of the...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-11-11T20:06:23+00:00",
-    "date_str": "Nov 11, 2026"
-  },
-  {
-    "title": "Senate committee sets key vote for Trump FDA nominee",
-    "url": "https://thehill.com/policy/healthcare/6213972-senate-health-overton-vote/",
-    "summary": "The Senate Health Committee scheduled a key vote next week for Dr. Heidi Overton to serve as commissioner of the Food and Drug Administration (FDA), even as her path forward is not assured. According to a committee press release, the vote on Overton’s nomination is scheduled for Nov. 18. The committee will also vote on...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-11-11T18:54:12+00:00",
-    "date_str": "Nov 11, 2026"
-  },
-  {
-    "title": "CDC chief: No measles response change if elimination status lost",
-    "url": "https://thehill.com/policy/healthcare/6213788-cdc-responds-measles-elimination-status/",
-    "summary": "The U.S. Centers for Disease Control and Prevention (CDC) will be changing its response to the ongoing measles outbreaks if the country loses its measles elimination status this month. “Let's say we did lose our measles elimination status. ​We're going to be doing the same exact thing that we've been doing today, which is working...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-11-11T17:59:59+00:00",
-    "date_str": "Nov 11, 2026"
-  },
-  {
-    "title": "Biden says he didn't hide cancer diagnosis while president",
-    "url": "https://thehill.com/homenews/administration/6213629-biden-prostate-cancer-diagnosis-denies-hiding/",
-    "summary": "Former President Biden said in an interview published Wednesday he did not hide his aggressive stage 4 prostate cancer diagnosis while he was in the White House, adding he would not have sought a second term had he been diagnosed early. People magazine released an interview with the 46th president ahead of the release of...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-11-11T17:53:59+00:00",
-    "date_str": "Nov 11, 2026"
-  },
-  {
-    "title": "The U.S. may soon lose measles elimination status",
-    "url": "https://www.statnews.com/2026/11/11/health-news-us-may-soon-lose-measles-elimination-status/?utm_campaign=rss",
-    "summary": "A regional WHO body will hold a four-day meeting determining whether the U.S. has maintained measles elimination. All signs point to no:",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-11T12:56:13+00:00",
-    "date_str": "Nov 11, 2026"
-  },
-  {
-    "title": "STAT+: MDCalc launches a ‘rumble strip’ for doctors using generative AI tools",
-    "url": "https://www.statnews.com/2026/11/11/mdcalc-launches-crosscover-rumble-strip-for-clinical-ai-chatbots/?utm_campaign=rss",
-    "summary": "MDCalc, a medical reference tool site, is launching CrossCover, a tool meant to help clinicians trust the answers of medical AI chatbots.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-11T09:30:00+00:00",
-    "date_str": "Nov 11, 2026"
-  },
-  {
-    "title": "STAT+: Doctors on Kennedy’s influential preventive care panel have major conflicts of interest, filings reveal",
-    "url": "https://www.statnews.com/2026/11/11/kennedy-hhs-preventive-care-panel-conflict-interest-waivers/?utm_campaign=rss",
-    "summary": "Federal health officials granted blanket ethics waivers to USPSTF panel members, some of whom own pharma stocks and private medical practices.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-11T09:30:00+00:00",
-    "date_str": "Nov 11, 2026"
-  },
-  {
-    "title": "A new tactic in the war over out-of-network bills: Health care providers are suing employers",
-    "url": "https://www.statnews.com/2026/11/11/no-surprises-act-phi-health-air-ambulance-sues-employers/?utm_campaign=rss",
-    "summary": "Providers increasingly are suing employers, claiming they are responsible for out-of-network medical bills that insurers haven’t fully paid or have delayed paying.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-11T09:30:00+00:00",
-    "date_str": "Nov 11, 2026"
-  },
-  {
-    "title": "Opinion: Low-income parents can’t afford to take chances with nutritious food their picky eaters might reject",
-    "url": "https://www.statnews.com/2026/11/11/picky-eating-kids-low-income-families-snap-wic/?utm_campaign=rss",
-    "summary": "“Children's food refusals come at a cost — one that few cash-strapped families can afford,” experts write.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-11T09:30:00+00:00",
-    "date_str": "Nov 11, 2026"
-  },
-  {
-    "title": "Ebola tops 11,000 cases in Congo's deadliest outbreak",
-    "url": "https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak",
-    "summary": "Congo's Ebola outbreak has topped 11,000 cases, the government said Wednesday, a stark figure that underscores the severity of the situation as the country grapples with the relentless spread of the disease.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-11T09:16:01+00:00",
-    "date_str": "Nov 11, 2026"
-  },
-  {
-    "title": "Rheumatoid Arthritis Does Not Improve the Menopause Experience",
-    "url": "https://www.medpagetoday.com/meetingcoverage/acr/123824",
-    "summary": "(MedPage Today) -- ORLANDO -- Women with rheumatoid arthritis (RA) had a worse menopause experience compared with the non-RA individuals going through the transition, a researcher reported here. Symptom severity, as evaluated with the Menopause...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-11T13:03:39+00:00",
-    "date_str": "Nov 11, 2026"
-  },
-  {
-    "title": "Amazon Web Services commits $100M to AI, cloud tech health initiatives over next 5 years",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/amazon-web-services-commits-100m-ai-cloud-tech-initiatives-over-next-5",
-    "summary": "The funds are part of the AWS Health Impact Initiative, a five-year program, announced Monday.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-11T13:37:19.948744+00:00",
-    "date_str": "Nov 11, 2026"
-  },
-  {
-    "title": "Stephen Miller’s appointment energizes RFK Jr. and his MAHA allies",
-    "url": "https://www.politico.com/news/2026/11/11/stephen-miller-chief-maha-rfk-wiles-01159518",
-    "summary": "The health secretary says Miller’s ascension to Trump chief of staff will “unleash the Kraken.”",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-11T10:00:00+00:00",
-    "date_str": "Nov 11, 2026"
-  },
-  {
-    "title": "Former FDA head accuses Trump administration of bowing to industry",
-    "url": "https://www.politico.com/news/2026/11/11/former-fda-head-accuses-trump-administration-of-bowing-to-industry-01160138",
-    "summary": "Marty Makary said he “rejected” corruption during his brief tenure.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-11T09:45:00+00:00",
-    "date_str": "Nov 11, 2026"
-  },
-  {
-    "title": "Oura Buys Counsel for $625M, But Will Payers and Consumers Get on Board?",
-    "url": "https://medcitynews.com/2026/11/ouras-buys-counsel-for-625m-but-will-payers-and-consumers-get-on-board/",
-    "summary": "Oura will be integrating Counsel Health’s clinical AI and virtual care into its app, but will payers and employers cover the Oura ring as a benefit? And will consumers sign on to pay a much more expensive monthly subscription for AI-enabled medical insights and access to licensed physicians? The post Oura Buys Counsel for $625M, But Will Payers and Consumers Get on Board? appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-11T00:12:49+00:00",
-    "date_str": "Nov 11, 2026"
-  },
-  {
-    "title": "STAT+: Democrats take new step toward investigating Trump’s drug pricing deals",
-    "url": "https://www.statnews.com/2026/11/10/democrats-investigate-most-favored-nation-deals-letters-drugmakers/?utm_campaign=rss",
-    "summary": "Incoming Democratic chairs of key committees have taken a step toward investigating MFN drug pricing agreements between drugmakers and the Trump administration.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-10T23:55:00+00:00",
-    "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "HHS Vaccine Task Force Misses Report Deadline",
-    "url": "https://www.medpagetoday.com/infectiousdisease/vaccines/123823",
-    "summary": "(MedPage Today) -- Now that the deadline has passed for an HHS vaccine task force to issue its report on the timing and sequencing of vaccines, public health advocates are concerned about what happens when the report eventually comes out. \"The...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-10T22:20:54+00:00",
-    "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "Novel siRNA Therapeutic Cuts Liver Fat in MASLD, Early Trial Shows",
-    "url": "https://www.medpagetoday.com/meetingcoverage/aasld/123822",
-    "summary": "(MedPage Today) -- One dose of a novel small interfering RNA (siRNA) therapy -- CIDEBsiRNA (also known as ALN-CIDEB) -- led to normal liver fat content and lower alanine aminotransferase (ALT) levels in most patients with metabolic dysfunction...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-10T22:07:14+00:00",
-    "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "RFK Jr. Is Ushering in Peptides. As an Oncologist, Here Are My Concerns.",
-    "url": "https://www.medpagetoday.com/opinion/second-opinions/123812",
-    "summary": "(MedPage Today) -- On July 13, 2025, at a Las Vegas hotel hosting the Revolution Against Aging and Death Festival, two women were taken away in ambulances. Both had received injections containing experimental peptides at a conference booth. Both...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-10T18:12:30+00:00",
-    "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "Another Drug Shows Potential for Functional Cures in Chronic Hepatitis B",
-    "url": "https://www.medpagetoday.com/meetingcoverage/aasld/123809",
-    "summary": "(MedPage Today) -- Reductions in hepatitis B surface antigen (HBsAg) were observed with a novel small interfering RNA (siRNA) therapy in patients with chronic hepatitis B virus (HBV) infection, according to a phase II study. Among patients randomized...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-10T17:03:39+00:00",
-    "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "Nanobody Shows Promise in Myasthenia Gravis",
-    "url": "https://www.medpagetoday.com/meetingcoverage/aanemvideopearls/123808",
-    "summary": "(MedPage Today) -- Results from the phase III PREVAIL trial presented at the American Association of Neuromuscular & Electrodiagnostic Medicine annual meeting showed that treatment with the investigational once-weekly nanobody gefurulimab significantly...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-10T16:28:49+00:00",
-    "date_str": "Nov 10, 2026"
-  },
-  {
-    "title": "CAR-T Therapy: Mixed Results in Rheumatoid Arthritis Trial",
-    "url": "https://www.medpagetoday.com/meetingcoverage/acr/123807",
-    "summary": "(MedPage Today) -- ORLANDO -- Rheumatoid arthritis (RA) may not be as amenable to chimeric antigen receptor (CAR) T-cell therapy as has been the case in lupus and certain other autoimmune conditions, research presented here suggested. Among...",
-    "source": "MedPageToday.com - medical news for physicians",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-10T16:27:17+00:00",
-    "date_str": "Nov 10, 2026"
   }
 ]
