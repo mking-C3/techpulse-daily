@@ -1,5 +1,55 @@
 [
   {
+    "title": "After Nepal's epic flood, they're restoring their community ... and their lives",
+    "url": "https://www.npr.org/2026/11/18/nx-s1-6022034/flood-nepal-survival-climate-change",
+    "summary": "As the emergency response to the flood ends, aid workers turn to the hard work of rebuilding communities that lost everything. Many of those workers lost everything, too.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-18T22:01:17+00:00",
+    "date_str": "Nov 18, 2026"
+  },
+  {
+    "title": "No Link Between Gout Flares and Cardiovascular Events in CARES Analysis",
+    "url": "https://www.medpagetoday.com/meetingcoverage/acrvideopearls/123944",
+    "summary": "(MedPage Today) -- A secondary analysis of the randomized CARES trial, presented at the American College of Rheumatology annual meeting, found no association between gout flares and subsequent cardiovascular events among patients receiving treat...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-18T16:02:03+00:00",
+    "date_str": "Nov 18, 2026"
+  },
+  {
+    "title": "Bernie Sanders Unveils His Plan to Push 'Medicare for All' When Democrats Take Power",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/medicare/123943",
+    "summary": "(MedPage Today) -- Sen. Bernie Sanders (I-Vt.) is preparing to use his return atop a powerful Senate committee to push for sweeping changes to the nation's healthcare system, setting up an early test of how far Democrats are willing to go in embracing...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-18T15:24:45+00:00",
+    "date_str": "Nov 18, 2026"
+  },
+  {
+    "title": "7 Deaths Linked to Medical Beds; Leukemia Vaccine Success; Butt Lift Tissue Sourcing",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/productalert/123942",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. Medline beds, rails, mattresses, and accessories recalled over potential fire and entrapment hazards have been linked with seven deaths and 35 serious injuries...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-18T14:34:04+00:00",
+    "date_str": "Nov 18, 2026"
+  },
+  {
+    "title": "Frozen dessert bars recalled over undeclared allergens",
+    "url": "https://thehill.com/policy/healthcare/6228489-frozen-dessert-bars-recalled-over-undeclared-allergens/",
+    "summary": "So far, no illnesses have been reported in connection with the recalled product.",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-11-19T00:00:52+00:00",
+    "date_str": "Nov 19, 2026"
+  },
+  {
     "title": "Hone Health Secures $228M for Longevity Platform",
     "url": "https://medcitynews.com/2026/11/hone-health-secures-228m-for-longevity-platform/",
     "summary": "Hone Health’s funding includes $28 million in equity as Series A financing, as well as $200 million in growth financing from General Catalyst’s Customer Value Fund. The post Hone Health Secures $228M for Longevity Platform appeared first on MedCity News .",
@@ -2347,56 +2397,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-11-13T17:55:00+00:00",
-    "date_str": "Nov 13, 2026"
-  },
-  {
-    "title": "STAT+: Up and down the ladder: The latest comings and goings",
-    "url": "https://www.statnews.com/pharmalot/2026/11/13/up-down-ladder-jobs-pharma-biotech-2/?utm_campaign=rss",
-    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-13T15:48:14+00:00",
-    "date_str": "Nov 13, 2026"
-  },
-  {
-    "title": "STAT+: HHS plans funding for research into ibogaine for PTSD",
-    "url": "https://www.statnews.com/2026/11/13/biotech-news-hhs-funding-for-research-into-ibogaine-for-ptsd/?utm_campaign=rss",
-    "summary": "The Trump administration will funnel up to $4.9 million into supporting research into ibogaine, a psychedelic that’s drawn interest as a potential treatment for PTSD and addiction.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-13T15:25:46+00:00",
-    "date_str": "Nov 13, 2026"
-  },
-  {
-    "title": "Opinion: New organ donation rules are unfair to families",
-    "url": "https://www.statnews.com/2026/11/13/organ-donation-policy-life-sustaining-treatment-brain-death/?utm_campaign=rss",
-    "summary": "New organ donation rules may “blur the line between the physicians fighting to save a patient's life and the teams responsible for organ procurement.”",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-13T14:59:54+00:00",
-    "date_str": "Nov 13, 2026"
-  },
-  {
-    "title": "Brain implant startup pauses trials",
-    "url": "https://www.statnews.com/2026/11/13/health-news-brain-implant-startup-pauses-trials/?utm_campaign=rss",
-    "summary": "Synchron has paused clinical trials of its second-generation brain-computer interface. Leaders say the pause is not safety related.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-13T14:40:32+00:00",
-    "date_str": "Nov 13, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about Lilly conflict questions, a DEA OK for a narcolepsy pill, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/11/13/lilly-conflict-questions-dea-okays-takeda-narcolepsy-pill/?utm_campaign=rss",
-    "summary": "A deal for smart-ring maker Oura to acquire a telehealth company is raising conflict-of-interest questions for Eli Lilly",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-13T14:33:16+00:00",
     "date_str": "Nov 13, 2026"
   }
 ]
