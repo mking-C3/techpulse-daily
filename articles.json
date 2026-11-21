@@ -1,5 +1,45 @@
 [
   {
+    "title": "STAT+: FDA rejects Capricor Therapeutics’ Duchenne therapy, a decision that was a long time coming",
+    "url": "https://www.statnews.com/2026/11/20/fda-rejects-capricor-duchenne-therapy/?utm_campaign=rss",
+    "summary": "The FDA said it had rejected a cell therapy intended for patients with Duchenne muscular dystrophy developed by Capricor Therapeutics.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-20T23:43:53+00:00",
+    "date_str": "Nov 20, 2026"
+  },
+  {
+    "title": "$3,900 GLP-1 Vacation; 'Dr. Blanche's Dispensary' Scrutinized; Outbreak Hits Cruise",
+    "url": "https://www.medpagetoday.com/endocrinology/obesity/123975",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. A woman opened up about her time at a week-long, $3,900 \"GLP-1 Support Experience\" hosted by an island resort. (Today) The FDA announced the launch of a program...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-20T14:26:45+00:00",
+    "date_str": "Nov 20, 2026"
+  },
+  {
+    "title": "CMS issues Medicare Advantage proposals aimed at boosting competition",
+    "url": "https://www.fiercehealthcare.com/regulatory/cms-issues-medicare-advantage-proposals-aimed-boosting-competition",
+    "summary": "The Trump administration has proposed a slew of changes to Medicare Advantage and Part D designed to \"revitalize care\" in these markets.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-21T05:45:48.009007+00:00",
+    "date_str": "Nov 21, 2026"
+  },
+  {
+    "title": "Virginia reports first measles-related death of 2026",
+    "url": "https://thehill.com/policy/healthcare/6234958-virginia-child-measles-death-elimination-status/",
+    "summary": "A young child in Virginia died after testing positive for measles, the state's health department said Friday, marking the first death tied to the illness in the state this year. The department said the child was aged 0-4 but declined to share further identifying information, such as vaccination status or other details related to the...",
+    "source": "Healthcare News",
+    "category": "Industry News",
+    "category_slug": "industry-news",
+    "date": "2026-11-21T04:20:20+00:00",
+    "date_str": "Nov 21, 2026"
+  },
+  {
     "title": "Democrats Demand Answers From Oz After Delay in $50B Rural Health Awards",
     "url": "https://kffhealthnews.org/rural-health/rural-health-transformation-fund-delays-democrats-demand-answers-mehmet-oz/",
     "summary": "Eighteen congressional Democrats are pressing Centers for Medicare & Medicaid Services chief Mehmet Oz for answers about the $50 billion Rural Health Transformation Program after delays to states’ second-year awards. Their letter calls out an “alarming lack of public transparency.”",
@@ -2358,45 +2398,5 @@
     "category_slug": "drug-coverage",
     "date": "2026-11-17T10:00:00+00:00",
     "date_str": "Nov 17, 2026"
-  },
-  {
-    "title": "J&J’s $2.2B Ollin Buyout Brings Late-Stage Eye Drug; Blackstone Deal Adds Trial Funding",
-    "url": "https://medcitynews.com/2026/11/johnson-johnson-jnj-ollin-biosciences-acquisition-bispecific-antibody-vegf-ang2-wet-amd-dme/",
-    "summary": "Johnson & Johnson’s Ollin Biosciences acquisition comes with a Phase 3-ready bispecific antibody. The companies say this eye drug offers advantages over Vabysmo, a Roche drug approved for wet age-related macular degeneration and diabetic macular edema. The post J&J’s $2.2B Ollin Buyout Brings Late-Stage Eye Drug; Blackstone Deal Adds Trial Funding appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-16T18:55:25+00:00",
-    "date_str": "Nov 16, 2026"
-  },
-  {
-    "title": "The Permanente Medical Group Launches Innovation Company To Commercialize Clinicians’ Ideas",
-    "url": "https://medcitynews.com/2026/11/the-permanente-medical-group-launches-innovation-company-to-commercialize-clinicians-ideas/",
-    "summary": "Kaiser Permanente’s physician organization, the largest physician-led medical group in the country, is launching a healthcare innovation company meant to help grow clinicians’ ideas into healthcare realities. The post The Permanente Medical Group Launches Innovation Company To Commercialize Clinicians’ Ideas appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-16T16:00:00+00:00",
-    "date_str": "Nov 16, 2026"
-  },
-  {
-    "title": "Innovative Health Tech and MedTech Grabs the Spotlight at INVEST Digital Health",
-    "url": "https://medcitynews.com/2026/11/invest-digital-health-spotlights-innovative-health-tech-and-medtech-at-invest-digital-health/",
-    "summary": "[Sponsored] The Innovation Showcase at the Dallas conference included technology to objectively assess pain, as well as startups seeking to speed up diagnosis of endometriosis, improve the way we communicate and precision nutrition. The post Innovative Health Tech and MedTech Grabs the Spotlight at INVEST Digital Health appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-16T12:30:00+00:00",
-    "date_str": "Nov 16, 2026"
-  },
-  {
-    "title": "STAT+: New Trump regulation promises to crush ‘fraudsters.’ All the savings come from Medicare Advantage",
-    "url": "https://www.statnews.com/2026/11/16/cms-proposes-more-agressive-audits-medicare-advantage-crush/?utm_campaign=rss",
-    "summary": "New Trump regulation promises to crush ‘fraudsters.’ All the savings come from Medicare Advantage.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-16T23:45:36+00:00",
-    "date_str": "Nov 16, 2026"
   }
 ]
