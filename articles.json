@@ -1,5 +1,15 @@
 [
   {
+    "title": "It's Medicare open enrollment time. Here's what you need to know",
+    "url": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
+    "summary": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-22T13:11:04+00:00",
+    "date_str": "Nov 22, 2026"
+  },
+  {
     "title": "Bayer reaches Roundup settlement that could cost the company billions",
     "url": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
     "summary": "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide.",
@@ -2388,15 +2398,5 @@
     "category_slug": "senior-health",
     "date": "2026-11-16T14:37:36+00:00",
     "date_str": "Nov 16, 2026"
-  },
-  {
-    "title": "From pilot to platform: Johns Hopkins researcher on healthcare AI’s next chapter",
-    "url": "https://www.healthcaredive.com/news/from-pilot-to-platform-johns-hopkins-researcher-on-healthcare-ais-next-ch/874708/",
-    "summary": "Ritu Agarwal, a professor of information systems and health at the Johns Hopkins Carey Business School, shares her take on how healthcare organizations can realize AI’s true potential.",
-    "source": "Healthcare Dive - Latest News",
-    "category": "Senior Health",
-    "category_slug": "senior-health",
-    "date": "2026-11-17T15:14:14+00:00",
-    "date_str": "Nov 17, 2026"
   }
 ]
