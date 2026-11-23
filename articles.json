@@ -1,5 +1,305 @@
 [
   {
+    "title": "‘Smart’ Implants Are Driving Up Health Costs — Even When Patients Don’t Ask for Them",
+    "url": "https://kffhealthnews.org/health-industry/smart-joint-implants-knees-health-costs-patients-surprised/",
+    "summary": "Two patients are suing after allegedly waking from knee replacement surgery and learning they’d received “smart” joints, capable of transmitting data. Researchers say their usefulness is unproven, yet Medicare and private insurers pay doctors to monitor such devices.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-23T10:00:00+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "‘Medicare for All’ Is Back on Drawing Board. Does It Stand a Better Chance This Time?",
+    "url": "https://kffhealthnews.org/insurance/congress-democrats-medicare-for-all-unity-challenge-universal-healthcare/",
+    "summary": "Some incoming lawmakers told voters they’d fight for universal, government-funded health coverage. Julie Rovner, KFF Health News’ chief Washington correspondent, writes about what the coming health debate has in common with past fights — and something that’s different this time around.",
+    "source": "KFF Health News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-23T10:00:00+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "Your Series B Proved Investors Believe You — It Won’t Prove Anything to a Payer",
+    "url": "https://medcitynews.com/2026/11/your-series-b-proved-investors-believe-you-it-wont-prove-anything-to-a-payer/",
+    "summary": "Here are some steps forward-thinking digital health companies can take to prepare for payer negotiations. The post Your Series B Proved Investors Believe You — It Won’t Prove Anything to a Payer appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-23T14:22:00+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "How Can You Capture More of the Revenue You’ve Already Earned?",
+    "url": "https://medcitynews.com/2026/11/how-can-specialty-practices-capture-more-revenue/",
+    "summary": "[Sponsored] In an interview at the HLTH conference, Rob Ware, ModMed Senior Vice President and General Manager of RCM, explained how its software works and the value it offers specialty practices. The post How Can You Capture More of the Revenue You’ve Already Earned? appeared first on MedCity News .",
+    "source": "MedCity News",
+    "category": "Medicare News",
+    "category_slug": "medicare-news",
+    "date": "2026-11-23T14:16:09+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "STAT+: A big win for a potential competitor for Dupixent eczema treatment",
+    "url": "https://www.statnews.com/2026/11/23/biotech-news-a-big-win-for-potential-dupixent-competitor-eczema-treatment/?utm_campaign=rss",
+    "summary": "Kymera Therapeutics has a shot at giving eczema patients Dupixent-like relief in a pill, a new 244-patient Phase 2 trial finds:",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-23T14:43:21+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Capricor’s Duchenne drug, Lilly’s 15th acquisition of 2026, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/11/23/fda-rejects-capricor-duchenne-drug-lilly-acquires-loqus23-therapeutics/?utm_campaign=rss",
+    "summary": "The FDA again rejected a hotly debated experimental Duchenne muscular dystrophy drug from Capricor Therapeutics",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-23T14:38:08+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "At first preventive services panel meeting in more than a year, votes are cast in private",
+    "url": "https://www.statnews.com/2026/11/23/health-news-preventive-services-panel-votes-cast-in-private/?utm_campaign=rss",
+    "summary": "In its first meeting since 2025, an influential panel of doctors evaluating preventive medical care grappled with the ways RFK Jr. has upended science and medicine:",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-23T13:04:19+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "STAT+: Invivyd reports positive results in Sisyphean Covid antibody quest",
+    "url": "https://www.statnews.com/2026/11/23/invivyd-covid-monoclonal-antibody-declaration-trial-vyd2311/?utm_campaign=rss",
+    "summary": "The biotech Invivyd reported that its monoclonal antibody strongly protected people from Covid. Is there a market for it?",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-23T12:01:00+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "STAT+: Kymera Therapeutics reports mid-stage eczema trial success for would-be Dupixent rival",
+    "url": "https://www.statnews.com/2026/11/23/kymera-therapeutics-eczema-trial-success-potential-dupixent-rival/?utm_campaign=rss",
+    "summary": "Kymera Therapeutics announced on Monday that its experimental therapy effectively and safely treated eczema patients’ itchy, inflamed skin.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-23T12:00:00+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "STAT+: New biotech aims to develop next generation CAR-T for multiple myeloma",
+    "url": "https://www.statnews.com/2026/11/23/caronilex-dual-targeting-car-t-overcomes-myeloma-resistance/?utm_campaign=rss",
+    "summary": "Relapse in multiple myeloma is common. A new type of CAR-T aims to avoid that by adding a target to evade the tumor.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-23T09:30:00+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "Opinion: If the AI bubble bursts, it could create a serious problem for health care",
+    "url": "https://www.statnews.com/2026/11/23/ai-bubble-medical-artificial-intelligence-health/?utm_campaign=rss",
+    "summary": "“A health AI company's market value and the medical value of its technology are two different things,” writes David Adler.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-23T09:30:00+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "STAT+: A string of wins with cancer drugs sets Genmab up for its next chapter",
+    "url": "https://www.statnews.com/2026/11/23/genmab-cancer-drugs-oncology-clinical-trials/?utm_campaign=rss",
+    "summary": "The Danish biotech Genmab in on a roll with cancer drugs, with success in three late-stage clinical trials over the course of a month.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-23T09:30:00+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "Opinion: A Chinese research entity FOIA’d my scientific work. I had to give it to them",
+    "url": "https://www.statnews.com/2026/11/23/foia-scientific-research-china-legal-loophole/?utm_campaign=rss",
+    "summary": "A $25 fee and simple online FOIA request gave a Chinese “consultant” access to this writer’s scientific research.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-23T09:30:00+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "As diabetes association’s turmoil continues, what does it mean for patients?",
+    "url": "https://www.statnews.com/2026/11/23/ada-convention-fallout-will-turmoil-impact-patients-research/?utm_campaign=rss",
+    "summary": "The American Diabetes Association has made concrete differences in patient care in the past. Its disarray has experts worried about the future.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-23T09:30:00+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "'Medicare for all' is back on the drawing board. Does it stand a better chance this time?",
+    "url": "https://www.npr.org/2026/11/23/nx-s1-6047706/health-medicare-for-all-chances",
+    "summary": "Several newly elected Democratic U.S. senators campaigned on Medicare for All. Could this be the time it actually gets traction?",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-23T16:00:49+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "Mushroom supplements promise health benefits. What does the science say?",
+    "url": "https://www.npr.org/2026/11/23/nx-s1-6047791/mushroom-supplements-health-research",
+    "summary": "Wellness influencers say mushroom supplements can help with your gut health, focus and immune system. Here is where research suggests there are some links.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-23T10:00:00+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "Immune System 'Reset' Eyed for Spondyloarthritis",
+    "url": "https://www.medpagetoday.com/spotlight/acr-spa/124007",
+    "summary": "(MedPage Today) -- In the search for specific drivers and therapeutic targets of axial spondyloarthritis (axSpA), researchers have found great promise in certain T cells. The field has long confronted a scientific conundrum: How come HLA-B27 is...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-23T16:32:13+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "A Doctor's Moment of Thanks",
+    "url": "https://www.medpagetoday.com/opinion/patientcenteredmedicalhome/124005",
+    "summary": "(MedPage Today) -- Instead of my usual column this week, I thought I'd offer a partial list of the things I'm thankful for. As usually happens with this kind of list, there are always things and people we forget to thank. Just think of the Academy...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-23T16:18:50+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "Newer COPD Diagnostic Criteria Highlight Challenges Capturing Subclinical Cases",
+    "url": "https://www.medpagetoday.com/pulmonology/smokingcopd/124006",
+    "summary": "(MedPage Today) -- A new multidimensional diagnostic schema for chronic obstructive pulmonary disease (COPD) performed at least on par with GOLD criteria in a population-based cohort study. While both schemas picked up a similar number of patients...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-23T16:11:49+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "He Thought It Was a Muscle Strain. Then, Doctors Raced to Save His Leg.",
+    "url": "https://www.medpagetoday.com/casestudies/emergencymedicine/124004",
+    "summary": "(MedPage Today) -- A 50-year-old recreational skier noticed pain in his calf after a collision with another skier, although he was able to ski down the mountain afterward. But an hour later, he presented to the emergency medical center at the base...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-23T15:40:46+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "Stop Washing the Turkey. If You Want a Safe Thanksgiving, Here's What to Do Instead.",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/124003",
+    "summary": "(MedPage Today) -- Ready or not, the holidays are here. It's a time when many Americans accustomed to preparing simple meals find themselves responsible for safely serving multi-dish feasts. It's no easy task. Outbreaks of some types of food poisoning...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-23T15:19:10+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "Virginia Reports Young Child Is the State's First Measles Death in 2026",
+    "url": "https://www.medpagetoday.com/pediatrics/generalpediatrics/124002",
+    "summary": "(MedPage Today) -- A young child has died in Virginia after testing positive for measles, officials said, the first deadly case in the state this year. The Virginia Department of Health reported the death Friday, saying only that the child was...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-23T14:59:25+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "GLP-1 Drugs May Have Benefits for Some Schizophrenia Patients",
+    "url": "https://www.medpagetoday.com/spotlight/schizophrenia/124001",
+    "summary": "(MedPage Today) -- Despite decades of development of antipsychotic treatments, preventing relapse and acute psychiatric crises remains a major challenge in schizophrenia care. Because metabolic disturbances are increasingly recognized as potential...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-23T14:49:00+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "UnitedHealth Sues the U.S.; Chaos at USPSTF Meeting; Antisemitism in Medical Schools",
+    "url": "https://www.medpagetoday.com/publichealthpolicy/healthpolicy/124000",
+    "summary": "(MedPage Today) -- Note that some links may require registration or subscription. UnitedHealth Group sued the U.S. government after receiving lower star ratings for its Medicare Advantage plans. (Reuters via AOL) In other legal news, an appeals...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-23T14:40:44+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "Tampa General loses 340B lawsuit against Eli Lilly",
+    "url": "https://www.healthcaredive.com/news/tampa-general-loses-340b-lawsuit-against-lilly-over-data-demands/875497/",
+    "summary": "The judge dismissed the case as tensions rise between hospitals and drugmakers over the latter’s efforts to rein in costs and cut duplicate discounts in the 340B program.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-23T16:52:51+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "Feds unveil portal to track No Surprises disputes",
+    "url": "https://www.healthcaredive.com/news/feds-unveil-portal-to-track-no-surprises-disputes/875472/",
+    "summary": "The government is hoping to streamline the much-maligned arbitration process for out-of-network billing by moving it to a centralized platform where entities can track and manage disputes.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-23T15:29:33+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "New maternity coding changes are here. Is your hospital ready?",
+    "url": "https://www.healthcaredive.com/spons/new-maternity-coding-changes-are-here-is-your-hospital-ready/874847/",
+    "summary": "New maternity codes recognize team-based care. Four steps hospitals can take before January.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-23T10:00:00+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "Healthcare’s next decade starts now",
+    "url": "https://www.healthcaredive.com/spons/healthcares-next-decade-starts-now/874703/",
+    "summary": "The decisions healthcare leaders make today will shape the next decade of ambulatory care.",
+    "source": "Healthcare Dive - Latest News",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-23T10:00:00+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "Industry Voices—The case for social prescribing in older adult care",
+    "url": "https://www.fiercehealthcare.com/providers/industry-voices-case-social-prescribing-older-adult-care",
+    "summary": "To truly address the public health epidemic of social isolation among older adults, healthcare providers must be part of the solution, write heads of the Humana Foundation and The John A. Hartford Foundation.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-23T17:28:09.024191+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
+    "title": "Photon pharmacy marketplace integrated with ChatGPT for clinicians",
+    "url": "https://www.fiercehealthcare.com/health-tech/photon-pharmacy-marketplace-integrated-chatgpt-clinicians",
+    "summary": "The patient experience remains the same through Photon. What is new is where the clinician can write a prescription. Clinicians with a Photon account can draft, review and send prescriptions without leaving ChatGPT.",
+    "source": "Fierce Healthcare",
+    "category": "Drug Coverage",
+    "category_slug": "drug-coverage",
+    "date": "2026-11-23T17:28:09.024252+00:00",
+    "date_str": "Nov 23, 2026"
+  },
+  {
     "title": "How Biotech Upstart Beren Turned a Pharma Failure Into a First-in-Class FDA Approval",
     "url": "https://medcitynews.com/2026/11/beren-therapeutics-fda-approval-niemann-pick-type-c-lembaz-adrabetadex-cyclodextrin-npc-pbc/",
     "summary": "FDA approval of Beren Therapeutics’ Lembaz makes it the first therapy for Niemann-Pick disease type C with data showing survival benefit in this rare inherited disorder. The FDA nod is the culmination of a 20-year journey for this molecule, which Beren, a public benefit corporation, plucked from the bankruptcy proceedings of Mallinckrodt. The post How Biotech Upstart Beren Turned a Pharma Failure Into a First-in-Class FDA Approval appeared first on MedCity News .",
@@ -2098,305 +2398,5 @@
     "category_slug": "drug-coverage",
     "date": "2026-11-18T00:34:19.029938+00:00",
     "date_str": "Nov 18, 2026"
-  },
-  {
-    "title": "CMS proposes sweeping Medicare integrity rule it says will save $90B",
-    "url": "https://www.fiercehealthcare.com/regulatory/cms-proposes-sweeping-medicare-integrity-rule-it-says-will-save-90b",
-    "summary": "The Comprehensive Regulations to Uncover Suspicious Healthcare (CRUSH) proposed rule spans Medicare, Medicaid, the Children’s Health Insurance Program (CHIP) and the Health Insurance Marketplace.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-18T00:34:19.029965+00:00",
-    "date_str": "Nov 18, 2026"
-  },
-  {
-    "title": "HLTH 2026: Suki unveils agentic OS to automate complex healthcare workflows",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/suki-launches-agentic-operating-system",
-    "summary": "Executives say Suki OS is built on three pillars: unified AI agents, a partner ecosystem and performance guarantee.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-18T00:34:19.029996+00:00",
-    "date_str": "Nov 18, 2026"
-  },
-  {
-    "title": "How the eClinicalWorks AI-Native Hospital EHR Is Advancing the Next Frontier of Patient Care",
-    "url": "https://www.fiercehealthcare.com/sponsored/how-eclinicalworks-ai-native-hospital-ehr-advancing-next-frontier-patient-care",
-    "summary": "Discover how the eClinicalWorks AI-native hospital EHR uses embedded AI, automation, and connected workflows to boost efficiency and care.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-18T00:34:19.030018+00:00",
-    "date_str": "Nov 18, 2026"
-  },
-  {
-    "title": "How Smarter Healthcare Environments Improve Patient Experience",
-    "url": "https://www.fiercehealthcare.com/sponsored/how-smarter-healthcare-environments-improve-patient-experience",
-    "summary": "Connected facilities, data and technology can reduce friction for patients and support overburdened caregivers",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-18T00:34:19.030037+00:00",
-    "date_str": "Nov 18, 2026"
-  },
-  {
-    "title": "Engaging Medicaid’s Hardest-to-Reach Members Helps Plans Control Medical Spend",
-    "url": "https://www.fiercehealthcare.com/sponsored/engaging-medicaids-hardest-reach-members-helps-plans-control-medical-spend",
-    "summary": "Medicaid’s hardest-to-reach members are often among the costliest. Here’s how plans can engage them, improve care and reduce avoidable spending.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-18T00:34:19.030060+00:00",
-    "date_str": "Nov 18, 2026"
-  },
-  {
-    "title": "Moving healthcare AI from pilot to practice",
-    "url": "https://www.fiercehealthcare.com/sponsored/moving-healthcare-ai-pilot-practice",
-    "summary": "There’s a growing tension between the urgency to innovate and the barriers to enterprise adoption in healthcare. Here's what it takes to move from promising pilots to enterprise-wide deployment.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-18T00:34:19.030092+00:00",
-    "date_str": "Nov 18, 2026"
-  },
-  {
-    "title": "HLTH 2026: Noom pushes deeper into connected health with new wearable, Noom Band",
-    "url": "https://www.fiercehealthcare.com/health-tech/hlth26-noom-expands-metabolic-health-strategy-new-wearable-noom-band",
-    "summary": "The device, called Noom Band, will be bundled into Noom’s existing enterprise partnerships at no additional upfront cost, starting in early 2027. The wearable is also free for Noom Health employer and health plan customers.",
-    "source": "Fierce Healthcare",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-18T00:34:19.030115+00:00",
-    "date_str": "Nov 18, 2026"
-  },
-  {
-    "title": "Democrats blame RFK Jr. after US loses measles-elimination status",
-    "url": "https://www.politico.com/news/2026/11/17/us-loses-measles-elimination-status-democrats-ponder-oversight-01169609",
-    "summary": "An arm of the World Health Organization found that measles is endemic in America for the first time in 26 years.",
-    "source": "Health Care",
-    "category": "Drug Coverage",
-    "category_slug": "drug-coverage",
-    "date": "2026-11-17T17:38:03+00:00",
-    "date_str": "Nov 17, 2026"
-  },
-  {
-    "title": "RFK Jr.: US will 'work to regain' measles elimination status",
-    "url": "https://thehill.com/policy/healthcare/6226425-us-loses-measles-elimination-status/",
-    "summary": "Health and Human Services (HHS) Robert F. Kennedy Jr. said on Tuesday that the U.S. will “work to regain” its measles elimination status after officially losing it. “We will stop measles outbreaks, protect American families, and work to regain U.S. measles elimination status. I continue to recommend MMR vaccination as the most effective way to...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-11-17T22:02:00+00:00",
-    "date_str": "Nov 17, 2026"
-  },
-  {
-    "title": "Democrats go after Trump administration over US losing measles elimination status",
-    "url": "https://thehill.com/policy/healthcare/6225550-democrats-criticize-trump-rfk-measles/",
-    "summary": "Democratic lawmakers are going after the Trump administration after a global health organization announced the U.S. has officially lost its measles-free status. On Tuesday, the U.S. lost its measles elimination status for the first time since it earned the designation more than 25 years ago. In the last two years, the U.S. has racked up...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-11-17T17:41:14+00:00",
-    "date_str": "Nov 17, 2026"
-  },
-  {
-    "title": "US loses measles elimination status after more than 25 years",
-    "url": "https://thehill.com/policy/healthcare/6225090-us-loses-measles-elimination-status/",
-    "summary": "The U.S. on Tuesday officially lost its measles elimination status for the first time since it gained this distinction more than 25 years ago, with a count of more than 7,700 cases in the past two years and more than 10 deaths reported by states since 2025. The Pan American Health Organization (PAHO) made the...",
-    "source": "Healthcare News",
-    "category": "Industry News",
-    "category_slug": "industry-news",
-    "date": "2026-11-17T16:10:14+00:00",
-    "date_str": "Nov 17, 2026"
-  },
-  {
-    "title": "Moving to a New State? Your Healthcare Might Get More Complicated",
-    "url": "https://kffhealthnews.org/insurance/healthq-moving-new-state-new-healthcare-access-insurance/",
-    "summary": "New apartment, new friends, new … healthcare hurdles? Medical matters might not be at the top of your list when moving to a new state. But planning ahead will help you get the health insurance, doctors, and healthcare access you need.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-17T10:00:00+00:00",
-    "date_str": "Nov 17, 2026"
-  },
-  {
-    "title": "‘A Hard Time’ as Federal Cuts Hobble Efforts To Stop Overdoses From Tainted Drugs",
-    "url": "https://kffhealthnews.org/public-health/fentanyl-test-strips-federal-cuts-samhsa-street-drugs-overdose-harm-reduction/",
-    "summary": "Harm reduction proponents say testing street drugs prevents overdoses by allowing people to make more informed decisions about what they’re using, but the Trump administration contends that it promotes drug use.",
-    "source": "KFF Health News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-17T10:00:00+00:00",
-    "date_str": "Nov 17, 2026"
-  },
-  {
-    "title": "Your AI Vendor’s Medical Exam Score Doesn’t Mean What You Think It Does",
-    "url": "https://medcitynews.com/2026/11/your-ai-vendors-medical-exam-score-doesnt-mean-what-you-think-it-does/",
-    "summary": "If health systems want to adopt AI at scale, they need evaluation that is open, reproducible, and continuously updated. That’s also much harder to build in healthcare than in general-purpose AI, for these 3 reasons. The post Your AI Vendor’s Medical Exam Score Doesn’t Mean What You Think It Does appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-17T14:48:00+00:00",
-    "date_str": "Nov 17, 2026"
-  },
-  {
-    "title": "The BCI Race Everyone is Watching May Be the Wrong One",
-    "url": "https://medcitynews.com/2026/11/the-bci-race-everyone-is-watching-may-be-the-wrong-one/",
-    "summary": "The technology race gets the attention. Another race may determine what becomes the new standard of care. The post The BCI Race Everyone is Watching May Be the Wrong One appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-17T14:22:00+00:00",
-    "date_str": "Nov 17, 2026"
-  },
-  {
-    "title": "Medicare Pays For the AI Eye Scan — Nobody Pays For What Comes Next",
-    "url": "https://medcitynews.com/2026/11/medicare-pays-for-the-ai-eye-scan-nobody-pays-for-what-comes-next/",
-    "summary": "Payment isn’t the only barrier, but it shapes all the others. The post Medicare Pays For the AI Eye Scan — Nobody Pays For What Comes Next appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-17T14:18:00+00:00",
-    "date_str": "Nov 17, 2026"
-  },
-  {
-    "title": "Healthcare Startups Highlight Direct-to-Consumer Diagnostics, Digital Twins, and Managing Pharmacy Costs at INVEST Digital Health Conference",
-    "url": "https://medcitynews.com/2026/11/healthcare-startups-highlight-direct-to-consumer-diagnostics-digital-twins-and-managing-pharmacy-costs-at-invest-digital-health-conference/",
-    "summary": "[Sponsored] MedCity News Editor-in-Chief Arundhati Parmar and Reporter Marissa Plescia interviewed a wide range of healthcare startups seeking to address painpoints in healthcare, from digital twin technology to support oncology drug development to alternative payment plans. The post Healthcare Startups Highlight Direct-to-Consumer Diagnostics, Digital Twins, and Managing Pharmacy Costs at INVEST Digital Health Conference appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-17T12:30:00+00:00",
-    "date_str": "Nov 17, 2026"
-  },
-  {
-    "title": "Doc at HLTH: I Can’t Imagine Seeing Patients Without AI",
-    "url": "https://medcitynews.com/2026/11/doc-at-hlth-i-cant-imagine-seeing-patients-without-ai/",
-    "summary": "A part-time urgent care doctor who runs healthcare and life sciences projects at Anthropic as well as other AI experts discussed how AI can boost primary care. The post Doc at HLTH: I Can’t Imagine Seeing Patients Without AI appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-17T05:22:47+00:00",
-    "date_str": "Nov 17, 2026"
-  },
-  {
-    "title": "Noom Introduces Wearable to Support Obesity Care Programs",
-    "url": "https://medcitynews.com/2026/11/noom-introduces-wearable-to-support-obesity-care-programs/",
-    "summary": "Noom is launching a wearable in 2027 to support weight management and metabolic health through health tracking and personalized coaching. The post Noom Introduces Wearable to Support Obesity Care Programs appeared first on MedCity News .",
-    "source": "MedCity News",
-    "category": "Medicare News",
-    "category_slug": "medicare-news",
-    "date": "2026-11-17T03:47:49+00:00",
-    "date_str": "Nov 17, 2026"
-  },
-  {
-    "title": "STAT+: ‘Medicare for More’ gains traction",
-    "url": "https://www.statnews.com/2026/11/17/democrats-new-health-policy-medicare-for-more-stephen-miller-embraces-maha/?utm_campaign=rss",
-    "summary": "Democrats coalesce around a new health care policy, and Trump's new chief of staff embraces MAHA.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-17T15:27:50+00:00",
-    "date_str": "Nov 17, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a Roche breast cancer pill, obesity drugs in children, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/11/17/roche-breast-cancer-pill-obesity-drugs-in-children/?utm_campaign=rss",
-    "summary": "The FDA approved a breast cancer drug from Roche, teeing up the launch of what the company has said could become its top-selling product",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-17T14:25:41+00:00",
-    "date_str": "Nov 17, 2026"
-  },
-  {
-    "title": "NIH’s infectious disease unit has a new head at last",
-    "url": "https://www.statnews.com/2026/11/17/health-news-nih-infectious-disease-unit-has-a-new-head-at-last/?utm_campaign=rss",
-    "summary": "The NIH has been without a permanent director since 2025. Now officials announce that acting director John Powers III will take the helm.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-17T13:27:01+00:00",
-    "date_str": "Nov 17, 2026"
-  },
-  {
-    "title": "STAT+: With $173 million, new startup takes aim at sickle cell",
-    "url": "https://www.statnews.com/2026/11/17/new-startup-developing-novel-sickle-cell-anemia-infusion-no-gene-therapy/?utm_campaign=rss",
-    "summary": "Researchers are seeking a sickle cell treatment as effective as gene therapy, without the drawbacks. This entrepreneur thinks he might have one.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-17T12:00:00+00:00",
-    "date_str": "Nov 17, 2026"
-  },
-  {
-    "title": "STAT+: Sellas’ experimental blood cancer immunotherapy reduced risk of death in clinical trial",
-    "url": "https://www.statnews.com/2026/11/17/sellas-blood-cancer-immunotherapy-succeeds-clinical-trial/?utm_campaign=rss",
-    "summary": "Sellas' experimental blood cancer immunotherapy reduced the risk of death in clinical trial.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-17T12:00:00+00:00",
-    "date_str": "Nov 17, 2026"
-  },
-  {
-    "title": "STAT+: After death in gene therapy trial for a brain disease, progress is reported",
-    "url": "https://www.statnews.com/2026/11/17/capsida-gene-therapy-trial-death-follow-up-investigation/?utm_campaign=rss",
-    "summary": "An unexpected patient death rattled researchers who sought to pierce the blood-brain barrier. Now some think they have a better way of mitigating risks.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-17T09:30:00+00:00",
-    "date_str": "Nov 17, 2026"
-  },
-  {
-    "title": "Flavored nicotine tablets, the tobacco industry’s latest product, worry public health advocates",
-    "url": "https://www.statnews.com/2026/11/17/zyn-melts-tobacco-firms-test-market-nicotine-pouch-alternatives/?utm_campaign=rss",
-    "summary": "The latest product from the tobacco industry is a flavorful nicotine tablet that melts in your mouth, allowing users to get a buzz as discreetly as popping a mint",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-17T09:30:00+00:00",
-    "date_str": "Nov 17, 2026"
-  },
-  {
-    "title": "Opinion: The problem with ‘zero tolerance for bad behavior’ signs at hospitals",
-    "url": "https://www.statnews.com/2026/11/17/hospital-signs-violence-health-care-workers-research-stigma/?utm_campaign=rss",
-    "summary": "“Hospitals do not have to choose between protecting hospital staff and preserving patient/family trust in the institution.”",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-17T09:30:00+00:00",
-    "date_str": "Nov 17, 2026"
-  },
-  {
-    "title": "Faith-based addiction recovery groups don’t often get federal funding. RFK Jr. wants to change that",
-    "url": "https://www.statnews.com/2026/11/17/rfk-jr-federal-funding-faith-based-recovery-groups/?utm_campaign=rss",
-    "summary": "As RFK Jr. pushes federal support for faith-based recovery groups, medical experts express concern over access to addiction medications.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-17T09:30:00+00:00",
-    "date_str": "Nov 17, 2026"
-  },
-  {
-    "title": "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
-    "url": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
-    "summary": "Has your doctor asked whether they can use artificial intelligence to take notes during an exam? It's very popular, and here's how to think through the pros and the cons of the new technology.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-17T11:00:00+00:00",
-    "date_str": "Nov 17, 2026"
-  },
-  {
-    "title": "More people are getting the flu. Should you get a flu shot before you travel?",
-    "url": "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster",
-    "summary": "Thanksgiving is just around the corner, just as millions of Americans are expected to travel for the holidays. Another thing that's upon us? Cold and flu season.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-17T10:00:00+00:00",
-    "date_str": "Nov 17, 2026"
   }
 ]
