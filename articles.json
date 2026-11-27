@@ -1,5 +1,75 @@
 [
   {
+    "title": "STAT+: FDA extends assessment of experimental Vertex kidney drug",
+    "url": "https://www.statnews.com/2026/11/27/fda-vertex-povetacicept-kidney-capricor-duchenne-readout-newsletter/?utm_campaign=rss",
+    "summary": "The FDA is extending its assessment of Vertex's investigational kidney drug, as the company faces questions about potential safety concerns.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-27T16:00:54+00:00",
+    "date_str": "Nov 27, 2026"
+  },
+  {
+    "title": "The stories we’re grateful for this year",
+    "url": "https://www.statnews.com/2026/11/27/favorite-stat-stories-health-news-morning-rounds/?utm_campaign=rss",
+    "summary": "STAT staffers have put together a list of the stories we’re thankful for this year — check out our favorites.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-27T15:49:05+00:00",
+    "date_str": "Nov 27, 2026"
+  },
+  {
+    "title": "STAT+: Here are some health AI conversation starters for the holidays",
+    "url": "https://www.statnews.com/2026/11/27/health-ai-conversation-starters-for-holidays-ai-prognosis/?utm_campaign=rss",
+    "summary": "In this edition of STAT's AI Prognosis: Health stories that can be conversation starters at family gatherings during for the holidays.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-27T14:54:22+00:00",
+    "date_str": "Nov 27, 2026"
+  },
+  {
+    "title": "Pregnancy is the ‘perfect storm’ for eating disorders, but doctors keep missing them",
+    "url": "https://www.statnews.com/2026/11/27/pregnancy-eating-disorders-expanded-doctor-screening-needed/?utm_campaign=rss",
+    "summary": "Many women struggle with eating disorders before and after childbirth, but they often slip through the cracks of the U.S. health care system.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-27T09:30:00+00:00",
+    "date_str": "Nov 27, 2026"
+  },
+  {
+    "title": "Opinion: Montana’s ‘right to try’ law makes patients responsible for bearing costs — and risks",
+    "url": "https://www.statnews.com/2026/11/27/montana-sb-535-right-to-try-questions-risks-costs-insurance/?utm_campaign=rss",
+    "summary": "Montana has become the first state to have its own ‘right to try’ law, but important questions remain, researchers write.",
+    "source": "STAT",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-27T09:30:00+00:00",
+    "date_str": "Nov 27, 2026"
+  },
+  {
+    "title": "12 strategies to cut your risk of dementia. Take this quiz to start",
+    "url": "https://www.npr.org/2026/11/27/nx-s1-6050867/prevent-dementia-alzheimers-your-turn",
+    "summary": "Here's something you can do as you gather with family and friends this holiday season: Take a free, five-minute quiz to assess your brain health. You'll learn simple changes to keep your mind sharp.",
+    "source": "NPR Topics: Health",
+    "category": "Healthcare Policy",
+    "category_slug": "healthcare-policy",
+    "date": "2026-11-27T10:00:00+00:00",
+    "date_str": "Nov 27, 2026"
+  },
+  {
+    "title": "Most Lupus Patients in Remission Can Safely Stop Steroids, Study Finds",
+    "url": "https://www.medpagetoday.com/rheumatology/lupus/124063",
+    "summary": "(MedPage Today) -- For patients with systemic lupus erythematosus (SLE) in remission, flare risk was not increased after stopping all glucocorticoids in a small Italian study. Among 480 SLE patients in a prospectively followed cohort achieving...",
+    "source": "MedPageToday.com - medical news for physicians",
+    "category": "Senior Health",
+    "category_slug": "senior-health",
+    "date": "2026-11-27T16:00:00+00:00",
+    "date_str": "Nov 27, 2026"
+  },
+  {
     "title": "In a fertility advance, engineered molecular glue stabilizes chromosomes in aging eggs",
     "url": "https://www.statnews.com/2026/11/26/fertility-advance-engineered-protein-stabilizes-chromosomes-in-aging-eggs/?utm_campaign=rss",
     "summary": "Researchers engineered a protein system capable of restoring normal chromosome connections in aging mouse eggs, raising hopes of one day improving IVF outcomes",
@@ -2327,76 +2397,6 @@
     "category": "Healthcare Policy",
     "category_slug": "healthcare-policy",
     "date": "2026-11-19T14:21:08+00:00",
-    "date_str": "Nov 19, 2026"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a Merck AI deal, China and the pharma supply chain, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/11/19/merck-isomorphic-ai-deal-china-pharmaceutical-supply-chain/?utm_campaign=rss",
-    "summary": "Merck is entering a research collaboration with Isomorphic Labs, the AI drug designer built on a Nobel-winning technology",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-19T13:36:33+00:00",
-    "date_str": "Nov 19, 2026"
-  },
-  {
-    "title": "Sanders’ ‘Medicare for All’ plan accrues more liberal and moderate support in Congress",
-    "url": "https://www.statnews.com/2026/11/19/health-news-sanders-medicare-for-all-plan-accrues-more-support-in-congress/?utm_campaign=rss",
-    "summary": "Sen. Bernie Sanders pushed back on assumptions that Trump would veto an expanded Medicare plan. “I am not absolutely certain that Trump would not sign it,” he said.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-19T12:59:54+00:00",
-    "date_str": "Nov 19, 2026"
-  },
-  {
-    "title": "STAT+: Merck, Isomorphic Labs partner to develop oncology drug candidates",
-    "url": "https://www.statnews.com/2026/11/19/merck-isomorphic-labs-partner-to-develop-oncology-drug-candidates/?utm_campaign=rss",
-    "summary": "Merck and Isomorphic Labs said they are entering into a research collaboration to discover small molecule candidates in oncology.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-19T11:45:00+00:00",
-    "date_str": "Nov 19, 2026"
-  },
-  {
-    "title": "STAT+: In cancer drug development, the spotlight shifts onto Erasca’s KRAS-targeted treatment",
-    "url": "https://www.statnews.com/2026/11/19/erasca-kras-targeted-treatment-new-data-pancreatic-cancer/?utm_campaign=rss",
-    "summary": "Did the biotech company Erasca find a more potent, better-tolerated pan-RAS cancer drug than Revolution Medicines?",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-19T11:30:00+00:00",
-    "date_str": "Nov 19, 2026"
-  },
-  {
-    "title": "STAT+: Before midterm losses, MAHA spent on itself instead of candidates",
-    "url": "https://www.statnews.com/2026/11/19/maha-pac-how-it-spent-money-insiders-candidates-nonprofit/?utm_campaign=rss",
-    "summary": "MAHA PAC spent more at a D.C. steakhouse than it did on the House race of a key ally.",
-    "source": "STAT",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-19T09:30:00+00:00",
-    "date_str": "Nov 19, 2026"
-  },
-  {
-    "title": "The 'Magic Six': How to strengthen your marriage in midlife",
-    "url": "https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships",
-    "summary": "How do we maintain healthy romantic relationships as we age? Allison Aubrey and Scott Detrow talk about about the science of healthy, later-in-life relationships.",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-19T18:28:23+00:00",
-    "date_str": "Nov 19, 2026"
-  },
-  {
-    "title": "World Toilet Day is a funny idea with a serious goal: A world awash in toilets",
-    "url": "https://www.npr.org/2026/11/19/g-s1-154159/world-toilet-day-gender-equality-menstruation",
-    "summary": "Yahoo for the loo! November 19 marks the 25th anniversary of World Toilet Day. The theme this year: \"Sanitation and Gender Equality: Safe Toilets, Equal Futures.\"",
-    "source": "NPR Topics: Health",
-    "category": "Healthcare Policy",
-    "category_slug": "healthcare-policy",
-    "date": "2026-11-19T12:26:31+00:00",
     "date_str": "Nov 19, 2026"
   }
 ]
